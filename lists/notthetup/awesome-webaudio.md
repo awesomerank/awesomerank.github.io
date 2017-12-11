@@ -49,7 +49,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Beet.js ★42 ⏳1Y](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
 - [AudioKeys ★104 ⏳2Y](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
 - [smoothfade ★18](https://github.com/notthetup/smoothfade) - A library for smoothly fading between two AudioNodes.
-- [web-audio-test-api ★58 ⏳1Y](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI.
+- [web-audio-test-api ★58 ⏳2Y](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI.
 - [virtual-audio-graph ★111](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
 - [javascript-karplus-strong ★198 ⏳2Y](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
 - [XSound.js ★46](https://github.com/Korilakkuma/XSound) - Full stack library.
@@ -65,7 +65,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [web-audio-recorder-js ★204 ⏳1Y](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
 - [audiolet ★857 ⏳1Y](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
 - [playnote ★1](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
-- [Recorderjs ★2398](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
+- [Recorderjs ★2459](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
+- [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance.
 
 ### Utilities
 - [resampler ★14 ⏳2Y](https://github.com/notthetup/resampler) - A utility for resampling audio.

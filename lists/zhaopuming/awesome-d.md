@@ -232,7 +232,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 * [arsd ★297](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 * [cmsed ★16 ⏳2Y](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
-* [diamond ★11](https://github.com/DiamondMVC/Diamond) - Powerful MVC / Template Framework inspired by ASP.NET, based on vibe.d
+* [diamond ★25](https://github.com/DiamondMVC/Diamond) - Powerful MVC / Template Framework inspired by ASP.NET, based on vibe.d
 
 *RPC library*
 * [Hprose ★22 ⏳1Y](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now.

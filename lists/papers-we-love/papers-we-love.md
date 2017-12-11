@@ -20,6 +20,7 @@ If you enjoy the papers, perhaps stop by a local chapter meetup and join in on t
 Here are our official chapters. Let us know if you are interested in [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) in your city!
 
 * [Amsterdam](http://www.meetup.com/papers-we-love-amsterdam/)
+* [Athens](https://www.meetup.com/Papers-We-Love-Athens)
 * [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
 * [Barcelona](https://www.meetup.com/papers-we-love-bcn/)
 * [Belfast](http://www.meetup.com/Papers-We-Love-Belfast/)
@@ -54,6 +55,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
 * [Reykjavík](http://www.meetup.com/Papers-We-Love-Reykjavik)
+* [Rio de Janeiro](https://www.meetup.com/pt-BR/papers-we-love-rio-de-janeiro/)
 * [San Diego](http://www.meetup.com/Papers-We-Love-San-Diego/)
 * [San Francisco](http://www.meetup.com/papers-we-love-too/)
 * [Seattle](http://www.meetup.com/Papers-We-Love-Seattle/)

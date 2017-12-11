@@ -70,7 +70,7 @@ A curated list of Awesome Alfred Workflows.
 ## Productivity
 - [Google Calendar View ★4](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
 - [PDF Tools ★13](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
-- [Things ★12](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
+- [Things ★25](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 
 ## Miscellaneous
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
@@ -99,6 +99,7 @@ A curated list of Awesome Alfred Workflows.
 ## Web
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
 - [IncognitoClone](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
+- [Safari Assistant ★21](https://github.com/deanishe/alfred-safari-assistant) - Browse, open & manipulate Safari bookmarks, history and tabs. Customizable with your own scripts.
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox from Teleosaurs Mail.
 
 ## Helpers

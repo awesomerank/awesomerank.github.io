@@ -37,8 +37,8 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Audio Related Packages
 
-- Total number of packages: 65
-- Python version compatibility:  ![63](http://progressed.io/bar/97?title=python%202) ![55](http://progressed.io/bar/84?title=python%203)
+- Total number of packages: 66
+- Python version compatibility:  ![64](http://progressed.io/bar/97?title=python%202) ![55](http://progressed.io/bar/84?title=python%203)
 
 #### Read-Write
 
@@ -48,7 +48,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [pyAV](https://mikeboers.github.io/PyAV/) [:octocat:](https://mikeboers.github.io/PyAV/) - PyAV is a Pythonic binding for FFmpeg or Libav.
 * [(Py)Soundfile](http://pysoundfile.readthedocs.io/) [:octocat:](https://github.com/bastibe/PySoundFile) [:package:](https://pypi.python.org/pypi/SoundFile) - Library based on libsndfile, CFFI, and NumPy.
 * [pySox](https://github.com/rabitt/pysox) [:octocat: ★67](https://github.com/rabitt/pysox) [:package:](https://pypi.python.org/pypi/pysox/) - Wrapper for sox.
-* [PySynth](http://mdoege.github.io/PySynth) [:octocat: ★161](https://github.com/mdoege/PySynth) - simple midi-to-wav synthesizer.
+* [PySynth](http://mdoege.github.io/PySynth) [:octocat: ★163](https://github.com/mdoege/PySynth) - simple midi-to-wav synthesizer.
 * [tinytag](https://github.com/devsnd/tinytag) [:octocat: ★260](https://github.com/devsnd/tinytag) [:package:](https://pypi.python.org/pypi/tinytag/) - reading music meta data of MP3, OGG, FLAC and Wave files.
 
 #### Transformations - General DSP
@@ -63,7 +63,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [pydub](http://pydub.com) [:octocat: ★2206](https://github.com/jiaaro/pydub) [:package:](https://pypi.python.org/pypi/mdct) - Manipulate audio with a simple and easy high level interface.
 * [pytftb](http://tftb.nongnu.org) [:octocat: ★33](https://github.com/scikit-signal/pytftb) - Implementation of the MATLAB Time-Frequency Toolbox.
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) [:octocat: ★12](https://github.com/bmcfee/pyrubberband) [:package:](https://pypi.python.org/pypi/pyrubberband/) - Wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
-* [PyWavelets](http://pywavelets.readthedocs.io) [:octocat: ★268](https://github.com/PyWavelets/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
+* [PyWavelets](http://pywavelets.readthedocs.io) [:octocat: ★283](https://github.com/PyWavelets/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
 * [Resampy](http://resampy.readthedocs.io) [:octocat: ★51](https://github.com/bmcfee/resampy) [:package:](https://pypi.python.org/pypi/resampy) - Sample rate conversion.
 * [STFT](http://stft.readthedocs.io) [:octocat: ★16 ⏳1Y](https://github.com/nils-werner/stft) [:package:](https://pypi.python.org/pypi/stft) - Standalone package for Short-Time Fourier Transform.
 
@@ -109,6 +109,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [dejavu](http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/)² [:octocat: ★3458](https://github.com/worldveil/dejavu) [:package:](https://pypi.python.org/pypi/PyDejavu) - Audio fingerprinting and recognition.
 * [Madmom](https://madmom.readthedocs.io/en/latest/) [:octocat: ★231](https://github.com/CPJKU/madmom) [:package:](https://pypi.python.org/pypi/madmom) - MIR packages with strong focus on beat detection, onset detection and chord recognition.
 * [mir_eval](http://craffel.github.io/mir_eval/) [:octocat: ★124](https://github.com/craffel/mir_eval) [:package:](https://pypi.python.org/pypi/mir_eval) - Common scores for various MIR tasks. Also includes bss_eval implementation.
+* [msaf](http://pythonhosted.org/msaf/) [:octocat: ★153](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
 * [librosa](http://librosa.github.io/librosa/) [:octocat: ★1518](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
 * [rp_extract](https://github.com/tuwien-musicir/rp_extract)² [:octocat: ★48](https://github.com/tuwien-musicir/rp_extract) - Rhythm Pattern music feature extractor.
 

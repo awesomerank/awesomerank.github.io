@@ -73,7 +73,7 @@ GeoJSON utilities that will make your life easier.
 * [vt-geojson ★39 ⏳1Y](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
 * [wellknown ★125](https://github.com/mapbox/wellknown): convert wkt to geojson
 * [osmtogeojson ★266](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
-* [esri2open ★219 ⏳1Y](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
+* [esri2open ★219 ⏳2Y](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 * [gtfs2geojson](https://github.com/tmcw/gtfs2geojson): convert GTFS transit data to GeoJSON
 * [geoxform](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming csv, shapefile or kml, etc.
 * [supercluster ★448](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.

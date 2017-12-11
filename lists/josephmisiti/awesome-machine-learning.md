@@ -265,7 +265,7 @@ Further resources:
 * [Statistiker ★53 ⏳2Y](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure.
 * [clortex ★163 ⏳2Y](https://github.com/htm-community/clortex) - General Machine Learning library using Numenta’s Cortical Learning Algorithm.
 * [comportex ★126 ⏳1Y](https://github.com/htm-community/comportex) - Functionally composable Machine Learning library using Numenta’s Cortical Learning Algorithm.
-* [cortex ★890](https://github.com/thinktopic/cortex) - Neural networks, regression and feature learning in Clojure.
+* [cortex ★911](https://github.com/thinktopic/cortex) - Neural networks, regression and feature learning in Clojure.
 * [lambda-ml ★28](https://github.com/cloudkj/lambda-ml) - Simple, concise implementations of machine learning techniques and utilities in Clojure.
 
 <a name="clojure-data-analysis"></a>
@@ -752,10 +752,10 @@ on MNIST digits[DEEP LEARNING].
 <a name="ocaml-general-purpose"></a>
 ### General-Purpose Machine Learning
 
-* [Oml ★102](https://github.com/hammerlab/oml) - A general statistics and machine learning library.
+* [Oml ★103](https://github.com/hammerlab/oml) - A general statistics and machine learning library.
 * [GPR](http://mmottl.github.io/gpr/) - Efficient Gaussian Process Regression in OCaml.
 * [Libra-Tk](http://libra.cs.uoregon.edu) - Algorithms for learning and inference with discrete probabilistic models.
-* [TensorFlow ★117](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
+* [TensorFlow ★121](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
 <a name="perl"></a>
 ## Perl
@@ -939,7 +939,7 @@ be
 * [PyTorch ★9184](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 * [ML-From-Scratch ★7473](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
 * [Edward](http://edwardlib.org/) - A library for probabilistic modeling, inference, and criticism. Built on top of TensorFlow.
-* [xRBM ★22](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
+* [xRBM ★25](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
 * [CatBoost ★2107](https://github.com/catboost/catboost) - Gradient boosting on decision trees library with categorical features support out of the box for Python, R.
 * [stacked_generalization ★64 ⏳1Y](https://github.com/fukatani/stacked_generalization) - Implementation of machine learning stacking technic as handy library in Python.
 
@@ -1084,7 +1084,7 @@ be
 #### General-Purpose Machine Learning
 
 * [Awesome Machine Learning with Ruby ★717](https://github.com/arbox/machine-learning-with-ruby) - Curated list of ML related resources for Ruby.
-* [Ruby Machine Learning ★31 ⏳5Y](https://github.com/tsycho/ruby-machine-learning) - Some Machine Learning algorithms, implemented in Ruby.
+* [Ruby Machine Learning ★31 ⏳6Y](https://github.com/tsycho/ruby-machine-learning) - Some Machine Learning algorithms, implemented in Ruby.
 * [Machine Learning Ruby ★14 ⏳5Y](https://github.com/mizoR/machine-learning-ruby)
 * [jRuby Mahout ★166 ⏳2Y](https://github.com/vasinov/jruby_mahout) - JRuby Mahout is a gem that unleashes the power of Apache Mahout in the world of JRuby.
 * [CardMagic-Classifier ★628 ⏳1Y](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
@@ -1282,7 +1282,7 @@ be
 * [Scalding ★2908](https://github.com/twitter/scalding) - A Scala API for Cascading.
 * [Summing Bird ★1900](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm.
 * [Algebird ★1582](https://github.com/twitter/algebird) - Abstract Algebra for Scala.
-* [xerial ★17](https://github.com/xerial/xerial) - Data management utilities for Scala.
+* [xerial ★17 ⏳1Y](https://github.com/xerial/xerial) - Data management utilities for Scala.
 * [PredictionIO ★10703](https://github.com/apache/incubator-predictionio) - PredictionIO, a machine learning server for software developers and data engineers.
 * [BIDMat ★243](https://github.com/BIDData/BIDMat) - CPU and GPU-accelerated matrix library intended to support large-scale exploratory data analysis.
 * [Flink](http://flink.apache.org/) - Open source platform for distributed stream and batch data processing.

@@ -102,7 +102,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [SecPi ★133](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system.
 - [PiClock ★323](https://github.com/n0bel/PiClock) - Fancy Clock built around a monitor and a Raspberry Pi.
 - [Garage Door Opener ★11](https://github.com/benjefferies/gogo-garage-opener) - Garage door opener using the [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) app to control garage door.
-- [Movel ★64 ⏳1Y](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
+- [Movel ★64 ⏳2Y](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
 - [PiFanTuner ★8 ⏳1Y](https://github.com/winkidney/PIFanTuner) - CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-3.png)
 - [SkyJack](https://samy.pl/skyjack/) - Take over and allow full control over any Parrot AR Drone within wireless distance.
 - [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.

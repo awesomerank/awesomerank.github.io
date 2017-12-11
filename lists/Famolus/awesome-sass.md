@@ -122,7 +122,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Sassdash ★297](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
 - [Juice](http://kylebrumm.com/juice/) - Collection of Sass mixins and functions.
 - [Sass Deprecate ★219](https://github.com/salesforce-ux/sass-deprecate) - Sass mixin that helps managing code deprecation.
-- [Pretty checkbox ★307](https://github.com/lokesh-coder/pretty-checkbox) -  SCSS/CSS library to beautify checkbox and radio buttons.
+- [Pretty checkbox ★480](https://github.com/lokesh-coder/pretty-checkbox) -  SCSS/CSS library to beautify checkbox and radio buttons.
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.

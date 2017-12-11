@@ -182,7 +182,7 @@ title: Awesome Rank for brillout/awesome-redux
  - [reactuate ★495 ⏳1Y](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
  - [react-chrome-extension-boilerplate ★806](https://github.com/jhen0409/react-chrome-extension-boilerplate) - Boilerplate for Chrome Extension React.js project.
  - [universal-redux ★477](https://github.com/bdefore/universal-redux) - Npm package that lets you jump right into coding React and Redux with universal (isomorphic) rendering. Only manage Express setups or Webpack configurations if you want to.
- - [generator-react-aspnet-boilerplate ★254](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
+ - [generator-react-aspnet-boilerplate ★257](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
  - [generator-redux ★251 ⏳1Y](https://github.com/banderson/generator-redux) - CLI tools for Redux: next-gen functional Flux/React with devtools.
  - [generator-react-webpack-redux ★535](https://github.com/stylesuxx/generator-react-webpack-redux) - React Webpack Generator including Redux support.
  - [socrates ★548 ⏳1Y](https://github.com/matthewmueller/socrates) - Small (8kb), batteries-included Redux store to reduce boilerplate and promote good habits.

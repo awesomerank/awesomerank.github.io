@@ -288,7 +288,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CMocka](https://cmocka.org/) - unit testing framework for C with support for mock objects. [Apache2]
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. [LGPL2]
 * [CTest](https://cmake.org/cmake/help/v2.8.8/ctest.html) - The CMake test driver program. [BSD]
-* [fff ★154](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. [MIT]
+* [fff ★157](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. [MIT]
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. [BSD]
 * [Google Test ★6704](https://github.com/google/googletest) - Google C++ Testing Framework. [BSD]
 * [ig-debugheap ★100 ⏳2Y](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. [BSD]
@@ -405,7 +405,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. [Boost]
 * [frozen ★206](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. [GPL & GPL2]
 * [Jansson ★1533](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data. [MIT]
-* [jbson ★24 ⏳1Y](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14. [Boost]
+* [jbson ★24 ⏳2Y](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14. [Boost]
 * [JeayeSON ★96](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. [BSD]
 * [json ★7354](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. [MIT]
 * [JSON++ ★278](https://github.com/hjiang/jsonxx) - A JSON parser in C++. [MIT]
@@ -791,7 +791,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Articles
 *Fantastic C/C++ related articles.*
 
-* [CppCon 2017 Presentation Materials ★559](https://github.com/CppCon/CppCon2017) - CppCon 2017 Presentation Materials.
+* [CppCon 2017 Presentation Materials ★654](https://github.com/CppCon/CppCon2017) - CppCon 2017 Presentation Materials.
 * [CppCon 2016 Presentation Materials ★1346](https://github.com/CppCon/CppCon2016) - CppCon 2016 Presentation Materials.
 * [CppCon 2015 Presentation Materials ★1370](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
 * [CppCon 2014 Presentation Materials ★1841 ⏳1Y](https://github.com/CppCon/CppCon2014) - CppCon 2014 Presentation Materials.

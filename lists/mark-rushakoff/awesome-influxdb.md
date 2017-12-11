@@ -71,7 +71,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [influxdb-logger](https://github.com/codersaur/SmartThings/tree/master/smartapps/influxdb-logger) - SmartApp to log [SmartThings](https://www.smartthings.com/) device attributes to an InfluxDB database
 * [influxdb-sqlserver ★33](https://github.com/zensqlmonitor/influxdb-sqlserver) - Collect Microsoft SQL Server metrics for reporting to InfluxDB and visualize them with Grafana
 * [k6 ★3200](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript
-* [marathon-event-metrics ★1](https://github.com/Wikia/marathon-event-metrics) - a tool for reporting [Marathon](https://mesosphere.github.io/marathon/) events to InfluxDB
+* [marathon-event-metrics ★1 ⏳1Y](https://github.com/Wikia/marathon-event-metrics) - a tool for reporting [Marathon](https://mesosphere.github.io/marathon/) events to InfluxDB
 * [mesos-influxdb-collector ★15 ⏳1Y](https://github.com/kpacha/mesos-influxdb-collector) - Lightweight [mesos](https://mesos.apache.org/) stats collector for InfluxDB
 * [mqforward ★43](https://github.com/shirou/mqforward) - [MQTT](http://mqtt.org/) to influxdb forwarder
 * [ntp_checker ★3](https://github.com/fss1/ntp_checker) - compares internal NTP sources and warns if the offset between servers exceeds a definable (fraction of) seconds

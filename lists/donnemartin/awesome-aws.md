@@ -201,7 +201,7 @@ Related Repos:
 
 * [Repo for Arduino ★74 ⏳1Y](https://github.com/awslabs/aws-sdk-arduino)
 * [Repo for C :fire::fire: ★313](https://github.com/aws/aws-iot-device-sdk-embedded-C)
-* [Repo for JavaScript :fire::fire: ★493](https://github.com/aws/aws-iot-device-sdk-js)
+* [Repo for JavaScript :fire::fire::fire: ★493](https://github.com/aws/aws-iot-device-sdk-js)
 * [Repo for Arduino Yun :fire: ★117 ⏳1Y](https://github.com/aws/aws-iot-device-sdk-arduino-yun)
 * [Docs](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
 

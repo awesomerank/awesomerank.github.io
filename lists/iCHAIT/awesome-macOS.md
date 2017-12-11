@@ -20,6 +20,7 @@ title: Awesome Rank for iCHAIT/awesome-macOS
 - [Applications](#applications)
     - [Audio](#audio)
     - [Backup](#backup)
+    - [Bookmark Utilities](#bookmark-utilities)
     - [Chat Clients](#chat-clients)
     - [Data Recovery](#data-recovery)
     - [Developers](#developers)
@@ -42,6 +43,7 @@ title: Awesome Rank for iCHAIT/awesome-macOS
     - [DevMyMac](#devmymac)
     - [laptop](#laptop)
     - [mac-dev-setup](#mac-dev-setup)
+    - [macbook-playbook](#macbook-playbook)
     - [macOS 10.10 Yosemite](#os-x-1010-yosemite-setup)
     - [macOS 10.11 El Capitan](#os-x-1011-el-capitan-setup)
     - [macOS 10.9 Mavericks](#os-x-109-mavericks-setup)
@@ -97,6 +99,7 @@ title: Awesome Rank for iCHAIT/awesome-macOS
 - [gitbar](https://github.com/Shikkic/gitbar) - Open source github contribution stats on your Menu Bar. [![Open-Source Software][OSS Icon] ★258](https://github.com/Shikkic/gitbar) ![Freeware][Freeware Icon]
 - [GitHub Desktop](https://desktop.github.com/) - A GUI for using GitHub. ![Freeware][Freeware Icon]
 - [GitUp](http://gitup.co/) - A simple but powerful Git macOS app. [![Open-Source Software][OSS Icon] ★6986](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
+- [GitX-dev](https://rowanj.github.io/gitx/) - A fork (variant) of GitX, maintained and enhanced with productivity oriented changes.  [![Open-Source Software][OSS Icon] ★1892 ⏳1Y](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Edit hosts file. [![Open-Source Software][OSS Icon] ★1163](https://github.com/specialunderwear/Hosts.prefpane) ![Freeware][Freeware Icon]
 - [ImageAlpha](https://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon] ★346](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 - [ImageOptim](https://imageoptim.com/mac) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon] ★4387](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
@@ -226,8 +229,7 @@ title: Awesome Rank for iCHAIT/awesome-macOS
 ### Utilities
 
 - [1Password](https://itunes.apple.com/in/app/1password-password-manager/id443987910?mt=12) - Password Manager and Secure Wallet.
-- [Amphetamine](https://itunes.apple.com/app/amphetamine/id937984704) - Prevents macOS from automatically going to sleep, with lots of configurations. ![Freeware][Freeware Icon]
-- [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon] ★4375](https://github.com/tonsky/AnyBar) ![Freeware][Freeware Icon]
+- [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon] ★4375 ⏳1Y](https://github.com/tonsky/AnyBar) ![Freeware][Freeware Icon]
 - [APNGb](https://github.com/mancunianetz/APNGb) - .apng image assembler/disassembler app. [![Open-Source Software][OSS Icon] ★51](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - Uninstall your apps easily. ![Freeware][Freeware Icon]
 - [Arthur](http://arthur-osx.com/) - Safely optimize some of your Mac's hidden settings.
@@ -356,6 +358,12 @@ title: Awesome Rank for iCHAIT/awesome-macOS
 ### mac-dev-setup
 
 * https://github.com/nicolashery/mac-dev-setup
+
+### macbook-playbook
+
+Ansible playbook to configure a development and desktop environment from a clean macOS install.
+
+* https://github.com/mpereira/macbook-playbook
 
 ### macOS 10.9 Mavericks Setup
 

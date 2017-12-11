@@ -76,7 +76,7 @@ title: Awesome Rank for razum2um/awesome-clojure
 ## Web Framework
 
 *Actually don't search rails/django here, but compose them by yourself*
-
+  * [Compojure ★3300](https://github.com/weavejester/compojure)
   * [Web Non-Framework ★17](https://github.com/webnf/webnf)
   * [Luminus](http://www.luminusweb.net/)
   * [Joodo ★3 ⏳3Y](https://github.com/slagyr/joodoweb)
@@ -267,7 +267,7 @@ title: Awesome Rank for razum2um/awesome-clojure
 
 ## Code Analysis and Linter
 
-  * [Slamhound ★376](https://github.com/technomancy/slamhound)
+  * [Slamhound ★376 ⏳1Y](https://github.com/technomancy/slamhound)
   * [eastwood ★746](https://github.com/jonase/eastwood)
   * [kibit ★1333](https://github.com/jonase/kibit)
   * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
@@ -294,7 +294,7 @@ anylysis and visualization.*
 ## Machine Learning
 
   * [clj-ml ★138 ⏳1Y](https://github.com/antoniogarrote/clj-ml)
-  * [cortex ★890](https://github.com/thinktopic/cortex)
+  * [cortex ★911](https://github.com/thinktopic/cortex)
   * [clj-bigml ★48](https://github.com/bigmlcom/clj-bigml)
   * [Clatern ★66 ⏳2Y](https://github.com/rinuboney/clatern)
   * [Deeplearning4j ★7818](https://github.com/deeplearning4j/deeplearning4j)

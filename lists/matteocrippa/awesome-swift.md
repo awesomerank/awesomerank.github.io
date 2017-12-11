@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-951-orange.svg) | December 06, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-955-orange.svg) | December 09, 2017
 
 ### Contributing
 
@@ -382,7 +382,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AwesomeCache ★1084](https://github.com/aschuch/AwesomeCache) - Manage cache easy.
 * [Cache ★955](https://github.com/hyperoslo/Cache) - Nothing but Cache.
-* [Cachyr ★96](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS.
+* [Cachyr ★98](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS.
 * [Carlos ★451](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
 * [EVURLCache ★251](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.
 * [SwiftMemCache ★49 ⏳1Y](https://github.com/ctews/SwiftMemCache) - Memory Cache with namespace & TTL support.
@@ -394,6 +394,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PNChart-Swift ★1226](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation.
 * [ScrollableGraphView ★4078](https://github.com/philackm/ScrollableGraphView) - Adaptive scrollable graph view for iOS to visualise simple discrete datasets.
 * [SwiftChart ★388](https://github.com/gpbl/SwiftChart) - A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.
+* [SwiftCharts ★1496](https://github.com/i-schuetz/SwiftCharts) - Highly customizable charts for iOS.
 * [TKRadarChart ★129](https://github.com/TBXark/TKRadarChart) - A customizable radar chart.
 
 ### Chat
@@ -587,10 +588,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Handle data formatting easily.* [back to top](#readme) 
 
 * [AnyDate ★146](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
+* [Chronology ★745](https://github.com/davedelong/Chronology) - Building a better date/time library.
 * [DateHelper ★867](https://github.com/melvitax/DateHelper) - Simple date helper.
 * [Datez ★206](https://github.com/SwiftKitz/Datez) - Library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.
 * [Datify ★37](https://github.com/hemangshah/Datify) - Easypeasy date functions.
-* [NSDate-Extensions ★1376](https://github.com/erica/NSDate-Extensions) - Practical real-world dates.
+* [NSDate-Extensions ★1376 ⏳1Y](https://github.com/erica/NSDate-Extensions) - Practical real-world dates.
 * [Punctual.swift ★318 ⏳1Y](https://github.com/harlanhaskins/Punctual.swift) :penguin: - Date handler.
 * [SwiftDate ★3393](https://github.com/malcommac/SwiftDate) - Easy NSDate Management.
 * [SwiftMoment ★1495](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
@@ -705,7 +707,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [DBPathRecognizer ★1083](https://github.com/didierbrun/DBPathRecognizer) - db path recognizer for letters.
 * [NiceGesture ★104 ⏳1Y](https://github.com/lacklock/NiceGesture) - Using UIGestureRecognizers in a intuitive way.
-* [PeekPop ★1870](https://github.com/marmelroy/PeekPop) - Framework for backwards-compatible Peek and Pop.
+* [PeekPop ★1870 ⏳1Y](https://github.com/marmelroy/PeekPop) - Framework for backwards-compatible Peek and Pop.
 * [SBShortcutMenuSimulator ★1784 ⏳1Y](https://github.com/DeskConnect/SBShortcutMenuSimulator) - Allow the iPhone Simulator to test 3D Touch.
 * [SwiftyGestureRecognition ★141](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
 * [SwipyCell ★126](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
@@ -784,6 +786,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [JLStickerTextView ★351](https://github.com/luiyezheng/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
 * [KFSwiftImageLoader ★340 ⏳1Y](https://github.com/kiavashfaisali/KFSwiftImageLoader) - An extremely high-performance, lightweight, and energy-efficient async web image loader with memory and disk caching for iOS and  Watch.
 * [Kingfisher ★10207](https://github.com/onevcat/Kingfisher) - Image download and caching.
+* [LetterAvatarKit ★48](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
 * [Lightbox ★207](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app.
 * [MapleBacon ★194](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
 * [Misen ★120](https://github.com/tasanobu/Misen) - A script to support using Xcode Asset Catalog.
@@ -866,6 +869,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [BartyCrouch ★298](https://github.com/Flinesoft/BartyCrouch) - Incrementally update/translate your Strings files from Code and Storyboards/XIBs.
 * [IBLocalizable ★398](https://github.com/PiXeL16/IBLocalizable) - Localize your views directly in Interface Builder with IBLocalizable.
+* [L10n-swift ★25](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
 * [LocalizationKit ★913](https://github.com/willpowell8/LocalizationKit_iOS) - Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app.
 * [Localize-Swift ★1545](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [NoOptionalInterpolation ★41](https://github.com/T-Pham/NoOptionalInterpolation) - Get rid of "Optional(...)" and "nil" in string interpolation. Easy pluralization.
@@ -910,7 +914,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Arithmosophi ★54](https://github.com/phimage/Arithmosophi) - Set of protocols for Arithmetic and Logical operations.
-* [BigInt ★326](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
+* [BigInt ★334](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
 * [DDMathParser ★674](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 * [PlotKit ★31 ⏳1Y](https://github.com/aleph7/PlotKit) - Plots made easy.
 * [SigmaSwiftStatistics ★480](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
@@ -1051,7 +1055,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CryptoSwift ★4631](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers.
 * [IDZSwiftCommonCrypto ★356](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library.
 * [SCrypto ★15](https://github.com/sgl0v/scrypto) - Elegant Swift interface to access the CommonCrypto routines.
-* [Siphash ★193](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
+* [Siphash ★194](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
 * [SweetHMAC ★32 ⏳1Y](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use class to encrypt strings using HMAC algorithms.
 * [Swift-Sodium ★191](https://github.com/jedisct1/swift-sodium) - Interface to the Sodium library for common crypto operations for iOS and OS X.
 * [SwiftSSL ★182 ⏳1Y](https://github.com/SwiftP2P/SwiftSSL) - Crypto toolkit.
@@ -1199,7 +1203,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [LiquidLoader ★1007](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [Macaw ★3187](https://github.com/exyte/macaw) - Powerful and easy-to-use vector graphics library with SVG support.
 * [Magnetic ★695](https://github.com/efremidze/Magnetic) - SpriteKit Floating Bubble Picker (inspired by Apple Music).
-* [Mandoline ★480](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
+* [Mandoline ★602](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
 * [MantleModal ★67](https://github.com/canalesb93/MantleModal) - A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.
 * [Material ★8828](https://github.com/CosmicMind/Material) - Express your creativity with Material, an animation and graphics framework for Google's Material Design and Apple's Flat UI.
 * [MaterialKit ★2502](https://github.com/nghialv/MaterialKit) - Material design components.
@@ -1224,7 +1228,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SectionedSlider ★142](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 * [SelectionDialog ★72](https://github.com/kciter/SelectionDialog) - Simple selection dialog.
 * [ShadowView ★215](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
-* [SkeletonView ★617](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
+* [SkeletonView ★2888](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 * [SKPhotoBrowser ★1373](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers.
 * [SMSwipeableTabView ★28](https://github.com/smahajan28/SMSwipeableTabView) - Fully customizable control which is mixture of UIPageViewController and Scrollable Tab Bar.
 * [Sonar ★101](https://github.com/thefuntasty/Sonar) - Cool radar-style view.
@@ -1306,7 +1310,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NFDownloadButton ★270](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.
 * [PMSuperButton ★378](https://github.com/Codeido/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
 * [SwiftShareBubbles ★154](https://github.com/takecian/SwiftShareBubbles) - Animated social share buttons control for iOS.
-* [TransitionButton ★348](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
+* [TransitionButton ★377](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
 * [TVButton ★946](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
 * [ZFRippleButton ★1291](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
 
@@ -1465,7 +1469,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [BouncyLayout ★2688](https://github.com/roberthein/BouncyLayout) - Collection view layout that makes your cells bounce.
-* [CardsLayout ★203](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+* [CardsLayout ★281](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 * [CenteredCollectionView ★156](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
 * [CollectionViewShelfLayout ★220](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [Drag and Drop UICollectionView ★252](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
@@ -1494,7 +1498,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Persei ★2842](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView.
 * [PullToRefreshSwift ★490](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 * [ReverseExtension ★1158](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enables the insertion of cells the from bottom of a table view.
-* [SectionScrubber ★137](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections.
+* [SectionScrubber ★143](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections.
 * [Shoyu ★263](https://github.com/yukiasai/Shoyu) - Easier way to represent the structure of UITableView.
 * [SwipeCellKit ★2564](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 * [YNExpandableCell ★328](https://github.com/younatics/YNExpandableCell) - Awesome expandable, collapsible tableview cell for iOS.
@@ -1523,7 +1527,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Cormorant ★128](https://github.com/austinzheng/Cormorant) - Clojure(ish) interpreter.
 * [Curry ★371](https://github.com/thoughtbot/Curry) - Function currying.
 * [Dollar ★3764](https://github.com/ankurp/Dollar) - Similar to Lo-Dash or Underscore in Javascript.
-* [ExSwift ★3319](https://github.com/pNre/ExSwift) - Extensions for standard types and classes.
+* [ExSwift ★3319 ⏳1Y](https://github.com/pNre/ExSwift) - Extensions for standard types and classes.
 * [EZSwiftExtensions ★2275](https://github.com/goktugyil/EZSwiftExtensions) - How standard types and classes were supposed to work.
 * [FluxCapacitor ★93](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
 * [Focus ★144](https://github.com/typelift/Focus) - Optics library (includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.

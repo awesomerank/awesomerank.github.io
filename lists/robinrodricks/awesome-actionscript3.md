@@ -93,7 +93,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [FlashPunk ★377 ⏳1Y](https://github.com/useflashpunk/FlashPunk) - Framework to build 2D games. Provides graphics, events, inputs, animation, etc.
 * [Flixel ★1151 ⏳2Y](https://github.com/AdamAtomic/flixel) - Useful base classes that you can extend to make your own game objects.
 * [Tetragon](https://github.com/NothingInteractive/tetragon) - Cross-platform framework to build any kind of game. Provides resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and more.
-* [Pixelizer ★53 ⏳4Y](https://github.com/johanp/Pixelizer) - Component based game engine to build 2D games. Provides rendering, animation, input, etc.
+* [Pixelizer ★53 ⏳5Y](https://github.com/johanp/Pixelizer) - Component based game engine to build 2D games. Provides rendering, animation, input, etc.
 * [AS3isolib ★27 ⏳2Y](https://github.com/as3isolib/as3isolib.v1) - Isometric Library developed to assist in creating isometrically projected games.
 * [IsoHill ★110 ⏳5Y](https://github.com/jadbox/IsoHill-Game-Engine) - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/)).
 * [YCanvas ★119 ⏳3Y](https://github.com/jozefchutka/YCanvas) - High-performance 2D tile renderer and world map renderer.
@@ -283,7 +283,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Video Player
 
 * [Flowplayer ★267 ⏳1Y](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web.
-* [Goplayer ★18 ⏳6Y](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3.
+* [Goplayer ★18 ⏳7Y](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3.
 * [OSFlashVideoPlayer ★104 ⏳6Y](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player.
 * [F4player ★113 ⏳3Y](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player.
 * [dashas ★101 ⏳1Y](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript.

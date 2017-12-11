@@ -313,9 +313,9 @@ If you want to explore this space more deeply, there is a _lot_ of reading mater
 
 * [Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
 * [Machine Learning and Cyber Security - fsecurify](http://web.archive.org/web/20170606105129/http://fsecurify.com/machine-learning-and-cyber-security/)
-* [awesome-ml-for-cybersecurity ★1336](https://github.com/jivoi/awesome-ml-for-cybersecurity)
-* [Awesome-AI-Security ★561](https://github.com/RandomAdversary/Awesome-AI-Security)
-* [awesome-adversarial-machine-learning ★382](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+* [awesome-ml-for-cybersecurity ★1441](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+* [Awesome-AI-Security ★583](https://github.com/RandomAdversary/Awesome-AI-Security)
+* [awesome-adversarial-machine-learning ★473](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 
 ----
 

@@ -15,8 +15,6 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
 based on [awesome-python ★42063](https://github.com/vinta/awesome-python).
 
-> ### [PloneConf 2017](https://2017.ploneconf.org/) - Barcelona Plone Digital Experience Conference (16~22 Oct. 2017)
-
 - [Awesome Pyramid](#awesome-pyramid)
     - [Admin Interface](#admin-interface)
     - [Asset Management](#asset-management)
@@ -186,7 +184,7 @@ based on [awesome-python ★42063](https://github.com/vinta/awesome-python).
   bindings for Pyramid's pshell
 * [pyramid_bpython ★0](https://github.com/Pylons/pyramid_bpython) - bpython
   bindings for Pyramid's pshell
-* [pyramid_pycallgraph ★3 ⏳1Y](https://github.com/disko/pyramid_pycallgraph) - Pyramid tween to generate a callgraph image for every request
+* [pyramid_pycallgraph ★3 ⏳2Y](https://github.com/disko/pyramid_pycallgraph) - Pyramid tween to generate a callgraph image for every request
 
 ## Email
 
@@ -248,6 +246,9 @@ based on [awesome-python ★42063](https://github.com/vinta/awesome-python).
   API framework sitting on top of Pyramid and ElasticSearch
 * [pyramid_swagger ★50](https://github.com/striglia/pyramid_swagger) - Convenient
   tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
+* [pyramid_jsonapi ★9](https://github.com/colinhiggs/pyramid-jsonapi) - Automatically 
+  create a [JSON API](http://jsonapi.org/) standard API from a database using the
+  sqlAlchemy ORM and pyramid framework.
 
 ## Search
 
@@ -296,7 +297,7 @@ provide new storage backends.*
   pyramid-mongoengine package based on flask-mongoengine
 * [pyramid_mongodb ★39 ⏳4Y](https://github.com/niallo/pyramid_mongodb) - 
   Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
-* [pyramid-excel](https://github.com/pyexcel/pyramid-excel) - pyramid-excel is based on [pyexcel ★340](https://github.com/pyexcel/pyexcel) and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
+* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) - pyramid-excel is based on [pyexcel ★340](https://github.com/pyexcel/pyexcel) and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
 
 ## Task Queue
 
@@ -446,7 +447,7 @@ provide new storage backends.*
 * [warehouse ★1306](https://github.com/pypa/warehouse) - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
-* [travelcrm](http://www.travelcrm.org.ua/) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks.
+* [travelcrm ★9 ⏳1Y](https://github.com/mazvv/travelcrm) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks.
 * [RhodeCode](https://rhodecode.com/) - enterprise source code management platform. It applies unified user control, permissions, code reviews, and tool integration across Mercurial, Git, and Subversion repositories. Large and growing software teams all over the world use RhodeCode to collaborate in a secure, behind-the-firewall environment. 
 
 ## Project Management

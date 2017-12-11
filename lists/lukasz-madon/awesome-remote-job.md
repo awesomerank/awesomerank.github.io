@@ -156,6 +156,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
+  1. [Larajobs](https://larajobs.com/?location=&remote=1) – The artisan employment connection
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
@@ -387,6 +388,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [The Grid](http://thegrid.io/) - AI website builder. 100% distributed team.
   1. [Thermeon](http://thermeon.com/jobs.html) - Car rental software - 100% remote technical team
   1. [TimeDoctor](https://www.timedoctor.com/about-us.html) - Time tracking with screenshots, web and app usage monitoring, and integrations.
+  1. [TimeSpot](https://timespothq.com/careers/) - Time tracking and scheduling for employees. Built with React.js, Django, Postgres. 100% remote.
   1. [Toggl](https://jobs.toggl.com/)
   1. [Toptal](https://www.toptal.com/careers) - 100% remote development company, solving worldwide talent shortage
   1. [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - Backpacks for city travel.

@@ -435,7 +435,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exgpg ★11 ⏳2Y](https://github.com/rozap/exgpg) - Use gpg from Elixir.
 * [one_time_pass_ecto ★4](https://github.com/riverrun/one_time_pass_ecto) - One-time password library for Elixir.
 * [pot ★61](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
-* [rsa ★13 ⏳2Y](https://github.com/trapped/elixir-rsa) - `public_key` cryptography wrapper for Elixir.
+* [rsa ★13 ⏳3Y](https://github.com/trapped/elixir-rsa) - `public_key` cryptography wrapper for Elixir.
 * [rsa_ex ★11](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
 * [siphash-elixir](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
 * [tea_crypto ★0 ⏳2Y](https://github.com/keichan34/tea_crypto_erl) - Tiny Encryption Algorithm implementation.
@@ -473,7 +473,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Debugging
 *Libraries and tools for debugging code and applications.*
 
-* [beaker ★272](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
+* [beaker ★272 ⏳1Y](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
 * [booter](https://github.com/eraserewind/booter) - Boot an Elixir application, step by step.
 * [dbg ★118](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
 * [eflame ★249](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
@@ -576,7 +576,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [butler_cage ★1 ⏳2Y](https://github.com/keathley/butler_cage) - A Butler plugin for showing silly photos of Nick Cage.
 * [butler_tableflip ★1 ⏳1Y](https://github.com/keathley/butler_tableflip) - Flipping tables with butler.
-* [dice ★11](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
+* [dice ★11 ⏳1Y](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
 * [elixir_koans ★798](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
 * [ex_chain ★13 ⏳1Y](https://github.com/eljojo/ex_chain) - Simple Markov Chain that generates funny tweets, built using Elixir.
 * [ex_iss ★3 ⏳1Y](https://github.com/cryptobird/ex_iss) - This package is for interfacing with the Open Notify API to information such as the ISS's current location, crew, and when it will pass over a location.
@@ -776,7 +776,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mochiweb ★1567](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
 * [neuron ★49](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 * [plug_wait1 ★1](https://github.com/wait1/plug_wait1) - Plug adapter for the wait1 protocol.
-* [raxx ★86](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
+* [raxx ★97](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 * [river ★65](https://github.com/peburrows/river) - An HTTP/2 client that is lightweight and lightning fast.
 * [scrape ★196](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
 * [spell ★57](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.

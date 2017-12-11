@@ -101,7 +101,7 @@ Created by [gh-md-toc ★148](https://github.com/ekalinin/github-markdown-toc.go
 
 ### Python
 
-- [py2neo ★25](https://github.com/nigelsmall/py2neo) - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line.
+- [py2neo ★25 ⏳1Y](https://github.com/nigelsmall/py2neo) - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line.
 - [neomodel ★327](https://github.com/robinedwards/neomodel) - An Object Graph Mapper (OGM) for the neo4j graph database, built on the awesome py2neo.
 - [BulbFlow](https://github.com/espeed/bulbs) - A Python persistence framework for graph databases like Neo4j, OrientDB and Titan.
 

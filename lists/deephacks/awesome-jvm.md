@@ -9,7 +9,7 @@ title: Awesome Rank for deephacks/awesome-jvm
 ---
 # Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome JVM low level and performance related stuff.
+A curated list of awesome JVM low level, performance and non-framework related stuff.
 
 - [Awesome JVM](#awesome-jvm)
     - [Bytecode](#bytecode)
@@ -279,7 +279,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [perf-map-agent](https://github.com/jrudolph/perf-map-agent) - Generate method mappings to use with the linux `perf` tool.
 * [perfj ★302 ⏳2Y](https://github.com/coderplay/perfj) - Linux perf for java programs.
 * [polarbear ★18 ⏳5Y](https://github.com/Cue/polarbear) - A tool to help diagnose OutOfMemoryError conditions.
-* [Riemann JVM Profiler ★268 ⏳2Y](https://github.com/riemann/riemann-jvm-profiler) - JVM agent which sends function-level profiler telemetry to a Riemann server for analysis, visualization, and storage.
+* [Riemann JVM Profiler ★268 ⏳3Y](https://github.com/riemann/riemann-jvm-profiler) - JVM agent which sends function-level profiler telemetry to a Riemann server for analysis, visualization, and storage.
 * [statsd-jvm-profiler ★249 ⏳1Y](https://github.com/etsy/statsd-jvm-profiler) - JVM agent profiler that sends profiling data to StatsD.
 * [Swiss Java Knife ★1488](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
 * [Takipi](https://www.takipi.com/) - Tells you when and why code breaks in production.

@@ -157,7 +157,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [slimerjs ★2370](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
 * [casperjs ★6935](https://github.com/casperjs/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [zombie ★4700](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
-* [totoro ★546 ⏳2Y](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
+* [totoro ★546 ⏳3Y](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 * [karma ★9184](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
 * [nightwatch ★7422](https://github.com/nightwatchjs/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
 * [intern ★3872](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.

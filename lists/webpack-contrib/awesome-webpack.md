@@ -170,7 +170,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [SystemJS Webpack ★18 ⏳1Y](https://github.com/guybedford/systemjs-webpack-plugin) - Webpack bundling for SystemJS.  -- *Maintainer*: `Guy Bedford` [![Github][githubicon]](https://github.com/guybedford) [![Twitter][twittericon]](https://twitter.com/guybedford)
 - [Gulp Webpack Stream ★1019](https://github.com/shama/webpack-stream) - Run webpack through a stream interface.  -- *Maintainer*: `Kyle Robinson Young` [![Github][githubicon]](https://github.com/shama) [![Twitter][twittericon]](https://twitter.com/shamakry)
 - [Webpack Blocks ★2524](https://github.com/andywer/webpack-blocks) - Configure webpack using functional feature blocks.  -- *Maintainer*: `Andy Wermke` [![Github][githubicon]](https://github.com/andywer) [![Twitter][twittericon]](https://twitter.com/andywritescode)
-- [Webpacker ★2403](https://github.com/rails/webpacker) - Offical webpack gem for integration into ruby on rails projects.  -- *Maintainer*: `Rails` [![Github][githubicon]](https://github.com/rails)
+- [Webpacker ★2557](https://github.com/rails/webpacker) - Offical webpack gem for integration into ruby on rails projects.  -- *Maintainer*: `Rails` [![Github][githubicon]](https://github.com/rails)
 - [WebpackAspnetMiddleware ★27](https://github.com/frankwallis/WebpackAspnetMiddleware) - Development middleware for ASP.NET 5.  -- *Maintainer*: `Frank Wallis` [![Github][githubicon]](https://github.com/frankwallis)
 
 [Back to top](#table-of-contents)

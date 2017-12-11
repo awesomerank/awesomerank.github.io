@@ -93,7 +93,7 @@ List of content
 * [XChange ★1511](https://github.com/timmolter/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 
 # .Net Libraries
-* [NBitcoin ★563](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
+* [NBitcoin ★618](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
 * [BitcoinLib ★199](https://github.com/GeorgeKimionis/BitcoinLib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
 * [QBitNinja ★24](https://github.com/MetacoSA/QBitNinja) An Open Source and powerful blockchain API
 

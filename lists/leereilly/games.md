@@ -323,7 +323,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Cendric ★65](https://github.com/tizian/Cendric2) - Platformer-RPG in a fantasy setting with puzzle elements.
 * [Crystal Picnic ★1](https://github.com/Nooskewl/crystal-picnic) - Lighthearted and colourful tribute to the classic era of action RPGs.
 * [Dungeon Crawl Stone Soup ★685](https://github.com/crawl/crawl) - Single-player roguelike dungeon exploration game with a larger focus on combat compared to other popular roguelikes.
-* [Dungeon Monkey Eternal ★32](https://github.com/jwvhewitt/dmeternal) - Party-based fantasy roguelike role-playing game.
+* [Dungeon Monkey Eternal ★32 ⏳1Y](https://github.com/jwvhewitt/dmeternal) - Party-based fantasy roguelike role-playing game.
 * [Egoboo ★58](https://github.com/egoboo/egoboo) - Cool 3D dungeon crawling game in the spirit of NetHack.
 * [Flare RPG ★482](https://github.com/clintbellanger/flare-game) - Fantasy action RPG game with its own engine.
 * [Freeablo ★1468](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo I engine.
@@ -474,7 +474,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [ID Software](https://github.com/id-Software) - Includes Doom, Quake, Wolfenstein and more.
 * [Jedi Academy ★92 ⏳4Y](https://github.com/grayj/Jedi-Academy) - Jedi Academy source only, mirror of SourceForge from Raven Software.
 * [Jedi Outcast ★63 ⏳4Y](https://github.com/grayj/Jedi-Outcast) - Jedi Outcast source only, mirror of SourceForge from Raven Software.
-* [MaNGOS ★2293](https://github.com/mangos/mangos) - Full featured World of Warcraft server.
+* [MaNGOS ★2293 ⏳1Y](https://github.com/mangos/mangos) - Full featured World of Warcraft server.
 * [Miner Wars 2081 ★169 ⏳4Y](https://github.com/KeenSoftwareHouse/Miner-Wars-2081) - For modders of Miner Wars 2081, a 6DOF action-survival space-shooter simulation-game set in the year 2081.
 * [OpenJK ★1098](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development.
 * [Prince of Persia ★4396](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
@@ -500,7 +500,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Crafty ★2467](https://github.com/craftyjs/Crafty) - JavaScript game library that can help you create games in a structured way.
 * [CutJS](https://github.com/piqnt/cutjs) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
 * [Dash ★365 ⏳1Y](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
-* [Duality ★800](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
+* [Duality ★808](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
 * [EaselJS ★6450](https://github.com/CreateJS/EaselJS) - Library to make working with the Canvas element easier.
 * [EntityJS ★185 ⏳2Y](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.
 * [Evennia MUD/MU* Creation System ★570](https://github.com/evennia/evennia) - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.

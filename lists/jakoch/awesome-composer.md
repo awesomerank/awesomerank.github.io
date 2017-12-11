@@ -27,7 +27,7 @@ You might also like [awesome-php ★17326](https://github.com/ziadoz/awesome-php
 - [API Documentation](https://getcomposer.org/apidoc/master/index.html)
 - [Find Packages on Packagist](https://packagist.org/)
 - [CheatSheet](http://composer.json.jolicode.com/) - Overview of CLI commands and `composer.json` schema.
-- [Composer Installers ★720](https://github.com/composer/installers) - Composer installers for multiple frameworks.
+- [Composer Installers ★726](https://github.com/composer/installers) - Composer installers for multiple frameworks.
 
 ### Support
 
@@ -50,7 +50,7 @@ You might also like [awesome-php ★17326](https://github.com/ziadoz/awesome-php
 - [Composer-Suggest ★3](https://github.com/nfreear/composer-suggest) - Enables you to install a custom group of suggested packages, based on keyword patterns.
 - [Composer-Versions-Check ★131](https://github.com/Soullivaneuh/composer-versions-check) - Shows outdated packages from last major versions after using the update command (showing "Latest is vX.Y.Z").
 - [Composer-Changelogs ★385](https://github.com/pyrech/composer-changelogs) - Provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file.
-- [Composer-Merge-Plugin ★322](https://github.com/wikimedia/composer-merge-plugin) - Merges multiple `composer.json` files at Composer runtime.
+- [Composer-Merge-Plugin ★331](https://github.com/wikimedia/composer-merge-plugin) - Merges multiple `composer.json` files at Composer runtime.
 - [Composer-Bin-Plugin ★63](https://github.com/bamarni/composer-bin-plugin) - Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies.
 - [Composer-Inheritance-Plugin ★5](https://github.com/theofidry/composer-inheritance-plugin) - Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin.
 - [Composer-MonoRepo-Plugin ★172](https://github.com/beberlei/composer-monorepo-plugin) - The plugin adds support for managing dependencies for multiple packages in a single repository.
@@ -61,7 +61,7 @@ You might also like [awesome-php ★17326](https://github.com/ziadoz/awesome-php
 - [Composer-Cleaner ★46](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory.
 - [Composer-Shared-Package-Plugin ★153](https://github.com/Letudiant/composer-shared-package-plugin) - Allows you to share your selected packages between your projects by creating symlinks.
 - [Composer-Symlinker ★13](https://github.com/dg/composer-symlinker) - Enables you to load some packages from different directories (instead of loading them from /vendor).
-- [Prestissimo ★3132](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
+- [Prestissimo ★3227](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
 - [Composer-FastFetch ★10 ⏳1Y](https://github.com/jakoch/composer-fastfetch) - Parallel Downloader using external download tools: Aria2.
 - [Composer-Curl-Plugin ★3 ⏳2Y](https://github.com/ngyuki/composer-curl-plugin) - The plugin use phpext_curl for downloading packages.
 - [Composer-Custom-Directory-Installer ★84](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (which is in the vendor folder).
@@ -90,7 +90,7 @@ You might also like [awesome-php ★17326](https://github.com/ziadoz/awesome-php
 - [ScriptsDev ★36](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
 - [ParameterHandler ★353](https://github.com/Incenteev/ParameterHandler) - Allows you to manage your ignored parameters when running a composer install or update.
 - [PhantomJS-Installer ★115](https://github.com/jakoch/phantomjs-installer)- A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
-- [tooly ★62](https://github.com/tommy-muehle/tooly-composer-script) - Manage needed PHAR files in your project composer.json. Every PHAR file will be saved in the composer binary directory. Optional with GPG verification for every PHAR.
+- [tooly ★65](https://github.com/tommy-muehle/tooly-composer-script) - Manage needed PHAR files in your project composer.json. Every PHAR file will be saved in the composer binary directory. Optional with GPG verification for every PHAR.
 
 ## Packagist-compatible repositories
 

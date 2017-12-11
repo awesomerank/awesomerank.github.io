@@ -226,6 +226,7 @@ Made with Electron.
 - [Mockoon](https://mockoon.com) - Mock servers in seconds.
 - [Twitch](https://app.twitch.tv) - Official Twitch app.
 - [Fenêtre](https://fenêt.re) - Picture-in-picture for your Mac.
+- [Cleaver](https://getcleaver.com) - Provision servers and deploy web apps.
 
 ### Samples
 
@@ -360,6 +361,7 @@ Made with Electron.
 - [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - New Electron API to embed web apps with fewer bugs and improved performance.
 - [Migrating Slack’s Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) - Slack rewrote their Electron app with `BrowserView`, Redux, Rx, and TypeScript, to fix its performance problems.
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) - Realm rewrote their database browser app with Electron for cross-platform support.
+- [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - A 5-part series about the journey of making and publishing an Electron app to the Mac App Store.
 
 
 ## Books

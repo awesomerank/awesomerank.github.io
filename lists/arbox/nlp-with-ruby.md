@@ -170,7 +170,7 @@ Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
   Pure Ruby implementation of the Punkt Segmenter.
 - [tactful_tokenizer ★73 ⏳3Y](https://github.com/zencephalon/Tactful_Tokenizer) -
   RegExp based tokenizer for different languages.
-- [scapel ★47 ⏳1Y](https://github.com/louismullie/scalpel) -
+- [scapel ★47 ⏳2Y](https://github.com/louismullie/scalpel) -
   Sentence Boundary Disambiguation tool.
 
 ### Lexical Processing

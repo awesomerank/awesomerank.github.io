@@ -45,8 +45,8 @@ A curated list of awesome HBase projects and resources.
 
 ### Clients
 
-* [asynchbase ★469](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client.
-* [gohbase ★172](https://github.com/tsuna/gohbase) - Pure Go client for HBase.
+* [asynchbase ★471](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client.
+* [gohbase ★183](https://github.com/tsuna/gohbase) - Pure Go client for HBase.
 * [happybase ★360](https://github.com/wbolster/happybase) - Python client for HBase.
 
 
@@ -73,14 +73,14 @@ A curated list of awesome HBase projects and resources.
 * [DataNucleus](http://www.datanucleus.org) - JPA persistence layer with support for HBase.
 * [Gora](http://gora.apache.org) - Persistence library for big data with support for HBase.
 * [HEntityDB ★0](https://github.com/rayokota/hentitydb) - HBase as an entity database.
-* [Kundera ★750](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase.
+* [Kundera ★759](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase.
 
 #### Geospatial
 
 * [GeoMesa](http://www.geomesa.org/) - Spatial-temporal database with support for Accumulo, HBase, Cassandra, and Kafka.
 
 #### Graph
-* [Gradoop ★85](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase.
+* [Gradoop ★90](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase.
 * [HGraphDB ★92](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database.
 * [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
 * [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
@@ -110,9 +110,9 @@ A curated list of awesome HBase projects and resources.
 #### Transactions
 
 * [Haeinsa ★141](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase.
-* [Omid ★286](https://github.com/yahoo/omid) - Transactional support for HBase.
+* [Omid ★288](https://github.com/yahoo/omid) - Transactional support for HBase.
 * [Tephra](http://tephra.incubator.apache.org) - Globally consistent transactions on top of HBase.
-* [Themis ★167 ⏳2Y](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator.
+* [Themis ★169 ⏳2Y](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator.
 
 ### Integrations
 
@@ -128,7 +128,7 @@ A curated list of awesome HBase projects and resources.
 * [Hive](https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration) - Hive HBase integration.
 * [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) - Impala support for querying HBase tables.
 * [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration.
-* [Spark ★174](https://github.com/hortonworks-spark/shc) - Spark-HBase connector.
+* [Spark ★182](https://github.com/hortonworks-spark/shc) - Spark-HBase connector.
 * [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) - Spring-Hadoop integration, including HBase support.
 * [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase.
 
@@ -138,13 +138,13 @@ A curated list of awesome HBase projects and resources.
 * [Cloudera Manager](https://www.cloudera.com/products/product-components/cloudera-manager.html) - Tool for managing Hadoop/HBase in production.
 * [DbSchema](http://www.dbschema.com/index.html) - Diagram-oriented database designer with support for HBase.
 * [Hannibal ★155](https://github.com/sentric/hannibal) - Tool to monitor and maintain HBase clusters.
-* [h-rider ★99](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase.
+* [h-rider ★102](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase.
 * [Hue](http://gethue.com) - Smart analytics workbench that includes an HBase browser.
 * [Sematext SPM](http://sematext.com/spm) - Tool for [monitoring HBase](http://sematext.com/spm/integrations/hbase-monitoring), HDFS, etc.
 
 ### Miscellaneous
 
-* [HubSpot HBase support ★15 ⏳3Y](https://github.com/HubSpot/hbase-support) - Configs and tools for HBase at HubSpot, including Hystrix integration and coprocessors.
+* [HubSpot HBase support ★16 ⏳3Y](https://github.com/HubSpot/hbase-support) - Configs and tools for HBase at HubSpot, including Hystrix integration and coprocessors.
 
 ## Resources
 

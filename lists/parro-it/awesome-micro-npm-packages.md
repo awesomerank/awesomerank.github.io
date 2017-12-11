@@ -64,7 +64,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [node-slug ★859](https://github.com/dodo/node-slug) - slugifies even utf-8 chars.
 * [rtrim ★0 ⏳1Y](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
 * [slice.js ★19](https://github.com/hustcc/slice.js) - Javascript library to engance String.substring / Array.slice with python slice style.
-* [strip-ansi ★93](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
+* [strip-ansi ★97](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
 
 ### Date & Time
 

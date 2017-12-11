@@ -119,7 +119,7 @@ Inspired by [ziadoz/awesome-php ★17326](https://github.com/ziadoz/awesome-php)
 * [HTML ★1144](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel
 * [Hyn/multi-tenant ★457](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of a.o. routes, assets and databases
 * [Laravel 5 form builder ★734](https://github.com/kristijanhusak/laravel-form-builder) - Form builder for Laravel 5 inspired by Symfony's form builder.
-* [Intervention Image ★5839](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
+* [Intervention Image ★5989](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
 * [Laravel Activitylog ★1187](https://github.com/spatie/laravel-activitylog) - Log activity inside your Laravel app
 * [Laravel Auditing ★685](https://github.com/owen-it/laravel-auditing) - Audit for Eloquent models
 * [Laravel Blade Javascript ★262](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript

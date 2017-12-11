@@ -244,7 +244,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack-news ★128 ⏳2Y](https://github.com/karan/slack-news) - Read news from multiple sources within Slack by just typing /news
 - [slack-notify ★157](https://github.com/andrewchilds/slack-notify) - A Node.js wrapper around the Slack Webhook API
 - [slack-pokemon ★319](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack
-- [slack-poker-bot ★1519](https://github.com/CharlieHess/slack-poker-bot) - A bot that deals Texas Hold'em games in Slack
+- [slack-poker-bot ★1519 ⏳1Y](https://github.com/CharlieHess/slack-poker-bot) - A bot that deals Texas Hold'em games in Slack
 - [slack-polls ★10 ⏳2Y](https://github.com/dsifford/slack-polls) - Express.js app for native polling on Slack
 - [slack-pongbot ★80 ⏳1Y](https://github.com/andrewvy/slack-pongbot) - Slack bot for ping pong tracking
 - [slack-proxy ★11 ⏳3Y](https://github.com/phamann/slack-proxy) - Simple proxy between AWS SQS queue and Slack
@@ -342,7 +342,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slackcamp ★64 ⏳1Y](https://github.com/jamescarlos/slackcamp) - Post Basecamp events to Slack
 - [Slacker ★560](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI
 - [SlackGoogle ★15 ⏳2Y](https://github.com/dommerq/SlackGoogle) - Slash command that returns a Google search URL, like LMGTFY
-- [SlackHelper ★5 ⏳2Y](https://github.com/leoetlino/SlackHelper) - Object-oriented classes for sending data to Slack via incoming webhooks
+- [SlackHelper ★5 ⏳3Y](https://github.com/leoetlino/SlackHelper) - Object-oriented classes for sending data to Slack via incoming webhooks
 - [SlackHolidayBot ★11 ⏳3Y](https://github.com/bradslavin/SlackHolidayBot) - Posts today's holiday to a channel in Slack
 - [slackuntappd ★16 ⏳2Y](https://github.com/gregavola/slackuntappd) - A webhook that allows you to search for beer information within Slack via Untappd
 - [SlackWamp ★5](https://github.com/voryx/SlackWamp) - A WAMP wrapper for the Slack API

@@ -40,7 +40,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Kyoukai ★330](https://github.com/SunDwarf/Kyoukai) - Fully async web framework for Python3.5+ using asyncio.
 * [cirrina ★15](https://github.com/neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp.
 * [autobahn ★1608](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
-* [websockets ★1032](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
+* [websockets ★1078](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
 
 ## Message Queues
 

@@ -73,7 +73,7 @@ This list covers only Python, as many are already familiar with this language. [
 
 ### Various other helpful tools and resources
 
-- [Template folder structure for organizing Data Science projects ★722](https://github.com/drivendata/cookiecutter-data-science)
+- [Template folder structure for organizing Data Science projects ★784](https://github.com/drivendata/cookiecutter-data-science)
 - [Anaconda Python distribution](https://www.continuum.io/downloads) - Contains most of the important Python packages for Data Science.
 - [LightGBM gradient boosting framework ★4161](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
 - [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more timeconsuming calculations (r4.xlarge server is a good place to start).

@@ -120,7 +120,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-gears ★55 ⏳2Y](https://github.com/gears/django-gears) - Compiles and concatenates JavaScript and CSS assets.
 * [django-htmlmin ★361](https://github.com/cobrateam/django-htmlmin) - HTML minifier for Python with full support for HTML 5 and Django.
 * [django-pipeline ★1201](https://github.com/jazzband/django-pipeline) - Asset packaging for Django.
-* [django-systemjs ★43](https://github.com/sergei-maertens/django-systemjs) - Django SystemJS brings the Javascript of tomorrow to Django, today. (JSPM integration in Django)
+* [django-systemjs ★43 ⏳1Y](https://github.com/sergei-maertens/django-systemjs) - Django SystemJS brings the Javascript of tomorrow to Django, today. (JSPM integration in Django)
 * [django-webpack-loader ★1107](https://github.com/ezhome/django-webpack-loader) - Transparent webpack integration for django.
 * [python-webpack ★59 ⏳1Y](https://github.com/markfinger/python-webpack) - Python bindings for webpack with django integration.
 * [django-webpacker ★45](https://github.com/MicroPyramid/django-webpacker) - A django compressor tool which bundles css, js files to a single css, js file with webpack and updates your html files with respective css, js file path.

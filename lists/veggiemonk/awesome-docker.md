@@ -276,7 +276,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [Docker Grand Ambassador ★192 ⏳2Y](https://github.com/cpuguy83/docker-grand-ambassador) :skull: - This is a fully dynamic docker link ambassador. + [Article](https://docs.docker.com/engine/admin/ambassador_pattern_linking/) by [@cpuguy83][cpuguy83]
 * [docker-consul ★1004](https://github.com/gliderlabs/docker-consul) by [@progrium][progrium]
 * [etcd ★15819](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery by [@coreOS][coreos]
-* [istio ★3718](https://github.com/istio/istio) - An open platform to connect, manage, and secure microservices by [@IstioMesh](istio)
+* [istio ★4329](https://github.com/istio/istio) - An open platform to connect, manage, and secure microservices by [@IstioMesh](istio)
 * [proxy ★48 ⏳2Y](https://github.com/factorish/proxy) :skull: - lightweight nginx based load balancer self using service discovery provided by registrator. by [@factorish](https://github.com/factorish)
 * [registrator ★3367](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker by [@gliderlabs][gliderlabs] and [@progrium][progrium]
 
@@ -437,7 +437,7 @@ Services to securely store your Docker images.
 * [docker-maven-plugin (1) ★1260](https://github.com/spotify/docker-maven-plugin) - A Maven plugin for building and pushing Docker images by [@spotify][spotify]
 * [docker-maven-plugin (2) ★729](https://github.com/fabric8io/docker-maven-plugin) - A Maven plugin for running and creating Docker images by [@fabric8io](https://github.com/fabric8io)
 * [Docker-PowerShell ★231](https://github.com/Microsoft/Docker-PowerShell) - PowerShell Module for Docker
-* [Docker.DotNet ★404](https://github.com/Microsoft/Docker.DotNet) - C#/.NET HTTP client for the Docker remote API by [@ahmetalpbalkan](ahmetalpbalkan)
+* [Docker.DotNet ★426](https://github.com/Microsoft/Docker.DotNet) - C#/.NET HTTP client for the Docker remote API by [@ahmetalpbalkan](ahmetalpbalkan)
 * [dockerode ★1538](https://github.com/apocas/dockerode) - Docker Remote API node.js module by [@apocas](https://github.com/apocas)
 * [DoMonit ★46](https://github.com/eon01/DoMonit) - A simple Docker Monitoring wrapper For Docker API
 * [go-dockerclient ★1170](https://github.com/fsouza/go-dockerclient) - Go HTTP client for the Docker remote API by [@fsouza](https://github.com/fsouza/)

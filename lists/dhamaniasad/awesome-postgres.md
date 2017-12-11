@@ -168,7 +168,7 @@ For Database Management
 * Elixir: [postgrex ★493](https://github.com/elixir-ecto/postgrex)
 * Go: [pgx ★1177](https://github.com/jackc/pgx)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
-* .Net/.Net Core: [Npgsql ★1079](https://github.com/npgsql/npgsql)
+* .Net/.Net Core: [Npgsql ★1100](https://github.com/npgsql/npgsql)
 * Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise ★1541](https://github.com/vitaly-t/pg-promise)
 * Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
 * PHP: [Pomm](http://www.pomm-project.org), [pecl/pq ★16](https://github.com/m6w6/ext-pq)

@@ -219,7 +219,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Rocket.Chat
 
-* [Errbot](http://errbot.io) + [adapter ★7](https://github.com/AoiKuiyuyou/AoikRocketChatErrbot) (Python)
+* [Errbot](http://errbot.io) + [adapter ★7 ⏳1Y](https://github.com/AoiKuiyuyou/AoikRocketChatErrbot) (Python)
 * [Hubot](https://hubot.github.com/) + [adapter ★287](https://github.com/RocketChat/hubot-rocketchat) (CoffeeScript, Node.js)
 
 ### Skype

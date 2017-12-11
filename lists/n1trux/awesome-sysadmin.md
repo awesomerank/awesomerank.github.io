@@ -451,7 +451,7 @@ ils and flask.
   * [Collectd](http://collectd.org/) - System statistic collection daemon.
   * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
   * [PGObserver ★246](https://github.com/zalando/PGObserver) - Monitoring solution for PostgreSQL databases that also works with AWS RDS.
-  * [Statsd ★12203](https://github.com/etsy/statsd) - Application statistic listener.
+  * [Statsd ★12297](https://github.com/etsy/statsd) - Application statistic listener.
   * [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
 
 * Dashboards

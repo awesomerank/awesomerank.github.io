@@ -13,7 +13,7 @@ A curated list of awesome ColdFusion frameworks, libraries and software. Inspire
 
 Pull requests very welcome.
 
-* [Awesome ColdFusion ★46](https://github.com/seancoyne/awesome-coldfusion)
+* [Awesome ColdFusion ★48](https://github.com/seancoyne/awesome-coldfusion)
 	* [Engines](#engines)
 	* [Application Frameworks](#application-frameworks)
 	* [Testing](#testing)
@@ -40,16 +40,16 @@ Pull requests very welcome.
 * [cfwheels ★177](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails.
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
 * [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
-* [FW/1 - Framework One ★355](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework
+* [FW/1 - Framework One ★356](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework
 * [ModelGlue](http://model-glue.com) - a CFML based, full stack, front controller based on MVC. Features include Scaffolding, ORM integration, and many others
 
 ## Testing
 
 * [CFSelenium ★72](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion
 * [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
-* [MXUnit ★82](https://github.com/mxunit/mxunit) - xUnit style unit testing framework
+* [MXUnit ★83](https://github.com/mxunit/mxunit) - xUnit style unit testing framework
 * [mxunit-watch ★13 ⏳1Y](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
-* [TestBox ★20](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework
+* [TestBox ★23](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework
 
 ## Dependency Injection
 
@@ -60,10 +60,10 @@ Pull requests very welcome.
 ## CMS
 
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
-* [ContentBox ★68](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
+* [ContentBox ★70](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
 * [FarCry CMS ★7](https://github.com/farcrycore/plugin-farcrycms)
-* [Mura ★234](https://github.com/blueriver/MuraCMS)
-* [Preside CMS ★34](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
+* [Mura ★235](https://github.com/blueriver/MuraCMS)
+* [Preside CMS ★35](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
 * [Slatwall ★115](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform
 
 ## NoSQL
@@ -86,7 +86,7 @@ Pull requests very welcome.
 * [Hoth ★128 ⏳1Y](https://github.com/aarongreenlee/Hoth) - Exception Tracking
 * [BugLogHQ ★137 ⏳1Y](https://github.com/oarevalo/BugLogHQ) - Exception Tracking
 * [iQuery ★11 ⏳2Y](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`.
-* [JavaLoader ★46](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications.
+* [JavaLoader ★47](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications.
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library
 * [Moment.cfc ★31](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
 * [Mustache.cfc ★43 ⏳1Y](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion
@@ -105,7 +105,7 @@ Pull requests very welcome.
 
 ## Tools
 
-* [CommandBox ★39](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more
+* [CommandBox ★40](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more
 * [Unofficial Updater](http://www.uu-2.info/) - A utility that helps install ColdFusion hotfixes
 
 ## References
@@ -113,7 +113,7 @@ Pull requests very welcome.
 * [CF Live](http://cflive.net) - Realtime CFML testing console
 * [CF411](http://carehart.org/cf411/) - CF411: 1,800+ Tools and Resources for CFers, (in over 150 categories) by Charlie Arehart
 * [CFLib](http://cflib.org/) - Common Function Library Project
-* [ColdFusion Koans ★61 ⏳2Y](https://github.com/nodoherty/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
+* [ColdFusion Koans ★60 ⏳2Y](https://github.com/nodoherty/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
 * [ColdFusion UI the Right Way ★87 ⏳1Y](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) - A list of articles demonstrating how to do UI with ColdFusion on the back end.
 * [Learn CF in a Week](http://www.learncfinaweek.com) - community driven training program that teaches all the basics you need to be a ColdFusion Developer in one week.
 * [Try ColdFusion](http://trycf.com/) - Realtime interactive learning tool for CFML
@@ -121,7 +121,7 @@ Pull requests very welcome.
 ## Resources
 * [CFRepo](http://www.gpickin.com/cfrepo/) - A repository of ColdFusion installers created by Gavin Pickin
 * [lucee5-heroku ★6](https://github.com/mikesprague/lucee5-heroku) - Application template for deploying Lucee 5 apps to Heroku by Mike Sprague
-* [Vagrant LEMTL ★41 ⏳1Y](https://github.com/mikesprague/vagrant-lemtl) - Vagrant box with Linux, Nginx, MariaDB (or MySQL), Tomcat, and Lucee for local development with CFML by Mike Sprague
+* [Vagrant LEMTL ★42 ⏳1Y](https://github.com/mikesprague/vagrant-lemtl) - Vagrant box with Linux, Nginx, MariaDB (or MySQL), Tomcat, and Lucee for local development with CFML by Mike Sprague
 
 ## Documentation
 
@@ -138,7 +138,7 @@ Pull requests very welcome.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sean Coyne ★46](https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sean Coyne ★48](https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/seancoyne/awesome-coldfusion">seancoyne/awesome-coldfusion</a> with ranks

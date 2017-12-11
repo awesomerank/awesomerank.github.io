@@ -119,7 +119,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [3DMark](https://www.futuremark.com/pressreleases/compare-vulkan-and-directx-12-performance-with-3dmark) - 3DMark API Overhead test.
 
 ## Samples
-*  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of  Sponza ★28](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos_meetup_munich](https://github.com/SaschaWillems/Vulkan/blob/master/documentation/Khronos_meetup_munich_fromGLtoVulkan.pdf).
+*  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of  Sponza ★28 ⏳1Y](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos_meetup_munich](https://github.com/SaschaWillems/Vulkan/blob/master/documentation/Khronos_meetup_munich_fromGLtoVulkan.pdf).
 *  McNopper's [examples](https://github.com/McNopper/Vulkan)
 *  [KhronosGroup](https://github.com/KhronosGroup)
     *  [Samples ★420](https://github.com/KhronosGroup/Vulkan-Samples)
@@ -176,8 +176,8 @@ drm/kms.
 *  [Vulkan-WSIWindow ★22](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. [Apache License 2.0]
 *  [Falcor ★239](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting DX12 and Vulkan. [BSD 3-clause]
 *  [The-Forge ★10](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
-*  [Marble-CORE ★14](https://github.com/AwokenGraphics/marble-encore) - Vulkan API (only) interactive ray tracing engine 
-*  [VK9 ★423](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
+*  [Marble-CORE](https://github.com/AwokenGraphics/marble-encore) - Vulkan API (only) interactive ray tracing engine 
+*  [VK9 ★433](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
 *  [gfx-rs ★1272](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API for Rust. [Apache License 2.0]
 
 ## Bindings

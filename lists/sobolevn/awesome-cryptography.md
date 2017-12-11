@@ -169,9 +169,9 @@ A curated list of cryptography resources and links.
 ### C-sharp
 
 - [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
-- [libsodium-net ★230](https://github.com/adamcaudill/libsodium-net) - Secure cryptographic library, port of libsodium for .NET.
+- [libsodium-net ★239](https://github.com/adamcaudill/libsodium-net) - Secure cryptographic library, port of libsodium for .NET.
 - [PCLCrypto ★167](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
-- [SecurityDriven.Inferno ★323](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
+- [SecurityDriven.Inferno ★325](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
 - [StreamCryptor ★58](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
 
 ### Clojure
@@ -198,7 +198,7 @@ A curated list of cryptography resources and links.
 - [cipher ★35](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
 - [cloak ★165](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 - [comeonin](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
-- [elixir-rsa ★13 ⏳2Y](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
+- [elixir-rsa ★13 ⏳3Y](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
 - [elixir_tea ★1 ⏳2Y](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
 - [ex_crypto ★45](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
 - [exgpg ★11 ⏳2Y](https://github.com/rozap/exgpg) - Use gpg from Elixir.

@@ -22,6 +22,7 @@ Contents
 
 - [Build Systems](#build-systems)
 - [Compilers](#compilers)
+- [Compression](#compression)
 - [Crypto](#crypto)
 - [Database](#database)
 - [Deep Learning](#deep-learning)
@@ -87,6 +88,12 @@ These are tools to automate the building and testing of projects in C.
 * [GCC][40] - Provides a C compiler as part of its compiler set. Supports C11 and OpenMP. [[GNU GPL3][41] or later]
 * [PCC][74] - Venerable C compiler. Supports C99. [[Various free licenses][75]]
 * [TCC][58] - Tiny C Compiler; a small, fast C compiler. Supports C99 (except complex types). [[GNU LGPL2.1][15] only]
+
+## Compression ##
+
+* [libzip][408] - A C library for reading, creating, and modifying zip archives. [[3-clause BSD][6]]
+* [lzo][338] - Very fast data compression library. [[GNU GPL2.1][8]]
+* [zlib][230] - Massively-spiffy yet delicately-unobtrusive compression library. [[3-clause BSD][6]]
 
 ## Crypto ##
 
@@ -537,7 +544,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [libucl][239] - Universal configuration library parser. [[FreeBSD][24]]
 * [libuv][56] - Cross-platform asynchronous I/O. [[Expat][11]]
 * [libYAML][341] - YAML 1.1 parser and emitter. [[Expat][11]]
-* [lzo][338] - Very fast data compression library. [[GNU GPL2.1][8]]
 * [mpc][238] - Parser combinator library. [[FreeBSD][24]]
 * [ncurses][178] - Coloured terminal UI library. [[GNU GPL3][41] or later]
 * [nope.c][209] - C-language-based, ultra-light software platform for scalable server-side and networking applications (think node.js for C programmers). [[GNU GPL2.1][8] only]
@@ -545,8 +551,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [rabbitmq-c][228] - Client library for [RabbitMQ][229]. [[Expat][11]]
 * [Ragel][54] - DSL for state machines that compiles to C. [[GNU GPL2.1][8] only]
 * [uthash][117] - Hash table implementation, allowing existing structures to be stored in a hash table easily. [[1-clause BSD][118]]
-* [zlib][230] - Massively-spiffy yet delicately-unobtrusive compression library. [[3-clause BSD][6]]
-
 ## XML ##
 
 > "XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist." - Linus Torvalds
@@ -955,6 +959,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [405]: https://github.com/sheredom/utf8.h
 [406]: http://unlicense.org/
 [407]: https://github.com/librg/librg
+[408]: https://github.com/nih-at/libzip
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/aleksandar-todorovic/awesome-c">aleksandar-todorovic/awesome-c</a> with ranks

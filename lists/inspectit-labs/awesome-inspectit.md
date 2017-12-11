@@ -54,7 +54,7 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 
 ## Profiles And Sensor Configurations
 
-* [ColdFusion Markup Language Profile ★0](https://github.com/ghedwards/cfml-inspectIT) - Profile for tracking function calls in CFML.
+* [ColdFusion Markup Language Profile ★1](https://github.com/ghedwards/cfml-inspectIT) - Profile for tracking function calls in CFML.
 
 ## Uncategorized
 

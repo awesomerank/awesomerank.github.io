@@ -58,7 +58,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [Google Keep](http://www.google.com/keep/) – A nice and simple Note management system tightly integrated with Google products.
 - [OneNote](https://www.onenote.com/) – Very good Note management solution, but best for Windows users.
 - [WorkFlowy](https://workflowy.com/) - Web-based outlining application for nested bulletin lists.
-- [Preserver ★164](https://github.com/hsbalar/preserver) – Notes organizer desktop app based on Electron.
+- [Preserver ★169](https://github.com/hsbalar/preserver) – Notes organizer desktop app based on Electron.
 - [Inkdrop](https://www.inkdrop.info/) – A cross-platform note taking app for Markdown lovers.
 
 ### Task Management
@@ -71,7 +71,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [Todo.txt](http://todotxt.com/) – Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
 - [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
-- [Pomolectron ★300](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+- [Pomolectron ★315](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 - [Timing](https://timingapp.com/) – Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 - [topydo](https://www.topydo.org) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 

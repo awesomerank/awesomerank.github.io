@@ -145,7 +145,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Sample Projects
 
-- [Reactive Trader Cloud ★719](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
+- [Reactive Trader Cloud ★743](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
 - [Example of Domain-Driven Design in F#](https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d) - Example of Domain Driven Design for the game of checkers. There are two files: a scratch file with a series of designs, and a final version.
 - [SimpleCQRS ★1228 ⏳1Y](https://github.com/gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
 - [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://naa4e.codeplex.com/SourceControl/latest) by Dino Esposito.
@@ -176,7 +176,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [MessageRouter ★40 ⏳1Y](https://github.com/QuickenLoans/MessageRouter) - Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
 - [NEventStore ★1183](https://github.com/NEventStore/NEventStore) - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
 - [Projac](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
-- [Streamstone ★168](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
+- [Streamstone ★174](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
 - [Value ★36](https://github.com/tpierrain/Value) - Help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
 - [Cirqus ★181](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
 - [Its.Cqrs ★53](https://github.com/jonsequitur/Its.Cqrs) - A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor.
@@ -189,8 +189,8 @@ The term was coined by Eric Evans in his book of the same title.
 - [SeedStack's Business Framework](http://seedstack.org/docs/business/) - A set of building blocks that enable you to code business logic according to the Domain-Driven Design (DDD) approach.
 - [SqlStreamStore ★0](https://github.com/damianh/SqlStreamStore) - .NET Stream Store library targeting SQL based implementations.
 - [Cedar.CommandHandling ★43](https://github.com/damianh/Cedar.CommandHandling) - Middleware to handling commands over HTTP; typically used in CQRS applications.
-- [NServiceBus ★1181](https://github.com/Particular/NServiceBus) - Service bus for .NET.
-- [MassTransit ★1280](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
+- [NServiceBus ★1196](https://github.com/Particular/NServiceBus) - Service bus for .NET.
+- [MassTransit ★1315](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
 - [Akka.NET](http://getakka.net/) - Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 - [ASP.NET Boilerplate](http://aspnetboilerplate.com/) - ASP.NET MVC, Web API and ASP.NET Core based application framework to create NLayered, Domain Driven Designed web Applications implementing best practices.
 - [Aggregates.NET ★58](https://github.com/volak/Aggregates.NET) - .NET event sourced domain driven design model via NServicebus and GetEventStore.

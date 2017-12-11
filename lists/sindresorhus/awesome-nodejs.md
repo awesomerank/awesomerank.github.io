@@ -872,7 +872,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [StrongLoop Talks](https://strongloop.com/node-js/videos/) - Series of talks.
 - [thenewboston's Node.js for Beginners](https://www.thenewboston.com/videos.php?cat=355)
 - [Nodetuts](http://nodetuts.com) - Series of talks, including TCP & HTTP API servers, async programming, and more.
-- [Node Interactive 2015 ★36 ⏳1Y](https://github.com/duffn/nodeinteractive-2015) - List of talks, keynotes and panels from the 2015 Node Interactive conference.
+- [Node Interactive 2015 ★36 ⏳2Y](https://github.com/duffn/nodeinteractive-2015) - List of talks, keynotes and panels from the 2015 Node Interactive conference.
 
 ### Podcasts
 

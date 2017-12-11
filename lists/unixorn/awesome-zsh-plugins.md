@@ -285,7 +285,7 @@ These frameworks make customizing your zsh setup easier.
 * [dirstack ★2 ⏳2Y](https://github.com/gepoch/oh-my-zsh-dirstack) - Plugin for displaying dirstack info on a single line.
 * [docker-aliases ★0](https://github.com/webyneter/docker-aliases) Docker aliases for everyday use.
 * [docker-compose ★24 ⏳1Y](https://github.com/sroze/docker-compose-zsh-plugin) Show docker container status in your prompt.
-* [docker-fun ★2 ⏳1Y](https://github.com/johnlabarge/docker_fun) - Adds docker convenience functions.
+* [docker-fun ★2 ⏳2Y](https://github.com/johnlabarge/docker_fun) - Adds docker convenience functions.
 * [docker-helpers ★12](https://github.com/unixorn/docker-helpers.zshplugin) - A collection of docker helper scripts.
 * [docker-machine ★0](https://github.com/asuran/zsh-docker-machine) - A docker-machine plugin for ZSH.
 * [docker-run ★8](https://github.com/rawkode/zsh-docker-run) - Go back to running your commands "naturally", we'll handle the container.
@@ -433,7 +433,7 @@ These frameworks make customizing your zsh setup easier.
 * [rvm-zsh ★1 ⏳4Y](https://github.com/johnhamelink/rvm-zsh) - Initiates RVM and adds rubygem binaries (like compass) accessible in the user's `$PATH`.
 * [safe-paste ★6 ⏳2Y](https://github.com/oz/safe-paste) - A safe-paste plugin. See Conrad Irwin's [bracketed-paste](https://cirw.in/blog/bracketed-paste) blog post.
 * [saneopt ★7 ⏳2Y](https://github.com/willghatch/zsh-saneopt) - Sane defaults for zsh options, in the spirit of vim-sensible.
-* [schroot ★0](https://github.com/fshp/schroot.plugin.zsh) - Show current chroot name in your prompt.
+* [schroot ★0 ⏳1Y](https://github.com/fshp/schroot.plugin.zsh) - Show current chroot name in your prompt.
 * [select ★4](https://github.com/psprint/zsh-select) - Multi-term searched selection list with approximate matching and uniq mode.
 * [send.zsh ★8](https://github.com/robertzk/send.zsh) - Single command to git add, git commit, and git push for much faster git workflow.
 * [sensei-git ★1](https://github.com/aswitalski/oh-my-zsh-sensei-git-plugin) - Adds many git aliases and helper shell functions.
@@ -456,6 +456,7 @@ These frameworks make customizing your zsh setup easier.
 * [sys-diver-zsh ★0](https://github.com/ToruIwashita/sys-diver-zsh) - A zsh plugin for directory change or editor startup with only key operations using widgits without typing command.
 * [sysadmin-util ★431 ⏳1Y](https://github.com/skx/sysadmin-util) - Steve Kemp's collection of tool scripts for sysadmins.
 * [t32 ★2 ⏳3Y](https://github.com/chrissicool/zsh-t32) - Plugin for the Lauterbach Trace32 toolset. It automatically registers fonts and sets all necessary environment variables to run the t32 toolset.
+* [tailf ★0](https://github.com/rummik/zsh-tailf) - Adds `tailf` function with prefixed newlines instead of trailing newlines.
 * [terminal-app](https://github.com/the8/zsh-terminal-app) - A plugin for integrating with the new El Capitan Terminal.app features.
 * [terminal-workload-report ★0 ⏳1Y](https://github.com/LockonS/terminal-workload-report) - A plugin that calculates and displays how many commands have been run via terminal.
 * [tipz](https://github.com/molovo/tipz) - Displays your alias if you have an alias for the command you just ran (Similar to [alias-tips ★210](https://github.com/djui/alias-tips)).
@@ -593,6 +594,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [birame ★0](https://github.com/maniat1k/birame) - Based on [bira](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/bira.zsh-theme).
 * [bklyn](https://github.com/gporrata/bklyn-zsh) - Variant of [Powerlevel9k ★3220](https://github.com/bhilburn/powerlevel9k) with customizations applied.
 * [blinks-xfan ★1 ⏳1Y](https://github.com/ixfan/blinks-xfan) - Based on the existing theme blinks.
+* [blokkzh ★0](https://github.com/KorvinSilver/blokkzh) - Theme based on oh-my-zsh's built in [gnzh](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/gnzh.zsh-theme) theme. Requires a font with unicode support.
 * [blox-zsh-theme ★13](https://github.com/yardnsm/blox-zsh-theme) - A minimal and fast ZSH theme that shows you what you need. It consists of blocks: each block is shown inside a pair of \[square brackets\], and you can add blocks by simply creating a function.
 * [bluehigh ★0](https://github.com/abouthiroppy/bluehigh.zsh-theme) - Minimal theme, displays git information.
 * [bluelines ★2 ⏳3Y](https://github.com/apbarrero/bluelines) - Clear and blue theme.
@@ -697,7 +699,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [nanofish ★2 ⏳1Y](https://github.com/tweekmonster/nanofish) - Adds fish-style directory prompt to nanotech theme.
 * [neat](https://github.com/andrepolischuk/neat) - Minimalistic prompt inspired by [odin](https://github.com/tylerreckart/Odin) and [pure ★4178](https://github.com/sindresorhus/pure).
 * [nextbike ★0](https://github.com/meierjan/nextbike-zsh-theme) - A very basic theme which just features an macOS bike icon.
-* [ningxia ★0 ⏳2Y](https://github.com/wangyandong-ningxia/ningxia.zsh-theme) - Based on af-magic.
+* [ningxia ★0 ⏳3Y](https://github.com/wangyandong-ningxia/ningxia.zsh-theme) - Based on af-magic.
 * [nknu ★0 ⏳1Y](https://github.com/aanc/oh-my-zsh-nknu-theme) - A simple OMZ theme.
 * [nmaxcom ★0](https://github.com/nmaxcom/nmaxcom-zsh-theme) - Minimalist ZSH theme with git decorations.
 * [nodeys ★22 ⏳1Y](https://github.com/marszall87/nodeys-zsh-theme) - Based on ys theme, with added NodeJS version (from NVM plugin).
@@ -784,7 +786,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [xxf](https://gist.github.com/xfanwu/18fd7c24360c68bab884) - Shows Current commit shorten hash and message.
 * [yairshefi ★0](https://github.com/yaireclipse/yairshefi-ohmyzsh-theme) - Minimal theme with line separated prompts. Based on [Robby Russell's theme](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme)
 * [ykmam](https://github.com/julienvanderkluft/ykmam-zsh-theme/blob/master/ykmam.zsh-theme) - Modified from ys theme. Optimized for a dark background.
-* [ys ★0](https://github.com/cristiancavalli/ys-zsh-custom-theme) - Clean, simple, compatible and meaningful theme meant for dark backgrounds.
+* [ys ★0 ⏳1Y](https://github.com/cristiancavalli/ys-zsh-custom-theme) - Clean, simple, compatible and meaningful theme meant for dark backgrounds.
 * [yuki ★3](https://github.com/yuki-torii/yuki-zsh-theme) - A dark optimized ZSH theme.
 * [z4rr3t ★1 ⏳2Y](https://github.com/inimicus/z4rr3t) - Based on sindresorhus' pure theme.
 * [zemm-blinks ★8 ⏳3Y](https://github.com/aranasaurus/zemm-blinks.zsh-theme) - Customized version of oh-my-zsh blinks with mercurial support and other changes.

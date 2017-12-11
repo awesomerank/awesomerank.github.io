@@ -318,7 +318,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
   * [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `GPL` `Python`
   * [Mailtrain](https://mailtrain.org/) - self hosted newsletter application built on Node.js (v5+) and MySQL (v5.5+ or MariaDB). ([Source Code](https://github.com/andris9/mailtrain)) `GPLv3` `Nodejs`
   * [MailyHerald](http://mailyherald.org/) - Self-hosted Mailchimp alternative that you can easily integrate with your site. Helps you send and manage your application mailings. It support email marketing and conducting the daily stream of notifications you send to your users. ([Source Code ★416](https://github.com/Sology/maily_herald)) `LGPLv3` `Ruby`
-  * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). ([Source Code ★2014](https://github.com/mautic/mautic)) `GPLv3` `PHP`
+  * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). ([Source Code ★2071](https://github.com/mautic/mautic)) `GPLv3` `PHP`
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
   * [postal ★7369](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail. `MIT` `Ruby`
   * [Schleuder](https://schleuder.nadir.org/) - A GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPLv3` `Ruby`
@@ -419,7 +419,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 
   * [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code ★3254](https://github.com/processone/ejabberd)) `GPL` `Erlang`
   * [Kontalk](http://kontalk.org/) - Kontalk is an Open Source Messenger, similar to WhatsApp (app for android only currently), including end-to-end encryption, server is based on Tigase XMPP Server. ([Source Code](https://github.com/kontalk)) `GPLv3` `Java`
-  * [Metronome IM](https://lightwitch.org/metronome) - Fork of Prosody IM. ([Source Code](http://code.lightwitch.org/)) `MIT` `Lua`
+  * [Metronome IM](https://metronome.im/) - Fork of Prosody IM. ([Source Code ★84](https://github.com/maranda/metronome)) `MIT` `Lua`
   * [MongooseIM](https://www.erlang-solutions.com/products/mongooseim.html) - Mobile messaging platform with a focus on performance and scalability. ([Source Code ★831](https://github.com/esl/MongooseIM)) `GPLv2` `Erlang`
   * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server. ([Source Code ★1402](https://github.com/igniterealtime/Openfire)) `Apache` `Java`
   * [Prosody IM](http://prosody.im/) - Feature-rich and easy to configure XMPP server. ([Source Code](http://hg.prosody.im/)) `MIT` `Lua`
@@ -491,7 +491,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Subrion](http://www.subrion.org) - Subrion is a free open source content management system that allows you to build websites for any purpose. Yes, from blog to corporate mega portal. ([Demo](http://demos.subrion.com), [Source Code ★154](https://github.com/intelliants/subrion)) `GPLv3` `PHP`
   * [Textpattern](http://textpattern.com/) - A flexible, elegant and easy-to-use CMS. ([Demo](http://textpattern.co/demo), [Source Code ★284](https://github.com/textpattern/textpattern)) `GPLv2` `PHP`
   * [TYPO3](https://typo3.org/) - A powerful and advanced CMS with a large community. ([Source Code ★500](https://github.com/TYPO3/TYPO3.CMS)) `GPLv2` `PHP`
-  * [Umbraco](https://umbraco.com/) - The friendly CMS. Free and open source with an amazing community. ([Source Code ★1797](https://github.com/umbraco/Umbraco-CMS)) `MIT` `.NET`
+  * [Umbraco](https://umbraco.com/) - The friendly CMS. Free and open source with an amazing community. ([Source Code ★1827](https://github.com/umbraco/Umbraco-CMS)) `MIT` `.NET`
   * [Wagtail](https://wagtail.io/) - A Django content management system focused on flexibility and user experience. ([Source Code ★4877](https://github.com/wagtail/wagtail)) `BSD` `Python`
   * [WonderCMS](http://www.wondercms.com) - WonderCMS is the smallest flat file CMS since 2008. ([Demo](https://www.wondercms.com/demo), [Source Code ★93](https://github.com/robiso/wondercms)) `MIT` `PHP`
   * [WordPress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source Code ★10205](https://github.com/WordPress/WordPress)) `GPLv2` `PHP`
@@ -579,7 +579,7 @@ See https://github.com/n1trux/awesome-sysadmin#identity-management
   * [Lite-Reader](http://cubny.com/lite-reader/) - Read your feeds on your own machine with a simple and lite application. ([Source Code ★19 ⏳1Y](https://github.com/cubny/lite-reader)) `BSD` `PHP`
   * [Moonmoon](http://moonmoon.org/) - simple feed agregator (planet like): it only aggregates feeds and spits them out in one single page. ([Source Code](https://github.com/mauricesvay/moonmoon)) `BSD` `PHP`
   * [Miniflux](https://miniflux.net/) - Miniflux is a minimalist and open source news reader. ([Source Code ★902](https://github.com/miniflux/miniflux)) `AGPLv3` `PHP`
-    * [RSSPBRRY](http://jasoncomely.com/rss-tastemaker/) - A fresh new RSS feed reader. ([Source Code ★18](https://github.com/rsspbrry/rsspbrry)) `AGPLv3` `PHP`
+  * [RSSPBRRY](http://jasoncomely.com/rss-tastemaker/) - A fresh new RSS feed reader. ([Source Code ★18](https://github.com/rsspbrry/rsspbrry)) `AGPLv3` `PHP`
   * [NewsBlur](http://www.newsblur.com/) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. ([Source Code ★4781](https://github.com/samuelclay/NewsBlur)) `MIT` `Python`
   * [Nunux Reader](http://reader.nunux.org/) - A simple, fast and reactive RSS reader. ([Source Code ★55](https://github.com/ncarlier/nunux-reader)) `GPLv3` `Nodejs`
   * [Reader-Self](http://readerself.com/) - Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative. ([Source Code ★143](https://github.com/readerself/readerself)) `GPLv3` `PHP`
@@ -929,7 +929,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 **[`^        back to top        ^`](#)**
 
- * [Bitwarden](https://bitwarden.com/) - Password manager with webapp, browser extension, and mobile app. ([Source Code ★732](https://github.com/bitwarden/core)) `AGPLv3` `C#`
+ * [Bitwarden](https://bitwarden.com/) - Password manager with webapp, browser extension, and mobile app. ([Source Code ★958](https://github.com/bitwarden/core)) `AGPLv3` `C#`
  * [keeweb](https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source Code ★5627](https://github.com/keeweb/keeweb)) `MIT` `HTML5`
  * [sysPass](http://www.syspass.org/) - Multiuser password management system. ([Demo](http://demo.syspass.org/), [Source Code ★261](https://github.com/nuxsmin/sysPass)) `GPLv3` `PHP`
  * [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source Code ★748](https://github.com/nilsteampassnet/TeamPass)) `GPLv3` `PHP`
@@ -944,7 +944,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [cryptonote](https://cryptonote.me/) - A simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code ★113](https://github.com/alainmeier/cryptonote)) `BSD` `Ruby`
   * [CryptPad](https://cryptpad.fr/) - CryptPad is the zero knowledge realtime collaborative editor. ([Source Code ★659](https://github.com/xwiki-labs/cryptpad)) `AGPLv3` `Nodejs`
   * [EdPaste ★5](https://github.com/Edraens/EdPaste) - Self-hosted pastebin written in Laravel (PHP Framework). `MIT` `PHP`
-  * [fiche ★392](https://github.com/solusipse/fiche) - Command line pastebin, all you need is netcat. ([Demo](http://termbin.com/)) `MIT` `C`
+  * [fiche ★401](https://github.com/solusipse/fiche) - Command line pastebin, all you need is netcat. ([Demo](http://termbin.com/)) `MIT` `C`
   * [gist](https://gitnet.fr/deblan/gist) - GIST is an open-source application to share code. `GPLv3` `PHP`
   * [hastebin](http://hastebin.com/about.md) - Open source pastebin written in node.js. ([Demo](http://hastebin.com/), [Source Code ★1285](https://github.com/seejohnrun/haste-server)) `MIT` `Nodejs`
   * [localpaste ★12 ⏳2Y](https://github.com/petermaloney/localpaste) - Simple python based pastebin you can run locally, with curl for input. Supports RAW text by default and binary data such as images (no extensions on returned url). `GPLv2` `Python`
@@ -1071,7 +1071,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 _See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists)_
 
   * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs. `Apache` `Python`
-  * [Bonobo Git Server](https://bonobogitserver.com/) - Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface. ([Source Code ★1176](https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
+  * [Bonobo Git Server](https://bonobogitserver.com/) - Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface. ([Source Code ★1193](https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
   * [CaseBox](https://www.casebox.org) - Manage all your organisation's information in one system. ([Source Code ★175](https://github.com/KETSE/casebox)) `AGPLv3` `PHP/Java`
   * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD` `C`
   * [Gitblit](http://gitblit.com/) - A pure Java stack for managing, viewing, and serving Git repositories. ([Source Code ★1373](https://github.com/gitblit/gitblit)) `Apache` `Java`

@@ -144,9 +144,9 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### PHP
 
-- [GifCreator ★239](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images
+- [GifCreator ★243](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images
 - [Spacer.gif ★16 ⏳1Y](https://github.com/msng/spacer.gif) - PHP script offering spacer.gif 1x1
-- [GifFrameExtractor ★98 ⏳1Y](https://github.com/Sybio/GifFrameExtractor) - PHP class that separates all the frames of an animated GIF
+- [GifFrameExtractor ★101 ⏳1Y](https://github.com/Sybio/GifFrameExtractor) - PHP class that separates all the frames of an animated GIF
 
 #### Objective-C
 

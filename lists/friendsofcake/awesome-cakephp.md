@@ -205,7 +205,7 @@ Additional lists you might find useful:
 
 - [ADmad/Glide plugin ★25](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](http://glide.thephpleague.com/) image manipulation library.
 - [Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) - An image manipulation plugin and wrapper around [Imagine ★3109](https://github.com/avalanche123/Imagine).
-- [Thumber plugin](https://github.com/mirko-pagliai/cakephp-thumber) - A plugin to create thumbnails using [intervention/image ★5839](https://github.com/Intervention/image).
+- [Thumber plugin](https://github.com/mirko-pagliai/cakephp-thumber) - A plugin to create thumbnails using [intervention/image ★5989](https://github.com/Intervention/image).
 
 ## Libs
 *Useful libraries or tools that don't fit in any of the other categories.*
@@ -213,7 +213,7 @@ Additional lists you might find useful:
 - [Aura.Intl ★72](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core.
 - [Capcake ★117](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
 - [Chronos ★388](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
-- [Composer Installers ★720](https://github.com/composer/installers) - A multi framework Composer library installer.
+- [Composer Installers ★726](https://github.com/composer/installers) - A multi framework Composer library installer.
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz ★47](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
@@ -351,7 +351,7 @@ Additional lists you might find useful:
 - [App template ★183](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 - [App template with material ui](https://github.com/coolops/web-app) - CakePHP material ui admin template project for use with composer.
 - [Crud plugin ★283](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
-- [Plugin Skeleton ★8 ⏳1Y](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin.
+- [Plugin Skeleton ★8 ⏳2Y](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin.
 
 ## Social
 *Plugins around social features.*
@@ -386,7 +386,7 @@ Additional lists you might find useful:
 - [CakePHP CodeSniffer rules ★183](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 - [CodeSniffer plugin ★15 ⏳1Y](https://github.com/dereuromark/cakephp-codesniffer) - Auto-find code issues/smells and auto-fix CS errors.
 - [CodeSniffer plugin sniffs ★0 ⏳3Y](https://github.com/dereuromark/codesniffer-standards) - Sniff packages/rules compatible with phpcs-fixer branch and the CodeSniffer plugin.
-- [Faker plugin](https://github.com/gourmet/faker) - [Faker ★11992](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
+- [Faker plugin](https://github.com/gourmet/faker) - [Faker ★12187](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
 - [Fixtures plugin ★1](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
 - [FriendsOfCake/fixturize ★15](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
 - [Gourmet/Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin ★430](https://github.com/thephpleague/factory-muffin) support for CakePHP fixture records.
@@ -411,7 +411,7 @@ Additional lists you might find useful:
 - [CakePHP Vagrant Setup ★4](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments.
 - [Docker ★13](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.
 - [NetBeans plugin ★38](https://github.com/junichi11/cakephp3-netbeans) -  This plugin provides support for CakePHP in NetBeans 8.1+.
-- [PhpStorm plugin ★3](https://github.com/skie/PhpStorm) -  CakePHP auto-completion support for console commands in PhpStorm IDE.
+- [PhpStorm plugin ★3 ⏳1Y](https://github.com/skie/PhpStorm) -  CakePHP auto-completion support for console commands in PhpStorm IDE.
 - [PuPHPet](https://puphpet.com/) - Web interface for building a Vagrant + Puppet box.
 - [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 - [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.

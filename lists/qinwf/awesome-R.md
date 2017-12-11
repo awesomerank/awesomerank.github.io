@@ -90,7 +90,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [JASP](https://jasp-stats.org/) - A complete package for both Bayesian and Frequentist methods, that is familiar to users of SPSS.
 * [Bio7](http://www.bio7.org/) - A IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - R Tools for Visual Studio.
-* [Rice ★153](https://github.com/randy3k/Rice) - A modern R console with syntax highlighting.
+* [Rice ★165](https://github.com/randy3k/Rice) - A modern R console with syntax highlighting.
 
 ## Syntax
 *Packages change the way you use R.*
@@ -157,7 +157,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [Leaflet](http://rstudio.github.io/leaflet/) - One of the most popular JavaScript libraries interactive maps.
 * [MetricsGraphics](http://hrbrmstr.github.io/metricsgraphics/) - Enables easy creation of D3 scatterplots, line charts, and histograms.
 * [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript Network Graphs from R.
-* [scatterD3 ★96](https://github.com/juba/scatterD3) - Interactive scatterplots with D3.
+* [scatterD3 ★96 ⏳1Y](https://github.com/juba/scatterD3) - Interactive scatterplots with D3.
 * [plotly <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20"> ★1094](https://github.com/ropensci/plotly) - Interactive ggplot2 and Shiny plotting with [plot.ly](https://plot.ly).
 * [rCharts <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20"> ★1092 ⏳1Y](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
 * [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
@@ -186,7 +186,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 *Packages to surf the web.*
 
 * [Web Technologies List ★134](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
-* [shiny <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny ★82](https://github.com/grabear/awesome-rshiny)
+* [shiny <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny ★97](https://github.com/grabear/awesome-rshiny)
 * [shinyjs ★293](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
 * [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
 * [httr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
@@ -609,7 +609,7 @@ Where to discover new R-esources.
 
 * [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness)
 * [lists ★4569](https://github.com/jnv/lists)
-* [awesome-rshiny ★82](https://github.com/grabear/awesome-rshiny)
+* [awesome-rshiny ★97](https://github.com/grabear/awesome-rshiny)
 
 # Contributing
 Your contributions are always welcome!

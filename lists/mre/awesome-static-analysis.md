@@ -69,7 +69,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) :copyright: - provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in C and C++ source code.
 * [scan-build](https://clang-analyzer.llvm.org/scan-build.html) - Analyzes C/C++ code using LLVM at compile-time
 * [splint ★49](https://github.com/ravenexp/splint) - Annotation-assisted static program checker
-* [tis-interpreter ★391](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
+* [tis-interpreter ★391 ⏳1Y](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
 * [vera++](https://bitbucket.org/verateam/vera/wiki/Introduction) - Vera++ is a programmable tool for verification, analysis and transformation of C++ source code.
 
 ## C# #
@@ -113,12 +113,11 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [flen ★35 ⏳1Y](https://github.com/lafolle/flen) - Get info on length of functions in a Go package.
 * [gas ★760](https://github.com/GoASTScanner/gas) - Inspects source code for security problems by scanning the Go AST.
 * [Go Meta Linter ★2121](https://github.com/alecthomas/gometalinter) - Concurrently run Go lint tools and normalise their output.
-* [goconst ★90](https://github.com/jgautheron/goconst) - Finds repeated strings that could be replaced by a constant.
-* [go vet](https://golang.org/cmd/vet/) - Examines Go source code and reports suspicious.
 * [go tool vet --shadow](https://golang.org/cmd/vet/#hdr-Shadowed_variables) - Reports variables that may have been unintentionally shadowed.
-* [gotype](https://golang.org/x/tools/cmd/gotype) - Syntactic and semantic analysis similar to the Go compiler.
+* [go vet](https://golang.org/cmd/vet/) - Examines Go source code and reports suspicious.
 * [go-staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - go vet on steroids, similar to ReSharper for C#.
 * [go/ast](https://golang.org/pkg/go/ast/) - Package ast declares the types used to represent syntax trees for Go packages.
+* [goconst ★90](https://github.com/jgautheron/goconst) - Finds repeated strings that could be replaced by a constant.
 * [gocyclo ★348](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 * [gofmt -s](https://golang.org/cmd/gofmt/) - Checks if the code is properly formatted and could not be further simplified.
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - Checks missing or unreferenced package imports.
@@ -126,6 +125,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [goreporter](https://github.com/wgliang/goreporter) - concurrently runs many linters and normalises their output to a report.
 * [goroutine-inspect ★176](https://github.com/linuxerwang/goroutine-inspect) - An interactive tool to analyze Golang goroutine dump.
 * [gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) - Report simplifications in code.
+* [gotype](https://golang.org/x/tools/cmd/gotype) - Syntactic and semantic analysis similar to the Go compiler.
 * [ineffassign ★141](https://github.com/gordonklaus/ineffassign) - Detect ineffectual assignments in Go code
 * [interfacer ★680](https://github.com/mvdan/interfacer) - Suggest narrower interfaces that can be used.
 * [lll ★15](https://github.com/walle/lll) - Report long lines.
@@ -138,11 +138,11 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [structcheck ★198](https://github.com/opennota/check) - Find unused struct fields.
 * [test](http://golang.org/pkg/testing/) - Show location of test failures from the stdlib testing module.
 * [testify ★4097](https://github.com/stretchr/testify) - Show location of failed testify assertions.
-* [varcheck ★198](https://github.com/opennota/check) - Find unused global variables and constants.
 * [unconvert ★181 ⏳1Y](https://github.com/mdempsky/unconvert) - Detect redundant type conversions.
 * [unimport ★39](https://github.com/alexkohler/unimport) - Finds unnecessary import aliases
 * [unparam ★108](https://github.com/mvdan/unparam) - Find unused function parameters.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - Find unused variables.
+* [varcheck ★198](https://github.com/opennota/check) - Find unused global variables and constants.
 
 ## Groovy
 
@@ -331,8 +331,9 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [Axivion Bauhaus Suite](https://www.axivion.com/en/products-services-9#products_bauhaussuite) :copyright: - Tracks down error-prone code locations, style violations, cloned or dead code, cyclic dependencies and more for C/C++, C#/.NET, Java and Ada 83/Ada 95
 * [coala](https://coala.io/) - Language independent framework for creating code analysis - supports [over 60 languages](https://coala.io/languages) by default
 * [Cobra](http://spinroot.com/cobra/) :copyright: - Structural source code analyzer by NASA's Jet Propulsion Laboratory. Supports C, C++, Ada, and Python.
-* [codeburner ★59](https://github.com/groupon/codeburner) - Provides a unified interface to sort and act on the issues it finds
+* [codeburner ★59 ⏳1Y](https://github.com/groupon/codeburner) - Provides a unified interface to sort and act on the issues it finds
 * [CodeFactor](https://codefactor.io) :copyright: - Static Code Analysis for C#, C, C++, CoffeeScript, CSS, Groovy, GO, JAVA, JavaScript, Less, Python, Ruby, Scala, SCSS, TypeScript.
+* [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: - CodeIt.Right&trade; provides a fast, automated way to ensure that your source code adheres to (your) predefined design and style guidelines as well as best coding practices. Supported languages: C#, VB.NET.
 * [Coverity Save](http://www.coverity.com/products/coverity-save/) :copyright: - Static analysis for  C/C++, Java and C#
 * [cqc ★227](https://github.com/xcatliu/cqc) - Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
 * [DevSkim ★134](https://github.com/microsoft/devskim) - Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
@@ -342,7 +343,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [Infer ★7613](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C
 * [Klocwork](http://www.klocwork.com/products-services/klocwork) :copyright: - Quality and Security Static analysis for  C/C++, Java and C#
 * [oclint ★2085](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
-* [pfff ★2113](https://github.com/facebook/pfff) - Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages
+* [pfff ★2133](https://github.com/facebook/pfff) - Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages
 * [PMD](https://pmd.github.io/) - A source code analyzer for Java, Javascript, PLSQL, XML, XSL and others
 * [pre-commit ★1580](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 * [PVS-Studio](https://www.viva64.com/en/pvs-studio/) :copyright: - a ([conditionaly free](https://www.viva64.com/en/b/0457/) for FOSS) static analysis of C/C++ and C# code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees ★14](https://github.com/viva64/pvs-studio-check-list).
@@ -422,7 +423,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 
 ## Mobile
 
-* [android-lint-summary ★166 ⏳1Y](https://github.com/passy/android-lint-summary) - Combines lint errors of multiple projects into one output, check lint results of multiple sub-projects at once.
+* [android-lint-summary ★168](https://github.com/passy/android-lint-summary) - Combines lint errors of multiple projects into one output, check lint results of multiple sub-projects at once.
 * [FlowDroid ★193](https://github.com/secure-software-engineering/soot-infoflow-android) - static taint analysis tool for Android applications
 * [paprika ★36](https://github.com/GeoffreyHecht/paprika) - A toolkit to detect some code smells in analyzed Android applications.
 * [qark ★1448](https://github.com/linkedin/qark) - Tool to look for several security related Android application vulnerabilities

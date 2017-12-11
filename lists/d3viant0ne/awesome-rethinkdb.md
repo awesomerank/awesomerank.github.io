@@ -107,7 +107,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 ##### Technology Integrations
 
-- [flask-rethinkdb ★28 ⏳3Y](https://github.com/linkyndy/flask-rethinkdb) - Adds RethinkDB support to Flask.
+- [flask-rethinkdb ★28 ⏳4Y](https://github.com/linkyndy/flask-rethinkdb) - Adds RethinkDB support to Flask.
  - Maintainer: `Andrei Horak`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/linkyndy) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/linkyndy)
 - [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/python/) - Integrating RethinkDB with RabbitMQ
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
@@ -168,7 +168,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 #### Community Supported Drivers
 
-- [C# ★230](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
+- [C# ★233](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
 - [C++ ★68](https://github.com/AtnNn/librethinkdbxx) - RethinkDB driver for C++.
 - [Clojure ★175](https://github.com/apa512/clj-rethinkdb) - A RethinkDB client for Clojure.
 - [Dart ★21](https://github.com/billysometimes/rethinkdb) - A Dart driver for RethinkDB v2.0.3.
@@ -227,7 +227,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [RethinkDB Reactjs ★26 ⏳2Y](https://github.com/arkency/rethinkdb-reactjs) - rethinkdb + react.js + ActionController::Live (Rails) + Server Side Events.
 - [Realtime Chat RethinkDB](https://github.com/Unrestricted-Coding/realtime-chat-RethinkDB) - A realtime chatroom built with RethinkDB
 - [Boot RethinkDB ★31 ⏳1Y](https://github.com/geowarin/boot-rethinkdb) - Chat example with spring boot and RethinkDB.
-- [Go RethinkDB ToDo ★64 ⏳1Y](https://github.com/dancannon/GoRethink_TodoDemo) - Go RethinkDB Todo List Example Application.
+- [Go RethinkDB ToDo ★64 ⏳2Y](https://github.com/dancannon/GoRethink_TodoDemo) - Go RethinkDB Todo List Example Application.
 - [Meguca ★114](https://github.com/bakape/meguca) - High performance real-time imageboard in Go, TypeScript and RethinkDB.
 - [VueJS RethinkDB ★57 ⏳1Y](https://github.com/alexcheninfo/vuejs-rethinkdb-example) - Vuejs + Express + RethinkDB example.
 - [3ree ★845](https://github.com/GordyD/3ree) - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express.

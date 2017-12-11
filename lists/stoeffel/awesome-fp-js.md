@@ -60,6 +60,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [most ★2411](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 * [zen-signals ★7](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 * [funfix ★296](https://github.com/funfix/funfix) – Funfix is a library of type classes and data types for Functional Programming in JavaScript, TypeScript and Flow.
+* [pico-lambda ★39](https://github.com/trainyard/pico-lambda) - Arrays, Strings and things the functional way. A 640b functional library based on native methods.
 
 ### Data Structures
 
@@ -74,7 +75,7 @@ Write performant functional code by using the right data structures for the task
 * [Lazy.js ★4446](https://github.com/dtao/lazy.js) – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
 * [DerivableJS ★442](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related.
 * [imlazy ★52](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
-* [collectable ★86](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. 
+* [collectable ★109](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. 
 
 
 ### Algebraic Data Types

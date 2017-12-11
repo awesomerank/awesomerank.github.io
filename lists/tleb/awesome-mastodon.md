@@ -48,11 +48,11 @@ title: Awesome Rank for tleb/awesome-mastodon
 * [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
 * [TootyFruity](https://play.google.com/store/apps/details?id=ch.kevinegli.tootyfruity221258) - Android app for Mastodon.
 * [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
-* [Tooty ★82](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
+* [Tooty ★84](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
 * [Mustor](https://itunes.apple.com/app/id1229531204) - iOS app for Mastodon.
-* [toot ★75](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
-* [madonctl ★57](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
-* [naumanni ★84](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
+* [toot ★78](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
+* [madonctl ★59](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
+* [naumanni ★86](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
 * [Tooter ★5](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
 
 ## Tools
@@ -79,7 +79,7 @@ title: Awesome Rank for tleb/awesome-mastodon
 
 * [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (Python).
 * [usercount ★28](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (Python).
-* [autofollow ★21](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python).
+* [autofollow ★22](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python).
 * [hnbot ★27](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python).
 * [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
@@ -162,7 +162,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ## Librairies
 
-* [Mastodon.py ★174](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
+* [Mastodon.py ★184](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/tleb/awesome-mastodon">tleb/awesome-mastodon</a> with ranks

@@ -30,17 +30,17 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 - [Forums](#forums)
 - [Resources](#resources)
   - [Tips](#tips)
-  - [XSS](#xss)
+  - [XSS](#xss---cross-site-scripting)
   - [CSV Injection](#csv-injection)
   - [SQL Injection](#sql-injection)
   - [ORM Injection](#orm-injection)
   - [FTP Injection](#ftp-injection)
-  - [XXE](#xxe)
-  - [CSRF](#csrf)
-  - [SSRF](#ssrf)
+  - [XXE](#xxe---xml-external-entity)
+  - [CSRF](##csrf---cross-site-request-forgery)
+  - [SSRF](#ssrf---server-side-request-forgery)
   - [Rails](#rails)
   - [AngularJS](#angularjs)
-  - [SSL/TLS](#ssl-tls)
+  - [SSL/TLS](#ssltls)
   - [Webmail](#webmail)
   - [NFS](#nfs)
   - [AWS](#aws)
@@ -112,6 +112,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 <a name="xss"></a>
 ### XSS - Cross-Site Scripting
 
+* [Cross-Site Scripting – Application Security – Google](https://www.google.com/intl/sw/about/appsecurity/learning/xss/) - Introduction to XSS by [Google](https://www.google.com/).
 * [H5SC ★1728](https://github.com/cure53/H5SC) - HTML5 Security Cheatsheet - Collection of HTML5 related XSS attack vectors by [@cure53](https://github.com/cure53).
 * [XSS.png ★278 ⏳1Y](https://github.com/jackmasa/XSS.png) - XSS mind map by [@jackmasa](https://github.com/jackmasa).
 * [C.XSS Guide](https://excess-xss.com/) - Comprehensive tutorial on cross-site scripting by [@JakobKallin](https://github.com/JakobKallin) and [Irene Lobo Valbuena](https://www.linkedin.com/in/irenelobovalbuena/).
@@ -353,7 +354,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 <a name="tools-reconnaissance"></a>
 ### Reconnaissance
 
-* [FOCA ★152](https://github.com/ElevenPaths/FOCA) - FOCA (Fingerprinting Organizations with Collected Archives) is a tool used mainly to find metadata and hidden information in the documents its scans by [ElevenPaths](https://www.elevenpaths.com/index.html).
+* [FOCA ★178](https://github.com/ElevenPaths/FOCA) - FOCA (Fingerprinting Organizations with Collected Archives) is a tool used mainly to find metadata and hidden information in the documents its scans by [ElevenPaths](https://www.elevenpaths.com/index.html).
 * [xray ★892](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks by [@evilsocket](https://github.com/evilsocket).
 * [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices by [@shodanhq](https://twitter.com/shodanhq).
 * [Censys](https://censys.io/) - Censys is a search engine that allows computer scientists to ask questions about the devices and networks that compose the Internet by [University of Michigan](https://umich.edu/).
@@ -363,10 +364,10 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [NSFOCUS](https://nti.nsfocus.com/) - THREAT INTELLIGENCE PORTAL by NSFOCUS GLOBAL.
 * [傻蛋联网设备搜索](https://www.oshadan.com/) - 监测互联网基础设施安全威胁 by [@傻蛋搜索](http://weibo.com/shadansou).
 * [gitrob ★1981](https://github.com/michenriksen/Gitrob) - Reconnaissance tool for GitHub organizations by [@michenriksen](https://github.com/michenriksen).
-* [raven ★366](https://github.com/0x09AL/raven) - raven is a Linkedin information gathering tool that can be used by pentesters to gather information about an organization employees using Linkedin by [@0x09AL](https://github.com/0x09AL).
+* [raven ★376](https://github.com/0x09AL/raven) - raven is a Linkedin information gathering tool that can be used by pentesters to gather information about an organization employees using Linkedin by [@0x09AL](https://github.com/0x09AL).
 * [ReconDog ★165](https://github.com/UltimateHackers/ReconDog) - Recon Dog is an all in one tool for all your basic information gathering needs by [@UltimateHackers](https://github.com/UltimateHackers).
 * [AQUATONE ★790](https://github.com/michenriksen/aquatone) - Tool for Domain Flyovers by [@michenriksen](https://github.com/michenriksen).
-* [domain_analyzer ★957](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible by [@eldraco](https://github.com/eldraco).
+* [domain_analyzer ★1160](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible by [@eldraco](https://github.com/eldraco).
 * [VirusTotal domain information](https://www.virustotal.com/en/documentation/searching/#getting-domain-information) - Searching for domain information by [VirusTotal](https://www.virustotal.com/).
 * [Certificate Transparency ★478](https://github.com/google/certificate-transparency) - Google's Certificate Transparency project fixes several structural flaws in the SSL certificate system by [@google](https://github.com/google).
 * [Certificate Search](https://crt.sh/) - Enter an Identity (Domain Name, Organization Name, etc), a Certificate Fingerprint (SHA-1 or SHA-256) or a crt.sh ID to search certificate(s) by [@crtsh](https://github.com/crtsh).
@@ -407,7 +408,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [HTTPLeaks ★750](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests by [@cure53](https://github.com/cure53).
 * [dvcs-ripper ★622](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG... by [@kost](https://github.com/kost).
 * [DVCS-Pillage ★188](https://github.com/evilpacket/DVCS-Pillage) - Pillage web accessible GIT, HG and BZR repositories by [@evilpacket](https://github.com/evilpacket).
-* [GitMiner ★611](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github by [@UnkL4b](https://github.com/UnkL4b).
+* [GitMiner ★785](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github by [@UnkL4b](https://github.com/UnkL4b).
 
 <a name="tools-detecting"></a>
 ### Detecting
@@ -426,7 +427,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 ### Webshell
 
 * [webshell ★2595](https://github.com/tennc/webshell) - This is a webshell open source project by [@tennc](https://github.com/tennc).
-* [Weevely ★1049](https://github.com/epinna/weevely3) - Weaponized web shell by [@epinna](https://github.com/epinna).
+* [Weevely ★1067](https://github.com/epinna/weevely3) - Weaponized web shell by [@epinna](https://github.com/epinna).
 * [Webshell-Sniper ★131](https://github.com/WangYihang/Webshell-Sniper) - Manage your website via terminal by [@WangYihang](https://github.com/WangYihang).
 * [Reverse-Shell-Manager ★76](https://github.com/WangYihang/Reverse-Shell-Manager) - Reverse Shell Manager via Terminal [@WangYihang](https://github.com/WangYihang).
 * [Linux后门整理合集（脉搏推荐）](https://www.secpulse.com/archives/59674.html) - Written by [armyzer0](https://www.secpulse.com/archives/author/armyzer0).

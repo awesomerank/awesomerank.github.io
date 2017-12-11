@@ -194,7 +194,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
 * [Sprockets ★2681 ⏳1Y](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
 * [Torba ★165 ⏳1Y](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
-* [Webpacker ★2403](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
+* [Webpacker ★2557](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
 ## Authentication and OAuth
 
@@ -704,7 +704,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Log4r ★211](https://github.com/colbygk/log4r) - Log4r is a comprehensive and flexible logging library for use in Ruby programs.
 * [Logging ★439](https://github.com/TwP/logging) - A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
 * [Lograge ★2148](https://github.com/roidrage/lograge) - An attempt to tame Rails' default policy to log everything.
-* [MongoDB Logger ★143](https://github.com/le0pard/mongodb_logger) - MongoDB logger for Rails.
+* [MongoDB Logger ★143 ⏳1Y](https://github.com/le0pard/mongodb_logger) - MongoDB logger for Rails.
 * [Scrolls ★154](https://github.com/asenchi/scrolls) - Simple logging.
 * [Semantic Logger](https://rocketjob.github.io/semantic_logger/) - Scalable, next generation enterprise logging for Ruby.
 * [Yell ★311](https://github.com/rudionrails/yell) - Your Extensible Logging Library.
@@ -714,7 +714,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Awesome Machine Learning with Ruby ★717](https://github.com/arbox/machine-learning-with-ruby) - A Curated List of Ruby Machine Learning Links and Resources.
 * [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
 * [rb-libsvm ★254](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
-* [Ruby Datumbox Wrapper ★11 ⏳3Y](https://github.com/marloncarvalho/ruby-datumbox) - It's a simple Ruby Datumbox Wrapper. At the moment the API currently allows you to build applications that make use of machine learning algorithms.
+* [Ruby Datumbox Wrapper ★11 ⏳4Y](https://github.com/marloncarvalho/ruby-datumbox) - It's a simple Ruby Datumbox Wrapper. At the moment the API currently allows you to build applications that make use of machine learning algorithms.
 * [weka ★47](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
 
 ## Markdown Processors
@@ -893,7 +893,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Profiler and Optimization
 
-* [batch-loader ★285](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+* [batch-loader ★297](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 * [benchmark-ips ★1026](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
 * [bullet ★4879](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
 * [Derailed Benchmarks ★1808](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.

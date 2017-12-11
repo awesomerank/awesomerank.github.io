@@ -105,7 +105,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### JavaScript Libraries
 
-* [GraphQL.js ★8392](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript.
+* [GraphQL.js ★8696](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript.
 * [express-graphql ★2643](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
 * [koa-graphql ★452](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
 * [hapi-graphql ★103 ⏳1Y](https://github.com/SimonDegraeve/hapi-graphql) - Create a GraphQL HTTP server with Hapi.
@@ -123,7 +123,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-reach ★117 ⏳1Y](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux
 * [Lokka ★1182](https://github.com/kadirahq/lokka) - Simple JavaScript client for GraphQL, which you can use anywhere.
 * [Strapi](http://strapi.io/documentation/graphql) - Open-source Node.js framework that supports "GraphQL" out of the box.
-* [GraysQL ★25](https://github.com/larsbs/graysql) - A GraphQL manager and loader.
+* [GraysQL ★25 ⏳1Y](https://github.com/larsbs/graysql) - A GraphQL manager and loader.
 * [graysql-orm-loader ★6 ⏳1Y](https://github.com/larsbs/graysql-orm-loader) - A GraysQL extension to load a GraphQL schema from an ORM.
 * [Annotated GraphQL ★1 ⏳1Y](https://github.com/almilo/annotated-graphql) - Proof of Concept for annotations in GraphQL (i.e.: transform an existing REST api into a GraphQL endpoint).
 * [Apollo Client ★5086](https://github.com/apollographql/apollo-client) - A well-documented GraphQL client. Has React and Angular bindings.
@@ -170,7 +170,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [relay-local-schema ★189](https://github.com/relay-tools/relay-local-schema) - Use Relay without a GraphQL server.
 * [relay-sink ★129](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - Recompose helpers for Relay.
-* [Graylay ★25](https://github.com/larsbs/graysql#Graylay) - A GraysQL extension to create a Relay compatible Schema.
+* [Graylay ★25 ⏳1Y](https://github.com/larsbs/graysql#Graylay) - A GraysQL extension to create a Relay compatible Schema.
 * [Apollo Client ★5086](https://github.com/apollographql/apollo-client) - A simple alternative to Relay, comes with React and Angular bindings.
 * [react-relay-network-layer ★267](https://github.com/nodkz/react-relay-network-layer) - A network layer for Relay with query batching and middleware support (urlThunk, retryThunk, auth, defer and other).
 * [relay-subscriptions ★187](https://github.com/edvinerikson/relay-subscriptions) - Subscription support for Relay.
@@ -185,7 +185,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-parser](https://github.com/Shopify/graphql-parser) - A small ruby gem wrapping the libgraphqlparser C library for parsing GraphQL.
 * [graphql-client ★474](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
 * [graphql-batch ★431](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
-* [batch-loader ★285](https://github.com/exaspark/batch-loader) – A powerful tool to avoid N+1 queries without extra dependencies or primitives.
+* [batch-loader ★297](https://github.com/exaspark/batch-loader) – A powerful tool to avoid N+1 queries without extra dependencies or primitives.
 * [graphql-guard ★189](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization for the graphql gem.
 
 <a name="lib-php" />
@@ -269,10 +269,10 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### .NET Libraries
 
-* [graphql-dotnet ★1423](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
+* [graphql-dotnet ★1492](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
 * [Conventions ★55](https://github.com/graphql-dotnet/conventions) - Reflection-based schema generation for .NET.
 * [graphql-net ★461](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET
-* [FSharp.Data.GraphQL ★112](https://github.com/fsprojects/FSharp.Data.GraphQL) - FSharp GraphQL.
+* [FSharp.Data.GraphQL ★113](https://github.com/fsprojects/FSharp.Data.GraphQL) - FSharp GraphQL.
 
 <a name="lib-erlang" />
 

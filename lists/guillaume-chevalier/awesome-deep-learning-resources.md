@@ -106,11 +106,11 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [carpedm20/NTM-tensorflow ★741](https://github.com/carpedm20/NTM-tensorflow) - Neural Turing Machine TensorFlow implementation.
 - [Deep learning for lazybones](http://oduerr.github.io/blog/2016/04/06/Deep-Learning_for_lazybones) - Transfer learning tutorial in TensorFlow for vision from high-level embeddings of a pretrained CNN, AlexNet 2012.
 - [LSTM for Human Activity Recognition (HAR) ★1105](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Tutorial of mine on using LSTMs on time series for classification.
-- [Deep stacked residual bidirectional LSTMs for HAR ★74](https://github.com/guillaume-chevalier/HAR-stacked-residual-bidir-LSTMs) - Improvements on the previous project.
+- [Deep stacked residual bidirectional LSTMs for HAR ★76](https://github.com/guillaume-chevalier/HAR-stacked-residual-bidir-LSTMs) - Improvements on the previous project.
 - [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction ★164](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Tutorial of mine on how to predict temporal sequences of numbers - that may be multichannel.
-- [Hyperopt for a Keras CNN on CIFAR-100 ★41](https://github.com/Vooban/Hyperopt-Keras-CNN-CIFAR-100) - Auto (meta) optimizing a neural net (and its architecture) on the CIFAR-100 dataset.
+- [Hyperopt for a Keras CNN on CIFAR-100 ★43](https://github.com/Vooban/Hyperopt-Keras-CNN-CIFAR-100) - Auto (meta) optimizing a neural net (and its architecture) on the CIFAR-100 dataset.
 - [ML / DL repositories I starred](https://github.com/guillaume-chevalier?direction=desc&page=1&q=machine+OR+deep+OR+learning+OR+rnn+OR+lstm+OR+cnn&sort=stars&tab=stars&utf8=%E2%9C%93) - GitHub is full of nice code samples & projects.
-- [Smoothly Blend Image Patches ★54](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - Smooth patch merger for [semantic segmentation with a U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/).
+- [Smoothly Blend Image Patches ★59](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - Smooth patch merger for [semantic segmentation with a U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/).
 
 <a name="some-datasets" />
 

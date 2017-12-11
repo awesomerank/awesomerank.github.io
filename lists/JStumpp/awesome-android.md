@@ -216,7 +216,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [ijkplayer ★16246](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
 - [Exoplayer ★8500](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
    Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
-- [Easy-Video-Player ★1020](https://github.com/afollestad/easy-video-player) - Easy Video Player is very simple and easy to use in our app. 
+- [Easy-Video-Player ★1051](https://github.com/afollestad/easy-video-player) - Easy Video Player is very simple and easy to use in our app. 
 - [VideoPlayView ★45](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
 
 #### Camera
@@ -370,7 +370,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Runtime Permissions
 
-- [Permission Dispatcher ★6005](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
+- [Permission Dispatcher ★6252](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
 - [RxPermissions ★5105](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava.
 - [NoPermission ★61](https://github.com/NoNews/NoPermission) - Simple Android library for permissions request. Consists of only one class.
 

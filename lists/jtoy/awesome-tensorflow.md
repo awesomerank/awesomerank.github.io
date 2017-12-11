@@ -51,12 +51,13 @@ More info [here](http://tensorflow.org).
 * [Single Image Random Dot Stereograms ★1](https://github.com/Mazecreator/TensorFlow-SIRDS) - SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.
 * [CS20 SI: TensorFlow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html) - Stanford Course about Tensorflow from 2017 - [Syllabus](http://web.stanford.edu/class/cs20si/syllabus.html) - [Unofficial Videos](https://youtu.be/g-EvyKpZjmQ?list=PLSPPwKHXGS2110rEaNH7amFGmaD5hsObs)
 * [TensorFlow World ★3610](https://github.com/astorfi/TensorFlow-World) - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
-* [Effective Tensorflow ★6424](https://github.com/vahidk/EffectiveTensorflow) - Tensorflow howtos and best practices. Covers the basics as well as advanced topics.
+* [Effective Tensorflow ★6424](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
 
 <a name="github-projects" />
 
 ## Models/Projects
 
+* [SenseNet](https://github.com/jtoy/sensenetjey/dtn-tensorflow) - Robotics touch model with TensorFlow DQN example
 * [Domain Transfer Network](https://github.com/yunjey/dtn-tensorflow) - Implementation of Unsupervised Cross-Domain Image Generation
 * [Show, Attend and Tell](https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
 * [Neural Style ★1274](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
@@ -93,7 +94,7 @@ More info [here](http://tensorflow.org).
 
 
 * [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow ★264](https://github.com/astorfi/lip-reading-deeplearning) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
-* [Attentive Object Tracking ★59](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
+* [Attentive Object Tracking ★70](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
 * [Holographic Embeddings for Graph Completion and Link Prediction ★0](https://github.com/laxatives/TensorFlow-TransX) - Implementation of [Holographic Embeddings of Knowledge Graphs](http://arxiv.org/abs/1510.04935)
 * [Unsupervised Object Counting ★16](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
 

@@ -119,7 +119,7 @@ Name | License | Demo
 [WaveView ★1115](https://github.com/gelitenight/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/gelitenight-WaveView.gif" width="65%">
 [FoldableLayout ★522 ⏳2Y](https://github.com/worldline/FoldableLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FoldableLayout.gif" width="49%">
 [TriangleLabelView ★656 ⏳1Y](https://github.com/shts/TriangleLabelView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TriangleLabelView.jpg" width="49%">
-[FlexboxLayout ★9811](https://github.com/google/flexbox-layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlexboxLayout.gif" width="49%"> <img src="/art/FlexboxLayout2.gif" width="49%">
+[FlexboxLayout ★10069](https://github.com/google/flexbox-layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlexboxLayout.gif" width="49%"> <img src="/art/FlexboxLayout2.gif" width="49%">
 [Vorolay ★767](https://github.com/Quatja/Vorolay) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Vorolay.png" width="49%"> <img src="/art/Vorolay2.png" width="49%">
 [Hover ★2177](https://github.com/google/hover) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/hover.gif" width="49%">
 
@@ -210,7 +210,7 @@ Name | License | Demo
 [ParkedTextView ★235](https://github.com/gotokatsuya/ParkedTextView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ParkedTextView.gif" width="60%">
 [Material Code input ★741](https://github.com/glomadrian/material-code-input) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-code-input.gif" width="60%"> <br><br> <img src="/art/material-code-input2.gif" width="60%">
 [TextSurface ★1754 ⏳1Y](https://github.com/elevenetc/TextSurface) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TextSurface.gif" width="100%">
-[EmailAutoCompleteTextView ★415 ⏳1Y](https://github.com/tasomaniac/EmailAutoCompleteTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EmailAutoCompleteTextView.gif" width="60%">
+[EmailAutoCompleteTextView ★415 ⏳2Y](https://github.com/tasomaniac/EmailAutoCompleteTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EmailAutoCompleteTextView.gif" width="60%">
 [Tab Digit ★343](https://github.com/xenione/tab-digit) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/tab-digit.gif" width="49%"> <img src="/art/tab-digit2.gif" width="49%">
 [RotatingText ★1036](https://github.com/sdsmdg/RotatingText) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/RotatingText.gif" width="100%">
 
@@ -384,7 +384,7 @@ Name | License | Demo
 [Rotatable ★213 ⏳1Y](https://github.com/yayaa/Rotatable) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/Rotatable.gif" width="100%">
 [StatusBarUtil ★4354](https://github.com/laobie/StatusBarUtil) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StatusBarUtil.png" width="100%">
 [Horizon - Simple visual equaliser for Android ★1625](https://github.com/Yalantis/Horizon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Horizon.png" width="100%">
-[Stepper Touch ★264](https://github.com/DanielMartinus/Stepper-Touch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StepperTouch.gif" width="49%">
+[Stepper Touch ★274](https://github.com/DanielMartinus/Stepper-Touch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StepperTouch.gif" width="49%">
 [Konfetti ★687](https://github.com/DanielMartinus/konfetti) | [ISC](https://opensource.org/licenses/ISC) | <img src="/art/konfetti.gif">
 ---
 <p align="center">

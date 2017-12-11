@@ -32,12 +32,17 @@ title: Awesome Rank for sindresorhus/awesome
 
 <br>
 
+<!--
 <div align="center">
 	<span>🐦</span>
 	<b>We now have a Twitter account: <a href="https://twitter.com/awesome__re">@awesome__re</a></b>
 	<br>
 	<span>Follow for updates on new lists, community news, and other awesome stuff.</span>
 </div>
+<br>
+-->
+
+<h4 align="center">My free macOS app <a href="https://www.producthunt.com/posts/black-out">Black Out</a> is on Product Hunt</a>.<br><sub>It makes it easy to hide sensitive parts of an image.</sub></h4>
 <br>
 
 <p align="center">
@@ -153,11 +158,11 @@ title: Awesome Rank for sindresorhus/awesome
 - [Java ★14672](lists/akullpp/awesome-java.md)
 	- [RxJava ★153 ⏳1Y](lists/eleventigers/awesome-rxjava.md)
 - [Kotlin ★3563](lists/KotlinBy/awesome-kotlin.md)
-- [OCaml ★1103](lists/rizo/awesome-ocaml.md)
-- [ColdFusion ★46](lists/seancoyne/awesome-coldfusion.md)
-- [Fortran ★124](lists/rabbiabram/awesome-fortran.md)
+- [OCaml ★1136](lists/rizo/awesome-ocaml.md)
+- [ColdFusion ★48](lists/seancoyne/awesome-coldfusion.md)
+- [Fortran ★127](lists/rabbiabram/awesome-fortran.md)
 - [.NET ★5523](lists/quozd/awesome-dotnet.md)
-	- [Core ★3400](lists/thangchung/awesome-dotnet-core.md)
+	- [Core ★3584](lists/thangchung/awesome-dotnet-core.md)
 - [PHP ★17326](lists/ziadoz/awesome-php.md)
 	- [Composer ★248](lists/jakoch/awesome-composer.md) - Package manager.
 - [Delphi ★366](lists/Fr0sT-Brutal/awesome-delphi.md)
@@ -262,13 +267,14 @@ title: Awesome Rank for sindresorhus/awesome
 - [Serverless Framework ★1121](lists/JustServerless/awesome-serverless.md)
 - [Apache Wicket ★26 ⏳1Y](lists/PhantomYdn/awesome-wicket.md) - Java web app framework.
 - [Vert.x ★608](lists/vert-x3/vertx-awesome.md) - Toolkit for building reactive apps on the JVM.
+- [Terraform ★185](lists/shuaibiyy/awesome-terraform.md) - Tool for building, changing, and versioning infrastructure.
 
 
 ## Computer Science
 
 - [University Courses ★21568](lists/prakhar1989/awesome-courses.md)
 - [Data Science ★4788](lists/bulutyazilim/awesome-datascience.md)
-	- [Tutorials ★166](lists/siboehm/awesome-learn-datascience.md)
+	- [Tutorials ★174](lists/siboehm/awesome-learn-datascience.md)
 - [Machine Learning ★28131](lists/josephmisiti/awesome-machine-learning.md)
 	- [Tutorials ★5434](lists/ujjwalkarn/Machine-Learning-Tutorials.md)
 	- [ML with Ruby ★717](lists/arbox/machine-learning-with-ruby.md) - Learning, implementing, and applying Machine Learning using Ruby.
@@ -316,7 +322,7 @@ title: Awesome Rank for sindresorhus/awesome
 ## Books
 
 - [Free Programming Books ★97291](lists/EbookFoundation/free-programming-books.md)
-- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
+- [Free Software Testing Books ★945](lists/ligurio/awesome-software-quality.md)
 - [Go Books ★4242](lists/dariubs/GoBooks.md)
 - [R Books ★76](lists/RomanTsegelskyi/rbooks.md)
 - [Mind Expanding Books ★2853](lists/hackerkid/Mind-Expanding-Books.md)
@@ -339,7 +345,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Game Talks ★489 ⏳1Y](lists/hzoo/awesome-gametalks.md)
 - [Godot ★515](lists/Calinou/awesome-godot.md) - Game engine.
 - [Open Source Games ★9921](lists/leereilly/games.md)
-- [Unity ★1556](lists/RyanNielson/awesome-unity.md) - Game engine.
+- [Unity ★1635](lists/RyanNielson/awesome-unity.md) - Game engine.
 - [Chess ★74](lists/hkirat/awesome-chess.md)
 - [LÖVE ★807](lists/love2d-community/awesome-love2d.md) - Game engine.
 - [PICO-8 ★684](lists/felipebueno/awesome-PICO-8.md) - Fantasy console.
@@ -392,7 +398,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [TinkerPop ★58](lists/mohataher/awesome-tinkerpop.md) - Graph computing framework.
 - [PostgreSQL ★3748](lists/dhamaniasad/awesome-postgres.md) - Object-relational database.
 - [CouchDB ★45](lists/quangv/awesome-couchdb.md) - Document-oriented NoSQL database.
-- [HBase ★34](lists/rayokota/awesome-hbase.md) - Distributed, scalable, big data store.
+- [HBase ★36](lists/rayokota/awesome-hbase.md) - Distributed, scalable, big data store.
 
 
 ## Media
@@ -486,7 +492,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Bitcoin ★348](lists/igorbarinov/awesome-bitcoin.md) - Bitcoin services and tools for software developers.
 - [Ripple ★70](lists/vhpoet/awesome-ripple.md) - Open source distributed settlement network.
 - [Non-Financial Blockchain ★208](lists/machinomy/awesome-non-financial-blockchain.md) - Non-financial blockchain applications.
-- [Mastodon ★36](lists/tleb/awesome-mastodon.md) - Open source decentralized microblogging network.
+- [Mastodon ★43](lists/tleb/awesome-mastodon.md) - Open source decentralized microblogging network.
 
 ## Miscellaneous
 
@@ -552,7 +558,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Pokémon ★316](lists/tobiasbueschel/awesome-pokemon.md) - Pokémon and Pokémon GO.
 - [ChatOps ★238](lists/exAspArk/awesome-chatops.md) - Managing technical and business operations through a chat.
 - [Falsehood ★6483](lists/kdeldycke/awesome-falsehood.md) - Falsehoods programmers believe in.
-- [Domain-Driven Design ★2223](lists/heynickc/awesome-ddd.md) - Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Domain-Driven Design ★2304](lists/heynickc/awesome-ddd.md) - Software development approach for complex needs by connecting the implementation to an evolving model.
 - [Quantified Self ★153](lists/woop/awesome-quantified-self.md) - Self-tracking through technology.
 - [SaltStack ★66](lists/hbokh/awesome-saltstack.md) - Python-based config management system.
 - [Web Design ★424](lists/nicolesaidy/awesome-web-design.md) - For digital designers.
@@ -578,8 +584,8 @@ title: Awesome Rank for sindresorhus/awesome
 - [Uncopyright ★154](lists/johnjago/awesome-uncopyright.md) - Public domain works.
 - [Crypto Currency Tools & Algorithms ★2153](lists/kennethreitz/awesome-coins.md) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
 - [Diversity ★202](lists/folkswhocode/awesome-diversity.md) - Creating a more inclusive and diverse tech community.
-- [Open Source Supporters ★243](lists/zachflower/awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects.
-- [Design Principles ★27](lists/robinstickel/awesome-design-principles.md) - Create better and more consistent designs and experiences.
+- [Open Source Supporters ★248](lists/zachflower/awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects.
+- [Design Principles ★39](lists/robinstickel/awesome-design-principles.md) - Create better and more consistent designs and experiences.
 - [Visual Regression Testing ★225](lists/mojoaxel/awesome-regression-testing.md) - Ensures changes did not break the functionality or style.
 - [Theravada ★36](lists/johnjago/awesome-theravada.md) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT ★4](lists/inspectit-labs/awesome-inspectit.md) - Open source Java app performance management tool.

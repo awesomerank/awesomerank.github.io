@@ -957,7 +957,16 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
+
+- [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
+- [Boostnote ★238](https://github.com/BoostIO/boostnote-mobile) - Boostnote: open source note taking.
+- [ndash ★94](https://github.com/alexindigo/ndash) - npm dashboard.
+- [HackerBuzz ★64](https://github.com/RCiesielczuk/HackerBuzz-ReactNative) - a Hacker News reader.
+- [Status.im ★1590](https://github.com/status-im/status-react) - Ethereum client.
+- [React Native Netflix ★222](https://github.com/mariodev12/react-native-netflix) - A Netflix-like app.
 - [Bristol Pound](http://blog.scottlogic.com/2017/11/22/developing-bristol-pound-an-open-source-react-native-app.html) - An app for the Bristol Pound, a UK-based local currency.
+- [Roxie ★10](https://github.com/venepe/react-native-roxie) - Sound processing and bluetooth hardware control.
+- [Splitcloud ★6](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).
 - [ASOS ★60](https://github.com/edwinbosire/ASOS) - E-commerce app for ASOS (clone)
 - [Urban Dictionary ★48](https://github.com/edwinbosire/Urbandict) - Mobile implementation of the popular Urban Dictionary website.
 - [Appointments  ★94](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments

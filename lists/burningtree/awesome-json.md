@@ -165,7 +165,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 * [data.json ★304](https://github.com/clojure/data.json) - parser/generator to/from Clojure data structures.
 
 **Fortran**
-* [JSON-Fortran ★87](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
+* [JSON-Fortran ★89](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
 
 **Haskell**
 * [aeson-qq ★41](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.
@@ -300,7 +300,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 ## Transformations
 * [json-sharp ★5](https://github.com/globocom/json-sharp) - Javascript tool to process operations on pure JSON objects. (Javascript)
 * [json2json ★159](https://github.com/joelvh/json2json) - Transform (reformat) structures from one to another. (Javascript)
-* [trans ★175 ⏳1Y](https://github.com/gabesoft/trans) - The ultimate object transformer. (Javascript)
+* [trans ★175 ⏳2Y](https://github.com/gabesoft/trans) - The ultimate object transformer. (Javascript)
 * [osmtogeojson ★266](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
 * [x2js ★562](https://github.com/abdmob/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
 * [JSONC ★411](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (Javascript)
@@ -342,7 +342,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 * [Docson ★356](https://github.com/lbovet/docson) - Documentation for your types.
 * [Orderly JSON ★187 ⏳7Y](https://github.com/lloyd/orderly) - A textual format for describing JSON compiled into JSONSchema.
 * [jsonschema2pojo ★3396](https://github.com/joelittlejohn/jsonschema2pojo) - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
-* [Matic ★155](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
+* [Matic ★155 ⏳1Y](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
 * [JSON Schema + Faker ★1083](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 * [DLL.js ★52](https://github.com/moll/js-ddl) - Gets you a JSON Schema from PostgreSQL or SQLite3.
 * [JSONSchema.net](https://jsonschema.net//) - JSON Schema generator from JSON object.

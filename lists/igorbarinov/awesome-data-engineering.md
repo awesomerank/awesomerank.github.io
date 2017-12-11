@@ -58,7 +58,7 @@ List of content
 - Document
 	* [MongoDB](https://www.mongodb.org/) An open-source, document database designed for ease of development and scaling. 
 		* [Percona Server for MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) Percona Server for MongoDB® is a free, enhanced, fully compatible, open source, drop-in replacement for the MongoDB® Community Edition that includes enterprise-grade features and functionality.
-		* [MemDB ★560 ⏳1Y](https://github.com/rain1017/memdb) Distributed Transactional In-Memory Database (based on MongoDB)
+		* [MemDB ★560 ⏳2Y](https://github.com/rain1017/memdb) Distributed Transactional In-Memory Database (based on MongoDB)
 	* [Elasticsearch](https://www.elastic.co/) Search & Analyze Data in Real Time.
 	* [Couchbase](http://www.couchbase.com/) The highest performing NoSQL distributed database.
 	* [RethinkDB](http://rethinkdb.com/) The open-source database for the realtime web.
@@ -196,7 +196,7 @@ multi-processor, multi-core machines
 * [Pinball ★795](https://github.com/pinterest/pinball) DAG based workflow manager. Job flows are defined programmaticaly in Python. Support output passing between jobs.
 
 # ELK Elastic Logstash Kibana
-* [docker-logstash ★238 ⏳1Y](https://github.com/pblittle/docker-logstash) A highly configurable logstash (1.4.4) docker image running Elasticsearch (1.7.0) and Kibana (3.1.2).
+* [docker-logstash ★238 ⏳2Y](https://github.com/pblittle/docker-logstash) A highly configurable logstash (1.4.4) docker image running Elasticsearch (1.7.0) and Kibana (3.1.2).
 * [elasticsearch-jdbc ★2212](https://github.com/jprante/elasticsearch-jdbc) JDBC importer for Elasticsearch
 * [ZomboDB ★1278](https://github.com/zombodb/zombodb) Postgres Extension that allows creating an index backed by Elasticsearch
 

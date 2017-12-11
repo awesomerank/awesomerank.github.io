@@ -141,7 +141,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for C#.NET and ASP.NET*
 
-- [ASP.NET Boilerplate ★3562](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
+- [ASP.NET Boilerplate ★3724](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
 
 
 

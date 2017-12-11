@@ -395,7 +395,7 @@ HTML generators and templates
 URI handling
 ------------
 
-* [quri ★49 ⏳1Y](https://github.com/fukamachi/quri) - Another URI library for
+* [quri ★50 ⏳1Y](https://github.com/fukamachi/quri) - Another URI library for
   Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
   utilities,… [BSD_3Clause][15].
 * [purl ★2](https://github.com/eugeneia/purl) - Provides a parser and defines a type for URLs as specified in RFC1738. [GNU GPL3][2].
