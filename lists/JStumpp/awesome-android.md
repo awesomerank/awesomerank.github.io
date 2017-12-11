@@ -398,7 +398,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android-Link-Preview ★277](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 - [Sensey ★2105](https://github.com/nisrulz/sensey) - Detecting gestures in a snap.
 - [UserAwareVideoView ★45](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
-- [Flexbox Layout ★9811](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
+- [Flexbox Layout ★10069](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
 - [Agile Boiler Plate ★39 ⏳1Y](https://github.com/xresco/Android-Agile-Boiler-Plate) - The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.
 
 ## Resources

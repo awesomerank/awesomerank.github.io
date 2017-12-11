@@ -200,7 +200,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-make ★151](https://github.com/elm-lang/elm-make) - A build tool for Elm projects.
 * [elm-reactor ★400](https://github.com/elm-lang/elm-reactor) - Interactive development tool that makes it easy to develop and debug Elm programs.
 * [elm-live ★466](https://github.com/tomekwi/elm-live) - A flexible dev server for Elm. Live reload included!
-* [elm-repl ★163](https://github.com/elm-lang/elm-repl) - A REPL for Elm.
+* [elm-repl ★163 ⏳1Y](https://github.com/elm-lang/elm-repl) - A REPL for Elm.
 * [elm-package ★190](https://github.com/elm-lang/elm-package) - CLI to share Elm libraries.
 * [elm-init ★9 ⏳1Y](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
 * [elm-new ★72](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.

@@ -306,6 +306,7 @@ A collection of awesome things regarding React ecosystem.
 * [ReactQL - Universal React + GraphQL starter kit, with full server rendering, isomorphic data fetching and store management](https://reactql.org)
 * [React + Redux w/ ES6 Starter Project - Starter kit using Webpack, React Hot Loader, Code Splitting for React Router, CSS Modules, custom Ducks pattern app architecture, best practices, and Enzyme test environment ★556](https://github.com/nicksp/redux-webpack-es6-boilerplate)
 * [react-firebase-authentication - Boilerplate for authentication and real-time database using React and Firebase ★10 ⏳1Y](https://github.com/zerostatic/react-firebase-authentication)
+* [react-redux-saga-boilerplate - Starter kit with routing, state container, storage and SEO tools. PWA-ready ★115](https://github.com/gilbarbara/react-redux-saga-boilerplate)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -356,7 +357,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-spinner - Zero configuration loading spinner ★168](https://github.com/chenglou/react-spinner)
 * [react-treeview - Easy, light, flexible tree view made with React ★801](https://github.com/chenglou/react-treeview)
 * [react-tree-menu - A stateless tree menu component built with the Flux architecture in mind ★141](https://github.com/MandarinConLaBarba/react-tree-menu)
-
 * [react-tween-state - React animation tween state ★1689](https://github.com/chenglou/react-tween-state)
 * [react-stripe-checkout - Easily load Stripe Checkout as a React component ★399](https://github.com/azmenak/react-stripe-checkout)
 * [react-swipe - Brad Birdsall's swipe.js, as a React component](https://github.com/jed/react-swipe)
@@ -372,7 +372,7 @@ A collection of awesome things regarding React ecosystem.
 * [RCSS - Turn your JavaScript objects into CSS classes ★287 ⏳2Y](https://github.com/chenglou/RCSS)
 * [ReactiveElements - Allows to use React.js component as HTML element ★600](https://github.com/PixelsCommander/ReactiveElements)
 * [react-chosen - React wrapper for Chosen jQuery ★88 ⏳2Y](https://github.com/chenglou/react-chosen)
-* [react-inlinesvg - An SVG loader component for React](https://github.com/matthewwithanm/react-inlinesvg)
+* [react-inlinesvg - An SVG loader component for React ★412](https://github.com/gilbarbara/react-inlinesvg)
 * [react-imageloader - A React component for wrangling image loading ★330](https://github.com/hzdg/react-imageloader)
 * [expose - A React mixin for lazy loading ★3 ⏳2Y](https://github.com/dok/expose)
 * [react-loadqueueloader - A React component for managing loads with a load queue ★8 ⏳3Y](https://github.com/hzdg/react-loadqueueloader)
@@ -519,6 +519,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-automatic-width - Automatically sets `width` property on child components ★8](https://github.com/zalando-stups/react-automatic-width)
 * [react-js-diagrams - A flow based diagramming library](http://github.com/woodenconsulting/react-js-diagrams/)
 * [react-file-input-previews-base64 - Wrapper around file input, with option for image previews and returning file as base64 string ★5](https://github.com/SiDevesh/react-file-input-previews-base64)
+* [react-credit-cards - Beautiful credit cards for your payment forms ★194](https://github.com/amarofashion/react-credit-cards)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system ★323](https://github.com/LouisBarranqueiro/reapop)
@@ -530,7 +531,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
 * [react-cursor - Functional state management abstraction for use with Facebook React ★1037](https://github.com/dustingetz/react-cursor)
 * [Omniscient.js - Abstracting React components for fast top down render of immutable data ★1169](https://github.com/omniscientjs/omniscient)
-* [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps.](http://touchstonejs.io/)
+* [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps. ★3428 ⏳1Y](https://github.com/touchstonejs/touchstonejs)
 * [Elemental - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
 * [StateTrooper - Centrally manage state for React applications with CSP ★11](https://github.com/swipely/state-trooper)
 * [Preact: Fast 3kb React alternative with the same ES6 API.](https://git.io/preact)
