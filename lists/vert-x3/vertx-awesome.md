@@ -307,7 +307,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [HTTP/2 showcase ★6](https://github.com/aesteve/http2-showcase) - A simple demo, showing how HTTP/2 can drastically improve user experience when a huge latency is involved.
 * [Vert.x Music Store ★17](https://github.com/tsegismont/vertx-musicstore) - An example application on how to build Vert.x applications with RxJava
 * [Crabzilla ★10](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
-* [Vert.x PostgreSQL Starter ★2](https://github.com/BillyYccc/vertx-postgresql-starter) - A starter to build a monolithic CRUD RESTful Web Service with Vert.x stack and postgreSQL
+* [Vert.x PostgreSQL Starter ★3](https://github.com/BillyYccc/vertx-postgresql-starter) - A starter to build a monolithic CRUD RESTful Web Service with Vert.x stack and postgreSQL
 
 ## Deployment
 

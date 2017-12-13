@@ -155,7 +155,7 @@ You might also like [awesome-haskell ★1289](https://github.com/krispo/awesome-
 - [frege-on-android ★1 ⏳1Y](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android.
 - [FregeAndroid ★8 ⏳1Y](https://github.com/mchav/FregeAndroid) - Proof of concept Android application in Frege.
 - [GeoQuiz-Frege ★8](https://github.com/mchav/GeoQuiz-Frege) - Port of the BigNerd Ranch GeoQuiz application in Frege.
-- [froid ★85](https://github.com/mchav/froid) - Library for using Frege in Android development.
+- [froid ★86](https://github.com/mchav/froid) - Library for using Frege in Android development.
 
 ### Big Data
 
@@ -180,7 +180,7 @@ You might also like [awesome-haskell ★1289](https://github.com/krispo/awesome-
 
 ### Web Frameworks
 
-- [Chinook ★27 ⏳1Y](https://github.com/fregelab/chinook) - Frege web framework based on SparkJava.
+- [Chinook ★26 ⏳1Y](https://github.com/fregelab/chinook) - Frege web framework based on SparkJava.
 - [Fregelet ★5 ⏳1Y](https://github.com/mmhelloworld/fregelet) - Frege web framework based on servlet.
 - [Play ★17 ⏳2Y](https://github.com/mmhelloworld/hello-play-frege) - Play framework with Frege.
 
@@ -212,12 +212,12 @@ You might also like [awesome-haskell ★1289](https://github.com/krispo/awesome-
 ### IDEs
 
 - [fregIDE](https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial) - Eclipse plugin for Frege.
-- [intellij-frege ★11 ⏳1Y](https://github.com/carymrobbins/intellij-frege) - Frege support for IntelliJ IDEA.
+- [intellij-frege ★12 ⏳1Y](https://github.com/carymrobbins/intellij-frege) - Frege support for IntelliJ IDEA.
 - [frege-idea-plugin ★21 ⏳1Y](https://github.com/Dierk/frege-idea-plugin) - Language support for Frege in IntelliJ IDEA.
 
 ### REPLs
 
-- [Console REPL ★64](https://github.com/Frege/frege-repl) - REPL on the console.
+- [Console REPL ★65](https://github.com/Frege/frege-repl) - REPL on the console.
 - [GUI REPL ★21](https://github.com/Dierk/frepl-gui) - GUI based REPL.
 - [Web REPL](http://try.frege-lang.org/) - Web based REPL.
 

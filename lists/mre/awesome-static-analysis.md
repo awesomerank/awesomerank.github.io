@@ -320,7 +320,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 ## TypeScript
 
 * [Codelyzer ★1409](https://github.com/mgechev/codelyzer) - A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
-* [TSLint ★2560](https://github.com/palantir/tslint) - An extensible linter for the TypeScript language.
+* [TSLint ★2668](https://github.com/palantir/tslint) - An extensible linter for the TypeScript language.
 * [tslint-microsoft-contrib ★243](https://github.com/Microsoft/tslint-microsoft-contrib) - A set of tslint rules for static code analysis of TypeScript projects maintained by Microsoft.
 
 # Multiple languages

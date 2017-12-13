@@ -48,7 +48,7 @@ A curated list of Awesome Alfred Workflows.
 - [Git Repos ★75](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
 - [JetBrains ★123](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products.
 - [Laravel Forge ★38](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge.
-- [mdi](https://github.com/importre/alfred-mdi) - Find [Material Design Icons ★32298](https://github.com/google/material-design-icons).
+- [mdi](https://github.com/importre/alfred-mdi) - Find [Material Design Icons ★32728](https://github.com/google/material-design-icons).
 - [npms ★189](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 - [ng ★33](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation.
 - [Package Managers ★405](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.

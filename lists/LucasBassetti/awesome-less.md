@@ -55,14 +55,14 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 - [Official Guide](http://lesscss.org/)
-- [Official Repository ★15203](https://github.com/less/less.js)
+- [Official Repository ★15269](https://github.com/less/less.js)
 
 **[Back to top](#contents)**
 
 ## UI/Theme Frameworks and Components
 
 - [1pxdeep](http://rriepe.github.io/1pxdeep/) - Brings designing by relative visual weight, or designing with color schemes, to Bootstrap.
-- [Ant Design ★19478](https://github.com/ant-design/ant-design) - 	An enterprise-class UI design language and React-based implementation.
+- [Ant Design ★21077](https://github.com/ant-design/ant-design) - 	An enterprise-class UI design language and React-based implementation.
 - [Bootstrap a11y theme ★30 ⏳3Y](https://github.com/bassjobsen/bootstrap-a11y-theme) - Makes web accessibility easier for Bootstrap developers.
 - [Bootstrap 3](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Bootswatch](http://bootswatch.com/) - Collection of free themes for Bootstrap.
@@ -71,7 +71,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Flat UI Free](http://designmodo.github.io/Flat-UI/) - Theme and framework for Bootstrap.
 - [JBST](http://jbst.eu/) - Theme framework that can be used as a standalone website builder or to create WordPress themes.
 - [Less Rails ★347](https://github.com/metaskills/less-rails) - Less for Rails.
-- [Material Design for Bootstrap ★18784](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.
+- [Material Design for Bootstrap ★18870](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.
 - [Metro UI CSS](http://metroui.org.ua/) - Set of styles to create a site with an interface similar to Windows 8.
 - [Schema](http://danmalarkey.github.io/schema/) - 	Light, responsive, and lean frontend UI framework.
 - [Semantic UI](http://semantic-ui.com/) - UI component framework based around useful principles from natural language.
@@ -136,7 +136,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Lesshat ★2241](https://github.com/madebysource/lesshat) - Smart mixins library.
 - [Lessley ★8 ⏳3Y](https://github.com/pixelass/lessley) - 	A jasmine like testing suite written in pure Less.
 - [Lessmore ★2](https://github.com/belyan/lessmore) - 	Mixins library. Cross-browser support for the CSS3 features and more.
-- [Normalize](https://github.com/segundofdez/normalize.less) - 	Modularized famous [normalize.css ★28591](https://github.com/necolas/normalize.css) using Less.
+- [Normalize](https://github.com/segundofdez/normalize.less) - 	Modularized famous [normalize.css ★29026](https://github.com/necolas/normalize.css) using Less.
 - [Oban](http://oban.io/) - 	Collection of mixins.
 - [Preboot ★1742 ⏳1Y](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS.
 - [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.

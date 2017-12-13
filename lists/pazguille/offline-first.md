@@ -840,13 +840,13 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 ## Tools
 
-[offline-plugin ★2538](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack.
+[offline-plugin ★2678](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack.
 
-[Pinterest Service Workers ★912](https://github.com/pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
+[Pinterest Service Workers ★928](https://github.com/pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
 
 [Kinto](http://www.kinto-storage.org/): Add synchronisation and sharing abilities to your Web application in seconds.
 
-[bottle-service ★287 ⏳1Y](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
+[bottle-service ★286 ⏳1Y](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
 
 [react-boilerplate](https://github.com/mxstbr/react-boilerplate): Quick setup for performance orientated, offline-first React.js applications.
 
@@ -856,9 +856,9 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 [UpUp](https://www.talater.com/upup/): An Offline First library designed to be the easiest way to add offline capabilities to a site.
 
-[simple-serviceworker-tutorial ★306 ⏳1Y](https://github.com/jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
+[simple-serviceworker-tutorial ★321 ⏳1Y](https://github.com/jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
 
-[Hyperboot ★382 ⏳1Y](https://github.com/substack/hyperboot): Offline webapp bootloader.
+[Hyperboot ★381 ⏳1Y](https://github.com/substack/hyperboot): Offline webapp bootloader.
 
 [MakeDrive ★359](https://github.com/mozilla/makedrive): A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
 See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDrive) for background info.
@@ -869,7 +869,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): A Service Worker acts like a proxy on the client. For page requests and requests made by pages, you get a fetch event that you can respond to yourself, creating offline experiences.
 
-[localForage ★10343](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+[localForage ★10543](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 [remoteStorage](https://remotestorage.io/): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
 
@@ -883,7 +883,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [appCache Nanny ★209 ⏳1Y](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
 
-[bro-fs ★10](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
+[bro-fs ★11](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
 
 [Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
 

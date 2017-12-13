@@ -301,7 +301,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 
 * [Captain](https://getcaptain.co/) - Manage containers from the MacOSX menu bar by [@RickWong](https://github.com/rickwong)
 * [DockStation ★245](https://github.com/DockStation/dockstation) - A developer centric UI to configure, monitor, and manage services and containers [@dock_station](https://twitter.com/dock_station)
-* [Dockeron ★154](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop. [@fluency03](https://github.com/fluency03)
+* [Dockeron ★178](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop. [@fluency03](https://github.com/fluency03)
 * [Lifeboat ★12](https://github.com/jplhomer/lifeboat) - An easy way to launch Docker projects with a graphical interface on your Mac. [@jplhomer](https://github.com/jplhomer)
 
 #### Terminal
@@ -363,6 +363,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 
 *Applications designed to help or simplify building **new** images*
 
+* [container-diff ★1377](https://github.com/GoogleCloudPlatform/container-diff) - An image tool for comparing and analzying container images by [@GoogleCloud](https://github.com/GoogleCloudPlatform)
 * [container-factory ★53 ⏳2Y](https://github.com/mutable/container-factory) - Produces Docker images from tarballs of application source code by [@mutable](https://github.com/mutable)
 * [Derrick ★108](https://github.com/alibaba/derrick) - A tool help you to automate the generation of Dockerfile and dockerize application by scanning the code. By [@alibaba](https://github.com/alibaba). 
 * [dlayer ★68 ⏳1Y](https://github.com/wercker/dlayer) - Stats collector for Docker layers by [@wercker](https://github.com/wercker)
@@ -418,7 +419,7 @@ Services to securely store your Docker images.
 * [Docket ★596 ⏳2Y](https://github.com/netvarun/docket) - Custom docker registry that allows for lightning fast deploys through bittorrent by [@netvarun](https://github.com/netvarun/)
 * [Docker Hub](https://hub.docker.com/) provided by Docker Inc.
 * [Docker Registry v2][distribution] - The Docker toolset to pack, ship, store, and deliver content
-* [Europa :heavy_dollar_sign: ★90](https://github.com/Distelli/europa) - Private docker registry with support for image pipelines and  webhooks. By [@Distelli](https://github.com/Distelli)
+* [Europa :heavy_dollar_sign: ★92](https://github.com/Distelli/europa) - Private docker registry with support for image pipelines and  webhooks. By [@Distelli](https://github.com/Distelli)
 * [GCE Container Registry](https://cloud.google.com/container-registry/) Fast, private Docker image storage on Google Cloud Platform
 * [GitLab Container Registry](https://docs.gitlab.com/ce/user/project/container_registry.html) - Repositories focused on using it images in GitLab CI
 * [Private Docker Registry :heavy_dollar_sign:](https://private-docker-registry.com) - Dedicated Conainer Registry Service with unlimited private repositories, users, teams, namespaces together with enterprise grade authentication LDAP/AD/OAuth/SAML.

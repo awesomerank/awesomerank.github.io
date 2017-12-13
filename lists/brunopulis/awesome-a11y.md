@@ -18,7 +18,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) which you can [see on Dribble](https://dribbble.com/shots/2121794-rock-n-roll-a11y).
 
 > A curated list of awesome Accessibility tools, articles and resources.
-> Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox ★742](https://github.com/afonsopacifer/awesome-flexbox).
+> Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox ★758](https://github.com/afonsopacifer/awesome-flexbox).
 
 **Table of Contents**
 

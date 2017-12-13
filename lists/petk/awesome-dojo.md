@@ -45,7 +45,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Demos](http://demos.dojotoolkit.org/demos/) - Dojo Toolkit Demos
 * [Reference guide ★90](https://github.com/dojo/docs) - [http://dojotoolkit.org/reference-guide/1.10/](http://dojotoolkit.org/reference-guide/1.10/)
 * [Tutorials](http://dojotoolkit.org/documentation/) - authorized and updated tutorials for Dojo Toolkit
-* [Dojo Meta ★106](https://github.com/dojo/meta) - Dojo 2 contribution and coding guidelines
+* [Dojo Meta ★123](https://github.com/dojo/meta) - Dojo 2 contribution and coding guidelines
 * [Dojo Website ★4](https://github.com/dojo/dojo-website) - Website for Dojo Toolkit 1.x to 2.x transition
 
 
@@ -64,7 +64,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Bootstraps and boilerplates
 
-* [dboostrap ★148 ⏳3Y](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo
+* [dboostrap ★149 ⏳3Y](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo
 * [Dojo Boilerplate ★391 ⏳2Y](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit
 * [Dojo Twitter bootstrap ★183](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo
 * [dojo.js ★16 ⏳1Y](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
@@ -75,11 +75,11 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Packages, libraries and scripts
 
-* [AngularJS Dojo ★37 ⏳3Y](https://github.com/adrobisch/angular-dojo) - AngularJS directives for dojo widgets
+* [AngularJS Dojo ★36 ⏳3Y](https://github.com/adrobisch/angular-dojo) - AngularJS directives for dojo widgets
 * [delite ★73](https://github.com/ibm-js/delite) - HTML Custom Element / Widget infrastructure
-* [deliteful ★71](https://github.com/ibm-js/deliteful) - Multichannel (desktop/mobile) UI Custom Elements Library
+* [deliteful ★72](https://github.com/ibm-js/deliteful) - Multichannel (desktop/mobile) UI Custom Elements Library
 * [Dojo Foundation packages](http://packages.dojofoundation.org/) - Packages available on Dojo Foundation
-* [dojo-smore ★37 ⏳2Y](https://github.com/kfranqueiro/dojo-smore) - package with Dojo/Store implementation
+* [dojo-smore ★36 ⏳2Y](https://github.com/kfranqueiro/dojo-smore) - package with Dojo/Store implementation
 * [generator-dojo ★39 ⏳3Y](https://github.com/bryanforbes/generator-dojo) - A yeoman generator for Dojo projects
 * Grids
     * [dgrid](http://dgrid.io/) - next-generation grid component that takes full advantage of modern browsers and object stores.
@@ -89,18 +89,18 @@ Inspired by the `awesome-*` trend on GitHub.
 * [grunt-dojo2 ★4](https://github.com/dojo/grunt-dojo2) - Build Dojo2 inside a Grunt task
 * [karma-dojo ★1 ⏳4Y](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit.
 * [Leadfoot ★151](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API
-* [Sitepen dstore ★259](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
+* [Sitepen dstore ★258](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
 * [xaction](https://github.com/xblox/xaction) - Component providing UI and logic for user actions.
 
 #### Dojo 2
 
-* [Dojo core ★147](https://github.com/dojo/core) - Dojo 2 package containing TypeScript and JavaScript core utilities
+* [Dojo core ★152](https://github.com/dojo/core) - Dojo 2 package containing TypeScript and JavaScript core utilities
 * [DOM Utilities ★12](https://github.com/dojo/dom) - Dojo2 DOM Utilities
 * [Dojo Command Line Tooling ★7](https://github.com/dojo/cli)   - Command Line Tooling for Dojo2 Applications
 * [Dojo loader ★13](https://github.com/dojo/loader) - AMD loader for Dojo2.
 * [Dojo routing ★10](https://github.com/dojo/routing) - Dojo2 Routing
 * [Dojo compose ★9](https://github.com/dojo/compose) - Dojo2 Composition Library
-* [Dojo widgets ★15](https://github.com/dojo/widgets) - A core UI component library for Dojo 2
+* [Dojo widgets ★16](https://github.com/dojo/widgets) - A core UI component library for Dojo 2
 * [Dojo has ★3](https://github.com/dojo/has) - A feature detection library
 * [Dojo shim ★15](https://github.com/dojo/shim) - Modules that provide modular fills of ES6+ functionality
 * [Dojo parse ★3](https://github.com/dojo/parser) - A package for declaratively instantiating widgets.
@@ -153,15 +153,15 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [AuShada ★54 ⏳1Y](https://github.com/dreaswar/AuShadha) - Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management
 * [dapi ★10 ⏳2Y](https://github.com/dojo/dapi) - node.js Dojo API viewer
-* [Dig Dug ★37](https://github.com/theintern/digdug) - A JavaScript library for launching WebDriver service tunnels
+* [Dig Dug ★38](https://github.com/theintern/digdug) - A JavaScript library for launching WebDriver service tunnels
 * [Dojo Demo ★57 ⏳6Y](https://github.com/rmurphey/dojo-demo) - Dojo demo
 * [dojorama ★50 ⏳3Y](https://github.com/sirprize/dojorama) - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API
 * [Dojox application ★29 ⏳3Y](https://github.com/dmachi/dojox_application) - Dojox Application Framework for mobile, tablets, and desktops
 * [js-doc-parse ★13 ⏳2Y](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation
 * [rstwiki ★29 ⏳3Y](https://github.com/phiggins42/rstwiki) - Simple reST/wiki system built with Python and Dojo Toolkit
 * [Scripted](https://github.com/scripted-editor) - Scripted is a fast and lightweight code editor with an initial focus on JavaScript editing
-* [todomvc ★22528](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples
-* [Dojo2 Example ★19](https://github.com/dojo/examples) - Dojo 2 Examples
+* [todomvc ★22734](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples
+* [Dojo2 Example ★21](https://github.com/dojo/examples) - Dojo 2 Examples
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies.
 * [Windows-dist ★0 ⏳1Y](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
 
@@ -170,7 +170,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Themes
 
-* [dijit-claro-stylus ★32 ⏳2Y](https://github.com/kfranqueiro/dijit-claro-stylus) - A straight conversion of Dijit's Claro theme from LESS to Stylus.
+* [dijit-claro-stylus ★30 ⏳2Y](https://github.com/kfranqueiro/dijit-claro-stylus) - A straight conversion of Dijit's Claro theme from LESS to Stylus.
 * [Flat Dojo Theme](http://yiweima.github.io/flatdojo/) - Esri Flat Dijit Design
 * [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - A responsive Dojo theme that harnesses the style awesomeness of [Semantic UI](http://semantic-ui.com/) Framework.
 
@@ -208,7 +208,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Other Awesome Lists
 
 * [awesome-javascript ★12561](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list
-* [awesome-javascript-books ★80 ⏳2Y](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books
+* [awesome-javascript-books ★81 ⏳2Y](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books
 * awesome lists:
     * [awesome ★69735](https://github.com/sindresorhus/awesome) - awesome list
     * [awesome-awesome ★947](https://github.com/emijrp/awesome-awesome) - awesome list

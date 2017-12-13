@@ -20,7 +20,7 @@ title: Awesome Rank for sadcitizen/awesome-backbone
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
 - [BackboneConf](http://backboneconf.com/) - Conference about building applications on the web, with a focus on the Backbone.js library
 - [StackOverflow](http://stackoverflow.com/questions/tagged/backbone.js) - Tagged questions
-- [Yeoman generator for Backbone.js ★660](https://github.com/yeoman/generator-backbone)
+- [Yeoman generator for Backbone.js ★663](https://github.com/yeoman/generator-backbone)
 
 ## Tutorials and articles
 
@@ -110,9 +110,9 @@ title: Awesome Rank for sadcitizen/awesome-backbone
 
 - [Backbone Require Boilerplate ★634](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) - A Rad Backbone.js and Require.js Boilerplate Project
 - [Wine Cellar Sample Application ★939 ⏳5Y](https://github.com/ccoenraets/backbone-cellar) - "Backbone Cellar" is a sample application built with Backbone.js
-- [Employee Directory ★479 ⏳2Y](https://github.com/ccoenraets/directory-backbone-bootstrap) - Employee Directory sample application built with Backbone.js and Twitter Bootstrap
-- [Backbone Contact Manager ★59 ⏳3Y](https://github.com/dmytroyarmak/backbone-contact-manager) - Simple Backbone.js example application
-- [Backbone Boilerplates ★503 ⏳4Y](https://github.com/addyosmani/backbone-boilerplates) - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
+- [Employee Directory ★477 ⏳2Y](https://github.com/ccoenraets/directory-backbone-bootstrap) - Employee Directory sample application built with Backbone.js and Twitter Bootstrap
+- [Backbone Contact Manager ★60 ⏳3Y](https://github.com/dmytroyarmak/backbone-contact-manager) - Simple Backbone.js example application
+- [Backbone Boilerplates ★502 ⏳4Y](https://github.com/addyosmani/backbone-boilerplates) - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
 - [Backbone TodoMVC example](http://todomvc.com/examples/backbone/) - Simple todo app built using Backbone and Backbone.localStorage.
 
 ## Courses
@@ -120,7 +120,7 @@ title: Awesome Rank for sadcitizen/awesome-backbone
 - [Anatomy of Backbone.js](https://www.codeschool.com/courses/anatomy-of-backbone-js)
 - [Advanced Backbone Patterns and Techniques](http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques)
 - [Connected to the Backbone](http://code.tutsplus.com/courses/connected-to-the-backbone)
-- [Structuring Your Web Apps via Backbone.js ★89 ⏳1Y](https://github.com/hegdeashwin/Backbone)
+- [Structuring Your Web Apps via Backbone.js ★90 ⏳1Y](https://github.com/hegdeashwin/Backbone)
 - [Backbone.JS In-Depth and Introduction to Testing with Mocha and Sinon](https://frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/)
 - [Up and Running with Backbone.js](http://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html)
 - [Application Building Patterns with Backbone.js](http://www.pluralsight.com/courses/playing-with-backbonejs)
@@ -128,20 +128,20 @@ title: Awesome Rank for sadcitizen/awesome-backbone
 
 ## Libraries
 
-- [Backbone.Relational ★2405](https://github.com/PaulUithol/Backbone-relational)
-- [Backbone-forms ★2238](https://github.com/powmedia/backbone-forms)
+- [Backbone.Relational ★2402](https://github.com/PaulUithol/Backbone-relational)
+- [Backbone-forms ★2237](https://github.com/powmedia/backbone-forms)
 - [Backgrid.js](https://github.com/wyuenho/backgrid)
-- [Backbone.localStorage ★1970](https://github.com/jeromegn/Backbone.localStorage)
-- [Backbone.stickit ★1700 ⏳1Y](https://github.com/NYTimes/backbone.stickit)
-- [Backbone.paginator ★1467](https://github.com/backbone-paginator/backbone.paginator)
-- [Backbone.validation ★1381](https://github.com/thedersen/backbone.validation)
-- [Exoskeleton ★919 ⏳1Y](https://github.com/paulmillr/exoskeleton)
-- [Backbone.dualstorage ★829](https://github.com/nilbus/Backbone.dualStorage)
-- [Backbone.iobind ★601 ⏳1Y](https://github.com/noveogroup/backbone.iobind)
-- [Backbone-associations ★507 ⏳1Y](https://github.com/dhruvaray/backbone-associations)
+- [Backbone.localStorage ★1969](https://github.com/jeromegn/Backbone.localStorage)
+- [Backbone.stickit ★1699](https://github.com/NYTimes/backbone.stickit)
+- [Backbone.paginator ★1465](https://github.com/backbone-paginator/backbone.paginator)
+- [Backbone.validation ★1379](https://github.com/thedersen/backbone.validation)
+- [Exoskeleton ★921 ⏳1Y](https://github.com/paulmillr/exoskeleton)
+- [Backbone.dualstorage ★830](https://github.com/nilbus/Backbone.dualStorage)
+- [Backbone.iobind ★599 ⏳1Y](https://github.com/noveogroup/backbone.iobind)
+- [Backbone-associations ★506 ⏳1Y](https://github.com/dhruvaray/backbone-associations)
 - [Backbone-tastypie ★494 ⏳3Y](https://github.com/PaulUithol/backbone-tastypie)
-- [Backbone.Radio ★493](https://github.com/marionettejs/backbone.radio)
-- [Backbone.BabySitter ★388 ⏳1Y](https://github.com/marionettejs/backbone.babysitter)
+- [Backbone.Radio ★497](https://github.com/marionettejs/backbone.radio)
+- [Backbone.BabySitter ★386 ⏳1Y](https://github.com/marionettejs/backbone.babysitter)
 - [Backbone.History.Polyfill ★2 ⏳1Y](https://github.com/FidelityInternational/BackboneHistoryPolyfill)---
 <p align="center">
 	This list is a copy of <a href="https://github.com/sadcitizen/awesome-backbone">sadcitizen/awesome-backbone</a> with ranks

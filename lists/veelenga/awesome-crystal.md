@@ -367,24 +367,24 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Queue
  * [dispatch ★7](https://github.com/bmulvihill/dispatch) - In memory asynchronous job processing
- * [sidekiq.cr ★397](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+ * [sidekiq.cr ★407](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## Routing
- * [crouter ★41](https://github.com/jreinert/crouter) - A standalone router
+ * [crouter ★44](https://github.com/jreinert/crouter) - A standalone router
  * [orion ★9](https://github.com/obsidian/orion) - A minimal, rails'esk routing library.
- * [router.cr ★70](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
+ * [router.cr ★77](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
  * [toro ★59](https://github.com/soveran/toro) - Tree Oriented Routing
 
 ## Scheduling
  * [cron_scheduler ★22 ⏳1Y](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
  * [quartz ★3 ⏳1Y](https://github.com/andrewhamon/quartz) - Crystal clear timers
- * [schedule.cr ★34](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
+ * [schedule.cr ★35](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
 ## Science and Data analysis
  * [linalg ★9](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
  * [predict.cr ★4](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [scorystal ★3](https://github.com/asafschers/scorystal) - Scoring API for PMML - supports RF and GBM
- * [stats ★8](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
+ * [stats ★10](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
 
 ## Search
  * [hermes ★12](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
@@ -393,38 +393,38 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [soegen ★14](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
 
 ## Task management
- * [cake ★8](https://github.com/axvm/cake) - Production-ready Make-like utility tool
- * [sam ★15](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
+ * [cake ★9](https://github.com/axvm/cake) - Production-ready Make-like utility tool
+ * [sam ★16](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## Template Engine
  * [crikey](https://github.com/domgetter/crikey) - Templating engine inspired by [Hiccup ★1655](https://github.com/weavejester/hiccup)
- * [crinja ★12](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
+ * [crinja ★13](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
  * [crustache ★35](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
- * [Kilt ★67](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
- * [Slang ★90](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+ * [Kilt ★68](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
+ * [Slang ★97](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
  * [teeplate ★5](https://github.com/mosop/teeplate) - A library for rendering multiple template files
  * [temel ★36](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
 
 ## Testing
- * [crotest ★17 ⏳1Y](https://github.com/emancu/crotest) - A tiny and simple test framework
+ * [crotest ★19 ⏳1Y](https://github.com/emancu/crotest) - A tiny and simple test framework
  * [microtest ★13](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
- * [minitest.cr ★59](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
+ * [minitest.cr ★61](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
  * [mocks.cr ★23](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
  * [spec2-mocks ★7](https://github.com/waterlink/spec2-mocks.cr) - An adapter of mocks.cr for spec2.cr
  * [spec2.cr ★74](https://github.com/waterlink/spec2.cr) - Enhanced testing library
  * [timecop.cr](https://github.com/TobiasGSmollett/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem ★2515](https://github.com/travisjeffery/timecop)
- * [webmock.cr ★39](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
+ * [webmock.cr ★41](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Third-party APIs
  * [aws-signer.cr ★6](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
- * [awscr-s3 ★10](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
+ * [awscr-s3 ★12](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
  * [awscr-signer ★4](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
  * [bugsnag.cr ★2](https://github.com/gewo/bugsnag.cr) - Bugsnag exception notifier and sidekiq middleware
  * [crystal-darksky ★3](https://github.com/sb89/crystal-darksky) - Wrapper for the [Dark Sky](https://darksky.net) API
  * [crystal-github ★2](https://github.com/felipeelias/crystal-github) - Wrapper for the [Github](https://github.com/) API
  * [crystal-monzo ★0](https://github.com/barisbalic/crystal-monzo) - A client for the [Monzo API](https://monzo.com/docs/)
  * [crystal-swapi ★1](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
- * [crystal_slack ★10](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
+ * [crystal_slack ★11](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [dotacr ★7](https://github.com/azah/dotacr) - Wrapper for Valve's DotA API
  * [GDAX ★0](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing
  * [gitlab.cr ★9](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper
@@ -435,15 +435,15 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ocean_kit ★4](https://github.com/osfx/ocean_kit) - [Digital Ocean v2 API](https://developers.digitalocean.com/documentation/v2/) client
  * [open_exchange_rates ★9](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API
  * [pinboard.cr ★1](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
- * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry ★14531](https://github.com/getsentry/sentry)
+ * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry ★14859](https://github.com/getsentry/sentry)
  * [slack.cr ★9](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library
  * [spotify.cr ★28 ⏳1Y](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API
  * [tele.cr ★15](https://github.com/vladfaust/tele.cr) - A *convenient* wrapper for the Telegram Bot API
  * [telegram_bot ★46](https://github.com/hangyas/telegram_bot) - A wrapper for the Telegram Bot API
 
 ## Virtualization
- * [baked_file_system ★60](https://github.com/schovi/baked_file_system) - Virtual file system implementation
- * [rcpu ★29 ⏳1Y](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
+ * [baked_file_system ★61](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+ * [rcpu ★30 ⏳1Y](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Web Frameworks
  * [amber ★446](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
@@ -453,8 +453,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [raze ★55](https://github.com/samueleaton/raze) - Modular, light web framework
 
 ## Web Servers
- * [fast-http-server ★114](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server
- * [prax.cr ★97](https://github.com/ysbaddaden/prax.cr) - Rack proxy server for development
+ * [fast-http-server ★117](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server
+ * [prax.cr ★98](https://github.com/ysbaddaden/prax.cr) - Rack proxy server for development
  * [serve ★13](https://github.com/SuperPaintman/serve) - Command line static HTTP server
 
 # Community
@@ -486,7 +486,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [DeBot ★30](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [Ficha ★16](https://github.com/codenoid/ficha) - A super secret chat app, for any body who needs privacy
  * [icr ★232](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
- * [nes ★33](https://github.com/romeroadrian/nes.cr) - A NES emulator
+ * [nes ★34](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
  * [soundmemes.cr ★5](https://github.com/vladfaust/soundmemes.cr) - Telegram Bot built on top of tele.cr
  * [torrent ★24](https://github.com/Papierkorb/torrent) - A BitTorrent client
@@ -507,7 +507,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) - Crystal language support in Atom
    * [linter-crystal](https://atom.io/packages/linter-crystal) - Lint Crystal using the Crystal compiler in Atom
  * Emacs
-   * [emacs-crystal-mode ★17](https://github.com/dotmilk/emacs-crystal-mode) - Crystal language support for Emacs
+   * [emacs-crystal-mode ★16](https://github.com/dotmilk/emacs-crystal-mode) - Crystal language support for Emacs
    * [play-crystal.el ★3](https://github.com/veelenga/play-crystal.el) - [play.crystal-lang.org](https://play.crystal-lang.org/#/cr) integration in Emacs
  * Spacemacs
    * [crystal-spacemacs-layer ★10 ⏳1Y](https://github.com/juanedi/crystal-spacemacs-layer) - Spacemacs contribution layer for Crystal
@@ -517,7 +517,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
    * [Crystal.tmbundle ★5](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
  * Vim
    * [carcin.vim ★4 ⏳1Y](https://github.com/MakeNowJust/carcin.vim) - Vim plugin to provide utility functions for carc.in
-   * [vim-crystal ★186](https://github.com/rhysd/vim-crystal) - Vim filetype support for Crystal
+   * [vim-crystal ★190](https://github.com/rhysd/vim-crystal) - Vim filetype support for Crystal
    * [vim-slang ★6 ⏳1Y](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
  * Visual Studio Code
    * [vscode-crystal ★10](https://github.com/g3ortega/vscode-crystal) - Crystal language support in VSCode

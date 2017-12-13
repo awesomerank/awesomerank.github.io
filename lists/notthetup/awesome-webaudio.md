@@ -35,44 +35,44 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ## Packages
 
 ### Frameworks
-- [Tone.js ★3558](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
+- [Tone.js ★3684](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
 - [Gibberish ★248](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
-- [lissajous ★320 ⏳2Y](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance.
+- [lissajous ★321 ⏳2Y](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance.
 - [SSSynthesiser.js ★32 ⏳1Y](https://github.com/surikov/SSSynthesiser.js) -  A wavetable synthesizer for interactive music and sound effects.
 - [Bap](http://bapjs.org/) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
-- [WAAX ★269](https://github.com/hoch/WAAX) - Build Music Apps for browsers.
-- [Omnitone ★490](https://github.com/GoogleChrome/omnitone) - Spatial audio on the web.
+- [WAAX ★271](https://github.com/hoch/WAAX) - Build Music Apps for browsers.
+- [Omnitone ★502](https://github.com/GoogleChrome/omnitone) - Spatial audio on the web.
 
 ### Libraries
-- [reverbGen ★21](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
-- [TuneJS ★121 ⏳1Y](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
-- [Beet.js ★42 ⏳1Y](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
-- [AudioKeys ★104 ⏳2Y](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
-- [smoothfade ★18](https://github.com/notthetup/smoothfade) - A library for smoothly fading between two AudioNodes.
+- [reverbGen ★22](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
+- [TuneJS ★121](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
+- [Beet.js ★48 ⏳1Y](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
+- [AudioKeys ★109](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
+- [smoothfade ★19](https://github.com/notthetup/smoothfade) - A library for smoothly fading between two AudioNodes.
 - [web-audio-test-api ★58 ⏳2Y](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI.
-- [virtual-audio-graph ★111](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
-- [javascript-karplus-strong ★198 ⏳2Y](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
-- [XSound.js ★46](https://github.com/Korilakkuma/XSound) - Full stack library.
+- [virtual-audio-graph ★112](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
+- [javascript-karplus-strong ★199 ⏳2Y](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
+- [XSound.js ★3](https://github.com/Korilakkuma/XSound) - Full stack library.
 - [osc-msg ★12](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance.
-- [Meyda ★374](https://github.com/meyda/meyda) - Audio feature extraction library including a variety of widely used audio features.
-- [Pizzicato ★476](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser.
-- [Mooog ★21](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.
-- [Wavesurfer.js ★2521](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
+- [Meyda ★382](https://github.com/meyda/meyda) - Audio feature extraction library including a variety of widely used audio features.
+- [Pizzicato ★501](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser.
+- [Mooog ★20](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.
+- [Wavesurfer.js ★2574](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
 - [envelope-generator ★24](https://github.com/itsjoesullivan/envelope-generator) - Simple ADSR envelope generator for web audio.
-- [Audiojs ★69](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
+- [Audiojs ★73](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
 - [audio contour ★13 ⏳1Y](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator.
-- [Tuna ★878](https://github.com/Theodeus/tuna) - An audio effects library.
-- [web-audio-recorder-js ★204 ⏳1Y](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
-- [audiolet ★857 ⏳1Y](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
+- [Tuna ★890](https://github.com/Theodeus/tuna) - An audio effects library.
+- [web-audio-recorder-js ★212 ⏳1Y](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
+- [audiolet ★860 ⏳1Y](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
 - [playnote ★1](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
 - [Recorderjs ★2459](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
 - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance.
 
 ### Utilities
 - [resampler ★14 ⏳2Y](https://github.com/notthetup/resampler) - A utility for resampling audio.
-- [bpm-detective ★30](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
+- [bpm-detective ★34](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
 - [web-audio-utils ★6 ⏳2Y](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API.
-- [Audion ★97](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
+- [Audion ★98](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 - [web-audio-oscillators ★2](https://github.com/lukehorvat/web-audio-oscillators) - A collection of Web Audio custom oscillators.
 
 ### MIDI
@@ -83,7 +83,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Apps
 - [LoopDrop App ★620](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 - [X Sound](https://korilakkuma.github.io/X-Sound/) - Multi Sound Application that uses XSound.js.
-- [Molgav ★2 ⏳1Y](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange.
+- [Molgav ★1 ⏳1Y](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange.
 - [Code Player ★18 ⏳1Y](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
 - [mod-synth.io ★24](https://github.com/andrevenancio/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
 - [GridSound](https://gridsound.github.io) - A work-in-progress DAW (Digital Audio Workstation).
@@ -95,7 +95,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Tutorials
 - [WebAudio School](https://github.com/mmckegg/web-audio-school	) - A series of self-guided workshops to learn WebAudio.
 - [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) - Intro to WebAudio.
-- [Web Audio Basics ★47 ⏳2Y](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
+- [Web Audio Basics ★48 ⏳2Y](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 - [Web Audio Perf](https://padenot.github.io/web-audio-perf/) - Performance of various AudioNodes and strategies for efficient resource usage (from WAC2016).
 - [Percussion Synthesis Using Web Audio ★24 ⏳1Y](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
 

@@ -9,7 +9,7 @@ title: Awesome Rank for sfischer13/awesome-eta
 ---
 # Awesome Eta [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/typelead/eta/blob/master/eta_logo.png" align="right" width="100" alt="Eta"> ★1577](https://github.com/typelead/eta)
+[<img src="https://github.com/typelead/eta/blob/master/eta_logo.png" align="right" width="100" alt="Eta"> ★1625](https://github.com/typelead/eta)
 
 > Useful resources for the [Eta](http://eta-lang.org/) programming language
 
@@ -49,7 +49,7 @@ You might also like [awesome-haskell ★1289](https://github.com/krispo/awesome-
 ### Overview
 
 - [Eta](http://eta-lang.org/) - Official website.
-- [GitHub ★1577](https://github.com/typelead/eta) - Eta @ GitHub.
+- [GitHub ★1625](https://github.com/typelead/eta) - Eta @ GitHub.
 
 ### First Steps
 
@@ -124,7 +124,7 @@ You might also like [awesome-haskell ★1289](https://github.com/krispo/awesome-
 
 ### Android
 
-- [eta-android ★16](https://github.com/puffnfresh/eta-android) - Example of Eta on Android.
+- [eta-android ★17](https://github.com/puffnfresh/eta-android) - Example of Eta on Android.
 
 ### Miscellaneous
 

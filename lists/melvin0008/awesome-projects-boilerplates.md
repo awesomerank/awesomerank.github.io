@@ -67,7 +67,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Hackathon Starter ★21949](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications.
     - [Node/Backbone Web App Boilerplate ★22 ⏳4Y](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
     - [Nodebootstrap](http://nodebootstrap.io/) Unobtrusive skeleton project for Node/Express.js with pre-configured best-practices.
-    - [Vue-Express-Mongo Boilerplate ★698](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS.
+    - [Vue-Express-Mongo Boilerplate ★776](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS.
 - [AngularJS](#angular-js)
     - [ng-boilerplate ★4128](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
     - [Yeoman Angular Generator ★5929](https://github.com/yeoman/generator-angular)
@@ -83,21 +83,21 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Flask React Boilerplate ★292](https://github.com/alexkuz/flask-react-boilerplate) Flask and react Boilerplate
     - [Boilerplate Webpack React ★46 ⏳1Y](https://github.com/tcoopman/boilerplate-webpack-react) Boilerplate project for Reactjs with webpack, gulp and stylus
     - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
-    - [React Redux Universal Hot Example ★10584](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
+    - [React Redux Universal Hot Example ★10699](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
     - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
 - [Backbone](#backbone)
-    - [Backbone Boilerplates ★503 ⏳4Y](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
-    - [Yeoman Backbone Generator ★660](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
+    - [Backbone Boilerplates ★502 ⏳4Y](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
+    - [Yeoman Backbone Generator ★663](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
     - [benm ★179](https://github.com/shorttompkins/benm) Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB.
 - [Jquery](#jquery)
     - [Generator Jquery Boilerplate ★150 ⏳1Y](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
 - [Polymer](#polymer)
     - [Polymer Starter Kit ★2452](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps.
     - [Polymer Seed Element ★290](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
-    - [Yeoman Polymer Generator ★983](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
+    - [Yeoman Polymer Generator ★982](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
 - [Electron](#electron)
     - [Electron Boilerplate ★533](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
-    - [WhiteStormJS - React/Redux - three.js - TypeScript boilerplate ★264](https://github.com/WhitestormJS/whitestorm-typescript-boilerplate) A starter kit for crafting 3D applications using modern technologies
+    - [WhiteStormJS - React/Redux - three.js - TypeScript boilerplate ★263](https://github.com/WhitestormJS/whitestorm-typescript-boilerplate) A starter kit for crafting 3D applications using modern technologies
 
 ## Hybrid Mobile App Frameworks
 
@@ -161,7 +161,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Websites*
 - [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
-- [Meteor boilerplate ★919 ⏳1Y](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
+- [Meteor boilerplate ★918 ⏳1Y](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
 - [Web Starter Kit ★17838](https://github.com/google/web-starter-kit) Web starter kit by Google.
 - [Open Designs](http://www.opendesigns.org/) Open Source WebDesign Templates
 - [Open Web Design](http://www.openwebdesign.org/) Community of designers and site owners sharing free web design templates

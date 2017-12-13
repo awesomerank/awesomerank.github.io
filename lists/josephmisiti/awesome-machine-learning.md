@@ -454,7 +454,7 @@ Further resources:
 * [chartjs](http://www.chartjs.org/)
 * [dimple](http://dimplejs.org/)
 * [amCharts](https://www.amcharts.com/)
-* [D3xter ★346 ⏳1Y](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3.
+* [D3xter ★347 ⏳1Y](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3.
 * [statkit ★42 ⏳3Y](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript.
 * [datakit ★293](https://github.com/nathanepstein/datakit) - A lightweight framework for data analysis in JavaScript
 * [science.js ★756 ⏳2Y](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript.

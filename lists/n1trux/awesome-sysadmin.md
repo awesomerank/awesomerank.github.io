@@ -434,7 +434,7 @@ ils and flask.
   * [ServerStatus BotoX ★275 ⏳1Y](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
   * [ServerStatus moejda ★280](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
   * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
-  * [SWMP - Server Web Monitor Page](https://swmp.fuzzytek.ml/) - A responsive, eye-pleasing Linux server statistics dashboard.([Source Code ★213](https://github.com/fuzzymannerz/swmp))
+  * [SWMP - Server Web Monitor Page](https://swmp.fuzzytek.ml/) - A responsive, eye-pleasing Linux server statistics dashboard.([Source Code ★216](https://github.com/fuzzymannerz/swmp))
   * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
   * [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
   * [Vector ★2533](https://github.com/Netflix/vector) - An on-host performance monitoring framework.
@@ -478,7 +478,7 @@ ils and flask.
 *Network configuration management tools.*
 
   * [GestióIP](http://www.gestioip.net/) - An automated web based IPv4/IPv6 IP Address Management tool.
-  * [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances - ([Source Code ★577](https://github.com/GNS3/gns3-gui), [Documentation](https://docs.gns3.com/)) - `GPLv3`
+  * [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances - ([Source Code ★598](https://github.com/GNS3/gns3-gui), [Documentation](https://docs.gns3.com/)) - `GPLv3`
   * [Oxidized ★711](https://github.com/ytti/oxidized) - A modern take on network device configuration monitoring with web interface and GIT storage.
   * [phpIPAM](http://phpipam.net/) - Open source IP address management with [PowerDNS](https://www.powerdns.com/) integration.
   * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.

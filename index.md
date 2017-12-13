@@ -170,10 +170,10 @@ title: Awesome Rank for sindresorhus/awesome
 - [AutoHotkey ★598](lists/ahkscript/awesome-AutoHotkey.md)
 - [AutoIt ★184](lists/J2TeaM/awesome-AutoIt.md)
 - [Crystal ★1382](lists/veelenga/awesome-crystal.md)
-- [Frege ★13](lists/sfischer13/awesome-frege.md) - Haskell for the JVM.
+- [Frege ★14](lists/sfischer13/awesome-frege.md) - Haskell for the JVM.
 - [CMake ★910](lists/onqtam/awesome-cmake.md) - Build, test, and package software.
 - [ActionScript 3 ★52](lists/robinrodricks/awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR.
-- [Eta ★27](lists/sfischer13/awesome-eta.md) - Functional programming language for the JVM.
+- [Eta ★29](lists/sfischer13/awesome-eta.md) - Functional programming language for the JVM.
 - [Idris ★48](lists/joaomilho/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 
 
@@ -181,49 +181,49 @@ title: Awesome Rank for sindresorhus/awesome
 
 - [ES6 Tools ★3512](lists/addyosmani/es6-tools.md)
 - [Web Performance Optimization ★6057](lists/davidsonfellipe/awesome-wpo.md)
-- [Web Tools ★290](lists/lvwzhen/tools.md)
+- [Web Tools ★309](lists/lvwzhen/tools.md)
 - [CSS ★1265](lists/sotayamashita/awesome-css.md)
-	- [Critical-Path Tools ★902 ⏳1Y](lists/addyosmani/critical-path-css-tools.md)
-	- [Scalability ★1215](lists/davidtheclark/scalable-css-reading-list.md)
-	- [Must-Watch Talks ★2335](lists/AllThingsSmitty/must-watch-css.md)
-	- [Protips ★9836](lists/AllThingsSmitty/css-protips.md)
+	- [Critical-Path Tools ★915 ⏳1Y](lists/addyosmani/critical-path-css-tools.md)
+	- [Scalability ★1225](lists/davidtheclark/scalable-css-reading-list.md)
+	- [Must-Watch Talks ★3154](lists/AllThingsSmitty/must-watch-css.md)
+	- [Protips ★9929](lists/AllThingsSmitty/css-protips.md)
 - [React ★22152](lists/enaqx/awesome-react.md) - App framework.
 	- [Relay ★179](lists/expede/awesome-relay.md) - Framework for building data-driven React apps.
-- [Web Components ★971](lists/mateusortiz/webcomponents-the-right-way.md)
-- [Polymer ★329](lists/Granze/awesome-polymer.md) - JavaScript library to develop Web Components.
+- [Web Components ★983](lists/mateusortiz/webcomponents-the-right-way.md)
+- [Polymer ★333](lists/Granze/awesome-polymer.md) - JavaScript library to develop Web Components.
 - [Angular ★4962](lists/gdi2290/awesome-angular.md) - App framework.
 - [Backbone ★369 ⏳1Y](lists/sadcitizen/awesome-backbone.md) - App framework.
-- [HTML5 ★787](lists/diegocard/awesome-html5.md) - Markup language used for websites & web apps.
+- [HTML5 ★811](lists/diegocard/awesome-html5.md) - Markup language used for websites & web apps.
 - [SVG ★3405](lists/willianjusten/awesome-svg.md) - XML-based vector image format.
-- [Canvas ★296](lists/raphamorim/awesome-canvas.md)
-- [KnockoutJS ★65](lists/dnbard/awesome-knockout.md)
-- [Dojo Toolkit ★60](lists/petk/awesome-dojo.md)
-- [Inspiration ★514](lists/NoahBuscher/Inspire.md)
-- [Ember ★249](lists/nmec/awesome-ember.md) - App framework.
-- [Android UI ★26750](lists/wasabeef/awesome-android-ui.md)
+- [Canvas ★311](lists/raphamorim/awesome-canvas.md)
+- [KnockoutJS ★67](lists/dnbard/awesome-knockout.md)
+- [Dojo Toolkit ★59](lists/petk/awesome-dojo.md)
+- [Inspiration ★523](lists/NoahBuscher/Inspire.md)
+- [Ember ★253](lists/nmec/awesome-ember.md) - App framework.
+- [Android UI ★27401](lists/wasabeef/awesome-android-ui.md)
 - [iOS UI ★9844](lists/cjwirth/awesome-ios-ui.md)
 - [Meteor ★1118](lists/Urigo/awesome-meteor.md)
-- [BEM ★339](lists/sturobson/BEM-resources.md)
-- [Flexbox ★742](lists/afonsopacifer/awesome-flexbox.md)
-- [Web Typography ★271](lists/deanhume/typography.md)
-- [Web Accessibility ★578](lists/brunopulis/awesome-a11y.md)
-- [Material Design ★472](lists/sachin1092/awesome-material.md)
-- [D3 ★3474](lists/wbkd/awesome-d3.md) - Library for producing dynamic, interactive data visualizations.
-- [Emails ★354](lists/jonathandion/awesome-emails.md)
-- [jQuery ★459](lists/petk/awesome-jquery.md) - Easy to use JavaScript library for DOM manipulation.
-	- [Tips ★3976](lists/AllThingsSmitty/jquery-tips-everyone-should-know.md)
-- [Web Audio ★288](lists/notthetup/awesome-webaudio.md)
-- [Offline-First ★2231](lists/pazguille/offline-first.md)
+- [BEM ★351](lists/sturobson/BEM-resources.md)
+- [Flexbox ★758](lists/afonsopacifer/awesome-flexbox.md)
+- [Web Typography ★281](lists/deanhume/typography.md)
+- [Web Accessibility ★599](lists/brunopulis/awesome-a11y.md)
+- [Material Design ★477](lists/sachin1092/awesome-material.md)
+- [D3 ★3523](lists/wbkd/awesome-d3.md) - Library for producing dynamic, interactive data visualizations.
+- [Emails ★375](lists/jonathandion/awesome-emails.md)
+- [jQuery ★481](lists/petk/awesome-jquery.md) - Easy to use JavaScript library for DOM manipulation.
+	- [Tips ★4006](lists/AllThingsSmitty/jquery-tips-everyone-should-know.md)
+- [Web Audio ★329](lists/notthetup/awesome-webaudio.md)
+- [Offline-First ★2274](lists/pazguille/offline-first.md)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
-- [A-Frame VR ★1240](lists/aframevr/awesome-aframe.md) - Virtual reality for web browsers.
-- [Cycle.js ★697](lists/cyclejs-community/awesome-cyclejs.md) - Functional and reactive JavaScript framework.
-- [Text Editing ★73 ⏳1Y](lists/dok/awesome-text-editing.md)
-- [Motion UI Design ★436](lists/fliptheweb/motion-ui-design.md)
-- [Vue.js ★24942](lists/vuejs/awesome-vue.md) - App framework.
+- [A-Frame VR ★1246](lists/aframevr/awesome-aframe.md) - Virtual reality for web browsers.
+- [Cycle.js ★709](lists/cyclejs-community/awesome-cyclejs.md) - Functional and reactive JavaScript framework.
+- [Text Editing ★76 ⏳1Y](lists/dok/awesome-text-editing.md)
+- [Motion UI Design ★457](lists/fliptheweb/motion-ui-design.md)
+- [Vue.js ★26186](lists/vuejs/awesome-vue.md) - App framework.
 - [Marionette.js ★143](lists/sadcitizen/awesome-marionette.md) - App framework.
 - [Aurelia ★244](lists/behzad888/awesome-aurelia.md) - App framework.
 - [Charting ★755](lists/zingchart/awesome-charting.md)
-- [Ionic Framework 2 ★610](lists/candelibas/awesome-ionic.md)
+- [Ionic Framework 2 ★623](lists/candelibas/awesome-ionic.md)
 - [Chrome DevTools ★2481](lists/ChromeDevTools/awesome-chrome-devtools.md)
 - [PostCSS ★206](lists/jjaderg/awesome-postcss.md) - CSS preprocessor.
 - [Draft.js ★1087](lists/nikgraf/awesome-draft-js.md) - Rich text editor framework for React.

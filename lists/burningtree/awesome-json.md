@@ -313,7 +313,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 * [deepjson](http://deepjson.jacoborus.codes/) - A better way to load big json config files. (node.js)
 * [jsontl ★5 ⏳2Y](https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (node.js)
 * [json-transforms ★31](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
-* [normalizr ★10674](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema. (Javascript)
+* [normalizr ★11105](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema. (Javascript)
 * [JSON-populate ★21](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 * [CircularJSON ★277](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 

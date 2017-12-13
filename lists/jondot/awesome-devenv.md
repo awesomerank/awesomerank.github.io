@@ -67,10 +67,10 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [apachebench (ab)](http://httpd.apache.org/docs/2.2/programs/ab.html)
 * [boom ★4784 ⏳1Y](https://github.com/rakyll/boom)
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
-* [phantomas ★2035](https://github.com/macbre/phantomas) - website perf evaluation tool
+* [phantomas ★2046](https://github.com/macbre/phantomas) - website perf evaluation tool
 * [siege](http://www.joedog.org/siege-home/)
 * [Vegeta ★6751](https://github.com/tsenart/vegeta)
-* [wrk ★13969](https://github.com/wg/wrk)
+* [wrk ★14227](https://github.com/wg/wrk)
 * [redis-faina](https://github.com/Instagram/redis-faina) Instagram's Redis counter/timing stats based on the MONITOR command
 
 

@@ -80,7 +80,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [Sean T. Larkin - @TheLarkInn](https://twitter.com/TheLarkInn) TPM at [Microsoft](https://twitter.com/MSEdgeDev). Developer Advocate and webpack core team member.
 - [Juho Vepsäläinen - @bebraw](https://twitter.com/bebraw) from [SurviveJS](https://twitter.com/survivejs) and webpack core team member.
 - [Eric Clemmons - @ericclemmons](https://twitter.com/ericclemmons) VP of Software Development at [HigherEdHQ](https://twitter.com/HigherEdHQ). Webpack member.
-- [Patrick Stapleton - @gdi2290](https://twitter.com/gdi2290) from [AngularClass](https://angularclass.com), [AngularAir](https://angularair.com) and [Angular Universal ★2648](https://github.com/angular/universal). Webpack member.
+- [Patrick Stapleton - @gdi2290](https://twitter.com/gdi2290) from [AngularClass](https://angularclass.com), [AngularAir](https://angularair.com) and [Angular Universal ★2707](https://github.com/angular/universal). Webpack member.
 - [Kent C. Dodds - @kentcdodds](https://twitter.com/kentcdodds) from [PayPal Engineering](https://twitter.com/PayPalEng) and [JavaScript Air](https://twitter.com/JavaScriptAir). Webpack member.
 - [Johannes Ewald - @Jhnnns](https://twitter.com/Jhnnns): Webpack core team member.
 - [Joshua Wiens - @d3viant0ne](https://twitter.com/d3viant0ne): Technical Lead for [EasyMetrics](https://easymetrics.com). Webpack member.
@@ -119,7 +119,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [ngTemplate Loader ★198](https://github.com/WearyMonkey/ngtemplate-loader) - Angular1 Template Loader.  -- *Maintainer*: `Toby Rahilly` [![Github][githubicon]](https://github.com/WearyMonkey)
 - [ngInlineStylesLoader ★3](https://github.com/seveves/ng-inline-styles-loader): Optimizes inlined css of angular components. -- *Maintainer*: `Severin Friede` [![Github][githubicon]](https://github.com/seveves)
 - [Markup-inline Loader ★16](https://github.com/asnowwolf/markup-inline-loader) Inline SVGs to HTML -- *Maintainer*: `Zhicheng Wang` [![Github][githubicon]](https://github.com/asnowwolf)
-- [Polymer Loader ★113](https://github.com/webpack-contrib/polymer-webpack-loader) - Loader for Polymer elements. -- *Maintainers*: `Rob Dodson` [![Github][githubicon]](https://github.com/robdodson) - `Chad Killingsworth` [![Github][githubicon]](https://github.com/ChadKillingsworth) - `Bryan Coulter` [![Github][githubicon]](https://github.com/bryandcoulter)
+- [Polymer Loader ★121](https://github.com/webpack-contrib/polymer-webpack-loader) - Loader for Polymer elements. -- *Maintainers*: `Rob Dodson` [![Github][githubicon]](https://github.com/robdodson) - `Chad Killingsworth` [![Github][githubicon]](https://github.com/ChadKillingsworth) - `Bryan Coulter` [![Github][githubicon]](https://github.com/bryandcoulter)
 
 #### Styles
 
@@ -134,7 +134,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 #### Language & Framework
 
 - [TS Loader ★954](https://github.com/TypeStrong/ts-loader): TypeScript loader for webpack. -- *Maintainer*: `TypeStrong Team` [![Github][githubicon]](https://github.com/TypeStrong)
-- [Awesome TypeScript Loader ★1190](https://github.com/s-panferov/awesome-typescript-loader): Awesome TS loader for Webpack. -- *Maintainer*: `Stanislav Panferov` [![Github][githubicon]](https://github.com/s-panferov) [![Twitter][twittericon]](https://twitter.com/babel)
+- [Awesome TypeScript Loader ★1249](https://github.com/s-panferov/awesome-typescript-loader): Awesome TS loader for Webpack. -- *Maintainer*: `Stanislav Panferov` [![Github][githubicon]](https://github.com/s-panferov) [![Twitter][twittericon]](https://twitter.com/babel)
 - [Coffee Loader](https://github.com/webpack/coffee-loader): Coffee loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [Bootstrap Loader ★886](https://github.com/shakacode/bootstrap-loader): Load Bootstrap styles in your Webpack bundle. -- *Maintainer*: `ShakaCode Team` [![Github][githubicon]](https://github.com/shakacode) [![Twitter][twittericon]](https://twitter.com/shakacode)
 - [PostHTML Loader ★949](https://github.com/posthtml/posthtml): PostHTML loader for Webpack. -- *Maintainer*: `PostHTML Team` [![Github][githubicon]](https://github.com/posthtml) [![Twitter][twittericon]](https://twitter.com/PostHTML)
@@ -142,7 +142,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 #### Utility
 
-- [Babel Loader ★2233](https://github.com/babel/babel-loader): Webpack plugin for Babel. -- *Maintainer*: `Babel Team` [![Github][githubicon]](https://github.com/babel) [![Twitter][twittericon]](https://twitter.com/babel)
+- [Babel Loader ★2332](https://github.com/babel/babel-loader): Webpack plugin for Babel. -- *Maintainer*: `Babel Team` [![Github][githubicon]](https://github.com/babel) [![Twitter][twittericon]](https://twitter.com/babel)
 - [ESLint Loader ★650](https://github.com/MoOx/eslint-loader): ESLint loader for Webpack. -- *Maintainer*: `Maxime Thirouin` [![Github][githubicon]](https://github.com/MoOx) [![Twitter][twittericon]](https://twitter.com/MoOx)
 - [JSHint Loader](https://github.com/webpack/jshint-loader): JSHint loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [JSCS Loader ★21](https://github.com/unindented/jscs-loader): Run your source through the JSCS style checker. -- *Maintainer*: `Daniel Perez Alvarez` [![Github][githubicon]](https://github.com/unindented)
@@ -180,7 +180,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [Extract Text Plugin](https://github.com/webpack/extract-text-webpack-plugin): Extract text from bundle into a file. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [DefinePlugin](https://webpack.js.org/plugins/define-plugin/): Create global constants which can be configured at compile time. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [Compression Plugin](https://github.com/webpack/compression-webpack-plugin): Prepare assets to serve with Content-Encoding. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
-- [Offline Plugin ★2538](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for Webpack. -- *Maintainer*: `Arthur Stolyar` [![Github][githubicon]](https://github.com/NekR) [![Twitter][twittericon]](https://twitter.com/nekrtemplar)
+- [Offline Plugin ★2678](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for Webpack. -- *Maintainer*: `Arthur Stolyar` [![Github][githubicon]](https://github.com/NekR) [![Twitter][twittericon]](https://twitter.com/nekrtemplar)
 - [Rewire Plugin ★111](https://github.com/jhnns/rewire-webpack): Dependency injection for Webpack bundles. -- *Maintainer*: `Johannes Ewald` [![Github][githubicon]](https://github.com/jhnns) [![Twitter][twittericon]](https://twitter.com/Jhnnns)
 - [HTML Webpack Plugin](https://github.com/ampedandwired/html-webpack-plugin): Simplifies creation of HTML files. -- *Maintainer*: `Jan Nicklas` [![Github][githubicon]](https://github.com/jantimon) [![Twitter][twittericon]](https://twitter.com/jantimon)
 - [Copy Webpack Plugin](https://github.com/kevlened/copy-webpack-plugin): Copy files and directories in webpack. -- *Maintainer*: `Len Boyette` [![Github][githubicon]](https://github.com/kevlened) [![Twitter][twittericon]](https://twitter.com/kevlened)
@@ -191,7 +191,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [Module Mapping ★9](https://github.com/spartez/module-mapping-webpack-plugin) - Maps modules onto different files. -- *Maintainer*: `Spartez Team` [![Github][githubicon]](https://github.com/spartez) [![Twitter][twittericon]](https://twitter.com/thisisspartez)
 - [Serverless Webpack](https://github.com/elastic-coders/serverless-webpack) - Serverless plugin to bundle your lambdas. -- *Maintainer*: `Elastic Coders` [![Github][githubicon]](https://github.com/elastic-coders) [![Twitter][twittericon]](https://twitter.com/ElasticCoders)
 - [Prerender SPA ★1644](https://github.com/chrisvfritz/prerender-spa-plugin) - Framework-agnostic static site generation for SPAs. -- *Maintainer*: `Chris Fritz` [![Github][githubicon]](https://github.com/chrisvfritz) [![Twitter][twittericon]](https://twitter.com/chrisvfritz)
-- [Static Site Generator Plugin ★1129](https://github.com/markdalgleish/static-site-generator-webpack-plugin) - Minimal, unopinionated static site generator. -- *Maintainer*: `Mark Dalgleish` [![Github][githubicon]](https://github.com/markdalgleish)
+- [Static Site Generator Plugin ★1150](https://github.com/markdalgleish/static-site-generator-webpack-plugin) - Minimal, unopinionated static site generator. -- *Maintainer*: `Mark Dalgleish` [![Github][githubicon]](https://github.com/markdalgleish)
 - [SVG Sprite Plugin ★63](https://github.com/TodayTix/svg-sprite-webpack-plugin) - Plugin for SVG sprites and icons. -- *Maintainer*: `Jeremy Tice` ([`TodayTix`](https://github.com/TodayTix)) [![Github][githubicon]](https://github.com/jetpacmonkey) [![Twitter][twittericon]](https://twitter.com/jetpacmonkey)
 - [Imagemin Webpack Plugin ★242](https://github.com/Klathmon/imagemin-webpack-plugin) - Minify images with Imagemin. -- *Maintainer*: `Gregory Benner` [![Github][githubicon]](https://github.com/Klathmon) [![Twitter][twittericon]](https://twitter.com/Klathmon)
 - [Prepack Webpack Plugin ★875](https://github.com/gajus/prepack-webpack-plugin) - A webpack plugin for prepack. -- *Maintainer*: `Gajus Kuizinas` [![Github][githubicon]](https://github.com/gajus)
@@ -296,13 +296,13 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 #### React
 
-- [Create React App ★37578](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration from [Dan Abramov](https://github.com/gaearon).
-- [React Starter Kit ★16007](https://github.com/kriasoft/react-starter-kit) - Isomorphic web app boilerplate from [Kriasoft Team](https://github.com/kriasoft).
-- [React Redux Universal ★10584](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp from [Erik Rasmussen](https://github.com/erikras).
-- [Frontend Boilerplate ★3041](https://github.com/tj/frontend-boilerplate) - A boilerplate of things that mostly shouldn't exist from [TJ Holowaychuk](https://github.com/tj).
+- [Create React App ★39196](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration from [Dan Abramov](https://github.com/gaearon).
+- [React Starter Kit ★16307](https://github.com/kriasoft/react-starter-kit) - Isomorphic web app boilerplate from [Kriasoft Team](https://github.com/kriasoft).
+- [React Redux Universal ★10699](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp from [Erik Rasmussen](https://github.com/erikras).
+- [Frontend Boilerplate ★3052](https://github.com/tj/frontend-boilerplate) - A boilerplate of things that mostly shouldn't exist from [TJ Holowaychuk](https://github.com/tj).
 - [ReactGo ★2422](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux from [Ken Ding](https://github.com/choonkending).
-- [React Native Calculator ★4037](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code from [Benoit Vallon](https://github.com/benoitvallon).
-- [React Cordova Boilerplate ★164](https://github.com/unimonkiez/react-cordova-boilerplate) - TodoMVC example for React with Cordova from [Yuval Saraf](https://github.com/unimonkiez).
+- [React Native Calculator ★4102](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code from [Benoit Vallon](https://github.com/benoitvallon).
+- [React Cordova Boilerplate ★170](https://github.com/unimonkiez/react-cordova-boilerplate) - TodoMVC example for React with Cordova from [Yuval Saraf](https://github.com/unimonkiez).
 - [React Universally ★1348](https://github.com/ctrlplusb/react-universally) - A starter kit giving you the minimum for a production ready universal react application.
 - [Budgeting Application ★849](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - A fully functional boilerplate application optimized for dev and prod, including PRPL from [Modus Create](https://github.com/ModusCreateOrg).
 

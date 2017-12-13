@@ -445,7 +445,7 @@ Inspired by [ziadoz/awesome-php ★17326](https://github.com/ziadoz/awesome-php)
 * [Deployer ★583](https://github.com/REBELinBLUE/deployer) - Application deployment system
 * [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Task management of the day-to-day. Git + Scrum = Team More Productive
 * [Invoice Ninja ★3185](https://github.com/invoiceninja/invoiceninja) - Invoicing, expenses, & time-tracking application
-* [Koel ★8386](https://github.com/phanan/koel) - Personal music streaming server
+* [Koel ★8506](https://github.com/phanan/koel) - Personal music streaming server
 * [Laravel Tricks ★921 ⏳1Y](https://github.com/CodepadME/laravel-tricks) - Source for the Laravel Tricks website
 * [Laravel.io](https://github.com/laravelio/laravel.io) - Source for the Laravel.io Community Portal
 * [Paperwork ★6161](https://github.com/twostairs/paperwork) - Note-taking & archiving application
@@ -457,7 +457,7 @@ Inspired by [ziadoz/awesome-php ★17326](https://github.com/ziadoz/awesome-php)
 * [Antvel ★267](https://github.com/ant-vel/App) - Ecommerce platform
 * [Jigsaw](http://jigsaw.tighten.co) - Static site generator
 * [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers.
-* [Vuedo ★1541](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
+* [Vuedo ★1576](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 * [Screeenly ★112](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 * [Voten ★696](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century
 
@@ -475,7 +475,7 @@ Inspired by [ziadoz/awesome-php ★17326](https://github.com/ziadoz/awesome-php)
 * [Quarx ★355](https://github.com/yabhq/quarx)
 * [WebEd CMS ★351](https://github.com/sgsoft-studio/webed)
 * [Borgert CMS ★191](https://github.com/odirleiborgert/borgert-cms)
-* [PJ Blog ★1425](https://github.com/jcc/blog)
+* [PJ Blog ★1507](https://github.com/jcc/blog)
 * [Laralum](https://laralum.com/)
 
 ## Newsletters

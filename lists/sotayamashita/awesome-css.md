@@ -62,19 +62,19 @@ The CSS Working Group defines CSS specifications which move through the their pr
 
 *Editor's drafts of CSS specifications*
 
-- [w3c/csswg-drafts ★689](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository.
-- [w3c/css-houdini-drafts ★914](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Etidor repository.
+- [w3c/csswg-drafts ★728](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository.
+- [w3c/css-houdini-drafts ★928](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Etidor repository.
 
 ## Parser :mag:
 
-* [CSSOM ★537](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
-* [CSSTree ★297](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
+* [CSSOM ★541](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
+* [CSSTree ★311](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
 * [Gonzales ★115](https://github.com/css/gonzales) - Fast CSS parser.
-* [Gonzales PE ★208](https://github.com/tonyganch/gonzales-pe) - CSS parser with support of preprocessors.
+* [Gonzales PE ★211](https://github.com/tonyganch/gonzales-pe) - CSS parser with support of preprocessors.
 * [mensch ★86](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
-* [ParserLib ★259](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
+* [ParserLib ★260](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
 * [PostCSS ★16540](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
-* [Rework ★2746](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
+* [Rework ★2750](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
 * [Stylecow ★119](https://github.com/stylecow/stylecow) - Modern CSS to all browsers.
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -83,9 +83,9 @@ The CSS Working Group defines CSS specifications which move through the their pr
 
 *Build CSS faster*
 
-* [LESS ★15203](https://github.com/less/less.js) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax.
+* [LESS ★15269](https://github.com/less/less.js) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax.
 * [PostCSS ★16540](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
-* [Sass ★10674](https://github.com/sass/sass) - Mature, stable, and powerful professional grade CSS extension language.
+* [Sass ★10800](https://github.com/sass/sass) - Mature, stable, and powerful professional grade CSS extension language.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 
 _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-css/wiki#preprocessors)_
@@ -125,18 +125,18 @@ _[You can find more frameworks at "awesome-css-frameworks" ★40](https://github
 
 ## CSS Structure
 
-- [RSCSS ★3439](https://github.com/rstacruz/rscss) - Reasonable Standard for CSS Stylesheet Structure.
+- [RSCSS ★3454](https://github.com/rstacruz/rscss) - Reasonable Standard for CSS Stylesheet Structure.
 - [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects.
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Reset and Normalize
 
-- [Normalize ★28591](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
-- [Normalize-OpenType ★781](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
-- [MiniReset.css ★972](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
+- [Normalize ★29026](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
+- [Normalize-OpenType ★782](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
+- [MiniReset.css ★999](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
 - [Reset](http://meyerweb.com/eric/tools/css/reset/) - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
-- [sanitize.css ★2537](https://github.com/jonathantneal/sanitize.css) - A set of CSS rules that style with today’s best practices out-of-the-box.
+- [sanitize.css ★2579](https://github.com/jonathantneal/sanitize.css) - A set of CSS rules that style with today’s best practices out-of-the-box.
 - [unstyle.css ★9](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline.
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -152,14 +152,14 @@ _[You can find more frameworks at "awesome-css-frameworks" ★40](https://github
 * [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) by Paul Davis.
 * [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather).
 * [Medium’s CSS is actually pretty good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat).
-* [scalable-css-reading-list ★1215](https://github.com/davidtheclark/scalable-css-reading-list)
+* [scalable-css-reading-list ★1225](https://github.com/davidtheclark/scalable-css-reading-list)
 * [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace).
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Code Style Guidelines :book:
 
-* [idiomatic CSS ★5355](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas).
+* [idiomatic CSS ★5373](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas).
 * [CSS Styleguide](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho).
 * [CSS Guidelines](http://cssguidelin.es/) by [Harry Roberts](https://twitter.com/csswizardry).
 * [Sass Guidelines](https://sass-guidelin.es/) by [Hugo Giraudel](https://twitter.com/HugoGiraudel).
@@ -174,7 +174,7 @@ _[You can find more frameworks at "awesome-css-frameworks" ★40](https://github
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design.
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet.
-* [Dropbox (S)CSS Style Guide ★572 ⏳1Y](https://github.com/dropbox/css-style-guide) by Dropbox.
+* [Dropbox (S)CSS Style Guide ★580 ⏳1Y](https://github.com/dropbox/css-style-guide) by Dropbox.
 * [Fabric](https://dev.office.com/fabric#/) by Microsoft.
 * [GitHub CSS Style Guide](http://primercss.io) by Github.
 * [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace.
@@ -194,12 +194,12 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 ## Style Guide Generators :slot_machine:
 
 - [Hologram ★2106](https://github.com/trulia/hologram)
-- [mdcss ★631 ⏳1Y](https://github.com/jonathantneal/mdcss)
+- [mdcss ★633 ⏳1Y](https://github.com/jonathantneal/mdcss)
 - [Source](https://sourcejs.com/)
 - [styledoc ★4 ⏳5Y](https://github.com/Joony/styledoc)
-- [styledocco ★1082 ⏳2Y](https://github.com/jacobrask/styledocco)
-- [styledown ★625](https://github.com/styledown/styledown)
-- [sc5-styleguide ★1192](https://github.com/SC5/sc5-styleguide)
+- [styledocco ★1081 ⏳2Y](https://github.com/jacobrask/styledocco)
+- [styledown ★628](https://github.com/styledown/styledown)
+- [sc5-styleguide ★1199](https://github.com/SC5/sc5-styleguide)
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -213,7 +213,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 * [ITCSS](http://itcss.io/)
 * [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 * [Title CSS](https://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
-* [idiomatic-css ★5355](https://github.com/necolas/idiomatic-css)
+* [idiomatic-css ★5373](https://github.com/necolas/idiomatic-css)
 * [Atomic Design](http://patternlab.io/resources.html)
 * [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname)
 * [Kickoff CSS](http://trykickoff.com/learn/css.html#namingscheme)
@@ -225,38 +225,38 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 ## CSS in JS
 
-* [aphrodite ★3641](https://github.com/Khan/aphrodite)
-* [babel-plugin-css-in-js ★240](https://github.com/martinandert/babel-plugin-css-in-js)
+* [aphrodite ★3724](https://github.com/Khan/aphrodite)
+* [babel-plugin-css-in-js ★241](https://github.com/martinandert/babel-plugin-css-in-js)
 * [classy ★20](https://github.com/inturn/classy)
-* [csjs ★493](https://github.com/rtsao/csjs)
+* [csjs ★494](https://github.com/rtsao/csjs)
 * [css-loader](https://github.com/webpack/css-loader)
-* [JSS ★2718](https://github.com/cssinjs/jss)
+* [JSS ★2866](https://github.com/cssinjs/jss)
 * [react-styled ★34 ⏳1Y](https://github.com/bloodyowl/react-styled)
-* [react-with-styles ★904](https://github.com/airbnb/react-with-styles)
+* [react-with-styles ★943](https://github.com/airbnb/react-with-styles)
 * [styled-jsx ★2414](https://github.com/zeit/styled-jsx)
 * [styled-components ★11796](https://github.com/styled-components/styled-components)
 
-Here is a [CSS in JS techniques comparison ★2797](https://github.com/MicheleBertoli/css-in-js)
+Here is a [CSS in JS techniques comparison ★2884](https://github.com/MicheleBertoli/css-in-js)
 
 <sub>[⇧ back to top](#contents)</sub>
 
 
 ## CSS Polyfills
 
-* [polyfill.js ★270](https://github.com/philipwalton/polyfill) - A library to make creating CSS polyfills much easier.
-* [prefixfree ★3588](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell.
-* [fixed-sticky ★1374](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
-* [selectivizr ★1749](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
-* [PIE ★2810](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties.
+* [polyfill.js ★269](https://github.com/philipwalton/polyfill) - A library to make creating CSS polyfills much easier.
+* [prefixfree ★3603](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell.
+* [fixed-sticky ★1383](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
+* [selectivizr ★1754](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
+* [PIE ★2815](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties.
 
 <sub>[⇧ back to top](#contents)</sub>
 
 
 ## Miscellaneous
 
-* [Single Div Project ★1435](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
+* [Single Div Project ★1438](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 * [Can I use](http://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
-* [Live editor for CSS and LESS ★23](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
+* [Live editor for CSS and LESS ★24](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -326,7 +326,7 @@ Here is a [CSS in JS techniques comparison ★2797](https://github.com/MicheleBe
 
 ## Videos :tv:
 
-*A good study videos for CSS Must Watch Videos. Some items are quoted from [AllThingsSmitty/must-watch-css ★2335](https://github.com/AllThingsSmitty/must-watch-css). [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). I appreciate his valuable efforts.*
+*A good study videos for CSS Must Watch Videos. Some items are quoted from [AllThingsSmitty/must-watch-css ★3154](https://github.com/AllThingsSmitty/must-watch-css). [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). I appreciate his valuable efforts.*
 
 ### 2016
 

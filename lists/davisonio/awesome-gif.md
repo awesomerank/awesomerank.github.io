@@ -121,7 +121,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [gifanimateddrawable ★219 ⏳3Y](https://github.com/Hipmob/gifanimateddrawable) - Use an animated GIF as an Android Drawable
 - [GifView ★78 ⏳4Y](https://github.com/RoiSoleil/GifView) - android library to deal with GIF
 - [Gif Movie View ★446 ⏳1Y](https://github.com/sbakhtiarov/gif-movie-view) - Android View widget for displaying GIF animations
-- [GifImageView ★913](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images
+- [GifImageView ★925](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images
 - [Gif-animation ★104](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF
 - [Android-gif-encoder ★212 ⏳5Y](https://github.com/nbadal/android-gif-encoder) - animated GIF encoder for Android
 - [GIFDroid ★92 ⏳2Y](https://github.com/quackware/GIFDroid) - Android video to GIF converter

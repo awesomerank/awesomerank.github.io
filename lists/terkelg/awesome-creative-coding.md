@@ -469,7 +469,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 - [Awesome opengl ★633](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 - [Awesome webgl ★157](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
-- [Awesome canvas ★296](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
+- [Awesome canvas ★311](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
 - [Awesome audio visualization ★1544](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
 - [Awesome computer vision ★3738](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 - [Awesome visualization research ★220](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.

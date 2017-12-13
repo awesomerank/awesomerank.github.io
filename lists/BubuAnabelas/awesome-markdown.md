@@ -78,7 +78,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 - [marked ★14719](https://github.com/chjj/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed.
 - [markdown-it ★4328](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
-- [markdown-js ★6308](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript.
+- [markdown-js ★6367](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript.
 - [Showdown ★5827](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber.
 - [Snarkdown ★645](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser.
 
