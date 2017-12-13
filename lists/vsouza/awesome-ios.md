@@ -723,6 +723,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Strsync ★102](https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
 * [IBLocalizable ★398](https://github.com/PiXeL16/IBLocalizable) - Localize your views directly in Interface Builder with IBLocalizable :large_orange_diamond:
 * [nslocalizer ★122](https://github.com/samdmarshall/nslocalizer) - A tool for finding missing and unused NSLocalizedStrings
+* [L10n-swift ★25](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language. :large_orange_diamond:
 
 ## Logging
 * [CleanroomLogger ★1088](https://github.com/emaloney/CleanroomLogger) - A configurable and extensible Swift-based logging API that is simple, lightweight and performant. :large_orange_diamond:
@@ -1495,6 +1496,7 @@ Most of these are paid services, some have free tiers.
 * [Nimble ★2498](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C :large_orange_diamond:
 * [Sleipnir ★849 ⏳1Y](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift :large_orange_diamond:
 * [SwiftCheck ★863](https://github.com/typelift/SwiftCheck) - QuickCheck for Swift :large_orange_diamond:
+* [Spry ★282](https://github.com/Quick/Spry) - A Mac and iOS Playgrounds Unit Testing library based on Nimble. 🔶
 
 #### A/B Testing
 * [Switchboard ★266](https://github.com/KeepSafe/Switchboard) - Switchboard - easy and super light weight A/B testing for your mobile iPhone or android app. This mobile A/B testing framework allows you with minimal servers to run large amounts of mobile users.

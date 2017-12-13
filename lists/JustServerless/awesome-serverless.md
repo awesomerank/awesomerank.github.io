@@ -1683,6 +1683,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [VPC ENI cleanup ★1](https://github.com/medikoo/serverless-plugin-vpc-eni-cleanup) - Automatic cleanup of VPC network interfaces on stage removal.
 - [CloudFormation Change Sets ★2](https://github.com/trek10inc/serverless-cloudformation-changesets) - Natively deploy to CloudFormation via Change Sets, instead of directly.
 - [CloudFormation cross region variables ★1](https://github.com/blueflag/serverless-plugin-cloudformation-cross-region-variables) - Adds new Serverless Variables syntax to share variables across regions via CloudFormation.
+- [Tracer ★1](https://github.com/enykeev/serverless-plugin-tracer) - Trace Serverless Framework hooks as they execute.
+- [IoT Local ★2](https://github.com/tradle/serverless-iot-local) - AWS Iot lifecycle and regular topic subscription events.
 
 ## Literature / Education
 

@@ -175,7 +175,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 - [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available. 
 - [intajay/open-electronics ★52](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers
-- [Vitorian/awesome-fpga ★60](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources
+- [Vitorian/awesome-fpga ★64](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/monostable/awesome-electronics">monostable/awesome-electronics</a> with ranks

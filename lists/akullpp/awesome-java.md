@@ -576,7 +576,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [AppDynamics ![c]](https://www.appdynamics.com/) - Performance monitor.
 * [Automon ★426 ⏳1Y](https://github.com/stevensouza/automon) - Combines the power of AOP with monitoring and/or logging tools.
 * [BugSnag ![c]](https://www.bugsnag.com/) - Exception and error monitoring with an integration of several third party tools for a better workflow and a free hobbyist tier.
-* [Failsafe Actuator ★14](https://github.com/zalando-incubator/failsafe-actuator) - Out of the box monitoring of Failsafe Circuit Breaker in Spring-Boot environment.
+* [Failsafe Actuator ★19](https://github.com/zalando-incubator/failsafe-actuator) - Out of the box monitoring of Failsafe Circuit Breaker in Spring-Boot environment.
 * [Glowroot](https://glowroot.org/) - Open-source Java APM.
 * [inspectIT](http://www.inspectit.rocks) - Captures detailed run-time information via hooks that can be changed on the fly. It supports tracing over multiple systems via the OpenTracing API and can correlate the data with end user monitoring.
 * [Instrumental ![c]](https://instrumentalapp.com) - Real-time Java application performance monitoring. A commercial service with free development accounts.
@@ -774,7 +774,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *Tools that substitute expressions in a template.*
 
 * [Handlebars.java](https://jknack.github.io/handlebars.java/) - Logicless and semantic Mustache templates.
-* [Jade4J ★574](https://github.com/neuland/jade4j) - Implementation of Pug (formerly known as Jade).
+* [Jade4J ★582](https://github.com/neuland/jade4j) - Implementation of Pug (formerly known as Jade).
 * [Jtwig](http://jtwig.org/) - Modular, configurable and fully tested template engine.
 * [Pebble](http://www.mitchellbosecke.com/pebble/home) - Inspired by Twig and separates itself with its inheritance feature and its easy-to-read syntax. It ships with built-in autoescaping for security and it includes integrated support for internationalization.
 * [Thymeleaf](http://www.thymeleaf.org/) - Aims to be a substitute for JSP and works for XML files.

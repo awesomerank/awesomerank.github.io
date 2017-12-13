@@ -65,7 +65,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [nvd3 ★6246](https://github.com/novus/nvd3) - Re-usable charts and chart components
 - [peek ★64 ⏳1Y](https://github.com/mtmacdonald/peek) - Object-oriented chart library
 - [plotly ★7266](https://github.com/plotly/plotly.js) - High level charting library
-- [plottablejs ★2223](https://github.com/palantir/plottable) - Flexible, interactive charts for the web
+- [plottablejs ★2252](https://github.com/palantir/plottable) - Flexible, interactive charts for the web
 - [pykcharts ★277 ⏳1Y](https://github.com/pykih/PykCharts.js) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar chart ★308](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
 - [rickshaw ★6146](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs

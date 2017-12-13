@@ -70,7 +70,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [reprex](https://github.com/jennybc/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 * [reticulate ★344](https://github.com/rstudio/reticulate) - R Interface to Python
 * [tensorflow ★911](https://github.com/rstudio/tensorflow) -  TensorFlow for R
-* [utf8 ★58](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
+* [utf8 ★66](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
 
 ## Integrated Development Environments
 *Integrated Development Environment*
@@ -382,7 +382,7 @@ Angle Regression
 * [NLP for <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 * [MonkeyLearn](https://github.com/masalmon/monkeylearn) - 🐒 R package for text analysis with Monkeylearn 🐒.
 * [tidytext](http://tidytextmining.com/index.html) - Implementing tidy principles of Hadley Wickham to text mining.
-* [utf8 ★58](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
+* [utf8 ★66](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
 
 ## Bayesian
 *Packages for Bayesian Inference.*
