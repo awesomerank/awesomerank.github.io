@@ -311,7 +311,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [active ★48](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
 * [coffee_rotor ★16 ⏳3Y](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
-* [dismake ★3 ⏳2Y](https://github.com/jarednorman/dismake) - Mix compiler running make.
+* [dismake ★3 ⏳3Y](https://github.com/jarednorman/dismake) - Mix compiler running make.
 * [etude ★10 ⏳1Y](https://github.com/exstruct/etude) - Parallel computation coordination compiler for Erlang/Elixir.
 * [ExMake ★16 ⏳3Y](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
 * [Exscript ★5 ⏳1Y](https://github.com/liveforeverx/exscript) - Elixir escript library.

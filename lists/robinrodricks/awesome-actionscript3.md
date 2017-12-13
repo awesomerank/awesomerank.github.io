@@ -413,7 +413,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### SVG
 
 * [AS3SVGRenderer ★97 ⏳1Y](https://github.com/LucasLorentz/AS3SVGRenderer) - SVG Renderer for Flash Player.
-* [SVGParser ★13 ⏳6Y](https://github.com/millermedeiros/SVGParser) - SVG parser and renderer to FIVe3D and HTML5 canvas.
+* [SVGParser ★13 ⏳7Y](https://github.com/millermedeiros/SVGParser) - SVG parser and renderer to FIVe3D and HTML5 canvas.
 
 #### XML
 

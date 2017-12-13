@@ -272,7 +272,7 @@ Discover more awesome lists at [sindresorhus/awesome ★69735](https://github.co
     - [DShield docker ★3 ⏳1Y](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
     - [hornet ★18 ⏳1Y](https://github.com/czardoz/hornet) - Medium interaction SSH Honeypot that supports multiple virtual hosts
     - [ssh-honeypot ★125](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords.
-    - [Kippo_JunOS ★10 ⏳1Y](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
+    - [Kippo_JunOS ★10 ⏳2Y](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
     - [ssh-honeypotd ★4](https://github.com/sjinks/ssh-honeypotd) - A low-interaction SSH honeypot written in C.
     - [sshesame ★803 ⏳1Y](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
 

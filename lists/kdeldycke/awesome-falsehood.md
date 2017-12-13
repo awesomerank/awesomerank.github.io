@@ -232,7 +232,7 @@ international phone numbers. Also available for
 [Objective-C ★1739](https://github.com/iziz/libPhoneNumber-iOS),
 [Python ★1689](https://github.com/daviddrysdale/python-phonenumbers),
 [Ruby ★530](https://github.com/sstephenson/global_phone) and
-[PHP ★2032](https://github.com/giggsey/libphonenumber-for-php).
+[PHP ★2075](https://github.com/giggsey/libphonenumber-for-php).
 
 
 ## Postal Addresses

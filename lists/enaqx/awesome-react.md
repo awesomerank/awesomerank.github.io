@@ -169,7 +169,7 @@ A collection of awesome things regarding React ecosystem.
 * [Glamor ★2694](https://github.com/threepointone/glamor)
 * [Styletron ★2240](https://github.com/rtsao/styletron)
 * [TypeStyle ★1618](https://github.com/typestyle/typestyle)
-* [styled-components ★11246](https://github.com/styled-components/styled-components)
+* [styled-components ★11796](https://github.com/styled-components/styled-components)
 * [gloss ★12](https://github.com/motion/gloss)
 * [JSS ★2718](https://github.com/cssinjs/jss)
 
@@ -398,7 +398,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-tags - A simple wrapper around React.DOM ★5 ⏳3Y](https://github.com/adelevie/react-tags)
 * [react-datepicker by @misino - Datepicker component for application using Facebook React ★19](https://github.com/misino/react-datepicker)
 * [react-datepicker by @Hacker0x01 - A simple and reusable datepicker component for React ★2055](https://github.com/Hacker0x01/react-datepicker)
-* [react-table-sorter-demo - A React.js Table Sorter Component ★103 ⏳3Y](https://github.com/bgerm/react-table-sorter-demo)
+* [react-table-sorter-demo - A React.js Table Sorter Component ★103 ⏳4Y](https://github.com/bgerm/react-table-sorter-demo)
 * [react-table-component - React Table Component for creating a very basic html table](https://gist.github.com/ChaseWest/1935d08b156ae04b85d2)
 * [react-input-placeholder - Input is a small wrapper around React.DOM.input ★32](https://github.com/enigma-io/react-input-placeholder)
 * [react-infinite-scroll - An infinite scroll component for React ★386](https://github.com/guillaumervls/react-infinite-scroll)
@@ -520,6 +520,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-js-diagrams - A flow based diagramming library](http://github.com/woodenconsulting/react-js-diagrams/)
 * [react-file-input-previews-base64 - Wrapper around file input, with option for image previews and returning file as base64 string ★5](https://github.com/SiDevesh/react-file-input-previews-base64)
 * [react-credit-cards - Beautiful credit cards for your payment forms ★194](https://github.com/amarofashion/react-credit-cards)
+* [react-dropdown-tree-select - Lightweight, customizable and fast Dropdown Tree Select component for React ★26](https://github.com/dowjones/react-dropdown-tree-select)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system ★323](https://github.com/LouisBarranqueiro/reapop)

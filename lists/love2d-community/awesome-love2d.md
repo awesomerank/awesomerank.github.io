@@ -93,7 +93,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [draft ★17 ⏳2Y](https://github.com/pelevesque/draft) - A module for drawing complex shapes
 * [Artal ★22](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE
 * [Autobatch ★39](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
-* [HSLUV ★15](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL)
+* [HSLUV ★15 ⏳1Y](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL)
 * [Maid64 ★18](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE
 * [Möan.lua ★35](https://github.com/twentytwoo/Moan.lua) - Multiple-choice VN-esque messagebox library for LÖVE
 * [renderplanet ★9](https://github.com/meric/renderplanet) - realistic orthographic planet rendering

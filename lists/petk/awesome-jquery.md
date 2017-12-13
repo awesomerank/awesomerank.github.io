@@ -335,7 +335,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Dragula ★16837](https://github.com/bevacqua/dragula) - Framework agnostic drag and drop library, supports jQuery integration.
 * [jQuery UI](http://jqueryui.com/) - Curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery.
 * [jQuery Enhanced Splitter ★23 ⏳2Y](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content.
-* [tabulous.js ★592 ⏳1Y](https://github.com/aarondo/tabulous.js) - Tabs for todays web
+* [tabulous.js ★592 ⏳2Y](https://github.com/aarondo/tabulous.js) - Tabs for todays web
 * [X-editable ★5813](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 
 [Back to top](#awesome-jquery)
@@ -392,9 +392,9 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * Awesome lists:
     * [awesome ★69735](https://github.com/sindresorhus/awesome) - Awesome lists
-    * [awesome-all ★99](https://github.com/bradoyler/awesome-all) - Awesome lists
+    * [awesome-all ★102](https://github.com/bradoyler/awesome-all) - Awesome lists
     * [emijrp/awesome-awesome ★947](https://github.com/emijrp/awesome-awesome) - Awesome lists
-    * [erichs/awesome-awesome ★145](https://github.com/erichs/awesome-awesome) - Awesome lists
+    * [erichs/awesome-awesome ★150](https://github.com/erichs/awesome-awesome) - Awesome lists
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - Awesome lists
     * [lists ★4569](https://github.com/jnv/lists) - Awesome lists
 * [awesome-javascript ★12561](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list

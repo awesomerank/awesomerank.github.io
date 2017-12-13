@@ -214,8 +214,8 @@ Inspired by the `awesome-*` trend on GitHub.
     * [awesome-awesome ★947](https://github.com/emijrp/awesome-awesome) - awesome list
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
     * [lists ★4569](https://github.com/jnv/lists) - awesome lists
-    * [awesome-all ★99](https://github.com/bradoyler/awesome-all) - awesome lists
-    * [awesome-awesome ★145](https://github.com/erichs/awesome-awesome) - awesome lists
+    * [awesome-all ★102](https://github.com/bradoyler/awesome-all) - awesome lists
+    * [awesome-awesome ★150](https://github.com/erichs/awesome-awesome) - awesome lists
 
 [Back to top](#awesome-dojo)
 

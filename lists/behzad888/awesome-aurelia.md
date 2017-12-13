@@ -169,7 +169,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-computed ★24 ⏳1Y](https://github.com/jdanyow/aurelia-computed) * A plugin for Aurelia to observe computed properties without dirty-checking
 * [aurelia-i18n ★73](https://github.com/aurelia/i18n) {official} * A plugin that provides i18n support
 * [aurelia-ui-virtualization ★74](https://github.com/aurelia/ui-virtualization) {official} * A plugin that provides a virtualized repeater and other virtualization services
-* [aurelia-bs-grid ★49 ⏳1Y](https://github.com/charlespockert/aurelia-bs-grid) * Aurelia and Bootstrap powered datagrid control
+* [aurelia-bs-grid ★49 ⏳2Y](https://github.com/charlespockert/aurelia-bs-grid) * Aurelia and Bootstrap powered datagrid control
 * [aurelia-polymer](https://github.com/roguePanda/aurelia-polymer) * Aurelia plugin to support Polymer
 * [aurelia-google-maps ★41](https://github.com/Vheissu/aurelia-google-maps) * A highly configurable custom element for use in your Aurelia applications for inserting Google Maps into your application
 * [webpack-plugin ★75](https://github.com/aurelia/webpack-plugin) {official} * A plugin for webpack that enables bundling Aurelia applications

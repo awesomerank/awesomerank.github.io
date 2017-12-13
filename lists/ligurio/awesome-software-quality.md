@@ -370,6 +370,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [TAP (Test Anything Protocol) ★379](https://github.com/sindresorhus/awesome-tap)
 - [Selenium ★101](https://github.com/TheJambo/awesome-testing)
 - [Symbolic execution ★30](https://github.com/ksluckow/awesome-symbolic-execution)
+- [Visual regression testing ★225](https://github.com/mojoaxel/awesome-regression-testing)
 
 ### License
 

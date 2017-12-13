@@ -40,7 +40,7 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 * [cl-influxdb ★12](https://github.com/mmaul/cl-influxdb) - Common Lisp interface to the Time Series Database InfluxDB
 * [erflux ★19](https://github.com/gossiperl/erflux) - InfluxDB client for Erlang
 * [fluxter ★60](https://github.com/lexmag/fluxter) - An InfluxDB writer for Elixir
-* [influent ★33 ⏳1Y](https://github.com/gobwas/influent) - InfluxDB Javascript driver
+* [influent ★33 ⏳2Y](https://github.com/gobwas/influent) - InfluxDB Javascript driver
 * [influent.rs ★20](https://github.com/gobwas/influent.rs) - InfluxDB Rust driver
 * [InfluxDB-Client-LabVIEW ★2 ⏳2Y](https://github.com/johanvandenbroek/InfluxDB-Client-LabVIEW) - LabVIEW client for InfluxDB
 * [influxdb-haskell ★39](https://github.com/maoe/influxdb-haskell) - Haskell client library for InfluxDB
@@ -114,7 +114,7 @@ Libraries to collect data and feed into InfluxDB.
 * [django-influxdb-metrics ★56](https://github.com/bitlabstudio/django-influxdb-metrics) - A reusable Django app that sends metrics about your project to InfluxDB
 * [go-runtime-metrics ★148](https://github.com/tevjef/go-runtime-metrics) - Collect golang runtime Metrics, outputting to InfluxDB or through Telegraf
 * [lua-resty-influx ★5](https://github.com/p0pr0ck5/lua-resty-influx) - [OpenResty](https://openresty.org/en/) client for InfluxDB
-* [metrics ★215](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in"
+* [metrics ★216](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in"
 * [pyVsphereInflux ★3 ⏳1Y](https://github.com/fennm/pyVsphereInflux) - A library and supporting script for pulling data from [vSphere](https://www.vmware.com/products/vsphere.html) and inserting it into InfluxDB
 * [telemetry ★77 ⏳2Y](https://github.com/arussellsaw/telemetry) - metric reporting for Go applications
 

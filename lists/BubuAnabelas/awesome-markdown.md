@@ -88,8 +88,8 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 ### PHP
 
-- [parsedown ★4758](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP.
-- [php-markdown ★2523](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
+- [parsedown ★4828](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP.
+- [php-markdown ★2527](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
 
 ### Python
 
@@ -109,7 +109,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 > Convert Markdown to other formats and vice versa.
 
 - [csvtomd ★396](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
-- [HTML To Markdown for PHP ★661](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
+- [HTML To Markdown for PHP ★674](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 - [to-markdown ★2608](https://github.com/domchristie/to-markdown) - HTML to Markdown converter written in JavaScript.
 - [markdown-pdf ★1145](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 - [Markdown to PDF](http://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">

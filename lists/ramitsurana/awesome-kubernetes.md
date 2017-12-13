@@ -452,6 +452,7 @@ Projects
 * [kube-monkey ★459](https://github.com/asobti/kube-monkey)
 * [k8s-testsuite ★13](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster
 * [Test-Infra ★190](https://github.com/kubernetes/test-infra)
+* [PowerfulSeal ★51](https://github.com/bloomberg/powerfulseal) - kills targeted pods and machines to test your software reliability
 
 ## Continuous Delivery
 
@@ -508,7 +509,7 @@ Projects
 
 * [Scheduler ★71](https://github.com/kelseyhightower/scheduler) - Cost based scheduler
 * [Sticky Node Scheduler ★6](https://github.com/philipn/kubernetes-sticky-node-scheduler)
-* [ksched ★13](https://github.com/coreos/ksched) - Experimental flow based scheduler
+* [ksched ★13 ⏳1Y](https://github.com/coreos/ksched) - Experimental flow based scheduler
 * [kronjob ★34](https://github.com/Eneco/kronjob) - Recurring jobs
 * [escheduler ★15 ⏳1Y](https://github.com/agonzalezro/escheduler) - Written in elixir
 * [bashScheduler ★34](https://github.com/rothgar/bashScheduler) - Written in bash
@@ -648,6 +649,7 @@ Projects
 * [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
 * [Traefik](http://traefik.io/)
 * [AppsCode Voyager - Secure HAProxy based Ingress Controller ★545](https://github.com/appscode/voyager)
+* [NGINX Ingress Controller ★1030](https://github.com/kubernetes/ingress-nginx)
 
 
 ## Big Data
@@ -800,6 +802,7 @@ Meetup Groups
 * [Bangalore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
 * [Pune](https://www.meetup.com/Kubernetes-Pune/)
 * [London](https://www.meetup.com/Kubernetes-London/)
+* [Hong Kong](https://www.meetup.com/Kubernetes-Hong-Kong/)
 * [Worldwide](https://www.meetup.com/kubernauts/)
 
 

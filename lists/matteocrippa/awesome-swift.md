@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-955-orange.svg) | December 09, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-956-orange.svg) | December 13, 2017
 
 ### Contributing
 
@@ -310,7 +310,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [spruce-ios ★2159](https://github.com/willowtreeapps/spruce-ios) - Choreograph animations on the screen.
 * [Stellar ★2472](https://github.com/AugustRush/Stellar) - A Physical animation library.
 * [SwiftyAnimate ★147](https://github.com/rchatham/SwiftyAnimate) - Composable animations.
-* [ViewAnimator ★2506](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
+* [ViewAnimator ★2710](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
 * [Walker ★139](https://github.com/RamonGilabert/Walker) - An animation engine to make your animations easy and more readable.
 * [YapAnimator ★1725](https://github.com/yapstudios/YapAnimator) - Your fast and friendly physics-based animation system.
 * [ZoomTransitioning ★545](https://github.com/WorldDownTown/ZoomTransitioning) - A custom transition with image zooming animation.
@@ -335,6 +335,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Compass ★559](https://github.com/hyperoslo/Compass) - Compass helps you setup a central navigation system for your application.
 * [SwiftRouter ★153](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS.
 * [URLNavigator ★1362](https://github.com/devxoul/URLNavigator) - Elegant URL Routing.
+* [Weavy ★22](https://github.com/twittemb/Weavy) - Weavy is a navigation framework based on a weaving pattern that fits well with Reactive Programming.
 
 ### App Store
 *Libs to help with apple app store, in app purchases and receipt validation.* [back to top](#readme) 
@@ -538,7 +539,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [CSVParser ★56](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 * [EVCloudKitDao ★513](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
-* [LeetCode_Swift ★1658](https://github.com/soapyigu/LeetCode_Swift) - Solutions to LeetCode interview questions.
+* [LeetCode-Swift ★1669](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode interview questions.
 * [Pencil ★71](https://github.com/naru-jpn/pencil) - Write any value to file.
 
 #### Realm
@@ -604,7 +605,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Dependency injection libs* [back to top](#readme) 
 
 * [Cleanse ★968](https://github.com/square/Cleanse) - A Lightweight Dependency Injection Framework by Square.
-* [Corridor ★39](https://github.com/symentis/Corridor) - A Coreader-like Dependency Injection μFramework.
+* [Corridor ★42](https://github.com/symentis/Corridor) - A Coreader-like Dependency Injection μFramework.
 * [Dip ★575](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 * [Swinject ★1975](https://github.com/Swinject/Swinject) - A dependency injection framework.
 * [Typhoon ★2287](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit.
@@ -1440,7 +1441,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [CBPinEntryView ★29](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
 * [DTTextField ★76](https://github.com/iDhaval/DTTextField) - DTTextField is a custom textfield with floating placeholder and error label.
-* [HTYTextField ★224](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder.
+* [HTYTextField ★224 ⏳1Y](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder.
 * [PasswordTextField ★140](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.
 * [SkyFloatingLabelTextField ★2275](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern".
 * [TaniwhaTextField ★20](https://github.com/iceman201/TaniwhaTextField) - Lightweight and beautiful textfield framework, highly customisable, includes float label pattern.

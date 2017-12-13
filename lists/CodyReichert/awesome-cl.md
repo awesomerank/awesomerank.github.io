@@ -85,6 +85,7 @@ sellers who aren't evil for physical resources.
 - [Tools](#tools)
 - [Unit Testing](#unit-testing)
 - [Utilities](#utilities)
+    - [Caching](#caching)
     - [Configuration](#configuration)
     - [Language extensions](#language-extensions)
     - [Files and directories](#files-and-directories)
@@ -130,7 +131,6 @@ Database
 * [cl-rethinkdb ★42 ⏳1Y](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB client. [Expat][14].
 * [cl-sqlite ★32 ⏳6Y](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
 * [clsql](http://www.cliki.net/CLSQL) - An SQL database with a Common Lisp interface. [LLGPL][8].
-* [clache ★1](https://github.com/html/clache) - General caching facility. No license specified.
 * [clouchdb](https://common-lisp.net/project/clouchdb/) - Library for interacting with CouchDB. [FreeBSD][39].
 * [crane ★166 ⏳1Y](https://github.com/eudoxia0/crane) - Another ORM. [Expat][14].
 * [datafly ★60 ⏳1Y](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD][15].
@@ -191,6 +191,7 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 * [CLinch ★204](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD][39].
 * [donuts ★12](https://github.com/tkych/donuts) - Graph drawing DSL for Common Lisp. [Expat][14].
 * [lispbuilder-sdl ★89](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat][14].
+* [l-lisp](http://www.ii.uib.no/~knute/lsystems/llisp.html) - A framework for generating and simulating plants and fractals. [GNU GPL2][208].
 * [okra ★20 ⏳3Y](https://github.com/aerique/okra) - CFFI bindings to Ogre. Not available on Quicklisp. [3-clause BSD][15].
 * [Varjo ★101](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. Not available on Quicklisp. [LLGPL][8].
 * [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD][39].
@@ -409,6 +410,7 @@ Javascript
 * [JSCL ★390](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
 * [Wuwei](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT][200]. See also [this fork ★0](https://github.com/fare-patches/wuwei) for [these improvements](https://github.com/mtravers/wuwei/pull/16).
+* [SmackJack ★7](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT][200].
 * [Panic ★22 ⏳1Y](https://github.com/michaeljforster/panic), a Parenscript library for React. Not in Quicklisp. [MIT][200]. Its [TodoMVC example](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
 
 Websockets
@@ -600,6 +602,12 @@ Unit Testing
 Utilities
 =========
 
+Caching
+-------
+
+* [clache ★1](https://github.com/html/clache) - General caching facility. No license specified.
+
+
 Configuration
 -------------
 
@@ -691,7 +699,7 @@ Markdown
 Plotting
 --------
 
-* [vgplot ★18](https://github.com/volkers/vgplot) - an interface to the
+* [vgplot ★18 ⏳1Y](https://github.com/volkers/vgplot) - an interface to the
   gnuplot plotting utility with the intention to resemble some of
   the plot commands of octave or matlab. [GPL3][2].
 * [eazy-gnuplot ★17 ⏳1Y](https://github.com/guicho271828/eazy-gnuplot) - a
@@ -790,6 +798,7 @@ an issue to add a new framework, library or software to the list.
 [205]: https://www.postgresql.org/about/licence/
 [206]: http://www.gigamonkeys.com/book/
 [207]: https://opensource.org/licenses/bsd-license.php
+[208]:https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/CodyReichert/awesome-cl">CodyReichert/awesome-cl</a> with ranks

@@ -72,7 +72,7 @@ For Database Management
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgModeler](https://www.pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler.
 * [pgweb ★4691](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
-* [phpPgAdmin ★252](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
+* [phpPgAdmin ★257](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
 * [Postbird ★197](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
 * [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
 * [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).

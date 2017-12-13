@@ -58,7 +58,7 @@ Name | License | Demo
 [material-menu ★2366](https://github.com/balysv/material-menu) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/material-menu.gif) ![](/art/material-menu2.gif)
 [material-dialogs ★11626](https://github.com/afollestad/material-dialogs) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/material-dialogs.webp) ![](/art/material-dialogs2.webp) ![](/art/material-dialogs3.webp)
 [AlertDialogPro ★465](https://github.com/fengdai/AlertDialogPro) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AlertDialogPro.png" width="49%"> <img src="/art/AlertDialogPro2.png" width="49%"> <img src="/art/AlertDialogPro3.png" width="49%"> <img src="/art/AlertDialogPro4.png" width="49%">
-[MaterialNavigationDrawer ★1595 ⏳1Y](https://github.com/neokree/MaterialNavigationDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialNavigationDrawer.png" width="49%">
+[MaterialNavigationDrawer ★1595 ⏳2Y](https://github.com/neokree/MaterialNavigationDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialNavigationDrawer.png" width="49%">
 [MaterialDialog ★1979](https://github.com/drakeet/MaterialDialog) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialDialog.png" width="49%"> <img src="/art/MaterialDialog2.png" width="49%">
 [materialish-progress ★2223 ⏳1Y](https://github.com/pnikosis/materialish-progress) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/materialish-progress.gif" width="49%"> <img src="/art/materialish-progress2.gif" width="49%">
 [FloatingActionButton ★3888 ⏳1Y](https://github.com/makovkastar/FloatingActionButton) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/FloatingActionButton.gif" width="49%">
@@ -380,7 +380,7 @@ Name | License | Demo
 [Voice Recording Visualizer ★435 ⏳2Y](https://github.com/tyorikan/voice-recording-visualizer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [![IMAGE demo](http://img.youtube.com/vi/fJTl1bgQ3j4/0.jpg)](https://www.youtube.com/watch?v=fJTl1bgQ3j4)
 [EasyFonts ★366](https://github.com/vsvankhede/easyfonts) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/art/easyfonts.png" width="100%">
 [Android Sliding Activity Library ★1149](https://github.com/klinker41/android-slidingactivity) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-slidingactivity.gif" width="49%"> <img src="/art/android-slidingactivity2.gif" width="49%">
-[Snake View ★299 ⏳1Y](https://github.com/txusballesteros/snake) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/snake.gif" width="60%">
+[Snake View ★299 ⏳2Y](https://github.com/txusballesteros/snake) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/snake.gif" width="60%">
 [Rotatable ★213 ⏳1Y](https://github.com/yayaa/Rotatable) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/Rotatable.gif" width="100%">
 [StatusBarUtil ★4354](https://github.com/laobie/StatusBarUtil) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StatusBarUtil.png" width="100%">
 [Horizon - Simple visual equaliser for Android ★1625](https://github.com/Yalantis/Horizon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Horizon.png" width="100%">

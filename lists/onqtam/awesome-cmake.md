@@ -170,7 +170,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [git-cmake-format ★19](https://github.com/kbenzie/git-cmake-format) - Integrate clang-format into your CMake project hosted in a git repository. [```[LICENSE]```](https://github.com/kbenzie/git-cmake-format/blob/master/license.txt)
 * [configure-cmake ★47](https://github.com/nemequ/configure-cmake) - configure-cmake is an autotools-style configure script for CMake-based projects. [```[CC0-1.0]```][CC0-1.0]
 * [tbb ★52](https://github.com/wjakob/tbb) - Threading Building Blocks with CMake build. ```[NO LICENSE]```
-* [sqlite.cmake.build ★10](https://github.com/snikulov/sqlite.cmake.build) - CMake script for sqlite amalgamation. ```[NO LICENSE]```
+* [sqlite.cmake.build ★10 ⏳1Y](https://github.com/snikulov/sqlite.cmake.build) - CMake script for sqlite amalgamation. ```[NO LICENSE]```
 * [cmake-ast ★8 ⏳1Y](https://github.com/polysquare/cmake-ast) - Python module to reduce a CMake file to an AST. [```[MIT]```][MIT]
 
 ## License

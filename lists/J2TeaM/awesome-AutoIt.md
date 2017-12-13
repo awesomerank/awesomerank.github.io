@@ -451,13 +451,13 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ## Other Awesome Lists
 
 - [awesome ★69735](https://github.com/sindresorhus/awesome) by @sindresorhus
-- [awesome-all ★99](https://github.com/bradoyler/awesome-all) by @bradoyler
+- [awesome-all ★102](https://github.com/bradoyler/awesome-all) by @bradoyler
 - [awesome-awesome ★947](https://github.com/emijrp/awesome-awesome) by @emijrp
-- [awesome-awesome ★145](https://github.com/erichs/awesome-awesome) by @erichs
-- [awesome-awesome ★62 ⏳1Y](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
+- [awesome-awesome ★150](https://github.com/erichs/awesome-awesome) by @erichs
+- [awesome-awesome ★63 ⏳1Y](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
 - [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness) by @bayandin
 - [awesome-awesomes ★485 ⏳1Y](https://github.com/fleveque/awesome-awesomes) by @fleveque
-- [awesome-collection ★97](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
+- [awesome-collection ★98](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
 - [lists ★4569](https://github.com/jnv/lists) by @jnv
 
 [[Back to Top](#awesome-autoit)]

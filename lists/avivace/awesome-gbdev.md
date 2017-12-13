@@ -140,7 +140,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [gameboy-Online ★203](https://github.com/taisel/gameboy-Online) - Javascript, HTML5 canvas and JavaScript audio APIs.
 - [cboy ★15](https://github.com/jkbenaim/cboy) - C. Mac OS X and Linux.
 - [weplay ★515](https://github.com/rauchg/weplay) - Collaborative Game Boy emulation powered by JavaScript.
-- [giibiiadvance ★59 ⏳1Y](https://github.com/AntonioND/giibiiadvance) -  A GB, GBC emulator with GB Camera support. Written in C.
+- [giibiiadvance ★59 ⏳2Y](https://github.com/AntonioND/giibiiadvance) -  A GB, GBC emulator with GB Camera support. Written in C.
 - [GBE+ ★72](https://github.com/shonumi/gbe-plus) - Built in C++ and SDL. Focused on enhancements.
 - [Sameboy ★62](https://github.com/LIJI32/SameBoy) - Portable C.
 - [GameYob ★123](https://github.com/Drenn1/GameYob) - Emulator for Nintendo (3)DS.
@@ -164,7 +164,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Coffee GB ★22](https://github.com/trekawek/coffee-gb) - Java 8.
 - [gomeboycolor ★242 ⏳4Y](https://github.com/djhworld/gomeboycolor) - Go, cross platform [documented](http://djhworld.github.io/gomeboycolor/) emulator.
 - [mGBA ★936](https://github.com/mgba-emu/mgba) - A modern cross platform GBA emulator which also runs GB/GBC games. Written in C.
-- [GBRE ★0](https://github.com/ericgramgb/GBRE) - GB Runtime Environment for iOS (iOS Safari and Chrome).
+- [GBRE ★0](https://github.com/ericgramgb/GBRE) - Game Boy Runtime Environment for iOS (iOS Safari and Chrome).
 
 ## Software Development
 
@@ -334,6 +334,8 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [gb-save-states ★5](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
 - [The Game Boy Archive](https://github.com/gb-archive) - A library of Game Boy related software, hardware and literature. Aimed to mirror and preserve old and fragmented contributions from the last three decades.
 - [gbcpu ★2 ⏳4Y](https://github.com/jdeblese/gbcpu) - A CPU and peripherals implementing the Game Boy instruction set and functionality.
+- [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) What is it and how to use it to make cheat codes
+- [Making a Game Boy game in 2017:](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/) A "Sheep It Up!" Post-Mortem (part 1/2)
 
 
 ## About

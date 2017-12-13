@@ -125,7 +125,7 @@ title: Awesome Rank for alferov/awesome-gulp
 
 ## Plugins
 ### Compilation
-* [gulp-sass](https://github.com/dlmanning/gulp-sass) - Sass → CSS with [libsass ★3618](https://github.com/sass/libsass).
+* [gulp-sass](https://github.com/dlmanning/gulp-sass) - Sass → CSS with [libsass ★3654](https://github.com/sass/libsass).
 * [gulp-ruby-sass ★484 ⏳1Y](https://github.com/sindresorhus/gulp-ruby-sass) - Sass → CSS with Ruby Sass.
 * [gulp-compass ★177](https://github.com/appleboy/gulp-compass) - Sass → CSS with Ruby Sass & Compass.
 * [gulp-less](https://github.com/plus3network/gulp-less) - [Less ★15203](https://github.com/less/less.js) → CSS.

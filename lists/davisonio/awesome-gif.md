@@ -151,7 +151,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 #### Objective-C
 
 - [AnimatedGIFImageSerialization ★1030](https://github.com/mattt/AnimatedGIFImageSerialization) - decodes an UIImage from Animated GIFs image data
-- [UIimage from GIF ★822 ⏳1Y](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs
+- [UIimage from GIF ★822 ⏳2Y](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs
 - [GIFRefreshControl ★304 ⏳3Y](https://github.com/cyndibaby905/GIFRefreshControl) - "Twitter music" and "Yahoo! Weather" like pull-to-refresh control
 - [UIImageView-PlayGIF ★419 ⏳1Y](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView category/subclass for playing GIF
 - [FLAnimatedImage ★6192](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard

@@ -136,7 +136,7 @@ someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic 
 * [Evernote](https://evernote.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
 * [Anydo](http://www.any.do/) (`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
 * [Todoist](https://todoist.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
-
+* [Taskade](https://taskade.com/) (`Cloud`,`Chrome OS`,`Firefox`,`Mobile coming soon`,): Taskade is a collaborative task list and outliner for team projects.
 
 
 
@@ -466,7 +466,7 @@ Use [colors ★7892](https://github.com/mrmrs/colors) to make your HTML feels be
 * [Reveal.js ★37574](https://github.com/hakimel/reveal.js)
 * [Beckpoke.js ★4278](https://github.com/bespokejs/bespoke)
 * [CSSS ★1491](https://github.com/LeaVerou/CSSS)
-* [Scrolldeck ★692 ⏳1Y](https://github.com/johnpolacek/scrolldeck.js)
+* [Scrolldeck ★692 ⏳2Y](https://github.com/johnpolacek/scrolldeck.js)
 * [Deck.js ★5215](https://github.com/imakewebthings/deck.js)
 * [Shower ★3821](https://github.com/shower/shower)
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)

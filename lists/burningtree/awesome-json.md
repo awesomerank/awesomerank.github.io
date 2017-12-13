@@ -220,7 +220,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 ## Linters
 * [jsonlint ★1158](https://github.com/zaach/jsonlint) - Parser and validator with a CLI. (Javascript)
-* [JSON Lint ★250](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
+* [JSON Lint ★253](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
 
 ## Online tools
 * [JSON Data Ninja](http://www.jsondata.ninja) - The most productive way to visualize and explore tabular JSON data.
@@ -304,7 +304,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 * [osmtogeojson ★266](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
 * [x2js ★562](https://github.com/abdmob/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
 * [JSONC ★411](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (Javascript)
-* [JsonMapper ★701](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
+* [JsonMapper ★708](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 * [SassyJSON ★173 ⏳1Y](https://github.com/HugoGiraudel/SassyJSON) - Sass-powered API. (Sass)
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - A small library to convert a JSON object into a human readable HTML representation that is easy to style for different purposes.
 * [JSONtoFoundation ★42 ⏳2Y](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)

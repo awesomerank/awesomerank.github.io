@@ -147,7 +147,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [Clojure Interview Questions for experienced devs](http://ita2zguide.blogspot.com.by/p/cc.html)
 * [Coding exercises in Clojure, handy practice for technical interview questions ★4 ⏳5Y](https://github.com/dpetrovics/coding-exercises)
 * [Experience and questions from Clojure developer interview collected by Reddit users](https://www.reddit.com/r/Clojure/comments/34qhha/clojure_coding_job_interview_experience/)
-* [Interview cake Clojure solutions ★100](https://github.com/DerekCuevas/interview-cake-clj)
+* [Interview cake Clojure solutions ★100 ⏳1Y](https://github.com/DerekCuevas/interview-cake-clj)
 
 ### CSS
 
@@ -459,7 +459,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 
 * [Common interview questions and puzzles solved in a number of languages ★333](https://github.com/mre/the-coding-interview)
 * [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions ★11362](https://github.com/donnemartin/interactive-coding-challenges)
-* [Interview questions solved in python ★69 ⏳1Y](https://github.com/roseperrone/interview-questions)
+* [Interview questions solved in python ★69 ⏳2Y](https://github.com/roseperrone/interview-questions)
 
 ## Comprehensive lists
 

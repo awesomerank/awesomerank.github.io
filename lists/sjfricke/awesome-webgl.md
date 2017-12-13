@@ -317,7 +317,7 @@ Processing Unit (GPU).
 Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) for details.
 
 ## Testing
-Travis CI testing automation thanks to [awesome_bot ★414](https://github.com/dkhamsing/awesome_bot)!
+Travis CI testing automation thanks to [awesome_bot ★420](https://github.com/dkhamsing/awesome_bot)!
 
 ## License
 

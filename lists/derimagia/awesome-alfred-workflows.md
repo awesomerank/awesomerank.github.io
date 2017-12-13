@@ -33,6 +33,7 @@ A curated list of Awesome Alfred Workflows.
 
 ## Communication
 - [Adium](http://www.alfredforum.com/topic/1274-adium-workflow/) - Adium workflow to chat with people on your list.
+- [MailTo ★33](https://github.com/deanishe/alfred-mailto) - Quickly compose emails to your contacts and contact groups.
 - [Slack ★217](https://github.com/fspinillo/slackfred) - Alfred workflow to interact, and perform various functions with the service Slack.
 
 ## Developer
@@ -41,8 +42,10 @@ A curated list of Awesome Alfred Workflows.
 - [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
 - [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
 - [DevDocs ★191](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
+- [Fakeum ★37](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
 - [Github ★1184](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
+- [Git Repos ★75](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
 - [JetBrains ★123](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products.
 - [Laravel Forge ★38](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge.
 - [mdi](https://github.com/importre/alfred-mdi) - Find [Material Design Icons ★32298](https://github.com/google/material-design-icons).
@@ -50,7 +53,7 @@ A curated list of Awesome Alfred Workflows.
 - [ng ★33](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation.
 - [Package Managers ★405](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
 - [Packagist ★14](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with [Packagist](https://packagist.org).
-- [Source Tree ★76 ⏳1Y](https://github.com/zhaocai/alfred2-sourcetree-workflow) - Alfred 2 Workflow to list, search, and open Source Tree repositories in Alfred.
+- [Source Tree ★76 ⏳1Y](https://github.com/zhaocai/alfred2-sourcetree-workflow) - List, search, and open Source Tree repositories.
 - [VagrantUP ★32 ⏳1Y](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
 
 ## Text Manipulation
@@ -62,13 +65,14 @@ A curated list of Awesome Alfred Workflows.
 - [Unicode Text Search ★102](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
 
 ## Scientific
+- [Convert ★173](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
 - [DOITools ★2 ⏳2Y](https://github.com/hbuschme/doi-tools-alfred-workflow) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
 - [Scientific Workflow ★45 ⏳1Y](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
 - [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
-- [Units](http://designandsuch.com/work/alfred-workflow-units) - Convert between physical units.
 
 ## Productivity
 - [Google Calendar View ★4](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
+- [I Sheet You Not ★22](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
 - [PDF Tools ★13](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 - [Things ★25](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 
@@ -80,17 +84,19 @@ A curated list of Awesome Alfred Workflows.
 
 ## Security
 - [LastPass Vault Manager ★92 ⏳2Y](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
+- [Password Generator ★57](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
 - [Random MAC](http://www.packal.org/workflow/random-mac) - Assigns a random MAC address to `en0` (e.g. for free wifi).
+- [Viscosity VPN ★36](https://github.com/deanishe/alfred-viscosity) - Control [Viscosity](https://www.sparklabs.com/viscosity/) VPN connections.
 
 ## System
 - [AppFreeze](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - Pauses and resumes execution of the frontmost app.
+- [AppScripts ★24](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application.
 - [Copy Paths to Clipboard ★67](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs.
 - [Finder New item ★10](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 - [Fkill ★107](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
 - [Keyboard Maestro ★136](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
 - [Keylue ★36 ⏳2Y](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
-- [Safari History Search ★8](https://github.com/rx2130/alfred-safari-history-search) - Search Safari browse history from Alfred.
 - [SSH ★28](https://github.com/isometry/alfred-ssh) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
 - [Swift Windows Switcher ★48](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) - Mutes the volume of their computer for a specified duration of time.
@@ -99,6 +105,7 @@ A curated list of Awesome Alfred Workflows.
 ## Web
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
 - [IncognitoClone](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
+- [Reddit ★47](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
 - [Safari Assistant ★21](https://github.com/deanishe/alfred-safari-assistant) - Browse, open & manipulate Safari bookmarks, history and tabs. Customizable with your own scripts.
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox from Teleosaurs Mail.
 

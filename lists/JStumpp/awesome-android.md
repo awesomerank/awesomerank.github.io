@@ -217,7 +217,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Exoplayer ★8500](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
    Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
 - [Easy-Video-Player ★1051](https://github.com/afollestad/easy-video-player) - Easy Video Player is very simple and easy to use in our app. 
-- [VideoPlayView ★45](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
+- [VideoPlayView ★50](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
 
 #### Camera
 
@@ -318,7 +318,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [Conceal SharedPreferences ★33](https://github.com/afiqiqmal/ConcealSharedPreference-Android) - Secured Preferences using Facebook Secure Encryption called Conceal.
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
-- [Otto ★4934](https://github.com/square/otto) - Event Bus for Android.
+- [Otto ★4934 ⏳1Y](https://github.com/square/otto) - Event Bus for Android.
 - [Weak handler ★1160 ⏳1Y](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
 - [Byte Buddy](http://bytebuddy.net) - Runtime code generation library with support for Android.
 - [Secure Preference Manager ★66 ⏳1Y](https://github.com/prashantsolanki3/Secure-Pref-Manager) - Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.

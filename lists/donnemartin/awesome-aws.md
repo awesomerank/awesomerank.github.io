@@ -615,7 +615,7 @@ Community Repos:
 
 * [alestic/ec2-consistent-snapshot :fire::fire: ★428](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in EC2.
 * [ConradIrwin/aws-name-server :fire::fire::fire: ★546 ⏳1Y](https://github.com/ConradIrwin/aws-name-server) - DNS server that lets you look up instances by name.
-* [cristim/autospotting :fire::fire: ★462](https://github.com/cristim/autospotting) - Automatically rolling-replace on-demand EC2 instances in AutoScaling groups with compatible spot instances.
+* [cristim/autospotting :fire::fire::fire: ★462](https://github.com/cristim/autospotting) - Automatically rolling-replace on-demand EC2 instances in AutoScaling groups with compatible spot instances.
 * [evannuil/aws-snapshot-tool :fire: ★190](https://github.com/evannuil/aws-snapshot-tool) - Automates EBS snapshots and rotation.
 * [kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire: ★6521](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on EC2. No scripts.
 * [mirakui/ec2ssh :fire: ★193](https://github.com/mirakui/ec2ssh) - SSH config manager.
@@ -747,7 +747,7 @@ Community Repos:
 * [goadapp/goad :fire::fire:fire::fire::fire: ★1437](https://github.com/goadapp/goad) - Lambda powered, highly distributed, load testing tool.
 * [jimpick/lambda-comments :fire::fire::fire: ★571 ⏳1Y](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
 * [jorgebastida/gordon :fire::fire::fire::fire: ★1940](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
-* [ks888/LambStatus :fire::fire: ★487](https://github.com/ks888/LambStatus) - A status page system inspired by StatusPage.io, built on AWS Lambda.
+* [ks888/LambStatus :fire::fire::fire: ★487](https://github.com/ks888/LambStatus) - A status page system inspired by StatusPage.io, built on AWS Lambda.
 * [kubek2k/lambdoku :fire::fire::fire: ★570](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
 * [lambci/lambci :fire::fire::fire::fire::fire: ★2835](https://github.com/lambci/lambci) - A continuous integration system built on Lambda.
 * [mentum/lambdaws :fire::fire::fire::fire: ★1265](https://github.com/mentum/lambdaws) - Deploy, run and get results in a breeze.

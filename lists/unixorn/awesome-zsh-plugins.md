@@ -410,7 +410,7 @@ These frameworks make customizing your zsh setup easier.
 * [pctl ★5](https://github.com/ytet5uy4/pctl) - Toggle the environment variables for proxying.
 * [peco-history ★17](https://github.com/jimeh/zsh-peco-history) - Search shell history with Peco when pressing ctrl+r.
 * [pg](https://github.com/caarlos0/zsh-pg) - Adds utility functions to work with PosgreSQL.
-* [phpcs.plugin.zsh](https://github.com/voronkovich/phpcs.plugin.zsh) - Plugin for [PHP code sniffer ★4081](https://github.com/squizlabs/PHP_CodeSniffer).
+* [phpcs.plugin.zsh](https://github.com/voronkovich/phpcs.plugin.zsh) - Plugin for [PHP code sniffer ★4167](https://github.com/squizlabs/PHP_CodeSniffer).
 * [phpunit.plugin.zsh ★1](https://github.com/voronkovich/phpunit.plugin.zsh) - Plugin for [PHPUnit](https://phpunit.de/).
 * [pip-app ★24](https://github.com/sharat87/pip-app) - Makes it easy to install python applications into distinct virtualenvs so they don't conflict with any other python requirements on your system.
 * [plugin-ibtool ★0 ⏳4Y](https://github.com/RudthMael/zsh-plugin-ibtool) - Adds ibtool shortcuts to generate localized XIB files.
@@ -471,7 +471,7 @@ These frameworks make customizing your zsh setup easier.
 * [url-highlighter ★16 ⏳1Y](https://github.com/ascii-soup/zsh-url-highlighter) - A plugin for the zsh syntax highlighter that turns URLs green if they respond with a "good" status, and red otherwise. Useful for checking URL typos.
 * [vanilli.sh ★3](https://github.com/yous/vanilli.sh) - A lightweight start point of shell configuration.
 * [viexchange ★2 ⏳1Y](https://github.com/okapia/zsh-viexchange) - Vi mode plugin for easily swapping text between two places in the buffer, like vim-exchange.
-* [vim-mode ★31 ⏳4Y](https://github.com/sharat87/zsh-vim-mode) - Shrikant Sharat's bindings for ZSH's vi mode so it behaves more vim-like.
+* [vim-mode ★31 ⏳5Y](https://github.com/sharat87/zsh-vim-mode) - Shrikant Sharat's bindings for ZSH's vi mode so it behaves more vim-like.
 * [vim-plugin ★7 ⏳1Y](https://github.com/nviennot/zsh-vim-plugin) - Allows you to do `vim filename:123` to open a file with the cursor at a specific line.
 * [vimman ★10 ⏳3Y](https://github.com/yonchu/vimman) - View vim plugin manuals (help) like man in ZSH.
 * [vimto ★1](https://github.com/laurenkt/zsh-vimto) - Improved zsh vim mode (bindkey -v) plugin.
@@ -576,6 +576,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [adlee](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme) - macOS theme, requires Powerline font.
 * [af-magic-mod](https://raw.githubusercontent.com/desyncr/zshrc/master/themes/af-magic-mod.zsh-theme) - af-magic-mod theme. Install with `antigen theme desyncr/zshrc themes/af-magic-mod`.
 * [agkozak ★6](https://github.com/agkozak/agkozak-zsh-theme) - Displays git branch and status and vi editing mode in the main prompt and also displays non-zero exit codes in ZSH's right prompt. An SSH connection is indicated by the presence of a hostname in the prompt; local connections show only a username.
+* [agnoster-plus ★0](https://github.com/jiahut/agnoster-plus.zsh-theme) - [Agnoster](https://gist.github.com/agnoster/3712874) variant optimized for use with Solarized Dark terminal color scheme. Includes git status.
 * [agnosterAfro](https://github.com/afrozalm/agnosterAfro) - Based on [Powerline](https://github.com/Lokaltog/vim-powerline) and [Agnoster Theme](https://gist.github.com/agnoster/3712874) and inspired by the [agnosterzak ★121](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme).
 * [agnosterzak ★121](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme) - Based on Agnoster, shows battery life, date & time, git status, current directory and user & host information.
 * [alien-minimal ★14](https://github.com/eendroroy/alien-minimal) - Minimalist ZSH theme with git status displayed.
@@ -688,6 +689,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [mau ★0](https://github.com/vichargrave/mau) - A ZSH theme with a cat twist.
 * [maxulysse/myzsh ★0](https://github.com/MaxUlysse/myzsh) - Maxime Garcia's myzsh theme.
 * [megaprompt](https://github.com/willghatch/zsh-megaprompt) - A maximalist prompt including keyboard mode, ownership info, and other contextual info, with λ as the prompt character. Requires the [hooks ★15 ⏳2Y](https://github.com/willghatch/zsh-hooks) plugin.
+* [milight ★0](https://github.com/frodoslaw/milight-zsh) - Minimal ZSH prompt with git status, works best with dark terminal backgrounds.
 * [min ★8](https://github.com/andrepolischuk/min) - A minimalistic ZSH prompt.
 * [mindful-space ★2 ⏳3Y](https://github.com/syndbg/mindful-space-zsh-theme) - ZSH theme with space in mind.
 * [minimal ★51](https://github.com/subnixr/minimal) - Minimal yet feature-rich theme.

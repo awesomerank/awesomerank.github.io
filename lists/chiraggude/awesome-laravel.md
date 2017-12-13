@@ -144,7 +144,7 @@ Inspired by [ziadoz/awesome-php ★17326](https://github.com/ziadoz/awesome-php)
 * [Laravel Pjax ★300](https://github.com/spatie/laravel-pjax) - A pjax middleware for Laravel 5
 * [Laravel Responsecache ★529](https://github.com/spatie/laravel-responsecache) - Speed up a Laravel app by caching the entire response
 * [Laravel Snappy ★793](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using wkhtmltopdf
-* [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator using [dompdf ★4056](https://github.com/dompdf/dompdf)
+* [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator using [dompdf ★4149](https://github.com/dompdf/dompdf)
 * [Laravel Stapler ★523](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
 * [Laravel url signer ★399](https://github.com/spatie/laravel-url-signer) - Create and validate signed URLs with a limited lifetime
 * [Laravel Tail ★226](https://github.com/spatie/laravel-tail) - The missing tail command
@@ -152,7 +152,7 @@ Inspired by [ziadoz/awesome-php ★17326](https://github.com/ziadoz/awesome-php)
 * [Laravel Uptime Monitor ★429](https://github.com/spatie/laravel-uptime-monitor) - A powerful and easy to configure uptime and ssl monitor
 * [Laravel Stats Tracker ★1326](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
 * [Listify ★101](https://github.com/lookitsatravis/listify) - Add sorting/ordering capabilities to any Eloquent model
-* [noCAPTCHA ★171](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
+* [noCAPTCHA ★177](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
 * [Purifier ★665](https://github.com/mewebstudio/purifier) - HTMLPurifier for Laravel 5 - HTML filter
 * [Revisionable ★1400](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
 * [SEOTools ★775](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques
@@ -214,12 +214,12 @@ Inspired by [ziadoz/awesome-php ★17326](https://github.com/ziadoz/awesome-php)
 * [Dispatcher ★1025 ⏳1Y](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
 * [Elixir ★1090](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
 * [Mix ★1587](https://github.com/JeffreyWay/laravel-mix) - Laravel Mix provides a clean, fluent API for defining basic webpack build steps for your Laravel application. Mix supports several common CSS and JavaScript pre-processors.
-* [Envoy ★960](https://github.com/laravel/envoy) - SSH Task Runner
+* [Envoy ★970](https://github.com/laravel/envoy) - SSH Task Runner
 
 ##### Payments
 
 * [Cashier ★1139](https://github.com/laravel/cashier) - Subscription billing with Stripe
-* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay ★3817](https://github.com/thephpleague/omnipay) PHP library
+* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay ★3863](https://github.com/thephpleague/omnipay) PHP library
 
 ##### Optimization
 
@@ -289,7 +289,7 @@ Inspired by [ziadoz/awesome-php ★17326](https://github.com/ziadoz/awesome-php)
 
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
  * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
-* [Rocketeer ★2522](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
+* [Rocketeer ★2533](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
 
 ## Articles, Tutorials, Blogs etc.
 

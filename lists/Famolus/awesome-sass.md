@@ -146,7 +146,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Advanced SCSS, or, 16 cool things you may not have known your stylesheets could do](https://gist.github.com/jareware/4738651)
 
 ## Tools
-- [libsass ★3618](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
+- [libsass ★3654](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
 - [node-sass ★4419](https://github.com/sass/node-sass) - Node.js bindings to libsass.
 - [dart-sass ★334](https://github.com/sass/dart-sass) - Dart implementation of Sass.
 - [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.

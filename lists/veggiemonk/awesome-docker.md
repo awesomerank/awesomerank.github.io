@@ -28,7 +28,7 @@ If this list is not complete, you can [contribute][editREADME] to make it so. He
 The creators and maintainers of this list do not receive and should not receive any form of payment to accept a change made by any contributor.
 The goal of this repo is to index open-source projects, not to advertise for profit.
 
-All the links are monitored and tested with [awesome_bot ★414](https://github.com/dkhamsing/awesome_bot) made by [@dkhamsing](https://github.com/dkhamsing)
+All the links are monitored and tested with [awesome_bot ★420](https://github.com/dkhamsing/awesome_bot) made by [@dkhamsing](https://github.com/dkhamsing)
 
 # Contents
 

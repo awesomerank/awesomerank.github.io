@@ -63,7 +63,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Lodash/fp ★97](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules
 - [Meteor ★92](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules
 - [Mocha ★153](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha
-- [Mongodb ★12 ⏳1Y](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native nodejs driver linting rules
+- [Mongodb ★12 ⏳2Y](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native nodejs driver linting rules
 - [Ramda ★38](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules
 - [React ★3384](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX
 - [React Native ★268](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules

@@ -192,7 +192,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Less ★117](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
 * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
-* [Sprockets ★2681 ⏳1Y](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
+* [Sprockets ★2681 ⏳2Y](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
 * [Torba ★165 ⏳1Y](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
 * [Webpacker ★2557](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
@@ -409,7 +409,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Database Tools
 
-* [connection_pool ★953](https://github.com/mperham/connection_pool) - Generic connection pooling for Ruby, that can be used with anything, e.g. Redis, Dalli, etc.
+* [connection_pool ★964](https://github.com/mperham/connection_pool) - Generic connection pooling for Ruby, that can be used with anything, e.g. Redis, Dalli, etc.
 * [Database Cleaner ★2186](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner is a set of strategies for cleaning your database in Ruby.
 * [Foreigner ★1356 ⏳1Y](https://github.com/matthuhiggins/foreigner) - Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb.
 * [Large Hadron Migrator ★1450](https://github.com/soundcloud/lhm) - Online MySQL schema migrations without locking the table.

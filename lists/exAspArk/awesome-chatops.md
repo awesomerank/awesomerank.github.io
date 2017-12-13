@@ -118,7 +118,7 @@ These open source projects will help you to build a bot in order to automate you
 * [Errbot](http://errbot.io/) + [adapter ★1 ⏳1Y](https://github.com/errbotio/err-backend-campfire) (Python)
 * [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/campfire.html) (Go)
 * [Hubot](https://hubot.github.com/) + [adapter](https://hubot.github.com/docs/adapters/campfire/) (CoffeeScript, Node.js)
-* [Lita](https://www.lita.io/) + [adapter ★7 ⏳2Y](https://github.com/josacar/lita-campfire) (Ruby)
+* [Lita](https://www.lita.io/) + [adapter ★7 ⏳3Y](https://github.com/josacar/lita-campfire) (Ruby)
 
 ### ChatWork
 

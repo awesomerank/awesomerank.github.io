@@ -63,17 +63,19 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 ### Task Management
 
-- [Any.do](http://www.any.do/) – Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
-- [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks.
-- [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.
-- [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.
-- [Trello](https://trello.com) – Kanban method task board.
-- [Todo.txt](http://todotxt.com/) – Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
-- [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
-- [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
-- [Pomolectron ★315](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
-- [Timing](https://timingapp.com/) – Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
-- [topydo](https://www.topydo.org) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+- [Any.do](http://www.any.do/) – Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).	Anydo
+- [Hitask](https://hitask.com) – Easy Project and Task Management for Teams	Hitask
+- [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.	OmniFocus
+- [Pomolectron ★315](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.	Pomolectron
+- [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks.	Remember the Milk
+- [Taskade](https://taskade.com) – Simple and collaborative task lists for teams.	Taskade
+- [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.	Taskwarrior
+- [Timing](https://timingapp.com/) – Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.	Timing
+- [Todo.txt](http://todotxt.com/) – Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.	Todo
+- [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.	Todoist
+- [Topydo](https://www.topydo.org) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.	Topydo
+- [Trello](https://trello.com) – Kanban method task board.	Trello
+- [Wunderlist](https://www.wunderlist.com/) – Cross-platform, desktop and mobile to-do list manager with apps for iOS and Android, Windows, OS X, and Linux.	Wunderlist
 
 ### Habit Trackers
 
@@ -87,7 +89,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [IFTTT](https://ifttt.com) – Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
 - [Tasker](http://tasker.dinglisch.net/) – Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) – Automation tool that allows you to connect hundreds of web services and create automations between the processes.
-- [Awesome AutoHotKey ★578](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
+- [Awesome AutoHotKey ★598](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 - [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
 ---

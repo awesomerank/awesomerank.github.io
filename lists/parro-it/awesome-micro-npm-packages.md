@@ -81,7 +81,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 * [map-obj ★44](https://github.com/sindresorhus/map-obj) - Map object keys and values into a new object.
 * [filter-obj ★24](https://github.com/sindresorhus/filter-obj) - Filter object keys and values into a new object.
-* [object-values ★14](https://github.com/sindresorhus/object-values) - Get the values of an object.
+* [object-values ★14 ⏳1Y](https://github.com/sindresorhus/object-values) - Get the values of an object.
 * [object-pairs ★2 ⏳2Y](https://github.com/eush77/object-pairs) - Turn an object into list of [key, value] pairs for mapping, iterating or other purposes.
 * [zipmap ★4 ⏳3Y](https://github.com/landau/zipmap) - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs.
 * [just-pluck ★5 ⏳1Y](https://github.com/jarofghosts/just-pluck) - Pluck without the madness.
@@ -110,7 +110,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [deep-bind ★7 ⏳1Y](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions.
 * [identity-function ★6 ⏳2Y](https://github.com/substack/identity-function) - Always return the input argument. 
 * [mem ★305](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
-* [throttle-debounce ★134](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
+* [throttle-debounce ★145](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
 
 ### Math
 

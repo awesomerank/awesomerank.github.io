@@ -58,15 +58,15 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
       - [generator-polymer-cordova ★2 ⏳2Y](https://github.com/emoriarty/generator-polymer-cordova)
       - [generator-redux-react-cordova ★22 ⏳1Y](https://github.com/zmeecer/generator-redux-react-cordova)
     - Icons + Splash Screens
-      - [cordova-res-builder ★0 ⏳2Y](https://github.com/mettbox/cordova-res-builder)
+      - [cordova-res-builder ★0 ⏳3Y](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators ★36 ⏳2Y](https://github.com/busterc/cordova-resource-generators)
     - Icons
       - [cordova-icon ★551](https://github.com/AlexDisler/cordova-icon)
       - [cordova-icon-gm ★5 ⏳1Y](https://github.com/disusered/cordova-icon-gm)
-      - [cordova-res-builder ★0 ⏳2Y](https://github.com/mettbox/cordova-res-builder)
+      - [cordova-res-builder ★0 ⏳3Y](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators ★36 ⏳2Y](https://github.com/busterc/cordova-resource-generators)
     - Splash Screens
-      - [cordova-res-builder ★0 ⏳2Y](https://github.com/mettbox/cordova-res-builder)
+      - [cordova-res-builder ★0 ⏳3Y](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators ★36 ⏳2Y](https://github.com/busterc/cordova-resource-generators)
       - [cordova-splash ★333](https://github.com/AlexDisler/cordova-splash)
       - [cordova-splash-gm ★7 ⏳2Y](https://github.com/disusered/cordova-splash-gm)

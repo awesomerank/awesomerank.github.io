@@ -122,7 +122,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 
 ### Open Source macOS Apps
-* [Timer-for-tick](https://codelation.com/timer-for-tick) [GitHub project ★3 ⏳2Y](https://github.com/codelation/tick-timer) - RubyMotion menu bar app for tracking time with http://tickspot.com.
+* [Timer-for-tick](https://codelation.com/timer-for-tick) [GitHub project ★3 ⏳3Y](https://github.com/codelation/tick-timer) - RubyMotion menu bar app for tracking time with http://tickspot.com.
 * [Presence](https://github.com/calmyournerves/presence) - Desktop Menu Bar for [Uberzeit ★28 ⏳1Y](https://github.com/ninech/uberzeit), a self hosted time tracking platform.
 * [MemoryTamer ★11](https://github.com/henderea/MemoryTamer) - RubyMotion application for keeping memory usage in check. [http://www.memorytamer.com/](http://www.memorytamer.com/).
 

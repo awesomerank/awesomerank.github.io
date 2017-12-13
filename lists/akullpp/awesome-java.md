@@ -141,6 +141,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [jQAssistant](https://jqassistant.org/) - Static code analysis with Neo4J-based query language.
 * [NullAway ★515](https://github.com/uber/NullAway) - Eliminates NullPointerExceptions with low build-time overhead.
 * [PMD ★1281](https://github.com/pmd/pmd) - Source code analysis for finding bad coding practices.
+* [SonarJava ★253](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint.
 * [Sourcetrail ![c]](https://www.sourcetrail.com) - Visual source code navigator.
 * [Spoon ★415](https://github.com/INRIA/spoon) - Library for analyzing and transforming Java source code.
 * [Spotbugs ★386](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs.
@@ -547,6 +548,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [LightAdmin](http://lightadmin.org/) - Pluggable CRUD UI library for rapid application development.
 * [Maven Wrapper ★571](https://github.com/takari/maven-wrapper) - Analogue of Gradle Wrapper for Maven, allows building projects without installing maven.
 * [Membrane Service Proxy ★189](https://github.com/membrane/service-proxy) - An open-source, reverse-proxy framework written in Java.
+* [MinimalFTP ★9](https://github.com/Guichaguri/MinimalFTP) - Lightweight, small and customizable FTP server.
 * [Modern Java - A Guide to Java 8 ★8337](https://github.com/winterbe/java8-tutorial) - Popular Java 8 guide.
 * [Modernizer](https://github.com/andrewgaul/modernizer-maven-plugin) - Detect uses of legacy Java APIs.
 * [Multi-OS Engine](https://software.intel.com/en-us/multi-os-engine) - An open-source, cross-platform engine to develop native mobile (iOS, Android, etc.) apps.
@@ -556,6 +558,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Togglz](https://www.togglz.org/) - Implementation of the Feature Toggles pattern.
 * [TypeTools ★295](https://github.com/jhalterman/typetools) - Tools for resolving generic types.
 * [XMLBeam ★40](https://github.com/SvenEwald/xmlbeam) - Processes XML by using annotations or XPath within code.
+* [OctoLinker ★2411](https://github.com/OctoLinker/browser-extension) - Browser extension which allows to navigate through code on GitHub more efficiently.
 
 ## Microservice
 

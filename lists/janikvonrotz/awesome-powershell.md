@@ -121,7 +121,7 @@ It includes a command-line shell and an associated scripting language.
 ## Frameworks
 
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
-- [PowerShell PowerUp ★30 ⏳1Y](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerfull server management framework.
+- [PowerShell PowerUp ★30 ⏳2Y](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerfull server management framework.
 - [PSCX](https://pscx.codeplex.com/) - Useful set of additional cmdlets.
 
 ## Package Managers

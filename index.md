@@ -164,12 +164,12 @@ title: Awesome Rank for sindresorhus/awesome
 - [.NET ★5523](lists/quozd/awesome-dotnet.md)
 	- [Core ★3584](lists/thangchung/awesome-dotnet-core.md)
 - [PHP ★17326](lists/ziadoz/awesome-php.md)
-	- [Composer ★248](lists/jakoch/awesome-composer.md) - Package manager.
-- [Delphi ★366](lists/Fr0sT-Brutal/awesome-delphi.md)
-- [Assembler ★194](lists/jaspergould/awesome-asm.md)
-- [AutoHotkey ★578](lists/ahkscript/awesome-AutoHotkey.md)
-- [AutoIt ★174](lists/J2TeaM/awesome-AutoIt.md)
-- [Crystal ★1329](lists/veelenga/awesome-crystal.md)
+	- [Composer ★266](lists/jakoch/awesome-composer.md) - Package manager.
+- [Delphi ★394](lists/Fr0sT-Brutal/awesome-delphi.md)
+- [Assembler ★201](lists/jaspergould/awesome-asm.md)
+- [AutoHotkey ★598](lists/ahkscript/awesome-AutoHotkey.md)
+- [AutoIt ★184](lists/J2TeaM/awesome-AutoIt.md)
+- [Crystal ★1382](lists/veelenga/awesome-crystal.md)
 - [Frege ★13](lists/sfischer13/awesome-frege.md) - Haskell for the JVM.
 - [CMake ★910](lists/onqtam/awesome-cmake.md) - Build, test, and package software.
 - [ActionScript 3 ★52](lists/robinrodricks/awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR.

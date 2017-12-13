@@ -121,7 +121,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [akka](http://akka.io/) [Scala] - toolkit and runtime for building highly concurrent, distributed, and resilient message-driven application on the JVM.
 * [pulsar](http://quantmind.github.io/pulsar/index.html#) [Python] - Actor based event driven concurrent framework for Python.
 * [aeron ★3036](https://github.com/real-logic/Aeron) [Java/C++] - efficient reliable unicast and multicast message transport.
-* [StreamFlow ★222 ⏳1Y](https://github.com/lmco/streamflow) [Java] - stream processing tool designed to help build and monitor processing workflows.
+* [StreamFlow ★222 ⏳2Y](https://github.com/lmco/streamflow) [Java] - stream processing tool designed to help build and monitor processing workflows.
 * [samza-luwak ★86 ⏳3Y](https://github.com/romseygeek/samza-luwak) [Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
 * [Turbine ★590](https://github.com/Netflix/Turbine) [Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.
 

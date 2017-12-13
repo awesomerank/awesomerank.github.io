@@ -110,7 +110,7 @@ Additional lists you might find useful:
 - [ADmad/JwtAuth plugin ★104](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
 - [CookieAuth plugin ★17 ⏳1Y](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
 - [HierAuth plugin ★4 ⏳1Y](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization.
-- [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client` ★1768](https://github.com/thephpleague/oauth2-client).
+- [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client` ★1794](https://github.com/thephpleague/oauth2-client).
 - [Muffin/Tokenize plugin ★5](https://github.com/UseMuffin/Tokenize) - Event driven behavior for easily generating single-use security tokens.
 - [MultiTenant plugin ★27](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 - [TinyAuth plugin ★68](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
@@ -136,7 +136,7 @@ Additional lists you might find useful:
 - [DebugKit plugin ★854](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 - [ErrorEmail plugin ★8](https://github.com/ebrigham1/cakephp-error-email) - A plugin to email exception/error information to your dev team.
 - [Execution order ★11 ⏳2Y](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
-- [Gourmet/Whoops plugin](https://github.com/gourmet/whoops) - PHP error for cool kids with [filp/whoops ★4540](https://github.com/filp/whoops).
+- [Gourmet/Whoops plugin](https://github.com/gourmet/whoops) - PHP error for cool kids with [filp/whoops ★4623](https://github.com/filp/whoops).
 - [Psa/FixtureCheck plugin ★2](https://github.com/World-Architects/cakephp-fixture-check) - A plugin to help detect mismatches in live DB and fixtures in order to make fixture based tests more reliable and deployments safer.
 - [Setup plugin ★27](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
 
@@ -210,14 +210,14 @@ Additional lists you might find useful:
 ## Libs
 *Useful libraries or tools that don't fit in any of the other categories.*
 
-- [Aura.Intl ★72](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core.
+- [Aura.Intl ★73](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core.
 - [Capcake ★117](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
-- [Chronos ★388](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
+- [Chronos ★403](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
 - [Composer Installers ★726](https://github.com/composer/installers) - A multi framework Composer library installer.
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
-- [Graphviz ★47](https://github.com/alexandresalome/graphviz) - A Graphviz library.
+- [Graphviz ★50](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
-- [Rocketeer ★2522](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
+- [Rocketeer ★2533](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 - [YamlRoute ★5](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
 
@@ -262,12 +262,12 @@ Additional lists you might find useful:
 ## Navigation
 *Tools for building navigation structures.*
 
-- [Icings/Menu plugin](https://github.com/icings/menu) - A [KnpMenu ★463](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
+- [Icings/Menu plugin](https://github.com/icings/menu) - A [KnpMenu ★466](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
 
 ## NoSQL
 *Plugins for working with "NoSQL" backends.*
 
-- [Monga plugin](https://github.com/lewestopher/cakephp-monga) - Provides access to MongoDB datasource using [`thephpleague/monga` ★301](https://github.com/thephpleague/monga).
+- [Monga plugin](https://github.com/lewestopher/cakephp-monga) - Provides access to MongoDB datasource using [`thephpleague/monga` ★302](https://github.com/thephpleague/monga).
 
 ## Notifications
 *Plugins for working with notification software.*

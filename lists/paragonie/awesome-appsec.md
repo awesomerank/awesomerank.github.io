@@ -506,7 +506,7 @@ If you're confused about cryptography terms, start here.
 
 **Released**: August 2, 2015
 
-Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library ★1328](https://github.com/defuse/php-encryption), or OpenSSL.
+Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library ★1359](https://github.com/defuse/php-encryption), or OpenSSL.
 
 ## Books and ebooks
 
@@ -520,15 +520,15 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ## Useful libraries
 
-### [defuse/php-encryption ★1328](https://github.com/defuse/php-encryption)
+### [defuse/php-encryption ★1359](https://github.com/defuse/php-encryption)
 
 Symmetric-key encryption library for PHP applications. (**Recommended** over rolling your own!)
 
-### [ircmaxell/password_compat ★1902](https://github.com/ircmaxell/password_compat)
+### [ircmaxell/password_compat ★1908](https://github.com/ircmaxell/password_compat)
 
 If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
 
-### [ircmaxell/RandomLib ★640](https://github.com/ircmaxell/RandomLib)
+### [ircmaxell/RandomLib ★644](https://github.com/ircmaxell/RandomLib)
 
 Useful for generating random strings or numbers
 

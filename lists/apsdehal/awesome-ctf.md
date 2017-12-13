@@ -133,7 +133,7 @@ Check solve section for steganography.
 
 *Tools used for solving Exploits challenges*
 
-- [DLLInjector ★255 ⏳4Y](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
+- [DLLInjector ★255 ⏳5Y](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
 - [libformatstr ★223](https://github.com/hellman/libformatstr) - Simplify format string exploitation.
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
 - [one_gadget ★287](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call
@@ -180,12 +180,15 @@ Check solve section for steganography.
 
 *Tools used for solving Networking challenges*
 
-- [Masscan ★7210](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner
+- [Bro](https://www.bro.org/) - An open-source network security monitor.
+- [Masscan ★7210](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner.
+- [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities). 
 - [Nipe ★244](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
-- [Nmap](https://nmap.org/) - open source utility for network discovery and security auditing
-- [Wireshark](https://www.wireshark.org/) - Analyze the network dumps
+- [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
+- [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
   - `apt-get install wireshark`
-- [Zmap](https://zmap.io/) - an open-source network scanner
+- [Zmap](https://zmap.io/) - An open-source network scanner.
+
 
 ## Reversing
 
@@ -256,6 +259,8 @@ Check solve section for steganography.
 ## Web
 
 *Tools used for solving Web challenges*
+
+- [BurpSuite]() - A graphical tool to testing website security. 
 - [Commix ★1377](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool.
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - Firefox addon for easy web exploitation
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses

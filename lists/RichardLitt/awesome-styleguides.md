@@ -100,7 +100,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## HTML
 * [Google](https://google.github.io/styleguide/htmlcssguide.xml)
-* [THX ★34 ⏳1Y](https://github.com/thx/html-code-guide) Added because this is the first Chinese styleguide I have seen that has any significant amount of stars.
+* [THX ★34 ⏳2Y](https://github.com/thx/html-code-guide) Added because this is the first Chinese styleguide I have seen that has any significant amount of stars.
 
 ## Java
 * [Android](http://source.android.com/source/code-style.html)
@@ -109,7 +109,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Javascript
 * [AirBnB ★62483](https://github.com/airbnb/javascript)
-* [bevacqua's JS sg ★2421](https://github.com/bevacqua/js)
+* [bevacqua's JS sg ★2421 ⏳1Y](https://github.com/bevacqua/js)
 * [feross/standard](https://github.com/feross/standard)
 * [Google](https://google.github.io/styleguide/jsguide.html)
 * [hapi](http://hapijs.com/styleguide)

@@ -805,12 +805,12 @@ be
 <a name="php-nlp"></a>
 ### Natural Language Processing
 
-* [jieba-php ★444](https://github.com/fukuball/jieba-php) - Chinese Words Segmentation Utilities.
+* [jieba-php ★473](https://github.com/fukuball/jieba-php) - Chinese Words Segmentation Utilities.
 
 <a name="php-general-purpose"></a>
 ### General-Purpose Machine Learning
 
-* [PHP-ML ★4595](https://github.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
+* [PHP-ML ★4804](https://github.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
 * [PredictionBuilder ★73](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 
 <a name="python"></a>
@@ -1230,6 +1230,7 @@ be
 <a name="sas-general-purpose"></a>
 #### General-Purpose Machine Learning
 
+* [Visual Data Mining and Machine Learning](https://www.sas.com/vdmml) - Interactive, automated, and programmatic modeling with the latest machine learning algorithms in and end-to-end analytics environment, from data prep to deployment. Free trial available.
 * [Enterprise Miner](https://www.sas.com/en_us/software/enterprise-miner.html) - Data mining and machine learning that creates deployable models using a GUI or code.
 * [Factory Miner](https://www.sas.com/en_us/software/factory-miner.html) - Automatically creates deployable machine learning models across numerous market or customer segments using a GUI.
 

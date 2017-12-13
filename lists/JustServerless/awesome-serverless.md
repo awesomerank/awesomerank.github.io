@@ -917,6 +917,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Introducing OpenEvents](https://serverless.com/blog/introducing-openevents/) - Post about the recent announcement of the [OpenEvents](https://openevents.io) specification.
 - [I just deployed a serverless app — and I can’t code](https://medium.freecodecamp.org/i-just-deployed-a-serverless-app-and-i-cant-code-here-s-how-i-did-it-94983d7b43bd) - Step-by-step walkthrough on how to deploy a lorem ipsum serverless application.
 - [Serverless statistics 2017](https://thenewstack.io/aws-lambda-still-towers-competition-much-longer/) - Post with the most recent statistics about the serverless computing trend.
+- [Automating CI / CD workflow for serverless apps with CircleCI](https://serverless.com/blog/ci-cd-workflow-serverless-apps-with-circleci/) - How to setup and use CI / CD with the Serverless Framework and CircleCI.
 
 ## Screencasts
 
@@ -1108,6 +1109,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Develop serverless apps with AWS Lambda and Azure Functions](https://vimeo.com/208056992) - Raj Wilkhus talk on how to use AWS Lambda and Azure Functions to develop serverless applications.
 - [Who’s in charge of automated security](https://thenewstack.io/lori-macvittie-f5-networks-whos-charge-automated-security/) - Podcast about automated security in a serverless world.
 - [Does serverless have a place in DevOps?](https://thenewstack.io/serverless-abstract-architectures-place-devops/) - Podcast about serverless computing in a DevOps context.
+- [re:Invent 2017 Serverless Recap](https://speakerdeck.com/danilop/re-invent-2017-serverless-recap) - Slides for the presentation about the serverless related announcements at re:Invent 2017.
 
 ## Amazon AWS resources
 

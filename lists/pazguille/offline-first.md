@@ -856,7 +856,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 [UpUp](https://www.talater.com/upup/): An Offline First library designed to be the easiest way to add offline capabilities to a site.
 
-[simple-serviceworker-tutorial ★306](https://github.com/jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
+[simple-serviceworker-tutorial ★306 ⏳1Y](https://github.com/jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
 
 [Hyperboot ★382 ⏳1Y](https://github.com/substack/hyperboot): Offline webapp bootloader.
 

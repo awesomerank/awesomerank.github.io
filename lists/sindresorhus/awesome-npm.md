@@ -122,7 +122,7 @@ You might also like [awesome-nodejs ★19878](https://github.com/sindresorhus/aw
 - [npm-run-path ★41 ⏳1Y](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
 - [local-npm](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
 - [npe ★37](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
-- [engine-deps ★20 ⏳1Y](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
+- [engine-deps ★20 ⏳2Y](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
 - [enpeem-search ★3 ⏳1Y](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search.
 - [npm-issues ★46 ⏳1Y](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 - [john ★43](https://github.com/davej/john) - Make npm3's flat dependencies easier to find and sort.

@@ -179,7 +179,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [Lua ★32](https://github.com/grandquista/Lua-ReQL) - Rethinkdb driver in Lua.
 - [Objective-C ★13 ⏳1Y](https://github.com/dparnell/rethink-db-client) - A RethinkDB client written in Objective-C. 
 - [Perl ★21 ⏳1Y](https://github.com/njlg/perl-rethinkdb) - A Pure Perl RethinkDB Driver.
-- [PHP ★301](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL).
+- [PHP ★301 ⏳1Y](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL).
 - [Scala ★101 ⏳1Y](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB.
 
 **[Back to top](#table-of-contents)**
