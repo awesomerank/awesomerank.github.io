@@ -139,7 +139,7 @@ Made with Electron.
 - [Before Dawn ★39](https://github.com/muffinista/before-dawn) - Screensaver tool.
 - [Active Collab ★22 ⏳1Y](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab app.
 - [Hain](https://github.com/appetizermonster/hain) - Launcher for Windows.
-- [Catify ★42](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
+- [Catify ★42 ⏳1Y](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 - [Minira ★75](https://github.com/jenslind/minira) - JIRA issues in your menubar.
 - [Ansel ★88](https://github.com/m0g/ansel) - Image organizer.
 - [Build Checker App ★39](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
@@ -186,6 +186,7 @@ Made with Electron.
 - [Comma Chameleon ★171](https://github.com/theodi/comma-chameleon) - CSV editor.
 - [Buttercup Desktop ★1753](https://github.com/buttercup/buttercup-desktop) - Password manager.
 - [Mailspring ★1785](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
+- [Manta ★1720](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 
 ### Closed Source
 

@@ -144,7 +144,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [SonarJava ★253](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint.
 * [Sourcetrail ![c]](https://www.sourcetrail.com) - Visual source code navigator.
 * [Spoon ★415](https://github.com/INRIA/spoon) - Library for analyzing and transforming Java source code.
-* [Spotbugs ★386](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs.
+* [Spotbugs ★454](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs.
 
 ## Code Coverage
 
@@ -554,7 +554,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Multi-OS Engine](https://software.intel.com/en-us/multi-os-engine) - An open-source, cross-platform engine to develop native mobile (iOS, Android, etc.) apps.
 * [OpenRefine](http://openrefine.org/) - Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
 * [Polyglot for Maven ★501](https://github.com/takari/polyglot-maven) - Extensions for Maven 3.3.1+ that allows writing the POM model in dialects other than XML.
-* [Smooks ★178](https://github.com/smooks/smooks) - Extensible framework for building applications that process data which means bindings, transformations, message processing and enrichment.
+* [Smooks ★183](https://github.com/smooks/smooks) - Extensible framework for building applications that process data which means bindings, transformations, message processing and enrichment.
 * [Togglz](https://www.togglz.org/) - Implementation of the Feature Toggles pattern.
 * [TypeTools ★295](https://github.com/jhalterman/typetools) - Tools for resolving generic types.
 * [XMLBeam ★40](https://github.com/SvenEwald/xmlbeam) - Processes XML by using annotations or XPath within code.
@@ -790,7 +790,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Awaitility](https://github.com/jayway/awaitility) - DSL for synchronizing asynchronous operations.
 * [ConcurrentUnit ★232](https://github.com/jhalterman/concurrentunit) - Toolkit for testing multi-threaded and asynchronous applications.
 * [GreenMail](http://www.icegreen.com/greenmail/) - In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL.
-* [Hoverfly Java ★53](https://github.com/SpectoLabs/hoverfly-java) - Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
+* [Hoverfly Java ★55](https://github.com/SpectoLabs/hoverfly-java) - Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
 * [REST Assured](https://github.com/jayway/rest-assured) - DSL for easy testing of REST/HTTP services.
 
 ### BDD
@@ -823,7 +823,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Citrus](https://citrusframework.org/) - Integration testing framework that focuses on both client- and server-side messaging.
 * [Gatling](https://gatling.io/) - Load testing tool designed for ease of use, maintainability and high performance.
 * [JUnit](http://junit.org/) - Common testing framework.
-* [Pact JVM ★417](https://github.com/DiUS/pact-jvm) - Consumer-driven contract testing.
+* [Pact JVM ★433](https://github.com/DiUS/pact-jvm) - Consumer-driven contract testing.
 * [PIT](http://pitest.org) - Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test suites.
 
 ### Matchers
@@ -923,7 +923,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *Awesome lists related to the Java & JVM ecosystem.*
 
 * [Awesome Gradle Plugins ★126](https://github.com/ksoichiro/awesome-gradle)
-* [AwesomeJavaFX ★644](https://github.com/mhrimaz/AwesomeJavaFX)
+* [AwesomeJavaFX ★695](https://github.com/mhrimaz/AwesomeJavaFX)
 * [Awesome JVM ★617](https://github.com/deephacks/awesome-jvm)
 * [Awesome Microservices ★5042](https://github.com/mfornos/awesome-microservices)
 * [Awesome REST ★1476](https://github.com/marmelab/awesome-rest)

@@ -105,7 +105,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 ### Animation
 - [Sass Burger ★624 ⏳1Y](https://github.com/jorenvanhee/sass-burger) - Sass mixin for creating animated hamburger icon.
 - [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - Set of SCSS mixins for single element loaders and spinners.
-- [Animate.scss ★486 ⏳1Y](https://github.com/geoffgraham/animate.scss) -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
+- [Animate.scss ★486 ⏳2Y](https://github.com/geoffgraham/animate.scss) -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
 - [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
 
 ### Miscellaneous

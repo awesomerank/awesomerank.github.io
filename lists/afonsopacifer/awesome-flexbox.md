@@ -154,7 +154,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 *Have a little help to create their projects :D*
 * [Build with Flexbox](http://flexbox.buildwithreact.com/)
 * [CSS flexbox please](http://demo.agektmr.com/flexbox/)
-* [CSS Flexbox snippets for Atom ★5 ⏳1Y](https://github.com/brenopolanski/css-flexbox-atom-snippets)
+* [CSS Flexbox snippets for Atom ★5 ⏳2Y](https://github.com/brenopolanski/css-flexbox-atom-snippets)
 * [CSS Flexbox snippets for Sublime Text 2/3 ★13](https://github.com/brenopolanski/css-flexbox-sublime-snippets)
 * [Fibonacci ★427 ⏳3Y](https://github.com/maxsteenbergen/Fibonacci)
 * [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)

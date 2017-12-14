@@ -109,7 +109,7 @@ Projects with over 500 stargazers are in bold.
 
 *Scala frameworks for web development.*
 
-* [Analogweb ★4](https://github.com/analogweb/analogweb-scala) - Tiny, simple, and pluggable web framework in Scala.
+* [Analogweb ★5](https://github.com/analogweb/analogweb-scala) - Tiny, simple, and pluggable web framework in Scala.
 * [Chaos ★ 220 ⧗ 27](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 * **[Colossus ★ 811 ⧗ 70](http://tumblr.github.io/colossus/)** - lightweight framework for building high-performance applications in Scala that require non-blocking network I/O.
 * **[Finatra ★ 1558 ⧗ 0](https://github.com/twitter/finatra)** - A sinatra-inspired web framework for scala, running on top of Finagle.
@@ -122,7 +122,7 @@ Projects with over 500 stargazers are in bold.
 * **[Skinny Framework ★ 621 ⧗ 1](https://github.com/skinny-framework/skinny-framework)** - A full-stack web app framework upon Scalatra for rapid Development in Scala.
 * [Socko](http://sockoweb.org/) - An embedded Scala web server powered by Netty networking and Akka processing.
 * **[Spray ★ 2504 ⧗ 0](https://github.com/spray/spray)** - A suite of scala libraries for building and consuming RESTful web services on top of Akka.
-* [suzaku ★84](https://github.com/suzaku-io/suzaku) - Suzaku web UI framework for Scala 
+* [suzaku ★85](https://github.com/suzaku-io/suzaku) - Suzaku web UI framework for Scala 
 * **[Unfiltered ★ 673 ⧗ 6](https://github.com/unfiltered/unfiltered)** - A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
 * [Xitrum](http://xitrum-framework.github.io/) - An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
 * [youi ★ 81 ⧗ 12](https://github.com/outr/youi) - Next generation user interface framework and server engine for Scala and Scala.js.
@@ -186,7 +186,7 @@ Projects with over 500 stargazers are in bold.
 * [cornichon ★ 109 ⧗ 3](https://github.com/agourlay/cornichon) - Scala DSL for testing HTTP JSON API.
 * [Gatling](http://gatling.io) - Async Scala-Akka-Netty based Stress Tool.
 * **[ScalaCheck ★ 1196 ⧗ 6](https://github.com/rickynils/scalacheck)** - Property-based testing for Scala.
-* [Minitest ★53](https://github.com/monix/minitest) - A testing framework with a focus on simplicity.
+* [Minitest ★75](https://github.com/monix/minitest) - A testing framework with a focus on simplicity.
 * [ScalaMeter](https://scalameter.github.io/) - Performance &  memory footprint measuring, regression testing.
 * [ScalaMock](http://scalamock.org) - Scala native mocking framework
 * [scalaprops ★ 171 ⧗ 5](https://github.com/scalaprops/scalaprops) - Another property based testing library for Scala
@@ -439,7 +439,7 @@ Projects with over 500 stargazers are in bold.
 * **[scalaj-http ★ 580 ⧗ 0](https://github.com/scalaj/scalaj-http)** - Simple scala wrapper for HttpURLConnection (including OAuth support).
 * [Scalaxb ★ 235 ⧗ 18](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 * [Spray](http://spray.io/) - Actor-based library for http interaction.
-* [sttp ★296](https://github.com/softwaremill/sttp) - The Scala HTTP client you always wanted!
+* [sttp ★341](https://github.com/softwaremill/sttp) - The Scala HTTP client you always wanted!
 * [Tubesocks ★ 12 ⧗ 174](https://github.com/softprops/tubesocks) - Library supporting bi-directional communication with websocket servers.
 
 ## Semantic Web

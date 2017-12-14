@@ -300,7 +300,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Docker.DotNet ★426](https://github.com/Microsoft/Docker.DotNet) - .NET (C#) Client Library for Docker API.
 * [Enums.NET ★467](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 * [FluentFTP ★333](https://github.com/robinrodricks/FluentFTP) - FTP and FTPS client, with extensive FTP commands, SSL/TLS connections, hashing/checksums and more.
-* [FluentValidation ★2791](https://github.com/JeremySkinner/FluentValidation) - Small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 * [httpclient-interception ★21](https://github.com/justeat/httpclient-interception) - .NET Standard library for intercepting server-side HTTP dependencies.
 * [Humanizer ★2955](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 * [LibSass Host ★19](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](http://sass-lang.com/libsass) library with the ability to support a virtual file system.
@@ -320,6 +319,9 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [sharpcompress ★579](https://github.com/adamhathcock/sharpcompress) - Fully managed C# library to deal with many compression types and formats.
 * [SmartFormat.NET ★325](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
 * [System.Linq.Dynamic.Core ★122](https://github.com/StefH/System.Linq.Dynamic.Core) - The .NET Standard (.NET Core) version from the System Linq Dynamic functionality.
+* Validation
+  * [FluentValidation ★2791](https://github.com/JeremySkinner/FluentValidation) - Small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+  * [Valit ★103](https://github.com/valit-stack/Valit) - A dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!
 * [warden-stack](https://github.com/warden-stack) - "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch.
 
 ### ORM

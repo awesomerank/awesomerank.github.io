@@ -389,7 +389,7 @@ App project templates
 * [Guard-motion ★47 ⏳4Y](https://github.com/mordaroso/guard-motion) - Guard::Motion automatically run your RubyMotion specs (much like autotest).
 * [Motion-instabug ★3 ⏳3Y](https://github.com/bmichotte/motion-instabug) - motion-instabug allows RubyMotion projects to easily embed the Instabug SDK and be submitted to the Instabug platform.
 * [Motion-juxtapose ★51 ⏳2Y](https://github.com/terriblelabs/motion-juxtapose) - Screenshot-driven assertions for testing Rails and RubyMotion applications.
-* [Test Sweet ★4 ⏳1Y](https://github.com/squidpunch/test_sweet) - Integration testing your RubyMotion applications the simple and sweet way.
+* [Test Sweet ★4 ⏳2Y](https://github.com/squidpunch/test_sweet) - Integration testing your RubyMotion applications the simple and sweet way.
 
 
 ### Updates

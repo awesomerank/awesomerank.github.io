@@ -329,7 +329,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### 3D Formats
 
 * [AsCollada](https://github.com/timknip/ascollada) - Parse COLLADA 3D model files ([fork ★1 ⏳6Y](https://github.com/david-gregory/ascollada)).
-* [AsBlender ★38 ⏳7Y](https://github.com/timknip/asblender) - Parse Blender .BLEND files.
+* [AsBlender ★38 ⏳8Y](https://github.com/timknip/asblender) - Parse Blender .BLEND files.
 * [AS3-bvh-parser ★5 ⏳5Y](https://github.com/rkn14/as3-bvh-parser) - Parse BVH files.
 * [EasyAGAL ★118 ⏳2Y](https://github.com/Barliesque/EasyAGAL) - Simplifies development of AGAL shaders with code completion, code hinting,  macros, etc.
 

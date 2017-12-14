@@ -222,7 +222,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [Php Inspections (EA Extended) ★469](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP.
 * [PHP Refactoring Browser ★551](https://github.com/QafooLabs/php-refactoring-browser) - Refactoring helper
 * [PHP-Parser ★3170](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
-* [PHP-Token-Reflection ★187](https://github.com/Andrewsville/PHP-Token-Reflection) - Library emulating the PHP internal reflection
+* [PHP-Token-Reflection ★187 ⏳1Y](https://github.com/Andrewsville/PHP-Token-Reflection) - Library emulating the PHP internal reflection
 * [php7cc ★1206](https://github.com/sstalle/php7cc) - PHP 7 Compatibility Checker
 * [php7mar ★502](https://github.com/Alexia/php7mar) - assist developers in porting their code quickly to PHP 7
 * [PHP_CodeSniffer ★4167](https://github.com/squizlabs/PHP_CodeSniffer) - detects violations of a defined set of coding standards

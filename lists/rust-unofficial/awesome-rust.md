@@ -753,6 +753,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 * [ImGui ★8844](https://github.com/ocornut/imgui)
   * [imgui-rs ★267](https://github.com/Gekkio/imgui-rs) — Rust bindings for ImGui [<img src="https://api.travis-ci.org/Gekkio/imgui-rs.svg?branch=master">](https://travis-ci.org/Gekkio/imgui-rs)
 * [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
+  * [clear-coat ★9](https://github.com/jminer/clear-coat) — Clear Coat is a Rust wrapper for the IUP GUI library
   * [dcampbell24/iup-rust ★26 ⏳2Y](https://github.com/dcampbell24/iup-rust) — IUP bindings [<img src="https://api.travis-ci.org/dcampbell24/iup-rust.svg?branch=master">](https://travis-ci.org/dcampbell24/iup-rust)
   * [Kiss-ui ★295 ⏳1Y](https://github.com/KISS-UI/kiss-ui) — a simple UI framework built on IUP [![Build Status](https://api.travis-ci.org/cybergeek94/kiss-ui.svg?branch=master)](https://travis-ci.org/cybergeek94/kiss-ui)
 * [libui ★4753](https://github.com/andlabs/libui)
@@ -834,7 +835,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * FTP
   * [mattnenterprise/rust-ftp ★41](https://github.com/mattnenterprise/rust-ftp) — an [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) client for Rust [<img src="https://api.travis-ci.org/mattnenterprise/rust-ftp.svg?branch=master">](https://travis-ci.org/mattnenterprise/rust-ftp)
 * IPNetwork
-  * [achanda/ipnetwork ★8](https://github.com/achanda/ipnetwork) — A library to work with IP networks in pure Rust [<img src="https://api.travis-ci.org/achanda/ipnetwork.svg?branch=master">](https://travis-ci.org/achanda/ipnetwork)
+  * [achanda/ipnetwork ★9](https://github.com/achanda/ipnetwork) — A library to work with IP networks in pure Rust [<img src="https://api.travis-ci.org/achanda/ipnetwork.svg?branch=master">](https://travis-ci.org/achanda/ipnetwork)
 * Low level
   * [libpnet/libpnet ★555](https://github.com/libpnet/libpnet) — a cross-platform, low level networking [<img src="https://api.travis-ci.org/libpnet/libpnet.svg?branch=master">](https://travis-ci.org/libpnet/libpnet)
   * [tokio-rs/tokio ★881](https://github.com/tokio-rs/tokio) — a network application framework for rapid development and highly scalable production deployments of clients and servers.

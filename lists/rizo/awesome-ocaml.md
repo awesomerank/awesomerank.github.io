@@ -93,7 +93,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [ctypes ★174](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
 - [easy-format ★19](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
 - [ocaml-rpc ★35](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
-- [ocaml-containers ★157](https://github.com/c-cube/ocaml-containers) – A lightweight,modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
+- [ocaml-containers ★157](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
 
 
 ## Blogs

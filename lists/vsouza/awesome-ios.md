@@ -224,6 +224,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftRouter ★153](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS, written in Swift 3 :large_orange_diamond:
 * [Router ★89](https://github.com/freshOS/Router) - 🛣 Simple Navigation for iOS. :large_orange_diamond:
 * [ApplicationCoordinator ★213](https://github.com/AndreyPanov/ApplicationCoordinator) - Coordinator is an object that handles navigation flow and shares flow’s handling for the next coordinator after switching on the next chain.
+* [Weavy ★22](https://github.com/twittemb/Weavy) - Reactive navigation framework based on a weaving pattern (fits well with RxSwift) :large_orange_diamond:
 
 ## Apple TV
 * [Voucher ★491](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
@@ -296,7 +297,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [TEAChart ★1141](https://github.com/xhacker/TEAChart) - Simple and intuitive iOS chart library. Contribution graph, clock chart, and bar chart.
 * [EChart ★640 ⏳1Y](https://github.com/zhuhuihuihui/EChart) - iOS/iPhone/iPad Chart, Graph. Event handling and animation supported.
 * [FSLineChart ★812](https://github.com/ArthurGuibert/FSLineChart) - A line chart library for iOS.
-* [chartee ★862 ⏳1Y](https://github.com/zhiyu/chartee) - a charting library for mobile platforms.
+* [chartee ★862 ⏳2Y](https://github.com/zhiyu/chartee) - a charting library for mobile platforms.
 * [ANDLineChartView ★412](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView is easy to use view-based class for displaying animated line chart.
 * [TWRCharts ★369 ⏳3Y](https://github.com/chasseurmic/TWRCharts) - An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.
 * [SwiftCharts ★1496](https://github.com/i-schuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS. :large_orange_diamond:
@@ -534,7 +535,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [BrightFutures ★1559](https://github.com/Thomvis/BrightFutures) - Write great asynchronous code in Swift using futures and promises. :large_orange_diamond:
 * [NoticeObserveKit ★111](https://github.com/marty-suzuki/NoticeObserveKit) - NoticeObserveKit is type-safe NotificationCenter wrapper that associates notice type with info type. :large_orange_diamond:
 * [Hydra ★1252](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code in Swift :large_orange_diamond:
-* [Promis ★53](https://github.com/albertodebortoli/Promis) - The easiest Future and Promises framework in Swift. No magic. No boilerplate. :large_orange_diamond:
+* [Promis ★65](https://github.com/albertodebortoli/Promis) - The easiest Future and Promises framework in Swift. No magic. No boilerplate. :large_orange_diamond:
 * [Bluebird.swift ★23](https://github.com/AndrewBarba/Bluebird.swift) - Promise/A+, Bluebird inspired, implementation in Swift 4. :large_orange_diamond:
 
 ## Files
@@ -878,7 +879,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [UIImageColors ★1712](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage. :large_orange_diamond:[e]
 * [CDFlipView ★94](https://github.com/jibeex/CDFlipView) - A view that takes a set of images, make transition from one to another by using flipping effects.
 * [GPUImage2 ★3404](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing. :large_orange_diamond:
-* [TGLParallaxCarousel ★398](https://github.com/taglia3/TGLParallaxCarousel) - A lightweight 3D Linear Carousel with parallax effect :large_orange_diamond:
+* [TGLParallaxCarousel ★398 ⏳1Y](https://github.com/taglia3/TGLParallaxCarousel) - A lightweight 3D Linear Carousel with parallax effect :large_orange_diamond:
 * [ImageButter ★382 ⏳1Y](https://github.com/dollarshaveclub/ImageButter) - Makes dealing with images buttery smooth
 * [SKPhotoBrowser ★1373](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by Facebook, Twitter photo browsers written by swift :large_orange_diamond:
 * [YUCIHighPassSkinSmoothing ★760 ⏳1Y](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - An implementation of High Pass Skin Smoothing using Apple's Core Image Framework
@@ -1246,7 +1247,7 @@ Most of these are paid services, some have free tiers.
 * [ReactiveLocation ★14](https://github.com/AckeeCZ/ReactiveLocation) - CoreLocation made reactive :large_orange_diamond:
 * [Hanson ★465](https://github.com/blendle/Hanson) - Lightweight observations and bindings in Swift, with support for KVO and NotificationCenter. :large_orange_diamond:
 * [Observable ★147](https://github.com/roberthein/Observable) - The easiest way to observe values in Swift. 🔶
-* [SimpleApiClient ★62](https://github.com/jaychang0917/SimpleApiClient-ios) - A configurable api client based on Alamofire4 and RxSwift4 for iOS. 🔶
+* [SimpleApiClient ★65](https://github.com/jaychang0917/SimpleApiClient-ios) - A configurable api client based on Alamofire4 and RxSwift4 for iOS. 🔶
 * [VueFlux ★47](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture for Swift - Inspired by Vuex and Flux 🔶
 * [RxAnimated ★308](https://github.com/RxSwiftCommunity/RxAnimated) - Animated RxCocoa bindings
 
@@ -1334,7 +1335,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftyVK ★145](https://github.com/SwiftyVK/SwiftyVK) Library for easy interact with VK social network API written in Swift 🔶
 * [ARKKit ★11](https://github.com/sleepdefic1t/ARKKit) - ARK Ecosystem Cryptocurrency API Framework for iOS & macOS, written purely in Swift 4.0. :large_orange_diamond:
 * [SwiftInstagram ★351](https://github.com/AnderGoig/SwiftInstagram) - Swift Client for Instagram API. :large_orange_diamond:
-* [SwiftyArk ★6](https://github.com/Awalz/SwiftyArk) - A simple, lightweight, fully-asynchronous cryptocurrency framework for the ARK Ecosystem. :large_orange_diamond:
+* [SwiftyArk ★8](https://github.com/Awalz/SwiftyArk) - A simple, lightweight, fully-asynchronous cryptocurrency framework for the ARK Ecosystem. :large_orange_diamond:
 
 ## Security
 * [cocoapods-keys ★909](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
@@ -1751,7 +1752,7 @@ Most of these are paid services, some have free tiers.
 * [JustHUD ★13](https://github.com/shubh10/JustHUD) - JustHUD is an iOS drop-in class written in Swift that displays a translucent HUD. :large_orange_diamond:
 * [JDBreaksLoading ★123](https://github.com/jamesdouble/JDBreaksLoading) - You can easily start up a little breaking game indicator by one line. :large_orange_diamond:
 * [SkeletonView ★2888](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting. :large_orange_diamond:
-* [Windless ★162](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view. :large_orange_diamond:
+* [Windless ★547](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view. :large_orange_diamond:
 * [Skeleton ★297](https://github.com/gonzalonunez/Skeleton) - An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content. 🔶
 +* [StatusBarOverlay ★24](https://github.com/IdleHandsApps/StatusBarOverlay) - Automatically show/hide a "No Internet Connection" bar when your app loses/gains connection. It supports apps which hide the status bar and "The Notch" 🔶
 
@@ -2102,6 +2103,7 @@ Most of these are paid services, some have free tiers.
 * [CountryPicker ★62](https://github.com/4taras4/CountryCode) - :date: UIPickerView with Country names flags and phoneCodes 🔶
 * [McPicker ★42](https://github.com/kmcgill88/McPicker-iOS) - A customizable, closure driven UIPickerView drop-in solution with animations that is rotation ready. :large_orange_diamond:
 * [Mandoline ★602](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your "picking" needs :large_orange_diamond:
+* [D2PDatePicker ★181](https://github.com/di2pra/D2PDatePicker) - Elegant and Easy-to-Use iOS Swift Date Picker :large_orange_diamond:
 
 #### Popup
 * [PopupKit](https://github.com/rynecheow/PopupKit) - A simple and flexible class for presenting custom views as a popup in iOS and tvOS, maintained from [KLCPopup ★1664](https://github.com/jmascia/KLCPopup).
@@ -2576,7 +2578,7 @@ Most of these are paid services, some have free tiers.
 * [Cookiecutter ★419](https://github.com/JetpackSwift/FrameworkTemplate) - A template for new Swift iOS / tvOS / watchOS / macOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file :large_orange_diamond:
 * [Sourcery ★2768](https://github.com/krzysztofzablocki/Sourcery) - A tool that brings meta-programming to Swift, allowing you to code generate Swift code. :large_orange_diamond:
 * [AssetChecker 👮 ★50](https://github.com/freshOS/AssetChecker) - Keeps your Assets.xcassets files clean and emits warnings when something is suspicious. :large_orange_diamond:
-* [PlayAlways ★384](https://github.com/insidegui/PlayAlways) - Create Xcode playgrounds from your menu bar :large_orange_diamond:
+* [PlayAlways ★384 ⏳1Y](https://github.com/insidegui/PlayAlways) - Create Xcode playgrounds from your menu bar :large_orange_diamond:
 * [GDPerformanceView-Swift ★1574](https://github.com/dani-gavrilov/GDPerformanceView-Swift) - Shows FPS, CPU usage, app and iOS versions above the status bar and report FPS and CPU usage via delegate. :large_orange_diamond:
 * [Traits ★860](https://github.com/krzysztofzablocki/Traits) - Library for a real-time design and behavior modification of native iOS apps without recompiling (code and interface builder changes are supported). :large_orange_diamond:
 * [Struct](https://www.get-struct.tools) - A tool for iOS and Mac developers to automate the creation and management of Xcode projects.

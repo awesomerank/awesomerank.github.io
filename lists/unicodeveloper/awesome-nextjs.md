@@ -56,6 +56,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [Next Simple Blog ★280](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 * [Create-Next-App](https://open.segment.com/create-next-app) - Fork of Facebook's create-react-app to create a next application.
 * [phox ★3](https://github.com/herschel666/phox) - Create a static photo blog.
+* [Next Express Bootstrap Boilerplate ★5](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
 
 ## Extensions
 * [Next Routes ★433](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
@@ -76,14 +77,14 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [Mailto ★37](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
 * [Plate ★30](https://github.com/knipferrc/plate) - The task management app to rule them all.
 * [Dashboard ★298](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
-* [Snape ★65](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents. 
+* [Snape ★65](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 * [Trello Resume ★3](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 * [Server Authentication with JWT ★14](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
-* [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI. 
+* [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 * [Cookie handler with server render ★0](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 * [Gank ★20](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 * [Decoupled CMS example with GraphQL and Next.js ★5](https://github.com/janit/decoupled-cms-nextjs-graphql)
-* [DS ★1](https://github.com/divyenduz/ds) - Personal site manager.
+* [DS ★2](https://github.com/divyenduz/ds) - Personal site manager.
 
 ## Videos
 

@@ -540,7 +540,7 @@ Further resources:
 * [Kernel Density ★33](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for julia.
 * [Dimensionality Reduction ★21 ⏳3Y](https://github.com/JuliaStats/DimensionalityReduction.jl) - Methods for dimensionality reduction.
 * [NMF ★39](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization.
-* [ANN ★54 ⏳2Y](https://github.com/EricChiang/ANN.jl) - Julia artificial neural networks.
+* [ANN ★54 ⏳3Y](https://github.com/EricChiang/ANN.jl) - Julia artificial neural networks.
 * [Mocha ★970](https://github.com/pluskid/Mocha.jl) - Deep Learning framework for Julia inspired by Caffe.
 * [XGBoost ★83](https://github.com/dmlc/XGBoost.jl) - eXtreme Gradient Boosting Package in Julia.
 * [ManifoldLearning ★22](https://github.com/wildart/ManifoldLearning.jl) - A Julia package for manifold learning and nonlinear dimensionality reduction.
@@ -940,7 +940,7 @@ be
 * [ML-From-Scratch ★7473](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
 * [Edward](http://edwardlib.org/) - A library for probabilistic modeling, inference, and criticism. Built on top of TensorFlow.
 * [xRBM ★25](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
-* [CatBoost ★2107](https://github.com/catboost/catboost) - Gradient boosting on decision trees library with categorical features support out of the box for Python, R.
+* [CatBoost ★2216](https://github.com/catboost/catboost) - Gradient boosting on decision trees library with categorical features support out of the box for Python, R.
 * [stacked_generalization ★64 ⏳1Y](https://github.com/fukatani/stacked_generalization) - Implementation of machine learning stacking technic as handy library in Python.
 
 <a name="python-data-analysis"></a>
@@ -1140,7 +1140,7 @@ be
 * [C50](http://cran.r-project.org/web/packages/C50/index.html) - C50: C5.0 Decision Trees and Rule-Based Models.
 * [caret](http://caret.r-forge.r-project.org/) - Classification and Regression Training: Unified interface to ~150 ML algorithms in R.
 * [caretEnsemble](http://cran.r-project.org/web/packages/caretEnsemble/index.html) - caretEnsemble: Framework for fitting multiple caret models as well as creating ensembles of such models.
-* [CatBoost ★2107](https://github.com/catboost/catboost) - Gradient boosting on decision trees library with categorical features support out of the box for Python, R.
+* [CatBoost ★2216](https://github.com/catboost/catboost) - Gradient boosting on decision trees library with categorical features support out of the box for Python, R.
 * [Clever Algorithms For Machine Learning ★245](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 * [CORElearn](http://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation.
 * [CoxBoost](http://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks

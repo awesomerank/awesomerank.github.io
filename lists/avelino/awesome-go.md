@@ -105,7 +105,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [flac ★54](https://github.com/mewkiz/flac) - Native Go FLAC decoder.
 * [gaad ★35](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
 * [go-sox ★58](https://github.com/krig/go-sox) - libsox bindings for go.
-* [go_mediainfo ★16 ⏳1Y](https://github.com/zhulik/go_mediainfo) - libmediainfo bindings for go.
+* [go_mediainfo ★16 ⏳2Y](https://github.com/zhulik/go_mediainfo) - libmediainfo bindings for go.
 * [gosamplerate ★3](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go.
 * [id3v2 ★51](https://github.com/bogem/id3v2) - Fast and stable ID3 parsing and writing library for Go.
 * [malgo ★11](https://github.com/gen2brain/malgo) - Mini audio library.
@@ -196,7 +196,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [termbox-go ★2530](https://github.com/nsf/termbox-go) - Termbox is a library for creating cross-platform text-based interfaces.
 * [termtables](https://github.com/apcera/termtables) - Go port of the Ruby library [terminal-tables ★942](https://github.com/tj/terminal-table) for simple ASCII table generation as well as providing markdown and HTML output.
 * [termui](https://github.com/gizak/termui) - Go terminal dashboard based on **termbox-go** and inspired by [blessed-contrib ★10557](https://github.com/yaronn/blessed-contrib).
-* [tui-go ★999](https://github.com/marcusolsson/tui-go) - Go UI library for building rich terminal applications.
+* [tui-go ★1091](https://github.com/marcusolsson/tui-go) - Go UI library for building rich terminal applications.
 * [uilive ★600](https://github.com/gosuri/uilive) - Library for updating terminal output in realtime.
 * [uiprogress ★1038](https://github.com/gosuri/uiprogress) - Flexible library to render progress bars in terminal applications.
 * [uitable ★403](https://github.com/gosuri/uitable) - Library to improve readability in terminal apps using tabular data.

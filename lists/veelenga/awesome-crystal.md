@@ -382,7 +382,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Science and Data analysis
  * [linalg ★9](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
- * [predict.cr ★4](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
+ * [predict.cr ★4 ⏳1Y](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [scorystal ★3](https://github.com/asafschers/scorystal) - Scoring API for PMML - supports RF and GBM
  * [stats ★10](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
 

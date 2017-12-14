@@ -125,11 +125,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [aruspex ★15 ⏳1Y](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
 * [bitmap ★17](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
 * [blocking_queue ★34](https://github.com/joekain/BlockingQueue) - BlockingQueue is a simple queue implemented as a GenServer. It has a fixed maximum length established when it is created.
-* [bloomex ★36](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
+* [bloomex ★36 ⏳1Y](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
 * [clope ★3](https://github.com/ayrat555/clope) - Elixir implementation of [CLOPE](http://www.inf.ufrgs.br/~alvares/CMP259DCBD/clope.pdf): A Fast and Effective Clustering Algorithm for Transactional Data.
 * [combination ★13](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
 * [count_buffer ★2 ⏳2Y](https://github.com/camshaft/count_buffer) - Buffer a large set of counters and flush periodically.
-* [cuckoo ★22](https://github.com/gmcabrita/cuckoo) - A pure Elixir implementation of [Cuckoo Filters](https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf).
+* [cuckoo ★22 ⏳1Y](https://github.com/gmcabrita/cuckoo) - A pure Elixir implementation of [Cuckoo Filters](https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf).
 * [cuid ★22](https://github.com/duailibe/cuid) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance, written in Elixir.
 * [data_morph](https://hex.pm/packages/data_morph) - Create Elixir structs from data.
 * [dataframe ★18](https://github.com/JordiPolo/dataframe) - Package providing functionality similar to Python's Pandas or R's data.frame().
@@ -165,7 +165,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mmath ★2](https://github.com/dalmatinerdb/mmath) - A library for performing math on number 'arrays' in binaries.
 * [monad ★115 ⏳1Y](https://github.com/rmies/monad) - Haskell inspired monads in Elixir stylish syntax.
 * [monadex ★236](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
-* [murmur ★11](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
+* [murmur ★11 ⏳1Y](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
 * [natural_sort ★5 ⏳2Y](https://github.com/DanCouper/natural_sort) - Elixir natural sort implementation for lists of strings.
 * [navigation_tree ★1 ⏳2Y](https://github.com/gutschilla/elixir-navigation-tree) - A navigation tree representation with helpers to generate HTML out of it.
 * [parallel_stream ★49](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
@@ -1147,7 +1147,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exdisque](https://github.com/mosic/exdisque) - Elixir client for [Disque ★6508](https://github.com/antirez/disque), an in-memory, distributed job queue.
 * [exq ★720](https://github.com/akira/exq) - Job processing library for Elixir - compatible with Resque/Sidekiq.
 * [exrabbit ★47 ⏳2Y](https://github.com/d0rc/exrabbit) - RabbitMQ bindings and DSL for Elixir.
-* [heapq ★5 ⏳1Y](https://github.com/takscape/elixir-heapq) - A Heap-based Priority Queue Implementation in Elixir.
+* [heapq ★5 ⏳2Y](https://github.com/takscape/elixir-heapq) - A Heap-based Priority Queue Implementation in Elixir.
 * [honeydew ★201](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 * [hulaaki ★88](https://github.com/suvash/hulaaki) - An MQTT 3.1.1 client library written in Elixir.
 * [kafka_consumer ★17](https://github.com/anoskov/kafka-consumer) - Consumer for Kafka using kafka_ex.

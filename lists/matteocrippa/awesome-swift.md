@@ -1251,7 +1251,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [URLEmbeddedView ★425](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 * [URWeatherView ★333](https://github.com/jegumhon/URWeatherView) - Show weather effects onto a view.
 * [Wallet ★236](https://github.com/rshevchuk/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
-* [Windless ★162](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view.
+* [Windless ★547](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view.
 * [WSTagsField ★637](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 * [YNSearch ★704](https://github.com/younatics/YNSearch) - Awesome fully customizable search view like Pinterest.
 

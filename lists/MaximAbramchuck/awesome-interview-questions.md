@@ -335,6 +335,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [A list of questions about Ruby programming you can use to quiz yourself ★17 ⏳2Y](https://github.com/undr/ruby-trivia)
 * [The Art of Ruby Technical Interview](http://technology.customink.com/blog/2015/11/23/the-art-of-ruby-technical-interviews/)
 * [Interview Cake Ruby Interview Questions](https://www.interviewcake.com/ruby-interview-questions)
+* [Frequently Asked Ruby Interview Questions](https://www.javatpoint.com/ruby-interview-questions)
 
 ### Sass
 
@@ -467,7 +468,9 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
 * [Answers to Front End Developer Interview Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
 * [Some simple questions to interview potential backend candidates ★60](https://github.com/starandtina/backend-interview-questions)
-
+* [An Annotated List of Frontend Developer Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-frontend-candidates/)
+* [An Annotated List of Backend Developer Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-backend-candidates/)
+* [An Annotated List of DevOps Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-devops-candidates/)
 
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
@@ -493,6 +496,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 * [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
+* [An Annotated List of Data Scientist Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-data-scientist/)
 
 ### License
 

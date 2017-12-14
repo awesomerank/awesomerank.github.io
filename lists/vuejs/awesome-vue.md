@@ -1088,6 +1088,7 @@ Tooltips / popovers
 - [vue-inputmask ★10](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
 - [vue-input-number ★2](https://github.com/joseluisq/vue-input-number) - A custom input number component for Vue.js 2.
 - [v-unicode ★9](https://github.com/ndelvalle/v-unicode) - Vue directive to restrict an input by unicode values.
+- [vue-cleave-component ★7](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
 
 #### Rich Text Editing
 

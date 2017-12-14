@@ -68,7 +68,7 @@ title: Awesome Rank for avajs/awesome-ava
 ## Works with AVA
 
 - [Spectron ★814](https://github.com/electron/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
-- [Chūhai ★70](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js.
+- [Chūhai ★70 ⏳1Y](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js.
 - [Leakage ★1158](https://github.com/andywer/leakage#usage-with-ava--tape) - Memory leak testing.
 - [pify ★719](https://github.com/sindresorhus/pify) - Promisify callback-style functions for better testing. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6)
 - [p-event ★192](https://github.com/sindresorhus/p-event) - Promisify an event. [(Example)](https://github.com/sindresorhus/gulp-debug/blob/4db5871594742a346d17aa9b34f43c87d4e54934/test.js#L42-L44)

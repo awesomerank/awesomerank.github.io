@@ -94,7 +94,7 @@ Name | License | Demo
 [TileView ★1179](https://github.com/moagrius/TileView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/TileView.jpeg" width="49%"> <img src="/art/TileView2.jpeg" width="49%">
 [ShowcaseView ★5102](https://github.com/amlcurran/ShowcaseView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ShowcaseView.png" width="49%"> <img src="/art/ShowcaseView2.png" width="49%">
 [Ultra Pull To Refresh ★8646](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-Ultra-Pull-To-Refresh.gif" width="49%"> <img src="/art/android-Ultra-Pull-To-Refresh2.gif" width="49%"> <img src="/art/android-Ultra-Pull-To-Refresh3.gif" width="49%"> <img src="/art/android-Ultra-Pull-To-Refresh4.gif" width="49%">
-[AndroidViewHover ★2796](https://github.com/daimajia/AndroidViewHover) | UnKnown | <img src="/art/AndroidViewHover.gif" width="49%">
+[AndroidViewHover ★2796 ⏳1Y](https://github.com/daimajia/AndroidViewHover) | UnKnown | <img src="/art/AndroidViewHover.gif" width="49%">
 [DraggablePanel ★2773](https://github.com/pedrovgs/DraggablePanel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/DraggablePanel.gif" width="49%"> <img src="/art/DraggablePanel2.gif" width="49%">
 [Slidr ★1700](https://github.com/r0adkll/Slidr) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Slidr.gif" width="49%">
 [Phoenix Pull-to-Refresh ★3638](https://github.com/Yalantis/Phoenix) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Phoenix.gif" width="65%">
@@ -263,7 +263,7 @@ Name | License | Demo
 [ColorArcProgerssBar ★696](https://github.com/Shinelw/ColorArcProgressBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-ColorArcProgressBar.gif" width="49%">
 [ArcProgressStackView ★134](https://github.com/GIGAMOLE/ArcProgressStackView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ArcProgressStackView.gif" width="49%"> <img src="/art/ArcProgressStackView2.gif" width="49%">
 [WaveLoadingView ★1309](https://github.com/tangqi92/WaveLoadingView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/WaveLoadingView.jpg" width="49%">
-[CatLoadingView ★843](https://github.com/Rogero0o/CatLoadingView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/CatLoadingView.gif" width="49%">
+[CatLoadingView ★843 ⏳1Y](https://github.com/Rogero0o/CatLoadingView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/CatLoadingView.gif" width="49%">
 [WaveLoading ★1191](https://github.com/race604/WaveLoading) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/race604-WaveLoading.gif" width="60%">
 
 Menu
