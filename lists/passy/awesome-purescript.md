@@ -40,6 +40,10 @@ title: Awesome Rank for passy/awesome-purescript
 - [purescript-aff ★169](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript.
 - [purescript-affjax ★169](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff.
 
+## Effect Management
+
+- [purescript-eff ★26](https://github.com/purescript/purescript-eff) - The Eff monad, for handling native side effects.
+
 ## Testing
 
 - [purescript-test-unit ★49](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript.

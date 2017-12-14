@@ -186,6 +186,7 @@ These open source projects will help you to build a bot in order to automate you
 * [Hubot](https://hubot.github.com/) + [adapter ★306](https://github.com/nandub/hubot-irc) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter ★17](https://github.com/litaio/lita-irc) (Ruby)
 * [PagerBot ★225](https://github.com/stripe-contrib/pagerbot) (Ruby)
+* [Yetibot ★149](https://github.com/yetibot/yetibot) (Clojure)
 
 ### Jabbr
 
@@ -248,6 +249,7 @@ These open source projects will help you to build a bot in order to automate you
 * [Slack-Ruby-Bot ★34](https://github.com/dblock/slack-ruby-bot) (Ruby)
 * [Slackbotsy ★79](https://github.com/rlister/slackbotsy) (Ruby)
 * [Slacker ★74 ⏳1Y](https://github.com/koudelka/slacker) (Elixir)
+* [Yetibot ★149](https://github.com/yetibot/yetibot) (Clojure)
 
 ### Spark
 

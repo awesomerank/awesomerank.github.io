@@ -37,6 +37,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Feature Flipping](#feature-flipping)
   * [Framework Components](#framework-components)
   * [Game Development](#game-development)
+  * [GUI library](#gui-library)
   * [HTML/XML parsing](#htmlxml-parsing)
   * [HTTP](#http)
   * [Image Processing](#image-processing)
@@ -105,7 +106,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [icu.cr ★2](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
  * [java.cr ★9](https://github.com/ysbaddaden/java.cr) - Java Native Interface (JNI) bindings (and generator)
  * [libnotify.cr ★11 ⏳1Y](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
- * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui ★4753](https://github.com/andlabs/libui)
  * [pcap.cr ★13](https://github.com/maiha/pcap.cr) - Bindings for libpcap
  * [posix ★18](https://github.com/ysbaddaden/posix) - POSIX/C bindings
  * [soundfile ★1](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
@@ -245,6 +245,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [glove ★34](https://github.com/ddfreyne/glove) - A library for gaming development
  * [inari ★10](https://github.com/ddfreyne/inari) - A collection of games using Glove as the game engine
  * [mos_game ★9](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
+
+## GUI library
+ * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui ★4753](https://github.com/andlabs/libui)
+ * [qt5.cr ★57](https://github.com/Papierkorb/qt5.cr) - Qt5 bindings for Crystal, based on Bindgen
 
 ## HTML/XML Parsing
  * [crystagiri](https://github.com/madeindjs/Crystagiri) - An Html Reader / parser like [Nokogiri ★4627](https://github.com/sparklemotion/nokogiri) Ruby gem

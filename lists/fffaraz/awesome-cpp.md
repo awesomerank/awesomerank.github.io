@@ -265,7 +265,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [MongoDB C++ Driver ★424](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. [Apache2]
 * [MongoDB Libbson ★270](https://github.com/mongodb/libbson) - A BSON utility library. [Apache2]
 * [MySQL++](http://www.tangentsoft.net/mysql++/) - A C++ wrapper for MySQL's C API. [LGPL]
-* [redis3m ★127](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. [Apache2]
+* [redis3m ★127 ⏳1Y](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. [Apache2]
 * [RocksDB ★9181](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
 * [SimDB ★197](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store [Apache2]
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]

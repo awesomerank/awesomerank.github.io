@@ -298,7 +298,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Sharing is caring with Elixir*
 
 * [bento ★37](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
-* [tracker_request ★8 ⏳2Y](https://github.com/alehander42/tracker_request) - Dealing with bittorrent tracker requests and responses.
+* [tracker_request ★8 ⏳3Y](https://github.com/alehander42/tracker_request) - Dealing with bittorrent tracker requests and responses.
 * [wire ★10 ⏳1Y](https://github.com/alehander42/wire) - Encode and decode bittorrent peer wire protocol messages with Elixir.
 
 ## BSON
@@ -438,7 +438,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [rsa ★13 ⏳3Y](https://github.com/trapped/elixir-rsa) - `public_key` cryptography wrapper for Elixir.
 * [rsa_ex ★11](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
 * [siphash-elixir](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
-* [tea_crypto ★0 ⏳2Y](https://github.com/keichan34/tea_crypto_erl) - Tiny Encryption Algorithm implementation.
+* [tea_crypto ★0 ⏳3Y](https://github.com/keichan34/tea_crypto_erl) - Tiny Encryption Algorithm implementation.
 
 ## CSV
 *Libraries and implementations working with CSV.*

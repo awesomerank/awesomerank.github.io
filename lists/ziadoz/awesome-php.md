@@ -78,7 +78,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [PHP Installation](#php-installation)
     - [Development Environment](#development-environment)
     - [Virtual Machines](#virtual-machines)
-    - [Integrated Development Environment](#integrated-development-environment)
+    - [Text Editors and IDEs](#text-editors-and-ides)
     - [Web Applications](#web-applications)
     - [Infrastructure](#infrastructure)
 - [Resources](#resources)
@@ -210,6 +210,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Buzz ★1342](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 * [HTTPFul ★1412](https://github.com/nategood/httpful) - A chainable HTTP client.
+* [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
 * [Requests ★2820](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [Retrofit ★108](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
@@ -544,8 +545,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
+* [Atlas.Orm ★331](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
 * [Aura.Sql ★399](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
-* [Aura.SqlQuery ★247](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server. Edit
+* [Aura.SqlQuery ★247](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
 * [Baum ★1611](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Cake ORM ★121](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
 * [Doctrine Extensions ★1870](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
@@ -853,12 +855,15 @@ Libraries to help manage database schemas and migrations.
 * [HHVM ★15013](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 * [HippyVM ★859 ⏳1Y](https://github.com/hippyvm/hippyvm) - Another PHP virtual machine.
 
-## Integrated Development Environment
-*Integrated Development Environments with support for PHP.*
+## Text Editors and IDEs
+*Text Editors and Integrated Development Environments (IDE) with support for PHP.*
 
+* [Atom](https://atom.io/) - A hackable text editor.
+* [Atom IDE](https://ide.atom.io/) - An IDE extension for Atom.
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
 * [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
 * [PhpStorm](http://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
+* [VS Code](https://code.visualstudio.com/) - An open source code editor.
 
 ## Web Applications
 *Web-based applications and tools.*
@@ -902,12 +907,14 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHPTrends](https://phptrends.com/) - An overview of fastest growing PHP libraries.
 * [Securing PHP](http://securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
+* [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - A monthly digest of PHP news.
 
 ## Other Websites
 *Useful websites related to web development.*
 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
 * [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
+* [Learning Linux](https://linuxjourney.com/) - A website for learning Linux.
 * [Semantic Versioning](https://semver.org/) - A website explaining semantic versioning.
 * [Servers for Hackers](https://serversforhackers.com/) - A newsletter about server management.
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
@@ -951,11 +958,12 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Taking PHP Seriously](https://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 
 ## PHP Podcasts
-*Podcasts with a main focus on PHP topics*
+*Podcasts with a focus on PHP topics.*
 
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
 * [PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
+* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with members of PHP community.
 
 ## PHP Reading
 *PHP-releated reading materials.*

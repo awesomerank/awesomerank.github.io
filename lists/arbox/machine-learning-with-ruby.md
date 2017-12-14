@@ -137,11 +137,14 @@ programming languages with appropriate bindings for Ruby.
 - [neuroevo ★4 ⏳1Y](https://github.com/giuse/neuroevo) -
   Pure Ruby implementation of both feed-forward and recurrent neural networks
   (fully connected). Training using neuroevolution (xNES and SNES).
+- [rann ★1](https://github.com/mikecmpbll/rann) -
+  Flexible Ruby ANN implementation with backprop (through-time, for recurrent
+  nets), gradient checking, adagrad, and parallel batch execution.
 
 ### Kernel methods
 
 - [rb-libsvm ★254](https://github.com/febeling/rb-libsvm) -
-  Support Vector Machines with Ruby and the [LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
+  Support Vector Machines with Ruby and the [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
   <sup>[[dep: bundled](#bundled)]</sup>
 
 ### Evolutionary algorithms
@@ -345,7 +348,7 @@ on the code here.
   [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/)
 ```brew install gsl```
 - <a name="opencv"></a>
-  [OpenCV](http://opencv.org/)
+  [OpenCV](https://opencv.org/)
 ```brew tap homebrew/science && brew install opencv```
 - <a name="empty-lines-around-access-modifier"></a>
   [Graphviz](http://www.graphviz.org/)

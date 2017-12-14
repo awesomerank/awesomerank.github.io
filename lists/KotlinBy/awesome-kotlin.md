@@ -327,6 +327,7 @@ Here awesome badge for your project:
 * [AlmasB/FXGL ★451](https://github.com/AlmasB/FXGL) - JavaFX 8 Game Library written in Java + Kotlin
 * [icela/FriceEngine ★175](https://github.com/icela/FriceEngine) - Make game developing easy again!
 * [vassilibykov/AdventKT ★2](https://github.com/vassilibykov/AdventKT) - A Kotlin-based DSL for text adventures, with a partial replica of the classic Colossal Cave as an example.
+* [Hexworks/Zircon ★93](https://github.com/Hexworks/zircon) - An extensible text GUI library which targets multiple platforms and designed specifically for game developers, written in Kotlin.
 
 ### <a name="libraries-frameworks-misc"></a>Misc <sup>[Back ⇈](#libraries-frameworks-misc-subcategory)</sup>
 * [Kotlin/kotlinx.reflect.lite ★40 ⏳1Y](https://github.com/Kotlin/kotlinx.reflect.lite) - Lightweight library allowing to introspect basic stuff about Kotlin symbols.

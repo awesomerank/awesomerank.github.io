@@ -777,7 +777,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [trajan ★1 ⏳5Y](https://github.com/denisinla/trajan-zsh-theme) - A dark theme for ZSH.
 * [trinity](https://github.com/de-luca/Trinity) - A simple theme based on [geometry](https://github.com/frmendes/geometry).
 * [tvline ★2 ⏳2Y](https://github.com/thvitt/tvline) - Derived from [agnoster's theme](https://gist.github.com/agnoster/3712874), adds powerline font enhancements.
-* [ultimate ★6](https://github.com/b4b4r07/ultimate) - Minimalist theme with git indicator, vim mode indicator and shortened path.
+* [ultimate ★6 ⏳1Y](https://github.com/b4b4r07/ultimate) - Minimalist theme with git indicator, vim mode indicator and shortened path.
 * [vanan ★0](https://github.com/avano/vanan-zsh-theme) - Minimalist theme with git information for dark terminals.
 * [vinhnx ★7 ⏳4Y](https://github.com/vinhnx/vinhnx.zsh-theme) - Modified from themes/mgutz.zsh-theme.Looks great when using with Solarized color scheme.
 * [vira ★0 ⏳1Y](https://github.com/FernandoTorres/omz-vira) - An update of the bira theme that shows the vim bindkey -v status.
