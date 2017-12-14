@@ -225,7 +225,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [MapGraph](https://www.blazegraph.com/mapgraph-technology/) - Massively Parallel Graph processing on GPUs.
 * [Neo4j](https://neo4j.com/) - graph database writting entirely in Java.
 * [OrientDB](http://orientdb.com/) - document and graph database.
-* [Phoebus ★375 ⏳5Y](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
+* [Phoebus ★375 ⏳6Y](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
 * [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
 * [Twitter FlockDB ★3113](https://github.com/twitter-archive/flockdb) - distributed graph database.
 * [NodeXL](https://nodexl.codeplex.com/) - A free, open-source template for Microsoft® Excel® 2007, 2010, 2013 and 2016 that makes it easy to explore network graphs.

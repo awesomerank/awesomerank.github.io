@@ -696,7 +696,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [plugsnag ★44](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 * [raygun ★15](https://github.com/cobenian/raygun) - Capture bugs and send them to Raygun.
 * [react_phoenix ★193](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
-* [resin ★3 ⏳1Y](https://github.com/Frost/resin) - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
+* [resin ★3 ⏳2Y](https://github.com/Frost/resin) - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
 * [revision_plate_ex ★2](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 * [rummage_ecto](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
 * [rummage_phoenix](https://github.com/Excipients/rummage_phoenix) - A support framework for searching, sorting and paginating models in Phoenix, with HTML support.

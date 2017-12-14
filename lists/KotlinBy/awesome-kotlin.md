@@ -432,6 +432,7 @@ Here awesome badge for your project:
 * [lice-lang/lice ★57](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
 * [sureshg/InstallCerts ★2](https://github.com/sureshg/InstallCerts) - Create a PKCS12 TrustStore by retrieving server certificates.
 * [vicboma1/GameBoyEmulatorEnvironment ★8](https://github.com/vicboma1/GameBoyEmulatorEnvironment) - Front-End developed with Kotlin Experimental for my GameBoy Emulator (coroutines).
+* [kpspemu ★10](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin
 * [borisf/classyshark-bytecode-viewer ★144](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
 * [jenkinsci/doktor-plugin ★3](https://github.com/jenkinsci/doktor-plugin) - Jenkins plugin for automated documentation uploading to Confluence.
 * [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin ★11](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.

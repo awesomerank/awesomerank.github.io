@@ -50,7 +50,7 @@ You might also like [awesome-nodejs ★19878](https://github.com/sindresorhus/aw
 ### Web
 
 - [npms](https://npms.io) - Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about).
-    - [npm-introspect](http://npm-introspect.z3d.tech) - A npms-based utility for visually exploring the quality of package dependencies. 
+    - [npm-introspect](http://npm-introspect.z3d.tech) - A npms-based utility for visually exploring the quality of package dependencies.
 - [npmsearch](http://npmsearch.com) - Fast package search with ranking based on metrics like stars, dependents, release frequency, etc.
 - [node-modules](http://node-modules.com) - Personalized package search based on your GitHub social graph.
 - [NodeICO](https://nodei.co/) - Package badges.
@@ -138,8 +138,7 @@ You might also like [awesome-nodejs ★19878](https://github.com/sindresorhus/aw
 
 - [yarn ★28986](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 - [npm ★14726](https://github.com/npm/npm) - The official client.
-- [pnpm ★2969](https://github.com/pnpm/pnpm) - Fast, disk space efficient npm installs.
-- [ied ★1951](https://github.com/alexanderGugel/ied) - Faster npm.
+- [pnpm ★2969](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
 
 
 ## Tips

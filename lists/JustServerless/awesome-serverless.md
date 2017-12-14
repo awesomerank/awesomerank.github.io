@@ -918,6 +918,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [I just deployed a serverless app — and I can’t code](https://medium.freecodecamp.org/i-just-deployed-a-serverless-app-and-i-cant-code-here-s-how-i-did-it-94983d7b43bd) - Step-by-step walkthrough on how to deploy a lorem ipsum serverless application.
 - [Serverless statistics 2017](https://thenewstack.io/aws-lambda-still-towers-competition-much-longer/) - Post with the most recent statistics about the serverless computing trend.
 - [Automating CI / CD workflow for serverless apps with CircleCI](https://serverless.com/blog/ci-cd-workflow-serverless-apps-with-circleci/) - How to setup and use CI / CD with the Serverless Framework and CircleCI.
+- [Automated DynamoDB backups](https://serverless.com/blog/automatic-dynamodb-backups-serverless/) - How to automate DynamoDB backups with the Serverless Framework in less than 5 minutes.
 
 ## Screencasts
 
@@ -1195,7 +1196,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Lambda chaining ★29](https://github.com/pmuens/serverless-lambda-chaining) - Service which chains Lambdas through SNS.
 - [Secured API ★11 ⏳1Y](https://github.com/pmuens/serverless-secured-api) - Service which exposes an API key accessible API.
 - [Authorizer ★26 ⏳1Y](https://github.com/eahefnawy/serverless-authorizer) - Service that uses API Gateway custom authorizers.
-- [Thumbnails ★24](https://github.com/eahefnawy/serverless-thumbnails) - Service that takes an image url and returns a 100x100 thumbnail.
+- [Thumbnails ★24 ⏳1Y](https://github.com/eahefnawy/serverless-thumbnails) - Service that takes an image url and returns a 100x100 thumbnail.
 - [Boilerplate ★9 ⏳1Y](https://github.com/eahefnawy/serverless-boilerplate) - Opinionated boilerplate.
 - [Serverless Sharp Image ★73](https://github.com/adieuadieu/serverless-sharp-image) - function triggered by S3 events to resize images with the awesome Sharp library
 - [Serverles Artillery workshop ★50](https://github.com/Nordstrom/serverless-artillery-workshop) - Step by step workshop to create a load testing service which combines [Serverless](http://serverless.com) and [Artillery](http://artillery.io).
@@ -1374,6 +1375,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - ["Deploy with Serverless" ★40](https://github.com/RafalWilinski/deploy-with-serverless) - Infrastructure for processing Serverless projects and creating one-click deployments.
 - [Raffleapp ★6](https://github.com/serverless/raffleapp) - Simple raffle application with a backend serverless service.
 - [Architectures playground ★1](https://github.com/aletheia/sls-architectures-playground) - A palyground project showing different serverless architectures.
+- [DynamoDB backups ★5](https://github.com/alexdebrie/serverless-dynamodb-backups) - Automate your DynamoDB backups.
 
 ## Related projects
 
@@ -1531,7 +1533,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [CloudFormation Authorizer ★16](https://github.com/SC5/serverless-plugin-cfauthorizer) - Define your own API Gateway Authorizers as the Serverless CloudFormation resources and apply them to HTTP endpoints.
 - [Babel ★21](https://github.com/serverless/serverless-babel-plugin) - Plugin to compile your JavaScript code with Babel before deployment.
 - [External S3 event ★56](https://github.com/matt-filion/serverless-external-s3-event) - Overcomes the CloudFormation limitation on attaching an event to an uncontrolled bucket.
-- [Inspect](https://github.com/SEEK-Jobs/serverless-plugin-inspect) - Get AWS stack info in JSON.
+- [Inspect ★2](https://github.com/seek-oss/serverless-plugin-inspect) - Get AWS stack info in JSON.
 - [IBM OpenWhisk](https://github.com/serverless/serverless-ibm-openwhisk) - Adds IBM OpenWhisk support to the Serverless Framework.
 - [Google Cloud Functions ★125](https://github.com/serverless/serverless-google-cloudfunctions) - Adds Google Cloud Functions support to the Serverless Framework.
 - [Azure Functions ★84](https://github.com/serverless/serverless-azure-functions) - Add Azure Functions support to the Serverless Framework.

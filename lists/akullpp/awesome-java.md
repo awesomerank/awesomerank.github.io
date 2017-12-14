@@ -191,7 +191,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [centraldogma ★134](https://github.com/line/centraldogma) - Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
 * [cfg4j ★315](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps written in Java.
 * [config](https://github.com/typesafehub/config) - Configuration library for JVM languages.
-* [dotenv ★7](https://github.com/shyiko/dotenv) - A twelve-factor configuration library for Java.
+* [dotenv ★11](https://github.com/shyiko/dotenv) - A twelve-factor configuration library for Java.
 * [ini4j](http://ini4j.sourceforge.net/) - Provides an API for handling Windows' INI files.
 * [KAConf ★22](https://github.com/mariomac/kaconf) - Annotation-based configuration system for Java and Kotlin.
 * [owner ★558](https://github.com/lviggiano/owner) - Reduces boilerplate of properties.
@@ -913,7 +913,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Play](https://www.playframework.com/) - Built on Akka, it provides predictable and minimal resource consumption (CPU, memory, threads) for highly-scalable applications in Java and Scala.
 * [PrimeFaces](https://primefaces.org/) - JSF framework with both free and commercial/support versions and frontend components.
 * [Ratpack](https://ratpack.io/) - Set of libraries that facilitate fast, efficient, evolvable and well-tested HTTP applications.
-* [Takes ★349](https://github.com/yegor256/takes) - Opinionated web framework which is built around the concepts of True Object-Oriented Programming and immutability.
+* [Takes ★360](https://github.com/yegor256/takes) - Opinionated web framework which is built around the concepts of True Object-Oriented Programming and immutability.
 * [Vaadin](https://vaadin.com/home) - Event-driven framework built on top of GWT. Uses server-side architecture with Ajax on the client side.
 
 # Resources

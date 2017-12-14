@@ -476,7 +476,7 @@ Parallelism and Concurrency
 * [chanl ★99 ⏳1Y](https://github.com/zkat/chanl) - Portable, channel-based concurrency. [Expat][14], with parts under [3-clause BSD][15].
 * [cl-async ★162](https://github.com/orthecreedence/cl-async) - A library for general-purpose, non-blocking programming. [Expat][14].
 * [erlangen](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3][2]. See also the [Actors ★0](https://github.com/aarvid/Actors) package for LispWorks ([discussion](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT][200].
-* [lesque ★14 ⏳3Y](https://github.com/fukamachi/lesque) - A clone of Resque. Not available on Quicklisp. [Expat][14].
+* [lesque ★14 ⏳4Y](https://github.com/fukamachi/lesque) - A clone of Resque. Not available on Quicklisp. [Expat][14].
 * [lparallel ★125](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD][15].
 * [Xecto ★30 ⏳2Y](https://github.com/pkhuong/Xecto) - A library for regular array parallelism. [3-clause BSD][15].
 * [Moira ★13](https://github.com/TBRSS/moira) -  Monitor and restart background threads. In-lisp process supervisor. No license specified.

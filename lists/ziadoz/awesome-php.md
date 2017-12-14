@@ -598,7 +598,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries related to the command line.*
 
 * [Aura.Cli ★94](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
-* [Boris ★2155](https://github.com/borisrepl/boris) - A tiny PHP REPL.
+* [Boris ★2155 ⏳1Y](https://github.com/borisrepl/boris) - A tiny PHP REPL.
 * [Cilex ★604](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 * [CLI Menu ★776](https://github.com/php-school/cli-menu) - A library for building CLI menus.
 * [CLIFramework ★325](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
