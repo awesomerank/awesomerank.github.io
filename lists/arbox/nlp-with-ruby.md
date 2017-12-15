@@ -358,7 +358,7 @@ For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby]
   (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
 - [liblinear-ruby-swig ★81 ⏳5Y](https://github.com/tomz/liblinear-ruby-swig) -
   Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
-- [linnaeus ★28 ⏳1Y](https://github.com/djcp/linnaeus) -
+- [linnaeus ★28 ⏳2Y](https://github.com/djcp/linnaeus) -
   Redis-backed Bayesian classifier.
 - [maxent_string_classifier ★8 ⏳8Y](https://github.com/mccraigmccraig/maxent_string_classifier) -
   JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.

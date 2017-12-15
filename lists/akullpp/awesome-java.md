@@ -139,7 +139,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Error Prone ★3153](https://github.com/google/error-prone) - Catches common programming mistakes as compile-time errors.
 * [Infer ★7613](https://github.com/facebook/infer) - Modern static analysis tool for verifying the correctness of code.
 * [jQAssistant](https://jqassistant.org/) - Static code analysis with Neo4J-based query language.
-* [NullAway ★515](https://github.com/uber/NullAway) - Eliminates NullPointerExceptions with low build-time overhead.
+* [NullAway ★1328](https://github.com/uber/NullAway) - Eliminates NullPointerExceptions with low build-time overhead.
 * [PMD ★1281](https://github.com/pmd/pmd) - Source code analysis for finding bad coding practices.
 * [SonarJava ★253](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint.
 * [Sourcetrail ![c]](https://www.sourcetrail.com) - Visual source code navigator.

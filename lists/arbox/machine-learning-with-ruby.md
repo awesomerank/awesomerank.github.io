@@ -156,7 +156,7 @@ programming languages with appropriate bindings for Ruby.
   Simplest Genetic Algorithms implementation in Ruby.
 
 ### Bayesian methods
-- [linnaeus ★28 ⏳1Y](https://github.com/djcp/linnaeus) -
+- [linnaeus ★28 ⏳2Y](https://github.com/djcp/linnaeus) -
   Redis-backed Bayesian classifier.
 - [naive_bayes ★35 ⏳5Y](https://github.com/reddavis/Naive-Bayes) -
   Simple Naive Bayes classifier.
