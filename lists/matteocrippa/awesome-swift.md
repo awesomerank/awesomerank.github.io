@@ -368,7 +368,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Cely ★83](https://github.com/chaione/Cely) - A Plug-n-Play login framework.
 * [InstagramLogin ★18](https://github.com/AnderGoig/InstagramLogin) - Simple way to authenticate Instagram accounts.
 * [LoginKit ★422](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
-* [ReCaptcha ★38](https://github.com/fjcaetano/ReCaptcha) - [In]visible ReCaptcha for iOS.
+* [ReCaptcha ★46](https://github.com/fjcaetano/ReCaptcha) - [In]visible ReCaptcha for iOS.
 * [Simplicity ★636](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
 * [SpotifyLogin ★216](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
 * [Voucher ★491](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.

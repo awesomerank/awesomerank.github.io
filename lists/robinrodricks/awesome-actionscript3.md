@@ -161,7 +161,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [DataTree ★6](https://github.com/pol2095/Feathers-Extension-Tree) - Displays hierarchical data arranged as an expandable tree.
 * [Canvas ★6](https://github.com/pol2095/Feathers-Extension-Canvas) - Supports basic vector drawing functionality.
 * [CircleProgress ★5](https://github.com/pol2095/Feathers-Extension-CircleProgress) - Displays progress using a radial progressbar.
-* [ZoomableControl ★3](https://github.com/pol2095/Feathers-Extension-ZoomableControl) - Allows a pinch to zoom using the multitouch inputs.
+* [ZoomableControl ★3 ⏳1Y](https://github.com/pol2095/Feathers-Extension-ZoomableControl) - Allows a pinch to zoom using the multitouch inputs.
 * [Toaster ★2](https://github.com/pol2095/Feathers-Extension-Toaster) - Simple feedback about an operation in a small popup. .
 * [Google Maps ★61 ⏳1Y](https://github.com/ZwickTheGreat/feathers-maps) - Google Maps for Starling, optimized for mobile devices.
 

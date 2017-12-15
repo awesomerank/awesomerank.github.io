@@ -1104,7 +1104,7 @@ A collection of awesome things regarding React ecosystem.
 * [wow-realm-status-react - WoW Realm Status: React Edition ★2 ⏳3Y](https://github.com/BinaryMuse/wow-realm-status-react)
 * [react-json-editor - A generic JSON editor ★96](https://github.com/dustingetz/react-json-editor)
 * [react-todos - Backbone's example TODO app with React JS for views ★28](https://github.com/ssorallen/react-todos)
-* [github-issues-viewer - A gitub issues viewer build in react + backbone ★244 ⏳3Y](https://github.com/jaredly/github-issues-viewer)
+* [github-issues-viewer - A gitub issues viewer build in react + backbone ★244 ⏳4Y](https://github.com/jaredly/github-issues-viewer)
 * [wolfenstein3D-react - Wolfenstein with the rendering layer written in React ★42 ⏳1Y](https://github.com/petehunt/wolfenstein3D-react)
 * [Flux ImmutableJS TodoList ★45 ⏳1Y](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 * [Hapi+React+Flux user management system ★1190](https://github.com/jedireza/aqua)

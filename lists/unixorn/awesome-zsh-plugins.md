@@ -554,7 +554,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [tmux pane words](https://gist.github.com/blueyed/6856354) - Key bindings to complete words from your [tmux](https://github.com/tmux/tmux/wiki) pane.
 * [tugboat](https://github.com/DimitriSteyaert/Zsh-tugboat) - Adds autocompletion for [tugboat](https://github.com/pearkes/tugboat/) command
 * [umake ★0](https://github.com/zlsun/umake) - Tab completion for Ubuntu umake
-* [vert.x-omz-plugin ★0 ⏳1Y](https://github.com/davidafsilva/vert.x-omz-plugin) - Provides autocomplete features for the [vertx](http://vertx.io/) command.
+* [vert.x-omz-plugin ★0 ⏳2Y](https://github.com/davidafsilva/vert.x-omz-plugin) - Provides autocomplete features for the [vertx](http://vertx.io/) command.
 * [zsh-_url-httplink ★2 ⏳4Y](https://github.com/Valodim/zsh-_url-httplink) - Extends zsh's \_urls completion, allowing it to complete urls from html pages.
 * [zsh-better-npm-completion ★97](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for `npm`.
 * [zsh-cabal-completion ★0 ⏳2Y](https://github.com/ehamberg/zsh-cabal-completion) - Add tab completion for cabal.
@@ -750,6 +750,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [schminitz](https://gist.github.com/schminitz/9931af23bbb59e772eec) - Shows if Vim is running in the background when using `:sh` command.
 * [seeker ★44 ⏳1Y](https://github.com/tonyseek/oh-my-zsh-seeker-theme) - This theme uses many special unicode characters to be fancy, but it may cause some problems without well supported fonts.
 * [seltzer ★0](https://github.com/GrantSeltzer/seltzer.zsh-theme) - Inspired by dieter theme, uses color-coding to provide information.
+* [senpai ★1](https://github.com/hiroru/senpai-zsh) - Clean prompt theme for Devops. Includes git information, kubernetes context, AWS profile, GCP project and Azure active cloud.
 * [sepshell ★11](https://github.com/sepehr/sepshell) - Clean and minimal ZSH theme based on the old lost taybalt theme, with git bisecting/merging/rebasing modes and configurable prompt symbols.
 * [sfz ★0](https://github.com/mreinhardt/sfz-prompt.zsh) - An evolution of lean prompt which itself is a rewrite of pure.
 * [shellder ★142](https://github.com/simnalamburt/shellder) - Minimal theme with git branch display. Requires a powerline font.

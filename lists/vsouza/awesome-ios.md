@@ -603,7 +603,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Bluejay ★603](https://github.com/steamclock/bluejay) - A simple Swift framework for building reliable Bluetooth LE apps. :large_orange_diamond:
 * [BabyBluetooth ★3230](https://github.com/coolnameismy/BabyBluetooth) - The easiest way to use Bluetooth (BLE) in iOS/MacOS.
 * [ExtendaBLE ★71](https://github.com/AntonTheDev/ExtendaBLE) - Simple Blocks-Based BLE Client for iOS/tvOS/watchOS/OSX/Android. Quickly configuration for centrals/peripherals, perform packet based read/write operations, and callbacks for characteristic updates.
-* [PeerConnectivity ★25](https://github.com/rchatham/PeerConnectivity) - Functional wrapper for Apple's MultipeerConnectivity framework. :large_orange_diamond:
+* [PeerConnectivity ★30](https://github.com/rchatham/PeerConnectivity) - Functional wrapper for Apple's MultipeerConnectivity framework. :large_orange_diamond:
 
 #### Camera
 * [TGCameraViewController ★1405](https://github.com/tdginternet/TGCameraViewController) - Custom camera with AVFoundation. Beautiful, light and easy to integrate with iOS projects.
@@ -708,7 +708,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Layout ★1188](https://github.com/schibsted/layout) - A declarative UI framework for iOS :large_orange_diamond:
 * [CGLayout ★21](https://github.com/k-o-d-e-n/CGLayout) - Powerful autolayout framework based on constraints, that can manage UIView(NSView), CALayer and not rendered views. Not Apple Autolayout wrapper. 🔶
 * [YogaKit](https://github.com/facebook/yoga/tree/master/YogaKit) - Powerful layout engine which implements Flexbox. Developed and maintained by Facebook.
-* [FlightLayout ★14](https://github.com/AntonTheDev/FlightLayout) -  Balanced medium between manual layout and auto-layout. Great for calculating frames for complex animations.
+* [FlightLayout ★21](https://github.com/AntonTheDev/FlightLayout) -  Balanced medium between manual layout and auto-layout. Great for calculating frames for complex animations.
 * [QLayout ★1](https://github.com/josejuanqm/QLayout) - AutoLayout Utility for iOS. 🔶
 
 ## Localization
@@ -723,7 +723,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [lokalise](https://lokalise.co/en ) - Translation platform for software developers. Free for open source projects
 * [Strsync ★102](https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
 * [IBLocalizable ★398](https://github.com/PiXeL16/IBLocalizable) - Localize your views directly in Interface Builder with IBLocalizable :large_orange_diamond:
-* [nslocalizer ★122](https://github.com/samdmarshall/nslocalizer) - A tool for finding missing and unused NSLocalizedStrings
+* [nslocalizer ★122 ⏳1Y](https://github.com/samdmarshall/nslocalizer) - A tool for finding missing and unused NSLocalizedStrings
 * [L10n-swift ★25](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language. :large_orange_diamond:
 
 ## Logging
@@ -1339,7 +1339,7 @@ Most of these are paid services, some have free tiers.
 
 ## Security
 * [cocoapods-keys ★909](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
-* [simple-touch ★97](https://github.com/simple-machines/simple-touch) - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
+* [simple-touch ★97 ⏳1Y](https://github.com/simple-machines/simple-touch) - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
 * [SwiftPasscodeLock ★565](https://github.com/yankodimitrov/SwiftPasscodeLock) - An iOS passcode lock with TouchID authentication written in Swift. :large_orange_diamond:
 * [Smile-Lock ★471](https://github.com/recruit-lifestyle/Smile-Lock) - A library for make a beautiful Passcode Lock View.
 * [zxcvbn-ios ★148](https://github.com/dropbox/zxcvbn-ios) - A realistic password strength estimator.
@@ -1350,7 +1350,7 @@ Most of these are paid services, some have free tiers.
 * [SAPinViewController ★15](https://github.com/siavashalipour/SAPinViewController) - Simple and easy to use default iOS PIN screen. This simple library allows you to draw a fully customisable PIN screen same as the iOS default PIN view. My inspiration to create this library was form THPinViewController, however SAPinViewController is completely implemented in Swift. Also the main purpose of creating this library was to have simple, easy to use and fully customisable PIN screen. 🔶
 * [VoiceItAPI1IosSDK ★4](https://github.com/voiceittech/VoiceItAPI1IosSDK) - A super easy way to add Voice Authentication(Biometrics) to your iOS apps, conveniently usable via cocoapods :large_orange_diamond:
 * [TOPasscodeViewController ★223](https://github.com/timoliver/TOPasscodeViewController) - A modal passcode input and validation view controller for iOS
-* [BiometricAuthentication ★349](https://github.com/rushisangani/BiometricAuthentication) - Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication :large_orange_diamond:
+* [BiometricAuthentication ★381](https://github.com/rushisangani/BiometricAuthentication) - Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication :large_orange_diamond:
 
 #### Encryption
 * [AESCrypt-ObjC ★700 ⏳1Y](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
@@ -2454,7 +2454,7 @@ Most of these are paid services, some have free tiers.
 * [VR Toolkit iOS ★75 ⏳1Y](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS :large_orange_diamond:
 * [360 VR Player ★1702 ⏳1Y](https://github.com/hanton/HTY360Player) - A open source, ad-free, native and universal 360 degree panorama video player for iOS.
 * [simple360player ★131 ⏳1Y](https://github.com/Aralekk/simple360player_iOS) - Free & ad-free 360 VR Video Player. Flat or Stereoscopic. In Swift 2. :large_orange_diamond:
-* [Swifty360Player ★24](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer with Swift. :large_orange_diamond:
+* [Swifty360Player ★34](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer with Swift. :large_orange_diamond:
 
 ## Walkthrough / Intro / Tutorial
 * [Onboard ★5871](https://github.com/mamaral/Onboard) - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
@@ -2912,7 +2912,7 @@ Other amazingly awesome lists can be found in the
 * [Marketing for Engineers ★4159](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 * [Awesome-ARKit ★3434](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources.
 * [CocoaConferences ★744](https://github.com/Lascorbe/CocoaConferences) - List of cocoa conferences for iOS & macOS developers.
-* [example-ios-apps ★12](https://github.com/imjog/example-ios-apps) - A curated list of Open Source example iOS apps developed in Swift.
+* [example-ios-apps ★15](https://github.com/imjog/example-ios-apps) - A curated list of Open Source example iOS apps developed in Swift.
 
 # Contributing and License
  * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)

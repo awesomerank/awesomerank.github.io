@@ -94,7 +94,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [jubatus](http://jubat.us/en/) [C++] - distributed processing framework and streaming machine learning library.
 * [Apache Samoa](https://github.com/yahoo/samoa) [Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
 * [trident-ml ★374 ⏳2Y](https://github.com/pmerienne/trident-ml) [Java] - realtime online machine learning library based on Trident.
-* [StormCV ★112](https://github.com/sensorstorm/StormCV) [Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
+* [StormCV ★112 ⏳1Y](https://github.com/sensorstorm/StormCV) [Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
 * [DataSketches ★470](https://github.com/DataSketches/sketches-core) [Java] - sketches library from Yahoo!.
 * [StreamingBandit](https://github.com/MKaptein/streamingbandit) [Python] - Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (cMAB) problems.
 

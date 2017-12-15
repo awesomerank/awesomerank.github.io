@@ -874,6 +874,7 @@ Tooltips / popovers
  - [vue-jlunar-datepicker ★6](https://github.com/tuhe32/vue-jLunar-datePicker) - A Chinese lunar datepicker component with festivals and solar terms.
  - [vue-datepicker-local ★58](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
  - [vue-full-calendar ★116](https://github.com/CroudSupport/vue-fullcalendar) - A complete [fullcalendar.io](fullcalendar.io) wrapper for both Vue 1 and 2
+ - [v-calendar ★267](https://github.com/nathanreyes/v-calendar) - Animated calendar/datepicker that displays regions, indicators and day popovers for simple & recurring dates.
 
 ### Map
 
@@ -1024,7 +1025,7 @@ Tooltips / popovers
   - [stf-vue-select ★38](https://github.com/stfalcon-studio/stf-vue-select) - most flexible and customized select Vue2
  - [vue-select-image ★16](https://github.com/mazipan/vue-select-image) - Vue 2 Component for selecting image from list
  - [@riophae/vue-treeselect ★72](https://github.com/riophae/vue-treeselect) - A multi-select component with nested options for Vue.js
- - [@k186/pd-select ★32](https://github.com/k186/pd-select) - A mobile UI component like IOS picker for Vue 2.x,can be wheel pick what ever you defined.
+ - [@k186/pd-select ★38](https://github.com/k186/pd-select) - A mobile UI component like IOS picker for Vue 2.x,can be wheel pick what ever you defined.
 
 #### Slider
 
@@ -1495,8 +1496,8 @@ the amazing Vue.js.
  - [vue-pouch](https://github.com/qurateinc/vue-pouch) - Live and reactive bindings for PouchDB. Persist data in IndexedDB and sync with CouchDB.
  - [vue-idb ★18](https://github.com/ddgll/vue-idb) - Lists and huge lists management with IndexedDB (Dexie.js) only or automatically created and extendible vuex modules
  - [vuejs-storage ★23](https://github.com/maple3142/vuejs-storage) - Vue.js and vuex plugin to persistence data with localStorage/sessionStorage.
- - [vue-browserstore ★0](https://github.com/gvost/vue-browserstore) - Browser storage wrapper.
- - [VueStorage ★1](https://github.com/SeregPie/VueStorage) - Allows components to save and load their data across browser sessions.
+ - [vue-browserstore ★1](https://github.com/gvost/vue-browserstore) - Browser storage wrapper.
+ - [VueStorage ★28](https://github.com/SeregPie/VueStorage) - Allows components to save and load their data across browser sessions.
 - [vue-web-storage ★1](https://github.com/ankurk91/vue-web-storage) Another Vue.js plugin for localStorage and sessionStorage
 
 ### State Management
@@ -1697,7 +1698,8 @@ Payment utilities.
  - [vuejs-logger ★21](https://github.com/justinkames/vuejs-logger) - Provides customizable logging functionality for Vue.js.
  - [vue-bugsnag ★5](https://github.com/ankurk91/vue-bugsnag) - Vue.js plugin for [bugsnag](https://www.bugsnag.com/) v3.x error reporting
  - [bugsnag-vue ★3](https://github.com/bugsnag/bugsnag-vue) - Official Vue.js plugin for [bugsnag](https://www.bugsnag.com/) error reporting
- 
+ - [vue-inspector ★18](https://github.com/calirojas506/vue-inspector) - Vue.js Inspector for Mobile Devices
+
 ### Docs
 
 *Create documentation*

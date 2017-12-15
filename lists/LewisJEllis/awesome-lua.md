@@ -189,7 +189,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 ### Documentation
 - [LDoc](http://stevedonovan.github.io/ldoc/) - Documentation generator which modernizes and extends [LuaDoc](http://keplerproject.github.io/luadoc/).
 - [Locco](http://rgieseke.github.io/locco/) - Lua port of [Docco](http://ashkenas.com/docco/), the "quick-and-dirty, hundred-line-long, literate-programming-style documentation generator".
-- [docroc ★6 ⏳1Y](https://github.com/bjornbytes/docroc) - Parse comments into a Lua table to generate documentation.
+- [docroc ★6 ⏳2Y](https://github.com/bjornbytes/docroc) - Parse comments into a Lua table to generate documentation.
 
 
 ### Object-oriented Programming

@@ -478,7 +478,7 @@ Community Repos:
 
 AWS Repos:
 
-* [cloudwatch-logs-subscription-consumer :fire::fire: ★320](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis stream reader.
+* [cloudwatch-logs-subscription-consumer :fire::fire: ★320 ⏳1Y](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis stream reader.
 * [ecs-cloudwatch-logs ★53 ⏳2Y](https://github.com/awslabs/ecs-cloudwatch-logs) - Assets in the blog post on using Amazon ECS and Amazon CloudWatch logs.
 * [logstash-output-cloudwatchlogs ★28 ⏳1Y](https://github.com/awslabs/logstash-output-cloudwatchlogs) - A logstash plugin that sends logs to CloudWatch.
 * [opsworks-cloudwatch-logs-cookbooks ★7 ⏳2Y](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - OpsWorks sample cookbook.
@@ -529,7 +529,7 @@ AWS Repos:
 
 Community Repos:
 
-* [capeless/warrant ★97](https://github.com/capless/warrant) - Python library for using Cognito.
+* [capeless/warrant :fire: ★97](https://github.com/capless/warrant) - Python library for using Cognito.
 
 ### Data Pipeline
 

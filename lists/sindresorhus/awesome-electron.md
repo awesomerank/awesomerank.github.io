@@ -56,7 +56,7 @@ Made with Electron.
 - [SpaceRadar ★684](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
 - [Nocturn ★560](https://github.com/k0kubun/Nocturn) - Twitter client.
 - [Mojibar ★1762](https://github.com/muan/mojibar) - Emoji searcher in your menubar.
-- [Playback ★1677](https://github.com/mafintosh/playback) - Video player.
+- [Playback ★1677 ⏳1Y](https://github.com/mafintosh/playback) - Video player.
 - [Upterm ★17620](https://github.com/railsware/upterm) - Terminal.
 - [Atom ★41692](https://github.com/atom/atom) - Code editor.
 - [Visual Studio Code ★38398](https://github.com/Microsoft/vscode) - Cross-platform IDE.
@@ -236,7 +236,7 @@ Made with Electron.
 - [Activity Monitor](https://electronjs.org/blog/simple-samples#activity-monitor) - Shows a doughnut chart of the CPU system, user, and idle activity time.
 - [Hash](https://electronjs.org/blog/simple-samples#hash) - Shows the hash values of entered text using different algorithms.
 - [Prices](https://electronjs.org/blog/simple-samples#prices) - Shows the current price of oil, gold, and silver using the Yahoo Finance API.
-- [Touch Bar API ★5](https://github.com/Rawnly/touchbar-api-sample) - Example of macOS Touch Bar integration.
+- [Touch Bar API ★9](https://github.com/Rawnly/touchbar-api-sample) - Example of macOS Touch Bar integration.
 
 
 ## Boilerplates

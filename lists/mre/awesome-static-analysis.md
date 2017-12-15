@@ -166,7 +166,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [Findbugs ★399](https://github.com/findbugsproject/findbugs) - FindBugs is a program to find bugs in Java programs. It looks for patterns are likely to be errors.
 * [Hopper ★33 ⏳1Y](https://github.com/cuplv/hopper) - A static analysis tool written in scala for languages that run on JVM
 * [HuntBugs ★271](https://github.com/amaembo/huntbugs) - Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.
-* [NullAway ★515](https://github.com/uber/NullAway) - Type-based null-pointer checker with low build-time overhead; an [Error Prone](http://errorprone.info/) plugin
+* [NullAway ★1328](https://github.com/uber/NullAway) - Type-based null-pointer checker with low build-time overhead; an [Error Prone](http://errorprone.info/) plugin
 * [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check) - Checks dependencies for known, publicly disclosed, vulnerabilities.
 * [Spoon ★415](https://github.com/INRIA/spoon) - Library to write your own static analyses and architectural rule checkers for Java. Can be integrated in Maven and Gradle.
 * [SpotBugs](https://spotbugs.github.io/) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
@@ -236,7 +236,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [phpqa ★327](https://github.com/jmolivas/phpqa) - PHPQA all-in-one Analyzer CLI tool
 * [phpsa ★618](https://github.com/ovr/phpsa) - Static analysis tool for PHP.
 * [PHPStan ★2751](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
-* [Progpilot ★5](https://github.com/designsecurity/progpilot) - A static analysis tool for security purposes
+* [Progpilot ★7](https://github.com/designsecurity/progpilot) - A static analysis tool for security purposes
 * [Psalm ★478](https://github.com/vimeo/psalm) - Static analysis tool for finding errors in PHP applications
 * [RIPS ★151 ⏳1Y](https://github.com/ripsscanner/rips) - A static source code analyser for vulnerabilities in PHP scripts
 * [Tuli ★167 ⏳2Y](https://github.com/ircmaxell/Tuli) - A static analysis engine
