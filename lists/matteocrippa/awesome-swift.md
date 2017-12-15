@@ -277,7 +277,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Algorithm ★596](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models.
-* [swift-algorithm-club ★14946](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
+* [swift-algorithm-club ★15389](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
 * [SwiftLCS ★174](https://github.com/Frugghi/SwiftLCS) :penguin: - implementation of the longest common subsequence (LCS) algorithm.
 
 ### Analytics
@@ -298,7 +298,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [DSGradientProgressView ★247](https://github.com/DholStudio/DSGradientProgressView) - DSGradientProgressView is a simple and customizable animated progress bar.
 * [EasyAnimation ★2494](https://github.com/icanzilb/EasyAnimation) - A library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.
 * [FlightAnimator ★559](https://github.com/AntonTheDev/FlightAnimator) - Natural Blocks Based Core Animation Framework.
-* [Gemini ★2017](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
+* [Gemini ★2061](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
 * [IBAnimatable ★6799](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Interpolate ★1530](https://github.com/marmelroy/Interpolate) - Interpolation framework for creating interactive gesture-driven animations.
 * [JDAnimationKit ★547](https://github.com/JellyDevelopment/JDAnimationKit) - Animate easy and with less code.
@@ -358,7 +358,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [ARCharts ★566](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit
-* [ARKit-CoreLocation ★2966](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+* [ARKit-CoreLocation ★3099](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 * [ARKit-Navigation ★84](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 * [ARVoxelKit ★22](https://github.com/VoxxxelAR/ARVoxelKit) - Voxel graphic framework using ARKit
 
@@ -408,7 +408,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Interesting snippets related to color management and utility.* [back to top](#readme) 
 
 * [Chameleon ★10237](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, color framework for iOS.
-* [ChromaColorPicker ★82](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
+* [ChromaColorPicker ★90](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 * [Colorify ★72](https://github.com/czater/Colorify) - Colorify - simple, yet powerful color library.
 * [Colors ★25](https://github.com/icodeforlove/Colors) - Library for using ANSI codes.
 * [CSS3ColorsSwift ★52 ⏳1Y](https://github.com/WorldDownTown/CSS3ColorsSwift) - A UIColor extension with CSS3 Colors name.
@@ -442,7 +442,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Hydra ★1252](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code.
 * [Kommander ★100](https://github.com/intelygenz/Kommander-iOS) - Manage the task execution in different threads through Kommands.
 * [Overdrive ★816](https://github.com/arikis/Overdrive) - Fast async task based API with focus on type safety, concurrency and multi threading.
-* [Queuer ★679](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
+* [Queuer ★691](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 * [Safe ★403](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization.
 * [Threadly ★41](https://github.com/nvzqz/Threadly) :penguin: - Type-safe thread-local storage.
 * [Venice ★1326](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (CSP), Linux ready.
@@ -1161,14 +1161,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [AGCircularPicker ★416](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
 * [AmazingBubbles ★37](https://github.com/GlebRadchenko/AmazingBubbles) - Apple Music like Bubble Picker using Dynamic Animation (faster / more lightweight than SpriteKit).
 * [AMScrollingNavbar ★5034](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
-* [AZTransitions ★364](https://github.com/azimin/AZTransitions) - API to make great custom transitions in one method.
+* [AZTransitions ★366](https://github.com/azimin/AZTransitions) - API to make great custom transitions in one method.
 * [BreakOutToRefresh ★2174 ⏳1Y](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit.
 * [BulletinBoard ★2139](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 * [BusyNavigationBar ★871](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects.
 * [CostumeKit ★290](https://github.com/jakemarsh/CostumeKit) - Base types for theming an app.
 * [CustomSegue ★72](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
 * [DeckTransition ★1599](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
-* [Dodo ★774](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
+* [Dodo ★775](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
 * [DropDown ★980](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS.
 * [Element ★791](https://github.com/eonist/Element) - Programmatic UI framework for macOS.
 * [Elissa ★132](https://github.com/KitchenStories/Elissa) - Displays a notification on top of a UITabBarItem or any UIView anchor view to reveal additional information.
@@ -1243,7 +1243,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftyUI ★106](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
 * [SYBlinkAnimationKit ★101](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - A blink effect animation framework.
 * [TagListView ★1161](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
-* [Toaster ★873](https://github.com/devxoul/Toaster) - Notification toasts.
+* [Toaster ★899](https://github.com/devxoul/Toaster) - Notification toasts.
 * [TouchVisualizer ★561](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library with a single line of code.
 * [Twinkle ★442](https://github.com/piemonte/Twinkle) - Easy way to make elements in your iOS app twinkle.
 * [UIDropDown ★60](https://github.com/igongora/UIDropDown) - An elegant dropdown for iOS.
@@ -1262,25 +1262,25 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [AlertKit ★18 ⏳1Y](https://github.com/thii/AlertKit) - Alert with a single line of code.
 * [CDAlertView ★742](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup.
 * [CFNotify ★372](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable alert views.
-* [EZAlertController ★280](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.
+* [EZAlertController ★281](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.
 * [GoogleWearAlert ★444 ⏳1Y](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
-* [GSMessage ★262](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
-* [Hokusai ★378](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
+* [GSMessage ★268](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
+* [Hokusai ★383](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
 * [HYAlertController ★56](https://github.com/castial/HYAlertController) - A simple and minimalist iOS AlertController.
 * [Jelly ★1426](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 * [Kamagari ★75](https://github.com/tasanobu/Kamagari) - Simple UIAlertController builder class.
-* [KRAlertController ★34](https://github.com/krimpedance/KRAlertController) - A beautiful alert controller for your iOS.
+* [KRAlertController ★35](https://github.com/krimpedance/KRAlertController) - A beautiful alert controller for your iOS.
 * [MaterialActionSheetController ★84 ⏳1Y](https://github.com/ntnhon/MaterialActionSheetController) - A Google like action sheet, easy to use and customizable.
 * [Notie ★79](https://github.com/thii/Notie) - In-app notification, with customizable buttons and input text field.
 * [NotificationBanner ★1467](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
-* [PMAlertController ★1674](https://github.com/Codeido/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
-* [SCLAlertView ★4084](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
-* [SweetAlert ★1769](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
+* [PMAlertController ★1697](https://github.com/Codeido/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
+* [SCLAlertView ★4127](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
+* [SweetAlert ★1779](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [Swift-Prompts ★714](https://github.com/GabrielAlva/Swift-Prompts) - Design custom prompts with a great scope of options to choose from.
 * [SwiftMessages ★2639](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS.
-* [SwiftOverlays ★491](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
-* [SwiftyDrop ★554](https://github.com/morizotter/SwiftyDrop) - Lightweight dropdown message bar.
-* [Whisper ★3134](https://github.com/hyperoslo/Whisper) - Messages and in-app notification made easy.
+* [SwiftOverlays ★499](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
+* [SwiftyDrop ★564](https://github.com/morizotter/SwiftyDrop) - Lightweight dropdown message bar.
+* [Whisper ★3189](https://github.com/hyperoslo/Whisper) - Messages and in-app notification made easy.
 * [XLActionController ★2240](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller.
 
 #### ApplicationDelegate
@@ -1456,14 +1456,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [BubbleTransition ★2588](https://github.com/andreamazz/BubbleTransition) - Bubble transition in an easy way.
 * [Cards XI ★2014](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
 * [ElasticTransition ★1803](https://github.com/lkzhao/ElasticTransition) - An interactive transition that simulates an elastic drag.
-* [Hero ★11251](https://github.com/lkzhao/Hero) - Elegant transition library for iOS.
+* [Hero ★11589](https://github.com/lkzhao/Hero) - Elegant transition library for iOS.
 * [ImageOpenTransition ★791](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images.
 * [MusicPlayerTransition ★443](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App.
 * [PinterestSwift ★1587](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
 * [RevealingSplashView ★789](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
 * [SendIndicator ★33](https://github.com/LeonardoCardoso/SendIndicator) - Yet another task indicator.
 * [StarWars.iOS ★3017](https://github.com/Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces.
-* [Transition ★1781](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions.
+* [Transition ★1817](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions.
 * [TransitionManager ★198](https://github.com/cemolcay/TransitionManager) - Painless custom transitioning. Easy extend, easy setup, just focus on animations.
 
 #### UICollectionView
@@ -1532,7 +1532,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [EZSwiftExtensions ★2275](https://github.com/goktugyil/EZSwiftExtensions) - How standard types and classes were supposed to work.
 * [FluxCapacitor ★93](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
 * [Focus ★144](https://github.com/typelift/Focus) - Optics library (includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
-* [Highlighter ★643](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
+* [Highlighter ★653](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 * [Hookah ★56 ⏳1Y](https://github.com/HookahSwift/Hookah) - Functional library.
 * [LifetimeTracker ★1407](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle / memory issues right as you develop your application.
 * [ObjectiveKit ★698](https://github.com/marmelroy/ObjectiveKit) - API for Objective C runtime functions.

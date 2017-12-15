@@ -1499,7 +1499,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Firecamp ★58](https://github.com/cloudstax/firecamp) - Serverless platform for the stateful services.
 - [Cloudstax](https://www.cloudstax.io) - Serverless and Open Source services.
 - [Kuhiro](http://kuhiro.com) - Edge Compute Network.
-- [Flogo](http://www.flogo.io) - Ultralight edge microservices framework ([GitHub project ★302](https://github.com/TIBCOSoftware/flogo)).
+- [Flogo](http://www.flogo.io) - Ultralight edge microservices framework ([GitHub project ★326](https://github.com/TIBCOSoftware/flogo)).
 - [Add custom resource ★6](https://github.com/dougmoscrop/add-custom-resource) - Library which is meant to be used in a Serverless plugin when a custom resource is needed.
 - [Reactive Interaction Gateway ★31](https://github.com/Accenture/reactive-interaction-gateway) - Scalable, Open Source gateway to your microservices.
 - [Serverless application lens](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf) - AWS well-architected framework for serverless applications.
