@@ -7,7 +7,7 @@ title: Awesome Rank for shuaibiyy/awesome-terraform
 	This list is a copy of <a href="https://github.com/shuaibiyy/awesome-terraform">shuaibiyy/awesome-terraform</a> with ranks
 </p>
 ---
-# Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 > A curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
 [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
@@ -65,7 +65,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 For more Community Modules not listed here please see the [Terraform Module Registry](https://registry.terraform.io/).
 
-* [segmentio/stack ★1412](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS.
+* [segmentio/stack ★1447](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS.
 * [terraform-ecs-jenkins ★54](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
 * [tf_aws_bastion_s3_keys ★68](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2.
 * [terraform-static-website-s3-cloudfront ★29 ⏳1Y](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables.
@@ -93,6 +93,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terragrunt ★947](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
 * [tfenv ★199](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv.
 * [terraform-landscape ★131](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand.
+* [Blast Radius ★29](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs.
 
 
 ## Talks
@@ -115,6 +116,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [Vim-Terraform ★184](https://github.com/hashivim/vim-terraform)
 * [Vim-Terraform-Completion ★54](https://github.com/juliosueiras/vim-terraform-completion)
 * [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
+* [Emacs terraform-mode ★59](https://github.com/syohex/emacs-terraform-mode)
 
 ## License
 

@@ -7,9 +7,9 @@ title: Awesome Rank for ibaaj/awesome-OpenSourcePhotography
 	This list is a copy of <a href="https://github.com/ibaaj/awesome-OpenSourcePhotography">ibaaj/awesome-OpenSourcePhotography</a> with ranks
 </p>
 ---
-#Awesome-OpenSourcePhotography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+#Awesome-OpenSourcePhotography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome ★69735](https://github.com/sindresorhus/awesome).
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome ★73813](https://github.com/sindresorhus/awesome).
 
 
 - [General](#general)

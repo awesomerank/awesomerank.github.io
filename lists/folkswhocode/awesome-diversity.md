@@ -7,7 +7,7 @@ title: Awesome Rank for folkswhocode/awesome-diversity
 	This list is a copy of <a href="https://github.com/folkswhocode/awesome-diversity">folkswhocode/awesome-diversity</a> with ranks
 </p>
 ---
-# Awesome Diversity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Diversity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 :sparkles: A curated list of amazingly awesome articles, websites and resources about diversity in technology. :sparkles:
 
@@ -76,7 +76,7 @@ The following is a list of conferences that make a special effort to be inclusiv
 The following are collections of various types of resources (talks, documents, blog posts etc) for being an ally in any diversity efforts.
 
 - [Better Male Allies](https://code.likeagirl.io/@betterallies) - By Code Like a Girl.
-- [Resources For Allies ★242](https://github.com/larahogan/ally-resources) - By Lara Hogan.
+- [Resources For Allies ★246](https://github.com/larahogan/ally-resources) - By Lara Hogan.
 
 ## Actionable Resources
 
@@ -88,7 +88,7 @@ The following is a list of individual resources with actionable items for being 
 - [Gender Decoder for Job Ads](http://gender-decoder.katmatfield.com/) - By Kat Matfield.
 - [How to build inclusive culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
 - [On Improving Diversity in Hiring](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/) - By Cate Huston.
-- [So, you just learned there are issues with the tech industry. Now what? ★50](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery.
+- [So, you just learned there are issues with the tech industry. Now what? ★60](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery.
 - [Top 10 everyday actions any hiring manager can do to diversify their candidate pipeline](https://code.likeagirl.io/are-you-even-trying-69e270ef283f) - By Code Like a Girl.
 - [Tracking compensation and promotion inequity](http://larahogan.me/blog/inclusion-math/) - By Lara Hogan.
 - [What Does Sponsorship Look Like?](http://larahogan.me/blog/what-sponsorship-looks-like/) - By Lara Hogan.

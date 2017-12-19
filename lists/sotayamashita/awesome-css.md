@@ -73,9 +73,9 @@ The CSS Working Group defines CSS specifications which move through the their pr
 * [Gonzales PE ★211](https://github.com/tonyganch/gonzales-pe) - CSS parser with support of preprocessors.
 * [mensch ★86](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
 * [ParserLib ★260](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
-* [PostCSS ★16540](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
+* [PostCSS ★16855](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
 * [Rework ★2750](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
-* [Stylecow ★119](https://github.com/stylecow/stylecow) - Modern CSS to all browsers.
+* [Stylecow ★122](https://github.com/stylecow/stylecow) - Modern CSS to all browsers.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -84,7 +84,7 @@ The CSS Working Group defines CSS specifications which move through the their pr
 *Build CSS faster*
 
 * [LESS ★15269](https://github.com/less/less.js) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax.
-* [PostCSS ★16540](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
+* [PostCSS ★16855](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
 * [Sass ★10800](https://github.com/sass/sass) - Mature, stable, and powerful professional grade CSS extension language.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 
@@ -243,7 +243,7 @@ Here is a [CSS in JS techniques comparison ★2884](https://github.com/MicheleBe
 
 ## CSS Polyfills
 
-* [polyfill.js ★269](https://github.com/philipwalton/polyfill) - A library to make creating CSS polyfills much easier.
+* [polyfill.js ★269 ⏳1Y](https://github.com/philipwalton/polyfill) - A library to make creating CSS polyfills much easier.
 * [prefixfree ★3603](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell.
 * [fixed-sticky ★1383](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
 * [selectivizr ★1754](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
@@ -381,7 +381,7 @@ Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Con
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Awesome CSS  maintainers ★1265](https://github.com/sotayamashita/awesome-css) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Awesome CSS  maintainers ★1319](https://github.com/sotayamashita/awesome-css) has waived all copyright and related or neighboring rights to this work.
 
 # }
 ---

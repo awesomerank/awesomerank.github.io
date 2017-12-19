@@ -7,7 +7,7 @@ title: Awesome Rank for woop/awesome-quantified-self
 	This list is a copy of <a href="https://github.com/woop/awesome-quantified-self">woop/awesome-quantified-self</a> with ranks
 </p>
 ---
-# Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 
 # [<img src="https://cdn.rawgit.com/willempienaar/awesome-quantified-self/master/awesome-quantified-self.png">](https://github.com/willempienaar/awesome-quantified-self)
@@ -163,7 +163,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 - [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 - [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-- [Ledger ★2174](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+- [Ledger ★2216](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 - [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 
 ## Devices and Wearables

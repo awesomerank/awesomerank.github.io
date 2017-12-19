@@ -8,10 +8,10 @@ title: Awesome Rank for veelenga/awesome-crystal
 </p>
 ---
 # Awesome Crystal
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/veelenga/awesome-crystal.svg)](https://travis-ci.org/veelenga/awesome-crystal)
 
-A curated list of awesome Crystal code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness).
+A curated list of awesome Crystal code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness).
 The goal is to have projects mostly stable and useful for the community.
 
 Search [Crystal Shards](https://crystalshards.xyz) or follow announcements [Crystal [ANN]](https://crystal-ann.com) for more.
@@ -345,7 +345,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [clear ★11](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
  * [core ★23](https://github.com/vladfaust/core.cr) - Pure, transparent and efficient ORM
  * [crecto ★165](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
- * [granite-orm ★67](https://github.com/amberframework/granite-orm) - ORM for Postgres, Mysql, Sqlite
+ * [granite-orm ★74](https://github.com/amberframework/granite-orm) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr ★96](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal ★43](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [record](https://github.com/luckyframework/record) - Type safe querying, saving and updating
@@ -450,11 +450,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rcpu ★30 ⏳1Y](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Web Frameworks
- * [amber ★446](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
+ * [amber ★562](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
  * [kemal ★1945](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lattice-core ★43](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
  * [lucky ★448](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
- * [raze ★55](https://github.com/samueleaton/raze) - Modular, light web framework
+ * [raze ★62](https://github.com/samueleaton/raze) - Modular, light web framework
 
 ## Web Servers
  * [fast-http-server ★117](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server

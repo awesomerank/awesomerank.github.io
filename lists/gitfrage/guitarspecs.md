@@ -8,36 +8,36 @@ title: Awesome Rank for gitfrage/guitarspecs
 </p>
 ---
 
-## Electric Guitar Specifications [guitarspecs.info](https://www.guitarspecs.info)
-
+# Electric Guitar Specifications
 
 This is a "top-down checklist" for the assembly of a solid-body electric guitar.
 It can help you to build a guitar with specific sound and playability characteristics.
 
+![Electric Guitar Specifications](./images/Sound-and-Playability.jpg)
+
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Please read [licence and the contribution guidelines](#licence-and-the-contribution-guidelines) before contributing.
+Please read [licence and the contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) before contributing.
 
-#### Table of Contents
+## Table of Contents
 
 - [Sound and Playability Influencing Factors](#sound-and-playability-influencing-factors)
 
 - [Guitar Necks](#guitar-necks)
-  - [Neck Nut Width](#neck-nut-width)
-  - [Nut Slot Spacing](#nut-slot-spacing)
+  - [Neck Profile](#neck-profile)
+  - [Neck Nut Width and Nut Slot Spacing](#neck-nut-width-and-nut-slot-spacing)
   - [Neck Heel Width and Mounting](#neck-heel-width-and-mounting)
   - [Fretboard’s Radius](#fretboards-radius)
-  - [Neck Back Contours](#neck-back-contours)
   - [Fret Sizes](#fret-sizes)
-  - [Some Neck Shapes](#some-neck-shapes)
+  - [Common Neck Head Shapes](#common-neck-head-shapes)
   - [Tuner Holes](#tuner-holes)
 
 - [Guitar Bodies](#guitar-bodies)
-	- [Pickup Routing](#pickup-routing)
     - [Bridge Routing](#bridge-routing)
         - [Flat Mount Hardtail Routing](#flat-mount-hardtail-routing)
         - [Tremolo Routing](#tremolo-routing)
         - [Tune-O-Matic Gibson Style Routing](#tune-o-matic-gibson-style-routing)
+    - [Pickup Routing](#pickup-routing)
 
 - [Hardware](#hardware)
   - [Tuning Machines](#tuning-machines)
@@ -58,8 +58,6 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
 
 - [Woods](#woods)
 
-- [Licence and the contribution guidelines](#licence-and-the-contribution-guidelines)
-
 ---------------
 
 ## Sound and Playability Influencing Factors
@@ -67,17 +65,15 @@ Please read [licence and the contribution guidelines](#licence-and-the-contribut
 
 Component   | Sound* | Playability*
 ------------|---------------------|---------------
-Neck - [Form](#neck-back-contours) | + | ++++
-Neck - [Nut Slot Spacing](#nut-slot-spacing) | - | +++
+Neck - [Neck Profile](#neck-profile) | + | ++++
+Neck - [Neck Nut Width and Nut Slot Spacing](#neck-nut-width-and-nut-slot-spacing) | - | +++
 Body - [Form](#guitar-bodies) | + | ++++
-Body - [Bridge](#bridges) Form | + | +++
-Body - [Bridge](#bridges) Material| + | -
+Body - [Bridge](#bridges) Form and Material | + | ++
 Electronics - [Pickup Properties](#pickup-properties) | ++++ | -
 Electronics - [Wiring Options](#electronics-wiring-options) | +++ | -
-Electronics - [Pot and Cap Values](#potentiometer-and-capacitor-values) | +++ | -
 [Strings](#strings) | ++ | ++
 [Scale Length](#scale-length) | + | +
-[Woods](#woods) (Neck & Body) | + | + |
+[Woods](#woods) (Body, neck and fretboard) | + | + |
 
 *influence ( "-" stands for little,  "++++"  stands for very strong)
 
@@ -99,9 +95,9 @@ Neck thickness, neck width, neck contour and fret wire size affect playability a
 >  [usacustomguitars.com/necks](http://www.usacustomguitars.com/necks) -  many neck shape and thickness combinations    
 >  [musikraft.com](https://musikraft.com/cmspage.php?page_id=18) - additional information for understanding of neck features.   
 
-### Neck Nut Width
+### Neck Profile
 
-The contours (C, U, V, asymmetrical) and the thickness (.0750"- 1") give many possible combinations for a neck profile.
+Neck Profile is the combination of contour (C, U, V , asymmetrc) and thickness (.0750" - 1")
 
 Contour     | Thickness   | Warmoth*      | Fender*                   | Gibson*      
 ------------|-------------|---------------|---------------------------|--------------
@@ -117,7 +113,7 @@ asymmetrisch| medium      | Wolfgang      | Modern C                  |
 >  [*gibson forum](http://forum.gibson.com/index.php?/topic/74036-gibson-neck-profiles) - Gibson Neck Profiles    
 
 
-### Nut Slot Spacing
+### Neck Nut Width and Nut Slot Spacing
 
 The real  e1 to E6 string space can be controlled not only through nut width, but also by slot spacing in the nut.  For example, 44.5 mm wide nut can have e1 to E6 distance between 35 and 37.5 mm.
 
@@ -160,23 +156,6 @@ Smaller radius means a more rounded shape.
 
 > [youtube.com](https://www.youtube.com/watch?v=-yiBbIzGjW8) - understring radius gauges - video demonstration of three different gauges used for guitar setup and fretwork: standard, notched and understring.
 
-
-###  Neck Back Contours
-
-Neck Profile is the combination of contour (C,  U, V , asymmetrc) and thickness (.0750" - 1")
-
-Profiles*    | Thickness | Contours
--------------|--------   | ------------
-Wizard		 | thinn	 | C
-Standard	 | medium	 | C
-Clapton		 | medium  	 | V
-Wolfgang	 | medium	 | asymmetrical
-Boatneck	 | thick	 | V
-Fatback		 | thick  	 | U/C
-
-*see  "warmoth" link above as source of these profile names.
-
-
 ### Fret Sizes
 
 Title        | Width   | Height    | Example
@@ -190,7 +169,7 @@ High Jum­bo	 | wide	   | very high | many Ibanez
 
 > [lutherie.net](http://www.lutherie.net/fret.chart.html) - provides an excellent manufacturer/sizes overview.
 
-### Some Neck Shapes
+### Common Neck Head Shapes
 
  - 6L  - Fender Style - left in line
  - 6R - for left-handed
@@ -203,9 +182,8 @@ High Jum­bo	 | wide	   | very high | many Ibanez
  - approx. 10mm (25/64" = 9,9mm)  - "Sperzel Style",
  - approx. 10mm  (13/32" = 10,3mm) - "Planet Waves Style"
  - approx. 10mm on top and 8,7mm bottom -  "Schaller/Grover/Gotoh Slyle"
-
-> [rockinger.com](http://www.rockinger.com/index.php?cat=WG181&product=09211-09213-09214) - the small holes can be enlarged with a sunk.    
-> [musik-produktiv.de](http://www.musik-produktiv.de/goeldo-adapter-huelsen-fuer-mechaniken.html) -  adapter bushing used for retrofit to big holes.
+ 
+Small holes can be enlarged with a sunk. Big holes can be retrofited by adapter bushings.
 
 ----------
 
@@ -215,27 +193,6 @@ High Jum­bo	 | wide	   | very high | many Ibanez
 The sound of electric guitar depends mainly on the vibration behavior of the string itself and the reproduction characteristics of the pickup. The vibration behavior of the string depends (very little) on wood. The body itself is very thick compared to the neck, that is why the body wood type and form have very limited influence on the sound of electric guitar.
 
 > [music.stackexchange.com](http://music.stackexchange.com/questions/14019/how-much-does-an-electric-guitars-body-physics-affect-the-tone-playability-et) - how much does electric guitar's body physics affect the tone and playability.
-
-### Pickup Routing
-
-Description  | Av. length/width/depth*
---------------|-------------------------------------|------
-Single Coils Strat     	  | mm (")
-Humbucker 		  	  	 | mm (")
-Wide Humbucker** 		 | mm (")
-Mini Humbucker 		   | mm (")
-Tele Neck  		      | mm (")
-Tele Bridge  		  	 | mm (")
-P90  		          	 | mm (")
-Lipstick Tube  		   | mm (")
-Jazzmaster              | mm (")
-
-*Exact specifications can be found on the manufacturer's website.
-
-**Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker" can be used for guitars with larger sting distance with standard "Humbucker Routing"
-
-> Seymourduncan.com says:
-> "A quick and easy way to tell which you need is to measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Trembucker. If it’s less than two inches or 50mm, go for a humbucker."
 
 
 ### Bridge Routing
@@ -297,6 +254,29 @@ Moreover, there are other rare variants:
 
 > [callahamguitar.com](http://www.callahamguitars.com/blocks.htm) - Good overview of the Fender tremolos
 
+
+### Pickup Routing
+
+Description  | Av. length/width/depth*
+--------------|------------------------------------
+Single Coils Strat     	  | mm (")
+Humbucker 		  	  	 | mm (")
+Wide Humbucker** 		 | mm (")
+Mini Humbucker 		   | mm (")
+Tele Neck  		      | mm (")
+Tele Bridge  		  	 | mm (")
+P90  		          	 | mm (")
+Lipstick Tube  		   | mm (")
+Jazzmaster              | mm (")
+
+*Exact specifications can be found on the manufacturer's website.
+
+**Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker" can be used for guitars with larger sting distance with standard "Humbucker Routing"
+
+> Seymourduncan.com says:
+> "A quick and easy way to tell which you need is to measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Trembucker. If it’s less than two inches or 50mm, go for a humbucker."
+
+
 ----------
 
 ## Hardware
@@ -312,8 +292,6 @@ Tuning Machines Options:
    Larger ratio (1:18 > 1:14) allows finer adjustments.
  - Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside
 
-> [Schaller](http://guitar-parts.biz/hp290537/Machine-Heads.htm)  - useful information and technical drawing of guitar machine heads
-
 ### Bridges
 ![bridge](./images/clip11_bridge.jpg)
 
@@ -322,8 +300,7 @@ Guitar bridge has large **influence on playability** (mainly through string spac
 Bridge form and material have also some **influence on sound**.
 Good manufacturers provide detailed product information on their pages:
 
->  [ABM](http://www.abm-guitarpartsshop.com/From-a-Block-to-a-Bridge:_:206.html) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.     
-> [Schaller](http://guitar-bridge.com/hp12603/Guitar.htm) - All available Schaller guitar bridges, tailpieces, finetuning tailpieces and bridge-tailpiece combinations. (Plus Technical drawings).    
+>  [ABM](https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.     
 >  [TonePros](http://www.tonepros.com/bridge-and-tailpiece-sets/)  - bridge and tailpiece sets.     
 
 ### Knob Styles
@@ -395,9 +372,6 @@ Following topics change resonant frequency and resonant peak:
 
 ![electronics wiring options](./images/clip14_switch.jpg)
 
-> [open.guitars](https://open.guitars/e-gitarren-selbstbau/elektronik/gitarrenelektronik-tonabnehmer-spulenschaltung/) - Hambucker Con­ductor/Coils switching options (german).
-
-
 Effect | Pot | Push/Pull or Mini <br> DPDT(ON/OFF/ON)* | Mini <br>DPDP(ON/ON) | Mini <br> DPDP(ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
 ------------------------- |------|------|-----|-----|-----|----
 volume                    |  y   | -/y¹ |  -  |  -  | -   | -
@@ -420,6 +394,8 @@ pickup switch             |  -   |  y   |  y  |  y  | y   | y
 '²' can be done by 4 Push/Pull pots, 4 Mini-switch (as SD "triple shot") or by 5-Way blade megaswitch
 
 '³' c-switch/varitone - Rotary switch for different pots
+
+> [open.guitars (german)](https://open.guitars/e-gitarren-selbstbau/elektronik/gitarrenelektronik-tonabnehmer-spulenschaltung/) - Hambucker Con­ductor/Coils switching options.
 
 
 ### Electronics Wiring Schemas
@@ -476,6 +452,7 @@ Active Electronics tries to reduce dependancy from the shielded cable and amp in
 
 
 ## Strings
+![strings](./images/strings.jpg)
 
 Depending on following options your sound will be more bright or more mellow:
 
@@ -502,18 +479,9 @@ There are also other hybrid sets available - like "Light Top/Heavy Bottom" and "
 
 
 ## Scale Length
+![scale-length](./images/scale-length-648-vs-628-mm-neck-web.jpg)
 
 A guitar's scale length is length of string between the nut and the bridge.
-
- - 572 mm (22.5") or shorter - 3/4 & some travel guitars
- - 596,9 mm (23.50") - Fender Jazzmaster/Jaguar guitars
- - 629 mm (24.75") - many Gibson guitars
- - 635 mm (25") - many PRS guitars
- - 648 mm (25.5") - many Fender guitars
- - 650 mm (25.5)	- typical classical guitars
- - 686 mm (27") or longer - Baritone guitars
-
-![scale-length](./images/scale-length-648-vs-628-mm-neck-web.jpg)
 
 Scale has a relatively low impact on sound and playability of the guitar. (Compared with other parameters such as strings or pickups).
 
@@ -526,8 +494,20 @@ Scale has a relatively low impact on sound and playability of the guitar. (Compa
 Shorter scale length sound characteristics:
  - warmer
  - more sustain and longer decay
+ 
+Common Scale Length:
+ 
+ - 572 mm (22.5") or shorter - 3/4 & some travel guitars
+ - 596,9 mm (23.50") - Fender Jazzmaster/Jaguar guitars
+ - 629 mm (24.75") - many Gibson guitars
+ - 635 mm (25") - many PRS guitars
+ - 648 mm (25.5") - many Fender guitars
+ - 650 mm (25.5)	- typical classical guitars
+ - 686 mm (27") or longer - Baritone guitars
+
 
 ## Woods
+![strings](./images/esche.png)
 
 Woods       | Sound¹    | Weight²| Used for³| Looks
 ------------|---------- |--------|----------|-------------------
@@ -552,21 +532,6 @@ Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
 ³ Used for: T - Body Top | B - Body | N - neck | F - fretboards
 
 > [frudua.com](http://www.frudua.com/sound_of_electric_guitar_wood.htm)  - see on page bottom - graphical examples for body, neck and freatboard woods showing relationship between wood hardness, its density and tone.
-
-
-----------
-
-## Licence and the contribution guidelines
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Electric Guitar Specifications</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/gitfrage/guitarspecs" property="cc:attributionName" rel="cc:attributionURL">gitfrage</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/gitfrage/guitarspecs" rel="dct:source">https://github.com/gitfrage/guitarspecs</a>.
-
-You can make pull request wich should have a useful title and explanation why it should be included.
-
-Fender®, Strat®, Tele®, Jazzmaster® are registered trademarks of Fender Musical Instruments Corporation.  Gibson® is a trademark of Gibson Guitar Corp. Ibanez® is a registered trademark of Ibanez Guitars.
-
-Cliparts by : <a href="http://de.123rf.com/profile_tele52">tele52/123RF</a>
-
-CSS: https://github.com/sindresorhus/github-markdown-css
 
 
 ---

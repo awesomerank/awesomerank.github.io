@@ -48,34 +48,34 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 
 Code meant become part of the extension.
 
-- [webext-options-sync ★14](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
+- [webext-options-sync ★15](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
 - [webext-inject-on-install ★1](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox.
-- [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux ★35718](https://github.com/reactjs/redux) for managing the state of your WebExtension
+- [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux ★36568](https://github.com/reactjs/redux) for managing the state of your WebExtension
 - [mozilla/webextension-polyfill ★210](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
 
 ## Tools
 
 Apps that help you manage your extensions.
 
-- [Chrome Webstore Upload ★50](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
-- [mozilla/web-ext ★278](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
+- [Chrome Webstore Upload ★64](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
+- [mozilla/web-ext ★316](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
 - [chromepet ★12 ⏳3Y](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
-- [chrome-ext-downloader ★16 ⏳2Y](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
+- [chrome-ext-downloader ★17 ⏳2Y](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 - [unzip-crx ★9 ⏳1Y](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files.
-- [chrome-store-api ★9 ⏳1Y](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
+- [chrome-store-api ★10 ⏳1Y](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 - [Chrome extension source viewer ★210](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
 
 ## Testing
 
-- [sinon-chrome ★209](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
+- [sinon-chrome ★217](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
 - [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines.
 
 ## Boilerplates
 
 - [create-webextension ★5](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
-- [generator-chrome-extension-kickstart ★155](https://github.com/handtrix/generator-chrome-extension-kickstart) - Flexible Boilerplate based on gulp, webpack & babel.
-- [react-chrome-extension-boilerplate ★806](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
+- [generator-chrome-extension-kickstart ★175](https://github.com/handtrix/generator-chrome-extension-kickstart) - Flexible Boilerplate based on gulp, webpack & babel.
+- [react-chrome-extension-boilerplate ★855](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
 
 ## Sample Extensions
 
@@ -83,7 +83,7 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 - [npmhub ★297](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub ★180](https://github.com/sindresorhus/hide-files-on-github)
-- [Refined GitHub ★2817](https://github.com/sindresorhus/refined-github)
+- [Refined GitHub ★2953](https://github.com/sindresorhus/refined-github)
 - [mdn/webextension-examples ★888](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
 
 ## License

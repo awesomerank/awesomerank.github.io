@@ -7,7 +7,7 @@ title: Awesome Rank for johnjago/awesome-ad-free
 	This list is a copy of <a href="https://github.com/johnjago/awesome-ad-free">johnjago/awesome-ad-free</a> with ranks
 </p>
 ---
-# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) <a href="https://nomoreads.org"><img src="https://s1.postimg.org/dg1oazt7z/nomoreads-logo-sm.png" width="60" height="24"></a>
+# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) <a href="https://nomoreads.org"><img src="https://s1.postimg.org/dg1oazt7z/nomoreads-logo-sm.png" width="60" height="24"></a>
 
 > A curated list of ad-free alternatives to popular services on the Internet.
 
@@ -91,6 +91,7 @@ title: Awesome Rank for johnjago/awesome-ad-free
 
 - [Etherpad](https://etherpad.wikimedia.org/) - Collaborative document editing in real-time.
 - [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
+- [Taskade](https://www.taskade.com/) - Collaborative task lists and outlines.
 
 ### Video
 

@@ -7,11 +7,11 @@ title: Awesome Rank for vinjn/awesome-vulkan
 	This list is a copy of <a href="https://github.com/vinjn/awesome-vulkan">vinjn/awesome-vulkan</a> with ranks
 </p>
 ---
-# Awesome Vulkan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Vulkan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 <img src="https://raw.githubusercontent.com/SaschaWillems/Vulkan/master/images/vulkanlogoscene.png" alt="Vulkan demo scene" height="256px">
 
-A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by [awesome-opengl ★633](https://github.com/eug/awesome-opengl) and other awesome-... stuff.
+A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by [awesome-opengl ★654](https://github.com/eug/awesome-opengl) and other awesome-... stuff.
 
 * **[Hardware Support](#hardware-support)**
 * **[SDK](#sdk)**
@@ -220,10 +220,10 @@ drm/kms.
 *  [Stack Overflow](http://stackoverflow.com/questions/tagged/vulkan)
 
 ## Related lists
-*  [awesome ★69735](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-*  [awesome-opengl ★633](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-*  [gamedev ★4345](https://github.com/ellisonleao/magictools) - Awesome list about game development.
-*  [graphics-resources ★1055 ⏳1Y](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
+*  [awesome ★73813](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*  [awesome-opengl ★654](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+*  [gamedev ★4469](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+*  [graphics-resources ★1066 ⏳1Y](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 *  [awesome-d3d12 ★25](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
 ## License

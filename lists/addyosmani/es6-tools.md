@@ -7,12 +7,12 @@ title: Awesome Rank for addyosmani/es6-tools
 	This list is a copy of <a href="https://github.com/addyosmani/es6-tools">addyosmani/es6-tools</a> with ranks
 </p>
 ---
-# <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> ECMAScript 6 Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> ECMAScript 6 Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 ## Transpilers
 
-* [Babel ★24086](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime
-* [Traceur compiler ★7478](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
+* [Babel ★24745](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime
+* [Traceur compiler ★7506](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [es6ify ★604](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
 * [babelify ★1472](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform
 * [es6-transpiler ★221 ⏳2Y](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
@@ -89,7 +89,7 @@ title: Awesome Rank for addyosmani/es6-tools
 ## Karma plugins
 * Babel: [karma-babel-preprocessor ★146](https://github.com/babel/karma-babel-preprocessor)
 * Traceur: [karma-traceur-preprocessor ★15 ⏳1Y](https://github.com/karma-runner/karma-traceur-preprocessor)
-* TypeScript: [karma-typescript-preprocessor ★42](https://github.com/sergeyt/karma-typescript-preprocessor)
+* TypeScript: [karma-typescript-preprocessor ★42 ⏳1Y](https://github.com/sergeyt/karma-typescript-preprocessor)
 
 ## Sprockets plugins
 * Babel: [sprockets-es6](https://github.com/josh/sprockets-es6)
@@ -126,8 +126,8 @@ title: Awesome Rank for addyosmani/es6-tools
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel ★24086](https://github.com/babel/babel).
-* [es6-shim ★2397](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
+* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel ★24745](https://github.com/babel/babel).
+* [es6-shim ★2415](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
 * [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/harmony-collections)
 * Polymer's [WeakMap shim ★41 ⏳3Y](https://github.com/Polymer/WeakMap)
 * [`String.prototype.startsWith` ★88](https://github.com/mathiasbynens/String.prototype.startsWith)
@@ -152,7 +152,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md)
 * [ES6 Symbol polyfill ★104](https://github.com/medikoo/es6-symbol)
 * [ES6 Map, Set, WeakMap ★4 ⏳2Y](https://github.com/EliSnow/Blitz-Collections)
-* [harmony-reflect ★349](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
+* [harmony-reflect ★351 ⏳1Y](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
 * [ES5 based shims in pure CJS style](https://gist.github.com/medikoo/102b7d0e697627133788#list-of-ecmascript-6-shims) -  Array, Object, Number, Math and String functions/methods, plus Map, Set, Symbol and WeakMap objects
 
 ## Editors
@@ -166,9 +166,9 @@ title: Awesome Rank for addyosmani/es6-tools
 ## Parsers
 
 * [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format ★1379](https://github.com/estree/estree)
-* [Acorn ★2907](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format.
+* [Acorn ★2976](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format.
 * [esparse ★98](https://github.com/zenparsing/esparse) - ES6 parser written in ES6.
-* [Traceur compiler ★7478](https://github.com/google/traceur-compiler) also has built-in parser available under `traceur.syntax.Parser`.
+* [Traceur compiler ★7506](https://github.com/google/traceur-compiler) also has built-in parser available under `traceur.syntax.Parser`.
 
 ## Other
 
@@ -178,7 +178,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * [es-dependency-graph](https://github.com/yahoo/es-dependency-graph) and [grunt-es-dependency-graph ★3 ⏳3Y](https://github.com/yahoo/grunt-es-dependency-graph) - Generate a list of imports and exports from ES6 module files, useful for preloading, bundling, etc.
 * [es6-import-validate](https://github.com/sproutsocial/es6-import-validate) and [grunt-es6-import-validate ★3 ⏳1Y](https://github.com/sproutsocial/grunt-es6-import-validate) - validate matching named/default import statements in ES6 modules.
 * [let-er ★145 ⏳3Y](https://github.com/getify/let-er) - transpiles [let-block block-scoping](http://wiki.ecmascript.org/doku.php?id=proposals:block_expressions#let_statement) (not accepted into ES6) into either ES3 or ES6
-* [Recast](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) and [es6-arrow-function ★54 ⏳2Y](https://github.com/esnext/es6-arrow-function).
+* [Recast](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) and [es6-arrow-function ★54 ⏳3Y](https://github.com/esnext/es6-arrow-function).
 * [Paws on ES6 ★296](https://github.com/hemanth/paws-on-es6) -  Minimalist examples of ES6 functionalities.
 * [ES6 on node](http://h3manth.com/new/blog/2013/es6-on-nodejs/) - How to use ES6 features in node.js.
 * [es6-translate ★5 ⏳3Y](https://github.com/calvinmetcalf/es6-translate) - Uses the ES6 loader hooks to load (node flavored) commonjs packages in ES6.

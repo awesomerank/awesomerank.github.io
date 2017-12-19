@@ -7,13 +7,13 @@ title: Awesome Rank for hzoo/awesome-gametalks
 	This list is a copy of <a href="https://github.com/hzoo/awesome-gametalks">hzoo/awesome-gametalks</a> with ranks
 </p>
 ---
-# Awesome Game Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Game Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 > [2005] [Heart of a Gamer](https://www.youtube.com/watch?v=RMrj8gdUfCU): Satoru Iwata (Nintendo)
 
 > On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.
 
-Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/blob/master/CONTRIBUTING.md) and other [awesome ★69735](https://github.com/sindresorhus/awesome) stuff!
+Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/blob/master/CONTRIBUTING.md) and other [awesome ★73813](https://github.com/sindresorhus/awesome) stuff!
 
 > GDC has a channel now: https://www.youtube.com/c/gdconf
 

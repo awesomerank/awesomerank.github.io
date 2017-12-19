@@ -7,7 +7,7 @@ title: Awesome Rank for razum2um/awesome-clojure
 	This list is a copy of <a href="https://github.com/razum2um/awesome-clojure">razum2um/awesome-clojure</a> with ranks
 </p>
 ---
-# Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 - [Awesome products in Clojure](#awesome-products-in-clojure)
   - [LightTable (IDE)](http://lighttable.com/)
@@ -17,7 +17,7 @@ title: Awesome Rank for razum2um/awesome-clojure
   - [PuppetDB ★223](https://github.com/puppetlabs/puppetdb)
   - [Metabase ★7689](https://github.com/metabase/metabase)
   - [Avi (vim rewrite) ★197](https://github.com/maitria/avi)
-  - [Liquid (Text Editor) ★140](https://github.com/mogenslund/liquid)
+  - [Liquid (Text Editor) ★158](https://github.com/mogenslund/liquid)
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank ★56](https://github.com/jeaye/jank)
   - [lux ★899](https://github.com/LuxLang/lux)
@@ -284,8 +284,8 @@ anylysis and visualization.*
   * [Incanter ★1937](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
   * [Onyx ★1644](https://github.com/onyx-platform/onyx)
-  * [sparklling ★313](https://github.com/gorillalabs/sparkling)
-  * [flambo ★532](https://github.com/yieldbot/flambo)
+  * [sparklling ★316](https://github.com/gorillalabs/sparkling)
+  * [flambo ★540](https://github.com/yieldbot/flambo)
   * [Neanderthal ★450](https://github.com/uncomplicate/neanderthal)
   * [lucid.graph](http://docs.caudate.me/lucidity/lucid-graph.html)
   * [Streaming Histograms ★131](https://github.com/bigmlcom/histogram)
@@ -299,7 +299,7 @@ anylysis and visualization.*
   * [Clatern ★66 ⏳2Y](https://github.com/rinuboney/clatern)
   * [Deeplearning4j ★7818](https://github.com/deeplearning4j/deeplearning4j)
   * [Enclog ★134 ⏳1Y](https://github.com/jimpil/enclog)
-  * [Infer ★165 ⏳1Y](https://github.com/aria42/infer)
+  * [Infer ★165 ⏳2Y](https://github.com/aria42/infer)
   * [k9 ★96 ⏳2Y](https://github.com/gigasquid/k9)
   * [lambda-ml ★28](https://github.com/cloudkj/lambda-ml)
   * [Statistiker ★53 ⏳2Y](https://github.com/clojurewerkz/statistiker)
@@ -321,7 +321,7 @@ anylysis and visualization.*
   * [duckling](https://github.com/wit-ai/duckling)
   
 ## Exceptions and Error Handling
-  * [Perseverance ★86](https://github.com/grammarly/perseverance)
+  * [Perseverance ★86 ⏳1Y](https://github.com/grammarly/perseverance)
   * [Dire ★473 ⏳1Y](https://github.com/MichaelDrogalis/dire)
   
 ## Reflection

@@ -7,7 +7,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 	This list is a copy of <a href="https://github.com/kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> with ranks
 </p>
 ---
-# Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 ### [Companies](#companies-1)
 |     |     |     |     |     |     |     |     |     |
@@ -40,6 +40,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 #### A companies
 * AdRoll http://tech.adroll.com/blog/
 * Addepar https://medium.com/build-addepar
+* Affinity https://build.affinity.co/
 * Airbrake https://airbrake.io/blog/
 * AirPair https://www.airpair.com/software-experts
 * Advanced Web Machinery https://advancedweb.hu/
@@ -158,7 +159,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
 * Foursquare https://engineering.foursquare.com/
-* Freeletics https://freeletics.engineering/ 
+* Freeletics https://freeletics.engineering/
 * Funding Circle https://engineering.fundingcircle.com/
 * Future Processing https://www.future-processing.pl/technical-blog/
 * Fynd http://gofynd.io/blog

@@ -7,7 +7,7 @@ title: Awesome Rank for mezod/awesome-indie
 	This list is a copy of <a href="https://github.com/mezod/awesome-indie">mezod/awesome-indie</a> with ranks
 </p>
 ---
-# Awesome Indie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Indie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 Resources to help independent developers make money.
 
 Making money from your own code has never been easier, but it's still hard. Here, I try to curate a list of resources to help everyone interested in making money from their digital products get inspired and give it a try. Be it monetizing side-projects, bootstrapping business ideas, etc.
@@ -352,11 +352,11 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
 
-- **[Tools Of The Trade ★6971](https://github.com/cjbarber/ToolsOfTheTrade)**
+- **[Tools Of The Trade ★7000](https://github.com/cjbarber/ToolsOfTheTrade)**
 
   Spectacular list of categorized tools for developers resulting from HackerNews threads. By [Chris Barber](https://twitter.com/chrisbarber) and [Craig Davison](https://twitter.com/davisonio).
 
-- **[awesome-selfhosted ★19258](https://github.com/Kickball/awesome-selfhosted)**
+- **[awesome-selfhosted ★19721](https://github.com/Kickball/awesome-selfhosted)**
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 

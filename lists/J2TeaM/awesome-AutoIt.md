@@ -9,14 +9,14 @@ title: Awesome Rank for J2TeaM/awesome-AutoIt
 ---
 # Awesome AutoIt
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/J2TeaM/awesome-AutoIt.svg)](https://travis-ci.org/J2TeaM/awesome-AutoIt)
 [![Creator](https://img.shields.io/badge/Creator-Juno__okyo-blue.svg)](https://junookyo.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow&maxAge=2592000)](https://twitter.com/juno_okyo)
 
 > A curated list of awesome UDFs, example scripts, tools and useful resources for [AutoIt](https://www.autoitscript.com/).
 
-Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list thing.
+Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table Of Contents
 
@@ -77,6 +77,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [WiFi (by MattyD)](https://www.autoitscript.com/forum/index.php?showtopic=91018) - Low level control over your wireless LAN.
 - [AutoItMonkey ★7 ⏳1Y](https://github.com/ohtejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
 - [ImperiusAutoIt](https://ohtejera.github.io/ImperiusAutoIt/) - Imperius AutoIt is an [ImperiusGeorge ★9 ⏳3Y](https://github.com/lookout/ImperiusGeorge) client for mobile test automation that support native Android apps.
+- [3270 (by Worlor) ★1](https://github.com/Worlor/AutoIt-3270) - Library for automate a 3270 terminal with AutoIT
 
 #### Browsers
 
@@ -380,6 +381,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [AutoItAppveyor (by KyleChamberlin) ★0 ⏳3Y](https://github.com/AutoItMicro/AutoItAppveyor) - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.
 - [Micro Unit Testing Framework (by KyleChamberlin) ★5 ⏳1Y](https://github.com/AutoItMicro/MicroUnitTestingFramework) - Micro is a xUnit style testing framework design for use with AutoIt.
 - [TeenyScript (by tarretarretarre)](http://teenyscript.tarre.nu/documentation) - TeenyScript is a Superset of AutoIt which makes it more advanced. TeenyScript code are parsed into native AutoiT code.
+- [Logger (by Worlor) ★0](https://github.com/Worlor/AutoIt-Logger) - Logger is an all-in-one logging utility really easy to use ! It enable log rotate per day and zip it after x days
 
 ## Tools
 
@@ -450,15 +452,15 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Other Awesome Lists
 
-- [awesome ★69735](https://github.com/sindresorhus/awesome) by @sindresorhus
+- [awesome ★73813](https://github.com/sindresorhus/awesome) by @sindresorhus
 - [awesome-all ★102](https://github.com/bradoyler/awesome-all) by @bradoyler
-- [awesome-awesome ★947](https://github.com/emijrp/awesome-awesome) by @emijrp
+- [awesome-awesome ★979](https://github.com/emijrp/awesome-awesome) by @emijrp
 - [awesome-awesome ★150](https://github.com/erichs/awesome-awesome) by @erichs
 - [awesome-awesome ★63 ⏳1Y](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
-- [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness) by @bayandin
+- [awesome-awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness) by @bayandin
 - [awesome-awesomes ★485 ⏳1Y](https://github.com/fleveque/awesome-awesomes) by @fleveque
 - [awesome-collection ★98](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
-- [lists ★4569](https://github.com/jnv/lists) by @jnv
+- [lists ★4644](https://github.com/jnv/lists) by @jnv
 
 [[Back to Top](#awesome-autoit)]
 ---

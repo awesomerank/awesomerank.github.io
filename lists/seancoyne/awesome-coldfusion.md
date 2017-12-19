@@ -7,9 +7,9 @@ title: Awesome Rank for seancoyne/awesome-coldfusion
 	This list is a copy of <a href="https://github.com/seancoyne/awesome-coldfusion">seancoyne/awesome-coldfusion</a> with ranks
 </p>
 ---
-# Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript ★12561](https://github.com/sorrycc/awesome-javascript).
+A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript ★12841](https://github.com/sorrycc/awesome-javascript).
 
 Pull requests very welcome.
 
@@ -54,7 +54,7 @@ Pull requests very welcome.
 ## Dependency Injection
 
 * [ColdSpring](http://www.coldspringframework.org/) - ColdSpring makes the configuration and dependencies of your CFCs easier to manage. ColdSpring brings the power of the popular Spring framework for Java to ColdFusion.
-* [DI/1 - Inject One ★110 ⏳1Y](https://github.com/framework-one/di1) - a very lightweight, convention over configuration, dependency injection (inversion of control) framework
+* [DI/1 - Inject One ★110 ⏳2Y](https://github.com/framework-one/di1) - a very lightweight, convention over configuration, dependency injection (inversion of control) framework
 * [Wirebox](http://wiki.coldbox.org/wiki/WireBox.cfm) - The Enterprise Dependency Injection Framework
 
 ## CMS

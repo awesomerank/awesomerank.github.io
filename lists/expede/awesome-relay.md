@@ -7,8 +7,8 @@ title: Awesome Rank for expede/awesome-relay
 	This list is a copy of <a href="https://github.com/expede/awesome-relay">expede/awesome-relay</a> with ranks
 </p>
 ---
-# Awesome Relay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
-Awesome resources for [Relay](https://github.com/facebook/relay), based on the [Awesome ★69735](https://github.com/sindresorhus/awesome) project
+# Awesome Relay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+Awesome resources for [Relay](https://github.com/facebook/relay), based on the [Awesome ★73813](https://github.com/sindresorhus/awesome) project
 
 # Table of Contents
 - [Learning Resources](#learning-resources)
@@ -85,9 +85,9 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
   - May be supported [out of the box](https://github.com/facebook/relay/issues/26) in the future.
 - [`relay-sink` ★129](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
 - [`babel-plugin-flow-relay-query` ★38](https://github.com/guymers/babel-plugin-flow-relay-query) - Convert [Flow](http://flowtype.org) types into Relay fragments.
-- [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) - Make Relay compatible with [`sequelize` ★11995](https://github.com/sequelize/sequelize).
+- [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) - Make Relay compatible with [`sequelize` ★12435](https://github.com/sequelize/sequelize).
 - [`relay-mongodb-connection` ★35](https://github.com/mikberg/relay-mongodb-connection) - Create Relay connections from MongoDB cursors.
-- [`relay-composite-network-layer` ★47 ⏳1Y](https://github.com/eyston/relay-composite-network-layer) - Compose your Relay Network Layer of many different Network Layers each with their own schema.
+- [`relay-composite-network-layer` ★47 ⏳2Y](https://github.com/eyston/relay-composite-network-layer) - Compose your Relay Network Layer of many different Network Layers each with their own schema.
 - [`react-relay-network-layer` ★269](https://github.com/nodkz/react-relay-network-layer) - A Network Layer that adds support for query-batching and middlewares. It additionally provides some useful middlewares such as for auth, for logging, etc.
 
 ## Tooling

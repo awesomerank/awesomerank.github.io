@@ -7,13 +7,13 @@ title: Awesome Rank for jwaterfaucett/awesome-foss-apps
 	This list is a copy of <a href="https://github.com/jwaterfaucett/awesome-foss-apps">jwaterfaucett/awesome-foss-apps</a> with ranks
 </p>
 ---
-# Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome production grade free and open source software organized by category.
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome ★69735](https://github.com/sindresorhus/awesome).*
+*Inspired by Sindre Sorhus's [awesome ★73813](https://github.com/sindresorhus/awesome).*
 
 ## TOC
 
@@ -58,7 +58,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Ghost provides a simple publishing platform for bloggers. The code contains an emberjs client and node server backend that handle authorization, role management, tagging, blog posting, data persistence, and most things you'd expect from a quality blogging platform. The only thing that Ghost doesn't handle is i18n. It also contains a comprehensive test suite with both integration and unit tests that hit the whole ember/node stack.
 
-### [Gitlab ★20083](https://github.com/gitlabhq/gitlabhq)
+### [Gitlab ★20189](https://github.com/gitlabhq/gitlabhq)
 
 * ruby, rails, coffescript, redis, sidekiq,
 * MIT License
@@ -105,7 +105,7 @@ This list is for developers who are looking for non-trivial quality applications
 > Blender is 3D Graphic Software that can visually compete with Maya and 3DS Max. The end product is an amazing example of a cross-platform 3D Tooling piece of software. It is a very mature project having been in development since 1994. It has an embedded python scripting engine, a game logic engine and is loaded with implementations of 3d manipulation, rendering, and compositing algorithms.
 
 
-### [Atom ★41692](https://github.com/atom/atom)
+### [Atom ★42401](https://github.com/atom/atom)
 
 * coffeescript, electron, node
 * MIT License
@@ -120,21 +120,21 @@ This list is for developers who are looking for non-trivial quality applications
 ### Games
 ----
 
-### [0ad ★1001](https://github.com/0ad/0ad)
+### [0ad ★1014](https://github.com/0ad/0ad)
 
 * c++, python
 * GPLv2 License
 
 > 0 A.D is a cross-platform real-time strategy game of ancient warfare. Every aspect of the game's implementation is modern and impressive - from the AI to the graphics. It also has an embedded SpiderMonkey scripting engine, which is a great example for adding js scriptability to an existing cpp project.
 
-### [Hedgewars ★199](https://github.com/hedgewars/hw)
+### [Hedgewars ★203](https://github.com/hedgewars/hw)
 
 * c, c++, pascal, haskell
 * GPLv2 License
 
 > Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.
 
-### [Wesnoth ★1250](https://github.com/wesnoth/wesnoth)
+### [Wesnoth ★1288](https://github.com/wesnoth/wesnoth)
 
 * c, c++, lua
 * GPLv2 License

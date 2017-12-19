@@ -287,7 +287,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [9wm](http://unauthorised.org/dhog/9wm.html) - Window manager that attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.
 * [awesome](https://awesomewm.org/) - Highly configurable window manager for X. Fast and extensible.
 * [Blackbox](http://blackboxwm.sourceforge.net/) - Lightweight window manager for the X window system, without library dependencies. Built using C++.
-* [bspwm ★1872](https://github.com/baskerville/bspwm) - Tiling window manager that represents windows as the leaves of a full binary tree.
+* [bspwm ★1903](https://github.com/baskerville/bspwm) - Tiling window manager that represents windows as the leaves of a full binary tree.
 * [Compiz](https://launchpad.net/compiz) - OpenGL compositing window manager. It has a plug-in system to be changed at runtime.
 * [dwm](http://dwm.suckless.org/) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application and task performed.
 * [Enlightenment](http://www.enlightenment.org/) - Window manager bundled with a whole suite of libraries to help you create beautiful user interfaces.
@@ -309,7 +309,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 The list of awesome Linux applications that you should be using.
 
-If you're looking for some pro-tips for your favorite text editor, you might be interested in [awesome-atom](https://github.com/mehcode/awesome-atom), [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks), [vim-galore](https://github.com/mhinz/vim-galore), [awesome-emacs](https://github.com/emacs-tw/awesome-emacs), or [awesome-vscode ★3633](https://github.com/viatsko/awesome-vscode).
+If you're looking for some pro-tips for your favorite text editor, you might be interested in [awesome-atom](https://github.com/mehcode/awesome-atom), [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks), [vim-galore](https://github.com/mhinz/vim-galore), [awesome-emacs](https://github.com/emacs-tw/awesome-emacs), or [awesome-vscode ★3917](https://github.com/viatsko/awesome-vscode).
 
 ### GUI-based Applications
 
@@ -328,7 +328,7 @@ For more GNOME-based apps, visit: https://wiki.gnome.org/Apps
 * [FeedReader](https://jangernert.github.io/FeedReader/) - RSS desktop client able to integrate with multiple online services.
 * [Go For It!](http://manuel-kehl.de/projects/go-for-it/) - To-do list with built-in productivity timer.
 * [NaSC](http://parnold-x.github.io/nasc/) - Intelligent calculator app.
-* [Spice-Up ★226](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app.
+* [Spice-Up ★236](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app.
 * [Vocal](http://vocalproject.net/) - Podcast client for the modern desktop.
 
 For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/elementary-apps/).
@@ -356,11 +356,11 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 
 * [Corebird](http://corebird.baedert.org/) - Twitter client.
 * [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Twitch player.
-* [Caprine ★2660](https://github.com/sindresorhus/caprine) - Facebook's Messenger client with some added privacy features.
-* [PB for Desktop ★199](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
-* [ramme ★2442](https://github.com/terkelg/ramme) - Instagram client.
-* [ScudCloud ★1191](https://github.com/raelgc/scudcloud) - Slack client with additional features (compared to the original Slack client).
-* [Whatever ★217](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
+* [Caprine ★2745](https://github.com/sindresorhus/caprine) - Facebook's Messenger client with some added privacy features.
+* [PB for Desktop ★212](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
+* [ramme ★2478](https://github.com/terkelg/ramme) - Instagram client.
+* [ScudCloud ★1198](https://github.com/raelgc/scudcloud) - Slack client with additional features (compared to the original Slack client).
+* [Whatever ★241](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
 
 #### Package management and creation tools
 
@@ -372,7 +372,7 @@ Distro-oriented:
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - Main package management tool on openSUSE.
 * [YumEx](https://fedorahosted.org/yumex/) (Fedora) - A GUI for the `dnf` package manager.
 * [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - A wrapper for `pacman` which adds automated access to the AUR using the same syntax as pacman.
-* [Aura ★596](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager.
+* [Aura ★604](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager.
 
 Distro-independent:
 
@@ -383,22 +383,22 @@ Distro-independent:
 You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/jbucaran/awesome-fish).
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player.
-* [fuck ★32099](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command.
+* [fuck ★32629](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command.
 * [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [glances](https://nicolargo.github.io/glances/) - Cross-platform system monitoring tool.
 * [htop](http://hisham.hm/htop/) - Nice looking, customizable task manager.
 * [nano](http://www.nano-editor.org) - Simple to use text editor.
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
-* [ranger ★2791](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
-* [screenFetch ★1870](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
-* [shellcheck ★9318](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
-* [speed-test ★2831](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
+* [ranger ★2893](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
+* [screenFetch ★1905](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
+* [shellcheck ★9571](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
+* [speed-test ★2860](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
 * [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.
 * [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://parall.ax/vtop) - Easily-extendable activity monitor.
-* [wavemon ★150](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
-* [youtube-dl ★31060](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
+* [wavemon ★158](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
+* [youtube-dl ★32132](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
 
 ## Useful Websites
 

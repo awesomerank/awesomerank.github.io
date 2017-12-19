@@ -7,7 +7,7 @@ title: Awesome Rank for rayokota/awesome-hbase
 	This list is a copy of <a href="https://github.com/rayokota/awesome-hbase">rayokota/awesome-hbase</a> with ranks
 </p>
 ---
-# Awesome HBase [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome HBase [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/rayokota/awesome-hbase/c197f415/hbase_logo_with_orca-2.png" align="right" width="150">](http://hbase.apache.org/)
 
@@ -104,12 +104,12 @@ A curated list of awesome HBase projects and resources.
 
 #### Secondary Indices
 
-* [hindex ★453](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase.
+* [hindex ★462](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase.
 * [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - Quickly and easily search for content stored in HBase.
 
 #### Transactions
 
-* [Haeinsa ★141](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase.
+* [Haeinsa ★142](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase.
 * [Omid ★288](https://github.com/yahoo/omid) - Transactional support for HBase.
 * [Tephra](http://tephra.incubator.apache.org) - Globally consistent transactions on top of HBase.
 * [Themis ★169 ⏳2Y](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator.

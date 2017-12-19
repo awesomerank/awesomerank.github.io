@@ -7,7 +7,7 @@ title: Awesome Rank for enaqx/awesome-react
 	This list is a copy of <a href="https://github.com/enaqx/awesome-react">enaqx/awesome-react</a> with ranks
 </p>
 ---
-### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 
 A collection of awesome things regarding React ecosystem.
@@ -93,7 +93,7 @@ A collection of awesome things regarding React ecosystem.
 - [Flow](#flow)
   - [Flow Resources](#flow-resources)
 - [Videos](#videos)
-  - [Video from Confs](#video-from-confs)`
+  - [Video from Confs](#video-from-confs)
   - [React.js Conf 2015 Playlist](#reactjs-conf-2015-playlist)
   - [ReactEurope Conf 2015 Day 1 Playlist](#reacteurope-conf-2015-day-1-playlist)
   - [ReactEurope Conf 2015 Day 2 Playlist](#reacteurope-conf-2015-day-2-playlist)
@@ -158,6 +158,8 @@ A collection of awesome things regarding React ecosystem.
 * [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 * [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 * [React.js Best Practices](https://github.com/ximet/awesome-best-practices/blob/master/frontend/react/bestPracticeReact.md)
+* [Clean Code vs. Dirty Code: React Best Practices](http://americanexpress.io/clean-code-dirty-code/)
+* [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
 
 ##### React styling
 * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
@@ -288,7 +290,7 @@ A collection of awesome things regarding React ecosystem.
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps ★0](https://github.com/steida/este)
 * [frontend-boilerplate - webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate ★3052](https://github.com/tj/frontend-boilerplate)
 * [react-engine - A composite render engine for isomorphic express apps ★1378](https://github.com/paypal/react-engine)
-* [reactGo - Boilerplate for an universal/isomorphic React + Redux/alt Flux app ★2422](https://github.com/reactGo/reactGo)
+* [reactGo - Boilerplate for an universal/isomorphic React + Redux/alt Flux app ★2458](https://github.com/reactGo/reactGo)
 * [react-native-nw-react-calculator - Mobile, desktop and website Apps with the same code ★4102](https://github.com/benoitvallon/react-native-nw-react-calculator)
 * [StarHackIt - An ES6/ES7 full-stack starter kit with authentication and authorization code ★1045](https://github.com/FredericHeem/starhackit)
 * [react-cordova-boilerplate - TodoMVC example for React to build a Cordova application ★170](https://github.com/unimonkiez/react-cordova-boilerplate)
@@ -333,9 +335,9 @@ A collection of awesome things regarding React ecosystem.
 * [react-facebook-login-component ★59](https://github.com/kennetpostigo/react-facebook-login-component)
 * [react-component - A Collection of React UI Components](http://react-component.github.io/badgeboard/)
 * [Ant Design - An enterprise-class UI design language and React-based implementation ★21077](https://github.com/ant-design/ant-design)
-* [Zent - A collection of React UI components ★533](https://github.com/youzan/zent)
+* [Zent - A collection of React UI components ★645](https://github.com/youzan/zent)
 * [UXCore - A React UI Component Set living for enterprise backend application ★490](https://github.com/uxcore/uxcore)
-* [react-desktop - OS X and Windows UI components built with React ★6822](https://github.com/gabrielbull/react-desktop)
+* [react-desktop - OS X and Windows UI components built with React ★6935](https://github.com/gabrielbull/react-desktop)
 * [react-aim - Determine the cursor aim for triggering mouse events ★308](https://github.com/gabrielbull/react-aim)
 * [react-uwp - React Components that Implement Microsoft's UWP Design & Fluent Design. ★403](https://github.com/myxvisual/react-uwp)
 * [react-touch - React photo viewer for mobile ★437 ⏳2Y](https://github.com/petehunt/react-touch)
@@ -351,7 +353,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-gravatar - React component for rendering a gravatar profile image ★149](https://github.com/KyleAMathews/react-gravatar)
 * [markdown-react - React Render for Standard Markdown ★51 ⏳3Y](https://github.com/vjeux/markdown-react)
 * [react-component-gallery — React component for creating an evenly spaced components]( https://github.com/KyleAMathews/react-component-gallery)
-* [react-markdown-textarea - Component to create textareas for entering Markdown ★105 ⏳1Y](https://github.com/KyleAMathews/react-markdown-textarea)
+* [react-markdown-textarea - Component to create textareas for entering Markdown ★105 ⏳2Y](https://github.com/KyleAMathews/react-markdown-textarea)
 * [react-markdown-area - Github flavored markdown editor with live preview ★37](https://github.com/MattMcFarland/react-markdown-area)
 * [react-textarea-autosize - Textarea component for React which grows with content ★698](https://github.com/andreypopp/react-textarea-autosize)
 * [react-spinner - Zero configuration loading spinner ★171](https://github.com/chenglou/react-spinner)
@@ -513,7 +515,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-switch - A draggable, customizable and accessible toggle-switch component. ★133](https://github.com/yogaboll/react-switch)
 * [react-credit-card-input - A simple credit/debit card input field for React. ★30](https://github.com/medipass/react-credit-card-input)
 * [react-creditcard - An awesome react credit card component. ★13](https://github.com/medipass/react-creditcard)
-* [email-autocomplete-input - Simple email autocomplete input. ★4](https://github.com/alex-cory/email-autocomplete-input)
+* [email-autocomplete-input - Simple email autocomplete input. ★5](https://github.com/alex-cory/email-autocomplete-input)
 * [rlist-view - List view for react with pulling refresh and infinite data load  ★9](https://github.com/gitpadtech/rlist-view)
 * [react-breadcrumbs-dynamic - Extremely flexible and completely router-independent react breadcrumbs solution ★16](https://github.com/oklas/react-breadcrumbs-dynamic)
 * [react-automatic-width - Automatically sets `width` property on child components ★8](https://github.com/zalando-stups/react-automatic-width)
@@ -540,9 +542,9 @@ A collection of awesome things regarding React ecosystem.
 * [Maple.js - Bringing the concept of web-components to React ★433 ⏳2Y](https://github.com/Wildhoney/Maple.js)
 * [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application ★280](https://github.com/yahoo/react-i13n)
 * [react-icons - svg react icons of popular icon packs ★1446](https://github.com/gorangajic/react-icons)
-* [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc... ★213](https://github.com/Wildhoney/Keo)
+* [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc... ★214](https://github.com/Wildhoney/Keo)
 * [Blueprint - A React-based UI toolkit for the web ★7777](https://github.com/palantir/blueprint)
-* [Bit - A virtual repository for managing and using react and other web components across applications ★800](https://github.com/teambit/bit)
+* [Bit - A virtual repository for managing and using react and other web components across applications ★857](https://github.com/teambit/bit)
 * [AtlasKit -  Atlassian's React UI library](https://atlaskit.atlassian.com/)
 
 ##### Integration
@@ -653,13 +655,13 @@ A collection of awesome things regarding React ecosystem.
 * [react-svg-morph - morph your svg components one into another ★465](https://github.com/gorangajic/react-svg-morph)
 
 ##### Model Libraries
-* [mori - ClojureScript's persistent data structures and supporting API ★2792](https://github.com/swannodette/mori)
+* [mori - ClojureScript's persistent data structures and supporting API ★2843](https://github.com/swannodette/mori)
 * [NestedTypes - fast mutable models with "pure render" support ★95](https://github.com/Volicon/NestedTypes)
 * [swarm - JavaScript replicated model (M of MVC) library ★2272](https://github.com/gritzko/swarm)
 * [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
 
 ##### Data Managing
-* [Immutable.js - Immutable Data Collections for Javascript ★21354](https://github.com/facebook/immutable-js)
+* [Immutable.js - Immutable Data Collections for Javascript ★21743](https://github.com/facebook/immutable-js)
 * [cortex - A javascript library for centrally managing data with React ★1054](https://github.com/mquan/cortex)
 * [avers - A modern client-side model abstraction library ★3](https://github.com/wereHamster/avers)
 * [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)
@@ -715,7 +717,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-stockcharts - Highly customizable stock charts with ReactJS and d3 ★1171](https://github.com/rrag/react-stockcharts)
 * [Number Picture - Low-level React + D3 building blocks](http://numberpicture.com/library)
 * [VictoryJS - A collection of composable React components for building interactive data visualizations ★5345](https://github.com/FormidableLabs/victory)
-* [Recharts - A charting library built on D3 with an awesome declarative API ★7166](https://github.com/recharts/recharts)
+* [Recharts - A charting library built on D3 with an awesome declarative API ★7492](https://github.com/recharts/recharts)
 
 
 ---
@@ -724,10 +726,10 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Native General Resources
 * [React Native Official Site](https://facebook.github.io/react-native/)
-* [React Native GitHub ★55953](https://github.com/facebook/react-native)
+* [React Native GitHub ★57364](https://github.com/facebook/react-native)
 * [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
 * [React Native Playground](https://rnplay.org/)
-* [React Native Awesome List ★15724](https://github.com/jondot/awesome-react-native)
+* [React Native Awesome List ★16231](https://github.com/jondot/awesome-react-native)
 * [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 
@@ -768,7 +770,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-native-fbsdk - A wrapper around the iOS Facebook SDK ★1678](https://github.com/facebook/react-native-fbsdk)
 * [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
 * [react-native-mapbox-gl - A Mapbox GL react native module ★1158](https://github.com/mapbox/react-native-mapbox-gl)
-* [react-native-icons - Quick and easy icons in React Native ★1142](https://github.com/corymsmith/react-native-icons)
+* [react-native-icons - Quick and easy icons in React Native ★1143](https://github.com/corymsmith/react-native-icons)
 * [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar ★6775](https://github.com/oblador/react-native-vector-icons)
 * [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
 
@@ -840,7 +842,7 @@ A collection of awesome things regarding React ecosystem.
 > Predictable State Container for JavaScript Apps
 
 #### Redux General Resources
-* [Redux GitHub ★35718](https://github.com/reactjs/redux)
+* [Redux GitHub ★36568](https://github.com/reactjs/redux)
 * [Redux Official Site](http://redux.js.org/)
 * [Awesome Redux List ★9832](https://github.com/xgrommx/awesome-redux)
 
@@ -887,7 +889,7 @@ A collection of awesome things regarding React ecosystem.
 > Simple, scalable state management for JavaScript Apps
 
 #### MobX General Resources
-* [MobX GitHub ★11967](https://github.com/mobxjs/mobx)
+* [MobX GitHub ★12442](https://github.com/mobxjs/mobx)
 * [MobX Official Site](https://mobxjs.github.io/mobx/)
 
 #### MobX Tools
@@ -972,7 +974,7 @@ A collection of awesome things regarding React ecosystem.
 * [Relay GitHub ★10023](https://github.com/facebook/relay)
 
 #### Relay Tutorials
-* [Relay Tutorial](https://facebook.github.io/relay/docs/tutorial.html)
+* [official Relay Getting Started](https://facebook.github.io/relay/docs/en/introduction-to-relay-modern.html)
 * [Relay for Visual Learners](http://sgwilym.github.io/relay-visual-learners/)
 * [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/)
 * [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
@@ -1133,7 +1135,7 @@ A collection of awesome things regarding React ecosystem.
 * [webbylab/itsquiz-wall ★468](https://github.com/webbylab/itsquiz-wall)
 * [brainfock/brainfock ★342](https://github.com/brainfock/brainfock)
 * [HVF/franchise ★3060](https://github.com/HVF/franchise)
-* [KELiON/cerebro ★4105](https://github.com/KELiON/cerebro)
+* [KELiON/cerebro ★4236](https://github.com/KELiON/cerebro)
 * [stride-nyc/remote_retro ★105](https://github.com/stride-nyc/remote_retro)
 * [Sqlectron - SQL client](https://sqlectron.github.io/)
 * [ALM tools - an IDE built with and for React + TypeScript](http://alm.tools/)

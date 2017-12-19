@@ -7,7 +7,7 @@ title: Awesome Rank for janikvonrotz/awesome-powershell
 	This list is a copy of <a href="https://github.com/janikvonrotz/awesome-powershell">janikvonrotz/awesome-powershell</a> with ranks
 </p>
 ---
-# Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
 
@@ -86,9 +86,9 @@ It includes a command-line shell and an associated scripting language.
 - [posh-git ★2577](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
 - [PSReadLine ★953](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
 - [TabExpansionPlusPlus ★106 ⏳1Y](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
-- [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump ★6105](https://github.com/wting/autojump) implementation for powershell.
-- [Zlocation](https://github.com/vors/ZLocation) - [z.sh ★7468](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
-- [thefuck ★32099](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
+- [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump ★6225](https://github.com/wting/autojump) implementation for powershell.
+- [Zlocation](https://github.com/vors/ZLocation) - [z.sh ★7586](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
+- [thefuck ★32629](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
 - [pslinq ★28 ⏳3Y](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell.
 - [posh-with ★6 ⏳1Y](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool.
 - [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7) - [peco ★4236](https://github.com/peco/peco) implementation. Interactive filtering tool.
@@ -105,7 +105,7 @@ It includes a command-line shell and an associated scripting language.
 
 - [platyPS ★185](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
 - [Invoke-CreateModuleHelpFile ★14 ⏳3Y](https://github.com/gravejester/Invoke-CreateModuleHelpFile) - PowerShell function to create a HTML help file for a module and all it's commands.
-- [PScribo ★79](https://github.com/iainbrighton/PScribo) - PowerShell documentation framework what can create HTML, Word, text files based on PowerShell-based DSL (domain specific language).
+- [PScribo ★83](https://github.com/iainbrighton/PScribo) - PowerShell documentation framework what can create HTML, Word, text files based on PowerShell-based DSL (domain specific language).
 
 ## Editors and IDEs
 
@@ -153,7 +153,7 @@ It includes a command-line shell and an associated scripting language.
 ## Testing
 
 - [Pester ★1225](https://github.com/pester/Pester) - Powershell BDD style testing framework.
-- [Format-Pester](https://github.com/equelin/format-pester) - Powershell module for documenting Pester's results - exports Pester results to HTML, Word, text files using [PScribo ★79](https://github.com/iainbrighton/PScribo) .
+- [Format-Pester](https://github.com/equelin/format-pester) - Powershell module for documenting Pester's results - exports Pester results to HTML, Word, text files using [PScribo ★83](https://github.com/iainbrighton/PScribo) .
 
 ## Themes
 
@@ -189,7 +189,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Misc
 
-- [DbgShell ★206](https://github.com/Microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
+- [DbgShell ★228](https://github.com/Microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
 - [poke ★29 ⏳1Y](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
   Explore and invoke private APIs like nobody is watching.
   Useful for security research, testing and quick hacks.

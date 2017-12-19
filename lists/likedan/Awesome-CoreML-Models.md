@@ -25,7 +25,7 @@ We've put up the largest collection of machine learning models in Core ML format
 
 If you've converted a Core ML model, feel free to submit an [issue](https://github.com/likedan/Awesome-CoreML-Models/issues/new).
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 # Models
@@ -66,7 +66,7 @@ If you've converted a Core ML model, feel free to submit an [issue](https://gith
 | | | |
 |-|-|-|
 |[<img src="samples/cover_SentimentPolarity.jpg">](https://coreml.store/sentimentpolarity)|[<img src="samples/cover_MessageClassifier.jpg">](https://coreml.store/messageclassifier)|[<img src="samples/cover_NamesDT.jpg">](https://coreml.store/namesdt)|
-|<b>SentimentPolarity</b><br />Sentiment polarity LinearSVC.<br />[Download](https://coreml.store/sentimentpolarity?download) \| [Demo](https://github.com/cocoa-ai/SentimentCoreMLDemo) \| [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)|<b>MessageClassifier</b><br />Detect whether a message is spam.<br />[Download](https://coreml.store/messageclassifier?download) \| [Demo](https://github.com/gkswamy98/imessage-spam-detection/tree/master) \| [Reference](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)|<b>NamesDT</b><br />Gender Classification using DecisionTreeClassifier<br />[Download](https://coreml.store/namesdt?download) \| [Demo ★15](https://github.com/cocoa-ai/NamesCoreMLDemo) \| [Reference](http://nlpforhackers.io)|
+|<b>SentimentPolarity</b><br />Sentiment polarity LinearSVC.<br />[Download](https://coreml.store/sentimentpolarity?download) \| [Demo](https://github.com/cocoa-ai/SentimentCoreMLDemo) \| [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)|<b>MessageClassifier</b><br />Detect whether a message is spam.<br />[Download](https://coreml.store/messageclassifier?download) \| [Demo](https://github.com/gkswamy98/imessage-spam-detection/tree/master) \| [Reference](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)|<b>NamesDT</b><br />Gender Classification using DecisionTreeClassifier<br />[Download](https://coreml.store/namesdt?download) \| [Demo ★19](https://github.com/cocoa-ai/NamesCoreMLDemo) \| [Reference](http://nlpforhackers.io)|
 
 ## Others
 
@@ -97,7 +97,7 @@ If you've converted a Core ML model, feel free to submit an [issue](https://gith
 *Individual machine learning models that could be converted to Core ML. We'll keep adjusting the list as they become converted.*
 * [LaMem ★4 ⏳1Y](https://github.com/MiyainNYC/Visual-Memorability-through-Caffe) Score the memorability of pictures.
 * [ILGnet ★25](https://github.com/BestiVictory/ILGnet) The aesthetic evaluation of images.
-* [Colorization ★1333](https://github.com/richzhang/colorization) Automatic colorization using deep neural networks.
+* [Colorization ★1365](https://github.com/richzhang/colorization) Automatic colorization using deep neural networks.
 * [Illustration2Vec ★270](https://github.com/rezoo/illustration2vec) Estimating a set of tags and extracting semantic feature vectors from given illustrations.
 * [CTPN ★361](https://github.com/tianzhi0549/CTPN) Detecting text in natural image.
 * [Image Analogy ★733](https://github.com/msracver/Deep-Image-Analogy) Find semantically-meaningful dense correspondences between two input images.

@@ -7,7 +7,7 @@ title: Awesome Rank for tmcw/awesome-geojson
 	This list is a copy of <a href="https://github.com/tmcw/awesome-geojson">tmcw/awesome-geojson</a> with ranks
 </p>
 ---
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 GeoJSON utilities that will make your life easier.
 
@@ -29,7 +29,7 @@ GeoJSON utilities that will make your life easier.
 * [point-grouper ★26 ⏳3Y](https://github.com/substack/point-grouper): group geojson points into containing polygons
 * [geojson-join](https://github.com/tmcw/geojson-join): join geojson against json, dbf, and csv files
 * [simplify-geojson ★80 ⏳1Y](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
-* [turf ★3095](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
+* [turf ★3188](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
 * [winnow](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
 
 ### editors & viewers
@@ -103,7 +103,7 @@ GeoJSON utilities that will make your life easier.
 * [rgeo-geojson ★118](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 * [rust-geojson ★46](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 * [geojson-jackson ★108](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
-* [mapbox-java](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson ★10786](https://github.com/google/gson))
+* [mapbox-java](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson ★11109](https://github.com/google/gson))
 
 ### resources
 

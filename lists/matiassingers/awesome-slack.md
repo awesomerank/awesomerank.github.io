@@ -7,7 +7,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 	This list is a copy of <a href="https://github.com/matiassingers/awesome-slack">matiassingers/awesome-slack</a> with ranks
 </p>
 ---
-# awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 > A curated list of awesome Slack related things
 
 ## Table of Contents
@@ -44,7 +44,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 ## Unofficial clients
 - Linux - [PlaidChat ★512 ⏳1Y](https://github.com/plaidchat/plaidchat)
-- Linux - [ScudCloud ★1191](https://github.com/raelgc/scudcloud)
+- Linux - [ScudCloud ★1198](https://github.com/raelgc/scudcloud)
 - Windows - [SlackUI ★92](https://github.com/rfgamaral/SlackUI)
 
 ## Lists
@@ -141,7 +141,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack ★1334](https://github.com/nlopes/slack) - Slack API in Go
 - [slack\_auth\_proxy ★12 ⏳2Y](https://github.com/tappleby/slack_auth_proxy) - A reverse proxy providing authentication via a slack.com team
 - [slack-cli ★13 ⏳2Y](https://github.com/siddontang/slack-cli) - A command tool to communicate with Slack
-- [slack-fingerbumpbot ★4 ⏳3Y](https://github.com/grantmd/slack-fingerbumpbot) - A bot for Slack that never leaves a finger bump hanging
+- [slack-fingerbumpbot ★4 ⏳4Y](https://github.com/grantmd/slack-fingerbumpbot) - A bot for Slack that never leaves a finger bump hanging
 - [slack-markov ★48](https://github.com/grantmd/slack-markov) - A markov chain bot for your Slack channel
 - [slack-oldbot ★14 ⏳4Y](https://github.com/grantmd/slack-oldbot) - A bot for Slack that politely reports when a link has been used before in the channel
 - [slack-upvote ★17 ⏳2Y](https://github.com/tampajohn/slack-upvote) - Slack voting integration
@@ -337,7 +337,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack-tea ★8](https://github.com/liquidlight/slack-tea) - Decide who makes the tea using Slack
 - [slack-webhooks](https://github.com/Xeonys/slack-webhooks) - Easily add service with webhooks integration in Slack
 - [slack-wordpress ★42](https://github.com/erayalakese/slack-wordpress) - Wordpress integration for Slack
-- [SlackAgainstHumanity ★66 ⏳1Y](https://github.com/michaeljhopkins/SlackAgainstHumanity) - A laravel 5 package for playing Cards Against Humanity in your Slack channel
+- [SlackAgainstHumanity ★66 ⏳2Y](https://github.com/michaeljhopkins/SlackAgainstHumanity) - A laravel 5 package for playing Cards Against Humanity in your Slack channel
 - [SlackBundle ★37](https://github.com/DZunke/SlackBundle) - SlackBundle for Symfony2
 - [slackcamp ★64 ⏳1Y](https://github.com/jamescarlos/slackcamp) - Post Basecamp events to Slack
 - [Slacker ★560](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI
@@ -375,7 +375,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [python-slackclient](https://github.com/slackhq/python-slackclient) ([pypi](https://pypi.python.org/pypi/slackclient/0.13)) - A basic client for Slack, which can optionally connect to the RTM API
 - [reach-slack-rtm ★17 ⏳1Y](https://github.com/izdi/react-slack-rtm) - Simple Slack RTM chat built with ReactJS and Django
 - [relay ★10 ⏳2Y](https://github.com/matsengrp/relay) - Bare-bones continuous integration using Docker Hub and Slack
-- [scudcloud ★1191](https://github.com/raelgc/scudcloud) - Ubuntu client for Slack
+- [scudcloud ★1198](https://github.com/raelgc/scudcloud) - Ubuntu client for Slack
 - [sscaas ★41](https://github.com/danielsamuels/sscaas) - Slack Slash Commands as a Service
 - [slack ★92 ⏳2Y](https://github.com/kn/slack) - A simple and comprehensive Slack API client
 - [slack-echo-chamber ★7 ⏳3Y](https://github.com/balloon-studios/slack-echo-chamber) - Crosspost messages from one channel into another
@@ -423,7 +423,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [chef-slack\_handler ★11 ⏳1Y](https://github.com/dcm-ops/chef-slack_handler) - Chef handler for Slack
 - [dogetip-slack ★9 ⏳1Y](https://github.com/tenforwardconsulting/dogetip-slack) - Sinatra app to enable Dogecoin tipping via slack
 - [doorbell-server ★17](https://github.com/Lostmyname/doorbell-server) - Simple Sinatra app which acts a bridge between Slack and the LMN doorbell
-- [fastlane ★19224](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
+- [fastlane ★19801](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
 - [gifbot ★38 ⏳4Y](https://github.com/schuyler/gifbot) - Integrated animated GIF search for Slack
 - [hatebu-hooker ★4 ⏳3Y](https://github.com/kmrshntr/hatebu-hooker) - Post Hatena::Bookmark to Slack
 - [kickslacker ★5](https://github.com/marcroberts/kickslacker) - Post progress updates on a kickstarter project to Slack
@@ -509,7 +509,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 ### Zephir
 
-- [zephlack ★17 ⏳2Y](https://github.com/linxlad/zephlack) - Slack Messaging extension written in Zephir
+- [zephlack ★17 ⏳3Y](https://github.com/linxlad/zephlack) - Slack Messaging extension written in Zephir
 
 
 ## Contribute

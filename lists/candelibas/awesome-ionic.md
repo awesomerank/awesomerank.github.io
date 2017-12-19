@@ -7,7 +7,7 @@ title: Awesome Rank for candelibas/awesome-ionic
 	This list is a copy of <a href="https://github.com/candelibas/awesome-ionic">candelibas/awesome-ionic</a> with ranks
 </p>
 ---
-# Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 An "awesome" list of the Ionic resources 
 
@@ -123,17 +123,17 @@ An "awesome" list of the Ionic resources
 
 #### Open Source Projects
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
-* [IonicRealty ★272 ⏳1Y](https://github.com/ccoenraets/ionic2-realty)
+* [IonicRealty ★274 ⏳1Y](https://github.com/ccoenraets/ionic2-realty)
 * [Ionic Firebase Chat App ★34](https://github.com/ionic2blueprints/firebase-chat)
-* [Ionic Ecommerce App ★22 ⏳1Y](https://github.com/ionic2blueprints/ionic2-marketcloud)
-* [Ionic Conference App based on Lanyrd API ★6 ⏳1Y](https://github.com/ionic2blueprints/conference-app)
+* [Ionic Ecommerce App ★23 ⏳1Y](https://github.com/ionic2blueprints/ionic2-marketcloud)
+* [Ionic Conference App based on Lanyrd API ★7 ⏳1Y](https://github.com/ionic2blueprints/conference-app)
 * [Ionic Stock Tracking App ★13 ⏳1Y](https://github.com/ionic2blueprints/ionic2-stockmarket)
 * [Ionic Wordpress Client ★16 ⏳1Y](https://github.com/ionic2blueprints/ionic2-wp-client)
-* [Ionic Media Player ★27](https://github.com/ionic2blueprints/media-player)
+* [Ionic Media Player ★28](https://github.com/ionic2blueprints/media-player)
 * [Ionic Social App ★24 ⏳1Y](https://github.com/ionic2blueprints/social-app)
 * [Ionic Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 * [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum)
-* [Ionic Reddit Reader ★117](https://github.com/smartapant/ionic2-reddit-reader)
+* [Ionic Reddit Reader ★120](https://github.com/smartapant/ionic2-reddit-reader)
 * [Ionic Advanced Components](https://github.com/yannbf/ionic2-components)
 * [Ionic aiEyes - Azure Computer Vision API ★8](https://github.com/brenopolanski/aiEyes)
 

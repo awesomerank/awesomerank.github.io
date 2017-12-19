@@ -40,7 +40,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Shopify](https://github.com/Shopify/eslint-plugin-shopify) - Shareable config for [Shopify's style guide ★138](https://github.com/Shopify/javascript)
 - [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard)
 - [Supermind ★1](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style
-- [XO](https://github.com/sindresorhus/eslint-config-xo) - Shareable config for [XO ★3061](https://github.com/sindresorhus/xo)
+- [XO](https://github.com/sindresorhus/eslint-config-xo) - Shareable config for [XO ★3146](https://github.com/sindresorhus/xo)
 
 ## Parsers
 
@@ -118,7 +118,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [prettier-standard ★238](https://github.com/sheerun/prettier-standard) - Prettier formatter with custom eslint rules allowed
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style
 - [Superlint ★0](https://github.com/supermind/superlint) - JavaScript Supermind Style
-- [XO ★3061](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️
+- [XO ★3146](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️
 
 ## Tools
 

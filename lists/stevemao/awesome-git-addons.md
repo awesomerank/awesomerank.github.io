@@ -7,7 +7,7 @@ title: Awesome Rank for stevemao/awesome-git-addons
 	This list is a copy of <a href="https://github.com/stevemao/awesome-git-addons">stevemao/awesome-git-addons</a> with ranks
 </p>
 ---
-# Awesome git addons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome git addons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 A curated list of add-ons that extend/enhance the git CLI.
 
@@ -18,7 +18,7 @@ Something awesome happens!
 
 > _“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)_
 
-Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list thing.
 
 **Note**: Some of the commands may not work out of the box. You might need to run a post install script to add aliases or add them manually.
 
@@ -64,7 +64,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [git-fresh](#git-fresh)
 
 
-## [git-extras ★10720](https://github.com/tj/git-extras)
+## [git-extras ★10883](https://github.com/tj/git-extras)
 
 ### squash
 
@@ -1163,7 +1163,7 @@ $ git branch-status
 ```
 
 
-## [git-open ★1164](https://github.com/paulirish/git-open)
+## [git-open ★1190](https://github.com/paulirish/git-open)
 
 ```
 $ git open
@@ -1305,7 +1305,7 @@ $ git dsf
 ![](http://i.imgur.com/PpM0i3v.png)
 
 
-## [git-secret ★671](https://github.com/sobolevn/git-secret)
+## [git-secret ★693](https://github.com/sobolevn/git-secret)
 
 ### git secret init
 

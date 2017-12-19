@@ -7,7 +7,7 @@ title: Awesome Rank for robinstickel/awesome-design-principles
 	This list is a copy of <a href="https://github.com/robinstickel/awesome-design-principles">robinstickel/awesome-design-principles</a> with ranks
 </p>
 ---
-# Awesome Design Principles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Design Principles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 A curated list of good design and experience principles.
 

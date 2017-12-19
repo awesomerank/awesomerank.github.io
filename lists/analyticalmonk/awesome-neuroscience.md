@@ -14,7 +14,7 @@ title: Awesome Rank for analyticalmonk/awesome-neuroscience
 
 [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience) is the study of how the nervous system develops, its structure, and what it does. Neuroscientists focus on the brain and its impact on behavior and cognitive functions. Traditionally, neuroscience has been seen as a branch of biology, but it has grown to encompass a wide range of interdisciplinary fields that work together toward elucidating brain function at multiple levels of investigation.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 
 ## Contents
@@ -40,7 +40,7 @@ Software, libraries and frameworks for development purposes.
 
 - [Nengo ★274](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
 - [Nitime ★106](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
-- [Nilearn ★308](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
+- [Nilearn ★331](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
 - [DIPY ★136](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
 - [MNE-Python ★371](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
 - [NiBabel ★165](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.

@@ -7,7 +7,7 @@ title: Awesome Rank for ipfs/awesome-ipfs
 	This list is a copy of <a href="https://github.com/ipfs/awesome-ipfs">ipfs/awesome-ipfs</a> with ranks
 </p>
 ---
-# Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
@@ -20,7 +20,7 @@ are totally_ **awesome**_. This is for products which are already awesome - if
 you have plans for cool stuff to do with IPFS, you should build it, and then
 link it here. If you have an idea for an awesome thing to do with IPFS, a good
 place to ask about it might be in [ipfs/apps ★41](https://github.com/ipfs/apps) or
-[ipfs/notes ★135](https://github.com/ipfs/notes)._
+[ipfs/notes ★138](https://github.com/ipfs/notes)._
 
 ## Table of Contents
 
@@ -41,7 +41,7 @@ place to ask about it might be in [ipfs/apps ★41](https://github.com/ipfs/apps
 * [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
 * [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
 * [Arbore](https://github.com/MichaelMure/TotallyNotArbore) - A friend-to-friend file-sharing app build on top of IPFS.
-* [beets ★6302](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
+* [beets ★6481](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub ★142 ⏳1Y](https://github.com/fazo96/ipfs-boards)
 * [Cohort ★15 ⏳1Y](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
@@ -50,19 +50,19 @@ place to ask about it might be in [ipfs/apps ★41](https://github.com/ipfs/apps
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 * [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage. 
 * [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance)
-* [git-ipfs-rehost ★79 ⏳1Y](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
+* [git-ipfs-rehost ★80 ⏳1Y](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
-* [HydrusNetwork ★263](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
-* [InterPlanetary Wayback ★99](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
-* [Interplanetary Wiki ★49 ⏳2Y](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
+* [HydrusNetwork ★273](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
+* [InterPlanetary Wayback ★104](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
+* [Interplanetary Wiki ★48 ⏳2Y](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 * [IPFS Event Drop ★5 ⏳2Y](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events.
-* [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub ★21](https://github.com/kpcyrd/ipfs.ink)
+* [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub ★28](https://github.com/kpcyrd/ipfs.ink)
 * [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS.
-* [ipfs-share ★24 ⏳2Y](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
-* [ipfs.pics ★826](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
-* [IPFSBin ★91 ⏳1Y](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
+* [ipfs-share ★26 ⏳2Y](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
+* [ipfs.pics ★845](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
+* [IPFSBin ★93 ⏳1Y](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
 * [IPFSStore](https://ipfsstore.it) - Pinning paid with Bitcoin
-* [markup.rocks ★14 ⏳2Y](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
+* [markup.rocks ★16 ⏳2Y](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
 * [Partyshare](https://partysha.re) - A simple file sharing app.
 * [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
@@ -92,24 +92,24 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 
 ## Tools
 
-* [cachewarmer ★32](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
-* [git-remote-ipfs ★98](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
+* [cachewarmer ★33](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
+* [git-remote-ipfs ★100](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
 * [http2ipfs ★22](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
 * [ipcat ★5 ⏳2Y](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
-* [ipfs-chrome-station ★43](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
+* [ipfs-chrome-station ★44](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
 * [ipfs-chrome-extension ★57 ⏳1Y](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
-* [ipfs-companion ★118](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway
+* [ipfs-companion ★131](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway
 * [ipfs-gui ★18](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
-* [ipfs-linux-service ★33 ⏳2Y](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
-* [ipfs-paste ★16 ⏳2Y](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
+* [ipfs-linux-service ★35 ⏳2Y](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
+* [ipfs-paste ★18 ⏳2Y](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
 * [ipfs-screencap ★27 ⏳1Y](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
-* [ipfscrape ★125 ⏳1Y](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
-* [ipget ★65](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
+* [ipfscrape ★128 ⏳1Y](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
+* [ipget ★70](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
 * [IPRedirect ★0](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
-* [ipscend ★160](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
-* [pinbot ★15](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
-* [ipfs-mount ★20](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows
-* [ipfs-add-from-url ★5](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
+* [ipscend ★165](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
+* [pinbot ★17](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
+* [ipfs-mount ★21](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows
+* [ipfs-add-from-url ★8](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
 
 ## Videos
 

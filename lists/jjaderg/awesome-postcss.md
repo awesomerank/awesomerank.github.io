@@ -11,7 +11,7 @@ title: Awesome Rank for jjaderg/awesome-postcss
   <img src="logo.png" alt="Awesome PostCSS">
 </p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/jjaderg/awesome-postcss.svg?branch=master)](https://travis-ci.org/jjaderg/awesome-postcss)
 
 > An selected list of PostCSS resources and other things related.
@@ -79,12 +79,12 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ###### Gulp
 
-- [gulp-autoprefixer ★573](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix css with Autoprefixer.
-- [gulp-postcss ★539](https://github.com/postcss/gulp-postcss) -  Pipe css through postcss processors with a single parse.
+- [gulp-autoprefixer ★578](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix css with Autoprefixer.
+- [gulp-postcss ★544](https://github.com/postcss/gulp-postcss) -  Pipe css through postcss processors with a single parse.
 - [gulp-australian-stylesheets ★1 ⏳2Y](https://github.com/stevemao/gulp-australian-stylesheets) - Compile Australian css with [postcss-australian-stylesheets
 ](https://github.com/dp-lewis/postcss-australian-stylesheets).
 - [gulp-rucksack ★8](https://github.com/seaneking/gulp-rucksack) - Plugin for rucksack - a little bag of css superpowers.
-- [gulp-pxtorem](https://github.com/cuth/gulp-pxtorem) - Plugin for [postcss-pxtorem ★338](https://github.com/cuth/postcss-pxtorem).
+- [gulp-pxtorem](https://github.com/cuth/gulp-pxtorem) - Plugin for [postcss-pxtorem ★364](https://github.com/cuth/postcss-pxtorem).
 - [gulp-html-postcss ★4](https://github.com/StartPolymer/gulp-html-postcss) - Process inline css in HTML using postcss gulp plugin.
 
 ## Guides
@@ -117,14 +117,14 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [postcss parts](https://www.postcss.parts) - A searchable catalog of postcss plugins by [@mxstbr](https://github.com/mxstbr).
 - [atom-language-postcss ★55](https://github.com/azat-io/atom-language-postcss) - Atom language support for postcss by [@azat-io](https://github.com/azat-io).
 - [poststylus ★243](https://github.com/seaneking/poststylus) - Postcss adapter for stylus by [@seaneking](https://github.com/seaneking).
-- [postcss-instagram ★92](https://github.com/azat-io/postcss-instagram) - This is a postcss plugin for adding instagram filters to your photos by [@azat-io](https://github.com/azat-io).
+- [postcss-instagram ★95](https://github.com/azat-io/postcss-instagram) - This is a postcss plugin for adding instagram filters to your photos by [@azat-io](https://github.com/azat-io).
 - [postcss-normalize ★312](https://github.com/jonathantneal/postcss-normalize) - Simple normalize.css wrapper for postcss by [@jonathantneal](https://github.com/jonathantneal).
-- [postcss-font-magician ★703](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal).
-- [postcss-loader ★1567](https://github.com/postcss/postcss-loader) - Postcss loader for webpack by [PostCSS Team](https://github.com/postcss).
-- [css-declaration-sorter ★63](https://github.com/Siilwyn/css-declaration-sorter) - Sort css declarations fast and automatically in a certain order by [@siilwyn](https://github.com/Siilwyn).
-- [postcss-pxtorem ★338](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss by [@cuth](https://github.com/cuth).
-- [postcss-selector-parser ★59](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings by [PostCSS Team](https://github.com/postcss).
-- [postcss-html ★12](https://github.com/gucong3000/postcss-html) - Postcss Syntax for parsing HTML / Markdown / Vue component by [@gucong3000](https://github.com/gucong3000).
+- [postcss-font-magician ★714](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal).
+- [postcss-loader ★1623](https://github.com/postcss/postcss-loader) - Postcss loader for webpack by [PostCSS Team](https://github.com/postcss).
+- [css-declaration-sorter ★67](https://github.com/Siilwyn/css-declaration-sorter) - Sort css declarations fast and automatically in a certain order by [@siilwyn](https://github.com/Siilwyn).
+- [postcss-pxtorem ★364](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss by [@cuth](https://github.com/cuth).
+- [postcss-selector-parser ★60](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings by [PostCSS Team](https://github.com/postcss).
+- [postcss-html ★14](https://github.com/gucong3000/postcss-html) - Postcss Syntax for parsing HTML / Markdown / Vue component by [@gucong3000](https://github.com/gucong3000).
 
 ## Presentations
 

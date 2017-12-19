@@ -7,7 +7,7 @@ title: Awesome Rank for wbkd/awesome-d3
 	This list is a copy of <a href="https://github.com/wbkd/awesome-d3">wbkd/awesome-d3</a> with ranks
 </p>
 ---
-# Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities.
 <br />We decided not to list tutorials, resources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials)** out there you can check out and contribute to.
@@ -21,11 +21,11 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [britecharts ★2907](https://github.com/eventbrite/britecharts) - Client-side reusable Charting Library
 - [bullet chart](https://github.com/d3/d3-plugins/tree/master/bullet) - Bullet chart
 - [cirrus.js ★89 ⏳1Y](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library
-- [cubism ★4599](https://github.com/square/cubism) - Time Series Visualization
+- [cubism ★4614](https://github.com/square/cubism) - Time Series Visualization
 - [cola.js ★1060](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration
-- [c3 ★7293](https://github.com/c3js/c3) - Reusable chart library
+- [c3 ★7375](https://github.com/c3js/c3) - Reusable chart library
 - [dagre-d3 ★1115](https://github.com/cpettitt/dagre-d3) - Layout directed graphs on the client-side
-- [dc ★5949](https://github.com/dc-js/dc.js) - For heavy amounts of data
+- [dc ★6010](https://github.com/dc-js/dc.js) - For heavy amounts of data
 - [dimple ★2580](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
 - [d2b ★17](https://github.com/d2bjs/d2b) - Reusable chart library, using D3 v4+ and including support for axis, pie, sankey, sunburst charts and more
 - [d3.chart ★752 ⏳1Y](https://github.com/misoproject/d3.chart) - Framework for building reusable charts
@@ -48,9 +48,9 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3pie ★313](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 - [D3xter ★347 ⏳1Y](https://github.com/NathanEpstein/D3xter) - Straight forward plotting
 - [d3 timeseries ★75](https://github.com/mcaule/d3-timeseries) - Time series charting library
-- [D4 ★403](https://github.com/heavysixer/d4) - Re-usable charts DSL
+- [D4 ★404](https://github.com/heavysixer/d4) - Re-usable charts DSL
 - [dTree ★96](https://github.com/ErikGartner/dTree) - Family tree library
-- [epoch ★4894](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library
+- [epoch ★4900](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library
 - [EventDrops ★825](https://github.com/marmelab/EventDrops) - A time based/event series interactive visualization
 - [fancycharts ★90 ⏳2Y](https://github.com/ahoiin/Fancycharts.js) - Library to visualize percentage values
 - [firespray ★89 ⏳2Y](https://github.com/boundary/firespray) - Streaming charts
@@ -58,21 +58,21 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [Gantt-Chart ★279](https://github.com/dk8996/Gantt-Chart) - Gantt chart library
 - [insights ★184](https://github.com/ignacioola/insights) -  Library to visualize and navigate graphs
 - [kotojs ★276](https://github.com/kotojs/kotojs) - ES6 based framework
-- [metricsgraphics ★6757](https://github.com/mozilla/metrics-graphics) - Optimized for visualizing time-series data
+- [metricsgraphics ★6773](https://github.com/mozilla/metrics-graphics) - Optimized for visualizing time-series data
 - [micropolar ★113](https://github.com/biovisualize/micropolar) - A polar chart library
 - [mpld3 ★1543](https://github.com/mpld3/mpld3) - Export matplotlib graphics to work in the Browser
 - [neo4jd3 ★108](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
-- [nvd3 ★6246](https://github.com/novus/nvd3) - Re-usable charts and chart components
+- [nvd3 ★6288](https://github.com/novus/nvd3) - Re-usable charts and chart components
 - [peek ★64 ⏳1Y](https://github.com/mtmacdonald/peek) - Object-oriented chart library
 - [plotly ★7266](https://github.com/plotly/plotly.js) - High level charting library
 - [plottablejs ★2252](https://github.com/palantir/plottable) - Flexible, interactive charts for the web
-- [pykcharts ★277 ⏳1Y](https://github.com/pykih/PykCharts.js) - Themeable, responsive, modular, real-time charts and 109+ maps
+- [pykcharts](https://github.com/pykih/PykCharts.js) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar chart ★308](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
-- [rickshaw ★6146](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
+- [rickshaw ★6168](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts ★1560](https://github.com/TargetProcess/tauCharts) - Charts with a focus on design and flexibility
 - [techanjs ★1197 ⏳1Y](https://github.com/andredumas/techan.js) - A visual, stock charting and technical analysis
-- [uvCharts ★232](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types
+- [uvCharts ★235](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types
 - [vega ★5424](https://github.com/vega/vega) - A visualization grammar
 - [vega-lite ★982](https://github.com/vega/vega-lite) - A high-level grammar of interactive graphics
 - [venn.js ★552](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
@@ -86,7 +86,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3act ★299](https://github.com/AnSavvides/d3act) - d3 with React
 - [d3 simplecharts ★4 ⏳4Y](https://github.com/mrBigJS/d3-simpleCharts) - A d3 wordpress plugin
 - [ember charts ★771](https://github.com/Addepar/ember-charts) - Charts for Ember
-- [n3-charts ★1218](https://github.com/n3-charts/line-chart) - Charts for Angular
+- [n3-charts ★1224](https://github.com/n3-charts/line-chart) - Charts for Angular
 - [nivo ★1851](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability
 - [numberpicture ★81](https://github.com/finnfiddle/number-picture) - Collection of React components for composing visualizations
 - [react-d3 ★1684 ⏳1Y](https://github.com/esbullington/react-d3) - Charts for React
@@ -94,7 +94,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [react-d3-library ★766](https://github.com/react-d3-library/react-d3-library) - Library that allows developers the ability to use D3 in React
 - [react-stockcharts ★1171](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts
 - [react-vis](https://github.com/uber-common/react-vis) - A collection of react components to render common data visualization charts
-- [recharts ★7166](https://github.com/recharts/recharts) - Re-designed charting library built with React
+- [recharts ★7492](https://github.com/recharts/recharts) - Re-designed charting library built with React
 - [semiotic ★996](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3
 - [victory ★5345](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [vx ★3142](https://github.com/hshoff/vx) - Visualization components for React
@@ -109,7 +109,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 geo projection ★581](https://github.com/d3/d3-geo-projection) - Extended geographic projections
 - [d3 geomap ★57](https://github.com/yaph/d3-geomap) - Library for creating geographic maps
 - [d3.geo2rect ★150](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles
-- [earthjs.js ★39](https://github.com/earthjs/earthjs) - Easy building orthographic globe, using D3v4 with SVG, Canvas & WebGL(Threejs)
+- [earthjs.js ★52](https://github.com/earthjs/earthjs) - Easy building orthographic globe, using D3v4 with SVG, Canvas & WebGL(Threejs)
 - [mapmap.js ★81 ⏳1Y](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsense.js ★82 ⏳2Y](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
 - [maptable ★49](https://github.com/Packet-Clearing-House/maptable) - Convert any dataset to a customizable set of visual components (Map, Filters, Table)
@@ -168,7 +168,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [comic.js ★113 ⏳1Y](https://github.com/balint42/comic.js) - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
 - [dragit ★154 ⏳1Y](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics
 - [d3moji ★99](https://github.com/mathisonian/d3moji) - First class emoji support
-- [d3-cloud ★2289](https://github.com/jasondavies/d3-cloud) - Word clouds
+- [d3-cloud ★2330](https://github.com/jasondavies/d3-cloud) - Word clouds
 - [d3-context-menu ★64](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
 - [d3-force-gravity ★17 ⏳1Y](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion) using d3-force
 - [d3-resume ★25 ⏳2Y](https://github.com/glena/d3-resume) - Resume visualizer

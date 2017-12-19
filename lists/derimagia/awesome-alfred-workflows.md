@@ -16,7 +16,7 @@ A curated list of Awesome Alfred Workflows.
 
 [Alfred](https://www.alfredapp.com/) is a productivity app for macOS that boosts your efficiency with hotkeys, keywords and text expansion.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 ## Contents
 - [Communication](#communication)
@@ -86,7 +86,7 @@ A curated list of Awesome Alfred Workflows.
 - [LastPass Vault Manager ★92 ⏳2Y](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
 - [Password Generator ★57](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
 - [Random MAC](http://www.packal.org/workflow/random-mac) - Assigns a random MAC address to `en0` (e.g. for free wifi).
-- [Viscosity VPN ★36](https://github.com/deanishe/alfred-viscosity) - Control [Viscosity](https://www.sparklabs.com/viscosity/) VPN connections.
+- [VPN Manager ★36](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections.
 
 ## System
 - [AppFreeze](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - Pauses and resumes execution of the frontmost app.

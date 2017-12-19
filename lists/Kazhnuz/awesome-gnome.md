@@ -7,7 +7,7 @@ title: Awesome Rank for Kazhnuz/awesome-gnome
 	This list is a copy of <a href="https://github.com/Kazhnuz/awesome-gnome">Kazhnuz/awesome-gnome</a> with ranks
 </p>
 ---
-# Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
 
@@ -68,7 +68,7 @@ title: Awesome Rank for Kazhnuz/awesome-gnome
 ### Internet
 
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
-- [Eolie ★117](https://github.com/gnumdk/eolie) - Web browser that uses vertical tabs.
+- [Eolie](https://gitlab.gnome.org/gnumdk/eolie) - Web browser that uses vertical tabs.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client for GNOME, created originally by Yorba.
 - [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
 - [Corebird](http://corebird.baedert.org/) - Twitter client.
@@ -92,7 +92,7 @@ title: Awesome Rank for Kazhnuz/awesome-gnome
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal ★111](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [GNOME MPV ★168](https://github.com/gnome-mpv/gnome-mpv) - GUI for the MPV media player for GNOME.
-- [Lollypop ★868](https://github.com/gnumdk/lollypop) - Beautiful music application.
+- [Lollypop](https://gitlab.gnome.org/gnumdk/lollypop) - Beautiful music application.
 - [GRadio ★223](https://github.com/haecker-felix/gradio) - Client for web-based radio.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect ★298](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.

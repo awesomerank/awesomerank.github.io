@@ -9,7 +9,7 @@ title: Awesome Rank for neueda/awesome-neo4j
 ---
 Awesome Neo4j
 ==============
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master )](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.  
@@ -81,7 +81,7 @@ Created by [gh-md-toc ★148](https://github.com/ekalinin/github-markdown-toc.go
 - [neo4j-dotnet-driver ★50](https://github.com/neo4j/neo4j-dotnet-driver) - .Net driver for Neo4j (Bolt).
 - [neo4j-bolt-php ★16](https://github.com/graphaware/neo4j-bolt-php) - PHP driver for Neo4j binary protocol.
 - [libneo4j-client ★43](https://github.com/cleishm/libneo4j-client) - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results.
-- [neo4j-spark-connector ★89](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
+- [neo4j-spark-connector ★94](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
 - [neo4j-elixir-driver ★19](https://github.com/mschae/boltex) - Elixir driver for the neo4j bolt protocol
 - [neo4j-elixir-wrapper ★74](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir, wrapped around the Bolt protocol. Fork of the Boltex.
 

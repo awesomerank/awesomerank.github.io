@@ -7,7 +7,7 @@ title: Awesome Rank for karlhorky/learn-to-program
 	This list is a copy of <a href="https://github.com/karlhorky/learn-to-program">karlhorky/learn-to-program</a> with ranks
 </p>
 ---
-# Learn to Program [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Learn to Program [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 #### Foundation in Web Development
 
 The Internet is filled with an ever-expanding number of courses, books and guides for programmers of all skill levels to improve their skills. Unfortunately, these resources are either hard to find or of low quality.

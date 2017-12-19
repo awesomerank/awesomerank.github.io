@@ -7,7 +7,7 @@ title: Awesome Rank for brabadu/awesome-fonts
 	This list is a copy of <a href="https://github.com/brabadu/awesome-fonts">brabadu/awesome-fonts</a> with ranks
 </p>
 ---
-# Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 A curated list of fonts and typography resources.
 
 ## Contents
@@ -68,10 +68,10 @@ A curated list of fonts and typography resources.
 * [emoji ★416 ⏳1Y](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
 * [emojidex ★3](https://github.com/emojidex/emojidex) - Emoji-as-a-service provider and set of tools and assets
 * [emojify.js ★1720](https://github.com/emojione/emojify.js) - A Javascript module to convert Emoji keywords to images
-* [emojify ★925](https://github.com/mrowa44/emojify) - Emoji on the command line
+* [emojify ★941](https://github.com/mrowa44/emojify) - Emoji on the command line
 * [emojilib ★698](https://github.com/muan/emojilib) - Emoji keyword library
 * [emojillate ★228](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
-* [emojione ★3743](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
+* [emojione ★3790](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
 * [emojistatic ★86 ⏳3Y](https://github.com/mroth/emojistatic) - CDN static asset generation for emoji
 * [emojitracker ★552 ⏳1Y](https://github.com/mroth/emojitracker) - Track ALL the emoji
 * [emojize ★112 ⏳2Y](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility.
@@ -79,7 +79,7 @@ A curated list of fonts and typography resources.
 * [gh-emoji ★139](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
 * [node-emoji ★386](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
 * [megamoji ★150](https://github.com/muan/megamoji) - Making megamojis like a pro
-* [mojibar ★1762](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
+* [mojibar ★1771](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
 * [mojime ★39](https://github.com/JuanitoFatas/mojime) - Outputs random emojis
 * [php-emoji ★1018](https://github.com/iamcal/php-emoji) - A PHP Emoji conversion library
 * [twemoji ★7195](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
@@ -92,7 +92,7 @@ A curated list of fonts and typography resources.
 * [Font Custom ★3127](https://github.com/FontCustom/fontcustom) - Icon font generator
 * [Font-Awesome](http://fontawesome.io) - The iconic font and CSS toolkit
 * [font-mfizz ★437](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
-* [FontAwesomeKit ★2565](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
+* [FontAwesomeKit ★2590](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 * [fontello](http://fontello.com) - Iconic fonts scissors
   * [brandico.font](http://fontello.github.io/brandico.font/demo.html) - Font with logos of social services & messagers
   * [fontelico.font](http://fontello.github.io/fontelico.font/demo.html) - Open Source iconic font from Fontello project
@@ -124,15 +124,15 @@ A curated list of fonts and typography resources.
   * [Source Sans Pro ★2113](https://github.com/adobe-fonts/source-sans-pro)
   * [Source Serif Pro ★1235](https://github.com/adobe-fonts/source-serif-pro)
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
-* [Codeface ★4276](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
+* [Codeface ★4318](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
 * [Fantasque Sans Mono ★3400](https://github.com/belluzj/fantasque-sans)
 * [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
 * [Hack ★10432](https://github.com/source-foundry/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
-* [Meslo-Font ★1806 ⏳2Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
+* [Meslo-Font ★1815 ⏳2Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Mononoki](http://madmalik.github.io/mononoki/)
-* [Nerd Fonts ★6076](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+* [Nerd Fonts ★6381](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 
 #### Programming fonts with ligatures
 * [FiraCode ★19155](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
@@ -146,7 +146,7 @@ A curated list of fonts and typography resources.
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 * [fontkit ★255](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 * [fontmin ★2394](https://github.com/ecomfe/fontmin) - Font minifier
-* [Lettering.js ★4940](https://github.com/davatron5000/Lettering.js)
+* [Lettering.js ★4952](https://github.com/davatron5000/Lettering.js)
 * [localFont ★859 ⏳1Y](https://github.com/jaicab/localFont) - Save fonts in localStorage
 * [opentype.js ★1813](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
 * [Typefont ★1285](https://github.com/Sirvasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
@@ -166,7 +166,7 @@ A curated list of fonts and typography resources.
 * [Command line font-manager ★17 ⏳1Y](https://github.com/alyssais/font)
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 * [FontForge ★1721](https://github.com/fontforge/fontforge) - Cross-platform font editor
-* [Powerline Fonts ★9911](https://github.com/powerline/fonts) - Patched fonts for Powerline users
+* [Powerline Fonts ★10262](https://github.com/powerline/fonts) - Patched fonts for Powerline users
 
 ## License
 

@@ -7,7 +7,7 @@ title: Awesome Rank for TalAter/awesome-service-workers
 	This list is a copy of <a href="https://github.com/TalAter/awesome-service-workers">TalAter/awesome-service-workers</a> with ranks
 </p>
 ---
-# Awesome Service Workers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Service Workers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 A curated collection of service worker resources.
 
@@ -40,7 +40,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 - [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/) - A general introduction to service workers and using UpUp to provide offline functionality in minutes.
 - [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
-- [Service Workers 101 ★600](https://github.com/delapuente/service-workers-101) - An infographic summarizing the most important parts of service workers API.
+- [Service Workers 101 ★607](https://github.com/delapuente/service-workers-101) - An infographic summarizing the most important parts of service workers API.
 - [ServiceWorker Cookbook by Mozilla](https://serviceworke.rs/) - A collection of recipes for different use cases.
 - [The copy & paste guide to your first Service Worker](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker) - Shortest available introduction, by [Remy Sharp](https://github.com/remy).
 - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) - The bible of service worker Patterns by Jake Archibald.
@@ -77,11 +77,11 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ## Related Technologies
 
-- [App Install Banners ★983](https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps)
-- [Background Sync ★983](https://github.com/TalAter/awesome-progressive-web-apps#background-sync)
-- [CacheStorage API ★983](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api)
-- [IndexedDB ★983](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb)
-- [Push Notifications ★983](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)
+- [App Install Banners ★1005](https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps)
+- [Background Sync ★1005](https://github.com/TalAter/awesome-progressive-web-apps#background-sync)
+- [CacheStorage API ★1005](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api)
+- [IndexedDB ★1005](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb)
+- [Push Notifications ★1005](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/TalAter/awesome-service-workers">TalAter/awesome-service-workers</a> with ranks

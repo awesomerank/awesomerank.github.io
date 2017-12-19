@@ -7,7 +7,7 @@ title: Awesome Rank for jaredthecoder/awesome-vehicle-security
 	This list is a copy of <a href="https://github.com/jaredthecoder/awesome-vehicle-security">jaredthecoder/awesome-vehicle-security</a> with ranks
 </p>
 ---
-# Awesome Vehicle Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Vehicle Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 
 *A curated list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
@@ -308,8 +308,8 @@ List of lists.
   - [Honeypots ★1941](https://github.com/paralax/awesome-honeypots)
   - [Incident Response ★1602](https://github.com/meirwah/awesome-incident-response)
 - Meta
-  - [awesome ★69735](https://github.com/sindresorhus/awesome)
-  - [lists ★4569](https://github.com/jnv/lists)
+  - [awesome ★73813](https://github.com/sindresorhus/awesome)
+  - [lists ★4644](https://github.com/jnv/lists)
 
 # Contributing
 

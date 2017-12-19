@@ -7,7 +7,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 	This list is a copy of <a href="https://github.com/zhaopuming/awesome-d">zhaopuming/awesome-d</a> with ranks
 </p>
 ---
-# Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 =========
 
   A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python ★42063](https://github.com/vinta/awesome-python).
@@ -62,6 +62,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 		- [Scientific](#scientific)
 	- Machine Learning
 		- [Machine Learning](#machine-learning)
+	- [Parallel computing](#parallel-computing)
 	- Others
 		- [Text Processing](#text-processing)
 		- [Command Line](#command-line)
@@ -122,7 +123,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 
 ## Tutorials
 *D related tutorials.*
-* [The Dlang Tour](http://tour.dlang.io/) - An interactive tutorial for D, inspired by Golang Tour.
+* [The Dlang Tour](https://tour.dlang.org/) - An interactive tutorial for D, inspired by Golang Tour.
 * [Pragmatic D tutorial](http://qznc.github.io/d-tut/index.html) - This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.
 * [D Template Tutorial ★168](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
 * [Component programming in D](http://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - An article written by Walter Bright that details how D's functional support leads to a flexible and beautiful component programming style.
@@ -345,6 +346,8 @@ title: Awesome Rank for zhaopuming/awesome-d
 
 ## Video applications
 
+* [DerelictGL3 ★73](https://github.com/DerelictOrg/DerelictGL3) - A dynamic binding to OpenGL for the D Programming Language.
+
 ## Image Processing
 
 * [ArmageddonEngine](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
@@ -355,6 +358,12 @@ title: Awesome Rank for zhaopuming/awesome-d
 ## Machine Learning
 
 * [vectorflow ★882](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
+
+## Parallel computing
+
+* [DCompute ★54](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
+* [DerelictCUDA ★15](https://github.com/DerelictOrg/DerelictCUDA) - Dynamic bindings to the CUDA library for the D Programming Language.
+* [DerelictCL ★5](https://github.com/DerelictOrg/DerelictCL) - Dynamic bindings to the OpenCL library for the D Programming Language.
 
 ## Scientific
 *Scientific programming*
@@ -393,7 +402,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 - [unit-threaded ★73](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness) projects.
+Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness) projects.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/zhaopuming/awesome-d">zhaopuming/awesome-d</a> with ranks

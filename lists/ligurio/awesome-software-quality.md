@@ -10,7 +10,7 @@ title: Awesome Rank for ligurio/awesome-software-quality
 ## List of Free Software Testing Resources
 
 [![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 ### Intro
 
@@ -84,6 +84,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) (PDF) - Ajay Balamurugadas
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 * [Mutation Testing: Better Code by Making Bugs](https://leanpub.com/mutationtesting) - Filip van Laenen
+* [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) - Jason Polites
 
 #### Standards In software Testing
 
@@ -366,11 +367,14 @@ create a similar list with books, courses and podcasts about software quality.
 - [Fuzzing testing ★1442](https://github.com/secfigo/Awesome-Fuzzing)
 - [Mutation testing ★12](https://github.com/theofidry/mutation-testing)
 - [Chaos Engineering ★747](https://github.com/dastergon/awesome-chaos-engineering)
-- [Static analysis ★1967](https://github.com/mre/awesome-static-analysis)
+- [Static analysis ★2135](https://github.com/mre/awesome-static-analysis)
 - [TAP (Test Anything Protocol) ★379](https://github.com/sindresorhus/awesome-tap)
 - [Selenium ★101](https://github.com/TheJambo/awesome-testing)
 - [Symbolic execution ★30](https://github.com/ksluckow/awesome-symbolic-execution)
+- [Coq Proof Assistant ★137](https://github.com/uhub/awesome-coq)
 - [Visual regression testing ★225](https://github.com/mojoaxel/awesome-regression-testing)
+- [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
+- [Testing of distributed systems ★72](https://github.com/asatarin/testing-distributed-systems)
 
 ### License
 

@@ -9,7 +9,7 @@ title: Awesome Rank for robinrodricks/awesome-actionscript3
 ---
 [<img src="https://rawgit.com/hgupta9/awesome-actionscript3/master/AS3_AIR.png" align="right" width="150">](https://www.adobe.com/products/air.html)
 
-# Awesome ActionScript 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome ActionScript 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 
@@ -38,6 +38,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [FlashDevelop](http://flashdevelop.org/) - Premiere free & open-source IDE for AS3 & AIR, with code completion, debugging, and more.
 * [Powerflasher FDT](http://fdt.powerflasher.com/) - Commercial IDE built on the Eclipse platform for development of Adobe Flash/AIR content.
 * [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (with advanced debugging tools).
+* [Moonshine IDE](http://moonshine-ide.com/) - Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache FlexJS® and Feathers development with Cloud and Desktop support.
 
 #### Live Debuggers
 * [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced visual profiling and debugging tool for AIR apps & games (supports Stage3D).
@@ -85,6 +86,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Swiz ★236 ⏳4Y](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Hiddenwood ★4 ⏳5Y](https://github.com/raweden/Project-Hiddenwood) - User interface library developed for a web app project, written in AS3 and in a MVC pattern.
 * [Elastic-Lists ★107 ⏳6Y](https://github.com/MoritzStefaner/Elastic-Lists) - Fluid and powerful interface for facet browsing.
+* [Apache Flex®](https://flex.apache.org/) - The Apache Flex® SDK is the evolution of the popular Adobe Flex SDK. The Apache Flex® SDK is an application development framework for easily building Flash-based applications for mobile devices, web browsers, and desktop platforms.
+* [Apache Royale®](http://royale.apache.org/) - The Apache Royale® project is developing a next-generation of the Apache Flex® SDK. Royale has the goal of allowing applications developed in MXML and ActionScript to not only run in the Flash/AIR runtimes, but also to run natively in the browser without Flash, on mobile devices as a PhoneGap/Cordova application, and in embedded JS environments such as Chromium Embedded Framework. Royale has the potential to allow your MXML and ActionScript code to run in even more places than Flash currently does.
 
 #### Game Frameworks
 
@@ -336,7 +339,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### CSV
 
 * [CSV4AS3 ★4 ⏳4Y](https://github.com/lizardon/CSV4AS3) - CSV library ported from Apache Commons CSV.
-* [Csvlib ★7 ⏳5Y](https://github.com/51systems/csvlib) - CSV parser.
+* [Csvlib ★7 ⏳6Y](https://github.com/51systems/csvlib) - CSV parser.
 
 #### CSS
 
@@ -544,7 +547,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3GeomAlgo ★40 ⏳3Y](https://github.com/azrafe7/as3GeomAlgo) - Collection of geometry algorithms. Port of hxGeomAlgo.
 * [Coral ★45](https://github.com/richardlord/Coral) - High-performance classes for 3D mathematics (Point, Vector, Matrix, Quaternion).
 * [Csg.as ★8 ⏳5Y](https://github.com/timknip/csg.as) - Constructive Solid Geometry on 3D meshes.
-* [PathUtils ★3 ⏳5Y](https://github.com/alinakipoglu/Actionscript-PathUtils) - Working with quadratic, bezier and line sequences.
+* [PathUtils ★3 ⏳6Y](https://github.com/alinakipoglu/Actionscript-PathUtils) - Working with quadratic, bezier and line sequences.
 * [Hilbert ★1 ⏳6Y](https://github.com/nodename/Hilbert) - Port of Hilbert curve from cortesi/scurve.
 * [AS3AStar ★21 ⏳6Y](https://github.com/tomnewton/AS3AStar) - Fast A-Star pathfinding algorithm.
 * [A-star_pathfinder ★3 ⏳6Y](https://github.com/kevhiggins/a-star_pathfinder) - A-Star pathfinding interface for tile based maps.

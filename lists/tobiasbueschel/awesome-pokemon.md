@@ -81,10 +81,10 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [alfred-pokedex ★19 ⏳1Y](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
 - [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) - Wondrous, tailor-made Pokémon themes for your Hyper terminal.
 - [Pokemon-Go-Controller ★2464 ⏳1Y](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area.
-- [pokecrystal ★910](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
+- [pokecrystal ★916](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
 - [x-pokemon ★90 ⏳2Y](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
-- [pokered ★1370](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
-- [pokemon-reverse-engineering-tools ★142](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
+- [pokered ★1393](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
+- [pokemon-reverse-engineering-tools ★148](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
 - [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy.
 - [PokeMMO ★611](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor.
 - [pogo-optimizer ★528 ⏳1Y](https://github.com/justinleewells/pogo-optimizer) - Shows you the IVs and information necessary to determine which Pokémon get ground into candy.

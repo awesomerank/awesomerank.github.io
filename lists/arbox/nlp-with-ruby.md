@@ -9,8 +9,8 @@ title: Awesome Rank for arbox/nlp-with-ruby
 ---
 <img src="header.png" align="center">
 
-[[RubyML ★717](https://github.com/arbox/machine-learning-with-ruby) |
- [RubyDataScience ★343](https://github.com/arbox/data-science-with-ruby) |
+[[RubyML ★771](https://github.com/arbox/machine-learning-with-ruby) |
+ [RubyDataScience ★358](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop ★4](https://github.com/arbox/ruby-interoperability)]
 
 
@@ -105,11 +105,11 @@ An NLP Pipeline starts with a plain text.
 
 ### Pipeline Generation
 
-- [composable_operations ★36 ⏳1Y](https://github.com/t6d/composable_operations) -
+- [composable_operations ★38 ⏳1Y](https://github.com/t6d/composable_operations) -
   Definition framework for operation pipelines.
-- [ruby-spark ★182](https://github.com/ondra-m/ruby-spark) -
+- [ruby-spark ★183](https://github.com/ondra-m/ruby-spark) -
   Spark bindings with an easy to understand DSL.
-- [phobos ★73](https://github.com/klarna/phobos) -
+- [phobos ★77](https://github.com/klarna/phobos) -
   Simplified Ruby Client for [Apache Kafka](https://kafka.apache.org/).
 - [parallel ★2746](https://github.com/grosser/parallel) -
   Supervisor for parallel execution on multiple CPUs or in many threads.
@@ -118,15 +118,15 @@ An NLP Pipeline starts with a plain text.
 
 ### Multipurpose Engines
 
-- [open-nlp ★85 ⏳3Y](https://github.com/louismullie/open-nlp) -
+- [open-nlp ★86 ⏳3Y](https://github.com/louismullie/open-nlp) -
   Ruby Bindings for the [OpenNLP](https://opennlp.apache.org/) Toolkit.
-- [stanford-core-nlp ★387](https://github.com/louismullie/stanford-core-nlp) -
-  Ruby Bindings for the Stanford [CoreNLP ★3975](https://github.com/stanfordnlp/CoreNLP) tools.
+- [stanford-core-nlp ★390](https://github.com/louismullie/stanford-core-nlp) -
+  Ruby Bindings for the Stanford [CoreNLP ★4112](https://github.com/stanfordnlp/CoreNLP) tools.
 - [treat ★1295](https://github.com/louismullie/treat) -
   Natural Language Processing framework for Ruby (like [NLTK](http://www.nltk.org/) for Python).
 - [nlp_toolz ★2 ⏳3Y](https://github.com/LeFnord/nlp_toolz) -
   Wrapper over some [OpenNLP](https://opennlp.apache.org/) classes and
-  the original [Berkeley Parser ★104](https://github.com/slavpetrov/berkeleyparser).
+  the original [Berkeley Parser ★105](https://github.com/slavpetrov/berkeleyparser).
 - [open_nlp ★10 ⏳1Y](https://github.com/hck/open_nlp) -
   JRuby Bindings for the [OpenNLP](https://opennlp.apache.org/) Toolkit.
 
@@ -134,7 +134,7 @@ An NLP Pipeline starts with a plain text.
 
 - [alchemyapi_ruby ★36 ⏳1Y](https://github.com/alchemyapi/alchemyapi_ruby) -
   Legacy Ruby SDK for AlchemyAPI/Bluemix.
-- [wit-ruby ★214](https://github.com/wit-ai/wit-ruby) -
+- [wit-ruby ★215](https://github.com/wit-ai/wit-ruby) -
   Ruby client library for the [Wit.ai](https://wit.ai/) Language Understanding Platform.
 - [wlapi ★18](https://github.com/arbox/wlapi) - Ruby client library for
   [Wortschatz Leipzig](http://wortschatz.uni-leipzig.de/de) web services.
@@ -158,7 +158,7 @@ Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
 - [tokenizer ★35](https://github.com/arbox/tokenizer) -
   Simple multilingual tokenizer.
   <sup>[[tutorial](https://github.com/arbox/nlp-with-ruby/blob/master/tutorials/tokenizer.md)]</sup>
-- [pragmatic_tokenizer ★37](https://github.com/diasks2/pragmatic_tokenizer) -
+- [pragmatic_tokenizer ★38](https://github.com/diasks2/pragmatic_tokenizer) -
   Multilingual tokenizer to split a string into tokens.
 - [nlp-pure ★17](https://github.com/parhamr/nlp-pure) -
   Natural language processing algorithms implemented in pure Ruby with minimal dependencies.
@@ -166,7 +166,7 @@ Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
   Simple and customizable text tokenization library.
 - [pragmatic_segmenter ★218](https://github.com/diasks2/pragmatic_segmenter) -
   Word Boundary Disambiguation with many cookies.
-- [punkt-segmenter ★81 ⏳4Y](https://github.com/lfcipriani/punkt-segmenter) -
+- [punkt-segmenter ★82 ⏳4Y](https://github.com/lfcipriani/punkt-segmenter) -
   Pure Ruby implementation of the Punkt Segmenter.
 - [tactful_tokenizer ★73 ⏳3Y](https://github.com/zencephalon/Tactful_Tokenizer) -
   RegExp based tokenizer for different languages.
@@ -192,7 +192,7 @@ linguistic motivation.
 Lemmatization is considered a process of finding a base form of a word. Lemmas
 are often collected in dictionaries.
 
-- [lemmatizer ★65 ⏳2Y](https://github.com/yohasebe/lemmatizer) -
+- [lemmatizer ★67 ⏳2Y](https://github.com/yohasebe/lemmatizer) -
   WordNet based Lemmatizer for English texts.
 
 #### Lexical Statistics: Counting Types and Tokens
@@ -206,16 +206,16 @@ are often collected in dictionaries.
 
 #### Filtering Stop Words
 
-- [stopwords-filter ★49](https://github.com/brenes/stopwords-filter) - Filter and
+- [stopwords-filter ★50](https://github.com/brenes/stopwords-filter) - Filter and
   Stop Word Lexicon based on the SnowBall lemmatizer.
 
 ### Phrasal Level Processing
 
-- [n_gram ★33 ⏳8Y](https://github.com/reddavis/N-Gram) -
+- [n_gram ★34 ⏳8Y](https://github.com/reddavis/N-Gram) -
   N-Gram generator.
 - [ruby-ngram ★8 ⏳4Y](https://github.com/tkellen/ruby-ngram) -
   Break words and phrases into ngrams.
-- [raingrams ★67 ⏳5Y](https://github.com/postmodern/raingrams) -
+- [raingrams ★66 ⏳5Y](https://github.com/postmodern/raingrams) -
   Flexible and general-purpose ngrams library written in pure Ruby.
 
 ### Syntactic Processing
@@ -224,10 +224,10 @@ are often collected in dictionaries.
 
 - [stanfordparser](https://rubygems.org/gems/stanfordparser) -
   Ruby based wrapper for the Stanford Parser.
-- [rley ★18](https://github.com/famished-tiger/Rley) -
+- [rley ★19](https://github.com/famished-tiger/Rley) -
   Pure Ruby implementation of the [Earley](https://en.wikipedia.org/wiki/Earley_parser)
   Parsing Algorithm for Context-Free Constituency Grammars.
-- [rsyntaxtree ★36](https://github.com/yohasebe/rsyntaxtree) -
+- [rsyntaxtree ★37](https://github.com/yohasebe/rsyntaxtree) -
   Visualization for syntactic trees in Ruby based on [RMagick ★359](https://github.com/rmagick/rmagick).
   <sup>[dep: [ImageMagick](#imagemagick)]</sup>
 
@@ -239,11 +239,11 @@ are often collected in dictionaries.
   Calculates edit distance using the Damerau-Levenshtein algorithm.
 - [hotwater ★77 ⏳4Y](https://github.com/colinsurprenant/hotwater) -
   Fast Ruby FFI string edit distance algorithms.
-- [levenshtein-ffi ★133 ⏳2Y](https://github.com/dbalatero/levenshtein-ffi) -
+- [levenshtein-ffi ★134 ⏳2Y](https://github.com/dbalatero/levenshtein-ffi) -
   Fast string edit distance computation, using the Damerau-Levenshtein algorithm.
 - [tf_idf ★32 ⏳5Y](https://github.com/reddavis/TF-IDF) -
   Term Frequency / Inverse Document Frequency in pure Ruby.
-- [tf-idf-similarity ★220](https://github.com/jpmckinney/tf-idf-similarity) -
+- [tf-idf-similarity ★235](https://github.com/jpmckinney/tf-idf-similarity) -
   Calculate the similarity between texts using TF/IDF.
 
 ### Pragmatical Analysis
@@ -254,7 +254,7 @@ are often collected in dictionaries.
 
 ### Spelling and Error Correction
 
-- [gingerice ★462 ⏳2Y](https://github.com/subosito/gingerice) -
+- [gingerice ★461 ⏳2Y](https://github.com/subosito/gingerice) -
   Spelling and Grammar corrections via the [Ginger](http://www.gingersoftware.com/) API.
 - [hunspell-i18n ★4 ⏳5Y](https://github.com/romanbsd/hunspell) -
   Ruby bindings to the standard [Hunspell](https://hunspell.github.io/) Spell Checker.
@@ -270,9 +270,9 @@ are often collected in dictionaries.
 
 ### Machine Translation
 
-- [google-api-client ★1707](https://github.com/google/google-api-ruby-client) -
+- [google-api-client ★1728](https://github.com/google/google-api-ruby-client) -
   Google API Ruby Client.
-- [microsoft_translator ★21](https://github.com/ikayzo/microsoft_translator) -
+- [microsoft_translator ★20](https://github.com/ikayzo/microsoft_translator) -
   Ruby client for the microsoft translator API.
 - [termit ★507](https://github.com/pawurb/termit) -
   Google Translate with speech synthesis in your terminal.
@@ -291,29 +291,29 @@ are often collected in dictionaries.
   Pure Ruby natural language date parser.
 - [chronic_between ★24](https://github.com/jrobertson/chronic_between) -
   Simple Ruby natural language parser for date and time ranges.
-- [chronic_duration ★310](https://github.com/henrypoydar/chronic_duration) -
+- [chronic_duration ★311](https://github.com/henrypoydar/chronic_duration) -
   Pure Ruby parser for elapsed time.
 - [kronic ★153 ⏳3Y](https://github.com/xaviershay/kronic) -
   Methods for parsing and formatting human readable dates.
-- [nickel ★93](https://github.com/iainbeeston/nickel) -
+- [nickel ★94](https://github.com/iainbeeston/nickel) -
   Extracts date, time, and message information from naturally worded text.
-- [tickle ★61](https://github.com/yb66/tickle) -
+- [tickle ★62](https://github.com/yb66/tickle) -
   Parser for recurring and repeating events.
 - [numerizer ★20 ⏳2Y](https://github.com/jduff/numerizer) -
   Ruby parser for English number expressions.
 
 ### Named Entity Recognition
 
-- [ruby-ner ★14 ⏳5Y](https://github.com/mblongii/ruby-ner) -
+- [ruby-ner ★15 ⏳5Y](https://github.com/mblongii/ruby-ner) -
   Named Entity Recognition with Stanford NER and Ruby.
-- [ruby-nlp ★76 ⏳3Y](https://github.com/tiendung/ruby-nlp) -
+- [ruby-nlp ★77 ⏳3Y](https://github.com/tiendung/ruby-nlp) -
   Ruby Binding for Stanford Pos-Tagger and Name Entity Recognizer.
 
 ### Text-to-Speech-to-Text
 
-- [espeak-ruby ★118](https://github.com/dejan/espeak-ruby) -
+- [espeak-ruby ★119](https://github.com/dejan/espeak-ruby) -
   Small Ruby API for utilizing 'espeak' and 'lame' to create text-to-speech mp3 files.
-- [tts ★64](https://github.com/c2h2/tts) -
+- [tts ★65](https://github.com/c2h2/tts) -
   Text-to-Speech conversion using the Google translate service.
 - [att_speech ★21 ⏳3Y](https://github.com/adhearsion/att_speech) -
   Ruby wrapper over the AT&T Speech API for speech to text.
@@ -322,14 +322,14 @@ are often collected in dictionaries.
 
 ## Dialog Agents, Assistants, and Chatbots
 
-- [chatterbot ★444](https://github.com/muffinista/chatterbot) -
+- [chatterbot ★445](https://github.com/muffinista/chatterbot) -
   Straightforward ruby-based Twitter Bot Framework, using OAuth to authenticate.
-- [lita ★1411](https://github.com/litaio/lita) -
+- [lita ★1414](https://github.com/litaio/lita) -
   Highly extensible chat operation bot framework written with persistent storage on [Redis](https://redis.io/).
 
 ## Linguistic Resources
 
-- [rwordnet ★81](https://github.com/doches/rwordnet) -
+- [rwordnet ★82 ⏳1Y](https://github.com/doches/rwordnet) -
   Pure Ruby self contained API library for the [Princeton WordNet®](https://wordnet.princeton.edu/).
 - [wordnet](https://github.com/ged/ruby-wordnet/blob/master/README.rdoc) -
   Performance tuned bindings for the [Princeton WordNet®](https://wordnet.princeton.edu/).
@@ -356,7 +356,7 @@ For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby]
 - [lda-ruby ★119 ⏳2Y](https://github.com/ealdent/lda-ruby) -
   Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
   (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
-- [liblinear-ruby-swig ★81 ⏳5Y](https://github.com/tomz/liblinear-ruby-swig) -
+- [liblinear-ruby-swig ★80 ⏳5Y](https://github.com/tomz/liblinear-ruby-swig) -
   Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
 - [linnaeus ★28 ⏳2Y](https://github.com/djcp/linnaeus) -
   Redis-backed Bayesian classifier.
@@ -364,7 +364,7 @@ For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby]
   JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.
 - [naive_bayes ★35 ⏳5Y](https://github.com/reddavis/Naive-Bayes) -
   Simple Naive Bayes classifier.
-- [nbayes ★116](https://github.com/oasic/nbayes) -
+- [nbayes ★119](https://github.com/oasic/nbayes) -
   Full-featured, Ruby implementation of Naive Bayes.
 - [omnicat ★7 ⏳3Y](https://github.com/mustafaturan/omnicat) -
   Generalized rack framework for text classifications.
@@ -376,23 +376,23 @@ For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby]
 
 ## Data Visualization
 
-Please refer to the [Data Visualization ★343](https://github.com/arbox/data-science-with-ruby#visualization)
+Please refer to the [Data Visualization ★358](https://github.com/arbox/data-science-with-ruby#visualization)
 section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Optical Character Recognition
 
-* [tesseract-ocr ★521](https://github.com/meh/ruby-tesseract-ocr) -
-  FFI based wrapper over the [Tesseract OCR Engine ★14204](https://github.com/tesseract-ocr/tesseract).
+* [tesseract-ocr ★526](https://github.com/meh/ruby-tesseract-ocr) -
+  FFI based wrapper over the [Tesseract OCR Engine ★14835](https://github.com/tesseract-ocr/tesseract).
 
 ## Text Extraction
 
-- [yomu ★388](https://github.com/yomurb/yomu) -
+- [yomu ★389](https://github.com/yomurb/yomu) -
   library for extracting text and metadata from files and documents
   using the [Apache Tika](https://tika.apache.org/) content analysis toolkit.
 
 ## Full Text Search, Information Retrieval, Indexing
 
-- [rsolr ★394](https://github.com/rsolr/rsolr) -
+- [rsolr ★397](https://github.com/rsolr/rsolr) -
   Ruby and Rails client library for [Apache Solr](http://lucene.apache.org/solr/).
 - [sunspot ★2780](https://github.com/sunspot/sunspot) -
   Rails centric client for [Apache Solr](http://lucene.apache.org/solr/).
@@ -401,9 +401,9 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   plugin for using [Sphinx](http://sphinxsearch.com/) in (not only) Rails based projects.
 - [elasticsearch](https://github.com/elastic/elasticsearch-ruby/tree/master/elasticsearch) -
   Ruby client and API for [Elasticsearch](https://www.elastic.co/).
-- [elasticsearch-rails ★2106](https://github.com/elastic/elasticsearch-rails) -
+- [elasticsearch-rails ★2151](https://github.com/elastic/elasticsearch-rails) -
   Ruby and Rails integrations for [Elasticsearch](https://www.elastic.co/).
-- [google-api-client ★1707](https://github.com/google/google-api-ruby-client) -
+- [google-api-client ★1728](https://github.com/google/google-api-ruby-client) -
   Ruby API library for [Google](https://developers.google.com/api-client-library/ruby/) services.
 
 ## Language Aware String Manipulation
@@ -412,7 +412,7 @@ Libraries for language aware string manipulation, i.e. search, pattern matching,
 case conversion, transcoding, regular expressions which need information about
 the underlying language.
 
-- [fuzzy_match ★505](https://github.com/seamusabshere/fuzzy_match) -
+- [fuzzy_match ★507](https://github.com/seamusabshere/fuzzy_match) -
   Fuzzy string comparison with Distance measures and Regular Expression.
 - [fuzzy-string-match ★211](https://github.com/kiyoka/fuzzy-string-match) -
   Fuzzy string matching library for Ruby.
@@ -426,13 +426,13 @@ the underlying language.
   Unicode normalization library.
 - [CommonRegexRuby ★46 ⏳1Y](https://github.com/talyssonoc/CommonRegexRuby) -
   Find a lot of kinds of common information in a string.
-- [regexp-examples ★304](https://github.com/tom-lord/regexp-examples) -
+- [regexp-examples ★310](https://github.com/tom-lord/regexp-examples) -
   Generate strings that match a given regular expression.
-- [verbal_expressions ★531 ⏳3Y](https://github.com/ryan-endacott/verbal_expressions) -
+- [verbal_expressions ★541 ⏳3Y](https://github.com/ryan-endacott/verbal_expressions) -
   Make difficult regular expressions easy.
 - [translit_kit ★0](https://github.com/AnalyzePlatypus/TranslitKit) -
   Transliterate Hebrew & Yiddish text into Latin characters.
-- [re2 ★48](https://github.com/mudge/re2) -
+- [re2 ★49](https://github.com/mudge/re2) -
   hight-speed Regular Expression library for Text Mining and Text Extraction.
 - [regex_sample ★1](https://github.com/mochizukikotaro/regex_sample) -
   sample string generation from a given Regular Expression.
@@ -530,7 +530,7 @@ the underlying language.
 
 - [Going the Distance ★55 ⏳1Y](https://github.com/schneems/going_the_distance) -
   Implementations of various distance algorithms with example calculations.
-- [Named entity recognition with Stanford NER and Ruby ★14 ⏳5Y](https://github.com/mblongii/ruby-ner) -
+- [Named entity recognition with Stanford NER and Ruby ★15 ⏳5Y](https://github.com/mblongii/ruby-ner) -
   NER Examples in Ruby and Java with some [explanations](https://web.archive.org/web/20120722225402/http://mblongii.com/2012/04/15/named-entity-recognition-with-stanford-ner-and-ruby/).
 - [Words Counted](http://rubywordcount.com/) -
   examples of customizable word statistics powered by
@@ -567,23 +567,23 @@ on the code here.
 - [ferret ★268](https://github.com/dbalmain/ferret) -
   Information Retrieval in C and Ruby.
 - [summarize ★195 ⏳5Y](https://github.com/ssoper/summarize) -
-  Ruby native wrapper for [Open Text Summarizer ★102 ⏳4Y](https://github.com/neopunisher/Open-Text-Summarizer).
+  Ruby native wrapper for [Open Text Summarizer ★107 ⏳4Y](https://github.com/neopunisher/Open-Text-Summarizer).
 
 ## Related Resources
 
-- [Neural Machine Translation Implementations ★183](https://github.com/jonsafari/nmt-list)
-- [Awesome Ruby ★7958](https://github.com/markets/awesome-ruby#natural-language-processing) -
+- [Neural Machine Translation Implementations ★192](https://github.com/jonsafari/nmt-list)
+- [Awesome Ruby ★8080](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
 - [Ruby NLP ★995](https://github.com/diasks2/ruby-nlp) -
   State-of-Art collection of Ruby libraries for NLP.
-- [Speech and Natural Language Processing ★1592 ⏳1Y](https://github.com/edobashira/speech-language-processing) -
+- [Speech and Natural Language Processing ★1609 ⏳1Y](https://github.com/edobashira/speech-language-processing) -
   General List of NLP related resources (mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
-- [iRuby ★323](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
-- [Awesome OCR ★279](https://github.com/kba/awesome-ocr) -
+- [iRuby ★339](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
+- [Awesome OCR ★320](https://github.com/kba/awesome-ocr) -
   Multitude of OCR (Optical Character Recognition) resources.
-- [Awesome TensorFlow ★9359](https://github.com/jtoy/awesome-tensorflow) -
+- [Awesome TensorFlow ★9719](https://github.com/jtoy/awesome-tensorflow) -
   Machine Learning with TensorFlow libraries.
 - <a name="imagemagic"></a>
   [ImageMagick](https://www.imagemagick.org/script/index.php)

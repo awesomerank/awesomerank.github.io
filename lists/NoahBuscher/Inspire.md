@@ -7,7 +7,7 @@ title: Awesome Rank for NoahBuscher/Inspire
 	This list is a copy of <a href="https://github.com/NoahBuscher/Inspire">NoahBuscher/Inspire</a> with ranks
 </p>
 ---
-Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 ===
 
 Designing and building a modern frontend in any web project can be a long and arduous process. Here's a collction of links to help you. Enjoy!
@@ -63,7 +63,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
   * Themes
     * [Flatron ★261 ⏳2Y](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
-    * [Predawn ★1811](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme.
+    * [Predawn ★1813](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme.
 * [Atom](https://atom.io) - A hackable text editor for the 21st century.
 * [Brackets](http://brackets.io/) - Modern, open source editor with live preview.
 * [Hyper](https://hyper.is) - Beautiful, extensible command-line interface

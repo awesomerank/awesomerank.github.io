@@ -7,15 +7,15 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 	This list is a copy of <a href="https://github.com/unicodeveloper/awesome-nextjs">unicodeveloper/awesome-nextjs</a> with ranks
 </p>
 ---
-# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
+# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-[<img src="https://rawgit.com/ooade/awesome-nextjs/master/nextjs-logo.svg" align="right" width="250"> ★19042](https://github.com/zeit/next.js)
+[<img src="https://rawgit.com/ooade/awesome-nextjs/master/nextjs-logo.svg" align="right" width="250"> ★20013](https://github.com/zeit/next.js)
 
 > Curated list of resources: books, videos, articles about using Next.js.
 
-[Next.js ★19042](https://github.com/zeit/next.js) is a minimalistic framework for server-rendered React applications.
+[Next.js ★20013](https://github.com/zeit/next.js) is a minimalistic framework for server-rendered React applications.
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd ★201](https://github.com/unicodeveloper/awesome-tdd).*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd ★208](https://github.com/unicodeveloper/awesome-tdd).*
 
 ## Contents
 - [Community](#community)
@@ -28,7 +28,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 
 ## Community
 * [Slack](https://zeit.chat)
-* [GitHub ★19042](https://github.com/zeit/next.js)
+* [GitHub ★20013](https://github.com/zeit/next.js)
 
 ## Essentials
 * [Blog](https://zeit.co/blog/next)
@@ -50,34 +50,35 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 
 
 ## Boilerplates
-* [Next Simple Starter ★227](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
-* [NextJS Starter ★352](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
-* [RAN! ★1114](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
-* [Next Simple Blog ★280](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
+* [NextJS in Firebase with Bootstrap ★1](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
+* [Next Simple Starter ★250](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+* [NextJS Starter ★373](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
+* [RAN! ★1167](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
+* [Next Simple Blog ★284](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 * [Create-Next-App](https://open.segment.com/create-next-app) - Fork of Facebook's create-react-app to create a next application.
 * [phox ★3](https://github.com/herschel666/phox) - Create a static photo blog.
 * [Next Express Bootstrap Boilerplate ★5](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
 
 ## Extensions
-* [Next Routes ★433](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
+* [Next Routes ★478](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 
 ## Apps
 * [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities.
 * [NextJS GOT ★15](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 * [Next Episode ★21](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes.
-* [Relate ★228](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
-* [Next News ★390](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
-* [Password ★65](https://github.com/dotcypress/password) - One password, right way.
+* [Relate ★237](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
+* [Next News ★396](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
+* [Password ★68](https://github.com/dotcypress/password) - One password, right way.
 * [Next Todos ★91](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 * [Hacker News ★35 ⏳1Y](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
 * [Jet Chat ★0](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 * [Nextgram ★10](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
-* [Rauchg Blog ★223](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
-* [Next JPH ★19](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
-* [Mailto ★37](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
-* [Plate ★30](https://github.com/knipferrc/plate) - The task management app to rule them all.
-* [Dashboard ★298](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
-* [Snape ★65](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
+* [Rauchg Blog ★233](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
+* [Next JPH ★21](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
+* [Mailto ★38](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
+* [Plate ★32](https://github.com/knipferrc/plate) - The task management app to rule them all.
+* [Dashboard ★314](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
+* [Snape ★71](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 * [Trello Resume ★3](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 * [Server Authentication with JWT ★14](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
 * [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.

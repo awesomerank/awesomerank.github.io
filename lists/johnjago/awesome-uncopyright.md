@@ -7,7 +7,7 @@ title: Awesome Rank for johnjago/awesome-uncopyright
 	This list is a copy of <a href="https://github.com/johnjago/awesome-uncopyright">johnjago/awesome-uncopyright</a> with ranks
 </p>
 ---
-# Awesome Uncopyright [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Uncopyright [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" alt="No copyright symbol" align="right" width="155">](http://questioncopyright.org/)
 
@@ -116,7 +116,6 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Anti-Copyright](https://www.anticopyright.com/) - Describes how intellectual property is not the same as material property.
 - [Anti-Copyright Resources](http://praxeology.net/anticopyright.htm) - Large list of essays against copyright.
 - [Creative Commons CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) - About the CC0 public domain dedication.
-- [Everythingcars.net](http://everythingcars.net/) - Directory of automotive resources on the web.
 - [Kopimi](http://kopimi.com/) - Symbol showing that you want a work to be copied.
 - [Lively Days](http://livelydays.com/) - Vegan recipes.
 - [The Safe Zone Project](http://thesafezoneproject.com/about/uncopyright/) - Online resource for creating powerful, effective LGBTQ awareness and ally training workshops.

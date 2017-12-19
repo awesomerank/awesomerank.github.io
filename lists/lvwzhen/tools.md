@@ -7,7 +7,7 @@ title: Awesome Rank for lvwzhen/tools
 	This list is a copy of <a href="https://github.com/lvwzhen/tools">lvwzhen/tools</a> with ranks
 </p>
 ---
-# Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 >An awesome list of hosted tools for web development.
 
@@ -104,7 +104,7 @@ title: Awesome Rank for lvwzhen/tools
 * [ios7colors](http://ios7colors.com/)
 * [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 * [color-hex](http://www.color-hex.com/)
-* [colors ★7892](https://github.com/mrmrs/colors)
+* [colors ★8015](https://github.com/mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 * [randomColor](https://randomcolor.llllll.li/)
 * [Please JS](http://www.checkman.io/please/)

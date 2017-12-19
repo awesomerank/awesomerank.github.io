@@ -7,13 +7,13 @@ title: Awesome Rank for bnb/awesome-hyper
 	This list is a copy of <a href="https://github.com/bnb/awesome-hyper">bnb/awesome-hyper</a> with ranks
 </p>
 ---
-# Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
+# Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
 
 [<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/Hyper-Mark-Large.png" align="right" width="240">](https://hyper.is)
 
 > A curated list of sweet Hyper [packages](#packages), [themes](#themes), and [resources](#resources).
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) and [awesome-npm ★2667](https://github.com/sindresorhus/awesome-npm), which both have CLI stuff you can use with Hyper!*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) and [awesome-npm ★2721](https://github.com/sindresorhus/awesome-npm), which both have CLI stuff you can use with Hyper!*
 
 *Please read the [contribution guidelines](https://github.com/bnb/awesome-hyper/blob/master/CONTRIBUTING.md) before contributing.*
 

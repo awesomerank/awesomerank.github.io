@@ -7,7 +7,7 @@ title: Awesome Rank for vhpoet/awesome-ripple
 	This list is a copy of <a href="https://github.com/vhpoet/awesome-ripple">vhpoet/awesome-ripple</a> with ranks
 </p>
 ---
-# Awesome Ripple [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Ripple [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 > A curated list of Ripple resources.
 
@@ -64,7 +64,7 @@ Pull requests are more then welcome.
 - [ripple-rest ★68](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
 - [ripple-lib ★490](https://github.com/ripple/ripple-lib): Java Script
 - [ripple-lib-java ★74](https://github.com/ripple/ripple-lib-java): Java
-- [ripple-lib-ruby ★4 ⏳3Y](https://github.com/kevinejohn/ripple-lib-rpc-ruby): Ruby
+- [ripple-lib-ruby ★4 ⏳4Y](https://github.com/kevinejohn/ripple-lib-rpc-ruby): Ruby
 - [ripple-python ★22](https://github.com/miracle2k/ripple-python): Python Lib
 - [ripple-haskell ★1 ⏳2Y](https://github.com/singpolyma/ripple-haskell): Haskell
 - [rubblelabs/ripple ★34](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol

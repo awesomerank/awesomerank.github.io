@@ -7,7 +7,7 @@ title: Awesome Rank for cyclejs-community/awesome-cyclejs
 	This list is a copy of <a href="https://github.com/cyclejs-community/awesome-cyclejs">cyclejs-community/awesome-cyclejs</a> with ranks
 </p>
 ---
-## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 

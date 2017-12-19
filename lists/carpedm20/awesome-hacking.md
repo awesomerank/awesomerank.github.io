@@ -7,7 +7,7 @@ title: Awesome Rank for carpedm20/awesome-hacking
 	This list is a copy of <a href="https://github.com/carpedm20/awesome-hacking">carpedm20/awesome-hacking</a> with ranks
 </p>
 ---
-# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Hacking. Inspired by [awesome-machine-learning ★28131](https://github.com/josephmisiti/awesome-machine-learning)
 
@@ -137,15 +137,15 @@ For a list of free hacking books available for download, go [here ★1118](https
  * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT)
  * [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture
  * [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability
- * [pig ★297](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
+ * [pig ★298](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
  * [mitmproxy](https://mitmproxy.org/) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
  * [mitmsocks4j ★21 ⏳4Y](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
  * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
  * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
- * [Nipe ★244](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
- * [Habu ★79](https://github.com/portantier/habu) - Python Network Hacking Toolkit
+ * [Nipe ★251](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
+ * [Habu ★99](https://github.com/portantier/habu) - Python Network Hacking Toolkit
  * [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range
  * [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
  * [Scapy ★1794](https://github.com/secdev/scapy) - A Python tool and library for low level packet creation and maniputalion

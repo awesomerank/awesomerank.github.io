@@ -9,7 +9,7 @@ title: Awesome Rank for emptymalei/awesome-research
 ---
 # Awesome Research Tools
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 A list of tools for research.
 
@@ -142,7 +142,7 @@ someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic 
 
 ## Cloud Services
 
-*For self-hosted services, check out [awesome-selfhosted ★19258](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted ★19721](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
 
 
 ### Math and Programming
@@ -279,7 +279,7 @@ Before doing the investigation on platforms, just remind yourself:
 These programs are running on the server and can be [hosted using these services](#hosting).
 
 * [Wordpress](https://wordpress.org/) (`PHP`): Very popular but requires a lot of maintenance.
-* [Ghost ★24358](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+* [Ghost ★24592](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 * [Pico ★2720](https://github.com/picocms/Pico) (`PHP`): Lightweight cms, open source, no database.
 * [Dropplets](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 
@@ -447,7 +447,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
 * [Google Drive](https://drive.google.com/): no introduction needed
 * [Sway](https://sway.com/): Microsoft
-* [Strut ★1456](https://github.com/tantaman/Strut)
+* [Strut ★1464](https://github.com/tantaman/Strut)
 * [Impressionist ★600 ⏳4Y](https://github.com/harish-io/Impressionist)
 * [hovercraft ★940](https://github.com/regebro/hovercraft)
 
@@ -459,15 +459,15 @@ Requires a few front-end techniques.
 
 #### HTML+CSS+JS
 
-Use [colors ★7892](https://github.com/mrmrs/colors) to make your HTML feels better.
+Use [colors ★8015](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js ★37574](https://github.com/hakimel/reveal.js)
-* [Beckpoke.js ★4278](https://github.com/bespokejs/bespoke)
+* [Reveal.js ★38094](https://github.com/hakimel/reveal.js)
+* [Beckpoke.js ★4300](https://github.com/bespokejs/bespoke)
 * [CSSS ★1491](https://github.com/LeaVerou/CSSS)
 * [Scrolldeck ★692 ⏳2Y](https://github.com/johnpolacek/scrolldeck.js)
-* [Deck.js ★5215](https://github.com/imakewebthings/deck.js)
+* [Deck.js ★5228](https://github.com/imakewebthings/deck.js)
 * [Shower ★3821](https://github.com/shower/shower)
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js ★1205](https://github.com/marcolago/flowtime.js)
@@ -518,7 +518,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 * [VS Code](https://code.visualstudio.com/)(`Free`,`Cross-platform`,`Plugins`): same technology as atom but faster than atom, and Microsoft made.
 * [Sublime Text](https://www.sublimetext.com/)(`Free Evaluation`,`Cross-platform`,`Plugins`): cross-platform, fast, and with plugins. Not free but can be freely used forever.
 * [JetBrains](https://www.jetbrains.com/)(`Free for Students`, `Cross-platform`,`Plugins`): beautiful IDE's with many debugging and editing modes integrated.
-* [vim ★10737](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
+* [vim ★11083](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
   * [Vundle ★16385](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
   * [vimrc from amix ★11384](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
 

@@ -7,10 +7,10 @@ title: Awesome Rank for lauris/awesome-scala
 	This list is a copy of <a href="https://github.com/lauris/awesome-scala">lauris/awesome-scala</a> with ranks
 </p>
 ---
-Awesome Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+Awesome Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 =============
 
-A community driven list of useful Scala libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. Inspired by [awesome-python](https://github.com/vinta/awesome-python). Other amazingly awesome lists can be found in the [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness) list.
+A community driven list of useful Scala libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. Inspired by [awesome-python](https://github.com/vinta/awesome-python). Other amazingly awesome lists can be found in the [awesome-awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness) list.
 
 Also awesome is [Scaladex](https://index.scala-lang.org/), the searchable, tagged, and centralized index of Scala libraries.
 
@@ -20,39 +20,40 @@ Projects with over 500 stargazers are in bold.
 
 - [Learning Scala](#learning-scala)
 - [Projects](#projects)
-    - [Database](#database)
-    - [Graphical User Interfaces](#graphical-user-interfaces)
-    - [Web Frameworks](#web-frameworks)
-    - [Reactive Web Frameworks](#reactive-web-frameworks)
-    - [Data Binding and Validation](#data-binding-and-validation)
-    - [i18n](#i18n)
+    - [Android](#android)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
-    - [Cryptography](#cryptography)
-    - [Testing](#testing)
-    - [JSON](#json)
-    - [YAML](#yaml)
-    - [CSV](#csv)
-    - [Serialization](#serialization)
-    - [Science and Data Analysis](#science-and-data-analysis)
     - [Big Data](#big-data)
-    - [Image processing and image analysis](#image-processing-and-image-analysis)
-    - [Functional Reactive Programming](#functional-reactive-programming)
-    - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
+    - [Cryptography](#cryptography)
+    - [CSV](#csv)
+    - [Data Binding and Validation](#data-binding-and-validation)
+    - [Database](#database)
     - [Distributed Systems](#distributed-systems)
     - [Extensions](#extensions)
-    - [Misc](#misc)
-    - [Android](#android)
-    - [HTTP](#http)
-    - [Semantic Web](#semantic-web)
-    - [Metrics and Monitoring](#metrics-and-monitoring)
-    - [Parsing](#parsing)
-    - [Sbt plugins](#sbt-plugins)
-    - [XML / HTML](#xml--html)
-    - [Tools](#tools)
-    - [JavaScript](#javascript)
-    - [Templating](#templating)
+    - [Functional Reactive Programming](#functional-reactive-programming)
     - [Geospatial](#geospatial)
+    - [Graphical User Interfaces](#graphical-user-interfaces)
+    - [HTTP](#http)
+    - [i18n](#i18n)
+    - [Image processing and image analysis](#image-processing-and-image-analysis)
+    - [JavaScript](#javascript)
+    - [JSON](#json)
+    - [Markdown](#markdown)
+    - [Metrics and Monitoring](#metrics-and-monitoring)
+    - [Misc](#misc)
+    - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
+    - [Parsing](#parsing)
+    - [Reactive Web Frameworks](#reactive-web-frameworks)
+    - [Sbt plugins](#sbt-plugins)
+    - [Science and Data Analysis](#science-and-data-analysis)
+    - [Semantic Web](#semantic-web)
+    - [Serialization](#serialization)
+    - [Templating](#templating)
+    - [Testing](#testing)
+    - [Tools](#tools)
+    - [Web Frameworks](#web-frameworks)
+    - [XML / HTML](#xml--html)
+    - [YAML](#yaml)
 - [Contributing](#contributing)
 
 ## Database
@@ -60,6 +61,7 @@ Projects with over 500 stargazers are in bold.
 *Database access libraries in Scala.*
 
 * [Activate ★ 311 ⧗ 8](https://github.com/fwbrasil/activate) - Pluggable object persistence in Scala.
+* [Anorm ★ 135](https://github.com/playframework/anorm) - Simple SQL data access.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo ★530](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 * [CouchDB-Scala ★ 59 ⧗ 21](https://github.com/beloglazov/couchdb-scala) - Purely functional Scala client for CouchDB
 * **[doobie ★ 812 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
@@ -264,6 +266,7 @@ Projects with over 500 stargazers are in bold.
 * [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home) - a Scala toolkit for solving Operations Research problems
 * [Persist-Units ★ 9 ⧗ 40](https://github.com/nestorpersist/units) - Type check units of measure in Scala.
 * **[PredictionIO ★ 10105 ⧗ 0](https://github.com/PredictionIO/PredictionIO)** - machine learning server for developers and data scientists. Built on Apache Spark, HBase and Spray
+* [Rings ★ 3 ⧗ 0](https://github.com/PoslavskySV/rings) - An efficient library for polynomial rings. Commutative algebra, polynomial GCDs, polynomial factorization and other sci things at a really high speed.
 * [Saddle ★ 428 ⧗ 2](https://github.com/saddle/saddle) - A minimalist port of Pandas to Scala
 * [Smile](http://haifengl.github.io/smile/) - Statistical Machine Intelligence and Learning Engine. Smile is a fast and comprehensive machine learning system.
 * **[Spark Notebook ★ 1896 ⧗ 0](https://github.com/andypetrella/spark-notebook)** - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts).
@@ -358,6 +361,7 @@ Projects with over 500 stargazers are in bold.
 * [Enumeratum ★ 374 ⧗ 0](https://github.com/lloydmeta/enumeratum) - A macro to replace Scala enumerations with a sealed family of case objects. This allows additional checks for the compiler, e.g. for missing cases in a match statement. Has additinal support for Json libraries and the Play framework.
 * [Freasy-Monad ★ 90 ⧗ 14](https://github.com/Thangiee/Freasy-Monad) - Easy way to create Free Monad for Cats and Scalaz using Scala macros with first-class Intellij support.
 * [Freedsl ★ 25 ⧗ 5](https://github.com/ISCPIF/freedsl) - A library to implement composable side effects, weaving typeclasses on a wrapping type and the free monad.
+* [Freestyle ★ 430 ⧗ 0](https://github.com/frees-io/freestyle) - A cohesive & pragmatic framework of FP centric Scala libraries.
 * [Hamsters ★ 216 ⧗ 0](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types.
 * [idid ★ 4 ⧗ 43](https://github.com/lucastorri/idid) - A library to define common interfaces for different Id types.
 * [Lamma ★ 70 ⧗ 8](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
@@ -455,6 +459,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries for gathering metrics and monitoring applications.*
 
 * [Kamon](http://kamon.io) - Gathering metrics from applications built with Akka, Spray and Play! with support for user metrics as well.
+* [Metrics-Scala ★ 335](https://github.com/erikvanoosten/metrics-scala) - Scala API for Dropwizard's Metrics library.
 
 ## Parsing
 
@@ -506,6 +511,10 @@ Projects with over 500 stargazers are in bold.
 
 * [scala-scraper ★ 316 ⧗ 1](https://github.com/ruippeixotog/scala-scraper) - A library for scraping content from HTML pages.
 * [xs4s ★ 29 ⧗ 47](https://github.com/ScalaWilliam/xs4s) - XML Streaming for Scala for processing large (gigabytes and over) XML files.
+
+## Markdown
+
+* [Laika ★ 161](https://github.com/planet42/Laika) - Text Markup Transformer for sbt and Scala applications, transforming Markdown and reStructuredText to HTML and PDF.
 
 ## Learning Scala
 

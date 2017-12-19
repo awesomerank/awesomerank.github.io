@@ -160,7 +160,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [Manifold-cljs](https://github.com/dm3/manifold-cljs) — A port of [Manifold ★531](https://github.com/ztellman/manifold) to ClojureScript.
 - [Reagi ★210 ⏳1Y](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
 - [rx-cljs ★36 ⏳4Y](https://github.com/leonardoborges/rx-cljs) – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
-- [Yolk ★45 ⏳3Y](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
+- [Yolk ★45 ⏳4Y](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
 
 
 ### Routing
@@ -195,7 +195,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [atw-om ★39 ⏳3Y](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
 - [Chestnut ★1131](https://github.com/plexus/chestnut) – An Application template for ClojureScript/Om with live reloading.
 - [Clops ★140](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
-- [descjop ★329](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
+- [descjop ★331](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
 - [electron-template ★96 ⏳1Y](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 - [Fulcro](http://fulcrologic.github.io/fulcro) - A library for development of single-page full-stack web applications in clj/cljs.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.

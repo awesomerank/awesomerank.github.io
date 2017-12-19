@@ -7,11 +7,11 @@ title: Awesome Rank for dnbard/awesome-knockout
 	This list is a copy of <a href="https://github.com/dnbard/awesome-knockout">dnbard/awesome-knockout</a> with ranks
 </p>
 ---
-# Awesome Knockout [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Knockout [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com/).
 
 ## Frameworks
-- [Knockout ★8553](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
+- [Knockout ★8623](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
 - [Knockback ★1081](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections
 - [Durandal ★1790](https://github.com/BlueSpire/Durandal) - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications
 - [Falconjs ★99 ⏳2Y](https://github.com/stoodder/falconjs) - Adds structure to knockout.js by incorporting models, collections, and views

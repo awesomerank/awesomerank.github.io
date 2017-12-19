@@ -7,7 +7,7 @@ title: Awesome Rank for machinomy/awesome-non-financial-blockchain
 	This list is a copy of <a href="https://github.com/machinomy/awesome-non-financial-blockchain">machinomy/awesome-non-financial-blockchain</a> with ranks
 </p>
 ---
-# Awesome Non-Financial Blockchain [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Non-Financial Blockchain [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 > Curated list of projects that build non-financial applications of blockchain.
 

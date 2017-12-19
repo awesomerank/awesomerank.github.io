@@ -7,7 +7,7 @@ title: Awesome Rank for mislavcimpersak/awesome-dev-fun
 	This list is a copy of <a href="https://github.com/mislavcimpersak/awesome-dev-fun">mislavcimpersak/awesome-dev-fun</a> with ranks
 </p>
 ---
-# Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 > A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 
@@ -106,7 +106,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 ## CLI
 - [Pong-command ★68](https://github.com/kurehajime/pong-command) - Pong is Not Ping.
 - [Alice ★5 ⏳1Y](https://github.com/susisu/alice) - Alice sings when you mistakenly type al.
-- [cmprss ★1](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
+- [cmprss ★1 ⏳1Y](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
 - [lolcat ★2504](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 - [evil.sh ★1306](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 - [lolcommits ★3909](https://github.com/mroth/lolcommits) - Git-based selfies for software developers.

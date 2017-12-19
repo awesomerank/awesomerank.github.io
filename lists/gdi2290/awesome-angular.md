@@ -13,7 +13,7 @@ title: Awesome Rank for gdi2290/awesome-angular
   </a>
 </p>
 
-# Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular)
+# Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular)
 
 Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://angularclass.github.io/awesome-angular/)
 
@@ -625,7 +625,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Angular 2 Dart Quickstart ★5 ⏳2Y](https://github.com/andresaraujo/ng2_dart_quickstart) A minimal quick start project.
 
 #### Dart Demo, Samples, and Examples
-* [Hackernews App ★11 ⏳1Y](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
+* [Hackernews App ★11 ⏳2Y](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
 * [Router Demo ★0 ⏳2Y](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
@@ -637,7 +637,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Traceur General Resources
 
-* [Traceur Repository (GitHub) ★7478](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
+* [Traceur Repository (GitHub) ★7506](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
 
 #### Traceur Seed Projects
 
@@ -652,7 +652,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 #### Babel General Resources
 * [Babel](https://babeljs.io/) Official Website for Babel
 * [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
-* [Babel Repository (GitHub) ★24086](https://github.com/babel/babel) Official GitHub Repo for Babel
+* [Babel Repository (GitHub) ★24745](https://github.com/babel/babel) Official GitHub Repo for Babel
 
 #### Babel Angular 2 Online Playground
 * [Plunker: Angular 2 + Babel](http://plnkr.co/edit/PxCzCu?p=preview)
@@ -768,7 +768,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 > Bit is an open source virtual repository (code base) built to make components easily manageable and usable across applications. You can quickly export any Angular component from any context while working on any project to a bit distributed Scope. Bit's reusbale component environment cuts the overhead of configuring build and test environments for exporting every new component. The Scope is a virtual component repository which stores, organizes, manages and tests your components. Once modeled on a Scope, your components can be easily found and used in any Angular application. Components can be organized together and still modified and used individually without pulling in entire libraries.
 
 ##### Bit Resources
-* [Bit ★800](https://github.com/teambit/bit)
+* [Bit ★857](https://github.com/teambit/bit)
 * [Bit-Javascript ★11](https://github.com/teambit/bit-javascript)
 * [bitsrc](https://bitsrc.io/) - Free community hub for sharing, managing and finding open source components. 
 

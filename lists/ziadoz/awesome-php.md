@@ -41,6 +41,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Security](#security)
     - [Passwords](#passwords)
     - [Code Analysis](#code-analysis)
+    - [Code Quality](#code-quality)
+    - [Static Analysis](#static-analysis)
     - [Architectural](#architectural)
     - [Debugging and Profiling](#debugging-and-profiling)
     - [Build Tools](#build-tools)
@@ -381,35 +383,37 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulating codebases.*
 
-* [Athletic ★309 ⏳1Y](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
 * [Better Reflection ★448](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 * [Code Climate](https://codeclimate.com) - An automated code review.
-* [Dissect ★181 ⏳1Y](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
-* [Exakat ★103](https://github.com/exakat/exakat) - A static analysis engine for PHP.
-* [GrumPHP ★2036](https://github.com/phpro/grumphp) - A composer plugin to defend code quality.
-* [Mondrian ★343 ⏳2Y](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
-* [PHP Analyser ★449 ⏳1Y](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
-* [PHP Code Sniffer ★4167](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
-* [PHP CS Fixer ★5157](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
-* [PHP Manipulator ★106 ⏳3Y](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
-* [PHP Mess Detector](https://phpmd.org/) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
-* [PHP Metrics ★1344](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
-* [PHP Migration ★114](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 * [PHP Parser ★3170](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
-* [PHP Refactoring Browser ★551](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [PHP Semantic Versioning Checker ★373](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
-* [phan ★2521](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-* [PHPCheckstyle ★106](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
-* [PHPCPD ★1349](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
-* [PhpDependencyAnalysis ★288](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
 * [PHPLOC ★1337](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 * [PHPQA ★185](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
-* [PHPPHP ★662 ⏳1Y](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
-* [PHPSandbox ★99](https://github.com/Corveda/PHPSandbox) - A PHP sandbox environment.
-* [PHPStan ★2751](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 * [Qafoo Quality Analyzer ★414](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
-* [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
+* [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code ★449 ⏳1Y](https://github.com/scrutinizer-ci/php-analyzer).
 * [UBench ★445](https://github.com/devster/ubench) - A simple micro benchmark library.
+
+## Code Quality
+*Libraries for managing code quality, formatting and linting.*
+
+* [PHP CodeSniffer ★4167](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
+* [PHP CS Fixer ★5157](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
+* [PHP Mess Detector](https://phpmd.org/) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
+* [PHPCheckstyle ★106](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+* [PHPCPD ★1349](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
+
+## Static Analysis
+*Libraries for performing static analysis of PHP code.*
+
+* [Exakat ★103](https://github.com/exakat/exakat) - A static analysis engine for PHP.
+* [Mondrian ★343 ⏳2Y](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+* [phan ★2521](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
+* [PHPCompatibility ★731](https://github.com/wimg/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
+* [PhpDependencyAnalysis ★288](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
+* [PHP Metrics ★1344](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
+* [PHP Migration ★114](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
+* [PHPStan ★2751](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
+* [Pslam ★547](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
 
 ## Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
@@ -463,7 +467,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Navigation
 *Tools for building navigation structures.*
 
-* [Cartographer ★325](https://github.com/tackk/cartographer) - A sitemap generation library.
 * [KnpMenu ★466](https://github.com/KnpLabs/KnpMenu) - A menu library.
 
 ## Asset Management
@@ -488,7 +491,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CalendR](http://yohan.giarel.li/CalendR/) - A calendar management library.
 * [Carbon ★6181](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
 * [Chronos ★403](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
-* [ExpressiveDate ★247 ⏳1Y](https://github.com/jasonlewis/expressive-date) - Another DateTime API extension.
 * [Moment.php ★657](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 * [Yasumi ★397](https://github.com/azuyalabs/yasumi) - An library to help you calculate the dates and names of holidays.
 
@@ -512,8 +514,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Logging
 *Libraries for generating and working with log files.*
 
-* [Analog ★255](https://github.com/jbroadway/analog) - A closure-based micro logging package.
-* [KLogger ★812](https://github.com/katzgrau/KLogger) - An easy-to-use PSR-3 compliant logging class.
 * [Monolog ★6741](https://github.com/Seldaek/monolog) - A comprehensive logger.
 
 ## E-commerce
@@ -759,7 +759,7 @@ Libraries to help manage database schemas and migrations.
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
-* [Amazon Web Service SDK ★2685](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
+* [Amazon Web Service SDK ★2731](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [Campaign Monitor](http://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
 * [Digital Ocean ★158 ⏳3Y](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
 * [Dropbox SDK ★216](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.

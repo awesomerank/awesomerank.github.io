@@ -7,7 +7,7 @@ title: Awesome Rank for h4cc/awesome-elixir
 	This list is a copy of <a href="https://github.com/h4cc/awesome-elixir">h4cc/awesome-elixir</a> with ranks
 </p>
 ---
-# Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome Elixir libraries, resources, and shiny things inspired by [awesome-php ★17326](https://github.com/ziadoz/awesome-php).
 
 If you think a package should be added, please add a :+1: (`:+1:`) at the according issue or create a new one.
@@ -480,7 +480,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [eh ★15 ⏳2Y](https://github.com/Frost/eh) - A tool to look up Elixir documentation from the command line.
 * [eper ★407](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 * [ether ★3 ⏳2Y](https://github.com/maarek/ether) - Ether provides functionality to hook Elixir into the Erlang debugger.
-* [ex_debug_toolbar ★293](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
+* [ex_debug_toolbar ★301](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
 * [exrun ★65 ⏳1Y](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
 * [observer_cli ★380](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 * [quaff ★60 ⏳1Y](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
@@ -490,7 +490,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Installing and running your code automatically on other machines.*
 
 * [ansible-elixir-stack ★256](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
-* [bootleg ★226](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
+* [bootleg ★258](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
 * [bottler ★26](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 * [edeliver](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 * [elixir-on-docker ★108](https://github.com/CrowdHailer/elixir-on-docker) - A project template to get started developing clustered Elixir applications for cloud environments.
@@ -567,7 +567,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Eventhandling
 *Sending/Emitting and receiving/handling Events in Elixir.*
 
-* [event_bus ★68](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+* [event_bus ★70](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 * [goldrush ★62](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
 * [reaxive ★153 ⏳2Y](https://github.com/alfert/reaxive) - Reaxive is a reactive event handling library, inspired by [Elm](http://elm-lang.org) and Reactive Extensions.
 
@@ -908,7 +908,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [pit ★15](https://github.com/vic/pit) - Transform values as they flow inside a pipe.
 * [rebind ★0 ⏳2Y](https://github.com/camshaft/rebind) - rebind parse transform for Erlang.
 * [rulex](https://github.com/awetzel/rulex) - Simple rule handler using Elixir pattern matching.
-* [shorter_maps ★85](https://github.com/meyercm/shorter_maps) - ~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
+* [shorter_maps ★87](https://github.com/meyercm/shorter_maps) - ~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
 * [unsafe ★5](https://github.com/whitfin/unsafe) - Generate easy unsafe (!) bindings for Elixir functions.
 
 ## Markdown
@@ -1034,7 +1034,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ecto_enum ★214](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 * [ecto_factory](https://hex.pm/packages/ecto_factory) - Easily generate structs based on your ecto schemas.
 * [ecto_fixtures ★112](https://github.com/DockYard/ecto_fixtures) - Fixtures for Elixir apps using Ecto.
-* [ecto_lazy_float ★6](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
+* [ecto_lazy_float ★6 ⏳1Y](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
 * [ecto_migrate ★21 ⏳1Y](https://github.com/xerions/ecto_migrate) - Ecto auto migration library. It allows to generate and run migrations for initial and update migrations.
 * [ecto_mnesia ★83](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
 * [ecto_ordered ★27](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
@@ -1086,7 +1086,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [riak_ecto ★27](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
 * [shards ★182](https://github.com/cabol/shards) - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables.
 * [sql_dust ★94](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
-* [sqlite_ecto ★65](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
+* [sqlite_ecto ★65 ⏳1Y](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
 * [sqlitex ★46](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
 * [ssdb_elixir ★6](https://github.com/lidashuang/ssdb-elixir) - ssdb client for Elixir, with focus on performance.
 * [tds ★32](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
@@ -1413,7 +1413,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exurban ★1 ⏳3Y](https://github.com/oscar-lopez/exurban) - Elixir wrapper for UrbanAirship API.
 * [facebook ★83](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
 * [feedlex ★3 ⏳1Y](https://github.com/essenciary/feedlex) - Feedly RSS reader client for Elixir.
-* [fluent_client ★4 ⏳2Y](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
+* [fluent_client ★4 ⏳3Y](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
 * [forcex ★34](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
 * [forecast_io ★6](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 * [gcmex ★7 ⏳2Y](https://github.com/dukex/gcmex) - Google Cloud Messaging client library for elixir.

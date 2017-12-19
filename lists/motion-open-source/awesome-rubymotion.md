@@ -19,7 +19,7 @@ This list categorized community-driven collection of awesome RubyMotion example 
 
 Please take a look at the [contribution guidelines and quality standard](https://github.com/motion-open-source/awesome-rubymotion/blob/master/CONTRIBUTING.md) first.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
 
 ## Contents
@@ -148,7 +148,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 ## Editors & RM
 * [Vim tab completion for RubyMotion](http://crypt.codemancers.com/posts/2013-05-01-vim-tabcompletion-for-rubymotion/) - a quick rundown on setting up tab completion in vim for RubyMotion.
 * [Atom-objc-2-rubymotion ★4 ⏳2Y](https://github.com/ahmetabdi/atom-objc-2-rubymotion) - Objective-C to RubyMotion converter for atom.
-* [Emacs motion-mode.el ★40 ⏳3Y](https://github.com/ainame/motion-mode) - a package to provide emacs' major mode for RubyMotion enviroment.
+* [Emacs motion-mode.el ★41 ⏳3Y](https://github.com/ainame/motion-mode) - a package to provide emacs' major mode for RubyMotion enviroment.
 * [SublimeRubyMotionBuilder ★159 ⏳1Y](https://github.com/RubyMotionJP/SublimeRubyMotionBuilder) - Sublime Text 2 and 3 plugin to simplify RubyMotion developing.
 * [RubyMine & RubyMotion](https://www.jetbrains.com/ruby/help/rubymotion.html) - RubyMine integrates with RubyMotion and helps create applications for iOS.
 
@@ -159,7 +159,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 Because Android support is quite new we're keeping the libraries together in this section.
 
-* [BluePotion ★67](https://github.com/infinitered/bluepotion) - BluePotion is the Android version of RedPotion. (ALPHA).
+* [BluePotion ★68](https://github.com/infinitered/bluepotion) - BluePotion is the Android version of RedPotion. (ALPHA).
 * [Toaster ★1 ⏳3Y](https://github.com/jamonholmgren/toaster) - RubyMotion-android 'Toast' gem. Makes working with Android toasts really easy.
 * [Motion-maven ★17 ⏳2Y](https://github.com/HipByte/motion-maven) - motion-maven lets you automatically manage 3rd-party Java dependencies in RubyMotion for Android projects using Maven.
 
@@ -174,7 +174,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Helu ★54 ⏳3Y](https://github.com/ivanacostarubio/helu) - RubyMotion wrapper for the Store Kit Framework.
 * [Motion-speech ★11 ⏳3Y](https://github.com/macfanatic/motion-speech) - Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7.
 * [Motion-keychain ★36 ⏳1Y](https://github.com/IconoclastLabs/motion-keychain) - The motion-keychain gem is a simple wrapper for Keychain on iOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults.
-* [Motion-settings-bundle ★116 ⏳3Y](https://github.com/qrush/motion-settings-bundle) - Create a Settings.bundle for your RubyMotion app.
+* [Motion-settings-bundle ★116](https://github.com/qrush/motion-settings-bundle) - Create a Settings.bundle for your RubyMotion app.
 * [Motion-Social ★12 ⏳3Y](https://github.com/ivanacostarubio/motion-social) - Wrapper around the Social Framework.
 
 
@@ -205,7 +205,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Dependencies Management
 * [MotionBundler ★103 ⏳4Y](https://github.com/archan937/motion-bundler) - Require and mock Ruby gems (including their dependencies) within RubyMotion applications.
-* [Motion-acknowledgements ★33 ⏳3Y](https://github.com/OTGApps/motion-acknowledgements) - This gem makes it easy to include the CocoaPods acknowledgements file in your application.
+* [Motion-acknowledgements ★33](https://github.com/OTGApps/motion-acknowledgements) - This gem makes it easy to include the CocoaPods acknowledgements file in your application.
 
 
 ### Device support
@@ -224,7 +224,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [RubyMotionQuery - RMQ](http://infinitered.com/rmq) - UI Library for RubyMotion. Fast, non-polluting, & chaining; it’s like jQuery for RubyMotion + stylesheets, animations, events, and more.
 * [MotionPrime](http://prime.droidlabs.pro) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications.
 * [Elevate ★135 ⏳3Y](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate.
-* [RedPotion ★224](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast.
+* [RedPotion ★227](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast.
 * [Motion-support ★135](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion.
 * [ProMotion ★1265](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast.
 * [ProMotion-XLForm ★21 ⏳1Y](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm.
@@ -301,7 +301,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Graphic Libraries
-* [Motion-Plot ★79 ⏳3Y](https://github.com/toamitkumar/motion-plot) - RubyMotion wrapper for CorePlot.
+* [Motion-Plot ★79](https://github.com/toamitkumar/motion-plot) - RubyMotion wrapper for CorePlot.
 * [Motion-ocr ★63 ⏳3Y](https://github.com/ferdev/motion-ocr) - RubyMotion wrapper for the OCR engine Tesseract.
 
 
@@ -323,7 +323,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [RackMotion ★42 ⏳2Y](https://github.com/drewbug/RackMotion) - Intercept and alter HTTP requests and responses in RubyMotion.
 * [Motion-net-service ★27 ⏳4Y](https://github.com/fearoffish/motion-net-service) - RubyMotion wrapper providing a simple DSL for the Bonjour (NSNetService) zero configuration network protocol.
 * [Apex ★33](https://github.com/infinitered/apex) - Apex is a RubyMotion web framework for macOS. It uses GCDWebServer under the hood and provides a Sinatra-like router and DSL.
-* [AFMotion ★221](https://github.com/clayallsopp/afmotion) - RubyMotion wrapper for AFNetworking.
+* [AFMotion ★220](https://github.com/clayallsopp/afmotion) - RubyMotion wrapper for AFNetworking.
 
 
 ### Project Management
@@ -358,7 +358,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Screenshots
 * [Motion-screenshots ★41 ⏳1Y](https://github.com/clayallsopp/motion-screenshots) - Automatic screenshots for your RubyMotion apps.
-* [Motion-launchimages ★5 ⏳2Y](https://github.com/brendanjcaffrey/motion-launchimages) - Automate taking your RubyMotion launch images.
+* [Motion-launchimages ★5](https://github.com/brendanjcaffrey/motion-launchimages) - Automate taking your RubyMotion launch images.
 
 
 ### Software Design Patterns
@@ -374,7 +374,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 App project templates
 
 * [MotionTemplate ★65 ⏳3Y](https://github.com/IconoclastLabs/MotionTemplate) - Clean RubyMotion project for quickly templating a styled application.
-* [Promotion-template ★10 ⏳2Y](https://github.com/jamonholmgren/promotion-template) - Utilize the bells and whistles of ProMotion to hit the ground running.
+* [Promotion-template ★11 ⏳2Y](https://github.com/jamonholmgren/promotion-template) - Utilize the bells and whistles of ProMotion to hit the ground running.
 * [Rubymotion_generators ★80 ⏳3Y](https://github.com/andyw8/rubymotion_generators) - Provides boilerplate code templates for RubyMotion.
 * [Motion-template-spritekit ★18 ⏳2Y](https://github.com/meganemura/motion-template-spritekit) - SpriteKit project templates for RubyMotion (iOS/OSX/tvOS).
 
@@ -475,7 +475,7 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) list.
+Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) list.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/motion-open-source/awesome-rubymotion">motion-open-source/awesome-rubymotion</a> with ranks
