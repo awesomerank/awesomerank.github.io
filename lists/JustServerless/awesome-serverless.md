@@ -1698,6 +1698,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [CloudFormation cross region variables ★1](https://github.com/blueflag/serverless-plugin-cloudformation-cross-region-variables) - Adds new Serverless Variables syntax to share variables across regions via CloudFormation.
 - [Tracer ★1](https://github.com/enykeev/serverless-plugin-tracer) - Trace Serverless Framework hooks as they execute.
 - [IoT Local ★2](https://github.com/tradle/serverless-iot-local) - AWS Iot lifecycle and regular topic subscription events.
+- [SNS Filter ★4](https://github.com/MechanicalRock/serverless-sns-filter) - Add SNS subscription filters to events.
+- [Reqvalidator ★1](https://github.com/RafPe/serverless-reqvalidator-plugin) - Add request validator to API Gateway methods.
 
 ## Literature / Education
 

@@ -321,7 +321,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Vert.x Cron ★20](https://github.com/diabolicallabs/vertx-cron) - Schedule events with cron specifications. Has event bus and Observable versions.
 * [Vert.x POJO config ★2 ⏳1Y](https://github.com/aesteve/vertx-pojo-config) - Allows for mapping between standard JSON configuration and a (type-safe) configuration Java bean. Also allows the configuration bean to be validated through JSR 303.
 * [Vert.x Async ★13](https://github.com/gchauvet/vertx-async) - Portage of caolan/async nodejs module to Vert.x framework that provides helpers methods for common async patterns.
-* [Vert.x JOLT ★3](https://github.com/lusoalex/vertx-jolt) - JSON to JSON transformation tool based on the original bazaarvoice JOLT project. Helpful to transform different json structure into an expected json format.
+* [Vert.x JOLT ★3 ⏳1Y](https://github.com/lusoalex/vertx-jolt) - JSON to JSON transformation tool based on the original bazaarvoice JOLT project. Helpful to transform different json structure into an expected json format.
 * [Vert.x Dependent Verticle Deployer ★2](https://github.com/juanavelez/vertx-dependent-verticle-deployer) - A Vert.x Verticle intended to deploy verticles and their dependent verticles.
 * [Vert.x Dataloader ★35](https://github.com/engagingspaces/vertx-dataloader) - Java port of Facebook Dataloader for Vert.x. Efficient batching and caching for your data layer.
 * [Vert.x Util ★1](https://github.com/juanavelez/vertx-util) - A collection of Vert.x utility methods.

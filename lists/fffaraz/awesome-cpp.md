@@ -656,7 +656,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Klib ★1879](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. [MIT]
 * [libsigc++](http://libsigc.sourceforge.net/) - A typesafe callback system for standard C++. [LGPL]
 * [libcpuid ★119](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
-* [libevil ★10 ⏳5Y](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
+* [libevil ★10 ⏳6Y](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
 * [libnih ★41 ⏳4Y](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
 * [Mach7 ★859](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
