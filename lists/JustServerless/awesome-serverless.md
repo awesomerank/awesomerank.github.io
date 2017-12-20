@@ -930,6 +930,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Comprehensive guide to serverless architecture](https://www.simform.com/serverless-architecture-guide/) - In-depth guide about serverless technologies and architectures.
 - [From bare metal to serverless](https://loige.co/from-bare-metal-to-serverless/) - Post about the evolution from the early days of the internet up until the serverless computing era.
 - [Building a static serverless website with Netlify](https://serverless.com/blog/how-built-static-serverless-website-netlify/) - How to build a serverless website using Netlify.
+- [6 things to know about serverless tech](https://www.themartec.com/insidelook/serverless-tech) - Post about six vital things to know about serverless tech.
+- [Reducing latency using Binaris](https://thenewstack.io/binaris-wants-reduce-latency-serverless-productions/) - How Binaris wants to reduce latency in serverless deployments.
 
 ## Screencasts
 
@@ -1830,7 +1832,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Stripe webhook ★19 ⏳2Y](https://github.com/eahefnawy/serverless-stripe-webhook) - Webhook for Stripe payments.
 - [Slack webhook ★8 ⏳2Y](https://github.com/eahefnawy/serverless-slack-webhook) - Webhook for Slack.
 - [Slack ★39 ⏳1Y](https://github.com/serverless/serverless-slack) - Slack boilerplate functionality.
-- [Examples ★33 ⏳1Y](https://github.com/remicastaing/serverless-examples) - Module with example functions.
+- [Examples ★33 ⏳2Y](https://github.com/remicastaing/serverless-examples) - Module with example functions.
 - [Slackbot ★137 ⏳1Y](https://github.com/serverless/serverless-slackbot) - Module to create your own slackbot.
 - [Images ★22 ⏳2Y](https://github.com/awsm-org/awsm-images) - Image modifications.
 - [Cloudfront ★27 ⏳2Y](https://github.com/boushley/awsm-cloudfront) - Puts CloudFront distribution in front of your project.

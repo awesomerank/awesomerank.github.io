@@ -92,6 +92,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 
 ## Crystal
 
+* [ameba ★48](https://github.com/veelenga/ameba) - A static code analysis tool for Crystal
 * [crystal](https://crystal-lang.org/) - The Crystal compiler has built-in linting functionality.
 
 ## Elixir

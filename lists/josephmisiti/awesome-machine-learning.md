@@ -195,7 +195,7 @@ Further resources:
 * [libfm](http://www.libfm.org/) - A generic approach that allows to mimic most factorization models by feature engineering.
 * [MLDB](https://mldb.ai) - The Machine Learning Database is a database designed for machine learning. Send it commands over a RESTful API to store data, explore it using SQL, then train machine learning models and expose them as APIs.
 * [mlpack](http://www.mlpack.org/) - A scalable C++ machine learning library.
-* [proNet-core ★0](https://github.com/chihming/proNet-core) - A general-purpose network embedding framework: pair-wise representations optimization Network Edit.
+* [proNet-core ★33](https://github.com/cnclabs/proNet-core) - A general-purpose network embedding framework: pair-wise representations optimization Network Edit.
 * [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 * [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.
 * [Shogun ★1698](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
@@ -317,6 +317,7 @@ Further resources:
 * [snowball ★8](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 * [go-ngram ★82 ⏳1Y](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression.
 * [word-embedding ★92](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+* [sentences ★219](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 <a name="go-general-purpose"></a>
 #### General-Purpose Machine Learning
