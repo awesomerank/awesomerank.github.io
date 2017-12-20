@@ -22,11 +22,7 @@ Awesome Series @ Planet Ruby
 
 A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world
 
----
 
-[ANNOUNCEMENT] Looking for awesome football events (tournaments, leagues, cups, etc.)? See the [Football Calendar @ Open Football](https://github.com/openfootball/calendar).
-
----
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
@@ -45,21 +41,6 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 <!-- new list for not by non-profits -->
 
-- **RubyMotion Conference - #inspect** (web: [conference.rubymotion.com](http://conference.rubymotion.com), t: [rubymotion](https://twitter.com/rubymotion)) - _since 2013_ by HipByte SPRL
-    - 2015 @ Paris, France; July/1+2  (€299) - #3
-    - 2014 @ San Francisco, California, United States, May/28+29 - #2
-    - 2013 @ Brussels, Belgium; March/28+29  -  #1
-
-## Online
-
-- **Ruby Rampage** (web: [rubyrampage.com](https://www.rubyrampage.com), t: [rbrampage](https://twitter.com/rbrampage)) - _48-hour hackathon since 2016 (formerly Rails Rumble)_
-    - 2016 @ Intertubes; Oct/22+23  (FREE)
-- **Rails Rumble** (web: [railsrumble.com](https://railsrumble.com), t: [railsrumble](https://twitter.com/railsrumble))
-    - 2015 @ Intertubes; Nov/7+8  (FREE)
-    - 2014 @ Intertubes; Oct/18+19  (FREE)
-- **JekyllConf** (web: [jekyllconf.com](http://jekyllconf.com), t: [JekyllConf](https://twitter.com/JekyllConf))
-    - 2016 @ Intertubes, May/7   (FREE)
-    - 2015 @ Intertubes; May/2   (FREE)
 
 ## Europe
 
@@ -70,7 +51,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 [Eastern Europe](#eastern-europe)
 
 
-- **European Ruby Konference - EuRuKo** (web: [euruko.org](http://euruko.org), t: [euruko](https://twitter.com/euruko)) - _since 2003_
+- **European Ruby Konference - EuRuKo** (web: [euruko.org](http://euruko.org), t: [euruko](https://twitter.com/euruko), github: [euruko](https://github.com/euruko)) - _since 2003_
+    - 2017 @ Budapest, Hungary; Sept/29+30   - #15
     - 2016 @ Sofia, Bulgaria; Sept/23+24  (€65)  - #14
     - 2015 @ Salzburg, Austria; Oct/17+18  (€65)    - #13
     - ~~2014 @ Kyiv, Ukraine; June/20+21~~ (CANCELED) - #12
@@ -85,9 +67,6 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
     - 2005 @ Munich, Germany; Oct/15+16             - #3
     - 2004 @ Munich, Germany; Oct/9+10              - #2
     - 2003 @ Karlsruhe, Germany; June/21+22 (€20)   - #1
-- **Ruby Open Source Software (ROSS) Conference - ROSSConf** (web: [rossconf.io](http://rossconf.io), github:  [rossconf](https://github.com/rossconf), t: [ROSSConf](https://twitter.com/ROSSConf)) - _since 2015_
-    - 2015 @ Berlin, Germany; Sept/26  (FREE)   - #2
-    - 2015 @ Vienna, Austria; April/25  (FREE)  - #1
 
 
 ### Central Europe
@@ -106,7 +85,6 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 - @ Vienna / Wien
     - **Vienna.rb** (web: [vienna-rb.at](http://vienna-rb.at), github: [vienna-rb](https://github.com/vienna-rb), t: [viennarb](https://twitter.com/viennarb))
-    - **Vienna.html** (github: [viennahtml](https://github.com/viennahtml), t: [viennahtml](https://twitter.com/viennahtml)) - Jekyll 'n' friends; Static is the New Dynamic
     - **Ruby Habits** (meetup: [RubyHabits](http://meetup.com/RubyHabits)) - Ruby Study Group
 - @ Linz, Oberösterreich
     - **Ruby User Group Linz - RUGL** (meetup: [Ruby-User-Group-Linz-RUGL](http://meetup.com/Ruby-User-Group-Linz-RUGL))
@@ -126,20 +104,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 
 #### Germany / Deutschland (de)
 
-- **European Ruby Camp - eurucamp** (web: [eurucamp.org](http://eurucamp.org), t: [eurucamp](https://twitter.com/eurucamp)) - _since 2011_  by Ruby Berlin e.V.
-    - 2015 @ Potsdam, Brandenburg (Berlin); July/31-Aug/2  (€180, Student €120)  - #5
-    - 2014 @ Berlin; Aug/1-3    - #4
-    - 2013 @ Berlin; Aug/16-18  - #3
-    - 2012 @ Berlin; Aug/17–19  - #2
-    - 2011 @ Berlin; May/28+29  - #1
-- **JRuby Conference Europe - JRubyConf EU** (web: [jrubyconf.eu](http://jrubyconf.eu), t:  [JRubyConfEU](https://twitter.com/JRubyConfEU)) _since 2012_
-    - 2015 @ Potsdam, Brandenburg (Berlin); July/31  (€130, Student €120)  - #4
-    - 2014 @ Berlin; Aug/1     - #3
-    - 2013 @ Berlin; Aug/14+15 - #2
-    - 2012 @ Berlin; Aug/17    - #1
-
-- **Ruby on Ice Conference - Ruby on Ice** (web: [rubyonice.com](http://rubyonice.com), t:  [rubyoniceconf](https://twitter.com/rubyoniceconf)) _since 2017_
-    - 2018 @ Tegernsee, Bavaria (near Munich); Jan/26-Jan/28
+- **Ruby on Ice Conference** (web: [rubyonice.com](http://rubyonice.com), t:  [rubyoniceconf](https://twitter.com/rubyoniceconf)) 
+    - 2018 @ Tegernsee, Bavaria (near Munich / München); Jan/26-28
 
 <!-- new list; user groups -->
 
@@ -805,6 +771,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### India (in)
 
 - **RubyConf India** (web: [rubyconfindia.org](http://rubyconfindia.org), t: [rubyconfindia](https://twitter.com/rubyconfindia))
+    - 2018 @ Bengaluru; Feb/9+10
+    - 2017 @ Kochi, Kerala; Jan/27-29
     - 2016 @ Kochi, Kerala; March/19+20
     - 2015 @ Dona Paula (Vainguinim Beach), Goa; April/3-5  (Rs22000/11000/6500, $400/200/125)
     - 2014 @ Canacona (Goan Coastline), Goa; March/22+23
@@ -843,6 +811,8 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 ### South Africa (za)
 
 - **RubyFuza** (web: [rubyfuza.org](http://www.rubyfuza.org), t: [rubyfuza](https://twitter.com/rubyfuza))
+    - 2018 @ Cape Town; Feb/1-3
+    - 2017 @ Cape Town; Feb/2-4
     - 2016 @ Cape Town; Feb/4+5  (R1200/R900)
     - 2015 @ Cape Town; Feb/5+6
 

@@ -65,6 +65,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [rtrim ★0 ⏳1Y](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
 * [slice.js ★19](https://github.com/hustcc/slice.js) - Javascript library to engance String.substring / Array.slice with python slice style.
 * [strip-ansi ★97](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
+* [striptags ★226](https://github.com/ericnorris/striptags) - An implementation of PHP's strip_tags in Node.js.
 
 ### Date & Time
 

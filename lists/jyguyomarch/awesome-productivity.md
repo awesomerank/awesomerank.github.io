@@ -82,7 +82,7 @@ Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list
 - [everydayCheck](https://everydaycheck.com) - Form new habits by doing things every day.
 - [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
 - [HabitBull](http://www.habitbull.com/) - Premium habit tracker.
-- [Loop Habit Tracker ★1459](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
+- [Loop Habit Tracker ★1513](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 
 ### Task Automation
 

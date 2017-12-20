@@ -57,7 +57,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [EventBus](#eventbus)
     - [Files](#files)
     - [Functional Programming](#functional-programming)
-    - [Games](#games)
+    - [Games](#games) 
+    - [GCD](#gcd)
     - [Gesture](#gesture)
     - [Graphics](#graphics)
     - [Hardware](#hardware)
@@ -484,7 +485,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [HeckelDiff ★42](https://github.com/mcudich/HeckelDiff) - A fast Swift diffing library. :large_orange_diamond:
 * [Dekoter ★21](https://github.com/artemstepanenko/Dekoter) - `NSCoding`'s counterpart for Swift structs. :large_orange_diamond:
 * [swift-algorithm-club ★15389](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations! :large_orange_diamond:
-+* [Impeller ★91](https://github.com/mentalfaculty/impeller) - A Distributed Value Store in Swift :large_orange_diamond:
+* [Impeller ★91](https://github.com/mentalfaculty/impeller) - A Distributed Value Store in Swift :large_orange_diamond:
+* [Dispatch ★244](https://github.com/alexdrone/Dispatch) - Multi-store Flux implementation in Swift :large_orange_diamond:
 
 ## Date & Time
 
@@ -568,6 +570,20 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ShogibanKit ★50](https://github.com/codelynx/ShogibanKit) - ShogibanKit is a framework for implementing complex Japanese Chess (Shogii) in Swift. No UI, nor AI. :large_orange_diamond:
 * [SKTiled ★100](https://github.com/mfessenden/SKTiled) - Swift framework for working with Tiled assets in SpriteKit :large_orange_diamond:
 * [CollectionNode ★43](https://github.com/bwide/CollectionNode) - A swift framework for a collectionView in SpriteKit :large_orange_diamond:
+
+## GCD
+ * [GCDKit ★283](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift. :large_orange_diamond:
+ * [Async ★4175](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch :large_orange_diamond:
+ * [SwiftSafe ★159](https://github.com/nodes-ios/SwiftSafe) - Thread synchronization made easy :large_orange_diamond:
+ * [YYDispatchQueuePool ★295](https://github.com/ibireme/YYDispatchQueuePool) - iOS utility class to manage global dispatch queue.
+ * [AlecrimAsyncKit ★66](https://github.com/Alecrim/AlecrimAsyncKit) - Bringing async and await to Swift world with some flavouring. :large_orange_diamond:
+ * [GrandSugarDispatch ★31 ⏳1Y](https://github.com/jessesquires/GrandSugarDispatch) - Syntactic sugar for Grand Central Dispatch (GCD) :large_orange_diamond:
+ * [Threader ★39 ⏳1Y](https://github.com/mitchtreece/Threader) - Pretty GCD calls and easier code execution.
+ * [Dispatch ★173](https://github.com/JARMourato/Dispatch) - Just a tiny library to make using GCD easier and intuitive :large_orange_diamond:
+ * [GCDTimer ★168](https://github.com/hemantasapkota/GCDTimer) - Well tested Grand Central Dispatch (GCD) Timer in Swift. :large_orange_diamond:
+ * [Chronos-Swift ★249](https://github.com/comyar/Chronos-Swift) - :hourglass: Grand Central Dispatch Utilities :large_orange_diamond:
+ * [Me ★194](https://github.com/pascalbros/Me) - A super slim solution to the nested asynchronous computations. :large_orange_diamond:
+ * [SwiftyTask ★10](https://github.com/CR-Creations/SwiftyTask) - An extreme queuing system with high performance for managing all task in app with closure. :large_orange_diamond:
 
 ## Gesture
 * [Tactile ★635 ⏳1Y](https://github.com/delba/Tactile) - A better way to handle gestures on iOS :large_orange_diamond:
@@ -1468,6 +1484,7 @@ Most of these are paid services, some have free tiers.
 * [Marky Mark ★66](https://github.com/m2mobi/Marky-Mark) - Highly customizable Markdown parsing and native rendering in Swift. 🔶
 * [MarkdownView ★1032](https://github.com/keitaoouchi/MarkdownView) - Markdown View for iOS. 🔶
 * [Highlighter ★653](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class. :large_orange_diamond:
+* [Sprinter ★147](https://github.com/nicklockwood/Sprinter) - A library for formatting strings on iOS and macOS :large_orange_diamond:
 
 #### Font
 * [FontBlaster ★863](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app. :large_orange_diamond:
@@ -2495,20 +2512,6 @@ Most of these are paid services, some have free tiers.
 * [Socks ★483](https://github.com/vapor/sockets) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, macOS :large_orange_diamond:
 * [SwifterSockets ★55](https://github.com/Balancingrock/SwifterSockets) - A collection of socket utilities in Swift for OS-X and iOS :large_orange_diamond:
 * [Swift-ActionCableClient ★108](https://github.com/danielrhodes/Swift-ActionCableClient) - ActionCable is a new WebSocket server being released with Rails 5 which makes it easy to add real-time features to your app. :large_orange_diamond:
-
-#### GCD
- * [GCDKit ★283](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift. :large_orange_diamond:
- * [Async ★4175](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch :large_orange_diamond:
- * [SwiftSafe ★159](https://github.com/nodes-ios/SwiftSafe) - Thread synchronization made easy :large_orange_diamond:
- * [YYDispatchQueuePool ★295](https://github.com/ibireme/YYDispatchQueuePool) - iOS utility class to manage global dispatch queue.
- * [AlecrimAsyncKit ★66](https://github.com/Alecrim/AlecrimAsyncKit) - Bringing async and await to Swift world with some flavouring. :large_orange_diamond:
- * [GrandSugarDispatch ★31 ⏳1Y](https://github.com/jessesquires/GrandSugarDispatch) - Syntactic sugar for Grand Central Dispatch (GCD) :large_orange_diamond:
- * [Threader ★39 ⏳1Y](https://github.com/mitchtreece/Threader) - Pretty GCD calls and easier code execution.
- * [Dispatch ★173](https://github.com/JARMourato/Dispatch) - Just a tiny library to make using GCD easier and intuitive :large_orange_diamond:
- * [GCDTimer ★168](https://github.com/hemantasapkota/GCDTimer) - Well tested Grand Central Dispatch (GCD) Timer in Swift. :large_orange_diamond:
- * [Chronos-Swift ★249](https://github.com/comyar/Chronos-Swift) - :hourglass: Grand Central Dispatch Utilities :large_orange_diamond:
- * [Me ★194](https://github.com/pascalbros/Me) - A super slim solution to the nested asynchronous computations. :large_orange_diamond:
- * [SwiftyTask ★10](https://github.com/CR-Creations/SwiftyTask) - An extreme queuing system with high performance for managing all task in app with closure. :large_orange_diamond:
 
 # Project setup
 * [crafter ★542](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.

@@ -152,6 +152,7 @@ A collection of awesome things regarding React ecosystem.
 * [DIY guide to build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 * [React cheatsheet](https://devhints.io/react)
 * [Codecademy Learn ReactJS Course](https://www.codecademy.com/pt/learn/react-101)
+* [Getting Started with React](https://sabe.io/tutorials/getting-started-with-react)
 
 ##### React best practices
 
@@ -679,6 +680,7 @@ A collection of awesome things regarding React ecosystem.
 * [tydel - Typed Models and Collections, with React bindings](http://tydel.js.org)
 * [extendable-immutable - Extend any Immutable.js data structure ★50](https://github.com/philpl/extendable-immutable)
 * [statty - A tiny and unobtrusive state management library for React and Preact apps ★465](https://github.com/vesparny/statty)
+* [Hydux - An Elm-Like state manager for React with "batteries included" ★37](https://github.com/hydux/hydux)
 
 ##### React Developer Experience
 * [react-devtools - React Chrome Developer Tools ★5803](https://github.com/facebook/react-devtools)
@@ -975,7 +977,7 @@ A collection of awesome things regarding React ecosystem.
 * [Relay GitHub ★10023](https://github.com/facebook/relay)
 
 #### Relay Tutorials
-* [official Relay Getting Started](https://facebook.github.io/relay/docs/en/introduction-to-relay-modern.html)
+* [official Relay Getting Started](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
 * [Relay for Visual Learners](http://sgwilym.github.io/relay-visual-learners/)
 * [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/)
 * [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
