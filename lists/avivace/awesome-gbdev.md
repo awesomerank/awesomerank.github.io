@@ -161,7 +161,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [node-gameboy ★6](https://github.com/nakardo/node-gameboy) - Node.js.
 - [PlutoBoy ★29](https://github.com/RossMeikleham/PlutoBoy) - Cross platform (Windows, OSX, Linux/Unix, Android, iOS, Web Browsers, and Sony PSP) emulator.
 - [SuperGameHerm](https://code.foxkit.us/emulators/supergameherm) - Cross platform emulator written in C11.
-- [Coffee GB ★22](https://github.com/trekawek/coffee-gb) - Java 8.
+- [Coffee GB ★29](https://github.com/trekawek/coffee-gb) - Java 8.
 - [gomeboycolor ★242 ⏳4Y](https://github.com/djhworld/gomeboycolor) - Go, cross platform [documented](http://djhworld.github.io/gomeboycolor/) emulator.
 - [mGBA ★936](https://github.com/mgba-emu/mgba) - A modern cross platform GBA emulator which also runs GB/GBC games. Written in C.
 - [GBRE ★0](https://github.com/ericgramgb/GBRE) - Game Boy Runtime Environment for iOS (iOS Safari and Chrome).

@@ -521,7 +521,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [vue-input-streaming ★6](https://github.com/aofdev/vue-input-streaming) - A TextInput Streaming RealTime And Two Way Data Binding Broadcasting with Pusher
 - [TidyTab ★30](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
 - [peregrine-cms ★10](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
-- [concept-to-clinic ★241](https://github.com/concept-to-clinic/concept-to-clinic) - Lung cancer prediction project with Vue.js interface
+- [concept-to-clinic ★253](https://github.com/concept-to-clinic/concept-to-clinic) - Lung cancer prediction project with Vue.js interface
 - [grid-awesome ★1](https://github.com/louisbourque/grid-awesome) - Generate boilerplate css for grid layouts using the css display: grid; property.
 - [Light Bootstrap Dashboard ★79](https://github.com/cristijora/vue-light-bootstrap-dashboard) - Creative Tim Light Bootstrap Dashboard made for Vue
 - [Hubaga ★4](https://github.com/picocodes/hubaga) - A free and lightweight WordPress eCommerce plugin for developers and other digital shops.
@@ -973,7 +973,7 @@ Tooltips / popovers
  - [vue-easteregg ★1](https://github.com/ddgll/vue-easteregg) - Easey add an easteregg to your vue app (default with konami code)
  - [vue-barcode-scanner ★19](https://github.com/noomerzx/vue-barcode-scanner)
  - [vue-heatmapjs ★51](https://github.com/BrockReece/vue-heatmapjs) - A Vue directive for tracking and visualising mouse activity
- - [vue-maze ★11](https://github.com/meganetaaan/vue-maze) - An itty-bitty maze game made as Vue.js component
+ - [vue-maze ★15](https://github.com/meganetaaan/vue-maze) - An itty-bitty maze game made as Vue.js component
  - [vue-drag-verify ★6](https://github.com/AshleyLv/vue-drag-verify) - This is a vue component, which is sliding to unlock for login or sign up.
  - [vue-balloon ★22](https://github.com/kevinwarne/vue-balloon) - Vue components for creating fixed, zoomable containers in the corner of a page. Similar to the mail composition wrapper used in gmail.
  - [vue-sticker ★100](https://github.com/KamilOcean/vue-sticker) - Sticker effect to any directions
@@ -1105,7 +1105,7 @@ Tooltips / popovers
  - [vue-pell-editor ★9](https://github.com/CinKon/vue-pell-editor) Vue.js component for [Pell](https://jaredreich.com/pell) WYSIWYG editor
  - [vue-tinymce-editor ★34](https://github.com/dyonir/vue-tinymce-editor) Tinymce editor component for Vue2.
  - [vue-mce ★11](https://github.com/Eazymov/vue-mce) - tinymce editor component for VueJS.
- - [Vue2-Editor ★401](https://github.com/davidroyer/vue2-editor) - HTML Editor using Vue.js and Quilljs
+ - [Vue2-Editor ★467](https://github.com/davidroyer/vue2-editor) - HTML Editor using Vue.js and Quilljs
 #### Image Manipulation
 
 *Edit images*
@@ -1149,7 +1149,7 @@ Tooltips / popovers
  - [vue-ripple-directive ★96](https://github.com/PygmySlowLoris/vue-ripple-directive) - Material Ripple Effect as Vue Directive.
  - [vue-fab ★49](https://github.com/PygmySlowLoris/vue-fab) - Vue Floating Action Button.
  - [vue-complexify ★4](https://github.com/mazipan/vue-complexify) - Vuejs porting library from jquery.complexify.js.
- - [vue-mc ★166](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
+ - [vue-mc ★185](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
  - [vue-stars](https://www.tallent.us/vue-stars/) - Highly customizable rating control (using stars or other characters)
 
 #### Wizard
@@ -1461,7 +1461,7 @@ Tooltips / popovers
  - [vue-async-data-2 ★26](https://github.com/kamijin-fanta/vue-async-data) - Async data loading plugin for Vue.js.
  - [vue-api-request ★95](https://github.com/ftgibran/vue-api-request) - A plugin that provides full control on your APIs, making your request simple, fast and easy to implement.
  - [vue-fast-axios ★11](https://github.com/leonardovilarinho/vue-fast-axios) - Make requests with validations in a simple and beautiful way.
- - [vue-async-properties ★3](https://github.com/blainehansen/vue-async-properties) - An `asyncData` and `asyncComputed` plugin with support for debouncing, transforming results, error handlers, loading/pending flags, lazy/eager requests.
+ - [vue-async-properties ★6](https://github.com/blainehansen/vue-async-properties) - An `asyncData` and `asyncComputed` plugin with support for debouncing, transforming results, error handlers, loading/pending flags, lazy/eager requests.
  - [vue-axios-plugin ★9](https://github.com/yugasun/vue-axios-plugin) - A plugin that combines axios with Vuejs, making http request more easier.
  - [vuex-api ★1](https://github.com/vouill/vuex-api) - A vuex plugin for effortlessly handle api calls.
 
@@ -1514,7 +1514,7 @@ the amazing Vue.js.
  - [vue-ya-stash ★16](https://github.com/qgp9/vue-ya-stash) - Yet Another stash storage with update/patch event emitters simillar with v-bind.sync
  - [vue-assign-model ★3](https://github.com/midnightSuyama/vue-assign-model) - Automatically assign elements value to model for Vue.js.
  - [vue-stash ★270](https://github.com/cklmercer/vue-stash) - Easily share reactive data between your Vue components.
- - [vue-mc ★166](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
+ - [vue-mc ★185](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
  - [vue-model ★738](https://github.com/aarondfrancis/vue-model) - Model component for Vue.js
 
 #### Redux
@@ -1772,7 +1772,7 @@ Payment utilities.
 
 #### Brackets
 
- - [Brackets Vue ★28 ⏳1Y](https://github.com/pandao/brackets-vue) - Brackets extension for Vue.js.
+ - [Brackets Vue ★28 ⏳2Y](https://github.com/pandao/brackets-vue) - Brackets extension for Vue.js.
 
 #### Intellij
 
@@ -1805,8 +1805,8 @@ Payment utilities.
  - [rails_vue_melt ★4](https://github.com/midnightSuyama/rails_vue_melt) - Rails view with webpack=vue optimizer.
  - [vue-starter ★32](https://github.com/rohitkrai03/vue-starter) - A Vue.js starter kit that lets you focus on more programming and less configuration.
  - [vue-standalone-component ★39](https://github.com/InCuca/vue-standalone-component) - A standalone component generator with documentation support using jsdoc and vue-styleguidist
- - [vuejs-wordpress-theme-starter ★108](https://github.com/EvanAgee/vuejs-wordpress-theme-starter) - A WordPress theme with the guts ripped out and replaced with Vue
- - [Cordovue ★47](https://github.com/TheMushrr00m/cordovue) - A sample Apache Cordova application using Vue.
+ - [vuejs-wordpress-theme-starter ★140](https://github.com/EvanAgee/vuejs-wordpress-theme-starter) - A WordPress theme with the guts ripped out and replaced with Vue
+ - [Cordovue ★50](https://github.com/TheMushrr00m/cordovue) - A sample Apache Cordova application using Vue.
  - [Cookiecutter-Django-Vue ★24](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations by ([@vchaptsev](https://github.com/vchaptsev/))
  - **[iBiu ★110](https://github.com/bobiscool/iBiu)**   A visual CLI for scaffolding large Vue projects in 2 seconds.
 

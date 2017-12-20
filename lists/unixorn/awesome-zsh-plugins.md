@@ -559,7 +559,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [zsh-better-npm-completion ★97](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for `npm`.
 * [zsh-cabal-completion ★0 ⏳2Y](https://github.com/ehamberg/zsh-cabal-completion) - Add tab completion for cabal.
 * [zsh-completions ★1850](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
-* [zsh-ipfs ★5 ⏳1Y](https://github.com/aramboi/zsh-ipfs) - Completions for the [Interplanetary File System](https://ipfs.io).
+* [zsh-ipfs ★5 ⏳2Y](https://github.com/aramboi/zsh-ipfs) - Completions for the [Interplanetary File System](https://ipfs.io).
 * [zsh-packer ★3](https://github.com/wakeful/zsh-packer) - Adds tab completion for packer.
 * [zsh-pandoc-completion ★7 ⏳1Y](https://github.com/srijanshetty/zsh-pandoc-completion) - Pandoc completion plugin.
 * [zsh-pip-completion ★12 ⏳2Y](https://github.com/srijanshetty/zsh-pip-completion) - Autocompletion plugin for pip.

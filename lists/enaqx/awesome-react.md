@@ -261,7 +261,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Debugging React
 * [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
 * [Reactotron: Control, monitor, and instrument](https://github.com/skellock/reactotron)
-* [React-fix-it: Automagically generate tests from errors ★1880](https://github.com/MicheleBertoli/react-fix-it)
+* [React-fix-it: Automagically generate tests from errors ★1880 ⏳1Y](https://github.com/MicheleBertoli/react-fix-it)
 
 ##### Authentication
 * [Adding authentication to your React Flux app](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
@@ -309,6 +309,7 @@ A collection of awesome things regarding React ecosystem.
 * [React + Redux w/ ES6 Starter Project - Starter kit using Webpack, React Hot Loader, Code Splitting for React Router, CSS Modules, custom Ducks pattern app architecture, best practices, and Enzyme test environment ★556](https://github.com/nicksp/redux-webpack-es6-boilerplate)
 * [react-firebase-authentication - Boilerplate for authentication and real-time database using React and Firebase ★10 ⏳1Y](https://github.com/zerostatic/react-firebase-authentication)
 * [react-redux-saga-boilerplate - Starter kit with routing, state container, storage and SEO tools. PWA-ready ★115](https://github.com/gilbarbara/react-redux-saga-boilerplate)
+* [generator-react-firebase - Yeoman generator for starting projects using React and Firebase (Redux optional) with features Full Authentication, Route protection and Material UI Application Navbar ★117](https://github.com/prescottprue/generator-react-firebase)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -1108,7 +1109,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-todos - Backbone's example TODO app with React JS for views ★28](https://github.com/ssorallen/react-todos)
 * [github-issues-viewer - A gitub issues viewer build in react + backbone ★244 ⏳4Y](https://github.com/jaredly/github-issues-viewer)
 * [wolfenstein3D-react - Wolfenstein with the rendering layer written in React ★42 ⏳1Y](https://github.com/petehunt/wolfenstein3D-react)
-* [Flux ImmutableJS TodoList ★45 ⏳1Y](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
+* [Flux ImmutableJS TodoList ★45 ⏳2Y](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 * [Hapi+React+Flux user management system ★1190](https://github.com/jedireza/aqua)
 * [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
 * [react-babel-webpack - CRUD demo app featuring React, React Router, Flux, Webpack, Bootstrap](https://github.com/arcseldon/react-babel-webpack-starter-app.git)

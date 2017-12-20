@@ -25,7 +25,9 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 
 * **[WebSites](#websites)**  
 
-* **[Datasets](#datasets)**  
+* **[Datasets](#datasets)**
+
+* **[Conferences](#Conferences)**
 
 * **[Frameworks](#frameworks)**  
 
@@ -33,10 +35,10 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 
 * **[Contributing](#contributing)**  
 
-
+ 
 ### Free Online Books
 
-1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
+1.  [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
 2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
 3.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013) 
 4.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
@@ -56,8 +58,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 5.  [A.I - Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/) by Dan Klein and Pieter Abbeel (2013)
 6.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) by Patrick Henry Winston (2010)
 7.  [Vision and learning - computers and brains](http://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html) by Shimon Ullman, Tomaso Poggio, Ethan Meyers @ MIT (2013)
-8.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus_winter2015.html) by Fei-Fei Li, Andrej Karpathy (2015)
-9.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2016)
+9.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2017)
 10.  [Deep Learning for Natural Language Processing - Stanford](http://cs224d.stanford.edu/)
 11.  [Neural Networks - usherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 12.  [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (2014-2015)
@@ -67,14 +68,14 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 16.  [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) by Prof. Ali Ghodsi at University of Waterloo (2015)
 17.  [Statistical Machine Learning - CMU](https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) by Prof. Larry Wasserman
 18.  [Deep Learning Course](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) by Yann LeCun (2016)
-19.  [Bay area DL school](http://www.bayareadlschool.org/) by Andrew Ng, Yoshua Bengio, Samy Bengio, Andrej Karpathy, Richard Socher, Hugo Larochelle and many others @ Stanford, CA (2016)
-20. [Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
-21. [UVA Deep Learning Course](http://uvadlc.github.io) MSc in Artificial Intelligence for the University of Amsterdam.
-22. [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
-23. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
-24. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
-25. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
-26. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
+19. [Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
+20. [UVA Deep Learning Course](http://uvadlc.github.io) MSc in Artificial Intelligence for the University of Amsterdam.
+21. [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+22. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+23. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+24. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
+25. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
+26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) by Prof. Bhiksha Raj (2017)
 
 ### Videos and Lectures
 
@@ -139,8 +140,8 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 37. [Berkeley AI Research (BAIR) Laboratory](https://arxiv.org/pdf/1611.07004v1.pdf) 
 38. [MobileNets by Google](https://arxiv.org/abs/1704.04861)
 39. [Cross Audio-Visual Recognition in the Wild Using Deep Learning](https://arxiv.org/abs/1706.05739)
-
-
+40. [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+41. [Matrix Capsules With Em Routing](https://openreview.net/pdf?id=HJWLfGWRb)
 
 ### Tutorials
 
@@ -162,6 +163,13 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 15. [Classification on raw time series in TensorFlow with a LSTM RNN ★1155](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)
 16. [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 17. [TensorFlow-World ★3661](https://github.com/astorfi/TensorFlow-World)
+18. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+19. [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
+20. [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
+21. [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
+22. [Pytorch Tutorial by Yunjey Choi ★3766](https://github.com/yunjey/pytorch-tutorial)
+
+
 
 
 ## Researchers
@@ -294,6 +302,8 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 23.  [www.mpi-inf.mpg.de/departments/computer-vision...](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/)
 24.  [Deep Learning News](http://news.startup.ml/)
 25.  [Machine Learning is Fun! Adam Geitgey's Blog](https://medium.com/@ageitgey/)
+26.  [Guide to Machine Learning](http://yerevann.com/a-guide-to-deep-learning/)
+27.  [Deep Learning for Beginners](https://spandan-madan.github.io/DeepLearningProject/)
 
 ### Datasets
 
@@ -414,6 +424,23 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 134. [DeepMind QA Corpus ★945](https://github.com/deepmind/rc-data) - Textual QA corpus from CNN and DailyMail. More than 300K documents in total. [Paper](http://arxiv.org/abs/1506.03340) for reference.
 135. [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
 136. [Open Images dataset ★2558](https://github.com/openimages/dataset) - Open Images is a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
+137. [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) - VOC2012 dataset containing 12k images with 20 annotated classes for object detection and segmentation.
+138. [Fashion-MNIST ★2753](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. 
+139. [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images.  Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
+
+### Conferences
+
+1. [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com)
+2. [AAMAS - International Joint Conference on Autonomous Agents and Multiagent Systems](http://celweb.vuse.vanderbilt.edu/aamas18/)
+3. [IJCAI - 	International Joint Conference on Artificial Intelligence](https://www.ijcai-18.org/)
+4. [ICML - 	International Conference on Machine Learning](https://icml.cc)
+5. [ECML - European Conference on Machine Learning](http://www.ecmlpkdd2018.org)
+6. [KDD - Knowledge Discovery and Data Mining](http://www.kdd.org/kdd2018/)
+7. [NIPS - Neural Information Processing Systems](https://nips.cc/Conferences/2018)
+8. [O'Reilly AI Conference - 	O'Reilly Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny)
+9. [ICDM - International Conference on Data Mining](https://www.waset.org/conference/2018/07/istanbul/ICDM)
+10. [ICCV - International Conference on Computer Vision](http://iccv2017.thecvf.com)
+11. [AAAI - Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
 
 ### Frameworks
 
@@ -464,6 +491,9 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 44.  [Sonnet - a library for constructing neural networks by Google's DeepMind ★5660](https://github.com/deepmind/sonnet)
 45.  [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration ★10305](https://github.com/pytorch/pytorch)
 46.  [CNTK - Microsoft Cognitive Toolkit ★13299](https://github.com/Microsoft/CNTK)
+47.  [Serpent.AI - Game agent framework: Use any video game as a deep learning sandbox ★3137](https://github.com/SerpentAI/SerpentAI)
+48.  [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework ★6563](https://github.com/caffe2/caffe2)
+49.  [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web ★5214](https://github.com/PAIR-code/deeplearnjs)
 
 ### Miscellaneous
 

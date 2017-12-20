@@ -164,7 +164,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Console/Terminal User Interface, Command Line Interface*
 
  * [Argh! ★179](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. [BSD]
- * [Taywee/args ★257](https://github.com/taywee/args) - A simple header-only C++ argument parser library. [MIT]
+ * [Taywee/args ★282](https://github.com/taywee/args) - A simple header-only C++ argument parser library. [MIT]
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. [Boost]
  * [jarro2783/cxxopts ★594](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
  * [docopt.cpp ★533](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
@@ -514,7 +514,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost] [website](http://pocoproject.org/)
 * [Proxygen ★5240](https://github.com/facebook/proxygen) - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. [BSD]
 * [RakNet](https://github.com/OculusVR/RakNet) - A cross platform, open source, C++ networking engine for game programmers. [BSD]
-* [Seasocks ★241](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. [BSD]
+* [Seasocks ★246](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. [BSD]
 * [Silicon](http://siliconframework.org) - A high performance, middleware oriented C++14 http web framework. [MIT]
 * [Tufão ★348](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
 * [uWebSockets ★8204](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]

@@ -221,7 +221,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [ingo ★15](https://github.com/schachmat/ingo) - Flags persisted in an ini-like config file.
 * [ini ★752](https://github.com/go-ini/ini) - Go package to read and write INI files.
 * [joshbetz/config ★149](https://github.com/joshbetz/config) - Small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP.
-* [mini ★15](https://github.com/sasbury/mini) - Golang package for parsing ini-style configuration files.
+* [mini ★15 ⏳1Y](https://github.com/sasbury/mini) - Golang package for parsing ini-style configuration files.
 * [store ★214](https://github.com/tucnak/store) - Lightweight configuration manager for Go.
 * [viper ★4120](https://github.com/spf13/viper) - Go configuration with fangs.
 * [xdg ★1](https://github.com/OpenPeeDeeP/xdg) - Cross platform package that follows the [XDG Standard](https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html).
@@ -558,7 +558,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *Tools for compiling Go to other languages.*
 
 * [gopherjs ★5884](https://github.com/gopherjs/gopherjs) - Compiler from Go to JavaScript.
-* [llgo ★856 ⏳2Y](https://github.com/go-llvm/llgo) - LLVM-based compiler for Go.
+* [llgo ★856 ⏳3Y](https://github.com/go-llvm/llgo) - LLVM-based compiler for Go.
 * [tardisgo ★358 ⏳1Y](https://github.com/tardisgo/tardisgo) - Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler.
 
 ## Goroutines
@@ -1363,7 +1363,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 *Libraries for validation.*
 
 * [govalidator ★2234](https://github.com/asaskevich/govalidator) - Validators and sanitizers for strings, numerics, slices and structs.
-* [govalidator ★160](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
+* [govalidator ★171](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
 * [ozzo-validation ★496](https://github.com/go-ozzo/ozzo-validation) - Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags.
 * [validate ★27](https://github.com/markbates/validate) - This package provides a framework for writing validations for Go applications.
 * [validator ★1348](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.

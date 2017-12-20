@@ -508,7 +508,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Key Value Store
 [back to top](#readme) 
 
-* [Default ★278](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support
+* [Default ★320](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support
 * [DefaultsKit ★788](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS.
 * [Palau ★392](https://github.com/symentis/Palau) - Typesafe NSUserDefaults with custom rules.
 * [Prephirences ★447](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
@@ -732,7 +732,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Bluetonium ★125](https://github.com/e-sites/Bluetonium) - Library that makes it easy to communicate with Bluetooth devices.
 * [BluetoothKit ★1591](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
 * [RxBluetoothKit ★657](https://github.com/polidea/RxBluetoothKit) - iOS & OSX Bluetooth library for RxSwift.
-* [SwiftyBluetooth ★33](https://github.com/jordanebelanger/SwiftyBluetooth) - Simple and reliable closure based wrapper around CoreBluetooth.
+* [SwiftyBluetooth ★34](https://github.com/jordanebelanger/SwiftyBluetooth) - Simple and reliable closure based wrapper around CoreBluetooth.
 
 #### Camera
 *Awesome camera libs* [back to top](#readme) 
@@ -1377,7 +1377,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PagingMenuController ★2086](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu.
 * [SideMenu ★2072](https://github.com/jonkykong/SideMenu) - Simple side menu control for iOS inspired by Facebook. Right and Left sides. No coding required.
 * [SlideMenuControllerSwift ★2845](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.
-* [Swift-CircleMenu ★108](https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu) - Rotating circle menu.
+* [Swift-CircleMenu ★108 ⏳1Y](https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu) - Rotating circle menu.
 * [SwipeMenuViewController ★381](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 * [XLPagerTabStrip ★4638](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 * [YNDropDownMenu ★809](https://github.com/younatics/YNDropDownMenu) - Adorable iOS drop down menu.

@@ -582,7 +582,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [JS ★8 ⏳4Y](https://github.com/theturtle32/RhinoAS3) - RhinoJS, Port of Mozilla's Rhino JavaScript interpreter.
 * [Simple JS ★16 ⏳3Y](https://github.com/sixsided/Simplified-JavaScript-Interpreter) - AS3-based Javascript interpreter.
 * [MIL ★2 ⏳7Y](https://github.com/ser1zw/MIL) - A MIL language VM and interpreter written in ActionScript.
-* [TALES ★1 ⏳5Y](https://github.com/oaubert/tales4as) - TALES interpreter for ActionScript.
+* [TALES ★1 ⏳6Y](https://github.com/oaubert/tales4as) - TALES interpreter for ActionScript.
 * [Scheme ★1 ⏳6Y](https://github.com/hrundik/fScheme) - Scheme interpreter in ActionScript.
 * [Lisp ★2 ⏳4Y](https://github.com/rzubek/as_lisp) - Lisp dialect written in Actionscript, with compiler and bytecode interpreter.
 * [Lisp Compiler ★92 ⏳6Y](https://github.com/aemoncannon/las3r) - A lisp compiler for the AVM2.

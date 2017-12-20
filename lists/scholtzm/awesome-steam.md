@@ -155,7 +155,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Objective-C
 
-- [SteamAuth ★3 ⏳2Y](https://github.com/michaelchum/SteamAuth) - An iOS wrapper around Steam's OpenID login.
+- [SteamAuth ★3 ⏳3Y](https://github.com/michaelchum/SteamAuth) - An iOS wrapper around Steam's OpenID login.
 
 ## Resources
 

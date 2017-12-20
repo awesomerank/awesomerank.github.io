@@ -152,7 +152,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-trail ★125 ⏳2Y](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
 - [d3-xray ★23](https://github.com/vijithassar/d3-xray) - Bookmarklet which logs the results of the data joins as you mouse over
 - [d3.slider ★222](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
-- [d3.svg.circularbrush ★46 ⏳1Y](https://github.com/emeeks/d3.svg.circularbrush) - A brush for selecting cyclical data
+- [d3.svg.circularbrush ★46 ⏳2Y](https://github.com/emeeks/d3.svg.circularbrush) - A brush for selecting cyclical data
 - [d3.svg.ribbon ★19 ⏳2Y](https://github.com/emeeks/d3.svg.ribbon) - An area interpolator
 - [iopctrl ★34 ⏳3Y](https://github.com/metormote/iopctrl) - Lib for making simple user interface controls
 - [jetpack ★449](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work

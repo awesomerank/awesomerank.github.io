@@ -101,7 +101,7 @@ title: Awesome Rank for sindresorhus/amas
 - [CJ Patoilo ★0 ⏳2Y](https://github.com/cjpatoilo/ama) - Front-end engineer, JavaScript evangelist, [DEV IO](https://github.com/deviofoundation) Co-Founder.
 - [Armagan Amcalar ★0 ⏳2Y](https://github.com/dashersw/ama) - Head of Software Engineering at [unu GmbH](http://unumotors.com). Software architect, entrepreneur, conference speaker, mentor, electronics engineer, guitar lover, singer.
 - [Breno Polanski ★1 ⏳2Y](https://github.com/brenopolanski/ama) - Front-end software engineer at [Meteorite BI](http://www.meteorite.bi).
-- [Camilo Nova ★3 ⏳1Y](https://github.com/camilonova/ama) - Full stack software developer in Colombia.
+- [Camilo Nova ★3 ⏳2Y](https://github.com/camilonova/ama) - Full stack software developer in Colombia.
 - [Jon Moss ★1 ⏳2Y](https://github.com/maclover7/ama) - Rails developer. Average teen. Member of the Ruby on Rails Issues Team.
 - [Seth Mcleod](https://github.com/sethmcleod/ama) - Front-end engineer, JavaScript enthusiast and [Code Mentor](http://codementor.io/seth).
 - [Seth Alexander ★0 ⏳1Y](https://github.com/itzsaga/ama) - Free Code Camper, Burgeoning Dev, all things JavaScript.

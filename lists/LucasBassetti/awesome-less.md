@@ -98,7 +98,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [CSS and Media Query Strategies ★17 ⏳5Y](https://github.com/buymeasoda/less-media-queries) - Using Less CSS to develop a media query driven solution for modern and legacy browsers.
 - [Media Queries Library ★7 ⏳1Y](https://github.com/mrmlnc/less-mq) - Really simple media queries in Less.
-- [Media Query to Type ★10 ⏳3Y](https://github.com/himedlooff/media-query-to-type) - A method for creating an IE specific stylesheet that allows the content of media queries to become accessible to Internet Explorer 8 and below.
+- [Media Query to Type ★10 ⏳4Y](https://github.com/himedlooff/media-query-to-type) - A method for creating an IE specific stylesheet that allows the content of media queries to become accessible to Internet Explorer 8 and below.
 
 **[Back to top](#contents)**
 
@@ -141,7 +141,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Preboot ★1744 ⏳1Y](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS.
 - [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
 - [Shape ★34 ⏳4Y](https://github.com/fahad19/shape.less) - Collection of mixins for various shapes.
-- [TRRtoolbelt ★2 ⏳3Y](https://github.com/therebelrobot/tRRtoolbelt.less) - Mixins and functions for common actions.
+- [TRRtoolbelt ★2 ⏳4Y](https://github.com/therebelrobot/tRRtoolbelt.less) - Mixins and functions for common actions.
 
 **[Back to top](#contents)**
 

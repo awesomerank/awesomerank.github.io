@@ -83,7 +83,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [Server Authentication with JWT ★14](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
 * [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 * [Cookie handler with server render ★0](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
-* [Gank ★20](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
+* [Gank ★36](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 * [Decoupled CMS example with GraphQL and Next.js ★5](https://github.com/janit/decoupled-cms-nextjs-graphql)
 * [DS ★2](https://github.com/divyenduz/ds) - Personal site manager.
 

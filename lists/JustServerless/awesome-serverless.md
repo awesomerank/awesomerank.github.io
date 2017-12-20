@@ -928,6 +928,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [New Microsoft, Oracle projects bridge Kubernetes with serverless environments](https://thenewstack.io/microsoft-oracle-extend-kubernetes-new-serverless-projects/) - Post about the project Microsoft and Oracle were working on to integrate serverless computing with K8S.
 - [Capital One serverless architecture](https://thenewstack.io/capital-one-serverless-architecture-p2p-payments/) - Post about the Capital One serverless architecture for Peer-to-Peer payments.
 - [Comprehensive guide to serverless architecture](https://www.simform.com/serverless-architecture-guide/) - In-depth guide about serverless technologies and architectures.
+- [From bare metal to serverless](https://loige.co/from-bare-metal-to-serverless/) - Post about the evolution from the early days of the internet up until the serverless computing era.
+- [Building a static serverless website with Netlify](https://serverless.com/blog/how-built-static-serverless-website-netlify/) - How to build a serverless website using Netlify.
 
 ## Screencasts
 
@@ -1121,6 +1123,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Does serverless have a place in DevOps?](https://thenewstack.io/serverless-abstract-architectures-place-devops/) - Podcast about serverless computing in a DevOps context.
 - [re:Invent 2017 Serverless Recap](https://speakerdeck.com/danilop/re-invent-2017-serverless-recap) - Slides for the presentation about the serverless related announcements at re:Invent 2017.
 - [Amazon Web Services and Kubernetes: Now what?](https://thenewstack.io/aws-kubernetes-now/) - Podcast about the re:Invent 2017 announcements with regards to serverless computing.
+- [Building a serverless company with the Serverless Framework](https://www.slideshare.net/loige/building-a-serverless-company-on-aws-lambda-and-serverless-framework) - Slides for the presentation from Planet9 about building a company with serverless technologies.
 
 ## Amazon AWS resources
 
@@ -1146,7 +1149,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless mapbox classic](https://github.com/LukeSwart/serverless-mapbox-classic) - API gateway that munges geojson coming from a mapbox classic editor.
 - [Universal Serverless React](https://github.com/jstrutz/universal-serverless-react) - React with Serverless.
 - [Serverless example ★0 ⏳1Y](https://github.com/iblue/serverless-example) - Experimental example project.
-- [DynamoDB CRUD example ★15 ⏳1Y](https://github.com/jagthedrummer/serverlessDynamoCrudExample) - How to use DynamoDB with Serverless.
+- [DynamoDB CRUD example ★15 ⏳2Y](https://github.com/jagthedrummer/serverlessDynamoCrudExample) - How to use DynamoDB with Serverless.
 - [GraphQL Blog ★702](https://github.com/serverless/serverless-graphql-blog) - A Blog powered by GraphQL and Serverless.
 - [Password of the day ★7 ⏳1Y](https://github.com/ZeroSharp/ServerlessPotd) - Password of the day service. Utilizing TypeScript.
 - [func4 ★0 ⏳1Y](https://github.com/ac360/func4) - Show and create users.
@@ -1684,8 +1687,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Bootstrap ★3](https://github.com/dougmoscrop/serverless-plugin-bootstrap) - Checks that the environment around your Serverless service has been set up and is up-to-date.
 - [API docs ★6](https://github.com/8select/serverless-plugin-api-docs) - Automatically create a Lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file.
 - [SSM fetch ★6](https://github.com/gozup/serverless-ssm-fetch) - Sets SSM parameters into function environment variables.
-- [Secrets ★28](https://github.com/serverless/serverless-secrets-plugin) - Plugin to manage Secrets.
-- [State manager ★6](https://github.com/jeremydaly/serverless-stage-manager) - Super simple plugin for validating stage names before deployment.
+- [Secrets ★30](https://github.com/serverless/serverless-secrets-plugin) - Plugin to manage Secrets.
+- [State manager ★5](https://github.com/jeremydaly/serverless-stage-manager) - Super simple plugin for validating stage names before deployment.
 - [StackStorm ★3](https://github.com/StackStorm/serverless-plugin-stackstorm) - Run StackStorm actions serverless and stackstormless.
 - [SPA ★8](https://github.com/gilmarsquinelato/serverless-spa) - Deploy your static website with webpack to AWS using the Serverless Framework.
 - [AWS resource names ★1](https://github.com/concon121/serverless-plugin-aws-resource-names) - Enable custom AWS resource names.

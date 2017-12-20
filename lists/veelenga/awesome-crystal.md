@@ -104,7 +104,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape ★2988](https://github.com/svaarala/duktape) javascript engine
  * [gphoto2.cr ★8](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
  * [icu.cr ★2](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
- * [java.cr ★9](https://github.com/ysbaddaden/java.cr) - Java Native Interface (JNI) bindings (and generator)
+ * [java.cr ★9 ⏳1Y](https://github.com/ysbaddaden/java.cr) - Java Native Interface (JNI) bindings (and generator)
  * [libnotify.cr ★11 ⏳1Y](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
  * [pcap.cr ★13](https://github.com/maiha/pcap.cr) - Bindings for libpcap
  * [posix ★18](https://github.com/ysbaddaden/posix) - POSIX/C bindings
@@ -403,7 +403,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Template Engine
  * [crikey](https://github.com/domgetter/crikey) - Templating engine inspired by [Hiccup ★1655](https://github.com/weavejester/hiccup)
  * [crinja ★13](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
- * [crustache ★35](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+ * [crustache ★35 ⏳1Y](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
  * [Kilt ★68](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
  * [Slang ★97](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
  * [teeplate ★5](https://github.com/mosop/teeplate) - A library for rendering multiple template files
@@ -430,7 +430,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-swapi ★1](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
  * [crystal_slack ★11](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [dotacr ★7](https://github.com/azah/dotacr) - Wrapper for Valve's DotA API
- * [GDAX ★0](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing
+ * [GDAX ★2](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing
  * [gitlab.cr ★9](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper
  * [google_maps_api ★8 ⏳1Y](https://github.com/fridgerator/google_maps_api) - Google Maps API
  * [hncr ★1 ⏳1Y](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper

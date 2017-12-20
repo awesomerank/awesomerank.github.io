@@ -159,7 +159,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [wallpaper ★440](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [brightness ★104](https://github.com/kevva/brightness-cli) - Change the screen brightness.
 - [torrent ★489 ⏳1Y](https://github.com/maxogden/torrent) - Download torrents.
-- [tfa ★25](https://github.com/jasnell/tfa) - Two-factor authentication client.
+- [tfa ★25 ⏳1Y](https://github.com/jasnell/tfa) - Two-factor authentication client.
 - [rtail ★1391 ⏳1Y](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes.
 - [kill-tabs ★215](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 - [alex ★2085](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.

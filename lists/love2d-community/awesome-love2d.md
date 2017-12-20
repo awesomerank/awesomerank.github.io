@@ -71,7 +71,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Viewport & Camera Libraries*
 
 * [Brady ★29](https://github.com/davisdude/Brady) - Camera library with parallax scrolling
-* [Editgrid ★23 ⏳1Y](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid
+* [Editgrid ★23 ⏳2Y](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid
 * [gamera ★111](https://github.com/kikito/gamera) - Camera system
 * [hump.camera](http://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation
 * [STALKER-X ★17](https://github.com/SSYGEN/STALKER-X) - STALKER-X is a camera module for LÖVE

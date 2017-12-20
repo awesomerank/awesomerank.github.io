@@ -32,27 +32,38 @@ When you struggle to understand a notion, I suggest you look for answers on the 
 
 ## Table of Contents
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 - [CSS Working Group](#css-working-group)
-- [Editor's Draft](#editors-draft-black_nib)
-- [Parser](#parser-mag)
-- [Preprocessors](#preprocessors-pill)
-- [Frameworks](#frameworks-art)
-- [Toolkits](#toolkits-wrench)
+  - [Editor's Draft :black_nib:](#editors-draft-black_nib)
+- [Parser :mag:](#parser-mag)
+- [Preprocessors :pill:](#preprocessors-pill)
+- [Frameworks :art:](#frameworks-art)
+- [Toolkits :wrench:](#toolkits-wrench)
 - [CSS Structure](#css-structure)
-- [Reset & Normalize](#reset-and-normalize)
+- [Reset and Normalize](#reset-and-normalize)
 - [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
-- [Code Style Guidelines](#code-style-guidelines-book)
+- [Code Style Guidelines :book:](#code-style-guidelines-book)
 - [Style Guide](#style-guide)
-- [Style Guide Generators](#style-guide-generators-slot_machine)
-- [Naming conventions & Methodologies](#naming-conventions--methodologies-bulb)
+- [Style Guide Generators :slot_machine:](#style-guide-generators-slot_machine)
+- [Naming conventions & Methodologies :bulb:](#naming-conventions--methodologies-bulb)
 - [CSS in JS](#css-in-js)
 - [CSS Polyfills](#css-polyfills)
 - [Miscellaneous](#miscellaneous)
-- [Podcasts](#podcasts-radio)
-- [Twitter](#twitter-satellite)
-- [Videos](#videos-tv)
-- [Books](#books-books)
-- [Tutorials](#tutorials-clapper)
+- [Podcasts :radio:](#podcasts-radio)
+- [Twitter :satellite:](#twitter-satellite)
+- [Videos :tv:](#videos-tv)
+  - [2016](#2016)
+  - [2015](#2015)
+- [Books :books:](#books-books)
+- [Tutorials :clapper:](#tutorials-clapper)
+- [Maintainers](#maintainers)
+- [Contribute](#contribute)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## CSS Working Group
 
@@ -176,7 +187,7 @@ _[You can find more frameworks at "awesome-css-frameworks" ★40](https://github
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet.
 * [Dropbox (S)CSS Style Guide ★580 ⏳1Y](https://github.com/dropbox/css-style-guide) by Dropbox.
 * [Fabric](https://dev.office.com/fabric#/) by Microsoft.
-* [GitHub CSS Style Guide](http://primercss.io) by Github.
+* [GitHub CSS Style Guide](https://primer.github.io/) by Github.
 * [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace.
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed.
 * [Patterns](http://ux.mailchimp.com/patterns) by MailChimp.
@@ -377,13 +388,7 @@ Feel free to dive in! Open an issue or submit PRs.
 
 Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Conduct.
 
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Awesome CSS  maintainers ★1319](https://github.com/sotayamashita/awesome-css) has waived all copyright and related or neighboring rights to this work.
-
-# }
+**}**
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/sotayamashita/awesome-css">sotayamashita/awesome-css</a> with ranks
