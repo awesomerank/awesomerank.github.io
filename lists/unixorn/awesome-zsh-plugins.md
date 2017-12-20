@@ -404,7 +404,7 @@ These frameworks make customizing your zsh setup easier.
 * [opp.zsh ★222 ⏳2Y](https://github.com/hchbaw/opp.zsh) - Vim's text-objects-ish for zsh.
 * [opt-path ★3 ⏳2Y](https://github.com/jreese/zsh-opt-path) - Automatically add `~/opt` subpaths to your `$PATH`.
 * [osx-dev-zsh-plugin ★7 ⏳2Y](https://github.com/marshallmick007/osx-dev-zsh-plugin) - This plugin adds some commands for maintaining various server programs on my macOS install.
-* [osx ★9 ⏳1Y](https://github.com/mwilliammyers/plugin-osx) - Add some common macOS related aliases and functions.
+* [osx ★9 ⏳2Y](https://github.com/mwilliammyers/plugin-osx) - Add some common macOS related aliases and functions.
 * [paci ★0](https://github.com/iloginow/zsh-paci) - Plugin for archlinux package managers
 * [pantheon-terminal-notify-zsh-plugin ★9 ⏳2Y](https://github.com/deyvisonrocha/pantheon-terminal-notify-zsh-plugin) - Background notifications for long running commands. Supports Elementary OS Freya.
 * [pctl ★5](https://github.com/ytet5uy4/pctl) - Toggle the environment variables for proxying.

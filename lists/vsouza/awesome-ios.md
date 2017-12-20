@@ -2309,7 +2309,7 @@ Most of these are paid services, some have free tiers.
 * [SwipeCellKit ★2633](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift. :large_orange_diamond:
 * [EditDistance ★49](https://github.com/kazuhiro4949/EditDistance) - Incremental update tool for UITableView and UICollectionView :large_orange_diamond:
 * [CenteredCollectionView ★169](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that _'pages'_ and centers it's cells 🎡 written in Swift. :large_orange_diamond:
-* [YBSlantedCollectionViewLayout ★137](https://github.com/yacir/YBSlantedCollectionViewLayout) - UICollectionViewLayout with slanted content.
+* [YBSlantedCollectionViewLayout ★137](https://github.com/yacir/YBSlantedCollectionViewLayout) - UICollectionViewLayout with slanted content :large_orange_diamond:
 * [ReverseExtension ★1172](https://github.com/marty-suzuki/ReverseExtension) - A UITableView extension that enables cell insertion from the bottom of a table view.
 * [YNExpandableCell ★340](https://github.com/younatics/YNExpandableCell) - Awesome expandable, collapsible tableview cell for iOS written in Swift 3 🔶
 * [SquareMosaicLayout ★73](https://github.com/iwheelbuy/SquareMosaicLayout) - An extandable mosaic UICollectionViewLayout with a focus on extremely flexible customizations 🔶
