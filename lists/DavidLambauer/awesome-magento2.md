@@ -47,7 +47,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [Magento 2 Bitnami VM](https://bitnami.com/stack/magento/virtual-machine) - Focused to development process, works so fine.
 - [Mage Chrome Toolbar ★139](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for Magento 2 by [MageSpecialist](https://github.com/magespecialist).
 - [convertm1m2 ★112](https://github.com/unirgy/convertm1m2) - A simple script to convert extensions from Magento1 to Magento 2.
-- [Magento 2 data migration tool ★144](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool
+- [Magento 2 data migration tool ★148](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool
 ---
 
 ## Open Source Extensions
@@ -125,16 +125,16 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [Checkout Tester ★20](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 - [Firebear Import/Export](https://github.com/firebearstudio/importexport) - Import/Export Improvements for Standard Magento Importer.
 - [FireGento Fast Simple Import ★72](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays
-- [Magento 2 Import Framework ★30](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality
+- [Magento 2 Import Framework ★34](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality
 - [Image Resizer ★37](https://github.com/staempfli/magento2-module-image-resizer) - Magento 2 Module to add simple image resizing capabilities in all blocks and .phtml templates by [Staempfli](https://commercehero.io/staempfli).
 - [Excel Spreadsheet ★5 ⏳1Y](https://github.com/staempfli/magento2-module-spreadsheet) - Magento 2 Module for parsing xlsx, xlsm and csv files from Excel by [Staempfli](https://commercehero.io/staempfli).
 - [PDF Generator ★20](https://github.com/EaDesgin/magento2-pdf-generator2) - Invoice PDF Generator For Magento 2 by [EaDesign](https://commercehero.io/eadesign).
 - [Mobile Detection ★10](https://github.com/EaDesgin/magento2-mobiledetect) - Mobile detect change theme and redirect based on device type by [EaDesign](https://commercehero.io/eadesign).
 - [Menu Editor ★59](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2.
 - [PageNotFound ★14](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404 in your Database with the possibility to created a redirect.
-- [EmailCatcher / Logger ★11](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) - Saves all emails send by Magento in your database. Adds a grid where they can be viewed.
+- [EmailCatcher / Logger ★14](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) - Saves all emails send by Magento in your database. Adds a grid where they can be viewed.
 - [Reset Customer Password ★18](https://github.com/Vinai/module-customer-password-command) - Set a customer password with bin/magento by [Vinai Kopp](https://github.com/Vinai/).
-- [Admin Auto Login ★7 ⏳1Y](https://github.com/rogyar/magento2-autologin) - Automatically login to Magento 2 admin, veru useful for demo
+- [Admin Auto Login ★8 ⏳1Y](https://github.com/rogyar/magento2-autologin) - Automatically login to Magento 2 admin, veru useful for demo
 
 ### Security 
 

@@ -52,7 +52,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 - [iOS Boilerplate ★2899 ⏳5Y](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
 - [Amaro ★385](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
-- [Boilerplate-iOS ★8 ⏳4Y](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
+- [Boilerplate-iOS ★8 ⏳5Y](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
 
 ## JavaScript
 

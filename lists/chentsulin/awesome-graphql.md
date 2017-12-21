@@ -383,7 +383,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Tools
 
 * [graphiql ★4515](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
-* [GraphQL Playground ★1145](https://github.com/graphcool/graphql-playground) - GraphQL IDE that supports multi-column schema docs, tabs, query history, configuration of HTTP headers and GraphQL Subscriptions.
+* [GraphQL Playground ★1268](https://github.com/graphcool/graphql-playground) - GraphQL IDE that supports multi-column schema docs, tabs, query history, configuration of HTTP headers and GraphQL Subscriptions.
 * [GraphiQL.app ★1070](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
 * [GraphQLviz ★72](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 * [graphqlviz ★270](https://github.com/sheerun/graphqlviz) - GraphQL API visualizer in Node.js

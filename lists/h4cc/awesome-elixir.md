@@ -1265,7 +1265,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mix_test_watch ★364](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
 * [mixunit ★2 ⏳2Y](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
 * [mock ★274](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
-* [mockery ★20](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
+* [mockery ★21](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 * [pavlov ★127 ⏳1Y](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
 * [plug_test_helpers ★9 ⏳3Y](https://github.com/xavier/plug_test_helpers) - A simple testing DSL for Plugs.
 * [ponos ★100 ⏳2Y](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.

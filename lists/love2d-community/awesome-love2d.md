@@ -262,6 +262,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [log.lua ★100](https://github.com/rxi/log.lua) - Library for configurable log output
 * [love-loader ★80](https://github.com/kikito/love-loader) - Threaded resource loading
 * [love2d-assets-loader ★24 ⏳2Y](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
+* [Lily ★4](https://github.com/MikuAuahDark/lily) - Async Asset Loader
 * [Luvent ★40 ⏳2Y](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [splashy ★11](https://github.com/videah/splashy) - Splash Screen Library
 * [Talkback ★11](https://github.com/tesselode/talkback) - Observer pattern library with two-way communication

@@ -55,7 +55,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 
 ## Date of Birth:
 
-Kubernetes celebrates its birthday every year on 21st July.The project was born in the year 2015.
+Kubernetes celebrates its birthday every year on 21st July. Kubernetes 1.0 was released on July 21 2015, after being first announced to the public at [Dockercon in June 2014](https://www.youtube.com/watch?v=YrxnVKZeqK8).
 
 ## Roadmap
 
@@ -308,7 +308,7 @@ Managed Kubernetes
   ### [Public/Private Cloud](#publicprivate-cloud)
 
    - [GCE](https://cloud.google.com/compute/) - Google Compute Engine [default]
-   - [GKE](https://cloud.google.com/container-engine/) - Google Container Engine
+   - [GKE](https://cloud.google.com/container-engine/) - Google Kubernetes Engine
    - [AWS](http://aws.amazon.com/ec2) - Amazon EC2
    - [Azure](https://azure.microsoft.com/en-in/) - Microsoft Azure
    - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
@@ -452,7 +452,7 @@ Projects
 *Test your applications running on Kubernetes*
 
 * [kube-monkey ★459](https://github.com/asobti/kube-monkey)
-* [k8s-testsuite ★13](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster
+* [k8s-testsuite ★25](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster
 * [Test-Infra ★190](https://github.com/kubernetes/test-infra)
 * [PowerfulSeal ★51](https://github.com/bloomberg/powerfulseal) - kills targeted pods and machines to test your software reliability
 
@@ -560,6 +560,7 @@ Projects
 * [Infoblox ★4](https://github.com/infobloxopen/cni-infoblox)
 * [External DNS ★553](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
 * [cni-ipvlan-vpc-k8s ★94](https://github.com/lyft/cni-ipvlan-vpc-k8s)
+* [kubernetes-network-policy-recipes ★142](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 
 ## Service mesh
 

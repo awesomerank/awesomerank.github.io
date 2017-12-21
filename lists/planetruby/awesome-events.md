@@ -28,7 +28,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 
 
 
-## What's Upcoming? What's On?
+## What's On? What's Up?
 
 Note: Use the "live" [whatson command line tool ★12 ⏳2Y](https://github.com/textkit/whatson).
 Type:
@@ -74,7 +74,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 > Note: See the [MEETUPS](https://github.com/planetruby/awesome-events/blob/master/MEETUPS.md) page for meetups and organizations.
 
 
-[World](#world) • [Online](#online) • [Europe](#europe) • [North America](#north-america) •
+[Europe](#europe) • [North America](#north-america) •
 [South America](#south-america) • [Asia](#asia) • [Africa](#africa) • [Pacific / Oceania](#pacific--oceania)
 
 
