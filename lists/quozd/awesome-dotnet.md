@@ -256,7 +256,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [App.Metrics ★494](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the [docs](https://www.app-metrics.io/) for me details.
 * [CodeMaid](http://www.codemaid.net/) - Visual studio extension to cleanup, dig through and simplify C#, C++, F#, VB, PHP, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
 * [StyleCop](https://github.com/StyleCop) - StyleCop analyzes C# source code to enforce a set of style and consistency rules
-* [Gendarme ★65 ⏳6Y](https://github.com/spouliot/gendarme) - Extensible rule-based tool to find problems in .NET applications and libraries
+* [Gendarme ★65 ⏳7Y](https://github.com/spouliot/gendarme) - Extensible rule-based tool to find problems in .NET applications and libraries
 * [Metrics-Net ★377](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
 * [AspNet.Metrics ★10](https://github.com/alhardy/aspnet-metrics) - Capturing CLR, application-level web request metrics. Middleware and extensions using Metrics-Net
 * [BenchmarkDotNet ★2444](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
@@ -555,6 +555,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## IoC
 
 * [Castle Windsor ★761](https://github.com/castleproject/Windsor) - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
+* [Unity ★751](https://github.com/unitycontainer/unity) - Lightweight extensible dependency injection container with support for constructor, property, and method call injection
 * [Autofac ★1780](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 * [DryIoc](https://bitbucket.org/dadhi/dryioc) - Simple, fast all fully featured IoC container.
 * [Ninject ★1842](https://github.com/ninject/ninject) - The ninja of .NET dependency injectors

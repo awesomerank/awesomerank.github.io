@@ -248,7 +248,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [GBDK Joypad](http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial) - Details the use of the joypad with GBDK.
 - [Game Boy home of Flavor](http://www.personal.triticom.com/~erm/GameBoy/) - Some full games and sources.
 - [GBDK Configuring and Programming Tutorial](https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/) - Configuring GBDK, Using Tiles, Colliding Sprites, GBTD, GBMB, Memory Management and ROM Banking.
-- [Simplified GBDK examples ★6](https://github.com/mrombout/gbdk_playground)
+- [Simplified GBDK examples ★6 ⏳1Y](https://github.com/mrombout/gbdk_playground)
 
 
 #### Old articles

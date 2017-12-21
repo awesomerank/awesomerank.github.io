@@ -149,7 +149,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-tip ★974](https://github.com/Caged/d3-tip) - Tooltip helper
 - [d3-tipy ★87 ⏳1Y](https://github.com/tj/d3-tipy) - Tooltip helper
 - [d3-tooltip ★0](https://github.com/bumbeishvili/d3-tooltip) - Arrow shaped tooltip with shadows, dynamic content and customization options
-- [d3-trail ★125 ⏳2Y](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
+- [d3-trail ★125 ⏳3Y](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
 - [d3-xray ★23](https://github.com/vijithassar/d3-xray) - Bookmarklet which logs the results of the data joins as you mouse over
 - [d3.slider ★222](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
 - [d3.svg.circularbrush ★46 ⏳2Y](https://github.com/emeeks/d3.svg.circularbrush) - A brush for selecting cyclical data

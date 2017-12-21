@@ -504,7 +504,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [ndarray ★693](https://github.com/scijs/ndarray) - Multidimensional arrays.
 - [mathjs ★5200](https://github.com/josdejong/mathjs) - An extensive math library.
 - [math-sum ★4 ⏳1Y](https://github.com/sindresorhus/math-sum) - Sum numbers.
-- [math-clamp ★4 ⏳1Y](https://github.com/sindresorhus/math-clamp) - Clamp a number.
+- [math-clamp ★4 ⏳2Y](https://github.com/sindresorhus/math-clamp) - Clamp a number.
 - [algebra ★48](https://github.com/fibo/algebra) - Algebraic structures.
 
 
@@ -521,7 +521,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 ### URL
 
 - [normalize-url ★185](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
-- [humanize-url ★52 ⏳1Y](https://github.com/sindresorhus/humanize-url) - Humanize a URL: http://sindresorhus.com → sindresorhus.com.
+- [humanize-url ★52 ⏳2Y](https://github.com/sindresorhus/humanize-url) - Humanize a URL: http://sindresorhus.com → sindresorhus.com.
 - [url-unshort ★27](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
 - [speakingurl ★874](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
 - [linkify-it ★183](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.

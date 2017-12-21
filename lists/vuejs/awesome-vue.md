@@ -530,7 +530,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [core-server ★0](https://github.com/skyhark-projects/core-server) - Highly scallable VueJs framework with an integrated API system, and multiple advanced features.
 - [discord-logo ★4](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
 - [node-vue-template ★0](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
-- [vue-storefront ★422](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported. 
+- [vue-storefront ★422](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
+-[fd-vue ★5](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
 
 ### Commercial Products
 
@@ -721,6 +722,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-js-grid ★196](https://github.com/euvl/vue-js-grid) - Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
  - [vue-handsontable-official ★119](https://github.com/handsontable/vue-handsontable-official) A Vue.js wrapper for the the Handsontable spreadsheet component
  - [vue-grid ★0](https://github.com/liqueflies/vue-grid) - A powerful flexbox grid system for Vue.js 2.x, built with inline-styles
+ - [vue-data-tablee ★4](https://github.com/VitorLuizC/vue-data-tablee) - Based on vue-good-table, a simple and pretty table component
 
 ### Notification
 
@@ -820,6 +822,8 @@ Tooltips / popovers
  - [vue-quick-menu ★39](https://github.com/AshleyLv/vue-quick-menu) - This is web navigation component base on vue.js2.
  - [@hscmap/vue-menu ★48](https://github.com/michitaro/vue-menu) - Menu / Context Menu component for vue2.
  - [vue-router-nav ★0](https://github.com/classicalconditioning/vue-router-nav) - Minimalistic responsive navigation bar that renders routes of vue-router.
+ - [vue-drawer-layout ★19](https://github.com/hjl19911127/vue-drawer-layout) - A simple DrawerLayout component like Android has for Vue.js.
+ - [vue-simple-menu ★4](https://github.com/RGRU/vue-simple-menu) - Simple menu component with a set of basic functionality, which is enought in 80% of cases
 
 ### Carousel
 
@@ -1850,6 +1854,7 @@ Payment utilities.
  - [Vuetober ★145](https://github.com/scottbedard/oc-vuetober-theme) - Single page apps with Laravel, Vue.js, and October CMS.
  - [Toucan ★68](https://github.com/mrellipse/toucan) - Boilerplate for building single page apps. Server is multi-project .Net Core solution designed around SOLID principles. Client is TypeScript 2, Vuejs 2, Vuex 2.
  - [vue-server-demo ★2](https://github.com/fritx/vue-server-demo) - Writing koa server in Vue.
+ - [vue-apollo-connector-kit ★9](https://github.com/ecerroni/apollo-connector-kit) - JWT authentication with 2 different strategies (localStorage and httpOnly cookies). Authorization using custom directives (apollo).
 
 ### Electron
 

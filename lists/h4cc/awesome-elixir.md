@@ -632,7 +632,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Formulars
 *Handling web formulars and similar stuff.*
 
-* [forms ★18](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
+* [forms ★18 ⏳1Y](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
 
 ## Framework Components
 *Standalone component from web development frameworks.*

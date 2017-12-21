@@ -199,7 +199,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### Database Drivers
 * [cassandra-csharp-driver ★262](https://github.com/datastax/csharp-driver) - DataStax C# Driver for Apache Cassandra.
 * [confluent-kafka-dotnet ★335](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka .NET client.
-* [LiteDB ★1900](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file - [http://www.litedb.org](http://www.litedb.org). `work-around for .NET Core at` [#219](https://github.com/mbdavid/LiteDB/issues/219)
+* [LiteDB ★1900](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file - [http://www.litedb.org](http://www.litedb.org).
 * [MongoDB.Driver ★1734](https://github.com/mongodb/mongo-csharp-driver) - .NET Driver for MongoDB.
 * [mysql-connector-net](https://github.com/mysql/mysql-connector-net/tree/7.0) - Connector/Net is a fully-managed ADO.NET driver for MySQL. [https://dev.mysql.com/downloads/connector/net](https://dev.mysql.com/downloads/connector/net/)
 * [Neo4jClient](https://github.com/Readify/Neo4jClient/tree/DotNetCore) - .NET client binding for Neo4j.
@@ -211,6 +211,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### Date and Time
 * [Exceptionless.DateTimeExtensions ★34](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
 * [FluentDateTime ★115](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
+* [nodatime ★769](https://github.com/nodatime/nodatime) - Better date and time API for .NET [http://nodatime.org](http://nodatime.org).
 
 ### Distributed Computing
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
@@ -253,7 +254,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Internationalization
 * [Localization ★109](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
-* [nodatime ★769](https://github.com/nodatime/nodatime) - Better date and time API for .NET [http://nodatime.org](http://nodatime.org).
 
 ### IOC
 * [Autofac ★1780](https://github.com/autofac/Autofac) - Addictive .NET IoC container.

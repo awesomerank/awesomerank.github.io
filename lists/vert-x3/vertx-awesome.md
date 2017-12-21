@@ -91,6 +91,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
   * [JDBC ★35](https://github.com/vert-x3/vertx-jdbc-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous interface around a JDBC datasource.
   * [MySQL ★33](https://github.com/vert-x3/vertx-mysql-postgresql-client) - Asynchronous client for MySQL.
   * [PostgreSQL ★33](https://github.com/vert-x3/vertx-mysql-postgresql-client) - Asynchronous client for PostgreSQL.
+  * [PostgreSQL ★7](https://github.com/vietj/reactive-pg-client) - Reactive PostgreSQL Client.
   * [database ★17](https://github.com/susom/database) - Client for Oracle, PostgreSQL, SQL Server, HyperSQL, etc. designed for security, correctness, and ease of use.
   * [jOOQ ★51](https://github.com/jklingsporn/vertx-jooq) - Doing typesafe, asynchronous SQL and generate code using jOOQ.
 
