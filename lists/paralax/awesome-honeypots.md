@@ -263,7 +263,7 @@ Discover more awesome lists at [sindresorhus/awesome ★73813](https://github.co
 
 - SSH Honeypots
     - [Kojoney](http://kojoney.sourceforge.net/)
-    - [Kojoney2 ★30 ⏳2Y](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
+    - [Kojoney2 ★30 ⏳3Y](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
     - [Kippo ★994 ⏳1Y](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
        - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
     - [Cowrie ★1352](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)

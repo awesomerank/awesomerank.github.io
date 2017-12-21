@@ -46,7 +46,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [bump-3dpd ★12](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
 * [DEEP ★3](https://github.com/Nikaoto/DEEP) - Handles draw order by allowing you to specify Z axis when drawing.  
 * [IQE ★10 ⏳2Y](https://github.com/excessive/iqe) - Inter-Quake Export loader (text)
-* [IQM ★18 ⏳1Y](https://github.com/excessive/iqm) - Inter-Quake Model loader (binary)
+* [IQM ★18 ⏳2Y](https://github.com/excessive/iqm) - Inter-Quake Model loader (binary)
 * [LÖVE3D ★139](https://github.com/excessive/love3d) - 3D extensions to LÖVE
 * [Lovox ★25 ⏳1Y](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
 

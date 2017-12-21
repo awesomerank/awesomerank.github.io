@@ -257,7 +257,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * [Beetest ★60](https://github.com/kawaa/Beetest) - A super simple utility for testing Apache Hive scripts locally for non-Java developers.
      * [Hive_test ★64](https://github.com/edwardcapriolo/hive_test)- Unit test framework for hive and hive-service
 * Flume Plugins
- * [Flume MongoDB Sink ★51](https://github.com/leonlee/flume-ng-mongodb-sink)
+ * [Flume MongoDB Sink ★51 ⏳1Y](https://github.com/leonlee/flume-ng-mongodb-sink)
  * [Flume HornetQ Channel ★0 ⏳5Y](https://github.com/btoddb/flume-ng-hornetq-channel)
  * [Flume MessagePack Source ★0 ⏳4Y](https://github.com/leonlee/flume-ng-msgpack-source)
  * [Flume RabbitMQ source and sink ★53](https://github.com/jcustenborder/flume-ng-rabbitmq)

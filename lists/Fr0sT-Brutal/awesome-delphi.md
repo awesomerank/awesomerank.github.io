@@ -230,7 +230,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [SDriver ★29](https://github.com/andrea-magni/SDriver). Delphi wrapper for [Slack](https://slack.com) API.
 
-* [Hprose for Delphi/Lazarus ★55](https://github.com/hprose/hprose-delphi). Hprose is a High Performance Remote Object Service Engine. It is a modern, lightweight, cross-language, cross-platform, object-oriented, high performance, remote dynamic communication middleware. It is not only easy to use, but powerful. This project is the implementation of Hprose for Delphi/Lazarus.
+* [Hprose for Delphi/Lazarus ★55 ⏳1Y](https://github.com/hprose/hprose-delphi). Hprose is a High Performance Remote Object Service Engine. It is a modern, lightweight, cross-language, cross-platform, object-oriented, high performance, remote dynamic communication middleware. It is not only easy to use, but powerful. This project is the implementation of Hprose for Delphi/Lazarus.
 
 * [TelegAPI ★35](https://github.com/ms301/TelegAPI). Library for working with Telegram messenger Bot API in Delphi.
 
@@ -498,7 +498,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 ## Language
 *Tools for Pascal and other languages*
 
-* [Next Delphi Yacc & Lex ★28 ⏳3Y](https://github.com/RomanYankovsky/ndyacclex). Parser generator toolset for Delphi.
+* [Next Delphi Yacc & Lex ★28 ⏳4Y](https://github.com/RomanYankovsky/ndyacclex). Parser generator toolset for Delphi.
 
 * [Abstract Syntax Tree Builder ★107](https://github.com/RomanYankovsky/DelphiAST). With DelphiAST you can take real Delphi code and get an abstract syntax tree. One unit at time and without a symbol table though.
 

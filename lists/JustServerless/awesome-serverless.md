@@ -932,6 +932,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Building a static serverless website with Netlify](https://serverless.com/blog/how-built-static-serverless-website-netlify/) - How to build a serverless website using Netlify.
 - [6 things to know about serverless tech](https://www.themartec.com/insidelook/serverless-tech) - Post about six vital things to know about serverless tech.
 - [Reducing latency using Binaris](https://thenewstack.io/binaris-wants-reduce-latency-serverless-productions/) - How Binaris wants to reduce latency in serverless deployments.
+- [Challenges of blue / green deployments with CloudFormation](https://read.acloud.guru/some-quick-thoughts-on-blue-green-deployment-for-lambda-with-cloudformation-ac66797984f) - How one can do blue / green deployments via CloudFormation.
+- [Azure functions updates](https://mikhail.io/2017/12/azure-functions-get-more-scalable-and-elastic/) - News about the recent Azure Functions updates regarding scalability and elasticity.
 
 ## Screencasts
 
@@ -1722,6 +1724,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [AWS Lambda, Kinesis & Serverless Framework](https://www.udemy.com/code-along-aws-lambda-kinesis-serverless-framework/) - Udemy Course on the Serverless Framework.
 - [The Serverless Framework: Quick Start](http://codemore.teachable.com/p/serverless-framework-qs-node) - Video course which provides a quick start for the Serverless Framework.
 - [Intro to the Serverless Framework](http://codemore.teachable.com/p/serverless-framework-node) - Introduction course for the Serverless Framework.
+- [ServerlessLab](https://serverlesslab.com) - Effective serverless, AWS Lambda and Node.js training.
 
 ## Professional services
 

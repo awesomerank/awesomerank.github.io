@@ -252,7 +252,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 
 #### Old articles
-[This](https://github.com/avivace/awesome-gbdev/tree/master/articles/salvage) folder is an historical archive of old articles, FAQs and in general text documents about Game Boy development. These may be wrong or obsolete - they are archived for historical reasons.
+[This repository ★1](https://github.com/gb-archive/salvage) contains articles, FAQs, and documents about Game Boy development - archived for historical reasons. The information may be wrong or obsolete in some cases.
 
 ## Games
 - [Infinity ★393 ⏳1Y](https://github.com/infinity-gbc/infinity)

@@ -518,7 +518,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
 * [libOctavo/octavo ★121](https://github.com/libOctavo/octavo) — Modular hash and crypto library in Rust [<img src="https://api.travis-ci.org/libOctavo/octavo.svg?branch=master">](https://travis-ci.org/libOctavo/octavo)
 * [rust-hyderabad/mpw-rs ★17](https://github.com/rust-hyderabad/mpw-rs) — Pure Rust implementation of the Master Password password manager [<img src="https://api.travis-ci.org/rust-hyderabad/mpw-rs.svg?branch=master">](https://travis-ci.org/rust-hyderabad/mpw-rs)
 * [racum/rust-djangohashers ★24](https://github.com/racum/rust-djangohashers) — A Rust port of the password primitives used in the Django Project. It doesn't require Django, only hashes and validates passwords according to its style. [<img src="https://api.travis-ci.org/Racum/rust-djangohashers.svg?branch=master">](https://travis-ci.org/Racum/rust-djangohashers)
-* [RNCryptor/rncryptor-rs ★3](https://github.com/RNCryptor/rncryptor-rs) — Pure Rust implementation of the RNCryptor AES file format
+* [RNCryptor/rncryptor-rs ★3 ⏳1Y](https://github.com/RNCryptor/rncryptor-rs) — Pure Rust implementation of the RNCryptor AES file format
 * [sfackler/rust-native-tls ★83](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
 * [sfackler/rust-openssl ★321](https://github.com/sfackler/rust-openssl) — [OpenSSL](https://www.openssl.org/) bindings [<img src="https://api.travis-ci.org/sfackler/rust-openssl.svg?branch=master">](https://travis-ci.org/sfackler/rust-openssl)
 * [sfackler/rust-security-framework ★12](https://github.com/sfackler/rust-security-framework) — Bindings for Security Framework (OSX native crypto)
