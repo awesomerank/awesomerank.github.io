@@ -233,7 +233,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [ModSecurity](http://www.modsecurity.org/) - ModSecurity is a toolkit for real-time web application monitoring, logging, and access control.
 - [NAXSI ★2286](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX, NAXSI means Nginx Anti Xss & Sql Injection.
 - [sql_firewall ★149 ⏳2Y](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
-- [ironbee ★250 ⏳1Y](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
+- [ironbee ★250 ⏳2Y](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
 
 ### Scanning / Pentesting
 

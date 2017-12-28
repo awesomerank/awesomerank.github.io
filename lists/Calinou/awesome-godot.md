@@ -18,7 +18,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 ### 2D
 
 - [ANSiTURE ★7 ⏳2Y](https://github.com/w84death/ansiture) -  Adventure platformer using only text based (DOS ANSi) characters.
-- [Blipshift ★9 ⏳2Y](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
+- [Blipshift ★9 ⏳3Y](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
 - [BlockPop ★12 ⏳2Y](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs ★12](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
 - [Drone Commander ★9](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM

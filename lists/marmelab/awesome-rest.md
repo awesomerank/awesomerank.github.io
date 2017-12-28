@@ -113,7 +113,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Sails.js](http://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
 * [mers ★346 ⏳2Y](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
 * [Baucis ★632](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
-* [flatiron/resourceful ★358 ⏳2Y](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
+* [flatiron/resourceful ★358 ⏳3Y](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
 * [loopback](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
 * [Feathers](http://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
 * [Expressa ★198](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.

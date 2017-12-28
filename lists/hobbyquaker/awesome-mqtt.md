@@ -100,7 +100,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [Moscapsule ★177](https://github.com/flightonary/Moscapsule) - MQTT Client for iOS written in Swift.
 * [hbmqtt ★246](https://github.com/beerfactory/hbmqtt) - Python MQTT client using asyncio.
 * [Hulaaki ★88](https://github.com/suvash/hulaaki) - An Elixir library for clients communicating with MQTT brokers.
-* [Machine Head ★47](https://github.com/clojurewerkz/machine_head) - A Clojure MQTT Client.
+* [Machine Head ★48](https://github.com/clojurewerkz/machine_head) - A Clojure MQTT Client.
 * [M2Mqtt](https://m2mqtt.wordpress.com/) - A MQTT client available for all .Net platforms (.Net Framework, .Net Compact Framework and .Net Micro Framework) and WinRT platforms (Windows 8.1, Windows Phone 8.1 and Windows 10).
 * [Mosquitto-PHP ★224](https://github.com/mgdm/Mosquitto-PHP) - A wrapper for the Mosquitto MQTT client library for PHP.
 * [mqtt-client ★11 ⏳2Y](https://github.com/centamiv/mqtt-client) - A Polymer Web Component that implements a MQTT client (uses Paho mqttws31.js).
@@ -208,7 +208,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Smart Home Integration Software
 
-* [control-freak ★6](https://github.com/tx4x/control-freak) - IDE for IoT & friends. Built in MQTT support.
+* [control-freak ★7](https://github.com/tx4x/control-freak) - IDE for IoT & friends. Built in MQTT support.
 * [Domoticz](http://www.domoticz.com/) - Domoticz beta supports MQTT.
 * [FHEM](http://fhem.de/fhem.html) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6.
 * [Home Assistant](https://home-assistant.io/) has a MQTT component.

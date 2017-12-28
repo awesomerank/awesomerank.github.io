@@ -50,7 +50,6 @@ title: Awesome Rank for johnjago/awesome-ad-free
 
 ### File Sharing
 
-- [Dropfile.to](https://dropfile.to/) - Anonymous file upload site that does not store user information.
 - [Mega](https://mega.nz/) - 50 GB of secure free storage. Files are encrypted client-side.
 - [qBittorrent](https://www.qbittorrent.org/) - Free and open source BitTorrent client.
 
@@ -104,6 +103,8 @@ title: Awesome Rank for johnjago/awesome-ad-free
 
 - [uBlock Origin ★10927](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
 
+**WARNING**: Avoid Adblock Plus because coprorations can [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
+
 ### Articles
 
 - [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/) - Opt-out of the advertising game.
@@ -116,13 +117,14 @@ title: Awesome Rank for johnjago/awesome-ad-free
 ### Groups
 
 - [Ad Free Blog](http://adfreeblog.org/) - Icons for showing opposition to the use of corporate advertising on blogs.
-- [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - Project that calls into question the purpose and effects of advertising in public space.
-- [No More Ads Manifesto](https://nomoreads.org/) - Manifesto promoting an Internet that is not a marketplace where users get targeted and profiled for marketing purposes.
+- [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - Calls into question the purpose and effects of advertising in public space.
+- [Brandalism](http://brandalism.ch/) - International street art collective that subverts advertising in urban space.
+- [Coalition to Ban Billboard Blight](http://banbillboardblight.org/) - Defending the urban landscape of Los Angeles from a proliferation of billboards, supergraphic signs, and other forms of outdoor advertising.
+- [No More Ads](https://nomoreads.org/) - Manifesto promoting an ad-free internet.
 
 ### Make Money Without Ads
 
 - [Flattr](https://flattr.com/) - Browser add-on that distributes a monthly budget to websites you engage with the most.
-- [Gratipay](https://gratipay.com/) - Payment platform for open source projects that only charges processing fees, not its own fees.
 - [Liberapay](https://liberapay.com/) - Open source recurring donations platform.
 - [OpenCollective](https://opencollective.com/) - Enables groups to set up a collective, raise funds, and manage them transparently.
 - [Patreon](https://www.patreon.com/) - Recurring funding for artists and creators on either a monthly basis or per creation.

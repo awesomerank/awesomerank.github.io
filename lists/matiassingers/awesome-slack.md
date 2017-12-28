@@ -75,7 +75,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 ### C++
 
-- [slack-integrations ★6 ⏳3Y](https://github.com/rikbosch/slack-integrations) - Custom Slack integration scripts
+- [slack-integrations ★6 ⏳4Y](https://github.com/rikbosch/slack-integrations) - Custom Slack integration scripts
 
 ### C&#35;
 
@@ -223,13 +223,13 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack-bill-sharing ★2](https://github.com/gsellator/slack-bill-sharing) - Bill sharing bot for Slack
 - [slack-bot-api ★916](https://github.com/mishk0/slack-bot-api) - Simple way to control your Slack Bot
 - [slack-brewbot](https://github.com/swirlycheetah/slack-brewbot) - Whose turn is it to make a brew? Let BrewBot decide
-- [slack-btc ★2 ⏳3Y](https://github.com/hkarthik/slack-btc) - Simple node.js REST API to add a BTC ticker to Slack
+- [slack-btc ★2 ⏳4Y](https://github.com/hkarthik/slack-btc) - Simple node.js REST API to add a BTC ticker to Slack
 - [slack-chat](https://improvi.github.io/slack-chat/) - A support chat feature for your website that integrates with Slack
 - [slack-cli ★226](https://github.com/candrholdings/slack-cli) - A command line interface for Slack using node
 - [slack-clicky ★34](https://github.com/joshfarrant/slack-clicky) - Chrome Extension that lets you share links to Slack in a single click
 - [slack-currency ★16 ⏳2Y](https://github.com/matiassingers/slack-currency) - Slash command for converting currency
 - [slack-dnd ★32 ⏳3Y](https://github.com/toddself/slack-dnd) - D&D slash commands for Slack
-- [slack-emoji-randomizer ★6 ⏳1Y](https://github.com/jasisk/slack-emoji-randomizer) - replace emoji in your messages with random emoji
+- [slack-emoji-randomizer ★6 ⏳2Y](https://github.com/jasisk/slack-emoji-randomizer) - replace emoji in your messages with random emoji
 - [slack-github ★13 ⏳2Y](https://github.com/sdslabs/slack-github) - Post github commits to Slack
 - [slack-harvest ★118](https://github.com/Neverbland/slack-harvest) - Send a daily Slack message with a list of tracked time from Harvest
 - [slack-integrations ★1 ⏳2Y](https://github.com/CollectiveDS/slack-integrations) - The Collective Digital Studio Slack integration server
@@ -362,7 +362,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [django-slack-oauth ★28](https://github.com/izdi/django-slack-oauth) - Slack OAuth module for Django
 - [ellie-slack ★86 ⏳1Y](https://github.com/christinac/ellie-slack) - Eliza's younger, hipper, psychobabble-friendly successor as a Slackbot
 - [errbot ★1567](https://github.com/errbotio/errbot) - A plugin-based chatbot designed to be easily deployable, extensible and maintainable
-- [flask-slack ★77 ⏳1Y](https://github.com/VeryCB/flask-slack) - Flask extension which makes it easy to interact with Slack slash commands
+- [flask-slack ★77 ⏳2Y](https://github.com/VeryCB/flask-slack) - Flask extension which makes it easy to interact with Slack slash commands
 - [fs-slack ★9 ⏳2Y](https://github.com/slackhappy/fs-slack) - Silly slash command synthesis for Slack
 - [gmail2slack ★24 ⏳1Y](https://github.com/brooksc/gmail2slack) - Send a Slack notification whenever a new gmail arrives
 - [limbo ★307](https://github.com/llimllib/limbo) - A simple, clean, easy-to-modify Slack chatbot
@@ -437,7 +437,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [puppet-slack ★2 ⏳3Y](https://github.com/orlando/puppet-slack) - Slack Puppet Module for Boxen
 - [puppet-slack ★25 ⏳1Y](https://github.com/fsalum/puppet-slack) (II) - Puppet report processor integration with Slack
 - [redmine-slack ★328](https://github.com/sciyoshi/redmine-slack) - Send Redmine updates to Slack
-- [resque-slack ★14](https://github.com/julienXX/resque-slack) - Post failed Rescue jobs notifications in a Slack channel
+- [resque-slack ★14 ⏳1Y](https://github.com/julienXX/resque-slack) - Post failed Rescue jobs notifications in a Slack channel
 - [semaphore-to-slack ★1 ⏳3Y](https://github.com/flevour/semaphore-to-slack) - Post Semaphore status messages to Slack
 - [slack-gamebot ★93](https://github.com/dblock/slack-gamebot) - A game bot for Slack
 - [slack\_notifier ★7 ⏳3Y](https://github.com/nacyot/slack_notifier) - Send notifications to Slack

@@ -182,11 +182,12 @@ Made with Electron.
 - [Buka ★307](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia ★5809](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 - [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app.
-- [ProtonMail Desktop ★158](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
+- [ProtonMail Desktop ★178](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
 - [Comma Chameleon ★171](https://github.com/theodi/comma-chameleon) - CSV editor.
 - [Buttercup Desktop ★1867](https://github.com/buttercup/buttercup-desktop) - Password manager.
-- [Mailspring ★1785](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
+- [Mailspring ★2103](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 - [Manta ★1720](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
+- [Headset ★410](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
 
 ### Closed Source
 
@@ -221,7 +222,6 @@ Made with Electron.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 - [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
 - [Hackolade](http://hackolade.com) - Data modeling for NoSQL and multi-model databases.
-- [Headset](http://headsetapp.co) - Discover, collect, and listen to music from YouTube.
 - [ScreenSquid](http://screensquid.com) - Record and playback website visitor sessions.
 - [CashNotify](https://cashnotify.com) - Monitor your Stripe accounts from your menu bar.
 - [Mockoon](https://mockoon.com) - Mock servers in seconds.

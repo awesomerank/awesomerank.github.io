@@ -38,6 +38,7 @@ Processing Unit (GPU).
 * [Articles](#articles)
 * [Blog Series](#blog-series)
 * [Books](#books)
+* [Bug Reporting](#bug-reporting)
 * [GLSL Editors](#glsl-editors)
 * [References](#references)
 * [Talks](#talks)
@@ -76,6 +77,14 @@ Processing Unit (GPU).
   * [Book's Personal Site](http://www.webglinsights.com/)
 * [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL](https://www.amazon.com/WebGL-Programming-Guide-Interactive-Graphics/dp/0321902920) by **Kouichi Matsuda** and **Rodger Lea** - WebGL Programming Guide will help you get started quickly with interactive WebGL 3D programming, even if you have no prior knowledge of HTML5, JavaScript, 3D graphics, mathematics, or OpenGL.
 
+### Bug Reporting
+
+> Reporting bugs helps everyone in long run
+
+* [Chrome Bug Report](https://bugs.chromium.org/p/chromium/issues/list) - Chrome related bugs
+* [Khronos BugZilla](https://www.khronos.org/bugzilla/buglist.cgi?product=WebGL&query_format=advanced) - Spec or Conformance related bugs
+* [Mozilla BugZilla](https://bugzilla.mozilla.org/enter_bug.cgi?alias=&assigned_to=nobody%40mozilla.org&blocked=&bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&cf_blocking_191=---&cf_blocking_193=---&cf_blocking_fennec=---&cf_status_191=---&cf_status_192=---&comment=&component=Canvas%3A%20WebGL&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&dependson=&description=&flag_type-203=X&flag_type-270=X&flag_type-271=X&flag_type-325=X&flag_type-369=X&flag_type-37=X&flag_type-370=X&flag_type-385=X&flag_type-388=X&flag_type-4=X&flag_type-422=X&flag_type-479=X&flag_type-480=X&flag_type-485=X&flag_type-486=X&flag_type-5=X&flag_type-543=X&flag_type-555=X&flag_type-556=X&flag_type-557=X&flag_type-565=X&flag_type-566=X&flag_type-567=X&form_name=enter_bug&keywords=&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=All&priority=--&product=Core&qa_contact=canvas.webgl%40core.bugs&rep_platform=All&short_desc=&status_whiteboard=&target_milestone=---&version=Trunk) - Firefox related bugs
+* [WebKit Bugzilla](https://bugs.webkit.org/enter_bug.cgi?assigned_to=cmarrin%40apple.com&attachurl=&blocked=&bug_file_loc=http%3A%2F%2F&bug_severity=Normal&bug_status=NEW&comment=&component=WebGL&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&dependson=&description=&flag_type-1=X&flag_type-3=X&form_name=enter_bug&keywords=&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Mac%20OS%20X%2010.5&priority=P2&product=WebKit&rep_platform=PC&short_desc=&version=528%2B%20%28Nightly%20build%29) - Safari related bugs
 
 ### GLSL Editors
 
@@ -116,6 +125,7 @@ Processing Unit (GPU).
 
 > Tools for development and debugging WebGL
 
+* [Khronos Dev Tools ★58](https://github.com/KhronosGroup/WebGLDeveloperTools) - Useful WebGL developer tools, intended to be used as an ES6 module.
 * [Spector.js](http://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 * [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) - Tool inspired by gDEBugger and PIX with the goal of making the development of advanced WebGL applications easier.
 * [WebGl Playground](http://jessevdk.github.io/webgl-play/) - The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.
@@ -280,10 +290,12 @@ Processing Unit (GPU).
 * [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 * [CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
+* [Lightgl.js ★884](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype.
 * [OSG.js](http://osgjs.org/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
 * [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
 * [Pocket.gl](http://pocket.gl/) - Fully customizable webgl shader sandbox to embed in your pages.
+* [QTEK ★549](https://github.com/pissang/qtek) - Library with many features.
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.

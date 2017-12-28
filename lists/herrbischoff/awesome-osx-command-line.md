@@ -108,6 +108,7 @@ For more terminal shell goodness, please also see this list's sister list [Aweso
     - [Screenshots](#screenshots)
     - [Software Installation](#software-installation)
     - [Software Update](#software-update)
+    - [Software Version](#software-version)
     - [Spotlight](#spotlight)
     - [System Integrity Protection](#system-integrity-protection)
 - [Terminal](#terminal)
@@ -1647,6 +1648,13 @@ sudo defaults write /Library/Preferences/com.apple.SoftwareUpdate CatalogURL htt
 
 # Reset to Apple SUS
 sudo defaults delete /Library/Preferences/com.apple.SoftwareUpdate CatalogURL
+```
+
+### Software Version
+
+#### Show System Software Version
+```bash
+sw_vers -productVersion
 ```
 
 ### Spotlight

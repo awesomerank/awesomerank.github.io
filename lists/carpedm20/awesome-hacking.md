@@ -198,7 +198,7 @@ For a list of free hacking books available for download, go [here ★1118](https
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
 
 ## Bug bounty
-  * [Awsome bug bounty resourses by Edoverflow ★411](https://github.com/EdOverflow/bugbounty-cheatsheet)
+  * [Awsome bug bounty resourses by Edoverflow ★456](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 # CTF
 

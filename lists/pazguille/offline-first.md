@@ -217,7 +217,7 @@ Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list
 [Offline Reading List](https://chrisruppel.com/blog/service-worker-offline-content-list/)
 (Chris Ruppel - Oct 5, 2016)
 
-[Almost any web page can work offline ★4](https://github.com/homam/service-workers-example) 
+[Almost any web page can work offline ★4 ⏳1Y](https://github.com/homam/service-workers-example) 
 (Homam Hosseini - Sep 24, 2016)
 
 [Enabling Offline First Experiences on the Web with Service Workers](https://medium.com/offline-camp/enabling-offline-first-experiences-on-the-web-with-service-workers-e4bc8c773dae#.c6ui0i9cs)

@@ -88,6 +88,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Redux Delphi ★14](https://github.com/pierrejean-coudert/ReduxDelphi) ReduxDelphi is a predictable state container for Delphi apps utilizing a unidirectional data flow. Inspired by ReduxJS. Comes with Immutable Generic List.
 
+* [GrijjyFoundation ★69](https://github.com/grijjy/GrijjyFoundation). Foundation classes and utilities that are used throughout the other Grijjy Repositories.
+// *BSON/JSON, IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.*
+
+
 ## Multimedia ##
 
 
@@ -168,7 +172,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Kraft Physics Engine ★30](https://github.com/BeRo1985/kraft). Open source Object Pascal physics engine library that can be used in 3D games. Compatible with: Delphi 7-XE7 (but not with the Android and iOS targets), FreePascal >= 2.6.2 (with almost all FPC-supported targets including Android and iOS) 
 
-* [ZenGL ★5 ⏳1Y](https://github.com/andru-kun/zengl). OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc. 
+* [ZenGL ★5 ⏳2Y](https://github.com/andru-kun/zengl). OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc. 
 // *Not updated lately, but is working ok* 
 
 * [Platform eXtended Library (PXL)](https://sourceforge.net/projects/asphyre). Cross-platform framework for developing 2D/3D video games, interactive and scientific applications. It aids the developer with mathematics, hardware control, resource management, displaying real-time graphics and text, handle user input and network communication capabilities.
@@ -233,6 +237,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Hprose for Delphi/Lazarus ★55 ⏳1Y](https://github.com/hprose/hprose-delphi). Hprose is a High Performance Remote Object Service Engine. It is a modern, lightweight, cross-language, cross-platform, object-oriented, high performance, remote dynamic communication middleware. It is not only easy to use, but powerful. This project is the implementation of Hprose for Delphi/Lazarus.
 
 * [TelegAPI ★35](https://github.com/ms301/TelegAPI). Library for working with Telegram messenger Bot API in Delphi.
+
+* [DelphiZeroMQ ★23](https://github.com/grijjy/DelphiZeroMQ). Delphi implementation of ZeroMQ Majordomo protocol and CZMQ high level binding.
+
+* [GrijjyFoundation](#general-libraries). IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.
 
 
 ## Serial port
@@ -382,6 +390,12 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Marshmallow](https://bitbucket.org/soundvibe/marshmallow/wiki/Home). Object-Relational Mapping for Delphi XE7, XE6, XE5, XE4, XE3 and XE2 (Win32) inspired by .NET micro ORM's (mostly by PetaPoco) and Java Hibernate. Developed  by Linas Naginionis. Supports SQLite, Sybase ASA, SQL Server, Firebird, Oracle, MySQL, PostgreSQL, MongoDB. Uses [Spring](http://code.google.com/p/delphi-spring-framework/) Framework. In active development.
 
+* [DelphiCassandra ★7](https://github.com/grijjy/DelphiCassandra). Delphi driver classes to communicate with Cassandra database.
+
+* [DelphiCouchbase ★8](https://github.com/grijjy/DelphiCouchbase). Delphi driver classes to communicate with Couchbase database.
+
+* [DelphiMongoDB ★10](https://github.com/grijjy/DelphiMongoDB). Delphi driver classes to communicate with MongoDB database.
+
 
 ## Scripting ##
 *Using script engine in your applications*
@@ -494,6 +508,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [delphi-yaml](https://bitbucket.org/OCTAGRAM/delphi-yaml). Delphi 7 compatible bindings for libyaml, YAML parser and emitter library implemented in C. Four layers of bindings are proposed.
 
+* [GrijjyFoundation](#general-libraries). JSON/BSON.
+
+
 
 ## Language
 *Tools for Pascal and other languages*
@@ -552,6 +569,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [slf4p ★11 ⏳1Y](https://github.com/michaelJustin/slf4p). A simple logging facade with support for LazLogger, Log4D, and other logging frameworks.
 
+* [GrijjyCloudLogger ★23](https://github.com/grijjy/GrijjyCloudLogger). Remote logging tool that allows you to send log messages over the Intranet or Internet from Windows, Linux, iOS, Android and macOS devices to a viewer running on Windows. Besides sending messages along with any data, it has numerous features including custom live watches, remote live views of objects, tracking live memory usage, object allocations, growth leaks and more.
+
 
 ## Other non-visual
 
@@ -575,7 +594,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [stateless ★14 ⏳2Y](https://github.com/SirRufo/stateless). Simple library for creating state machines in Delphi code.
 
-* [GenericTree ★19](https://github.com/davidberneda/GenericTree). Delphi implementation of a generic Tree structure.
+* [GenericTree ★19 ⏳1Y](https://github.com/davidberneda/GenericTree). Delphi implementation of a generic Tree structure.
 
 * [Delphi Event Bus ★57](https://github.com/spinettaro/delphi-event-bus) (for short DEB) is an Event Bus framework for Delphi.
 
@@ -609,11 +628,14 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [BaseNcodingPascal ★10](https://github.com/Xor-el/BaseNcodingPascal). Library for encoding of binary data into strings using base32, base85, base128 and other algorithms for FPC and Delphi.
 
-* [ByteSizeLibPascal ★4](https://github.com/Xor-el/ByteSizeLibPascal). TByteSize is a utility "record" that makes byte size representation in code easier by removing ambiguity of the value being represented.
+* [ByteSizeLibPascal ★4 ⏳1Y](https://github.com/Xor-el/ByteSizeLibPascal). TByteSize is a utility "record" that makes byte size representation in code easier by removing ambiguity of the value being represented.
 
 * [DelphiBigNumberXLib ★5 ⏳1Y](https://github.com/Xor-el/DelphiBigNumberXLib). Arbitrary Precision Library for Delphi with Support for Integer and Floating Point Computations.
 
 * [EmailValidationPascal ★5](https://github.com/Xor-el/EmailValidationPascal). Simple Class for Validating Email Address Syntax in Pascal/Delphi.
+
+* [FastMath ★26](https://github.com/neslib/FastMath). Delphi math library that is optimized for fast performance (sometimes at the cost of not performing error checking or losing a little accuracy). It uses hand-optimized assembly code to achieve much better performance then the equivalent functions provided by the Delphi RTL.
+// *Floating-point, vector, matrix operations.*
 
 
 ## OS ##
@@ -662,7 +684,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi-Mocks ★134](https://github.com/VSoftTechnologies/Delphi-Mocks). Simple mocking framework for Delphi XE2 or later. Allow you to mock both classes and interfaces for testing. 
 
-* [DUnit-XML ★13 ⏳2Y](https://github.com/VSoftTechnologies/DUnit-XML). Test runner that allows DUnit Tests to output NUnit compatible XML.
+* [DUnit-XML ★13 ⏳3Y](https://github.com/VSoftTechnologies/DUnit-XML). Test runner that allows DUnit Tests to output NUnit compatible XML.
 
 * [Smoketest](https://github.com/deltics/delphi.libs/tree/master/smoketest). Framework for writing tests and performance benchmarks using the Delphi language for Microsoft Windows. It has been tested on all versions of Delphi from 7 thru to 2010.
 

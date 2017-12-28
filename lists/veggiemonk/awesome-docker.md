@@ -213,13 +213,13 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [clusterdock ★13](https://github.com/clusterdock/clusterdock) - Docker container orchestration to enable the testing of long-running cluster deployments
 * [ContainerShip ★193](https://github.com/containership/containership) A simple container management platform
 * [Crane ★692](https://github.com/Dataman-Cloud/crane) - Control plane based on docker built-in swarm [@Dataman-Cloud](https://github.com/Dataman-Cloud)
-* [Docker Flow Swarm Listener ★73](https://github.com/vfarcic/docker-flow-swarm-listener) :construction: - Docker Flow Swarm Listener project is to listen to Docker Swarm events and send requests when a change occurs.. By [@vfarcic][vfarcic]
+* [Docker Flow Swarm Listener ★79](https://github.com/vfarcic/docker-flow-swarm-listener) :construction: - Docker Flow Swarm Listener project is to listen to Docker Swarm events and send requests when a change occurs.. By [@vfarcic][vfarcic]
 * [gantryd ★276 ⏳1Y](https://github.com/DevTable/gantryd) :skull: - A framework for easy management of docker-based components across machines by [@DevTable](https://github.com/DevTable)
 * [Haven ★137](https://github.com/codeabovelab/haven-platform) - Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By [@codeabovelab](https://github.com/codeabovelab)
 * [Helios ★1890](https://github.com/spotify/helios) - A simple platform for deploying and managing containers across an entire fleet of servers by [@spotify](spotify)
 * [Kontena ★1254](https://github.com/kontena/kontena) - Application Containers for Masses https://www.kontena.io/
 * [Kubernetes ★29736](https://github.com/kubernetes/kubernetes) - Open source orchestration system for Docker containers by Google
-* [ManageIQ ★562](https://github.com/ManageIQ/manageiq) - Discover, optimize and control your hybrid IT. By [ManageIQ](https://github.com/ManageIQ)
+* [ManageIQ ★575](https://github.com/ManageIQ/manageiq) - Discover, optimize and control your hybrid IT. By [ManageIQ](https://github.com/ManageIQ)
 * [Mantl ★3001](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 * [Marathon](https://mesosphere.github.io/marathon/docs/) - Marathon is a private PaaS built on Mesos. It automatically handles hardware or software failures and ensures that an app is "always on"
 * [Mesos](https://mesos.apache.org/documentation/latest/docker-containerizer/) - Resource/Job scheduler for containers, VM's and physical hosts [@apache](https://mesos.apache.org/)
@@ -246,7 +246,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 
 ### Reverse Proxy
 
-* [docker-flow-proxy ★515](https://github.com/vfarcic/docker-flow-proxy) - Reconfigures proxy every time a new service is deployed, or when a service is scaled. By [@vfarcic][vfarcic]
+* [docker-flow-proxy ★539](https://github.com/vfarcic/docker-flow-proxy) - Reconfigures proxy every time a new service is deployed, or when a service is scaled. By [@vfarcic][vfarcic]
 * [docker-proxy ★174](https://github.com/silarsis/docker-proxy) :skull: - Transparent proxy for docker containers, run in a docker container. By [@silarsis](https://github.com/silarsis)
 * [fabio ★4359](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul. By [@magiconair](https://github.com/magiconair) (Frank Schroeder)
 * [h2o-proxy ★37 ⏳1Y](https://github.com/zchee/h2o-proxy) :skull: - Automated H2O reverse proxy for Docker containers. An alternative to [jwilder/nginx-proxy][nginxproxy] by [@zchee](https://github.com/zchee)
@@ -419,7 +419,7 @@ Services to securely store your Docker images.
 * [Docket ★601 ⏳2Y](https://github.com/netvarun/docket) - Custom docker registry that allows for lightning fast deploys through bittorrent by [@netvarun](https://github.com/netvarun/)
 * [Docker Hub](https://hub.docker.com/) provided by Docker Inc.
 * [Docker Registry v2][distribution] - The Docker toolset to pack, ship, store, and deliver content
-* [Europa :heavy_dollar_sign: ★92](https://github.com/Distelli/europa) - Private docker registry with support for image pipelines and  webhooks. By [@Distelli](https://github.com/Distelli)
+* [Europa :heavy_dollar_sign: ★92](https://github.com/puppetlabs/europa) - Private docker registry with support for image pipelines and webhooks. By [@puppetlabs](https://github.com/puppetlabs)
 * [GCE Container Registry](https://cloud.google.com/container-registry/) Fast, private Docker image storage on Google Cloud Platform
 * [GitLab Container Registry](https://docs.gitlab.com/ce/user/project/container_registry.html) - Repositories focused on using it images in GitLab CI
 * [Private Docker Registry :heavy_dollar_sign:](https://private-docker-registry.com) - Dedicated Conainer Registry Service with unlimited private repositories, users, teams, namespaces together with enterprise grade authentication LDAP/AD/OAuth/SAML.

@@ -141,7 +141,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cr-dotenv ★27](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
  * [crystal-toml ★29](https://github.com/manastech/crystal-toml) - TOML parser
  * [dockerfile.cr ★1 ⏳1Y](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
- * [habitat ★8](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
+ * [habitat ★10](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
  * [zq ★2](https://github.com/colstrom/zq) - Command-line ZPL processor
 
 ## Converters
@@ -259,7 +259,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## HTTP
  * [cossack ★66](https://github.com/crystal-community/cossack) - Simple flexible HTTP client
- * [crest ★23](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
+ * [crest ★25](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
  * [crul ★93](https://github.com/porras/crul) - Command line HTTP client
  * [cryload ★107](https://github.com/sdogruyol/cryload) - HTTP benchmarking tool
  * [halite ★29](https://github.com/icyleaf/halite) - Yet another simple HTTP and REST client with a chainable API, built-in sessions and timeouts
@@ -300,6 +300,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-fann ★59](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
  * [crystal-learn ★28](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
  * [grey_matter ★8](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library
+ * [shainet ★32](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
  * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow ★80786](https://github.com/tensorflow/tensorflow)
 
 ## Markdown/Text Processors
@@ -393,7 +394,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Search
  * [hermes ★12](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
  * [query-builder ★34](https://github.com/izniburak/query-builder) - Sql Query Builder library
- * [query.cr ★9](https://github.com/waterlink/query.cr) - Query abstraction
+ * [query.cr ★9 ⏳1Y](https://github.com/waterlink/query.cr) - Query abstraction
  * [soegen ★14](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
 
 ## Task management
@@ -453,7 +454,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [amber ★562](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
  * [kemal ★1945](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lattice-core ★43](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
- * [lucky ★448](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
+ * [lucky ★553](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
  * [raze ★62](https://github.com/samueleaton/raze) - Modular, light web framework
 
 ## Web Servers

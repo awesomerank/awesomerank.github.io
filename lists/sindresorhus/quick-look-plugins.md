@@ -21,7 +21,7 @@ title: Awesome Rank for sindresorhus/quick-look-plugins
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase qlvideo
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 ```
 
 ### Manually
@@ -43,13 +43,13 @@ Run `brew cask install qlcolorcode` or [download manually](https://github.com/an
 [![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLColorCode.png) ★175](https://github.com/anthonygelibert/QLColorCode)
 
 
-### [QLStephen ★1578](https://github.com/whomwah/qlstephen)
+### [QLStephen ★1578 ⏳1Y](https://github.com/whomwah/qlstephen)
 
 > Preview plain text files without or with unknown file extension. Example: README, CHANGELOG, index.styl, etc.
 
 Run `brew cask install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLStephen.png) ★1578](https://github.com/whomwah/qlstephen)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLStephen.png) ★1578 ⏳1Y](https://github.com/whomwah/qlstephen)
 
 
 ### [QLMarkdown ★2425](https://github.com/toland/qlmarkdown)
@@ -70,29 +70,15 @@ Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.
 [![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
 
 
-### [QLPrettyPatch ★80 ⏳1Y](https://github.com/atnan/QLPrettyPatch)
-
-> Preview .patch files
-
-Run `brew cask install qlprettypatch` or [download manually](https://github.com/atnan/QLPrettyPatch/releases/latest)
-
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLPrettyPatch.png) ★80 ⏳1Y](https://github.com/atnan/QLPrettyPatch)
-
-
-### [QuickLookCSV ★151](https://github.com/p2/quicklook-csv)
-
-> Preview CSV files
-
-Run `brew cask install quicklook-csv` or [download manually](http://quicklook-csv.googlecode.com/files/QuickLookCSV.dmg)
-
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QuickLookCSV.png) ★151](https://github.com/p2/quicklook-csv)
-
-
 ### [BetterZipQL](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
 > Preview archives
 
-Run `brew cask install betterzipql` or [download manually](http://macitbetter.com/BetterZipQL.zip)
+> Note: The BetterZipQL plugin was integrated with the BetterZip app.
+
+Run `brew cask install betterzip` to install the BetterZip app and its Quick Look plugin or [download manually](https://macitbetter.com/BetterZip.zip)
+
+The legacy BetterZipQL plugin can be [downloaded here](http://macitbetter.com/BetterZipQL.zip).
 
 [![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/BetterZipQL.png)](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
 

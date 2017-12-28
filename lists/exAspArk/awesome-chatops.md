@@ -320,7 +320,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Zulip
 
-* [Errbot](http://errbot.io/) + [adapter ★1](https://github.com/zulip/errbot-backend-zulip) (Python)
+* [Errbot](http://errbot.io/) + [adapter ★2](https://github.com/zulip/errbot-backend-zulip) (Python)
 * [Hubot](https://hubot.github.com/) + [adapter ★12](https://github.com/zulip/hubot-zulip) (CoffeeScript, Node.js)
 
 ---

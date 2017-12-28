@@ -65,6 +65,7 @@ Free software is distributed under terms that allow users to run the program for
 
 ### Command Line Tools
 
+- [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
 - [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. ([GNU GPLv3](https://cygwin.com/COPYING))
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. ([MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
 - [ranger](http://ranger.nongnu.org/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
@@ -120,6 +121,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Linux Mint](https://linuxmint.com/) - Based on Debian and Ubuntu. Beginner friendly and with common applications installed. ([GNU GPL](https://linuxmint.com/faq.php))
 - [lubuntu](http://lubuntu.net/) - Minimal version of Ubuntu. LXDE desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
 - [Manjaro](https://manjaro.org/) - User-friendly distribution based on Arch. ([Licenses](https://manjaro.org/disclaimer-licenses/))
+- [PureOS](https://pureos.net/) - FSF endorsed derivative of Debian. (Multiple licenses)
 - [Tails](https://tails.boum.org/) - Live operating system focused on privacy and anonymity. ([GNU GPLv3](https://tails.boum.org/doc/about/license/))
 - [Ubuntu](https://www.ubuntu.com/) - Debian-based operating system for personal computers and servers. ([Licenses](https://wiki.archlinux.org/index.php/Licenses))
 - [Xubuntu](https://xubuntu.org/) - Lightweight version of Ubuntu. Xfce desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
@@ -226,6 +228,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [Aleph Objects](https://www.alephobjects.com/) - RYF certified 3D printer built with libre hardware and software.
 - [Libiquity](http://www.libiquity.com/) - Company that designs and develops embedded software and firmware systems.
+- [Purism](https://puri.sm/) - Privacy, security, and freedom focused computers and software.
 - [Raptor Computing Systems](https://raptorcs.com/) - Desktops, motherboards, and other parts utilizing the IBM POWER9 processor and OpenBMC firmware.
 - [Technoethical](https://tehnoetic.com/) - Laptops, adapters, and mobile devices compatible with free operating systems.
 - [ThinkPenguin](https://www.thinkpenguin.com/) - Provider of modern laptops, desktops, and printers that contain no proprietary software.

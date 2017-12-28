@@ -77,7 +77,7 @@ title: Awesome Rank for addyosmani/es6-tools
 
 ## Gobble plugins
 * Babel: [gobble-babel ★8 ⏳1Y](https://github.com/babel/gobble-babel)
-* Traceur: [gobble-es6-transpiler ★1 ⏳2Y](https://github.com/gobblejs/gobble-es6-transpiler)
+* Traceur: [gobble-es6-transpiler ★1 ⏳3Y](https://github.com/gobblejs/gobble-es6-transpiler)
 
 ## Jade plugins
 * Babel: [jade-babel ★42 ⏳1Y](https://github.com/babel/jade-babel)
@@ -140,7 +140,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * [`Array.prototype.find` ★32](https://github.com/paulmillr/Array.prototype.find)
 * [`Array.prototype.findIndex` ★24](https://github.com/paulmillr/Array.prototype.findIndex)
 * [`Array.from` ★49](https://github.com/mathiasbynens/Array.from)
-* [`Array.of` ★11 ⏳1Y](https://github.com/mathiasbynens/Array.of)
+* [`Array.of` ★11 ⏳2Y](https://github.com/mathiasbynens/Array.of)
 * [`Object.assign` ★706](https://github.com/sindresorhus/object-assign)
 * [`Number.isFinite` ★7 ⏳1Y](https://github.com/sindresorhus/is-finite)
 * [`Math.sign` ★6 ⏳1Y](https://github.com/sindresorhus/math-sign)

@@ -176,9 +176,9 @@ drm/kms.
 *  [Vulkan-WSIWindow ★22](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. [Apache License 2.0]
 *  [Falcor ★239](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting DX12 and Vulkan. [BSD 3-clause]
 *  [The-Forge ★10](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
-*  [Marble-CORE](https://github.com/AwokenGraphics/marble-encore) - Vulkan API (only) interactive ray tracing engine 
 *  [VK9 ★433](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
 *  [gfx-rs ★1272](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API for Rust. [Apache License 2.0]
+*  [Satellite ★2](https://github.com/world8th/satellite) - fork of Marble (and continuation de facto), Vulkan API based ray tracing engine
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.

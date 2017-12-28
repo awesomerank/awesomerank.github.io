@@ -299,7 +299,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [bento ★37](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 * [tracker_request ★8 ⏳3Y](https://github.com/alehander42/tracker_request) - Dealing with bittorrent tracker requests and responses.
-* [wire ★10 ⏳1Y](https://github.com/alehander42/wire) - Encode and decode bittorrent peer wire protocol messages with Elixir.
+* [wire ★10 ⏳2Y](https://github.com/alehander42/wire) - Encode and decode bittorrent peer wire protocol messages with Elixir.
 
 ## BSON
 *Libraries and implementations working with BSON.*
@@ -319,7 +319,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [pc ★27](https://github.com/blt/port_compiler) - A rebar3 port compiler.
 * [reaxt](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 * [rebar3_abnfc_plugin ★1](https://github.com/surik/rebar3_abnfc_plugin) - Rebar3 abnfc compiler.
-* [rebar3_asn1_compiler ★0 ⏳1Y](https://github.com/pyykkis/rebar3_asn1_compiler) - Plugin for compiling ASN.1 modules with Rebar3.
+* [rebar3_asn1_compiler ★0 ⏳2Y](https://github.com/pyykkis/rebar3_asn1_compiler) - Plugin for compiling ASN.1 modules with Rebar3.
 * [rebar3_auto ★27](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 * [rebar3_diameter_compiler ★1](https://github.com/carlosedp/rebar3_diameter_compiler) - Compile diameter .dia files in rebar3 projects.
 * [rebar3_eqc ★9](https://github.com/kellymclaughlin/rebar3-eqc-plugin) - A rebar3 plugin to enable the execution of Erlang QuickCheck properties.
@@ -684,7 +684,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [plug_jwt ★33 ⏳2Y](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 * [plug_password ★8](https://github.com/azranel/plug_password) - Plug for adding simple cookie-based authentication.
 * [plug_rails_cookie_session_store ★65](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
-* [plug_redirect_https ★4](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
+* [plug_redirect_https ★4 ⏳1Y](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
 * [plug_require_header ★20 ⏳1Y](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
 * [plug_response_header ★9 ⏳2Y](https://github.com/c-rack/plug_response_header) - easy manipulation of HTTP response headers.
 * [plug_ribbon ★20 ⏳2Y](https://github.com/stnly/plug_ribbon) - Injects a ribbon to your web application in the development environment.
@@ -735,7 +735,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [distance_api_matrix ★24 ⏳1Y](https://github.com/C404/distance-matrix-api) - Provide distance and heading calculations via Google distance matrix api.
 * [geo ★297](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 * [geocalc ★37](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
-* [geocoder ★43](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
+* [geocoder ★48](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
 * [geohash ★10](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
 * [geohax ★3](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
 * [geoip ★24](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
@@ -992,7 +992,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [chatter ★23 ⏳1Y](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
 * [download ★3](https://github.com/asiniy/download) - Download files from the internet easily.
 * [eio ★10 ⏳2Y](https://github.com/falood/eio) - Elixir server of engine.io.
-* [ExPcap ★16 ⏳2Y](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
+* [ExPcap ★16 ⏳3Y](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
 * [mac ★2 ⏳1Y](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 * [pool ★6 ⏳2Y](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
 * [reagent ★86](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
@@ -1297,7 +1297,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [cldr ★1 ⏳3Y](https://github.com/magicienap/cldr) - cldr is a library to use information from CLDR data.
 * [colorful ★2 ⏳2Y](https://github.com/Joe-noh/colorful) - Elixir macros to decorate characters on CUI.
 * [colors ★7](https://github.com/lidashuang/colors) - Colors util written in Elixir.
-* [convertat ★10 ⏳1Y](https://github.com/whatyouhide/convertat) - An Elixir library for converting from and to arbitrary bases.
+* [convertat ★10 ⏳2Y](https://github.com/whatyouhide/convertat) - An Elixir library for converting from and to arbitrary bases.
 * [curtail ★20 ⏳1Y](https://github.com/seankay/curtail) - HTML tag-safe string truncation.
 * [custom_base ★7](https://github.com/igas/custom_base) - Allow you to make custom base conversion in Elixir.
 * [decimal ★151](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.

@@ -101,6 +101,7 @@ Contributions are always welcome!
 * [A crash course in LinkedIn's global site operations](https://engineering.linkedin.com/day-life/crash-course-linkedins-global-site-operations)
 * [Google’s Site Reliability Engineering with Todd Underwood](https://softwareengineeringdaily.com/2016/06/14/googles-site-reliability-engineering-todd-underwood/)
 * [The Rise of the Site Reliability Engineer](https://blog.newrelic.com/2017/10/30/site-reliability-engineer-sre)
+* [Defining Modern Software Roles: SREs at New Relic](https://blog.newrelic.com/2017/12/15/new-relic-sre/)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
@@ -212,6 +213,7 @@ Contributions are always welcome!
 * [Incident management at Google — adventures in SRE-land](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html)
 * [How Spotify and GOV.UK handle on call, and more](https://blog.serverdensity.com/spotify-gov-uk-handle-on-call/)
 * [Run Book / Operations Manual template ★83](https://github.com/SkeltonThatcher/run-book-template)
+* [Automating Your Oncall: Open Sourcing Fossor and Ascii Etch](https://engineering.linkedin.com/blog/2017/12/open-sourcing-fossor-and-ascii-etch)
 
 ## Post-Mortem
 * [A collection of post-mortems ★3211](https://github.com/danluu/post-mortems)

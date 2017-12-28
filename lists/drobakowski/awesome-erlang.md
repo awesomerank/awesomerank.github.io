@@ -87,7 +87,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [cb_admin ★74 ⏳1Y](https://github.com/ChicagoBoss/cb_admin) - An admin interface for Chicago Boss.
 * [cb_websocket_controller ★7 ⏳4Y](https://github.com/dkuhlman/cb_websocket_controller) - A template for implementing a Websocket controller for ChicagoBoss.
-* [giallo_session ★10 ⏳3Y](https://github.com/kivra/giallo_session) - A session management library for the Giallo web framework.
+* [giallo_session ★10 ⏳4Y](https://github.com/kivra/giallo_session) - A session management library for the Giallo web framework.
 * [simple_bridge ★92](https://github.com/nitrogen/simple_bridge) - An abstraction layer providing a unified interface to popular Erlang web servers (Cowboy, Inets, Mochiweb, Webmachine, and Yaws).
 
 ## HTTP
@@ -184,7 +184,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with event and task queues.*
 
 * [dq ★25 ⏳2Y](https://github.com/darach/dq) - Distributed Fault Tolerant Queue library.
-* [ebqueue ★5 ⏳2Y](https://github.com/rgrinberg/ebqueue) - Tiny simple blocking queue in erlang.
+* [ebqueue ★5 ⏳3Y](https://github.com/rgrinberg/ebqueue) - Tiny simple blocking queue in erlang.
 * [pqueue ★95](https://github.com/okeuday/pqueue) - Erlang Priority Queues.
 * [tinymq ★97](https://github.com/ChicagoBoss/tinymq) - A diminutive, in-memory message queue for Erlang.
 

@@ -131,7 +131,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Flow ★2525](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
 - [Crouton ★3038 ⏳2Y](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
 - [DragSortListView ★3170 ⏳1Y](https://github.com/bauerca/drag-sort-listview) - Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).
-- [SortableTableView ★830](https://github.com/ISchwarz23/SortableTableView) - An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.
+- [SortableTableView ★850](https://github.com/ISchwarz23/SortableTableView) - An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.
 - [MaterialProgressBar ★1425](https://github.com/DreaminginCodeZH/MaterialProgressBar) - Material design ProgressBar with consistent appearance.
 - [AndroidFillableLoaders ★1704 ⏳1Y](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
 - [NexusDialog ★162](https://github.com/dkharrat/NexusDialog) - Allows you to easily and quickly create forms in Android with little code.
@@ -161,7 +161,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [CircleProgressBar ★11](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
 
 #### Paginate
-- [NoPaginate ★41](https://github.com/NoNews/NoPaginate) - Simple Android pagination library
+- [NoPaginate ★70](https://github.com/NoNews/NoPaginate) - Simple Android pagination library
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
@@ -330,7 +330,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [EasyDeviceInfo ★1327](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way.
 - [Ask-Permission ★44](https://github.com/Kishanjvaghela/Ask-Permission) - Simple RunTime permission manager.
 - [Shutter-Android ★11](https://github.com/levibostian/Shutter-Android) - Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.
-- [Validator ★5](https://github.com/anderscheow/Validator) - An utilities class to validate text inside TextInputLayout.
+- [Validator ★18](https://github.com/anderscheow/Validator) - An utilities class to validate text inside TextInputLayout.
 
 ### Debugging Tools
 
@@ -372,7 +372,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [Permission Dispatcher ★6252](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
 - [RxPermissions ★5105](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava.
-- [NoPermission ★61](https://github.com/NoNews/NoPermission) - Simple Android library for permissions request. Consists of only one class.
+- [NoPermission ★75](https://github.com/NoNews/NoPermission) - Simple Android library for permissions request. Consists of only one class.
 
 ### Other
 

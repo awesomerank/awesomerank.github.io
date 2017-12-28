@@ -122,7 +122,7 @@ The purpose of this document is to provide a quick overview over existing packag
 ### Go
 
 - [steam ★169](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go.
-- [steam-mobileauth ★13 ⏳1Y](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go.
+- [steam-mobileauth ★13 ⏳2Y](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go.
 
 ### Python
 

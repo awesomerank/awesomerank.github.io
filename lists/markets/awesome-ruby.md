@@ -47,6 +47,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Core Extensions](#core-extensions)
   * [Country Data](#country-data)
   * [CRM](#crm)
+  * [Cryptocurrencies and Blockchains](#cryptocurrencies-and-blockchains)
   * [Dashboards](#dashboards)
   * [Data Processing and ETL](#data-processing-and-etl)
   * [Data Visualization](#data-visualization)
@@ -225,6 +226,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Automation
 
+* [Danger ★2198](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
 * [Huginn](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 
 ## Caching
@@ -261,6 +263,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## CLI Utilities
 
+* [Awesome Print ★3230](https://github.com/awesome-print/awesome_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation
 * [Betty ★2474](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
 * [colorls ★1249](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 * [formatador ★398](https://github.com/geemus/formatador) - STDOUT text formatting.
@@ -375,6 +378,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Fat Free CRM ★2949](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
 
+## Cryptocurrencies and Blockchains
+
+* [Blockchain Lite ★53](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+
 ## Dashboards
 
 * [Dashing](http://shopify.github.io/dashing/) - A Sinatra based framework that lets you build beautiful dashboards.
@@ -396,7 +403,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Database Drivers
 
 * [Cassandra Driver ★189](https://github.com/datastax/ruby-driver) - A pure ruby driver for Apache Cassandra with asynchronous io and configurable load balancing, reconnection and retry policies.
-* [DataObjects ★146](https://github.com/datamapper/do) - An attempt to rewrite existing Ruby database drivers to conform to one, standard interface.
+* [DataObjects ★146 ⏳1Y](https://github.com/datamapper/do) - An attempt to rewrite existing Ruby database drivers to conform to one, standard interface.
 * [mongo-ruby-driver ★1321](https://github.com/mongodb/mongo-ruby-driver) - MongoDB Ruby driver.
 * [mysql2 ★1688](https://github.com/brianmario/mysql2) - A modern, simple and very fast Mysql library for Ruby (binding to libmysql).
 * [Neography ★607](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
@@ -534,7 +541,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [MailForm ★753](https://github.com/plataformatec/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 * [Mailman ★907](https://github.com/mailman/mailman) - An incoming mail processing microframework in Ruby.
 * [Maily ★240](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
-* [Markerb ★200 ⏳1Y](https://github.com/plataformatec/markerb) - Allows you to render multipart e-mails from a single template written in Markdown.
+* [Markerb ★200 ⏳2Y](https://github.com/plataformatec/markerb) - Allows you to render multipart e-mails from a single template written in Markdown.
 * [Pony ★1069](https://github.com/benprew/pony) - The express way to send mail from Ruby.
 * [premailer-rails ★1066](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
 * [Roadie ★1150](https://github.com/Mange/roadie) - Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails.

@@ -80,7 +80,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Library Boilerplate ★385 ⏳1Y](https://github.com/gaearon/library-boilerplate) An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader
     - [React Isomorphic Starterkit ★2334](https://github.com/RickWong/react-isomorphic-starterkit) Isomorphic starterkit with server-side React rendering having many features
     - [Coffee React Quickstart  ★255 ⏳1Y](https://github.com/KyleAMathews/coffee-react-quickstart) Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
-    - [Flask React Boilerplate ★292](https://github.com/alexkuz/flask-react-boilerplate) Flask and react Boilerplate
+    - [Flask React Boilerplate ★292 ⏳1Y](https://github.com/alexkuz/flask-react-boilerplate) Flask and react Boilerplate
     - [Boilerplate Webpack React ★46 ⏳1Y](https://github.com/tcoopman/boilerplate-webpack-react) Boilerplate project for Reactjs with webpack, gulp and stylus
     - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
     - [React Redux Universal Hot Example ★10699](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform

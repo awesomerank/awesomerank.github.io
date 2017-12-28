@@ -42,7 +42,9 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   - [Configuration](#configuration)
   - [Cryptography](#cryptography)
   - [Database](#database)
+  - [Data processing](#data-processing)
   - [Data structures](#data-structures)
+  - [Data visualization](#data-visualization)
   - [Date and time](#date-and-time)
   - [Distributed Systems](#distributed-systems)
   - [Email](#email)
@@ -100,7 +102,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * [parity-bitcoin ★292](https://github.com/paritytech/parity-bitcoin) — The Parity Bitcoin client [<img src="https://api.travis-ci.org/paritytech/parity-bitcoin.svg?branch=master">](https://travis-ci.com/paritytech/parity-bitcoin)
 * [Pijul](https://pijul.org) — a patch-based distributed version control system
 * [qmx/limonite ★26](https://github.com/qmx/limonite) — static blog/website generator [<img src="https://api.travis-ci.org/qmx/limonite.svg?branch=master">](https://travis-ci.org/qmx/limonite)
-* [quadrupleslap/leven ★19](https://github.com/quadrupleslap/leven) [[leven](https://crates.io/crates/leven)] — a simple, parallelized blog generator. [<img src="https://api.travis-ci.org/quadrupleslap/leven.svg?branch=master">](https://travis-ci.org/quadrupleslap/leven)
+* [quadrupleslap/leven ★40](https://github.com/quadrupleslap/leven) [[leven](https://crates.io/crates/leven)] — a simple, parallelized blog generator. [<img src="https://api.travis-ci.org/quadrupleslap/leven.svg?branch=master">](https://travis-ci.org/quadrupleslap/leven)
 * [Sandstorm Collections App ★11](https://github.com/sandstorm-io/collections-app)
 * [Servo ★10768](https://github.com/servo/servo) — a prototype web browser engine
 * [Weld ★34](https://github.com/serayuzgur/weld) — Full fake REST API generator [<img src="https://api.travis-ci.org/serayuzgur/weld.svg">](https://travis-ci.org/serayuzgur/weld)
@@ -142,6 +144,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
   * [cristicbz/rust-doom ★1596](https://github.com/cristicbz/rust-doom) - A renderer for Doom, may progress to being a playable game [<img src="https://api.travis-ci.org/cristicbz/rust-doom.svg?branch=master">](https://travis-ci.org/cristicbz/rust-doom)
   * [Thinkofname/rust-quake ★5](https://github.com/Thinkofname/rust-quake) - Quake map renderer in Rust
 * **Graphics**
+  * [Limeth/euclider ★19](https://github.com/Limeth/euclider) — a real-time 4D CPU ray tracer [<img src="https://api.travis-ci.org/Limeth/euclider.svg?branch=master">](https://travis-ci.org/Limeth/euclider)
   * [ivanceras/svgbobrus ★448](https://github.com/ivanceras/svgbobrus) — converts ASCII diagrams into SVG graphics [<img src="https://api.travis-ci.org/ivanceras/svgbobrus.svg">](https://travis-ci.org/ivanceras/svgbobrus)
   * [RazrFalcon/svgcleaner ★521](https://github.com/RazrFalcon/svgcleaner) — tidies SVG graphics
   * [Twinklebear/tray_rust ★241](https://github.com/Twinklebear/tray_rust) — a ray tracer [<img src="https://api.travis-ci.org/Twinklebear/tray_rust.svg">](https://travis-ci.org/Twinklebear/tray_rust)
@@ -576,6 +579,13 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
   * [ivanceras/rustorm ★173](https://github.com/ivanceras/rustorm) — an ORM for Rust [![Build Status](https://api.travis-ci.org/ivanceras/rustorm.svg)](https://travis-ci.org/ivanceras/rustorm)
 
 
+### Data processing
+
+* [bluss/rust-ndarray ★398](https://github.com/bluss/rust-ndarray) — N-dimensional array with array views, multidimensional slicing, and efficient operations
+* [kernelmachine/utah ★50 ⏳1Y](https://github.com/kernelmachine/utah) — Dataframe structure and operations in Rust
+* [weld-project/weld ★737](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications
+
+
 ### Data structures
 
 * [bluss/rust-itertools ★350](https://github.com/bluss/rust-itertools) — [<img src="https://api.travis-ci.org/bluss/rust-itertools.svg?branch=master">](https://travis-ci.org/bluss/rust-itertools)
@@ -584,6 +594,10 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
 * [fizyk20/generic-array ★65](https://github.com/fizyk20/generic-array) – a hack to allow for arrays sized by typenums [<img src="https://api.travis-ci.org/fizyk20/generic-array.svg?branch=master">](https://travis-ci.org/fizyk20/generic-array)
 * [Nemo157/roaring-rs ★49](https://github.com/Nemo157/roaring-rs) – Roaring Bitmaps in Rust [<img src="https://api.travis-ci.org/Nemo157/roaring-rs.svg?branch=master">](https://travis-ci.org/Nemo157/roaring-rs)
 * [reem/rust-typemap ★74](https://github.com/reem/rust-typemap) — [<img src="https://api.travis-ci.org/reem/rust-typemap.svg?branch=master">](https://travis-ci.org/reem/rust-typemap)
+
+### Data Visualization
+
+* [saresend/gust ★45](https://github.com/saresend/Gust) - [<img src="https://api.travis-ci.org/saresend/Gust.svg?branch=master">](https://travis-ci.org/saresend/Gust)
 
 
 ### Date and time
@@ -909,7 +923,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Text processing
 
-* [BurntSushi/suffix ★75](https://github.com/BurntSushi/suffix) — Linear time suffix array construction (with Unicode support) [<img src="https://api.travis-ci.org/BurntSushi/suffix.svg?branch=master">](https://travis-ci.org/BurntSushi/suffix)
+* [BurntSushi/suffix ★75 ⏳1Y](https://github.com/BurntSushi/suffix) — Linear time suffix array construction (with Unicode support) [<img src="https://api.travis-ci.org/BurntSushi/suffix.svg?branch=master">](https://travis-ci.org/BurntSushi/suffix)
 * [BurntSushi/tabwriter ★68](https://github.com/BurntSushi/tabwriter) — Elastic tab stops (i.e., text column alignment) [<img src="https://api.travis-ci.org/BurntSushi/tabwriter.svg?branch=master">](https://travis-ci.org/BurntSushi/tabwriter)
 * [mgeisler/textwrap ★18](https://github.com/mgeisler/textwrap) [[textwrap](https://crates.io/crates/textwrap)] — Word wrap text (with support for hyphenation) [<img src="https://api.travis-ci.org/mgeisler/textwrap.svg?branch=master">](https://travis-ci.org/mgeisler/textwrap)
 * [pwoolcoc/ngrams ★9 ⏳1Y](https://github.com/pwoolcoc/ngrams) — Construct [n-grams](https://en.wikipedia.org/wiki/N-gram) from arbitrary iterators [<img src="https://api.travis-ci.org/pwoolcoc/ngrams.svg?branch=master">](https://travis-ci.org/pwoolcoc/ngrams)

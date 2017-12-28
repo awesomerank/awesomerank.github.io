@@ -100,7 +100,7 @@ Projects that are built with Vue.js and Ant Design.
 - [atui]( https://github.com/aliqin/atui) - A Vue.js 2.0 UI Toolkit for Web based on Ant Design
 - [Ant Design of Vue.js](http://okoala.github.io/vue-antd/#!/components) - Vue.js UI components for Ant Design.
 - [Vue.js Beauty ★1143](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design.
-- [Vue.js Ant UI ★28](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js.
+- [Vue.js Ant UI ★28 ⏳1Y](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js.
 - [Ant Design Vue ★8](https://github.com/lileilei/Ant-design-vue) - Vue.js version of Ant Design.
 
 ## Components

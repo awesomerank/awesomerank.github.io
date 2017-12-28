@@ -225,8 +225,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Open-source sites
 
-- [bakerydemo ★40](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
-- [wagtaildemo ★271](https://github.com/wagtail/wagtaildemo) – An example site implemented with Wagtail.
+- [bakerydemo ★50](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
+- [wagtaildemo ★274](https://github.com/wagtail/wagtaildemo) – An example site implemented with Wagtail.
 - [Torchbox ★24](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
 - [Made with Wagtail ★33](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
 - [OpenCanada.org ★6](https://github.com/OpenCanada/website) – The opencanada.org website source.

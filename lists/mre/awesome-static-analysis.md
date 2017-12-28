@@ -68,7 +68,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) :copyright: - identifies run-time errors, concurrency issues, security vulnerabilities, and other defects in C and C++ embedded software.
 * [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) :copyright: - provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in C and C++ source code.
 * [scan-build](https://clang-analyzer.llvm.org/scan-build.html) - Analyzes C/C++ code using LLVM at compile-time
-* [splint ★49](https://github.com/ravenexp/splint) - Annotation-assisted static program checker
+* [splint ★50](https://github.com/ravenexp/splint) - Annotation-assisted static program checker
 * [tis-interpreter ★391 ⏳1Y](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
 * [vera++](https://bitbucket.org/verateam/vera/wiki/Introduction) - Vera++ is a programmable tool for verification, analysis and transformation of C++ source code.
 
@@ -212,33 +212,44 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 ## PHP
 
 * [dephpend ★223](https://github.com/mihaeu/dephpend) - Dependency analysis tool
+* [deprecation-detector ★323](https://github.com/sensiolabs-de/deprecation-detector) - Finds usages of deprecated (Symfony) code
 * [deptrac ★565](https://github.com/sensiolabs-de/deptrac) - Enforce rules for dependencies between software layers.
 * [DesignPatternDetector ★78](https://github.com/Halleck45/DesignPatternDetector) - detection of design patterns in PHP code
 * [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - combine [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer ★5157](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 * [exakat ★103](https://github.com/exakat/exakat) - An automated code reviewing engine for PHP
 * [GrumPHP ★2036](https://github.com/phpro/grumphp) - checks code on every commit
 * [Mondrian ★343 ⏳2Y](https://github.com/Trismegiste/Mondrian) - a set of static analysis and refactoring tools which use graph theory
+* [parallel-lint ★344](https://github.com/JakubOnderka/PHP-Parallel-Lint) - This tool checks syntax of PHP files faster than serial check with a fancier output.
 * [Parse ★172](https://github.com/psecio/parse) - A Static Security Scanner
+* [pdepend](https://pdepend.org/) - Calculates software metrics like cyclomatic complexity for PHP code.
 * [phan](https://github.com/etsy/phan) - a modern static analyzer from etsy
+* [PHP Assumptions ★56](https://github.com/rskuipers/php-assumptions) - Checks for weak assumptions
+* [PHP Coding Standards Fixer](http://cs.sensiolabs.org/) - Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.
 * [Php Inspections (EA Extended) ★519](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP.
 * [PHP Refactoring Browser ★551](https://github.com/QafooLabs/php-refactoring-browser) - Refactoring helper
+* [PHP Semantic Versioning Checker ★373](https://github.com/tomzx/php-semver-checker) - Suggests a next version according to semantic versioning
 * [PHP-Parser ★3170](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 * [PHP-Token-Reflection ★186 ⏳1Y](https://github.com/Andrewsville/PHP-Token-Reflection) - Library emulating the PHP internal reflection
 * [php7cc ★1233](https://github.com/sstalle/php7cc) - PHP 7 Compatibility Checker
 * [php7mar ★506](https://github.com/Alexia/php7mar) - assist developers in porting their code quickly to PHP 7
 * [PHP_CodeSniffer ★4167](https://github.com/squizlabs/PHP_CodeSniffer) - detects violations of a defined set of coding standards
-* [phpcpd ★1349](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code.
+* [phpca ★56](https://github.com/wapmorgan/PhpCodeAnalyzer) - Finds usage of non-built-in extensions
+* [phpcf](http://wapmorgan.github.io/PhpCodeFixer/) - Finds usage of deprecated PHP features
+* [phpcpd ★1349](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector for PHP code.
 * [phpdcd ★351 ⏳2Y](https://github.com/sebastianbergmann/phpdcd) - Dead Code Detector (DCD) for PHP code.
 * [PhpDependencyAnalysis ★288](https://github.com/mamuz/PhpDependencyAnalysis) - builds a dependency graph for a project
 * [phpdoc-to-typehint ★206](https://github.com/dunglas/phpdoc-to-typehint) - Add scalar type hints and return types to existing PHP projects using PHPDoc annotations
+* [phpDocumentor](https://www.phpdoc.org/) - Analyzes PHP source code to generate documentation
 * [PHPMD](https://phpmd.org/) - finds possible bugs in your code
-* [PhpMetrics](https://github.com/Halleck45/PhpMetrics) - calculates code complexity metrics
+* [PhpMetrics](http://www.phpmetrics.org/) - Calculates and visualizes various code quality metrics
+* [phpmnd ★187](https://github.com/povils/phpmnd) - Helps to detect magic numbers
 * [PHPQA ★185](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics)
 * [phpqa ★329](https://github.com/jmolivas/phpqa) - PHPQA all-in-one Analyzer CLI tool
 * [phpsa ★621](https://github.com/ovr/phpsa) - Static analysis tool for PHP.
 * [PHPStan ★2751](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 * [Progpilot ★7](https://github.com/designsecurity/progpilot) - A static analysis tool for security purposes
-* [Psalm ★547](https://github.com/vimeo/psalm) - Static analysis tool for finding errors in PHP applications
+* [Psalm](https://getpsalm.org/) - Static analysis tool for finding type errors in PHP applications
+* [Qafoo Quality Analyzer ★414](https://github.com/Qafoo/QualityAnalyzer) - Visualizes metrics and source code
 * [RIPS ★154 ⏳1Y](https://github.com/ripsscanner/rips) - A static source code analyser for vulnerabilities in PHP scripts
 * [Tuli ★169 ⏳2Y](https://github.com/ircmaxell/Tuli) - A static analysis engine
 * [twig-lint ★75](https://github.com/asm89/twig-lint) - twig-lint is a lint tool for your twig files.
@@ -258,7 +269,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [pylint ★931](https://github.com/PyCQA/pylint) - looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes `pyreverse` (an UML diagram generator) and `symilar` (a similarities checker).
 * [pyroma ★26](https://github.com/regebro/pyroma) - rate how well a Python project complies with the best practices of the Python packaging ecosystem, and list issues that could be improved
 * [PyT - Python Taint ★659](https://github.com/python-security/pyt) - A static analysis tool for detecting security vulnerabilities in Python web applications.
-* [vulture ★148](https://github.com/jendrikseipp/vulture) - find unused classes, functions and variables in Python code
+* [vulture ★158](https://github.com/jendrikseipp/vulture) - find unused classes, functions and variables in Python code
 * [xenon](https://github.com/rubik/xenon) - monitor code complexity using [`radon` ★770](https://github.com/rubik/radon)
 
 ## Python wrappers
@@ -279,7 +290,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [flay ★506](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities.
 * [flog ★574](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 * [laser ★390 ⏳6Y](https://github.com/michaeledgar/laser) - Static analysis and style linter for Ruby code.
-* [pelusa ★445 ⏳2Y](https://github.com/codegram/pelusa) - Static analysis Lint-type tool to improve your OO Ruby code
+* [pelusa ★445 ⏳3Y](https://github.com/codegram/pelusa) - Static analysis Lint-type tool to improve your OO Ruby code
 * [quality ★131](https://github.com/apiology/quality) - Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 * [reek ★2575](https://github.com/troessner/reek) - Code smell detector for Ruby
 * [rubocop ★8341](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.

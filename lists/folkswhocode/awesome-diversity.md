@@ -23,6 +23,7 @@ This list contains a variety of resources on diversity, more specifically divers
 - [Posts](#posts)
 - [Talks](#talks)
 - [Advocates](#advocates)
+- [Books](#books)
 
 ## Organizations
 
@@ -46,6 +47,7 @@ Organizations bringing diversity to tech.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) - Open Sourcing Mental Illness is a non-profit corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
 - [ParadigmIQ](https://www.paradigmiq.com/) - Paradigm offers a range of workshops, training and assessments aiding in diversity, inclusion, belonging, retention and more.
 - [People Of Creativity](http://www.peopleofcreativity.xyz/) - Organization that focuses on creating a community that shares opportunities, experiences and ideas ultimately bettering the representation of minorities throughout creative industries.
+- [PHP Women](http://phpwomen.org) - An inclusive & global network providing support within the PHP community.
 - [Ping a Programadoras](https://pingprogramadoras.org/) - Group of women and people of non-binary gender whose purposes are the reflection and empowerment in the field of technology.
 - [Project Include](http://projectinclude.org/) - Non-profit organization that uses data and advocacy to accelerate diversity and inclusion solutions in the tech industry.
 - [PyLadies](http://www.pyladies.com/) - International mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
@@ -149,6 +151,12 @@ Talks and presentations about diversity, consensual software and safe communitie
 People who publicly support and empower underrepresented groups in tech.
 
 - [FolksWhoCode](https://github.com/folkswhocode) - Organization which aims for a more rich and diverse tech community.
+
+## Books
+
+Books that offer deep insights on diversity and inclusiveness in technology.
+
+- [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](http://www.sarawb.com/technically-wrong/) - An unflinching look at the values, processes, and assumptions that lead to oversights, biases, and ethical nightmares.
 
 ## Contributing
 

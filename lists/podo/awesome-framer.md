@@ -157,7 +157,7 @@ title: Awesome Rank for podo/awesome-framer
 * [FocusEngine ★9](https://github.com/bpxl-labs/FocusEngine) - Module for simulating the grid focus behavior found on Apple TV and Roku.
 * [MapboxLayer ★12](https://github.com/bpxl-labs/MapboxLayer) - Module for creating powerful Mapbox maps in your prototypes.
 * [Framer Sheet ★13](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer.
-* [FramerAudio ★38](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
+* [FramerAudio ★40](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 * [Framer Slider ★31](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated.
 * [framer-Symbols ★35](https://github.com/der-lukas/framer-Symbols) - Module to create symbols in Framer.
 

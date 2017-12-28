@@ -154,7 +154,7 @@ For Database Management
 * [PostgREST ★9998](https://github.com/begriffs/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
 * [pREST ★1538](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 * [PostGraphQL ★4437](https://github.com/postgraphql/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema.
-* [yoke ★1358 ⏳1Y](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery.
+* [yoke ★1358 ⏳2Y](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery.
 * [pglistend ★10](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
 * [ZSON ★252](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 * [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL. 

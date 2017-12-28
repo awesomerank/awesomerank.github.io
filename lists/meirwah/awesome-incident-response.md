@@ -147,7 +147,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Cortex](https://thehive-project.org) - Cortex allows you to analyze observables such as IP and email addresses, URLs, domain names, files or hashes one by one or in bulk mode using a Web interface. Analysts can also automate these operations using its REST API.
 * [Crits](https://crits.github.io/) - a web-based tool which combines an analytic engine with a cyber threat database 
 * [domfind ★3](https://github.com/diogo-fernan/domfind) - *domfind* is a Python DNS crawler for finding identical domain names under different TLDs.
-* [DumpsterFire ★280](https://github.com/TryCatchHCF/DumpsterFire) - The DumpsterFire Toolset is a modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
+* [DumpsterFire ★337](https://github.com/TryCatchHCF/DumpsterFire) - The DumpsterFire Toolset is a modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
 * [Fenrir ★112](https://github.com/Neo23x0/Fenrir) - Fenrir is a simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI
 * [Fileintel ★52](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash
 * [Hindsight ★220](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
@@ -193,7 +193,7 @@ A curated list of tools and resources for security incident response, aimed to h
 ### Timeline tools
 
 * [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html) - Free Tool available from Fire/Mandiant that will depict log/text file that can highlight areas on the graphic, that corresponded to a key word or phrase. Good for time lining an infection and what was done post compromise
-* [Morgue ★607](https://github.com/etsy/morgue) - A PHP Web app by Etsy for managing postmortems.
+* [Morgue ★621](https://github.com/etsy/morgue) - A PHP Web app by Etsy for managing postmortems.
 * [Plaso ★461](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline
 * [Timesketch ★739](https://github.com/google/timesketch) - open source tool for collaborative forensic timeline analysis
 

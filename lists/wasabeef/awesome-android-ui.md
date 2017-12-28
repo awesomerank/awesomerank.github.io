@@ -109,14 +109,14 @@ Name | License | Demo
 [AndroidSlidingUpPanel ★7040](https://github.com/umano/AndroidSlidingUpPanel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidSlidingUpPanel.jpg" width="100%">
 [android-transition ★564](https://github.com/kaichunlin/android-transition) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-transition.gif" width="49%">
 [CircleRefreshLayout ★1604](https://github.com/tuesda/CircleRefreshLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/CircleRefreshLayout.gif" width="49%">
-[WaveSwipeRefreshLayout ★1685](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/WaveSwipeRefreshLayout.gif" width="49%">
+[WaveSwipeRefreshLayout ★1685 ⏳1Y](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/WaveSwipeRefreshLayout.gif" width="49%">
 [FloatingView ★828](https://github.com/recruit-lifestyle/FloatingView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FloatingView.gif" width="49%">
 [FrenchToast ★364 ⏳2Y](https://github.com/pyricau/frenchtoast) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/frenchtoast.gif" width="49%">
 [AndroidSweetSheet ★1823 ⏳1Y](https://github.com/zzz40500/AndroidSweetSheet) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidSweetSheet.gif" width="100%">
 [FABRevealLayout ★766](https://github.com/truizlop/FABRevealLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FABRevealLayout.gif" width="49%">
 [ToggleExpandLayout ★777](https://github.com/fenjuly/ToggleExpandLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ToggleExpandLayout.gif" width="49%">
 [FlowingDrawer ★1996](https://github.com/mxn21/FlowingDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlowingDrawer.gif" width="65%">
-[WaveView ★1145](https://github.com/gelitenight/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/gelitenight-WaveView.gif" width="65%">
+[WaveView ★1145 ⏳1Y](https://github.com/gelitenight/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/gelitenight-WaveView.gif" width="65%">
 [FoldableLayout ★525 ⏳2Y](https://github.com/worldline/FoldableLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FoldableLayout.gif" width="49%">
 [TriangleLabelView ★664 ⏳1Y](https://github.com/shts/TriangleLabelView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TriangleLabelView.jpg" width="49%">
 [FlexboxLayout ★10069](https://github.com/google/flexbox-layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlexboxLayout.gif" width="49%"> <img src="/art/FlexboxLayout2.gif" width="49%">
@@ -166,7 +166,7 @@ Name | License | Demo
 [MaterialRecents ★440](https://github.com/ZieIony/MaterialRecents) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialRecents.gif" width="49%">
 [Dividers ★488 ⏳2Y](https://github.com/Karumi/Dividers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Dividers.gif" width="49%">
 [Drag Select Recycler View ★1177](https://github.com/afollestad/drag-select-recyclerview) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/drag-select-recyclerview.gif" width="49%" />
-[sticky-headers-recyclerview ★3097](https://github.com/timehop/sticky-headers-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/sticky-headers-recyclerview.gif" width="49%">
+[sticky-headers-recyclerview ★3097 ⏳1Y](https://github.com/timehop/sticky-headers-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/sticky-headers-recyclerview.gif" width="49%">
 
 ViewPager
 ======================
@@ -376,7 +376,7 @@ Name | License | Demo
 [DrawableView ★484](https://github.com/PaNaVTEC/DrawableView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/DrawableView.gif" width="49%">
 [Material Shadow 9-Patch ★448 ⏳1Y](https://github.com/h6ah4i/android-materialshadowninepatch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-materialshadowninepatch.png" width="49%">
 [SimpleFingerGestures ★246](https://github.com/championswimmer/SimpleFingerGestures_Android_Library) | [Apache License v2](https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/LICENSE) | <img src="/art/SimpleFingerGestures1.gif" width="49%"> <img src="/art/SimpleFingerGestures2.gif" width="49%"> <img src="/art/SimpleFingerGestures3.gif" width="49%"> <img src="/art/SimpleFingerGestures4.gif" width="49%">
-[Decor ★303](https://github.com/chemouna/decor) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/decor.png" width="49%">
+[Decor ★303 ⏳1Y](https://github.com/chemouna/decor) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/decor.png" width="49%">
 [Voice Recording Visualizer ★435 ⏳2Y](https://github.com/tyorikan/voice-recording-visualizer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [![IMAGE demo](http://img.youtube.com/vi/fJTl1bgQ3j4/0.jpg)](https://www.youtube.com/watch?v=fJTl1bgQ3j4)
 [EasyFonts ★370](https://github.com/vsvankhede/easyfonts) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/art/easyfonts.png" width="100%">
 [Android Sliding Activity Library ★1157](https://github.com/klinker41/android-slidingactivity) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-slidingactivity.gif" width="49%"> <img src="/art/android-slidingactivity2.gif" width="49%">

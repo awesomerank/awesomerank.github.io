@@ -247,7 +247,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * https://github.com/hrp/sequel-hive-adapter
      * https://github.com/forward/node-hive
      * https://github.com/recruitcojp/WebHive
-     * [shib ★152](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto
+     * [shib ★152 ⏳1Y](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto
      * [clive ★4 ⏳5Y](https://github.com/bmuller/clive) - Clojure library for interacting with Hive via Thrift
      * https://github.com/dmorel/Thrift-API-HiveClient2 (Perl - HiveServer2)
      * [PyHive ★549](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto
@@ -262,7 +262,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
  * [Flume MessagePack Source ★0 ⏳4Y](https://github.com/leonlee/flume-ng-msgpack-source)
  * [Flume RabbitMQ source and sink ★53](https://github.com/jcustenborder/flume-ng-rabbitmq)
  * [Flume UDP Source ★8 ⏳3Y](https://github.com/whitepages/flume-udp-source)
- * [Stratio Ingestion ★139](https://github.com/Stratio/Ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
+ * [Stratio Ingestion ★139 ⏳1Y](https://github.com/Stratio/Ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
  * [Flume Custom Serializers ★5 ⏳4Y](https://github.com/relistan/flume-serializers)
  * [Real-time analytics in Apache Flume ★44 ⏳1Y](https://github.com/jrkinley/flume-interceptor-analytics)
  * [.Net FlumeNG Clients ★16 ⏳3Y](https://github.com/marksl/DotNetFlumeNG.Clients)

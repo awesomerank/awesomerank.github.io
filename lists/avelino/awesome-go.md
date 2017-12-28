@@ -151,7 +151,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for building standard or basic Command Line applications.*
 
-* [argparse ★1](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
+* [argparse ★10](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 * [argv ★3](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
 * [cli ★320](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 * [cli ★18](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
@@ -317,7 +317,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [darwin ★51](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
 * [go-fixtures ★4](https://github.com/RichardKnop/go-fixtures) - Django style fixtures for Golang's excellent built-in database/sql library.
-* [gondolier ★5](https://github.com/emvicom/gondolier) - Gondolier is a library to auto migrate database schemas using structs.
+* [gondolier ★11](https://github.com/emvicom/gondolier) - Gondolier is a library to auto migrate database schemas using structs.
 * [goose ★54 ⏳1Y](https://github.com/steinbacher/goose) - Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts.
 * [gormigrate ★72](https://github.com/go-gormigrate/gormigrate) - Database schema migration helper for Gorm ORM.
 * [migrate ★1793](https://github.com/mattes/migrate) - Database migrations. CLI and Golang library.
@@ -411,7 +411,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [durafmt ★167](https://github.com/hako/durafmt) - Time duration formatting library for Go.
 * [feiertage ★8](https://github.com/wlbr/feiertage) - Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving...
 * [go-persian-calendar ★29 ⏳1Y](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
-* [go-sunrise ★1](https://github.com/nathan-osman/go-sunrise) - Calculate the sunrise and sunset times for a given location.
+* [go-sunrise ★2](https://github.com/nathan-osman/go-sunrise) - Calculate the sunrise and sunset times for a given location.
 * [goweek ★12](https://github.com/grsmv/goweek) - Library for working with week entity in golang.
 * [now ★1040](https://github.com/jinzhu/now) - Now is a time toolkit for golang.
 * [NullTime ★4](https://github.com/kirillDanshin/nulltime) - Nullable `time.Time`.
@@ -699,7 +699,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 *Libraries for Machine Learning.*
 
 * [bayesian ★514](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
-* [CloudForest ★565](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
+* [CloudForest ★565 ⏳1Y](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 * [fonet ★4](https://github.com/Fontinalis/fonet) - A Deep Neural Network library written in Go.
 * [gago ★397](https://github.com/MaxHalford/gago) - Multi-population, flexible, parallel genetic algorithm.
 * [go-cluster ★8](https://github.com/e-XpertSolutions/go-cluster) - Go implementation of the k-modes and k-prototypes clustering algorithms.
@@ -809,7 +809,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [uuid ★3](https://github.com/agext/uuid) - Generate, encode, and decode UUIDs v1 with fast or cryptographic-quality random node identifier.
 * [VarHandler](https://github.com/azr/generators/tree/master/varhandler) - Generate boilerplate http input and ouput handling.
 * [werr ★5 ⏳1Y](https://github.com/txgruppi/werr) - Error Wrapper creates an wrapper for the error type in Go which captures the File, Line and Stack of where it was called.
-* [xkg ★28 ⏳2Y](https://github.com/go-xkg/xkg) - X Keyboard Grabber.
+* [xkg ★28 ⏳3Y](https://github.com/go-xkg/xkg) - X Keyboard Grabber.
 * [xstrings ★411](https://github.com/huandu/xstrings) - Collection of useful string functions ported from other languages.
 
 ## Natural Language Processing
@@ -882,7 +882,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [mdns ★367](https://github.com/hashicorp/mdns) - Simple mDNS (Multicast DNS) client/server library in Golang.
 * [mqttPaho](https://eclipse.org/paho/clients/golang/) - The Paho Go Client provides an MQTT client library for connection to MQTT brokers via TCP, TLS or WebSockets.
 * [portproxy ★32 ⏳3Y](https://github.com/aybabtme/portproxy) - Simple TCP proxy which adds CORS support to API's which don't support it.
-* [publicip ★12](https://github.com/polera/publicip) - Package publicip returns your public facing IPv4 address (internet egress).
+* [publicip ★12 ⏳1Y](https://github.com/polera/publicip) - Package publicip returns your public facing IPv4 address (internet egress).
 * [raw ★129](https://github.com/mdlayher/raw) - Package raw enables reading and writing data at the device driver level for a network interface.
 * [sftp ★428](https://github.com/pkg/sftp) - Package sftp implements the SSH File Transfer Protocol as described in https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt.
 * [ssh ★566](https://github.com/gliderlabs/ssh) - Higher-level API for building SSH servers (wraps crypto/ssh).
@@ -948,7 +948,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 ## Query Language
 
 * [graphql ★43](https://github.com/tmc/graphql) - graphql parser + utilities.
-* [graphql ★34 ⏳1Y](https://github.com/sevki/graphql) - GraphQL implementation in go.
+* [graphql ★34 ⏳2Y](https://github.com/sevki/graphql) - GraphQL implementation in go.
 * [graphql ★920](https://github.com/neelance/graphql-go) - GraphQL server with a focus on ease of use.
 * [graphql-go ★2255](https://github.com/graphql-go/graphql) - Implementation of GraphQL for Go.
 * [jsonql ★116](https://github.com/elgs/jsonql) - JSON query expression library in Golang.
@@ -1005,7 +1005,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
   provision Let's Encrypt certificates and start a TLS server.
 * [BadActor ★211](https://github.com/jaredfolkins/badactor) - In-memory, application-driven jailer built in the spirit of fail2ban.
 * [go-yara](https://github.com/hillu/go-yara) - Go Bindings for [YARA ★58 ⏳1Y](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
-* [goSecretBoxPassword ★5](https://github.com/dwin/goSecretBoxPassword) - A probably paranoid package for securely hashing and encrypting passwords.
+* [goSecretBoxPassword ★7](https://github.com/dwin/goSecretBoxPassword) - A probably paranoid package for securely hashing and encrypting passwords.
 * [lego ★2198](https://github.com/xenolf/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
 * [memguard ★686](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
 * [nacl ★336](https://github.com/kevinburke/nacl) - Go implementation of the NaCL set of API's.
@@ -1347,7 +1347,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [spinner ★398](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options.
 * [sqlx ★3617](https://github.com/jmoiron/sqlx) - provides a set of extensions on top of the excellent built-in database/sql package.
 * [Storm ★726](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB.
-* [structs ★1](https://github.com/PumpkinSeed/structs) - Implement simple functions to manipulate structs.
+* [structs ★2](https://github.com/PumpkinSeed/structs) - Implement simple functions to manipulate structs.
 * [Task ★430](https://github.com/go-task/task) - simple "Make" alternative.
 * [toolbox ★11](https://github.com/viant/toolbox) - Slice, map, multimap, struct, function, data conversion utilities. Service router, macro evaluator, tokenizer.
 * [ugo ★14 ⏳1Y](https://github.com/alxrm/ugo) - ugo is slice toolbox with concise syntax for Go.
@@ -1555,7 +1555,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-pkg-complete ★31](https://github.com/skelterjohn/go-pkg-complete) - Bash completion for go and wgo.
 * [go-swagger ★1714](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API.
 * [OctoLinker ★2411](https://github.com/OctoLinker/browser-extension) - Navigate through go files efficiently with the OctoLinker browser extension for GitHub.
-* [richgo ★216](https://github.com/kyoh86/richgo) - Enrich `go test` outputs with text decorations.
+* [richgo ★226](https://github.com/kyoh86/richgo) - Enrich `go test` outputs with text decorations.
 * [rts ★152 ⏳1Y](https://github.com/galeone/rts) - RTS: response to struct. Generates Go structs from server responses.
 
 ## Software Packages
@@ -1647,7 +1647,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [Seaweed File System ★4871](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 * [shell2http ★166](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 * [snap ★1631](https://github.com/intelsdi-x/snap) - Powerful telemetry framework.
-* [Snitch ★13](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
+* [Snitch ★14](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 * [Stack Up ★1599](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 * [syncthing](https://syncthing.net/) - Open, decentralized file synchronization tool and protocol.
 * [Tenyks ★162](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.

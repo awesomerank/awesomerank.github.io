@@ -239,7 +239,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [PHP Domain Parser ★465](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
 * [Purl ★732](https://github.com/jwage/purl) - A URL manipulation library.
-* [sabre/uri ★119](https://github.com/sabre-io/uri) - A functional URI manipulation library.
+* [sabre/uri ★127](https://github.com/sabre-io/uri) - A functional URI manipulation library.
 * [Uri ★251](https://github.com/thephpleague/uri) - Another URL manipulation library.
 
 ## Email
@@ -257,7 +257,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Files
 *Libraries for file manipulation and MIME type detection.*
 
-* [Apache MIME Types ★44](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
+* [Apache MIME Types ★44 ⏳1Y](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
 * [Canal ★29 ⏳4Y](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
 * [CSV ★1323](https://github.com/thephpleague/csv) - A CSV data manipulation library.
 * [Ferret ★19 ⏳3Y](https://github.com/versionable/Ferret) - A MIME detection library.
@@ -361,7 +361,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP SSH ★296](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
 * [random_compat ★517](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
-* [RandomLib ★644](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
+* [RandomLib ★644 ⏳1Y](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
 * [SecurityMultiTool ★118 ⏳1Y](https://github.com/padraic/SecurityMultiTool) - A PHP security library.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependencies for security advisories.
 * [TCrypto ★52 ⏳1Y](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
@@ -813,7 +813,7 @@ Libraries to help manage database schemas and migrations.
 * [Procrastinator ★45](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
 * [Prooph Service Bus ★299](https://github.com/prooph/service-bus) - Lightweight message bus supporting CQRS and Micro Services
 * [RMT ★356](https://github.com/liip/RMT) - A library for versioning and releasing software.
-* [sabre/vobject ★352](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+* [sabre/vobject ★356](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 * [Slimdump ★43](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 * [Spork ★581 ⏳1Y](https://github.com/kriswallsmith/spork) - A process forking library.
 * [Sslurp ★61 ⏳2Y](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.

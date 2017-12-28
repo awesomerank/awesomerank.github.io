@@ -387,7 +387,7 @@ Additional lists you might find useful:
 - [CodeSniffer plugin ★15 ⏳1Y](https://github.com/dereuromark/cakephp-codesniffer) - Auto-find code issues/smells and auto-fix CS errors.
 - [CodeSniffer plugin sniffs ★0 ⏳3Y](https://github.com/dereuromark/codesniffer-standards) - Sniff packages/rules compatible with phpcs-fixer branch and the CodeSniffer plugin.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker ★12187](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
-- [Fixtures plugin ★1](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
+- [Fixtures plugin ★1 ⏳1Y](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
 - [FriendsOfCake/fixturize ★15](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
 - [Gourmet/Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin ★434](https://github.com/thephpleague/factory-muffin) support for CakePHP fixture records.
 

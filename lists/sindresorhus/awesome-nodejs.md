@@ -402,7 +402,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [pify ★748](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
 	- [delay ★168](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 	- [promise-memoize ★18](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
-	- [valvelet ★12](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
+	- [valvelet ★12 ⏳1Y](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
 	- [p-map ★143](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
 	- [More…](https://github.com/wbinnssmith/awesome-promises)
 - Observables

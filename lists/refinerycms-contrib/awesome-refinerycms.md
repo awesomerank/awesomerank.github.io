@@ -23,7 +23,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [refinerycms-videos ★3](https://github.com/bisscomm/refinerycms-videos) - Basic display of Youtube videos
 
 ## Backoffice extensions
-* [refinerycms-dynamicfields ★14 ⏳1Y](https://github.com/jfalameda/refinerycms-dynamicfields) - Create models dynamically and attach them to pages
+* [refinerycms-dynamicfields ★14 ⏳2Y](https://github.com/jfalameda/refinerycms-dynamicfields) - Create models dynamically and attach them to pages
 * [refinerycms-page-resources ★6](https://github.com/anitagraham/refinerycms-page-resources) - Attach resources (files) to a Page
 * [refinerycms-redactor ★2 ⏳1Y](https://github.com/rabid/refinerycms-redactor) - WYSIWYG editor with [Redactor](https://imperavi.com/redactor/)
 * [refinerycms-resource-categories ★1 ⏳1Y](https://github.com/bisscomm/refinerycms-resource-categories) - Categorize resources

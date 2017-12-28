@@ -158,7 +158,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Animated-GIF-iPhone ★133 ⏳2Y](https://github.com/arturogutierrez/Animated-GIF-iPhone) - Support for Animated GIF on iOS
 - [UzysAnimatedGifPullToRefresh ★1409 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh using animated GIF to any scrollView
 - [SvGifView ★84 ⏳3Y](https://github.com/smileEvday/SvGifView) - iOS load and display GIF
-- [GifHUD ★159 ⏳2Y](https://github.com/cemolcay/GiFHUD) - iOS progress hud for displaying only animated GIF images
+- [GifHUD ★159 ⏳3Y](https://github.com/cemolcay/GiFHUD) - iOS progress hud for displaying only animated GIF images
 - [Video-Background GIF ★151 ⏳1Y](https://github.com/ElvinJin/Video-Background-GIF) - iOS Video Background GIF
 - [AnimatedGifExample ★40 ⏳7Y](https://github.com/kasatani/AnimatedGifExample) - iOS animated and transparent GIFs
 - [OLImageView ★872 ⏳2Y](https://github.com/dtorres/OLImageView) - iOS OLImage and OLImageView support for animated GIFs

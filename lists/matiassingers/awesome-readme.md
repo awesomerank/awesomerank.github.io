@@ -31,7 +31,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [Martinsos/edlib ★95](https://github.com/Martinsos/edlib) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
 - [node-chat ★397](https://github.com/IgorAntun/node-chat) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 - [NSRare/NSGIF ★760](https://github.com/NSRare/NSGIF) - Project logo. GIF Demo. Usage artwork. Usage code samples.
-- [php-censor/php-censor ★247](https://github.com/php-censor/php-censor) - Multiple badges, project logo, screenshots, step-by-step installing and upgrading instructions, TOC for easy navigation.
+- [php-censor/php-censor ★257](https://github.com/php-censor/php-censor) - Multiple badges, project logo, screenshots, step-by-step installing and upgrading instructions, TOC for easy navigation.
 - [rstacruz/hicat ★331 ⏳2Y](https://github.com/rstacruz/hicat) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
 - [ryanoasis/nerd-fonts ★6381](https://github.com/ryanoasis/nerd-fonts) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
 - [sebyddd/SDVersion ★1240](https://github.com/sebyddd/SDVersion) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.

@@ -104,8 +104,8 @@ Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list
  - [TMongoWire ★67](https://github.com/stijnsanders/TMongoWire) - Minimal community Delphi driver
 
 ### Elixir
- - [mongodb ★221](https://github.com/ankhers/mongodb) - Community Elixir driver
- - [mongodb_ecto ★241](https://github.com/ankhers/mongodb_ecto) - Adapter for the Ecto database wrapper
+ - [mongodb ★230](https://github.com/ankhers/mongodb) - Community Elixir driver
+ - [mongodb_ecto ★244](https://github.com/ankhers/mongodb_ecto) - Adapter for the Ecto database wrapper
 
 ### Erlang
  - [mongodb-erlang ★258](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver

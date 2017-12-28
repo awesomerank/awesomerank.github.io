@@ -71,7 +71,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Numsw ★87](https://github.com/sonsongithub/numsw) - A swift playground book that mimics some of the features of numpy and jupyter notebook.
 * [File Browser Playground ★185 ⏳1Y](https://github.com/steventroughtonsmith/files-playgroundbook) - Simple File Browser for Swift Playgrounds on iOS.
 * [Geometry with Swift ★1](https://github.com/dbbudd/Geometry-Swift-PlaygroundBook) - In this course your students will learn the fundamentals of Swift 3 programming, using geometry as their context for learning. 
-* [Image Filtering ★29](https://github.com/lennet/image-filtering) - A Swift playgroundbook about Image Filtering. 🌟
+* [Image Filtering ★30](https://github.com/lennet/image-filtering) - A Swift playgroundbook about Image Filtering. 🌟
 
 
 ## Learning Swift
@@ -98,7 +98,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Network Stack ★2](https://github.com/AndrejKolar/NetworkStack) - Clean & simple Swift networking stack playground.
 * [Swiftly Typed Resources ★73](https://github.com/jstart/Swiftly-Typed-Resources) - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with. ⏳
 * [Swift KVO Closures ★10 ⏳3Y](https://github.com/rectalogic/KVOPlayground) - Swift KVO playground. ⏳ 
-* [Swift Date Tutorial ★7 ⏳1Y](https://github.com/liuyubobobo/Swift-NSDate-Tutorial) - Learn everythig about NSDate. ⏳ 
+* [Swift Date Tutorial ★7 ⏳2Y](https://github.com/liuyubobobo/Swift-NSDate-Tutorial) - Learn everythig about NSDate. ⏳ 
 * [Swift And C ★4 ⏳2Y](https://github.com/MacMark/SwiftAndC) - Examples about using C with Swift. ⏳ 
 * [Swift Memory Management ★2 ⏳1Y](https://github.com/ndethore/swift-memory-management) - How to avoid retain cycles, from [this post](http://detho.re/2016/01/21/writing-memory-efficient-swift-code/). ⏳
 
@@ -108,7 +108,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [iOS Design Patterns ★21](https://github.com/haxpor/ios-design-patterns) - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [Design Patterns in Swift ★8886](https://github.com/ochococo/Design-Patterns-In-Swift) - Design patterns in Swift 3.
 * [GOF Swift ★13](https://github.com/SebastianBoldt/GOFSwift) - Learn all 23 Gang of Four patterns using Swift.
-* [The Principles of OOD in Swift 4 ★1264](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.🍁
+* [The Principles of OOD in Swift 4 ★1278](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.🍁
 
 ### Protocol Oriented Programming
 
@@ -147,11 +147,11 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Logician ★107](https://github.com/mdiep/Logician) - Logic programming in Swift. 🌟
 * [Function Composition in Swift ★45](https://github.com/ijoshsmith/function-composition-in-swift) - Exploration of function composition in Swift. 🌟
-* [Functional Debug View ★24](https://github.com/tomquist/DebugView) - Playground to visualize functional programming with graphical sequences. 🍁 🌟
+* [Functional Debug View ★25](https://github.com/tomquist/DebugView) - Playground to visualize functional programming with graphical sequences. 🍁 🌟
 * [Swift Adventures in Monad Land ★162 ⏳1Y](https://github.com/alskipp/Swift-Adventures-In-Monad-Land) - Learn about monads.
 * [Functional Design Patterns ★3](https://github.com/cmvicentehe/FunctionalProgrammingDesignPatterns) - A few functional programming concept and patterns.
 * [Learn about transducers ★78 ⏳3Y](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers. ⏳ 
-* [Swift Functors, Applicatives, and Monads in Pictures ★57](https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground) - Companion to the article: Swift Functors, Applicatves, and Monads in Pictures. ⏳ 
+* [Swift Functors, Applicatives, and Monads in Pictures ★57 ⏳1Y](https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground) - Companion to the article: Swift Functors, Applicatves, and Monads in Pictures. ⏳ 
 * [Functors in Swift ★7 ⏳2Y](https://github.com/mokagio/Swift-Functor-Introduction-Playground) - A playground to introduce Functors in Swift, and their practical usage. ⏳ 
 
 ### Algorithms and Data Structures
@@ -163,7 +163,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Julia Fractal Playground ★186](https://github.com/gongzhang/julia-set-playground#julia-set-playground) - A Swift playground that generates beautiful Julia set fractal images. 
 * [A Star ★4](https://github.com/Dev1an/A-Star) - Protocol oriented A* pathfinding algorithm implementation in Swift 4.🍁
 * [Sorting Algorithms ★1](https://github.com/bwide/Sorting-Algorithms-Playground) - Live Visualization of some famous sorting algorithms and your experiments.
-* [Animated Sorting Algorithms ★3](https://github.com/p-sun/Animated-Sorting-Algorithms) - Swift 4 playgrounds to view and manipulate sorting algorithms.🍁
+* [Animated Sorting Algorithms ★4](https://github.com/p-sun/Animated-Sorting-Algorithms) - Swift 4 playgrounds to view and manipulate sorting algorithms.🍁
 * [DataStructures Playground ★14 ⏳2Y](https://github.com/oliverfoggin/DataStructuresPlayground) - Data Structures and Algorithms in Swift. ⏳
 * [Swiftography ★8](https://github.com/sketchytech/Swiftography) - Standard cryptographic algorithms in a Swift Playground. ⏳
 * [Algorithms Playground ★3 ⏳2Y](https://github.com/ashokgelal/AlgorithmsPlayground) - Various algorithm implementation in Swift. ⏳

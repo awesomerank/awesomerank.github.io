@@ -99,7 +99,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sman ★145](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 * [spark ★4953](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [Shark ★146](https://github.com/fisherman/shark) - ▁▂▃▅ Sparkline Generator
-* [sheet ★224 ⏳4Y](https://github.com/oscardelben/sheet) -  Text snippets for the command line
+* [sheet ★224 ⏳5Y](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 * [spot ★637](https://github.com/rauchg/spot) - Tiny file search utility
 - [snips ★21 ⏳1Y](https://github.com/srijanshetty/snips) - Commandline tool to manage snippets of code.
 * [sshfs ★498](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH

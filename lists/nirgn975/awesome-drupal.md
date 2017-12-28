@@ -32,7 +32,7 @@ You might also like [awesome-php ★17326](https://github.com/ziadoz/awesome-php
 
 ## Tools
 
-- [Yo Hedley! ★105](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests.
+- [Yo Hedley! ★105 ⏳1Y](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests.
 
 
 ## Modules

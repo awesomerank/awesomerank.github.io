@@ -298,7 +298,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Dalmatiner DB ★565](https://github.com/dalmatinerdb/dalmatinerdb) Fast distributed metrics database
 * [Blueflood ★549](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
 * [Timely ★212](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
-* [SiriDB ★254](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
+* [SiriDB ★298](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
 
 ## SQL-like processing
 
@@ -463,7 +463,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA's scientific archives.
 * [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
 * [Argus ★291](https://github.com/salesforce/Argus) - Time series monitoring and alerting platform.
-* [AthenaX ★544](https://github.com/uber/AthenaX) - a streaming analytics platform that enables users to run production-quality, large scale streaming analytics using Structured Query Language (SQL).
+* [AthenaX ★570](https://github.com/uber/AthenaX) - a streaming analytics platform that enables users to run production-quality, large scale streaming analytics using Structured Query Language (SQL).
 * [Atlas ★1600](https://github.com/Netflix/atlas) - a backend for managing dimensional time series data.
 * [Countly](https://count.ly/) - open source mobile and web analytics platform, based on Node.js & MongoDB.
 * [Domino](https://www.dominodatalab.com/) - Run, scale, share, and deploy models — without any infrastructure.

@@ -95,7 +95,7 @@ for any IP address.
 
 ## Popular readymade environments
 
-* [Vagrantpress ★762](https://github.com/vagrantpress/vagrantpress) - development environment for creating and modifying WordPress sites.
+* [Vagrantpress ★762 ⏳1Y](https://github.com/vagrantpress/vagrantpress) - development environment for creating and modifying WordPress sites.
 * [Varying Vagrant Vagrants ★3978](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration focused on WordPress development.
 * [Joomla-Vagrant ★135](https://github.com/joomlatools/joomlatools-vagrant).
 * [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.

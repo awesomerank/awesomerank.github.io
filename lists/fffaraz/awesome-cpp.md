@@ -166,7 +166,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
  * [Argh! ★179](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. [BSD]
  * [Taywee/args ★282](https://github.com/taywee/args) - A simple header-only C++ argument parser library. [MIT]
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. [Boost]
- * [jarro2783/cxxopts ★594](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
+ * [jarro2783/cxxopts ★624](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
  * [docopt.cpp ★533](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [gflags](https://gflags.github.io/gflags/) - Commandline flags module for C++. [BSD]
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
@@ -292,7 +292,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. [BSD]
 * [Google Test ★6704](https://github.com/google/googletest) - Google C++ Testing Framework. [BSD]
 * [ig-debugheap ★100 ⏳2Y](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. [BSD]
-* [libtap ★141](https://github.com/zorgnax/libtap) - Write tests in C. [GPL2]
+* [libtap ★141 ⏳1Y](https://github.com/zorgnax/libtap) - Write tests in C. [GPL2]
 * [MemTrack](http://www.almostinfinite.com/memtrack.html) - Tracking memory allocations in C++.
 * [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview) - Profiler with web-view for multiple platforms. [PublicDomain]
 * [MinUnit ★175](https://github.com/siu/minunit) - A minimal unit testing framework for C/C++ self-contained in a single header file. [MIT]
@@ -406,7 +406,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [frozen ★206](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. [GPL & GPL2]
 * [Jansson ★1533](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data. [MIT]
 * [jbson ★24 ⏳2Y](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14. [Boost]
-* [JeayeSON ★96](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. [BSD]
+* [JeayeSON ★96 ⏳1Y](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. [BSD]
 * [json ★7354](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. [MIT]
 * [JSON++ ★278](https://github.com/hjiang/jsonxx) - A JSON parser in C++. [MIT]
 * [json.h ★129](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. [Unlicense]
@@ -855,6 +855,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [C++ Quiz](http://q.viva64.com/) - C++ quiz in which you propose to find errors in code fragments of open source projects.
 * [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/C-plus-plus-tutorials/)
 * [C++ Hints](http://cpphints.com/) - Every business day hints about most often C/C++ mistakes and ways to solve them from PVS-Studio Team.
+* [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - A user ranked online tutorial bank site displaying multiple courses to learn C++ from.
 
 ## Weblogs
 *Useful C/C++ related weblogs.*

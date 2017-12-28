@@ -625,7 +625,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Microsoft Automatic Graph Layout ★565](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
 * [UnitConversion ★32](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
 * [ALGLIB](http://www.alglib.net/) - ALGLIB is a cross-platform numerical analysis and data processing library. It supports several programming languages (C++, C#, Delphi) and several operating systems (Windows and POSIX, including Linux) **[Proprietary]** and **[Free Edition]**
-* [AutoDiff ★5](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
+* [AutoDiff ★7](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
 
 ## Media
 
@@ -673,7 +673,7 @@ metadata in media files, including video, audio, and photo formats
 * [HidLibrary ★218](https://github.com/mikeobrien/HidLibrary) - This library enables you to enumerate and communicate with Hid compatible USB devices in .NET.
 * [SystemWrapper ★58](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
 * [Sprache ★935](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
-* [YoutubeExplode ★185](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
+* [YoutubeExplode ★235](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
 * [DeviceId ★23](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ## MVVM
@@ -874,7 +874,7 @@ metadata in media files, including video, audio, and photo formats
 * [Shouldly ★719](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 * [SpecFlow ★1124](https://github.com/techtalk/SpecFlow) - Binding business requirements to .Net code
 * [xBehave.net ★186](https://github.com/xbehave/xbehave.net) - A BDD/TDD framework based on xUnit.net and inspired by Gherkin. http://xbehave.github.io
-* [xUnit ★1555](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework
+* [xUnit.net ★1555](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework. [https://xunit.github.io/](https://xunit.github.io/)
 * [Canopy ★338](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework 
 * [Expecto ★198](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 

@@ -112,7 +112,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [codemirror-graphql ★93](https://github.com/graphql/codemirror-graphql) - GraphQL mode and helpers for CodeMirror.
 * [graphql-schema ★126 ⏳2Y](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
 * [graphql-sequelize ★936](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
-* [graphql-sequelize-crud ★78](https://github.com/Glavin001/graphql-sequelize-crud) - Automatically generate queries and mutations from Sequelize models.
+* [graphql-sequelize-crud ★83](https://github.com/Glavin001/graphql-sequelize-crud) - Automatically generate queries and mutations from Sequelize models.
 * [graffiti ★1043](https://github.com/RisingStack/graffiti) - Node.js GraphQL ORM.
 * [graffiti-mongoose ★392](https://github.com/RisingStack/graffiti-mongoose) - Mongoose (MongoDB) adapter for graffiti (Node.js GraphQL ORM).
 * [babel-plugin-graphql ★64 ⏳2Y](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
@@ -152,12 +152,12 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-sync ★40](https://github.com/arangodb/graphql-sync) - Promise-free wrapper to GraphQL.js for synchronous environments
 * [apollo-fetch ★354](https://github.com/apollographql/apollo-fetch) - Lightweight GraphQL client that supports custom fetch functions, middleware, and afterware
 * [Spikenail ★265](https://github.com/spikenail/spikenail) - Node.js framework for building GraphQL API almost without coding.
-* [graphql-weaver ★66](https://github.com/AEB-labs/graphql-weaver) - A tool to combine, link and transform GraphQL schemas; combine multiple GraphQL servers into one API.
-* [graphql-lodash ★375](https://github.com/APIs-guru/graphql-lodash) - Data manipulation for GraphQL queries with lodash syntax.
-* [apollo-angular ★298](https://github.com/apollographql/apollo-angular) - Angular integration for Apollo.
-* [graphql-resolvers ★54](https://github.com/lucasconstantino/graphql-resolvers) - Resolver composition library for GraphQL.
-* [apollo-resolvers ★131](https://github.com/thebigredgeek/apollo-resolvers) - Expressive and composable resolvers for Apollo Server and graphql-tools.
-* [apollo-errors ★137](https://github.com/thebigredgeek/apollo-errors) - Machine-readable custom errors for Apollo Server.
+* [graphql-weaver ★75](https://github.com/AEB-labs/graphql-weaver) - A tool to combine, link and transform GraphQL schemas; combine multiple GraphQL servers into one API.
+* [graphql-lodash ★381](https://github.com/APIs-guru/graphql-lodash) - Data manipulation for GraphQL queries with lodash syntax.
+* [apollo-angular ★320](https://github.com/apollographql/apollo-angular) - Angular integration for Apollo.
+* [graphql-resolvers ★63](https://github.com/lucasconstantino/graphql-resolvers) - Resolver composition library for GraphQL.
+* [apollo-resolvers ★151](https://github.com/thebigredgeek/apollo-resolvers) - Expressive and composable resolvers for Apollo Server and graphql-tools.
+* [apollo-errors ★153](https://github.com/thebigredgeek/apollo-errors) - Machine-readable custom errors for Apollo Server.
 
 ##### Relay Related
 

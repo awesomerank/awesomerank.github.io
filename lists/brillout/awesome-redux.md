@@ -113,7 +113,7 @@ title: Awesome Rank for brillout/awesome-redux
 ### Routing
 
  - [redux-async-connect ★619](https://github.com/Rezonans/redux-async-connect) - It allows you to request async data, store them in Redux state and connect them to your React component.
- - [redux-tiny-router ★137 ⏳1Y](https://github.com/Agamennon/redux-tiny-router) - Router made for Redux and made for universal apps. Stop using the router as a controller, it's just state.
+ - [redux-tiny-router ★137 ⏳2Y](https://github.com/Agamennon/redux-tiny-router) - Router made for Redux and made for universal apps. Stop using the router as a controller, it's just state.
  - [redux-router ★2246](https://github.com/acdlite/redux-router) - Redux bindings for React Router &ndash; keep your router state inside your Redux store.
  - [react-router-redux ★6943](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and Redux in sync.
  - [ground-control ★273 ⏳1Y](https://github.com/raisemarketplace/ground-control) - Scalable reducer management &amp; powerful data fetching for React Router &amp; Redux.

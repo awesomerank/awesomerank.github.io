@@ -87,7 +87,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [da_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
 - [es_ES ★7](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
 - [pt_BR ★0](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
-- [it_IT ★4](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
+- [it_IT ★5](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
 - [nl_NL ★20](https://github.com/ho-nl/magento2-nl_NL) [alt.](https://bitbucket.org/creaminternet/language-nl_nl.git) 🇳🇱 - Dutch Language Package.
 - [pl_PL ★14](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱 - Polish Language Package.
 - [tr_TR ★10 ⏳1Y](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.

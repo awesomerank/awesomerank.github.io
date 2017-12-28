@@ -58,7 +58,7 @@ Resources
     - [overholt ★1338 ⏳1Y](https://github.com/mattupstate/overholt) - Example Flask application illustrating common practices
     - [pypress ★518](https://github.com/laoqiu/pypress) - flask team blog
     - [thepast.me ★747 ⏳2Y](https://github.com/laiwei/thepast)
-    - [redispapa ★355](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
+    - [redispapa ★355 ⏳1Y](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
     - [flaskblog ★143](https://github.com/defshine/flaskblog) - a simple blog system based on flask
     - [cleanblog ★87 ⏳1Y](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
     - [Quokka CMS ★1752](https://github.com/quokkaproject/quokka) - CMS made with Flask and MongoDB

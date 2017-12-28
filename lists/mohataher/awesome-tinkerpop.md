@@ -108,7 +108,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 ### <A NAME="tinkerpop2"></A>TinkerPop 2 Libraries
 * [Ferma ★63](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack.
 * [Frames ★136](https://github.com/tinkerpop/frames) - An Object to Graph Framework.
-* [Archimedes ★36 ⏳1Y](https://github.com/clojurewerkz/archimedes) - Clojure library for Blueprints (part of the TinkerPop graph stack).
+* [Archimedes ★36 ⏳2Y](https://github.com/clojurewerkz/archimedes) - Clojure library for Blueprints (part of the TinkerPop graph stack).
 * [AccumuloGraph ★28 ⏳1Y](https://github.com/JHUAPL/AccumuloGraph) - An implementation of TinkerPop Blueprints using Accumulo.
 * [Frontenac ★25 ⏳1Y](https://github.com/Loupi/Frontenac) - A .NET port of the TinkerPop Stack.
 * [Mogwai ★39 ⏳1Y](https://github.com/platinummonkey/mogwai) - TinkerPop 2 Graph Database Library for Python.

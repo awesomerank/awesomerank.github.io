@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-956-orange.svg) | December 13, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-962-orange.svg) | December 27, 2017
 
 ### Contributing
 
@@ -260,7 +260,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftGen ★4104](https://github.com/SwiftGen/SwiftGen) - A suite of tools to auto-generate code for various assets of your project.
 * [SwiftPlate ★1432](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform framework projects from the command line.
 * [Toybox ★64](https://github.com/giginet/Toybox) - Xcode Playground management made easy.
-* [XcodeGen ★532](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
+* [XcodeGen ★661](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.* 
@@ -623,7 +623,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Generate documentation for Swift code* [back to top](#readme) 
 
 * [jazzy ★4905](https://github.com/realm/jazzy) - Soulful docs.
-* [SourceDocs ★25](https://github.com/eneko/SourceDocs) - Generate Markdown reference documentation that lives with your code.
+* [SourceDocs ★27](https://github.com/eneko/SourceDocs) - Generate Markdown reference documentation that lives with your code.
 * [swiftdoc-parser ★43](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
 
 ### Email
@@ -668,7 +668,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Signals ★276](https://github.com/artman/Signals) - Replaces delegates and notifications.
 * [Snail ★67](https://github.com/UrbanCompass/Snail) - An Observables framework.
 * [SwiftEventBus ★595](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
-* [VueFlux ★47](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
+* [VueFlux ★126](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
 * [When ★124](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises.
 
 ### Files
@@ -890,7 +890,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CleanroomLogger ★1106](https://github.com/emaloney/CleanroomLogger) - Configurable and extensible high-level logging API that is simple, lightweight and performant.
 * [Dotzu ★1231](https://github.com/remirobert/Dotzu) - Debbuger tool for iOS developer. Display logs, network request, device informations, crash logs while using the app.
 * [Duration ★300](https://github.com/SwiftStudies/Duration) :penguin: - Lightweight logging library focused on reporting timings for operations.
-* [Evergreen](https://github.com/knly/Evergreen) - Most natural logging.
+* [Evergreen ★68](https://github.com/nilsleiffischer/Evergreen) - Most natural logging.
 * [HeliumLogger ★85](https://github.com/IBM-Swift/HeliumLogger) :penguin: - IBM's lightweight logging framework.
 * [Log ★693](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
 * [Printer ★41](https://github.com/hemangshah/printer) - A fancy logger for your next app.
@@ -933,7 +933,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [agent ★611 ⏳1Y](https://github.com/hallas/agent) - HTTP request agent.
 * [Alamofire ★26259](https://github.com/Alamofire/Alamofire) :penguin: - Elegant networking.
 * [APIKit ★1311](https://github.com/ishkawa/APIKit) - Library for building type-safe web API client.
-* [BigBrother ★455](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
+* [BigBrother ★455 ⏳1Y](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
 * [Ciao ★18](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS(Bonjour, Zeroconf)
 * [Conduit ★21](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
 * [Dratini ★35](https://github.com/kevin0571/Dratini) - A neat network layer.
@@ -994,13 +994,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Blackfire ★949](https://github.com/elliottminns/blackfire) :penguin: - A minimal, fast and unopinionated web framework.
 * [Curassow ★393](https://github.com/kylef/Curassow) :penguin: - HTTP server using the pre-fork worker model.
 * [Dynamo ★64](https://github.com/johnno1962/Dynamo) :penguin: - High performance web server supporting dynamic content.
-* [Edge ★286](https://github.com/skylab-inc/Edge) :penguin: - Multiplatform Web and Networking Framework.
 * [Embassy ★134](https://github.com/envoy/Embassy) :penguin: - Super lightweight async HTTP server library.
 * [Express ★852](https://github.com/crossroadlabs/Express) :penguin: - Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
 * [Frank ★382](https://github.com/kylef/Frank) :penguin: - Frank is a DSL for quickly writing web applications.
 * [http4swift ★27 ⏳1Y](https://github.com/takebayashi/http4swift) :penguin: - A simple HTTP server.
 * [Kitura ★6206](https://github.com/IBM-Swift/Kitura) :penguin: - IBM's web framework and server for web services.
 * [Kunugi ★36 ⏳1Y](https://github.com/novi/Kunugi) :penguin: - Minimal web framework and middleware.
+* [Lightning ★293](https://github.com/skylab-inc/Lightning) :penguin: - Multiplatform Single-threaded Non-blocking Web and Networking Framework.
 * [Noze.io ★246](https://github.com/NozeIO/Noze.io) :penguin: - Evented I/O streams like Node.js.
 * [Perfect ★12499](https://github.com/PerfectlySoft/Perfect) :penguin: - Server-side Swift. The Perfect library, application server, connectors and example apps.
 * [swifter ★2173](https://github.com/httpswift/swifter) :penguin: - Http server with routing handler.
@@ -1059,14 +1059,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Siphash ★194](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
 * [SweetHMAC ★32 ⏳1Y](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use class to encrypt strings using HMAC algorithms.
 * [Swift-Sodium ★202](https://github.com/jedisct1/swift-sodium) - Interface to the Sodium library for common crypto operations for iOS and OS X.
-* [SwiftSSL ★183 ⏳1Y](https://github.com/SwiftP2P/SwiftSSL) - Crypto toolkit.
+* [SwiftSSL ★183 ⏳2Y](https://github.com/SwiftP2P/SwiftSSL) - Crypto toolkit.
 
 #### Keychain
 [back to top](#readme) 
 
 * [keychain-swift ★856](https://github.com/evgenyneu/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
 * [KeychainAccess ★3446](https://github.com/kishikawakatsumi/KeychainAccess) - Simple wrapper for Keychain that works on iOS and OS X.
-* [KeyClip ★41](https://github.com/s-aska/KeyClip) - Keychain framework for iOS.
+* [KeyClip ★41 ⏳1Y](https://github.com/s-aska/KeyClip) - Keychain framework for iOS.
 * [Latch ★45](https://github.com/DanToml/Latch) - A simple Keychain Wrapper for iOS.
 * [Locksmith ★2419](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the iOS Keychain.
 * [SwiftKeychainWrapper ★641](https://github.com/jrendel/SwiftKeychainWrapper) - Simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.
@@ -1134,6 +1134,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [RichEditorView ★976](https://github.com/cjwirth/RichEditorView) -  RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
 * [Roman ★33](https://github.com/nvzqz/Roman) :penguin: - Seamless Roman numeral conversion.
 * [SmarkDown ★60 ⏳1Y](https://github.com/SwiftStudies/SmarkDown) :penguin: - Markdown processing conforming to Gruber's standards.
+* [Sprinter ★147](https://github.com/nicklockwood/Sprinter) - A library for formatting strings.
 * [SwiftRichString ★1273](https://github.com/malcommac/SwiftRichString) - Elegant & Painless Attributed Strings Management Library.
 * [SwiftString ★1429](https://github.com/amayne/SwiftString) - A lightweight string extension.
 * [SwiftVerbalExpressions ★526](https://github.com/VerbalExpressions/SwiftVerbalExpressions) - VerbalExpressions porting.
@@ -1166,6 +1167,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [BulletinBoard ★2139](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 * [BusyNavigationBar ★883](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects.
 * [CostumeKit ★292](https://github.com/jakemarsh/CostumeKit) - Base types for theming an app.
+* [CountryPickerView ★135](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 * [CustomSegue ★72](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
 * [DeckTransition ★1599](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
 * [Dodo ★775](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
@@ -1195,7 +1197,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ImagePickerSheetController ★1371](https://github.com/lbrndnr/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [InfoView ★35 ⏳1Y](https://github.com/anatoliyv/InfoView) - Simple information view with pointed arrow.
 * [InstantSearch iOS ★394](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
-* [KALoader ★33](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
+* [KALoader ★36](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
 * [KDInteractiveNavigationController ★120](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.
 * [KMNavigationBarTransition ★2315](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
 * [KMPlaceholderTextView ★488](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
@@ -1229,6 +1231,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SectionedSlider ★150](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 * [SelectionDialog ★76](https://github.com/kciter/SelectionDialog) - Simple selection dialog.
 * [ShadowView ★229](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
+* [Shiny ★280](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash)
 * [SkeletonView ★2888](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 * [SKPhotoBrowser ★1411](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers.
 * [SMSwipeableTabView ★28](https://github.com/smahajan28/SMSwipeableTabView) - Fully customizable control which is mixture of UIPageViewController and Scrollable Tab Bar.
@@ -1454,7 +1457,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AudioIndicatorBars ★169](https://github.com/LeonardoCardoso/AudioIndicatorBars) - AIB indicates for your app users which audio is playing. Just like the Podcasts app.
 * [BubbleTransition ★2613](https://github.com/andreamazz/BubbleTransition) - Bubble transition in an easy way.
-* [Cards XI ★2014](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
+* [Cards XI ★2146](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
 * [ElasticTransition ★1820](https://github.com/lkzhao/ElasticTransition) - An interactive transition that simulates an elastic drag.
 * [Hero ★11589](https://github.com/lkzhao/Hero) - Elegant transition library for iOS.
 * [ImageOpenTransition ★797](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images.
@@ -1483,6 +1486,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftSpreadsheet ★411](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
 * [TagCellLayout ★121](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 * [VegaScroll ★1507](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView completely written in Swift 4.
+* [YBSlantedCollectionViewLayout ★137](https://github.com/yacir/YBSlantedCollectionViewLayout) - UICollectionViewLayout to show slanted content.
 
 #### UITableView
 [back to top](#readme) 
@@ -1569,6 +1573,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Swiftz ★3033](https://github.com/typelift/Swiftz) - Functional programming.
 * [Then ★2004](https://github.com/devxoul/Then) - Super sweet syntactic sugar for initializers.
 * [undefined ★56 ⏳1Y](https://github.com/weissi/swift-undefined) - Nano framework which defines Haskell's undefined.
+* [URLQueryItemEncoder ★37](https://github.com/pitiphong-p/URLQueryItemEncoder) - An Encoder for encoding any Encodable value into an array of URLQueryItem.
 * [UTIKit ★193](https://github.com/cockscomb/UTIKit) - an UTI (Uniform Type Identifier) wrapper.
 * [WhatsNew ★1201](https://github.com/BalestraPatrick/WhatsNew) - Showcase new features after an app update similar to Pages, Numbers and Keynote.
 * [XestiMonitors ★240](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework.

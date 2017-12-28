@@ -136,7 +136,7 @@ Reverse Engineering
 15. [Frida](https://www.frida.re/) - inject javascript to explore applications and a [GUI tool ★86 ⏳1Y](https://github.com/antojoseph/diff-gui) for it
 16. [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
 17. [IntentSniffer](https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/)
-18. [Introspy ★323 ⏳3Y](https://github.com/iSECPartners/Introspy-Android)
+18. [Introspy ★323 ⏳4Y](https://github.com/iSECPartners/Introspy-Android)
 19. [Jad]( https://varaneckas.com/jad/) - Java decompiler
 20. [JD-GUI ★4035](https://github.com/java-decompiler/jd-gui) - Java decompiler
 21. [CFR](http://www.benf.org/other/cfr/) - Java decompiler

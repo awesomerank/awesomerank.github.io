@@ -595,7 +595,7 @@ AWS Repos:
 * [eb-node-express-sample :fire: ★110](https://github.com/awslabs/eb-node-express-sample) - Sample express app.
 * [eb-node-express-signup ★65 ⏳2Y](https://github.com/awslabs/eb-node-express-signup) - Express framework and Bootstrap Node.js sample app.
 * [eb-node-express ★7 ⏳4Y](https://github.com/awslabs/eb-node-express) - Sample app referenced in the Developer Guide.
-* [eb-py-flask-signup-worker ★29 ⏳1Y](https://github.com/awslabs/eb-py-flask-signup-worker) - Python app that illustrates worker roles.
+* [eb-py-flask-signup-worker ★29 ⏳2Y](https://github.com/awslabs/eb-py-flask-signup-worker) - Python app that illustrates worker roles.
 * [eb-py-flask-signup :fire::fire: ★207](https://github.com/awslabs/eb-py-flask-signup) - Python signup form app with Flask and Bootstrap.
 * [eb-python-flask ★17 ⏳2Y](https://github.com/awslabs/eb-python-flask) - Simple Python and Flask app.
 * [eb-wif-sample ★15 ⏳1Y](https://github.com/awslabs/eb-wif-sample) - Sample login app with Web Identity Federation.
@@ -732,7 +732,7 @@ AWS Repos:
 * [lambda-refarch-fileprocessing :fire: ★184](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing.
 * [lambda-refarch-iotbackend :fire: ★167](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend.
 * [lambda-refarch-mobilebackend :fire::fire: ★355](https://github.com/awslabs/lambda-refarch-mobilebackend) - Reference Architecture for creating a Mobile Backend.
-* [lambda-refarch-webapp :fire::fire: ★482](https://github.com/awslabs/lambda-refarch-webapp) - Reference Architecture for creating a Web Application.
+* [lambda-refarch-webapp :fire::fire::fire: ★482](https://github.com/awslabs/lambda-refarch-webapp) - Reference Architecture for creating a Web Application.
 
 Community Repos:
 

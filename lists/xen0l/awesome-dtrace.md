@@ -162,7 +162,7 @@ List of software with DTrace support.
 #### Python
 
 - [Python](https://www.jcea.es/artic/python_dtrace.htm) - DTrace patch for Python 2.7.x and 3.x.
-- [python-usdt ★2](https://github.com/nshalman/python-usdt) - Libusdt bindings for Python.
+- [python-usdt ★2 ⏳1Y](https://github.com/nshalman/python-usdt) - Libusdt bindings for Python.
 
 #### Ruby
 

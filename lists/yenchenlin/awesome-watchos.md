@@ -115,7 +115,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
     <space><space><img src="https://camo.githubusercontent.com/689a09260a6427ede9580b298c141320132796df/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32303131363433342f57617463684e6f7465732e676966") alt="Example App" width="500"/>
 
- * [WatchPics ★84 ⏳2Y](https://github.com/D-32/WatchPics) - Instagram for the Apple Watch.
+ * [WatchPics ★84 ⏳3Y](https://github.com/D-32/WatchPics) - Instagram for the Apple Watch.
 
     <space><space><img src="https://camo.githubusercontent.com/544c66f439b1328155ca4463c2fa73e514f80800/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7761746368706963732e6a7067") alt="Example App" width="500"/>
 

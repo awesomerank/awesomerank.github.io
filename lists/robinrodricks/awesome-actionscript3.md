@@ -132,7 +132,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Functional
 
 * [AS3FP ★10 ⏳5Y](https://github.com/jadbox/AS3FP) - Collection of functional idioms based on Haskell and Coffeescript.
-* [Raix ★92 ⏳4Y](https://github.com/richardszalay/raix) - Reactive And Interactive eXtensions simplifies working with interactive data (arrays) or reactive data (events).
+* [Raix ★92 ⏳5Y](https://github.com/richardszalay/raix) - Reactive And Interactive eXtensions simplifies working with interactive data (arrays) or reactive data (events).
 * [Fxp-as3 ★3 ⏳1Y](https://github.com/j3k0/fxp-as3) - Functional library inspired by the "mostly adequate guide".
 
 #### Unit Testing
@@ -141,7 +141,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [hamcrest-as3 ★187 ⏳5Y](https://github.com/drewbourne/hamcrest-as3) - Matcher objects allowing 'match' rules to be defined declaratively.
 * [expect.as ★10 ⏳2Y](https://github.com/krzysztof-o/expect.as) - BDD-style assertion library for ActionScript 3.
 * [AS3spec ★22 ⏳8Y](https://github.com/f1337/as3spec) - Tiny BDD framework for AS3, inspired by Bacon and RSpec.
-* [Flexunit ★274 ⏳3Y](https://github.com/flexunit/flexunit) - FlexUnit project for Actionscript 3 and Flex projects.
+* [Flexunit ★274 ⏳4Y](https://github.com/flexunit/flexunit) - FlexUnit project for Actionscript 3 and Flex projects.
 * [ASunit ★50 ⏳6Y](https://github.com/patternpark/asunit) - The only unit test framework that supports Flash Players 6, 7, 8, 9 and 10.
 * [RobotEyes ★49 ⏳7Y](https://github.com/Stray/RobotEyes) - End-to-end testing for TDD. Hybrid of WindowLicker and Drew Bourne's Mockolate.
 
@@ -165,7 +165,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Canvas ★6](https://github.com/pol2095/Feathers-Extension-Canvas) - Supports basic vector drawing functionality.
 * [CircleProgress ★5](https://github.com/pol2095/Feathers-Extension-CircleProgress) - Displays progress using a radial progressbar.
 * [ZoomableControl ★3 ⏳1Y](https://github.com/pol2095/Feathers-Extension-ZoomableControl) - Allows a pinch to zoom using the multitouch inputs.
-* [Toaster ★2](https://github.com/pol2095/Feathers-Extension-Toaster) - Simple feedback about an operation in a small popup. .
+* [Toaster ★2 ⏳1Y](https://github.com/pol2095/Feathers-Extension-Toaster) - Simple feedback about an operation in a small popup. .
 * [Google Maps ★61 ⏳1Y](https://github.com/ZwickTheGreat/feathers-maps) - Google Maps for Starling, optimized for mobile devices.
 
 #### Layout
@@ -373,7 +373,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### ICAL
 
-* [AS3iCAL ★6 ⏳6Y](https://github.com/nicolai86/as3.iCal) - iCal parser based on the RFC2445 specification.
+* [AS3iCAL ★6 ⏳7Y](https://github.com/nicolai86/as3.iCal) - iCal parser based on the RFC2445 specification.
 
 #### JSON
 
@@ -585,7 +585,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [TALES ★1 ⏳6Y](https://github.com/oaubert/tales4as) - TALES interpreter for ActionScript.
 * [Scheme ★1 ⏳6Y](https://github.com/hrundik/fScheme) - Scheme interpreter in ActionScript.
 * [Lisp ★2 ⏳4Y](https://github.com/rzubek/as_lisp) - Lisp dialect written in Actionscript, with compiler and bytecode interpreter.
-* [Lisp Compiler ★92 ⏳6Y](https://github.com/aemoncannon/las3r) - A lisp compiler for the AVM2.
+* [Lisp Compiler ★92 ⏳7Y](https://github.com/aemoncannon/las3r) - A lisp compiler for the AVM2.
 * [CannonML ★3 ⏳5Y](https://github.com/abiyasa/cannonml_as3) - keim's CannonML (shmup scripting language) interpreter.
 
 ## AIR Native Extensions

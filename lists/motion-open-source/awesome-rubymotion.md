@@ -94,7 +94,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 ### Example iOS Apps
 * [IOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/ios) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
-* [Custom Table View Cell with IB and RM ★0 ⏳2Y](https://github.com/hackedunit/custom-cell) - Custom Table View Cell using Interface Builder with RubyMotion.
+* [Custom Table View Cell with IB and RM ★0 ⏳3Y](https://github.com/hackedunit/custom-cell) - Custom Table View Cell using Interface Builder with RubyMotion.
 * [MotionKit iOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/ios) - iOS Example Apps made with MotionKit.
 * [Motion Dropbox Example ★0](https://github.com/mipmip/motion-dropbox-example) - App for demonstrating how to use official Dropbox API v2 SDK.
 * [Big Nerd Ranch Guide to iOS Programming Example in RubyMotion ★41 ⏳4Y](https://github.com/jimweirich/bnr-ios-rubymotion) - RubyMotion code examples from the book.
@@ -166,7 +166,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Apple API Wrappers
 * [Motion.h ★58 ⏳3Y](https://github.com/kastiglione/motion.h) - Expose iOS and macOS system libraries in RubyMotion.
-* [MapKitWrapper ★46 ⏳2Y](https://github.com/weibel/MapKitWrapper) - Make dealing with MapKit less painful for RubyMotion.
+* [MapKitWrapper ★46 ⏳3Y](https://github.com/weibel/MapKitWrapper) - Make dealing with MapKit less painful for RubyMotion.
 * [Medic ★22 ⏳1Y](https://github.com/ryanlntn/medic) - Is HealthKit's verbose and convoluted API driving you mad? Quick! You need a medic.
 * [Motion-accessibility ★43 ⏳2Y](https://github.com/austinseraphin/motion-accessibility) - Making accessibility accessible. RubyMotion Wrappers around the UIAccessibility protocols. Easily interact with Apple's impressive array of assistive technologies, including VoiceOver.
 * [Vendor ★19 ⏳3Y](https://github.com/holgersindbaek/Vendor) - RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions.
@@ -327,7 +327,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Project Management
-* [Motion-schemes ★26 ⏳4Y](https://github.com/siuying/motion-schemes) - Expand RubyMotion build system to support building multiple apps from one project.
+* [Motion-schemes ★26 ⏳5Y](https://github.com/siuying/motion-schemes) - Expand RubyMotion build system to support building multiple apps from one project.
 * [Motion-config-vars](https://github.com/jamescallmebrent/motion-config-vars) - Heroku-style environment configuration for RubyMotion.
 * [Motion-env](https://github.comclayallsopp/motion-env) - Sync ENV variables between Rakefile and RubyMotion.
 * [Motion-my_env ★9 ⏳4Y](https://github.com/ainame/motion-my_env) - Simple environment variable solution for RubyMotion.

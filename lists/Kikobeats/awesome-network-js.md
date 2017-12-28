@@ -41,7 +41,7 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 > Do one thing well.
 
 * [airplay-server ★203 ⏳1Y](https://github.com/watson/airplay-server) – A low level AirPlay server.
-* [castnow ★79](https://github.com/xat/chromecast-player) – simple chromecast player.
+* [castnow ★79 ⏳1Y](https://github.com/xat/chromecast-player) – simple chromecast player.
 * [discovery-swarm](https://github.com/mafintosh/discovery-swarm) – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find peers. Also check [webrtc-swarm ★194](https://github.com/mafintosh/webrtc-swarm).
 * [dns-packet](https://github.com/mafintosh/dns-packet) – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket ★59](https://github.com/mafintosh/dns-socket).
 * [etcdjs ★54](https://github.com/mafintosh/etcdjs) – Low level etcd v2 client written in Javascript with failover support.

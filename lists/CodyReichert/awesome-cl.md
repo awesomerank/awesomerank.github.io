@@ -304,7 +304,7 @@ Library Manager
 * [qlot ★118](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Carton. [Expat][14].
 * [Quicklisp][16] - A library manager containing many libraries, with easy depencency management. [Expat][14].
 * [Quickutil ★59 ⏳1Y](https://github.com/tarballs-are-good/quickutil) - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. [3-clause BSD][15].
-* [Qi ★47](https://github.com/CodyReichert/qi) - A package manager with a traditionnal approach. [BSD][15].
+* [Qi ★52](https://github.com/CodyReichert/qi) - A package manager with a traditionnal approach. [BSD][15].
 
 
 Machine Learning
@@ -670,7 +670,7 @@ Date and time
 -------------
 
 * [localtime](https://common-lisp.net/project/local-time/) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD][15].
-* [chronicity ★28 ⏳1Y](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD_3Clause][15].
+* [chronicity ★29](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD_3Clause][15].
 
 Data validation
 ---------------
@@ -736,6 +736,7 @@ This contains anything which doesn't fit into another category.
 * [babel ★45](https://github.com/cl-babel/babel) - A charset encoding/decoding library. [Expat][14].
 * [chipz ★11](https://github.com/froydnj/chipz) - A decompression library. [3-clause BSD][15].
 * [cl-cuda ★119](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL][8].
+* [corona ★31 ⏳1Y](https://github.com/eudoxia0/corona) -  Create and manage virtual machines from Common Lisp http://eudoxia.me/corona [MIT][200].
 * [esrap ★75 ⏳1Y](https://github.com/nikodemus/esrap) - Packrat parser. [Expat][14].
 * [fast-io ★93](https://github.com/rpav/fast-io) - Fast octet-vector/stream I/O. [3-clause BSD][15].
 * [glyphs ★19 ⏳2Y](https://github.com/ahungry/glyphs) - A library for cutting down the verboseness of Common Lisp in places. [GNU GPL3][2].

@@ -192,7 +192,7 @@ These frameworks make customizing your zsh setup easier.
 * [https://wiki.archlinux.org/index.php/zsh](https://wiki.archlinux.org/index.php/zsh) - Arch Linux's ZSH introduction. Not Arch or Linux-specific.
 * [Outrageously Useful Tips To Master Your Z Shell](http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/) covers some of the features that ZSH has that Bash doesn't, and using oh-my-zsh.
 * [The Text Triumvirate](http://www.drbunsen.org/the-text-triumvirate/) - Seth Brown's tutorial on combining zsh, [tmux](https://github.com/tmux/tmux/wiki) and vim.
-* [Why ZSH is Cooler than your Shell](http://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692) - slideshare presentation.
+* [Why ZSH is Cooler than your Shell](https://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692) - slideshare presentation.
 * [ZSH Pony ★89 ⏳6Y](https://github.com/mika/zsh-pony) - Covers customizing ZSH without a framework.
 * [ZSH tips by Christian Schneider](http://strcat.de/zsh/#tipps) - An exhaustive list of ZSH tips by Christian Schneider.
 * Larry Schrof's [ZSH Workshop](https://www-s.acm.illinois.edu/workshops/zsh/toc.html).
@@ -219,8 +219,8 @@ These frameworks make customizing your zsh setup easier.
 ## Plugins
 
 * [256color ★37 ⏳2Y](https://github.com/chrissicool/zsh-256color) - Enhances the terminal environment with 256 colors. It looks at the chosen TERM environment variable and sees if there is respective ncurses' terminfo with 256 colors available. The result is a multicolor terminal, if available.
-* [abbrev-alias ★6](https://github.com/momo-lab/zsh-abbrev-alias) - Provides functionality similar to Vim's abbreviation expansion.
 * [abbr-path ★0](https://github.com/felixgravila/zsh-abbr-path) - Adds functionality of the `theme_title_use_abbreviated_path` parameter from some oh-my-fish themes.
+* [abbrev-alias ★6](https://github.com/momo-lab/zsh-abbrev-alias) - Provides functionality similar to Vim's abbreviation expansion.
 * [accurev-zsh ★1 ⏳2Y](https://github.com/dalefukami/accurev-zsh) - ZSH plugin for accurev.
 * [alias-tips ★216](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once.
 * [allergen ★1](https://github.com/stanislas/allergen) - A collection of custom zsh plugins to use with antigen.
@@ -265,8 +265,8 @@ These frameworks make customizing your zsh setup easier.
 * [change-case ★1](https://github.com/mtxr/zsh-change-case) - Plugin for fast swap between upper and lower case in your command line. :sunglasses:
 * [clean-project ★3](https://github.com/wwilsman/zsh-clean-project) - Remove files from projects (automatically by default). Useful for keeping `.DS_Store` and `Thumbs.db` files from cluttering your directories.
 * [cmd-architect ★36](https://github.com/psprint/zsh-cmd-architect) - Build commands from what's in history and at prompt, move, delete, add command segments and search history with multi-word queries.
-* [colored-man-pages ★1](https://github.com/ael-code/zsh-colored-man-pages) - Colorize man pages
 * [colored-man-pages-mod ★2 ⏳1Y](https://github.com/zuxfoucault/colored-man-pages_mod) - Forked from [robbyrussell/oh-my-zsh/plugins/colored-man-pages](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/colored-man-pages/colored-man-pages.plugin.zsh). Colorizes `man` output.
+* [colored-man-pages ★1](https://github.com/ael-code/zsh-colored-man-pages) - Colorize man pages
 * [colors ★28 ⏳1Y](https://github.com/Tarrasch/zsh-colors) - Makes it easier to colorize text from the CLI. `red foo` just works.
 * [command-not-found ★11 ⏳1Y](https://github.com/Tarrasch/zsh-command-not-found) - mirror of the oh-my-zsh command-not-found plugin so you don't have to include all of omz.
 * [command-time ★13](https://github.com/popstas/zsh-command-time) - Show execution time for long commands in zsh and powerlevel9k.
@@ -399,6 +399,7 @@ These frameworks make customizing your zsh setup easier.
 * [nvm ★355](https://github.com/lukechilds/zsh-nvm) - ZSH plugin for installing, updating and loading nvm.
 * [open-create-projects ★0](https://github.com/marcossegovia/open-create-projects) - Open/Create projects in Jetbrains.
 * [open-pr ★29](https://github.com/caarlos0/zsh-open-pr) - A ZSH plugin to open pull requests from command line.
+* [openshift-origin-zsh-plugin ★0](https://github.com/ryanswart/openshift-origin-zsh-plugin) - Add a few shortcuts to common openshift origin (oc) actions.
 * [opera-git-plugin ★0](https://github.com/aswitalski/oh-my-zsh-opera-git-plugin) - Git aliases.
 * [operator ★0](https://github.com/nivv/operator-theme) - Clean and simple theme, works best with Menlo for Powerline.
 * [opp.zsh ★222 ⏳2Y](https://github.com/hchbaw/opp.zsh) - Vim's text-objects-ish for zsh.
@@ -469,7 +470,8 @@ These frameworks make customizing your zsh setup easier.
 * [ubuntualiases ★1](https://github.com/GuilleDF/zsh-ubuntualiases) - Ubuntu 16 aliases.
 * [up.zsh ★15 ⏳1Y](https://github.com/peterhurford/up.zsh) - Adds an up command to cd multiple levels up.
 * [url-highlighter ★16 ⏳1Y](https://github.com/ascii-soup/zsh-url-highlighter) - A plugin for the zsh syntax highlighter that turns URLs green if they respond with a "good" status, and red otherwise. Useful for checking URL typos.
-* [vanilli.sh ★3](https://github.com/yous/vanilli.sh) - A lightweight start point of shell configuration.
+* [vanilli.sh ★3 ⏳1Y](https://github.com/yous/vanilli.sh) - A lightweight start point of shell configuration.
+* [velocity ★0](https://github.com/rahulsalvi/velocity) - Powerline-based theme elements for ZSH and tmux.
 * [viexchange ★2 ⏳1Y](https://github.com/okapia/zsh-viexchange) - Vi mode plugin for easily swapping text between two places in the buffer, like vim-exchange.
 * [vim-mode ★31 ⏳5Y](https://github.com/sharat87/zsh-vim-mode) - Shrikant Sharat's bindings for ZSH's vi mode so it behaves more vim-like.
 * [vim-plugin ★7 ⏳1Y](https://github.com/nviennot/zsh-vim-plugin) - Allows you to do `vim filename:123` to open a file with the cursor at a specific line.
@@ -500,7 +502,6 @@ These frameworks make customizing your zsh setup easier.
 * [zsnapshot ★7 ⏳1Y](https://github.com/psprint/zsnapshot) - Adds command to dump the current ZSH state into a file, for later restoration by sourcing the snapshot file.
 * [Ztrace ★7](https://github.com/psprint/ztrace) - Catches output of commands, allows to reuse that output, glue it with history content.
 * [ZUI ★22](https://github.com/zdharma/zui) - ZSH User Interface library – CGI+DHTML-like rapid TUI application development with ZSH.
-
 
 ## Even more completions
 
@@ -537,17 +538,17 @@ These plugins add tab completion without adding extra functions or aliases.
 * [keybase ★8 ⏳2Y](https://github.com/rbirnie/oh-my-zsh-keybase) - Completions for [keybase](https://keybase.io/docs/command_line).
 * [newman](https://github.com/selop/newman-autocomplete) - Provides autocompletion for the [Newman CLI ★2271](https://github.com/postmanlabs/newman).
 * [nix-zsh-completions ★40](https://github.com/spwhitt/nix-zsh-completions) - Completions for [nix](https://nixos.org/nix/), [NixOS](https://nixos.org/), and [NixOps](http://nixos.org/nixops/).
-* [npm-run.plugin.zsh ★21 ⏳1Y](https://github.com/akoenig/npm-run.plugin.zsh) - Autocompletion support for `npm run`.
 * [nova ★6 ⏳2Y](https://github.com/rbirnie/oh-my-zsh-nova) - Provides auto-complete for nova.
-* [pass-zsh-completion ★0](https://github.com/ninrod/pass-zsh-completion) - convenience repo to easily obtain [pass](https://www.passwordstore.org/) command completion for ZSH.
-* [spring-boot-plugin ★8 ⏳2Y](https://github.com/linux-china/oh-my-zsh-spring-boot-plugin) - Adds autocompletions for [spring-boot](http://projects.spring.io/spring-boot/) commands.
-* [razor_plugin](https://github.com/dalang/oh-my-zsh_razor_plugin) - Provides autocomplete for [Razor ★17 ⏳3Y](https://github.com/puppetlabs/Razor).
+* [npm-run.plugin.zsh ★21 ⏳1Y](https://github.com/akoenig/npm-run.plugin.zsh) - Autocompletion support for `npm run`.
 * [parallels-zsh-plugin ★6 ⏳4Y](https://github.com/benclark/parallels-zsh-plugin) - Add completions for Parallels desktop.
+* [pass-zsh-completion ★0](https://github.com/ninrod/pass-zsh-completion) - convenience repo to easily obtain [pass](https://www.passwordstore.org/) command completion for ZSH.
 * [pebble-zsh-completion ★11 ⏳2Y](https://github.com/Neal/pebble-zsh-completion) - completion script for [pebble](https://developer.getpebble.com/guides/publishing-tools/pebble-tool).
 * [racket completion ★2](https://github.com/racket/shell-completion) - Completion for [Racket](http://racket-lang.org).
 * [rake-completion.zshplugin ★7 ⏳1Y](https://github.com/unixorn/rake-completion.zshplugin) - Add fast tab completion for rakefile targets.
 * [rancher-zsh-completion ★3](https://github.com/go/rancher-zsh-completion) - Add completions for the Rancher CLI.
+* [razor_plugin](https://github.com/dalang/oh-my-zsh_razor_plugin) - Provides autocomplete for [Razor ★17 ⏳3Y](https://github.com/puppetlabs/Razor).
 * [snappy ★0](https://github.com/Arlon1/Snappy_zsh_autocompletion) - Add completions for snappy.
+* [spring-boot-plugin ★8 ⏳2Y](https://github.com/linux-china/oh-my-zsh-spring-boot-plugin) - Adds autocompletions for [spring-boot](http://projects.spring.io/spring-boot/) commands.
 * [ssh-agent ★3 ⏳1Y](https://github.com/hkupty/ssh-agent) - Automatically starts `ssh-agent` to set up and load whichever credentials you want for ssh connections.
 * [surf.plugin.zsh](https://github.com/markussom/surf.plugin.zsh) - Add completions for surf.
 * [test-kitchen-zsh-plugin ★4 ⏳3Y](https://github.com/pelletiermaxime/test-kitchen-zsh-plugin) - Add completions for [Test Kitchen](http://kitchen.ci/).
@@ -576,7 +577,10 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [adlee](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme) - macOS theme, requires Powerline font.
 * [af-magic-mod](https://raw.githubusercontent.com/desyncr/zshrc/master/themes/af-magic-mod.zsh-theme) - af-magic-mod theme. Install with `antigen theme desyncr/zshrc themes/af-magic-mod`.
 * [agkozak ★6](https://github.com/agkozak/agkozak-zsh-theme) - Displays git branch and status and vi editing mode in the main prompt and also displays non-zero exit codes in ZSH's right prompt. An SSH connection is indicated by the presence of a hostname in the prompt; local connections show only a username.
+* [agnoster-fcamblor ★126](https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor) - Solarized [Agnoster](https://gist.github.com/agnoster/3712874) variant with git information. Requires a unicode font.
+* [agnoster-mod ★1 ⏳3Y](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme) - [Agnoster](https://gist.github.com/agnoster/3712874) variant with a right-prompt.
 * [agnoster-plus ★0](https://github.com/jiahut/agnoster-plus.zsh-theme) - [Agnoster](https://gist.github.com/agnoster/3712874) variant optimized for use with Solarized Dark terminal color scheme. Includes git status.
+* [agnoster-refresh ★2 ⏳3Y](https://github.com/fusion94/Agnoster-refresh) - [Agnoster](https://gist.github.com/agnoster/3712874) variant, includes battery and online status.
 * [agnosterAfro](https://github.com/afrozalm/agnosterAfro) - Based on [Powerline](https://github.com/Lokaltog/vim-powerline) and [Agnoster Theme](https://gist.github.com/agnoster/3712874) and inspired by the [agnosterzak ★131](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme).
 * [agnosterzak ★131](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme) - Based on Agnoster, shows battery life, date & time, git status, current directory and user & host information.
 * [alien-minimal ★18](https://github.com/eendroroy/alien-minimal) - Minimalist ZSH theme with git status displayed.
@@ -591,6 +595,8 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [avit-d2k ★8 ⏳1Y](https://github.com/fdaciuk/avit-da2k) - Based on Avit, with small changes.
 * [bandit ★0 ⏳1Y](https://github.com/Holger-Will/zsh_bandit) - Another Powerline variant.
 * [bashi](https://github.com/eli-oat/bashi) - Optimized for Ahmet Sülek's [Flat UI Terminal Theme](https://github.com/ahmetsulek/flat-terminal) and Pasquale D'Silva's [Saturn Terminal Theme ★73 ⏳1Y](https://github.com/psql/saturn-colors).
+* [bender ★0](https://github.com/specious/bender) - Fancy two-line prompt with git integration.
+* [bgnoster ★0 ⏳3Y](https://github.com/47bytes/bgnoster.zsh-theme) - [Agnoster](https://gist.github.com/agnoster/3712874) variant with unicode symbols baked in.
 * [bilibili ★5](https://github.com/jingjinghack/bilibili-zshtheme) - BiliBili Theme
 * [birame ★0](https://github.com/maniat1k/birame) - Based on [bira](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/bira.zsh-theme).
 * [bklyn](https://github.com/gporrata/bklyn-zsh) - Variant of [Powerlevel9k ★3434](https://github.com/bhilburn/powerlevel9k) with customizations applied.
@@ -622,14 +628,14 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [darkblood-modular ★1 ⏳3Y](https://github.com/InAnimaTe/darkblood-modular) - This version of the popular [darkblood](https://github.com/BinaryMuse/oh-my-zsh/blob/binarymuse/themes/darkblood.zsh-theme) theme has been enhanced with a near complete rewrite enabling modularity and a few new features.
 * [delta-prompt ★6 ⏳1Y](https://github.com/cusxio/delta-prompt) - A minimal ZSH prompt.
 * [dexter ★2](https://github.com/shvenkat/zsh-theme-dexter) - A theme with an emphasis on the right side (hence the name) of the terminal.
-* [dp ★0](https://github.com/davidparsson/zsh-dp-theme) - Low contrast theme that shows current git branch, if the repository is dirty and the value of `$PYENV_VERSION`.
 * [dissonance ★1 ⏳1Y](https://github.com/RyanScottLewis/theme-dissonance-zsh) - Comes with custom LSCOLORS and LS_COLORS settings files, works with both dark and light terminal themes.
 * [dmx ★1](https://github.com/domix/dmx.zsh-theme) - Optimized for dark terminal windows.
+* [dp ★0](https://github.com/davidparsson/zsh-dp-theme) - Low contrast theme that shows current git branch, if the repository is dirty and the value of `$PYENV_VERSION`.
 * [dracula ★21](https://github.com/dracula/zsh) - A dark theme for Atom, Alfred, Chrome DevTools, iTerm, Sublime Text, Textmate, Terminal.app, Vim, Xcode, ZSH.
 * [dragon ★4](https://github.com/sabertazimi/dragon-zsh-theme) - Minimalistic, includes git status information.
 * [dustmod ★0](https://github.com/bmihaila/dustmod) - Derived from the [dst](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/dst.zsh-theme) theme in oh-my-zsh
 * [eggshausted ★1](https://github.com/inutano/eggshausted) - A git theme for people who are tired of getting errors.
-* [endless-dog ★0](https://github.com/qwelyt/endless-dog) - OMZ theme that mimics grml-zsh-config.
+* [endless-dog ★0 ⏳1Y](https://github.com/qwelyt/endless-dog) - OMZ theme that mimics grml-zsh-config.
 * [enkel](https://github.com/SShrike/enkel) - A simple and minimalistic theme for ZSH and the Solarised colour scheme featuring Git support and a few other semi-useful features such as displaying exit codes, the current system time, whether or not you have write permissions to the current directory, etc.
 * [excess ★2 ⏳2Y](https://github.com/davydovanton/excess.zsh-theme) - Simple ZSH color theme.
 * [fattyarrow ★0](https://github.com/sohnryang/fattyarrow) - Minimal ZSH prompt that works better on dark backgrounds.
@@ -646,6 +652,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [geometry ★269](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme based on Avit and Pure that displays a lot of git information and is composable and customizable.
 * [geometryHostInfo](https://github.com/Fuzen-py/GeometryHostInfo) Adds host info to the [geometry](https://github.com/frmendes/geometry) theme.
 * [girazz ★0 ⏳1Y](https://github.com/mdentremont/girazz) - A modification to the gnzh theme which adds VI mode to the right prompt.
+* [git-prompt ★1046](https://github.com/olivierverdier/zsh-git-prompt) - Displays information about the current git repository. In particular the branch name, difference with remote branch, number of files staged, changed, etc.
 * [gitsome](https://github.com/mtully/gitsome) - Super simple prompt with git info, optimized for the [Flat Terminal ★563 ⏳4Y](https://github.com/ahmetsulek/flat-terminal) color scheme.
 * [gitster](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) - When in a git repo, it shows the location from the git's root folder. When not in a git repo, it shows the path relative to home, `~`.
 * [glimmer ★1 ⏳2Y](https://github.com/martnu/glimmer) - Includes git branch, time and user@host.
@@ -686,7 +693,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [lone-star](https://github.com/designfrontier/lonestar-zsh-theme/blob/master/lone-star.zsh-theme) - Texas-themed theme based on Sindre Sorhus' pure theme.
 * [magico ★0 ⏳1Y](https://github.com/IOsonoTAN/magico) - IOsonoTAN's magico theme.
 * [materialshell ★435](https://github.com/carloscuesta/materialshell) - A [material design](https://material.google.com/style/color.html) theme for your shell with a good contrast and color pops at the important parts. Designed to be easy on the eyes.
-* [mau ★0](https://github.com/vichargrave/mau) - A ZSH theme with a cat twist.
+* [mau ★0 ⏳1Y](https://github.com/vichargrave/mau) - A ZSH theme with a cat twist.
 * [maxulysse/myzsh ★0](https://github.com/MaxUlysse/myzsh) - Maxime Garcia's myzsh theme.
 * [megaprompt](https://github.com/willghatch/zsh-megaprompt) - A maximalist prompt including keyboard mode, ownership info, and other contextual info, with λ as the prompt character. Requires the [hooks ★16 ⏳2Y](https://github.com/willghatch/zsh-hooks) plugin.
 * [milight ★0](https://github.com/frodoslaw/milight-zsh) - Minimal ZSH prompt with git status, works best with dark terminal backgrounds.
@@ -696,15 +703,17 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [misa ★1 ⏳4Y](https://github.com/misalabs/misa.zsh-theme) - Misalabs' ZSH theme.
 * [mixed](https://github.com/dnavtoparts/mixed-zsh-theme) - Optimized for Dark Background.
 * [molokai-powerline-zsh ★7 ⏳1Y](https://github.com/prikhi/molokai-powerline-zsh) - Based on [agnoster](https://gist.github.com/agnoster/3712874).
+* [moonline ★6 ⏳3Y](https://github.com/kagamilove0707/moonline.zsh) - Minimal but easily extensible prompt.
 * [multi-shell-repo-prompt ★11 ⏳2Y](https://github.com/dotcode/multi-shell-repo-prompt) - Provides useful information (in your prompt) about the repository that you are in. It currently works for [Git](http://git-scm.com/) and [Mercurial](https://www.mercurial-scm.org/), under [ZSH](http://en.wikipedia.org/wiki/Zsh) as well as [bash](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29).
 * [muslim ★2 ⏳1Y](https://github.com/nksoff/muslim) - A simple minimal ZSH prompt theme.
 * [nanofish ★2 ⏳1Y](https://github.com/tweekmonster/nanofish) - Adds fish-style directory prompt to nanotech theme.
 * [neat](https://github.com/andrepolischuk/neat) - Minimalistic prompt inspired by [odin](https://github.com/tylerreckart/Odin) and [pure ★4318](https://github.com/sindresorhus/pure).
-* [nextbike ★0](https://github.com/meierjan/nextbike-zsh-theme) - A very basic theme which just features an macOS bike icon.
+* [nextbike ★0 ⏳1Y](https://github.com/meierjan/nextbike-zsh-theme) - A very basic theme which just features an macOS bike icon.
 * [ningxia ★0 ⏳3Y](https://github.com/wangyandong-ningxia/ningxia.zsh-theme) - Based on af-magic.
 * [nknu ★0 ⏳1Y](https://github.com/aanc/oh-my-zsh-nknu-theme) - A simple OMZ theme.
 * [nmaxcom ★0](https://github.com/nmaxcom/nmaxcom-zsh-theme) - Minimalist ZSH theme with git decorations.
 * [nodeys ★22 ⏳1Y](https://github.com/marszall87/nodeys-zsh-theme) - Based on ys theme, with added NodeJS version (from NVM plugin).
+* [nothing ★0](https://github.com/eendroroy/nothing) - Lightning fast and really simple because it has almost nothing in it.
 * [nt9 ★16](https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme) - Clean, distraction free and git focused development theme. Shows path relative to git root (or ~ when outside git repo), time since last commit, current SHA, branch and branch state.
 * [nuqlezsh ★1](https://github.com/Nuqlear/nuqlezsh.zsh-theme) - Simple theme for prezto and oh-my-zsh.
 * [odin ★68](https://github.com/tylerreckart/odin) - Odin is a git-flavored ZSH theme.
@@ -714,9 +723,8 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [orobbl ★5 ⏳5Y](https://github.com/robbl/oh-my-zsh-config) - Shows the git/svn status including the time since last commit and rvm status in prompt.
 * [ozono ★4](https://github.com/sfabrizio/ozono-zsh-theme) 🌏 OZ0NO - Let's Breathe a clean ZSH.
 * [pad ★2](https://github.com/eproxus/pad.zsh-theme) - A concise and colorful oh-my-zsh theme.
-* [parrot-os ★0](https://github.com/Sameera-Madushan-Perera/Parrot-OS-mod-zsh-theme) - Equivalent to the default Bash Shell Theme Used in Parrot Security Operating System.
 * [phi φ](https://github.com/LasaleFamine/phi-zsh-theme) - A clean and simple theme for ZSH inspired and forked from [Lambda (Mod) ZSH Theme ★289](https://github.com/halfo/lambda-mod-zsh-theme).
-* [pieni ★1](https://github.com/zaari/pieni) - Minimalist single line ZSH prompt theme.
+* [pieni ★2](https://github.com/zaari/pieni) - Minimalist single line ZSH prompt theme.
 * [plain ★0](https://github.com/jimeh/plain.zsh-theme) - A plain and simple theme for ZSH which shows basic git information.
 * [planet](https://github.com/aphlor/planet-zsh) - A slimmed down version of [steef](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/steeef.zsh-theme) from [oh-my-zsh ★63417](https://github.com/robbyrussell/oh-my-zsh).
 * [platypus ★0 ⏳3Y](https://github.com/fdv/platypus) - Platypus is a simple and convenient theme for oh-my-zsh used by Frédéric de Villamil.
@@ -726,7 +734,8 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [powerlevel9k ★3434](https://github.com/bhilburn/powerlevel9k) - A very flexible theme based on the well-known agnoster-theme with support for various VCS, AWS, rbenv, virtualenv, etc. Works with vanilla ZSH as well as the various ZSH frameworks.
 * [powerline-cute](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme) - Based on [bullet-train](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme).
 * [powerline-go ★550](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt, written in go.
-* [powerline-shell](https://github.com/banga/powerline-shell) - A [powerline ★2827 ⏳4Y](https://github.com/Lokaltog/vim-powerline)-like prompt for Bash, ZSH and Fish. Shows important details about git/svn/hg/fossil branch and is easy to customize/extend.
+* [powerline-shell](https://github.com/banga/powerline-shell) - A [powerline ★2827 ⏳5Y](https://github.com/Lokaltog/vim-powerline)-like prompt for Bash, ZSH and Fish. Shows important details about git/svn/hg/fossil branch and is easy to customize/extend.
+* [powerline-train ★0 ⏳1Y](https://github.com/sherubthakur/powerline-train) - A powerline variant
 * [powerline ★0 ⏳1Y](https://github.com/syui/powerline.zsh) - A git aware powerline theme.
 * [powerzeesh](https://github.com/sevaho/Powerzeesh) - A Powerline based ZSH theme. It aims for simplicity, showing information only when it's relevant, optimized for speed and look. Inspired by [Agnoster](https://github.com/agnoster/agnoster-zsh-theme) and [Powerline ★870](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme)
 * [pre-theme ★31 ⏳1Y](https://github.com/leandromatos/pre-theme) - A collection of themes for Sublime Text, Terminal, iTerm2 and ZSH.
@@ -742,10 +751,11 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [rafiki ★32](https://github.com/akabiru/rafiki-zsh) - Adds emojis to your zsh terminal.
 * [raincoat](https://github.com/ginfuru/RainCoat) - A simple omz-compatible theme with a corresponding iTerm2 color scheme.
 * [random-emoji](https://gist.github.com/oshybystyi/2c30543cd48b2c9ecab0) - Random emoji.
+* [razer-status-code ★0](https://github.com/michaelmcallister/razer-status-code) - change the colour of your [Razer Mouse](https://openrazer.github.io/) based on the status of the last executed command. Requires OpenRazer linux drivers.
 * [refined](https://github.com/octarect/refined.zsh) - A ZSH theme focused on simpleness and usefulness.
 * [remiii ★7 ⏳4Y](https://github.com/Remiii/remiii.zsh-theme) - Based on agnoster, optimized for solarized terminal themes.
-* [rummik/zsh-theme ★0](https://github.com/rummik/zsh-theme) - @rummik's theme.
 * [remolueoend ★0](https://github.com/remolueoend/remolueoend.zsh-theme) - Prezto ZSH theme based on Sorin, using emojis for tracking GIT context.
+* [rummik/zsh-theme ★0](https://github.com/rummik/zsh-theme) - @rummik's theme.
 * [rzh ★1 ⏳1Y](https://github.com/patwhatev/rzh) - Theme with git states indicated by emojis.
 * [schminitz](https://gist.github.com/schminitz/9931af23bbb59e772eec) - Shows if Vim is running in the background when using `:sh` command.
 * [seeker ★44 ⏳1Y](https://github.com/tonyseek/oh-my-zsh-seeker-theme) - This theme uses many special unicode characters to be fancy, but it may cause some problems without well supported fonts.
@@ -771,9 +781,10 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [sugar-free](https://github.com/cbrock/sugar-free) - Based on the [Pure ★4318](https://github.com/sindresorhus/pure) and [Candy](https://github.com/BinaryMuse/oh-my-zsh/blob/binarymuse/themes/candy.zsh-theme) themes.
 * [tahuri ★0 ⏳2Y](https://github.com/Tahuri/oh-my-zshel-theme-tahuri) - ZSH theme for Arch Linux.
 * [termuxer ★0](https://github.com/patrick330602/termuxer) - Theme inspired by agnoster and linuxer.
-* [the-time-lord ★0 ⏳2Y](https://github.com/jhwhite/the-time-lord) - A theme based on gallifrey.
+* [the-time-lord ★0 ⏳3Y](https://github.com/jhwhite/the-time-lord) - A theme based on gallifrey.
 * [theme-line ★6](https://github.com/yw9381/oh-my-zsh_theme_line) - Colorful theme with Git status.
 * [theraveler ★0](https://github.com/azah/the-raveler) - Based on theunraveler.
+* [topan ★0](https://github.com/fudyartanto/topan-theme-oh-my-zsh) - Includes git information; best on dark backgrounds.
 * [tq ★0](https://github.com/kitian616/tq-zsh-theme) - Displays git status, time, requires a Powerline font.
 * [trajan ★1 ⏳5Y](https://github.com/denisinla/trajan-zsh-theme) - A dark theme for ZSH.
 * [trinity](https://github.com/de-luca/Trinity) - A simple theme based on [geometry](https://github.com/frmendes/geometry).
@@ -782,6 +793,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [vanan ★0](https://github.com/avano/vanan-zsh-theme) - Minimalist theme with git information for dark terminals.
 * [vinhnx ★7 ⏳4Y](https://github.com/vinhnx/vinhnx.zsh-theme) - Modified from themes/mgutz.zsh-theme.Looks great when using with Solarized color scheme.
 * [vira ★0](https://github.com/FernandoTorres/omz-vira) - An update of the bira theme that shows the vim bindkey -v status.
+* [wade ★3](https://github.com/wadehammes/wade.zsh-theme) - Mashup of the popular ZSH themes '[Agnoster](https://gist.github.com/agnoster/3712874)' and '[Fishy](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/fishy.zsh-theme)', with some visual tweaks.
 * [wang-iterm-zsh ★5 ⏳1Y](https://github.com/0532/wang-iterm-zsh) - Based on the 0532 theme.
 * [wild-cherry ★309](https://github.com/mashaal/wild-cherry) - A fairy-tale inspired theme for ZSH, iTerm, Sublime, Atom, & Mou.
 * [work-line ★5](https://github.com/afnizarnur/work-line) - Theme with nice emojis.

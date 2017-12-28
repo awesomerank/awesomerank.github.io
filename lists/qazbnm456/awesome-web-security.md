@@ -33,6 +33,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
   - [XSS](#xss---cross-site-scripting)
   - [CSV Injection](#csv-injection)
   - [SQL Injection](#sql-injection)
+  - [Command Injection](#command-injection)
   - [ORM Injection](#orm-injection)
   - [FTP Injection](#ftp-injection)
   - [XXE](#xxe---xml-external-entity)
@@ -128,6 +129,14 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 ### SQL Injection
 
 * [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) - Written by [@netsparker](https://twitter.com/netsparker).
+* [SQL Injection Wiki](https://sqlwiki.netspi.com/) - Written by [NETSPI](https://www.netspi.com/).
+* [SQL Injection Pocket Reference](https://websec.ca/kb/sql_injection) - Written by [@LightOS](https://twitter.com/LightOS).
+
+<a name="command-injection"></a>
+### Command Injection
+
+* [rubyでopenコマンドを使用するときに気をつけること](http://www.lanches.co.jp/blog/5996) - Written by [金子 将範](http://www.lanches.co.jp/author/rubyist).
+* [Potential command injection in resolv.rb](https://github.com/ruby/ruby/pull/1777) - Written by [@drigg3r](https://github.com/drigg3r).
 
 <a name="orm-injection"></a>
 ### ORM Injection
@@ -434,7 +443,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [webshell ★2595](https://github.com/tennc/webshell) - This is a webshell open source project by [@tennc](https://github.com/tennc).
 * [Weevely ★1067](https://github.com/epinna/weevely3) - Weaponized web shell by [@epinna](https://github.com/epinna).
 * [Webshell-Sniper ★131](https://github.com/WangYihang/Webshell-Sniper) - Manage your website via terminal by [@WangYihang](https://github.com/WangYihang).
-* [Reverse-Shell-Manager ★76](https://github.com/WangYihang/Reverse-Shell-Manager) - Reverse Shell Manager via Terminal [@WangYihang](https://github.com/WangYihang).
+* [Reverse-Shell-Manager ★83](https://github.com/WangYihang/Reverse-Shell-Manager) - Reverse Shell Manager via Terminal [@WangYihang](https://github.com/WangYihang).
 * [Linux后门整理合集（脉搏推荐）](https://www.secpulse.com/archives/59674.html) - Written by [armyzer0](https://www.secpulse.com/archives/author/armyzer0).
 
 <a name="tools-disassembler"></a>
@@ -455,6 +464,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 **use at your own risk**
 
 * [haveibeenpwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach by [Troy Hunt](https://www.troyhunt.com/).
+* [databases.today](https://www.databases.today/index.php) - The biggest free-to-download collection of publicly available website databases for security researchers and journalists by [@publicdbhost](https://twitter.com/publicdbhost).
 * [70 SECURITY TEAM Social Engineering Data](http://s.70sec.com/) - 70 SECURITY TEAM 社工库 by [70 Security Team](http://70sec.com/).
 * [mysql-password](http://www.mysql-password.com/database/1) - Database of MySQL hashes.
 
@@ -483,6 +493,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [@hasegawayosuke](https://twitter.com/hasegawayosuke) - Japanese javascript security researcher.
 
 ## Practices
+
 <a name="practices-application"></a>
 ### Application
 

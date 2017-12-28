@@ -345,7 +345,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [OpenSSL](https://github.com/Zewo/OpenSSL) - Swift OpenSSL for OS X and Linux.
 - [SweetHMAC ★32 ⏳1Y](https://github.com/jancassio/SweetHMAC) - Tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
 - [Swift-Sodium ★202](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and OS X.
-- [SwiftSSL ★183 ⏳1Y](https://github.com/SwiftP2P/SwiftSSL) - Elegant crypto toolkit in Swift.
+- [SwiftSSL ★183 ⏳2Y](https://github.com/SwiftP2P/SwiftSSL) - Elegant crypto toolkit in Swift.
 - [SwiftThemis](https://github.com/cossacklabs/themis/wiki/Swift-Howto) - Swift wrapper on Themis for iOS and MacOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ## Resources

@@ -412,7 +412,7 @@ Here awesome badge for your project:
 
 ### <a name="libraries-frameworks-command-line-interface"></a>Command Line Interface <sup>[Back ⇈](#libraries-frameworks-command-line-interface-subcategory)</sup>
 * [leprosus/kotlin-cli ★25 ⏳1Y](https://github.com/leprosus/kotlin-cli) - Kotlin-CLI - command line interface options parser for Kotlin.
-* [jimschubert/kopper ★35](https://github.com/jimschubert/kopper) - A simple Kotlin option parser
+* [jimschubert/kopper ★35 ⏳1Y](https://github.com/jimschubert/kopper) - A simple Kotlin option parser
 * [xenomachina/kotlin-argparser ★180](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
 
 ### <a name="libraries-frameworks-browsers"></a>Browsers <sup>[Back ⇈](#libraries-frameworks-browsers-subcategory)</sup>

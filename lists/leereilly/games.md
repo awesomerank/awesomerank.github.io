@@ -108,7 +108,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Coffee Snake ★18 ⏳2Y](https://github.com/dommmel/coffee-snake) - HTML5 snake game written in CoffeeScript. [Play it now!](http://dommmel.github.com/coffee-snake/)
 * [Coil ★23 ⏳5Y](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play it now!](http://hakim.se/experiments/html5/coil/)
 * [Color Quest ★35 ⏳2Y](https://github.com/redbluegames/game-off-2013) - Infinite runner following a black and white pixel's quest to change into a color pixel. [Play it now!](http://redbluegames.com/game-off-2013/)
-* [Core Commiter ★13 ⏳4Y](https://github.com/vladikoff/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://committer.meteor.com/)
+* [Core Commiter ★13 ⏳5Y](https://github.com/vladikoff/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://committer.meteor.com/)
 * [Crappy Bird ★18](https://github.com/varunpant/CrappyBird) - Flappy Bird clone in JavaScript and Canvas2D API. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
 * [Custom Tetris ★73 ⏳2Y](https://github.com/ondras/custom-tetris) - Play the classic Tetris game the way you like it. [Play it now!](http://ondras.github.io/custom-tetris/)
 * [d3shooter ★4 ⏳3Y](https://github.com/nsmirn0v/d3shooter) - Asteroids style game in HTML5 as a demo of the d3 library. [Play it now!](http://d3shooter.herokuapp.com)
@@ -261,7 +261,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [CyberPong ★1 ⏳1Y](https://github.com/dreamtocode/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit. [Play it now!](http://cyber-pong.bitballoon.com/)
 * [Squirts ★10 ⏳2Y](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript. [Play it now!](http://is.gd/squirts)
 * [The Killer ★8 ⏳2Y](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
-* [Turkey Cooking Simulator ★17 ⏳2Y](https://github.com/fernjager/game-off-2013) - You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family. [Play it now!](http://fernjager.github.io/game-off-2013/index.html)
+* [Turkey Cooking Simulator ★17 ⏳3Y](https://github.com/fernjager/game-off-2013) - You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family. [Play it now!](http://fernjager.github.io/game-off-2013/index.html)
 
 -------
 
@@ -558,9 +558,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Bfxr ★500 ⏳2Y](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
 * [Brood War API ★1035](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
 * [FlxCollisions ★1 ⏳6Y](https://github.com/gamebytes/FlxCollisions) - Simple set of 2d physics + collision demos for flixel v2.0. [Play it now!](http://flixel.org/flxcollisions/)
-* [Gamertag ★18 ⏳3Y](https://github.com/barisbalic/gamertag) - Gem for retrieving Xbox Live Gamertag information from various sources.
+* [Gamertag ★18 ⏳4Y](https://github.com/barisbalic/gamertag) - Gem for retrieving Xbox Live Gamertag information from various sources.
 * [Greenworks ★695](https://github.com/greenheartgames/greenworks) - A node.js/nw.js addon allowing you to integrate HTML5 game with Steamworks.
-* [Halo::Reach::API ★10 ⏳3Y](https://github.com/agoragames/halo-reach-api) - Ruby gem for interacting with the Halo:Reach API.
+* [Halo::Reach::API ★10 ⏳4Y](https://github.com/agoragames/halo-reach-api) - Ruby gem for interacting with the Halo:Reach API.
 * [IodineGBA ★462](https://github.com/taisel/IodineGBA) - GameBoy Advance emulator written entirely in JavaScript and powered by HTML5.
 * [itch ★737](https://github.com/itchio/itch) - An electron cross-platform game downloader, installer, and library manager for itch.io written in TypeScript.
 * [JavaScript Breakouts ★498 ⏳2Y](https://github.com/city41/breakouts) - Collection of JavaScript engine implementations of [*Breakout*](http://en.wikipedia.org/wiki/Breakout_%28video_game%29).

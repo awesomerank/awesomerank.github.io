@@ -528,7 +528,7 @@ Symmetric-key encryption library for PHP applications. (**Recommended** over rol
 
 If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
 
-### [ircmaxell/RandomLib ★644](https://github.com/ircmaxell/RandomLib)
+### [ircmaxell/RandomLib ★644 ⏳1Y](https://github.com/ircmaxell/RandomLib)
 
 Useful for generating random strings or numbers
 

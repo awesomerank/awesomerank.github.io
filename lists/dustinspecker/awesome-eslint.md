@@ -57,7 +57,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Ember](https://github.com/netguru/eslint-plugin-ember) - Linting rules for Ember
 - [Hapi ★16](https://github.com/continuationlabs/eslint-plugin-hapi) – Linting rules for hapi
 - [Jasmine ★51](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine
-- [Jest ★22](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest
+- [Jest ★41](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest
 - [JSDoc ★115](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments
 - [Lodash ★121](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules
 - [Lodash/fp ★97](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules
@@ -100,7 +100,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Immutable ★706](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript
 - [JSX a11y ★702](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements
 - [new-with-error ★12 ⏳2Y](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`
-- [no-inferred-method-name ★26 ⏳1Y](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
+- [no-inferred-method-name ★26 ⏳2Y](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
 - [no-loops ★33](https://github.com/buildo/eslint-plugin-no-loops) - It's 2017 and you still use loops?
 - [no-use-extend-native ★24](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects
 - [Promise ★219](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises

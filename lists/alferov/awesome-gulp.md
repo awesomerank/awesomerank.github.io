@@ -254,7 +254,7 @@ title: Awesome Rank for alferov/awesome-gulp
 * [polymer-starter-kit ★2452](https://github.com/polymerelements/polymer-starter-kit) - A starting point for Polymer 1.0 apps.
 * [este ★5275](https://github.com/este/este) - The most complete React/Flux dev stack and starter kit for isomorphic functional web apps.
 * [mnml ★729](https://github.com/mrmrs/mnml) - Minimal boilerplate to start a responsive HTML5/Sass project.
-* [kraken ★667](https://github.com/cferdinandi/kraken) - A lightweight, mobile-first boilerplate for front-end web developers.
+* [kraken ★667 ⏳1Y](https://github.com/cferdinandi/kraken) - A lightweight, mobile-first boilerplate for front-end web developers.
 * [angularjs-gulp-browserify-boilerplate ★1075](https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate) - Boilerplate using AngularJS, Sass, gulp, and Browserify.
 * [hapi-ninja ★397 ⏳2Y](https://github.com/poeticninja/hapi-ninja) - A Node.js, Hapi, and Swig boilerplate.
 * [laravel-5-boilerplate ★2595](https://github.com/rappasoft/laravel-5-boilerplate) - A Laravel 5 boilerplate project.

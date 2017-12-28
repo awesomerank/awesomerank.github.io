@@ -143,6 +143,7 @@ A collection of awesome things regarding React ecosystem.
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 * [React Primer ★3707 ⏳1Y](https://github.com/mikechau/react-primer-draft)
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
+* [React js tutorial](https://hackr.io/tutorials/learn-react)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one ★2943](https://github.com/arkency/reactjs_koans)
 * [LearnCode React Tutorials](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 * [Thinkster React topics](https://thinkster.io/topics/react)
@@ -330,6 +331,7 @@ A collection of awesome things regarding React ecosystem.
 * [VistarMedia Components](http://cmpnt.vistarmedia.com/)
 * [React Topcoat UI components ★97 ⏳2Y](https://github.com/kjda/react-topui)
 * [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
+* [Ant Design of React - A set of high-quality React components](http://github.com/ant-design/ant-design/)
 * [react-md - Set of React components and sass files for implementing Google's Material Design ★1476](https://github.com/mlaursen/react-md)
 * [material-ui - A CSS Framework and a Set of React Components for Material Design](https://github.com/callemall/material-ui)
 * [ReactSymbols - Pixel perfect UI Kit / Library with ready-to-use components + original Sketch resource file](http://reactsymbols.com)
@@ -364,7 +366,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-tween-state - React animation tween state ★1693](https://github.com/chenglou/react-tween-state)
 * [react-stripe-checkout - Easily load Stripe Checkout as a React component ★411](https://github.com/azmenak/react-stripe-checkout)
 * [react-swipe - Brad Birdsall's swipe.js, as a React component](https://github.com/jed/react-swipe)
-* [react-smart-time-ago - Show relative "time ago" dates ★30 ⏳2Y](https://github.com/KyleAMathews/react-smart-time-ago)
+* [react-smart-time-ago - Show relative "time ago" dates ★30 ⏳3Y](https://github.com/KyleAMathews/react-smart-time-ago)
 * [react-autoupdate-time - Renders a <time> element that autoupdates ★20 ⏳2Y](https://github.com/KyleAMathews/react-autoupdate-time)
 * [react-time - Component for React to render relative and/or formatted dates into <time> ★191](https://github.com/andreypopp/react-time)
 * [react-crouton - A message component for reactjs ★139](https://github.com/xeodou/react-crouton)
@@ -758,7 +760,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Native Sample Apps
 * [HackerNews ★3241](https://github.com/iSimar/HackerNews-React-Native)
-* [Ziliun ★252 ⏳1Y](https://github.com/sonnylazuardi/ziliun-react-native)
+* [Ziliun ★252 ⏳2Y](https://github.com/sonnylazuardi/ziliun-react-native)
 * [FinanceReactNative ★1370](https://github.com/7kfpun/FinanceReactNative)
 * [SplashWalls ★58 ⏳1Y](https://github.com/nashvail/SplashWalls)
 * [NBAreact ★60](https://github.com/jbkuczma/NBAreact)

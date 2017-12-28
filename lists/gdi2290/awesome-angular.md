@@ -394,18 +394,19 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
 * [nativescript-angular ★728](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer ★725](https://github.com/angular/react-native-renderer)
-* [GraphQL + Angular ★298](https://github.com/apollographql/apollo-angular)
+* [GraphQL + Angular ★320](https://github.com/apollographql/apollo-angular)
 
 #### Components
 * [Material 2 ★12293](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
 * [NG ZORRO ★1923](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
-* [Element Angular ★287](https://github.com/eleme/element-angular) - Element Design components built on top of Angular 2
+* [Element Angular ★348](https://github.com/eleme/element-angular) - Element Design components built on top of Angular 2
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [ng2-bootstrap ★3486](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components
 * [ng2-charts ★1028](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
 * [ng2-dragula ★1104](https://github.com/valor-software/ng2-dragula) Drag and Drop so simple it hurts!
 * [ng2-file-upload ★1077](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
 * [ng2-handsontable ★206](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
+* [ng2-markdown ★17](https://github.com/evanplaice/ng2-markdown) Angular2 Markdown Web Component
 * [ng2-select ★550](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
 * [ng2-safe-img ★5 ⏳1Y](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
 * [ng2-table ★461](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
@@ -413,7 +414,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-bs ★12 ⏳2Y](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
 * [ng-lightning ★575](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
 * [ag-grid](https://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
-* [angular2-query-builder ★5](https://github.com/zebzhao/Angular-QueryBuilder) Modernized query builder based on jquery QueryBuilder
+* [angular2-query-builder ★8](https://github.com/zebzhao/Angular-QueryBuilder) Modernized query builder based on jquery QueryBuilder
 * [angular2-grid ★304](https://github.com/BTMorton/angular2-grid) A drag/drop/resize grid-based plugin directive for angular2.
 * [angular2-jwt ★1492](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
 * [angular2-cookie ★101](https://github.com/salemdar/angular2-cookie) Library that implements Angular 1.x $cookies service in Angular 2
@@ -423,7 +424,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular-cesium ★37](https://github.com/TGFTech/angular-cesium) Creating map based web apps using Cesium and Angular
 * [ng2-radio-group ★42](https://github.com/pleerock/ngx-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
 * [ng2-dropdown ★67](https://github.com/pleerock/ngx-dropdown) Dropdown menu for angular2 and bootstrap 3
-* [angular2-multiselect-dropdown ★36](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Angular 2 multiselect dropdown component for web applications
+* [angular2-multiselect-dropdown ★47](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Angular 2 multiselect dropdown component for web applications
 * [ng2-progress-bar ★20](https://github.com/pleerock/ngx-progress-bar) Simple progress bar for angular2 and bootstrap 3
 * [ng2-tabs ★34](https://github.com/pleerock/ngx-tabs) Tabs control for angular2 and bootstrap 3
 * [ng2-modal ★105](https://github.com/pleerock/ngx-modal) Modal window for angular2 and bootstrap 3

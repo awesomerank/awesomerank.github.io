@@ -252,9 +252,9 @@ Moreover, there are other rare variants:
  - Bigsby®
  - Kahler®
 
-> [callahamguitar.com](http://www.callahamguitars.com/blocks.htm) - Good overview of the Fender tremolos
+> [callahamguitar.com](http://www.callahamguitars.com/technicalinfo.htm) - technical specifications of some coustom parts.
 
-
+  
 ### Pickup Routing
 
 Description  | Av. length/width/depth*
@@ -395,7 +395,7 @@ pickup switch             |  -   |  y   |  y  |  y  | y   | y
 
 '³' c-switch/varitone - Rotary switch for different pots
 
-> [open.guitars (german)](https://open.guitars/e-gitarren-selbstbau/elektronik/gitarrenelektronik-tonabnehmer-spulenschaltung/) - Hambucker Con­ductor/Coils switching options.
+> [open.guitars (german)](https://open.guitars/e-gitarren-selbstbau/elektronik/gitarrenelektronik-tonabnehmer-spulenschaltung/) - Hambucker Conductor/Coils switching options.
 
 
 ### Electronics Wiring Schemas
@@ -405,7 +405,6 @@ More wiring schemas from:
 
 >- [seymourduncan](http://www.seymourduncan.com/wiring-diagrams)
 >- [dimarzio](http://www.dimarzio.com/support/wiring-diagrams)
->- [fender](http://www2.fender.com/support/articles/?category=fender-electric-guitars)
 >- [bareknucklepickups](https://bareknucklepickups.co.uk/main/schematics.php)
 >- [amplifiedparts](https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams)
 

@@ -80,7 +80,7 @@ based on [awesome-python ★42063](https://github.com/vinta/awesome-python).
 
 * [pyramid_webassets ★64 ⏳1Y](https://github.com/sontek/pyramid_webassets) - Pyramid
   extension for working with the webassets library.
-* [pyramid_bowerstatic ★12 ⏳2Y](https://github.com/mrijken/pyramid_bowerstatic) -
+* [pyramid_bowerstatic ★12 ⏳3Y](https://github.com/mrijken/pyramid_bowerstatic) -
   integration of Bowerstatic in Pyramid
 
 ## Async
@@ -162,7 +162,7 @@ based on [awesome-python ★42063](https://github.com/vinta/awesome-python).
   Pyramid web framework session factory backed by Redis.
 * [pyramid_dogpile_cache ★6 ⏳3Y](https://github.com/moriyoshi/pyramid_dogpile_cache) -
   dogpile.cache configuration package for Pyramid
-* [pyramid_sessions ★0 ⏳2Y](https://github.com/joulez/pyramid_sessions) - Multiple
+* [pyramid_sessions ★0 ⏳3Y](https://github.com/joulez/pyramid_sessions) - Multiple
   session support for the Pyramid Web Framework
 * [pyramid_nacl_session ★7 ⏳1Y](https://github.com/Pylons/pyramid_nacl_session) -
   defines an encrypting, pickle-based cookie serializer, using

@@ -84,7 +84,7 @@ Menu
 * [MOOC Courses / Tutorials](#courses-or-tutorials)
 * [Case Studies](#case-studies)
 * [Persistent Volume Providers](#persistent-volume-providers)
-* [Useful Libraries/Scripts](#developer-librariesscripts)
+* [Useful Libraries/Scripts](#developer-libraries-scripts)
   * [Python](#python)
   * [Jenkins](#jenkins)
 * [Projects](#projects)
@@ -141,7 +141,7 @@ Starting Point
 * [Google is years ahead when it comes to the cloud, but it's happy the world is catching up](http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms)
 * [An Intro to Google’s Kubernetes and How to Use It](http://www.ctl.io/developers/blog/post/what-is-kubernetes-and-how-to-use-it/) by [Laura Frank](https://twitter.com/rhein_wein)
 * [Getting Started on Kubernetes](http://containertutorials.com/get_started_kubernetes/index.html) by [Rajdeep Dua](https://twitter.com/rajdeepdua)
-* [Kubernetes: The Future of Cloud Hosting](http://meteorhacks.com/learn-kubernetes-the-future-of-the-cloud/) by [Meteorhacks](https://twitter.com/meteorhacks)
+* [Kubernetes: The Future of Cloud Hosting](https://github.com/meteorhacks/meteorhacks.github.io/blob/master/_posts/2015-04-22-learn-kubernetes-the-future-of-the-cloud.md) by [Meteorhacks](https://twitter.com/meteorhacks)
 * [Kubernetes by Google](http://thevirtualizationguy.wordpress.com/tag/kubernetes/) by [Gaston Pantana](https://twitter.com/GastonPantana)
 * [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/) by [Arun Gupta](https://twitter.com/arungupta)
 * [Application Containers: Kubernetes and Docker from Scratch](http://keithtenzer.com/2015/06/01/application-containers-kubernetes-and-docker-from-scratch/) by [Keith Tenzer](https://twitter.com/keithtenzer)
@@ -184,6 +184,7 @@ Installers
 * [Simplekube ★57](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
 * [Conjure-up ★211](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostique - [MIT](https://github.com/conjure-up/conjure-up/blob/master/LICENSE)
 * [Kube-ansible ★24](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique - [MIT](https://github.com/kairen/kube-ansible/blob/master/LICENSE)
+* [Kubernetes-Saltstack ★16](https://github.com/valentin2105/Kubernetes-Saltstack) - `systemD` OS - Cloud Agnostique 
 * [matchbox ★470](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 
 Main Resources
@@ -275,6 +276,8 @@ Useful Articles
 * [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
 * [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes (part 1 of 2)](http://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
 * [Choosing a CNI Provider for Kubernetes](http://chrislovecnm.com/kuberentes/cni/choosing-a-cni-provider/?1234) by [Chris Love](https://twitter.com/chrislovecnm)
+* [Enable IPv6 on Kubernetes with Project Calico](https://www.projectcalico.org/enable-ipv6-on-kubernetes-with-project-calico/) by [Valentin Ouvrard](https://twitter.com/Valentin_NC)
+* [Kubernetes in IPV6-only](https://opsnotice.xyz/kubernetes-ipv6-only/) by [Valentin Ouvrard](https://twitter.com/Valentin_NC)
 
 Managed Kubernetes
 =======================================================================
@@ -609,6 +612,7 @@ Projects
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
 * [Kubectl Aliases ★151](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl
 * [Vikube ★23](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
+* [kube-ps1 ★7](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
 
 ## Application deployment orchestration
 
@@ -620,7 +624,7 @@ Projects
 * [Nulecule ★225 ⏳1Y](https://github.com/projectatomic/nulecule)
 * [Deployment manager](https://cloud.google.com/deployment-manager/)
 * [Psykube ★52](https://github.com/commercialtribe/psykube)
-* [Brigade ★628](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
+* [Brigade ★746](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
 
 ## Configuration
 

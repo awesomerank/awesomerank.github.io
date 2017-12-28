@@ -149,7 +149,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 * [delegate ★85](https://github.com/zenorocha/delegate) - Lightweight event delegation.
 * [insert-css ★186](https://github.com/substack/insert-css) - Insert a string of css into the head
-* [dom-element-value ★3](https://github.com/crysalead-js/dom-element-value) - DOM element value getter/setter.
+* [dom-element-value ★3 ⏳1Y](https://github.com/crysalead-js/dom-element-value) - DOM element value getter/setter.
 * [image-promise ★37](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
 * [get-media-size ★5 ⏳1Y](https://github.com/bfred-it/get-media-size) - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
 * [document-ready ★35](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.

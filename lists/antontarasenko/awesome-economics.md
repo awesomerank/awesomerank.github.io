@@ -171,7 +171,7 @@ Please, add yourself and your economics-related projects.
 ### Projects
 
 * [economics-book ★5](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
-* [pyeconomics ★76 ⏳3Y](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
+* [pyeconomics ★76 ⏳4Y](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 * [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 * [quantecon_nyu_2016 ★39 ⏳1Y](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
 * [zice-2014 ★14 ⏳3Y](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.

@@ -240,7 +240,7 @@ Further resources:
 * [mgl ★146 ⏳2Y](https://github.com/melisgl/mgl) - Neural networks  (boltzmann machines, feed-forward and recurrent nets), Gaussian Processes.
 * [mgl-gpr ★36 ⏳2Y](https://github.com/melisgl/mgl-gpr) - Evolutionary algorithms.
 * [cl-libsvm ★14 ⏳3Y](https://github.com/melisgl/cl-libsvm) - Wrapper for the libsvm support vector machine library.
-* [cl-online-learning ★26](https://github.com/masatoi/cl-online-learning) - Online learning algorithms (Perceptron, AROW, SCW, Logistic Regression).
+* [cl-online-learning ★27](https://github.com/masatoi/cl-online-learning) - Online learning algorithms (Perceptron, AROW, SCW, Logistic Regression).
 * [cl-random-forest ★19](https://github.com/masatoi/cl-random-forest) - Implementation of Random Forest in Common Lisp.
 
 <a name="clojure"></a>
@@ -314,7 +314,7 @@ Further resources:
 
 * [go-porterstemmer ★142 ⏳1Y](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm.
 * [paicehusk ★23 ⏳4Y](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
-* [snowball ★8](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
+* [snowball ★8 ⏳1Y](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 * [go-ngram ★82 ⏳1Y](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression.
 * [word-embedding ★92](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 * [sentences ★219](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
@@ -328,7 +328,7 @@ Further resources:
 * [go-ml ★150](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution.
 * [bayesian ★514](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 * [go-galib ★155 ⏳2Y](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / Golang.
-* [Cloudforest ★565](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang.
+* [Cloudforest ★565 ⏳1Y](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang.
 * [gobrain ★222](https://github.com/goml/gobrain) - Neural Networks written in Go.
 * [GoNN ★278 ⏳1Y](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN.
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
@@ -341,7 +341,7 @@ Further resources:
 * [go-graph ★82 ⏳2Y](https://github.com/StepLg/go-graph) - Graph library for Go/Golang language.
 * [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation.
 * [RF ★86 ⏳3Y](https://github.com/fxsjy/RF.go) - Random forests implementation in Go.
-* [Glot ★161](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot. 
+* [Glot ★176](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot. 
 
 <a name="haskell"></a>
 ## Haskell
@@ -459,7 +459,7 @@ Further resources:
 * [statkit ★43 ⏳3Y](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript.
 * [datakit ★294](https://github.com/nathanepstein/datakit) - A lightweight framework for data analysis in JavaScript
 * [science.js ★760](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript.
-* [Z3d ★87 ⏳2Y](https://github.com/NathanEpstein/Z3d) - Easily make interactive 3d plots built on Three.js
+* [Z3d ★87 ⏳3Y](https://github.com/NathanEpstein/Z3d) - Easily make interactive 3d plots built on Three.js
 * [Sigma.js](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 * [C3.js](http://c3js.org/)- customizable library based on D3.js for easy chart drawing.
 * [Datamaps](http://datamaps.github.io/)- Customizable SVG map/geo visualizations using D3.js.
@@ -500,12 +500,12 @@ Further resources:
 * [Pavlov.js ★484](https://github.com/NathanEpstein/Pavlov.js) - Reinforcement learning using Markov Decision Processes.
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 * [deeplearnjs ★5214](https://github.com/PAIR-code/deeplearnjs) - A hardware-accelerated machine intelligence library for the web
-* [JSMLT ★5](https://github.com/jsmlt/jsmlt) - Machine learning toolkit with classification and clustering for Node.js; supports visualization (see [visualml.io](https://visualml.io)).
+* [JSMLT ★7](https://github.com/jsmlt/jsmlt) - Machine learning toolkit with classification and clustering for Node.js; supports visualization (see [visualml.io](https://visualml.io)).
 
 <a name="javascript-misc"></a>
 #### Misc
 
-* [stdlib ★578](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+* [stdlib ★627](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 * [sylvester ★967 ⏳2Y](https://github.com/jcoglan/sylvester) - Vector and Matrix math for JavaScript.
 * [simple-statistics ★1652](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
 * [regression-js ★415](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
@@ -1062,7 +1062,7 @@ be
 #### Reinforcement Learning
 * [DeepMind Lab ★4384](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
 * [Gym ★8881](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.
-* [Serpent.AI ★3137](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists. 
+* [Serpent.AI ★3324](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists. 
 * [Universe ★6396](https://github.com/openai/universe) - Universe is a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
 * [ViZDoom ★539](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
 
