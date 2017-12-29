@@ -86,6 +86,7 @@ title: Awesome Rank for razum2um/awesome-clojure
   * [Datsys ★166](https://github.com/metasoarous/datsys)
   * [yada ★498](https://github.com/juxt/yada)
   * [Hoplon](http://hoplon.io/)
+  * [Fulcro ★177](https://github.com/fulcrologic/fulcro)
 
 ## Dependency injection
 

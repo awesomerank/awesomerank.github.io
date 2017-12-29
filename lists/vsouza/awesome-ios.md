@@ -2606,6 +2606,7 @@ Most of these are paid services, some have free tiers.
 * [Plank ★366](https://github.com/pinterest/plank) - A tool for generating immutable model objects.
 * [Lona ★2605](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
 * [XcodeGen ★661](https://github.com/yonaskolb/XcodeGen) - Command line tool that generates your Xcode project from a spec file and your folder structure. :large_orange_diamond:
+* [iSimulator ★9](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
 
 # Rapid Development
 * [Playgrounds ★2371 ⏳1Y](https://github.com/krzysztofzablocki/Playgrounds) - Playgrounds for Objective-C for extremely fast prototyping / learning.

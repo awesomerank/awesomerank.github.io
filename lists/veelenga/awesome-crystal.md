@@ -490,6 +490,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
  * [DeBot ★30](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [Ficha ★16](https://github.com/codenoid/ficha) - A super secret chat app, for any body who needs privacy
+ * [Firegrid ★2](https://github.com/foliea/firegrid) - Click anywhere with only a few key strokes
  * [icr ★232](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
  * [nes ★34](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
