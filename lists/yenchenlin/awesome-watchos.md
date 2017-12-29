@@ -119,7 +119,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
     <space><space><img src="https://camo.githubusercontent.com/544c66f439b1328155ca4463c2fa73e514f80800/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7761746368706963732e6a7067") alt="Example App" width="500"/>
 
- * [WatchKit-Apps ★1077](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit.
+ * [WatchKit-Apps ★1077 ⏳1Y](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit.
  * [watchOS-2-Sampler ★1021](https://github.com/shu223/watchOS-2-Sampler) - Code examples for new features of watchOS 2.
 
  * [soon ★64 ⏳2Y](https://github.com/sandofsky/soon) - A countdown app.

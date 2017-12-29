@@ -528,7 +528,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [vue-webpack-buefy ★2](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
 - [Coypu ★16](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 - [core-server ★1](https://github.com/skyhark-projects/core-server) - Highly scallable VueJs framework with an integrated API system, and multiple advanced features.
-- [discord-logo ★4](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
+- [discord-logo ★5](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
 - [node-vue-template ★0](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
 - [vue-storefront ★422](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
 -[fd-vue ★5](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
@@ -1560,7 +1560,7 @@ the amazing Vue.js.
  - [object-to-vuex-store ★1](https://github.com/Raiondesu/object-to-vuex-store) - Convert any JS object into a valid vuex-store object.
  - [vuex-async-module ★3](https://github.com/liqueflies/vuex-async-module) - Reduce async boilerplate code generating Vuex modules. Compatible with Vue 2.x.
  - [vuex-api ★39](https://github.com/vouill/vuex-api) - A vuex plugin for effortlessly handle api calls.
- - [vuex-queries ★4](https://github.com/whtsky/vuex-queries) - Vuex-Queries helps you write query functions in Vuex
+ - [vuex-queries ★5](https://github.com/whtsky/vuex-queries) - Vuex-Queries helps you write query functions in Vuex
 
 ###### Sync Between Tabs
 

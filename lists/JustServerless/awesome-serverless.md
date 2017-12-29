@@ -1530,6 +1530,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Middy ★61](https://github.com/middyjs/middy) - The stylish Node.js middleware engine for AWS Lambda.
 - [Binaris](https://www.binaris.com) - Performance-oriented FaaS vendor.
 - [FaaS Mark](http://faasmark.com) - Benchmark Functions-as-a-Service platforms ([GitHub project ★6](https://github.com/gobinaris/faasmark)).
+- [Tyk](https://tyk.io) - Tyk Open Source API Gateway ([GitHub project ★2662](https://github.com/TykTechnologies/tyk)).
 
 ## Plugins
 
@@ -1706,7 +1707,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [AWS resource names ★1](https://github.com/concon121/serverless-plugin-aws-resource-names) - Enable custom AWS resource names.
 - [Nested stacks ★1](https://github.com/concon121/serverless-plugin-nested-stacks) - Nested stacks support.
 - [Alexa skills ★13](https://github.com/marcy-terui/serverless-alexa-skills) - Manage your Alexa skills with Serverless Framework.
-- [Attach Managed Policy ★0](https://github.com/Nordstrom/serverless-attach-managed-policy) - Automatically attach an AWS Managed IAM Policy (or Policies) to all IAM Roles created by the service.
+- [Attach Managed Policy ★1](https://github.com/Nordstrom/serverless-attach-managed-policy) - Automatically attach an AWS Managed IAM Policy (or Policies) to all IAM Roles created by the service.
 - [DynamoDB auto scaling ★2](https://github.com/medikoo/serverless-plugin-dynamodb-autoscaling) - Auto generate auto scaling configuration for configured DynamoDB tables.
 - [VPC ENI cleanup ★1](https://github.com/medikoo/serverless-plugin-vpc-eni-cleanup) - Automatic cleanup of VPC network interfaces on stage removal.
 - [CloudFormation Change Sets ★2](https://github.com/trek10inc/serverless-cloudformation-changesets) - Natively deploy to CloudFormation via Change Sets, instead of directly.

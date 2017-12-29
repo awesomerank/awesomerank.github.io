@@ -271,7 +271,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slackr-bot ★13 ⏳1Y](https://github.com/tal/slackr-bot) - A node module for making bots that use the Slack RTM API
 - [slacktappd ★13 ⏳1Y](https://github.com/nicksergeant/slacktappd) - A tiny little app to post Untappd checkins to Slack
 - [slacktocracy ★5 ⏳2Y](https://github.com/nicksergeant/slacktocracy) - A tiny little app to post Fitocracy workouts to Slack
-- [SlackToggle ★0 ⏳2Y](https://github.com/keirua/SlackToggle) - Chrome extension to collapse/expand a Slack discussion section
+- [SlackToggle ★0 ⏳3Y](https://github.com/keirua/SlackToggle) - Chrome extension to collapse/expand a Slack discussion section
 - [slackus ★21](https://github.com/jonathanwiesel/slackus) - New Disqus comment notifier for Slack
 - [SlackVote ★41 ⏳2Y](https://github.com/azharb/SlackVote) - Slack integration that allows team members to vote
 - [slackWeather.js](https://gist.github.com/cmaneu/932e4628712ec9bbcaea) - Slack slackbot send weather forecast
