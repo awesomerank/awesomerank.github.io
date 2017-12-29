@@ -2142,6 +2142,8 @@ Most of these are paid services, some have free tiers.
 * [AZDialogViewController ★527](https://github.com/Minitour/AZDialogViewController) - A highly customizable alert dialog controller that mimics Snapchat's alert dialog. :large_orange_diamond:
 * [MIBlurPopup ★362](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
 * [LNPopupController ★2002](https://github.com/LeoNatan/LNPopupController) - a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
+* [PopupWindow ★73](https://github.com/shin8484/PopupWindow) - PopupWindow is a simple Popup using another UIWindow in Swift. :large_orange_diamond:
+
 
 #### ProgressView
 * [ProgressMeter ★57](https://github.com/khawajafarooq/ProgressMeter) - Display the progress on a meter with customized annotations for iOS developed in Swift :large_orange_diamond:
@@ -2152,7 +2154,7 @@ Most of these are paid services, some have free tiers.
 * [SVPullToRefresh ★4837 ⏳1Y](https://github.com/samvermette/SVPullToRefresh) - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. http://samvermette.com/314
 * [UzysAnimatedGifPullToRefresh ★1409 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - Add PullToRefresh using animated GIF to any scrollView with just simple code
 * [PullToRefreshCoreText ★314 ⏳1Y](https://github.com/cemolcay/PullToRefreshCoreText) - PullToRefresh extension for all UIScrollView type classes with animated text drawing style
-* [BOZPongRefreshControl ★901 ⏳2Y](https://github.com/boztalay/BOZPongRefreshControl) - A pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app
+* [BOZPongRefreshControl ★901 ⏳3Y](https://github.com/boztalay/BOZPongRefreshControl) - A pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app
 * [CBStoreHouseRefreshControl ★3976 ⏳1Y](https://github.com/coolbeet/CBStoreHouseRefreshControl) - Fully customizable pull-to-refresh control inspired by Storehouse iOS app
 * [SurfingRefreshControl ★51 ⏳1Y](https://github.com/peiweichen/SurfingRefreshControl) - Inspired by CBStoreHouseRefreshControl.Customizable pull-to-refresh control,written in pure Swift :large_orange_diamond:
 * [mntpulltoreact ★781 ⏳2Y](https://github.com/mentionapp/mntpulltoreact) - One gesture, many actions. An evolution of Pull to Refresh.
@@ -2264,7 +2266,7 @@ Most of these are paid services, some have free tiers.
 * [BATabBarController ★655](https://github.com/antiguab/BATabBarController) - A TabBarController with a unique animation for selection
 * [ScrollPager ★434](https://github.com/aryaxt/ScrollPager) - A scroll pager that displays a list of tabs (segments) and manages paging between given views :large_orange_diamond:
 * [Segmentio ★1505](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift. :large_orange_diamond:
-* [KYWheelTabController ★88](https://github.com/ykyouhei/KYWheelTabController) - KYWheelTabController is a subclass of UITabBarController.It displays the circular menu instead of UITabBar. :large_orange_diamond:
+* [KYWheelTabController ★88 ⏳1Y](https://github.com/ykyouhei/KYWheelTabController) - KYWheelTabController is a subclass of UITabBarController.It displays the circular menu instead of UITabBar. :large_orange_diamond:
 * [SuperBadges ★22 ⏳1Y](https://github.com/odedharth/SuperBadges) - Add emojis and colored dots as badges for your Tab Bar buttons 🔶
 * [AZTabBarController ★120](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0 🔶
 * [MiniTabBar ★60](https://github.com/D-32/MiniTabBar) - A clean simple alternative to the UITabBar 🔶

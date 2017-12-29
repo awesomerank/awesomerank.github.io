@@ -131,7 +131,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [I Spy A Ghost ★8 ⏳1Y](https://github.com/OmarShehata/I-Spy-A-Ghost) - an experimental p2p multiplayer game made in HTML5/Phaser using WebRTC. [Play it now!](http://omarshehata.me/html/ludum/)
 * [Jekyll & Hyde Collide ★27 ⏳4Y](https://github.com/awesome-interactive/game-off-2013) - Multi-layered infinite side-scroller. [Play it now!](http://awesome-interactive.github.io/game-off-2013/ExportedGame.html)
 * [JumpSuit ★34](https://github.com/KordonBleu/jumpsuit) - a multiplayer space shooter set in a wrapped universe. [Play it now!](http://jumpsuit.space/)
-* [Marble Soccer ★16 ⏳5Y](https://github.com/jeromeetienne/marbleSoccer) - Marble game for learning three.js.
+* [Marble Soccer ★16 ⏳6Y](https://github.com/jeromeetienne/marbleSoccer) - Marble game for learning three.js.
 * [Mario 5 HTML ★305](https://github.com/robertkleffner/mariohtml5) - Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. [Play it now!](http://rawrbitrary.com/arcade/infinite-mario-bros-in-html5/)
 * [Mega Girl ★47 ⏳4Y](https://github.com/ddionisio/game-off-2013) - Megaman inspired game. [Play it now!](http://www.renegadeware.com/web_games/megagirl/)
 * [Masonry JavaScript Tetris Clone ★7 ⏳2Y](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) - Tetris clone created using HTML5/JavaScript/Phaser. [Play it now!](http://gamedolph.in/sample-page/masonry-tetris-clone/)

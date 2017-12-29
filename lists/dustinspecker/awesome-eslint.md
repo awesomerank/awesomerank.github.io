@@ -67,7 +67,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Ramda ★38](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules
 - [React ★3384](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX
 - [React Native ★268](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules
-- [RequireJS ★22](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS
+- [RequireJS ★22 ⏳1Y](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS
 - [VueJS ★647](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS
 
 ### Misc

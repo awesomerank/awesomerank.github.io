@@ -357,7 +357,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [Tour of Heroes (Vue 2.0)](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue](https://github.com/revue/revue) (redux bindings for Vue), [vue-router ★8059](https://github.com/vuejs/vue-router), [Airbnb eslint](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
   - [vue-table-pagination ★2 ⏳1Y](https://github.com/echoVic/vue-table-pagination) A table with pagination by [echovic](https://github.com/echovic)
   - [Feathers and Vue 2.0 Blog Admin Demo ★54 ⏳1Y](https://github.com/delay/feathers-vue-blog-admin-demo) Demo for using Feathers with Vue 2.0. It includes authentication, vue-router, vue-infinite-loading and roles by [delay](https://github.com/delay)
-  - [vue-zhihudaily-2.0 ★104](https://github.com/cs1707/vue-zhihudaily-2.0) Zhihudaily demo built with Vue 2.0, vue-router & vuex, with server-side rendering. by [cs1707](https://github.com/cs1707)
+  - [vue-zhihudaily-2.0 ★104 ⏳1Y](https://github.com/cs1707/vue-zhihudaily-2.0) Zhihudaily demo built with Vue 2.0, vue-router & vuex, with server-side rendering. by [cs1707](https://github.com/cs1707)
   - [vue-demo-todolist ★42](https://github.com/fishenal/Todos_Vuejs) a simply vue2.0 demo built with Vue 2.0, vue-cli. by [fishenal](https://github.com/fishenal)
   - [**vue-AdminLte** ★303](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
   - [**Vue(2.0) + Node.js: A blog content manage system (CMS)**](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
@@ -1756,7 +1756,7 @@ Payment utilities.
 
  - [language-vue@atom.io ★109](https://github.com/hedefalk/atom-vue) - Vue component file syntax for Atom.
  - [language-vue-component@atom.io ★34 ⏳1Y](https://github.com/CYBAI/language-vue-component) - Adds syntax highlighting to Vue Component files in Atom.
- - [vue-autocomplete@atom.io ★6](https://github.com/ealves-pt/atom-vue-autocomplete) - Vue.js 1.0+ autocomplete for Atom.
+ - [vue-autocomplete@atom.io ★6 ⏳1Y](https://github.com/ealves-pt/atom-vue-autocomplete) - Vue.js 1.0+ autocomplete for Atom.
  - [vue-snippets@atom.io ★11 ⏳1Y](https://github.com/ealves-pt/atom-vue-snippets) - Atom snippets for Vue component files.
  - [vue-autocompile@atom.io ★5 ⏳1Y](https://github.com/paulpflug/vue-autocompile) - Auto compile vue file on save.
  - [lint-sass-vue@atom.io ★12](https://github.com/fsblemos/lint-sass-vue) - Atom.io package to lint Sass/SCSS in `.vue` files.

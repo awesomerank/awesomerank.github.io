@@ -99,7 +99,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Media Players
 
-* [Dash.js ★7 ⏳1Y](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+* [Dash.js ★7 ⏳2Y](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools.
 * [IDJC](http://idjc.sourceforge.net/) - A GTK+ Shoutcast/Icecast client with two main media players.
 * [Kodi ★6512](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
@@ -192,7 +192,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Subtitling
 
 * [CCExtractor](http://ccextractor.sourceforge.net/about-ccextractor.html) - A tool that analyzes video files and produces stand-alone subtitle files.
-* [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - The original fork of dash.js to experiment with XML based subtitles like EBU-TT-D within dash.js. Uses an HTML/CSS overlay. Has since been integrated into [dash.js ★7 ⏳1Y](https://github.com/ebu/dash.js).
+* [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - The original fork of dash.js to experiment with XML based subtitles like EBU-TT-D within dash.js. Uses an HTML/CSS overlay. Has since been integrated into [dash.js ★7 ⏳2Y](https://github.com/ebu/dash.js).
 * [EBU-TT-D W3C XML Schema ★6 ⏳2Y](https://github.com/ebu/ebu-tt-d-xsd) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 * [EBU-TT Live Interoperability Toolkit ★13](https://github.com/ebu/ebu-tt-live-toolkit) - A set of components for generating, testing and distributing subtitle documents in the [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) format.
 * [GStreamer TTML subtitling package ★10 ⏳1Y](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render  EBU-TT-D (TTML) subtitles.

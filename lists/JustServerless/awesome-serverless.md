@@ -1255,7 +1255,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Hello Retail ★159](https://github.com/Nordstrom/hello-retail) - Project with stream processing.
 - [Slack app ★76 ⏳1Y](https://github.com/johnagan/serverless-slack-app) - Slack App Boilerplate with OAuth and Bot actions.
 - [C# hello ★3 ⏳1Y](https://github.com/yunspace/serverless-csharp-hello) - C# HelloWorld using Makefile and Docker containers.
-- [Contact service ★3](https://github.com/ceccode/serverless-contact-service) - Serverless contact service.
+- [Contact service ★3 ⏳1Y](https://github.com/ceccode/serverless-contact-service) - Serverless contact service.
 - [IAM Manager](https://github.com/RafalWilinski/aws-iam-manager) - AWS IAM Manager as a Code.
 - [Swift service template ★109](https://github.com/choefele/swift-lambda-app) - Full-featured project template to develop Lambda functions in Swift.
 - [MSG Gateway](https://github.com/yonahforst/msg-gateway) - A messaging aggregator for kik, skype, twilio, telegram, & messenger. Send and receive messages in a standard format.
@@ -1313,7 +1313,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Restaurant deals ★2](https://github.com/afr114/reactathon2017) - Deals for restaurants.
 - [Profiles ★2](https://github.com/starbucks-hackers/reactathon-profiles) - A profiles microservice.
 - [Appointments ★4](https://github.com/starbucks-hackers/reactathon-appointments) - An appointments microservice.
-- [Alexa template ★1](https://github.com/chrishutchinson/alexa-serverless-template) - Alexa boilerplate service.
+- [Alexa template ★1 ⏳1Y](https://github.com/chrishutchinson/alexa-serverless-template) - Alexa boilerplate service.
 - [Policy generator ★56](https://github.com/dancrumb/generator-serverless-policy) - Yeoman Generator to create IAM policy for deploying a Serverless service.
 - [Deployment CodePipeline ★1](https://github.com/SC5/serverless-deployment-codepipeline) - Use the Serverless Framework with AWS CodePipeline.
 - [.Net core template ★5](https://github.com/PageUpPeopleOrg/serverless-dotnetcore-template) - Sophisticated .Net core template.
@@ -1835,7 +1835,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Hook scripts ★4 ⏳1Y](https://github.com/kennu/serverless-plugin-hookscripts) - Run code whenever a Serverless action is run.
 - [Header function ★1](https://github.com/blackevil245/serverless-header-function) - Automatically run a JavaScript script on every Serverless action hooks.
 - [Runtime Node.js 6.10 ★2](https://github.com/creditiq/serverless-runtime-node610) - Support for the Node.js 6.10 runtime.
-- [Swagger export ★14](https://github.com/kennu/serverless-plugin-swagger-export) - Generate a Swagger JSON definition from your Serverless project.
+- [Swagger export ★14 ⏳1Y](https://github.com/kennu/serverless-plugin-swagger-export) - Generate a Swagger JSON definition from your Serverless project.
 
 ### Modules
 

@@ -529,7 +529,7 @@ phone numbers.
 * [django-calendarium ★179 ⏳1Y](https://github.com/bitlabstudio/django-calendarium) - A reusable app to manage and display a calendar in your templates.
 * [django-changuito ★49](https://github.com/angvp/django-changuito) - A cart app for your django site, an updated fork of django-cart
 * [django-cors-headers ★1853](https://github.com/ottoyiu/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS).
-* [django-dfp ★4 ⏳1Y](https://github.com/praekelt/django-dfp) - App that provides tags to fetch Google DFP ads.
+* [django-dfp ★4 ⏳2Y](https://github.com/praekelt/django-dfp) - App that provides tags to fetch Google DFP ads.
 * [django-dynamic-scraper ★663](https://github.com/holgerd77/django-dynamic-scraper) - Creating Scrapy scrapers via the Django admin interface.
 * [django-extensions ★3445](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
 * [django-filter ★1966](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections.

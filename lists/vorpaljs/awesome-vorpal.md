@@ -74,7 +74,7 @@ Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list
 - [repl ★13 ⏳2Y](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context.
 - [tour ★12 ⏳2Y](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
 - [watch ★2 ⏳2Y](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime.
-- [log ★9 ⏳1Y](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
+- [log ★9 ⏳2Y](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 - [set-or-print ★3 ⏳2Y](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
 
 #### Realtime

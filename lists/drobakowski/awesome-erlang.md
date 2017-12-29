@@ -86,7 +86,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Standalone component from web development frameworks.*
 
 * [cb_admin ★74 ⏳1Y](https://github.com/ChicagoBoss/cb_admin) - An admin interface for Chicago Boss.
-* [cb_websocket_controller ★7 ⏳4Y](https://github.com/dkuhlman/cb_websocket_controller) - A template for implementing a Websocket controller for ChicagoBoss.
+* [cb_websocket_controller ★7 ⏳5Y](https://github.com/dkuhlman/cb_websocket_controller) - A template for implementing a Websocket controller for ChicagoBoss.
 * [giallo_session ★10 ⏳4Y](https://github.com/kivra/giallo_session) - A session management library for the Giallo web framework.
 * [simple_bridge ★92](https://github.com/nitrogen/simple_bridge) - An abstraction layer providing a unified interface to popular Erlang web servers (Cowboy, Inets, Mochiweb, Webmachine, and Yaws).
 

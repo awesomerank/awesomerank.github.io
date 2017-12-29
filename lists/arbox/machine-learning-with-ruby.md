@@ -158,7 +158,7 @@ programming languages with appropriate bindings for Ruby.
 ### Bayesian methods
 - [linnaeus ★28 ⏳2Y](https://github.com/djcp/linnaeus) -
   Redis-backed Bayesian classifier.
-- [naive_bayes ★35 ⏳5Y](https://github.com/reddavis/Naive-Bayes) -
+- [naive_bayes ★35 ⏳6Y](https://github.com/reddavis/Naive-Bayes) -
   Simple Naive Bayes classifier.
 - [nbayes ★119](https://github.com/oasic/nbayes) -
   Full-featured, Ruby implementation of Naive Bayes.

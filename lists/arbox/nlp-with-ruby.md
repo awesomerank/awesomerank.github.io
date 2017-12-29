@@ -362,7 +362,7 @@ For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby]
   Redis-backed Bayesian classifier.
 - [maxent_string_classifier ★8 ⏳8Y](https://github.com/mccraigmccraig/maxent_string_classifier) -
   JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.
-- [naive_bayes ★35 ⏳5Y](https://github.com/reddavis/Naive-Bayes) -
+- [naive_bayes ★35 ⏳6Y](https://github.com/reddavis/Naive-Bayes) -
   Simple Naive Bayes classifier.
 - [nbayes ★119](https://github.com/oasic/nbayes) -
   Full-featured, Ruby implementation of Naive Bayes.

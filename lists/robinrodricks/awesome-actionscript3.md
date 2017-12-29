@@ -100,7 +100,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3isolib ★27 ⏳2Y](https://github.com/as3isolib/as3isolib.v1) - Isometric Library developed to assist in creating isometrically projected games.
 * [IsoHill ★110 ⏳5Y](https://github.com/jadbox/IsoHill-Game-Engine) - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/)).
 * [YCanvas ★119 ⏳3Y](https://github.com/jozefchutka/YCanvas) - High-performance 2D tile renderer and world map renderer.
-* [ND2D](https://github.com/lrrrs/nd2d) - GPU-accelerated 2D game engine using Stage3D ([ND2Dx ★38 ⏳2Y](https://github.com/NoRabbit/ND2Dx)).
+* [ND2D](https://github.com/lrrrs/nd2d) - GPU-accelerated 2D game engine using Stage3D ([ND2Dx ★38 ⏳3Y](https://github.com/NoRabbit/ND2Dx)).
 * [Nexus ★14 ⏳3Y](https://github.com/tversteeg/Nexus) - GPU-accelerated 2D game engine using Stage3D.
 
 #### 3D Frameworks

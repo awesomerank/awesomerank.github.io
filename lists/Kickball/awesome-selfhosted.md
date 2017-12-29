@@ -545,7 +545,7 @@ _Personal e-book management software._
   - [BicBucStriim](http://projekte.textmulch.de/bicbucstriim/) - Provides web-based access to your Calibre Library's e-book collection. ([Source Code ★200](https://github.com/rvolz/BicBucStriim)) `MIT` `PHP`
   - [Calibre Web](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. ([Source Code ★504](https://github.com/janeczku/calibre-web)) `GPL-3.0` `Python`
   - [COPS](https://blog.slucas.fr/en/oss/calibre-opds-php-server) - A lightweight e-book server alternative to Calibre content server or [Calibre2OPDS](https://calibre2opds.com/2011/11/03/new-site-for-calibre2opds/). ([Demo](http://cops-demo.slucas.fr/index.php), [Source Code ★636](https://github.com/seblucas/cops)) `GPL-2.0` `PHP`
-- [LibreRead](https://libreread.org/) - Self-hosted Web-based e-book reader. ([Demo](https://demo.libreread.org/), [Source Code](https://github.com/LibreRead/LibreRead)) `GPL-3.0` `Go`
+- [LibreRead](https://libreread.org/) - Self-hosted Web-based e-book reader. ([Demo](https://demo.libreread.org/), [Source Code ★198](https://github.com/LibreRead/server)) `AGPL-3.0` `Go`
 
 _Enterprise-class library management software._
 
@@ -834,6 +834,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 - [411](https://demo.fouroneone.io/) - An Alert Management Web Application. ([Source Code ★724](https://github.com/etsy/411)) `MIT` `PHP`
 - [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ([Source Code ★13](https://github.com/n1try/anchr)) `GPL-3.0` `Nodejs`
 - [asciiflow](http://asciiflow.com/) - Flow Diagram Drawing Tool. ([Source Code ★485](https://github.com/lewish/asciiflow2)) `GPL-3.0` `Java/JavaScript`
+- [blynk](http://www.blynk.cc/) - Platform with iOs and Android apps to control Arduino, ESP8266, Raspberry Pi and similar microcontroller boards over the Internet. ([Source Code ★813](https://github.com/blynkkk/blynk-server)) `AGPL-3.0` `Java`
 - [CrushPaper](https://www.crushpaper.com/) - Research the web for relevant sources, save quotations from them to CrushPaper and then combine them with your own insights into a paper. ([Source Code ★56 ⏳1Y](https://github.com/ZapBlasterson/crushpaper)) `AGPL-3.0` `Java`
 - [DomainMOD](https://domainmod.org) - An application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code ★94](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
 - [EasyBook Project](http://easybook-project.org/) - Book publishing as easy as it should be. ([Source Code ★687](https://github.com/javiereguiluz/easybook)) `MIT` `PHP`
@@ -929,6 +930,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 - [Bitwarden](https://bitwarden.com/) - Password manager with webapp, browser extension, and mobile app. ([Source Code ★958](https://github.com/bitwarden/core)) `AGPL-3.0` `C#`
 - [keeweb](https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source Code ★5782](https://github.com/keeweb/keeweb)) `MIT` `HTML5`
+- [Passbolt](http://passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any web server, MySQL and PHP. ([Source Code ★726](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`
 - [sysPass](http://www.syspass.org/) - Multiuser password management system. ([Demo](http://demo.syspass.org/), [Source Code ★261](https://github.com/nuxsmin/sysPass)) `GPL-3.0` `PHP`
 - [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source Code ★748](https://github.com/nilsteampassnet/TeamPass)) `GPL-3.0` `PHP`
 
@@ -957,7 +959,6 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [PrivateBin](https://privatebin.info/) - PrivateBin is a minimalist, opensource online pastebin/discussion board where the server has zero knowledge of hosted data. ([Demo](https://privatebin.net/), [Source Code ★625](https://github.com/PrivateBin/PrivateBin)) `Zlib` `PHP`
 - [SharpPaste ★7](https://github.com/phonicmouse/SharpPaste) - A simple and modern open-source pastebin made with C# and NancyFX that just works. ([Demo](https://sharppaste.nl/)) `MIT` `C#/ASP.NET`
 - [snipt](https://snipt.net/) - Long-term memory for coders. Share and store code snippets. ([Source Code ★252](https://github.com/nicksergeant/snipt)) `BSD` `Python`
-- [Sticky Notes](http://sayakb.github.io/sticky-notes/) - A powerful open-source pastebin application for effortless code sharing. ([Source Code ★285](https://github.com/sayakb/sticky-notes)) `BSD` `PHP`
 - [Stikked ★632](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin. `GPL-3.0` `PHP`
 - [Sup3rS3cretMes5age ★150](https://github.com/algolia/sup3rS3cretMes5age) - A very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
 - [tastebin ★19 ⏳1Y](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features. `Apache-2.0` `Nodejs`
@@ -1250,7 +1251,6 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 - [TWiki](http://twiki.org/) - TWiki is a Perl-based structured wiki application, typically used to run a collaboration platform, knowledge or document management system, a knowledge base, or team portal. ([Demo](http://twiki.org/cgi-bin/view/Sandbox/WebHome), [Source Code](http://svn.twiki.org/svn/twiki/)) `GPL-1.0` `Perl`
 - [wiki ★12](https://github.com/prologic/wiki) - Simple Markdown based wiki engine. ([Demo](https://wiki.mills.io)) `MIT` `Go`
 - [Wiki.js](https://wiki.js.org/) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown. ([Demo](https://docs.requarks.io/wiki)) `AGPL-3.0` `Nodejs`
-- [Wikifeat ★94 ⏳1Y](https://github.com/rhinoman/wikifeat) - Wikifeat is an open source collaboration platform built around the ever-popular Wiki concept. `BSD` `GO`
 - [WiKiss](http://wikiss.tuxfamily.org/) - A Wiki, simple to use and install. ([Source Code](https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0)) `GPL-2.0` `PHP`
 - [XWiki](http://www.xwiki.org) - A second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](http://playground.xwiki.org), [Source Code ★273](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java`
 

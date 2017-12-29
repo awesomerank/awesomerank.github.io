@@ -84,7 +84,8 @@ SONiC
 
 # Controller
 
-- [NOX](http://www.noxrepo.org) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
+- [NOX ★98 ⏳3Y](https://github.com/noxrepo/nox) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
+- [POX ★384](https://github.com/noxrepo/pox) - An open source development platform for Python-based software-defined networking (*SDN*) control applications.
 - [NodeFlow ★51 ⏳5Y](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
 - [ONOS](http://onosproject.org) - Open Network Operating System.
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
@@ -125,7 +126,7 @@ SONiC
 protocol, based on Twisted.
 - [oflib-node ★15 ⏳6Y](https://github.com/TrafficLab/oflib-node) - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
 - [OpenFlowJ](https://bitbucket.org/openflowj/openflowj) - A Java implementation of low-level OpenFlow packet marshalling/unmarshalling and IO operations.
-- [nettle](http://haskell.cs.yale.edu/other-projects/nettle/) - A Haskell library for working with the OpenFlow protocol.
+- [nettle ★16](https://github.com/AndreasVoellmy/openflow) - A Haskell library for working with the OpenFlow protocol.
 - [OCaml OpenFlow ★10 ⏳2Y](https://github.com/frenetic-lang/ocaml-openflow) - A serialization and protocol library for OpenFlow.
 - [Scapy](http://www.secdev.org/projects/scapy/) - Scapy is a powerful interactive packet manipulation program.
 

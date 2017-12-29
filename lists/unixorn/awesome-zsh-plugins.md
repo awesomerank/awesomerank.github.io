@@ -645,7 +645,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [friendly-fiesta ★0 ⏳1Y](https://github.com/bruino/friendly-fiesta) - Fork of terminal-party theme.
 * [frisk-arrow ★0 ⏳4Y](https://github.com/BakeRolls/frisk-arrow) - A theme based on the [frisk](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/frisk.zsh-theme) oh-my-zsh-theme.
 * [frisk-red](https://github.com/aishsingh/zsh/tree/master/frisk-red) - Red version of the frisk theme from oh-my-zsh.
-* [frlo ★1 ⏳4Y](https://github.com/fiorillo/frlo) - Uses your computer's hostname to come up with a (hopefully) unique three-color theme to display in your prompt, so you know at a glance which machine you're logged into.
+* [frlo ★1 ⏳5Y](https://github.com/fiorillo/frlo) - Uses your computer's hostname to come up with a (hopefully) unique three-color theme to display in your prompt, so you know at a glance which machine you're logged into.
 * [furio ★16 ⏳3Y](https://github.com/hectorpalmatellez/furio-theme) - Fork of the Cloud oh-my-zsh theme. with different colors and emojis.
 * [garrett ★108](https://github.com/chauncey-garrett/zsh-prompt-garrett) - Prezto prompt with the information you need the moment you need it.
 * [gawaine ★3 ⏳5Y](https://github.com/nicolaracco/gawaine.zsh-theme) - Nicola Racco's theme. Requires rvm & git plugins.

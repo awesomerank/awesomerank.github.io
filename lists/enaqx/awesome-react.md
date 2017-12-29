@@ -126,6 +126,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Core meeting notes ★907 ⏳1Y](https://github.com/reactjs/core-notes)
 * [Made with React - Collection of websites and applications using ReactJS](http://madewithreact.com/)
 * [The React newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe)
+* [React Iran Telegram Group](https://telegram.me/joinchat/D8jLp0D27irx4rjq2j88xw)
 
 #### React Online Playground
 * [CodeSandbox](https://codesandbox.io)
@@ -298,7 +299,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-cordova-boilerplate - TodoMVC example for React to build a Cordova application ★170](https://github.com/unimonkiez/react-cordova-boilerplate)
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra ★528](https://github.com/codefoundries/UniversalRelayBoilerplate)
 * [react-boilerplate - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](http://reactboilerplate.com)
-* [Next.js - A minimalistic framework for server-rendered React applications](https://zeit.co/blog/next)
+* [Next.js - A minimalistic framework for server-rendered React applications ★20013](https://github.com/zeit/next.js)
 * [react-express-stripe - A minimal boilerplate to accept payments in a React App ★50](https://github.com/rwieruch/react-express-stripe)
 * [React-PWA - BoilerPlate with PWA and support for Code-Splitting, SSR, SEO, Page and API caching, Image optimization and much more. ★1030](https://github.com/Atyantik/react-pwa)
 * [ARc - A progressive React starter kit based on Atomic Design](https://arc.js.org)
@@ -700,6 +701,7 @@ A collection of awesome things regarding React ecosystem.
 * [generator-react-gulp-browserify - Yeoman generator for React ★426 ⏳1Y](https://github.com/randylien/generator-react-gulp-browserify)
 * [generator-reactapp - Yeoman generator for react app with redux, webpack, gulp and restful.js etc. ★18 ⏳1Y](https://github.com/Jackong/generator-reactapp)
 * [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML ★1150](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
+* [react-cosmos - DX tool for designing reusable React components ★3096](https://github.com/react-cosmos/react-cosmos)
 * [React Storybook - UI Component Dev Environment for React](https://github.com/kadirahq/react-storybook)
 * [generator-sui-react - A yeoman generator for Schibsted User Interface (SUI) ReactJS components ★13 ⏳1Y](https://github.com/SUI-Components/generator-sui-react)
 * [Racket - A yeoman generator for creating a universal react/redux web application ★292 ⏳1Y](https://github.com/mohebifar/racket)
@@ -875,7 +877,6 @@ A collection of awesome things regarding React ecosystem.
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
 * [Redux Tutorial ★3609](https://github.com/happypoulp/redux-tutorial)
-* [Redux with React introduction for beginners](http://vulgairedev.fr/blog/article/intro-Redux-ReactJS)
 * [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 1](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
 * [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 2](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/)
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)

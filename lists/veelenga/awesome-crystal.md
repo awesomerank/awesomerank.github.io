@@ -131,7 +131,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Cli Utils
  * [dl ★1](https://github.com/creadone/dl) - Simple utility for download files by URLs from list
  * [noteesh ★2](https://github.com/arandilopez/noteesh) - Notes and Todo list in command line
- * [progress ★94](https://github.com/askn/progress) - [==..] Progress bar
+ * [progress ★94 ⏳1Y](https://github.com/askn/progress) - [==..] Progress bar
  * [progress_bar.cr ★2](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [spinner ★39](https://github.com/askn/spinner) - Terminal Spinner
  * [terminal_table.cr ★17 ⏳1Y](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator

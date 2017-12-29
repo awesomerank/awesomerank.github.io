@@ -19,6 +19,7 @@ A curated list of awesome Game Boy (Color) Development resources, tools, docs, r
   + [Disambiguation](#disambiguation)
 - [Community](#community)
 - [Documentation](#documentation)
+  - [Game Boy Color](#game-boy-color)
   - [Peripherals](#peripherals)
   - [Cartridges](#cartridges)
 - [Emulator Development](#emulator-development)
@@ -98,6 +99,11 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Gameboy 2BPP Graphics Format](http://www.huderlem.com/demos/gameboy2bpp.html) - Information on how the Game Boy interprets VRAM tile data to color pixels.
 - [Game Boy Crib Sheet](http://gbdev.gg8.se/files/docs/GBCribSheet000129.pdf) - A handy printable reference sheet with ASM opcodes, memory locations, and much more.
 - [Introduction to Game Boy Hacking](http://pepijndevos.nl/sha2017/workshop.pdf) - Workshop introducing basic assembly, debugging and reverse engineering.
+
+### Game Boy Color
+- [Game Boy Color Bootstrap ROM](https://tcrf.net/Game_Boy_Color_Bootstrap_ROM)
+- [Unused Palettes](https://tcrf.net/Notes:Game_Boy_Color_Bootstrap_ROM)
+- [GBC colorization palettes in the BIOS](https://forums.nesdev.com/viewtopic.php?p=114388&sid=c3d4ce08cfd9d9c834958d4f148750c3#p114388)
 
 ### Peripherals
 - [Game Boy Camera RE ★22 ⏳2Y](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino UNO.
@@ -190,7 +196,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Game Boy Tile Data Generator](http://www.chrisantonellis.com/gameboy/gbtdg/) - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
 - [rgbds_textmate ★13 ⏳6Y](https://github.com/Bananattack/rgbds_textmate) - Some syntax highlighting rules for coding in Z80 assembly as a Textmate language plugin. Works in Sublime Text 2 and 3\. The syntax is particularly designed for RGBDS and Game Boy-specific Z80 instructions.
 - [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) - Some sources and home of Game Boy Tile Designer and Game Boy Map Builder tools.
-- [GBT PLAYER ★46](https://github.com/AntonioND/gbt-player) - A music player library and converter kit for Game Boy that can be used with RGBDS.
+- [GBT PLAYER ★46 ⏳1Y](https://github.com/AntonioND/gbt-player) - A music player library and converter kit for Game Boy that can be used with RGBDS.
 - [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - An online tool to inspect and modify a ROM's header data, including the logo.
 - [gbcamextract ★9 ⏳1Y](https://github.com/jkbenaim/gbcamextract) - Extracts photos from Game Boy Camera saves.
 - [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) - C library extending gbdk.
