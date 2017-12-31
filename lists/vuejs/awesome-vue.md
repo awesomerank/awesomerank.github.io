@@ -77,6 +77,7 @@ title: Awesome Rank for vuejs/awesome-vue
       - [File Upload](#file-upload)
       - [Context Menu](#context-menu)
       - [Miscellaneous](#miscellaneous-1)
+    - [Canvas](#canvas)
   - [UI Layout](#ui-layout)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
@@ -424,7 +425,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vuex-examples ★45](https://github.com/ooade/vuex-examples) - Simple Examples on using Vuex to build Real World Apps
   - [vue-vuex-todomvc ★1](https://github.com/bahmutov/vue-vuex-todomvc) - Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using [Cypress.io](https://www.cypress.io/) test runner.
   - [vuejs-sqljs-boilerplate](https://github.com/skysign/public/tree/master/vue.js/boilerplate/vuejs-sqljs-boilerplate) - This is a boilerplate to use both Vue.js and sql.js together
-
+  - [X-WebDesktop-Vue ★0](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue by [OXOYO](https://github.com/OXOYO)
 ### Books
 
 - [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) by Alex Kyriakidis & Kostas Maniatis, Packt. (Nov 2016)
@@ -721,7 +722,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue2-datatable-component ★201](https://github.com/OneWayTech/vue2-datatable) - The best Datatable for Vue.js 2.x which never sucks
  - [vue-js-grid ★196](https://github.com/euvl/vue-js-grid) - Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
  - [vue-handsontable-official ★119](https://github.com/handsontable/vue-handsontable-official) A Vue.js wrapper for the the Handsontable spreadsheet component
- - [vue-grid ★0](https://github.com/liqueflies/vue-grid) - A powerful flexbox grid system for Vue.js 2.x, built with inline-styles
+ - [vue-grid ★2](https://github.com/liqueflies/vue-grid) - A powerful flexbox grid system for Vue.js 2.x, built with inline-styles
  - [vue-data-tablee ★4](https://github.com/VitorLuizC/vue-data-tablee) - Based on vue-good-table, a simple and pretty table component
  - [vue-scrolling-table ★7](https://github.com/richardtallent/vue-scrolling-table) - Simple table component with flexbox sizing, scrolled table body (horizontal and vertical), slots for all tr/th/td rendering.
  - [el-search-table-pagination ★20](https://github.com/zollero/el-search-table-pagination) - Combines Form, Table and Pagination components of Element UI together. Based on Vue 2.x.([Detail](https://mp.weixin.qq.com/s/r_OumEQB79lpEETThHA70g))
@@ -755,6 +756,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-spinner-component](https://sergeyloysha.github.io/vue-spinner-component/) - Customizable, lightweight spinner for Vue.js.
  - [vue-progress-path ★62](https://github.com/Akryum/vue-progress-path) - Customizable progress indicators and spinners that support any custom SVG path.
  - [vue-blockui ★9](https://github.com/realdah/vue-blockui) - BlockUI for vue 2, similiar to jquery blockUI, can be used for loading screen.
+ - [epic-spinners ★1156](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with vue.js integration.
 
 #### Progress Bar
 
@@ -826,6 +828,7 @@ Tooltips / popovers
  - [vue-router-nav ★0](https://github.com/classicalconditioning/vue-router-nav) - Minimalistic responsive navigation bar that renders routes of vue-router.
  - [vue-drawer-layout ★19](https://github.com/hjl19911127/vue-drawer-layout) - A simple DrawerLayout component like Android has for Vue.js.
  - [vue-simple-menu ★4](https://github.com/RGRU/vue-simple-menu) - Simple menu component with a set of basic functionality, which is enought in 80% of cases
+ - [vue-tree-navigation ★2](https://github.com/MisRob/vue-tree-navigation) - A Vue.js tree navigation menu with unlimited number of levels and minimum styles included
 
 ### Carousel
 
@@ -1032,7 +1035,7 @@ Tooltips / popovers
  - [vue-multiselect](https://github.com/monterail/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js.
   - [stf-vue-select ★38](https://github.com/stfalcon-studio/stf-vue-select) - most flexible and customized select Vue2
  - [vue-select-image ★18](https://github.com/mazipan/vue-select-image) - Vue 2 Component for selecting image from list
- - [@riophae/vue-treeselect ★72](https://github.com/riophae/vue-treeselect) - A multi-select component with nested options for Vue.js
+ - [@riophae/vue-treeselect ★104](https://github.com/riophae/vue-treeselect) - A multi-select component with nested options for Vue.js
  - [@k186/pd-select ★38](https://github.com/k186/pd-select) - A mobile UI component like IOS picker for Vue 2.x,can be wheel pick what ever you defined.
 
 #### Slider
@@ -1166,6 +1169,9 @@ Tooltips / popovers
   - [vue-stepper ★33](https://github.com/PygmySlowLoris/vue-stepper) - A simple stepper with simple actions such as next, back and end to perform simple forms.
 
 
+### Canvas
+
+ - [vue-easeljs](http://github.com/dankuck/vue-easeljs) - Data-driven control over an HTML5 canvas element.
 
 
 
@@ -1243,8 +1249,8 @@ Tooltips / popovers
  - [N3-components ★817](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
  - [jsmod-vue-pc ★58](https://github.com/chaogao/jsmod-pc-vue) - Highly scalable web components for vue 2.0
  - [guilhermewaess/SemVue ★26](https://github.com/guilhermewaess/SemVue) - Semantic-ui Modules implemented with Vue 2
- - [office-ui-fabric-vue ★36](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js
- - [vuestic-admin ★2667](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dasboard with collection of custom components. Built with Vue 2 and Bootstrap 4
+ - [office-ui-fabric-vue ★49](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js
+ - [vuestic-admin ★2949](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dasboard with collection of custom components. Built with Vue 2 and Bootstrap 4
 
 ###### Mobile
 
@@ -1306,7 +1312,7 @@ Tooltips / popovers
  - [vue-match-media ★16](https://github.com/drenglish/vue-match-media) - Vue 2.x-compatible plugin that offers a consistent, semantic approach to making components media query-aware.
  - [vue-media-query-mixin ★14](https://github.com/jofftiquez/vue-media-query-mixin) - Vue 2 media query mixin that can be used in both component js and component template. Compatible with bootstrap and vuetify viewports. `wXS` returns if screen width is xs, `wSM` returns true if screen width is sm, etc...
  - [vue-breakpoints ★49](https://github.com/apertureless/vue-breakpoints) - Vue 2 minimal components to show and hide elements based on breakpoints. Inspired by Airbnb.
-  - [vue-mq ★8](https://github.com/AlexandreBonaventure/vue-mq) - Offer some useful tools to quickly setup responsive design with a semantic and mobile-first API (Vue 2.x)
+  - [vue-mq ★10](https://github.com/AlexandreBonaventure/vue-mq) - Offer some useful tools to quickly setup responsive design with a semantic and mobile-first API (Vue 2.x)
 
 ### Form
 
@@ -1394,6 +1400,7 @@ Tooltips / popovers
  - [v-animate-css](https://jofftiquez.github.io/v-animate-css/) - The easiest to implement Vue 2 directive for Animate.css
  - [vue-mixin-tween ★13](https://github.com/lukechinworth/vue-mixin-tween) - Mixin factory that adds tweened values to component context for animations
  - [v-odometer ★23](https://github.com/JefferyHus/v-odometer) - Smoothly transitions numbers with ease. Use this library to give your application a smooth animation, only applicable on numbers.
+ - [vue2-transitions ★13](https://github.com/cristijora/vue2-transitions) ✨ Reusable Vue 2 transition components
 
 ### Meta Tags
 
@@ -1673,7 +1680,7 @@ Payment utilities.
  - [vue-runkit ★3](https://github.com/maple3142/vue-runkit) - RunKit Embed for Vue.js
  - [vue-youtube ★15](https://github.com/anteriovieira/vue-youtube) - Provides a simple layer for you to use your imagination while over the [YouTube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference). (Compatible with SSR)
  - [vue-introjs ★17](https://github.com/alex-oleshkevich/vue-introjs) - Integrates intro.js step-by-step guide and feature introduction with Vue.js [http://introjs.com/](http://introjs.com/).
- - [vue-loopback ★10](https://github.com/InCuca/vue-loopback) - Loopback and Vue application template
+ - [vue-loopback ★12](https://github.com/InCuca/vue-loopback) - Loopback and Vue application template
  - [vue-laroute ★3](https://github.com/samturrell/vue-laroute) - Integrate Laravel routes into your VueJS application using laroute.
 
 ###### Google Analytics
@@ -1868,7 +1875,7 @@ Payment utilities.
 
  - [Electron Vue ★4210](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
  - [VuePack ★2051](https://github.com/egoist/vuepack) - A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron).
- - [vue-flexible-link ★8](https://github.com/saintplay/vue-flexible-link) - Tiny Vue component for Electron to open links in a browser. Ideal for cross environment apps (Web & Native)
+ - [vue-flexible-link ★9](https://github.com/saintplay/vue-flexible-link) - Tiny Vue component for Electron to open links in a browser. Ideal for cross environment apps (Web & Native)
 
 ### Parts
 

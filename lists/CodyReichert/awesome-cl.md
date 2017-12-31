@@ -438,6 +438,7 @@ Third-party APIs
 * [avatar-api ★8 ⏳2Y](https://github.com/eudoxia0/avatar-api) - Get avatars from Google+, Gravatar and others. [Expat][14].
 * [chirp ★40](https://github.com/Shinmera/chirp) - A Twitter client library. [Artistic License 2.0][51].
 * [cl-irc](https://www.common-lisp.net/project/cl-irc/) - An IRC client library. [Expat][14].
+* [cl-mediawiki ★12 ⏳1Y](https://github.com/AccelerationNet/cl-mediawiki) - a wrapper around the MediaWiki api. [MIT][200].
 * [cl-openid](https://common-lisp.net/project/cl-openid/darcs/cl-openid/) - An implementation of OpenID. [LLGPL][8].
 * [cl-ses ★10 ⏳2Y](https://github.com/CodyReichert/cl-ses) - Library for AWS SES. [Expat][14].
 * [humbler ★8](https://github.com/Shinmera/humbler) - A Tumblr API interface. [Artistic License 2.0][51].
@@ -714,7 +715,7 @@ i18n
 Logging
 -------
 
-* [log4cl ★72](https://github.com/7max/log4cl) - Logging framework modelled after Log4J. [Apache2.0][89].
+* [log4cl ★72](https://github.com/7max/log4cl) - Logging framework modelled after Log4J. [Apache2.0][89]. Advanced integration with Slime.
 
 
 Text Processing

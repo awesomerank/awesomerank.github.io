@@ -520,6 +520,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [NetworkEye ★1032](https://github.com/coderyi/NetworkEye) - a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request.
 * [Dotzu ★1231](https://github.com/remirobert/Dotzu) - iOS app debugger while using the app. Crash report, logs, network.
 * [Hyperion ★194](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect measurements, attributes, and animations.
+* [Httper-iOS ★247](https://github.com/MuShare/Httper-iOS) - App for developers to test REST API. :large_orange_diamond:
 
 ## EventBus
 * [SwiftEventBus ★595](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8. :large_orange_diamond:
@@ -1603,7 +1604,7 @@ Most of these are paid services, some have free tiers.
 * [WZDraggableSwitchHeaderView ★514 ⏳1Y](https://github.com/wongzigii/WZDraggableSwitchHeaderView) - :hammer: Showing status for switching between viewControllers
 * [MICountryPicker ★77](https://github.com/mustafaibrahim989/MICountryPicker) - Swift country picker with search option. :large_orange_diamond:
 * [SCNavigationControlCenter ★396 ⏳1Y](https://github.com/SergioChan/SCNavigationControlCenter) - This is an advanced navigation control center on iOS that can allow you to navigate to whichever view controller you want
-* [SCTrelloNavigation ★786](https://github.com/SergioChan/SCTrelloNavigation) - :clipboard: An iOS native implementation of a Trello Animated Navagation.
+* [SCTrelloNavigation ★786 ⏳1Y](https://github.com/SergioChan/SCTrelloNavigation) - :clipboard: An iOS native implementation of a Trello Animated Navagation.
 * [FXBlurView ★5019](https://github.com/nicklockwood/FXBlurView) - UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.
 * [NGAParallaxMotion ★678 ⏳2Y](https://github.com/michaeljbishop/NGAParallaxMotion) - A tiny category on UIView that allows you to set one property: "parallaxIntensity" to achieve a parallax effect with UIMotionEffect
 * [EPShapes ★375](https://github.com/ipraba/EPShapes) - Design shapes in Interface Builder. :large_orange_diamond:
@@ -1856,7 +1857,7 @@ Most of these are paid services, some have free tiers.
 * [ElasticTransition ★1820](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag. Written in Swift. :large_orange_diamond:
 * [ElasticTransition-ObjC ★362 ⏳1Y](https://github.com/taglia3/ElasticTransition-ObjC) - A UIKit custom transition that simulates an elastic drag.This is the Objective-C Version of Elastic Transition written in Swift by lkzhao
 * [ZFDragableModalTransition ★2321](https://github.com/zoonooz/ZFDragableModalTransition) - Custom animation transition for present modal view controller
-* [ImageOpenTransition ★797](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images written in Swift. :large_orange_diamond:
+* [ImageOpenTransition ★797 ⏳1Y](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images written in Swift. :large_orange_diamond:
 * [ZOZolaZoomTransition ★880 ⏳1Y](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition) - Zoom transition that animates the entire view heirarchy. Used extensively in the Zola iOS application.
 * [JTMaterialTransition ★892 ⏳1Y](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design.
 * [AnimatedTransitionGallery ★2257](https://github.com/shu223/AnimatedTransitionGallery) - Collection of iOS 7 custom animated transitions using UIViewControllerAnimatedTransitioning protocol.
@@ -1930,7 +1931,7 @@ Most of these are paid services, some have free tiers.
 * [JDropDownAlert ★37](https://github.com/trilliwon/JDropDownAlert) - Multi dirction dropdown alert view. 🔶
 * [BulletinBoard ★2139](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces on iOS :large_orange_diamond:
 * [Cards ★2146](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views. :large_orange_diamond:
-* [CFNotify ★372](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable views. :large_orange_diamond:
+* [CFNotify ★380](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable views. :large_orange_diamond:
 
 #### Badge
 * [MIBadgeButton ★293](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons. :large_orange_diamond:
@@ -1946,7 +1947,7 @@ Most of these are paid services, some have free tiers.
 * [LiquidFloatingActionButton ★3187](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state :large_orange_diamond:
 * [JTFadingInfoView ★126 ⏳2Y](https://github.com/JunichiT/JTFadingInfoView) - An UIButton-based view with fade in/out animation features.
 * [Floaty ★607](https://github.com/kciter/Floaty) - :heart: Floating Action Button for iOS :large_orange_diamond:
-* [TVButton ★953](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift). :large_orange_diamond:
+* [TVButton ★953 ⏳1Y](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift). :large_orange_diamond:
 * [SwiftyButton ★261](https://github.com/TakeScoop/SwiftyButton) - Simple and customizable button in Swift :large_orange_diamond:
 * [AnimatablePlayButton ★70](https://github.com/suzuki-0000/AnimatablePlayButton) - Animated Play and Pause Button using CALayer, CAKeyframeAnimation. :large_orange_diamond:
 * [gbkui-button-progress-view ★517 ⏳1Y](https://github.com/Guidebook/gbkui-button-progress-view) - Inspired by Apple’s download progress buttons in the App Store.
@@ -2604,7 +2605,7 @@ Most of these are paid services, some have free tiers.
 * [FengNiao ★1352](https://github.com/onevcat/FengNiao) - A command line tool for cleaning unused resources in Xcode. :large_orange_diamond:
 * [LifetimeTracker ★1407](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner. :large_orange_diamond:
 * [Plank ★366](https://github.com/pinterest/plank) - A tool for generating immutable model objects.
-* [Lona ★2605](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
+* [Lona ★3863](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
 * [XcodeGen ★661](https://github.com/yonaskolb/XcodeGen) - Command line tool that generates your Xcode project from a spec file and your folder structure. :large_orange_diamond:
 * [iSimulator ★9](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
 

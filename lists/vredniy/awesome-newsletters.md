@@ -53,6 +53,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
   - [C++](#c)
   - [Scala](#scala)
   - [Java](#java)
+  - [Kotlin](#kotlin)
 - [Editors](#editors)
   - [Vim](#vim)
 - [Databases](#databases)
@@ -103,6 +104,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [React Digest 2](https://reactdigest.net/). 5 links; Flux, Redux, MobX, React and React Native we are watching everything so sign up and get your portion of javascript awesomeness every week.
 * [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe). A weekly newsletter about React and ecosystem.
 * [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
+* [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
 
 #### AngularJS
 * [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
@@ -112,6 +114,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 #### VueJS
 * [Vue.js Newsletter](http://vue-newsletter.com/). Weekly dose of handpicked Vue.js news.
+* [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/). A weekly curated publication of the best articles, latest news and coolest Vue projects.
 
 ### Data Visualization
 * [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.
@@ -240,6 +243,9 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### Java
 * [Awesome Java Newsletter](https://java.libhunt.com/newsletter). A curated list of awesome Java frameworks, libraries and software.
+
+### Kotlin
+* [Awesome Kotlin Newsletter](https://kotlin.libhunt.com/newsletter). A weekly overview of the most popular Kotlin news, articles and libraries.
 
 ## Editors
 ### Vim

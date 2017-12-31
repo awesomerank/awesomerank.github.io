@@ -196,7 +196,7 @@ Check solve section for steganography.
 
 - [Androguard ★1772](https://github.com/androguard/androguard) - Reverse engineer Android applications
 - [Angr ★2056](https://github.com/angr/angr) - platform-agnostic binary analysis framework
-- [Apk2Gold ★490](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
+- [Apk2Gold ★490 ⏳1Y](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
 - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
 - [Barf ★936](https://github.com/programa-stic/barf-project) - Binary Analysis and Reverse engineering Framework
 - [Binary Ninja](https://binary.ninja/) - Binary analysis framework

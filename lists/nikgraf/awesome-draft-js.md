@@ -36,7 +36,7 @@ title: Awesome Rank for nikgraf/awesome-draft-js
 
 ## Standalone Editors Built on Draft.js
 
-* [Draft WYSIWYG ★356](https://github.com/bkniffler/draft-wysiwyg) - WYSIWYG editor that with drag&drop, resizing & tooltips.
+* [Draft WYSIWYG ★356 ⏳1Y](https://github.com/bkniffler/draft-wysiwyg) - WYSIWYG editor that with drag&drop, resizing & tooltips.
 * [Draft.js Editor ★100](https://github.com/AlastairTaft/draft-js-editor) - A Rich text editor inspired by Medium & Facebook Notes.
 * [React-RTE ★1531](https://github.com/sstur/react-rte) - A full-featured textarea replacement similar to CKEditor or TinyMCE.
 * [Facebook Notes Clone(ish) ★211 ⏳1Y](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes.

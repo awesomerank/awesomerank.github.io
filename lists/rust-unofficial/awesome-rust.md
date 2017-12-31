@@ -86,7 +86,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * [runconduit/conduit ★297](https://github.com/runconduit/conduit) - Ultralight service mesh for Kubernetes.
 * [danielrangel/rsign](https://bitbucket.org/danielrangel/rsign) [[rsign](https://crates.io/crates/rsign)] — A simple command-line tool used to generate/sign/verify digital signatures designed to be compatible with Minisign  [![Codeship Status for danielrangel/rsign](https://app.codeship.com/projects/60b28d80-7645-0135-4402-1639b58199d0/status?branch=master)](https://app.codeship.com/projects/244452)
 * [darrint/device-blocker ★13](https://github.com/darrint/device-blocker) — Limit screen time to children's various mobile devices by blocking internet access on the family Wifi router.
-* [dlecan/generic-dns-update ★2](https://github.com/dlecan/generic-dns-update) — a tool to update DNS zonefiles with your IP address [<img src="https://api.travis-ci.org/dlecan/generic-dns-update.svg?branch=master">](https://travis-ci.org/dlecan/generic-dns-update)
+* [dlecan/generic-dns-update ★2 ⏳1Y](https://github.com/dlecan/generic-dns-update) — a tool to update DNS zonefiles with your IP address [<img src="https://api.travis-ci.org/dlecan/generic-dns-update.svg?branch=master">](https://travis-ci.org/dlecan/generic-dns-update)
 * [Factotum ★92](https://github.com/snowplow/factotum) — [A system to programmatically run data pipelines](https://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/) [<img src="https://api.travis-ci.org/snowplow/factotum.svg?branch=master">](https://travis-ci.org/snowplow/factotum)
 * [fcsonline/drill ★74](https://github.com/fcsonline/drill) — a HTTP load testing application inspired by Ansible syntax
 * [Fractalide ★379](https://github.com/fractalide/fractalide) — Simple Rust Microservices
@@ -402,7 +402,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
 * [GuillaumeGomez/rust-fmod ★19](https://github.com/GuillaumeGomez/rust-fmod) — [FMOD](http://www.fmod.com) bindings [![Build Status](https://api.travis-ci.org/GuillaumeGomez/rust-fmod.svg?branch=master)](https://travis-ci.org/GuillaumeGomez/rust-fmod)
 * [jhasse/ears ★43](https://github.com/jhasse/ears) — a simple library to play Sounds and Musics, on top of OpenAL and libsndfile [<img src="https://api.travis-ci.org/jhasse/ears.svg?branch=master">](https://travis-ci.org/jhasse/ears)
 * [jpernst/alto ★38](https://github.com/jpernst/alto) — [OpenAL 1.1](http://www.openal.org/) bindings [<img src="https://api.travis-ci.org/jpernst/alto.svg?branch=master">](https://travis-ci.org/jpernst/alto)
-* [musitdev/portmidi-rs ★38](https://github.com/musitdev/portmidi-rs) — [PortMidi](http://portmedia.sourceforge.net/portmidi/) bindings [<img src="https://api.travis-ci.org/musitdev/portmidi-rs.svg?branch=master">](https://travis-ci.org/musitdev/portmidi-rs)
+* [musitdev/portmidi-rs ★38 ⏳1Y](https://github.com/musitdev/portmidi-rs) — [PortMidi](http://portmedia.sourceforge.net/portmidi/) bindings [<img src="https://api.travis-ci.org/musitdev/portmidi-rs.svg?branch=master">](https://travis-ci.org/musitdev/portmidi-rs)
 * [ruuda/hound ★81](https://github.com/ruuda/hound) [[Hound](https://crates.io/crates/hound)] — A WAV encoding and decoding library [<img src="https://api.travis-ci.org/ruuda/hound.svg?branch=master">](https://travis-ci.org/ruuda/hound)
 * [tomaka/rodio ★138](https://github.com/tomaka/rodio) - A Rust audio playback library [![Build Status](https://api.travis-ci.org/tomaka/rodio.svg?branch=master)](https://travis-ci.org/tomaka/rodio)
 * [RustAudio](https://github.com/RustAudio)
@@ -763,7 +763,7 @@ See also [Are we game yet?](http://arewegameyet.com)
   * [servo/cocoa-rs ★279](https://github.com/servo/cocoa-rs)
 * [GTK+](https://www.gtk.org/) [[gtk](https://crates.io/keywords/gtk)]
   * [gtk-rs/gtk ★627](https://github.com/gtk-rs/gtk) — GTK+ bindings [<img src="https://api.travis-ci.org/gtk-rs/gtk.svg?branch=master">](https://travis-ci.org/gtk-rs/gtk)
-  * [relm ★519](https://github.com/antoyo/relm) — Asynchronous, GTK+-based, GUI library, inspired by Elm [<img src="https://api.travis-ci.org/antoyo/relm.svg?branch=master">](https://travis-ci.org/antoyo/relm)
+  * [relm ★565](https://github.com/antoyo/relm) — Asynchronous, GTK+-based, GUI library, inspired by Elm [<img src="https://api.travis-ci.org/antoyo/relm.svg?branch=master">](https://travis-ci.org/antoyo/relm)
 * [gyscos/Cursive ★399](https://github.com/gyscos/Cursive) [[cursive](https://crates.io/crates/cursive)] — [<img src="https://api.travis-ci.org/gyscos/Cursive.svg?branch=master">](https://travis-ci.org/gyscos/Cursive)
 * [ImGui ★8844](https://github.com/ocornut/imgui)
   * [imgui-rs ★267](https://github.com/Gekkio/imgui-rs) — Rust bindings for ImGui [<img src="https://api.travis-ci.org/Gekkio/imgui-rs.svg?branch=master">](https://travis-ci.org/Gekkio/imgui-rs)
@@ -802,7 +802,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 
 ### Language specification
 
-* [snewt/bnf ★4](https://github.com/snewt/bnf) — A library for parsing Backus–Naur form context-free grammars. [<img src="https://api.travis-ci.org/snewt/bnf.svg?branch=master">](https://travis-ci.org/snewt/bnf)
+* [snewt/bnf ★6](https://github.com/snewt/bnf) — A library for parsing Backus–Naur form context-free grammars. [<img src="https://api.travis-ci.org/snewt/bnf.svg?branch=master">](https://travis-ci.org/snewt/bnf)
 
 
 ### Logging
@@ -881,7 +881,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [m4rw3r/chomp ★157](https://github.com/m4rw3r/chomp) – A fast monadic-style parser combinator [<img src="https://api.travis-ci.org/m4rw3r/chomp.svg?branch=master">](https://travis-ci.org/m4rw3r/chomp)
   * [Marwes/combine ★354](https://github.com/Marwes/combine) — parser combinator library [<img src="https://api.travis-ci.org/Marwes/combine.svg?branch=master">](https://travis-ci.org/Marwes/combine)
   * [nikomatsakis/lalrpop ★533](https://github.com/nikomatsakis/lalrpop) — LR(1) parser generator for Rust [![Build status](https://api.travis-ci.org/nikomatsakis/lalrpop.svg?branch=master)](https://travis-ci.org/nikomatsakis/lalrpop)
-  * [nrc/zero ★15](https://github.com/nrc/zero) — zero-allocation parsing of binary data [<img src="https://api.travis-ci.org/nrc/zero.svg?branch=master">](https://travis-ci.org/nrc/zero)
+  * [nrc/zero ★15 ⏳1Y](https://github.com/nrc/zero) — zero-allocation parsing of binary data [<img src="https://api.travis-ci.org/nrc/zero.svg?branch=master">](https://travis-ci.org/nrc/zero)
   * [pest-parser/pest ★646](https://github.com/pest-parser/pest) — The Elegant Parser [![Build Status](https://api.travis-ci.org/pest-parser/pest.svg?branch=master)](https://travis-ci.org/pest-parser/pest)
   * [ptal/oak ★94](https://github.com/ptal/oak) — a typed PEG parser generator (compiler plugin)
   * [rustless/queryst ★33](https://github.com/rustless/queryst) — a query string parsing library for Rust inspired by https://github.com/ljharb/qs [![Build Status](https://api.travis-ci.org/rustless/queryst.svg?branch=master)](https://travis-ci.org/rustless/queryst)

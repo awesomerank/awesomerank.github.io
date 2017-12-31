@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-962-orange.svg) | December 27, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-962-orange.svg) | December 31, 2017
 
 ### Contributing
 
@@ -1264,7 +1264,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Alertift ★76](https://github.com/sgr-ksmt/Alertift) - Modern, easy UIAlertController wrapper.
 * [AlertKit ★18 ⏳1Y](https://github.com/thii/AlertKit) - Alert with a single line of code.
 * [CDAlertView ★760](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup.
-* [CFNotify ★372](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable alert views.
+* [CFNotify ★380](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable alert views.
 * [EZAlertController ★281](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.
 * [GoogleWearAlert ★444 ⏳1Y](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [GSMessage ★268](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
@@ -1315,7 +1315,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PMSuperButton ★384](https://github.com/Codeido/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
 * [SwiftShareBubbles ★154](https://github.com/takecian/SwiftShareBubbles) - Animated social share buttons control for iOS.
 * [TransitionButton ★377](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
-* [TVButton ★953](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
+* [TVButton ★953 ⏳1Y](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
 * [ZFRippleButton ★1303](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
 
 #### Calendar
@@ -1460,7 +1460,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Cards XI ★2146](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
 * [ElasticTransition ★1820](https://github.com/lkzhao/ElasticTransition) - An interactive transition that simulates an elastic drag.
 * [Hero ★11589](https://github.com/lkzhao/Hero) - Elegant transition library for iOS.
-* [ImageOpenTransition ★797](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images.
+* [ImageOpenTransition ★797 ⏳1Y](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images.
 * [MusicPlayerTransition ★443](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App.
 * [PinterestSwift ★1587](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
 * [RevealingSplashView ★807](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
@@ -1476,6 +1476,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CardsLayout ★281](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 * [CenteredCollectionView ★169](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
 * [CollectionViewShelfLayout ★220](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
+* [CollectionViewSlantedLayout ★142](https://github.com/yacir/CollectionViewSlantedLayout) - UICollectionViewLayout to show slanted content.
 * [Drag and Drop UICollectionView ★255](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
 * [FSPagerView ★2528](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
 * [GravitySlider ★54](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
@@ -1486,7 +1487,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftSpreadsheet ★411](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
 * [TagCellLayout ★121](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 * [VegaScroll ★1507](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView completely written in Swift 4.
-* [YBSlantedCollectionViewLayout ★137](https://github.com/yacir/YBSlantedCollectionViewLayout) - UICollectionViewLayout to show slanted content.
 
 #### UITableView
 [back to top](#readme) 

@@ -449,7 +449,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Bridges ★159](https://github.com/zgrossbart/bridges) - Puzzle game with bridges, houses, tolls, and subways for iOS.
 * [Canabalt ★1550 ⏳6Y](https://github.com/ericjohnson/canabalt-ios) - Release of Canabalt for iOS.
 * [Choose Figure ★7](https://github.com/ISosnovik/chooseFigure) - Simple logic game. Choose the right figure. Train your attention.
-* [Doom ★487 ⏳5Y](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.
+* [Doom ★487 ⏳6Y](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.
 * [DrugsNRock ★10 ⏳3Y](https://github.com/biou/DrugsNRock) - Simple multiplayer rhythm game designed during the 2013 Global Game Jam.
 * [FinalFighter ★11 ⏳2Y](https://github.com/sebcode/FinalFighter-iphone) - Tank deathmatch battle game developed using Cocos2D.
 * [Frogatto ★349](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
@@ -458,7 +458,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Light Jockey ★16 ⏳5Y](https://github.com/jmfieldman/Light-Jockey) - iOS Auditorium-like game.
 * [Lumio](https://github.com/joannecdyer/lumio) - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
 * [Sakura Fly](https://github.com/l800891/Sakura-Fly) - iOS action game developed using SpriteKit. Available free on the App Store.
-* [Wolfenstein 3D ★332 ⏳5Y](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
+* [Wolfenstein 3D ★332 ⏳6Y](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
 
 -------
 

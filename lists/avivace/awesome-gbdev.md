@@ -110,7 +110,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Creating photorealistic images with neural networks and a Gameboy Camera](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
 - [The Game Boy Printer](https://shonumi.github.io/articles/art2.html) - An in-depth technical document about the printer hardware, the communication protocol and the usual routine that games used for implementing the print feature.
 - [Ben Heck Reverse Engineers Game Boy Printer](https://www.youtube.com/watch?v=43FfJvd-YP4)
-- [Arduino Game Boy Printer Emulator ★11](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino Nano.
+- [Arduino Game Boy Printer Emulator ★26](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino Nano.
 - [Mobile Game Boy Adapter](https://bulbapedia.bulbagarden.net/wiki/Mobile_Game_Boy_Adapter)
 - [GB KISS LINK MODEM](http://nectaris.tg-16.com/GB-KISS-LINK-FAQ-hudson-gameboy-nectaris.html)
 
@@ -304,7 +304,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Tobu Tobu Girl ★68](https://github.com/SimonLarsen/tobutobugirl) - An arcade platformer for the Game Boy.
 
 ## ROMs Disassembly
-- [Sonic 1 ★12 ⏳3Y](https://github.com/Kroc/Sonic1-Z80-ASM)
+- [Sonic 1 ★12 ⏳4Y](https://github.com/Kroc/Sonic1-Z80-ASM)
 - [Pokémon Red/Blue ★1393](https://github.com/pret/pokered)
 - [Pokémon Crystal ★916](https://github.com/pret/pokecrystal)
 - [Pokémon Pinball ★33](https://github.com/pret/pokepinball)

@@ -91,7 +91,7 @@ Additional lists you might find useful:
 
 - [AssetCompress plugin ★362](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
 - [Assets plugin ★5](https://github.com/mirko-pagliai/assets) - Dynamic and "on the fly" asset files.
-- [Less plugin ★16](https://github.com/elboletaire/less-cake-plugin) - Less parser plugin for CakePHP.
+- [Less plugin ★16 ⏳1Y](https://github.com/elboletaire/less-cake-plugin) - Less parser plugin for CakePHP.
 - [MinifyHtml plugin ★13 ⏳2Y](https://github.com/WyriHaximus/MinifyHtml) - Compress HTML output.
 
 ## Auditing / Logging

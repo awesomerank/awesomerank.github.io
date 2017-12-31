@@ -7,7 +7,7 @@ title: Awesome Rank for uraimo/Awesome-Swift-Playgrounds
 	This list is a copy of <a href="https://github.com/uraimo/Awesome-Swift-Playgrounds">uraimo/Awesome-Swift-Playgrounds</a> with ranks
 </p>
 ---
-# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)  ![137 playgrounds](https://img.shields.io/badge/Playgrounds:-137-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)  ![141 playgrounds](https://img.shields.io/badge/Playgrounds:-141-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -72,6 +72,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [File Browser Playground ★185 ⏳1Y](https://github.com/steventroughtonsmith/files-playgroundbook) - Simple File Browser for Swift Playgrounds on iOS.
 * [Geometry with Swift ★1](https://github.com/dbbudd/Geometry-Swift-PlaygroundBook) - In this course your students will learn the fundamentals of Swift 3 programming, using geometry as their context for learning. 
 * [Image Filtering ★30](https://github.com/lennet/image-filtering) - A Swift playgroundbook about Image Filtering. 🌟
+* [Spacetime Rhapsody ★6](https://github.com/hollisliu/Spacetime-Rhapsody) - A Swift Playground visualizing gravity based on Einstein's Theory of General Relativity. 🌟
 
 
 ## Learning Swift
@@ -164,6 +165,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [A Star ★4](https://github.com/Dev1an/A-Star) - Protocol oriented A* pathfinding algorithm implementation in Swift 4.🍁
 * [Sorting Algorithms ★1](https://github.com/bwide/Sorting-Algorithms-Playground) - Live Visualization of some famous sorting algorithms and your experiments.
 * [Animated Sorting Algorithms ★4](https://github.com/p-sun/Animated-Sorting-Algorithms) - Swift 4 playgrounds to view and manipulate sorting algorithms.🍁
+* [Expressions ★145](https://github.com/mpangburn/Expressions) - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 * [DataStructures Playground ★14 ⏳2Y](https://github.com/oliverfoggin/DataStructuresPlayground) - Data Structures and Algorithms in Swift. ⏳
 * [Swiftography ★8](https://github.com/sketchytech/Swiftography) - Standard cryptographic algorithms in a Swift Playground. ⏳
 * [Algorithms Playground ★3 ⏳2Y](https://github.com/ashokgelal/AlgorithmsPlayground) - Various algorithm implementation in Swift. ⏳
@@ -178,6 +180,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Write your own language: Mu ★1075 ⏳1Y](https://github.com/marciok/Mu) - A playground explaining how to create a tiny programming language named Mu. 🌟
 * [ASM Swift ★57](https://github.com/NSExceptional/ASM-Swift) - A playground for learning Assembly language through Swift. 🌟
 * [Let's build a compiler in Swift ★48](https://github.com/mkchoi212/LBAC-Swift) - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟 
+* [Pascal interpreter ★2](https://github.com/igorkulman/SwiftPascalInterpreter) - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
 * [Register VM ★3 ⏳1Y](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟 ⏳
 * [Turtle Playground ★123 ⏳1Y](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands. 🌟 ⏳
 * [Swift Brainfuck ★8 ⏳3Y](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground. ⏳
@@ -229,7 +232,8 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [SpriteKit Swift 3 ★6 ⏳1Y](https://github.com/MacMeDan/SpriteKitCollisions) - Playground for exploring Sprite Kit.
 * [SpriteKit Collisions ★25](https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground) - Demonstrates how to perform physics collision detection using Swift and SpriteKit. ⏳
 * [SceneKit Examples ★12 ⏳2Y](https://github.com/UCh/swift-scene-kit-playgrounds) - Experiment with SceneKit and Swift. ⏳
-* [SceneKit ARKit Demo ★21](https://github.com/mhanlon/ARKitDemoPlayground) - The Xcode 9 ARKit SpriteKit demo as a playground.📱🍁
+* [SceneKit ARKit Demo ★21](https://github.com/mhanlon/ARKitDemoPlayground) - The Xcode 9 ARKit SpriteKit demo as a playground.🍁
+* [Astronomy ★7](https://github.com/cl7/Astronomy) - A 3D earth model written in swift playground using SceneKit.
 
 
 ## Audio
@@ -282,7 +286,6 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [LaunchPad Playground ★1](https://github.com/Juniorlimaivd/LaunchPad-Playground) - A playground that simulates a real LaunchPad for making music.
 * [Super Maze ★4](https://github.com/W00dL3cs/Super-Maze) - A programmatic maze generator and solver.
 * [Tic Tac Toe ★4](https://github.com/aabosh/Tic-Tac-Toe) - Tic tac toe in a playground.
-* [Spacetime Rhapsody ★6](https://github.com/hollisliu/Spacetime-Rhapsody) - A Swift Playground visualizing gravity based on Einstein's Theory of General Relativity. 🌟📱
 * [Pixel Art Maker ★15](https://github.com/BenEmdon/PixelArtMaker) - A playground where you can make pixel art.
 * [SwiftCoin ★19](https://github.com/Thomvis/Swiftcoin) - A simplistic blockchain & cryptocurrency in a playground.
 * [SentimentlySwift ★1](https://github.com/benbahrenburg/SentimentlySwift) - Sentiment analysis in Swift. 

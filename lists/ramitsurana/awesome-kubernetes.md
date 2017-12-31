@@ -610,7 +610,7 @@ Projects
 * [Ksql ★85 ⏳1Y](https://github.com/brendandburns/ksql)
 * [kubectld ★10](https://github.com/rancher/kubectld)
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
-* [Kubectl Aliases ★151](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl
+* [Kubectl Aliases ★160](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl
 * [Vikube ★23](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
 * [kube-ps1 ★7](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
 

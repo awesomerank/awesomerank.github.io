@@ -412,7 +412,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [feiertage ★8](https://github.com/wlbr/feiertage) - Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving...
 * [go-persian-calendar ★29 ⏳1Y](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
 * [go-sunrise ★2](https://github.com/nathan-osman/go-sunrise) - Calculate the sunrise and sunset times for a given location.
-* [goweek ★12](https://github.com/grsmv/goweek) - Library for working with week entity in golang.
+* [goweek ★12 ⏳1Y](https://github.com/grsmv/goweek) - Library for working with week entity in golang.
 * [now ★1040](https://github.com/jinzhu/now) - Now is a time toolkit for golang.
 * [NullTime ★4](https://github.com/kirillDanshin/nulltime) - Nullable `time.Time`.
 * [timeutil ★140 ⏳2Y](https://github.com/leekchan/timeutil) - Useful extensions (Timedelta, Strftime, ...) to the golang's time package.
@@ -723,7 +723,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [probab ★7 ⏳2Y](https://github.com/ThePaw/probab) - Probability distribution functions. Bayesian inference. Written in pure Go.
 * [regommend ★178](https://github.com/muesli/regommend) - Recommendation & collaborative filtering engine.
 * [shield ★109 ⏳1Y](https://github.com/eaigner/shield) - Bayesian text classifier with flexible tokenizers and storage backends for Go.
-* [tfgo ★636](https://github.com/galeone/tfgo) - Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python.
+* [tfgo ★666](https://github.com/galeone/tfgo) - Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python.
 * [Varis ★2](https://github.com/Xamber/Varis) - Golang Neural Network.
 
 ## Messaging
@@ -1622,7 +1622,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [fleet ★2398](https://github.com/coreos/fleet) - Distributed init System.
 * [Go Package Store ★798](https://github.com/shurcooL/Go-Package-Store) - App that displays updates for the Go packages in your GOPATH.
 * [gocc ★148](https://github.com/goccmack/gocc) - Gocc is a compiler kit for Go written in Go.
-* [GoDNS ★166](https://github.com/timothyye/godns) - A dynamic DNS client tool, supports DNSPod & HE.net, written in Go.
+* [GoDNS ★173](https://github.com/timothyye/godns) - A dynamic DNS client tool, supports DNSPod & HE.net, written in Go.
 * [GoDocTooltip ★11 ⏳1Y](https://github.com/diankong/GoDocTooltip) - Chrome extension for Go Doc sites, which shows function description as tooltip at funciton list.
 * [GoLand](https://jetbrains.com/go) - Full featured cross-platform Go IDE.
 * [Gor](https://github.com/buger/gor) - Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time.

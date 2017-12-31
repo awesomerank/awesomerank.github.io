@@ -399,7 +399,7 @@ AWS Repos:
 
 * [api-gateway-secure-pet-store :fire::fire: ★247](https://github.com/awslabs/api-gateway-secure-pet-store) - Cognito credentials through Lambda.
 * [aws-apigateway-sdk-java ★17 ⏳1Y](https://github.com/awslabs/aws-apigateway-sdk-java) - SDK for Java.
-* [aws-apigateway-swagger-importer :fire::fire: ★478](https://github.com/awslabs/aws-apigateway-importer) - Tools to work with Swagger.
+* [aws-apigateway-swagger-importer :fire::fire: ★478 ⏳1Y](https://github.com/awslabs/aws-apigateway-importer) - Tools to work with Swagger.
 
 Community Repos:
 
@@ -745,6 +745,7 @@ Community Repos:
 * [eawsy/aws-lambda-go :fire::fire::fire: ★680](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on Lambda.
 * [garnaat/kappa :fire::fire::fire: ★881](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
 * [goadapp/goad :fire::fire:fire::fire::fire: ★1469](https://github.com/goadapp/goad) - Lambda powered, highly distributed, load testing tool.
+* [graphcool/chromeless :fire::fire::fire::fire::fire: ★11423](https://github.com/graphcool/chromeless) - Automate Chrome through Lambda.
 * [jimpick/lambda-comments :fire::fire::fire: ★572 ⏳1Y](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
 * [jorgebastida/gordon :fire::fire::fire::fire: ★1947](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 * [ks888/LambStatus :fire::fire::fire: ★550](https://github.com/ks888/LambStatus) - A status page system inspired by StatusPage.io, built on AWS Lambda.
@@ -939,7 +940,7 @@ Community Repos:
 * [Netflix/bless :fire::fire::fire::fire: ★1317](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
 * [Netflix/security_monkey :fire::fire::fire::fire: ★1883](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations.
 * [sebsto/AWSVPN :fire: ★163 ⏳1Y](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
-* [trailofbits/algo :fire::fire::fire::fire::fire: ★6564](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
+* [trailofbits/algo :fire::fire::fire::fire::fire: ★6767](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
 
 ### Accompanying Repos
 
@@ -959,7 +960,7 @@ AWS Repos:
 * [railsconf2013-tech-demo :fire: ★166 ⏳4Y](https://github.com/awslabs/railsconf2013-tech-demo) - Seahorse demo from RailsConf 2013.
 * [reinvent2013-js-blog-demo](https://github.com/awslabs/reinvent2013-js-blog-demo) - Demo blogging app from re:Invent 2013.
 * [reinvent2013-mobile-photo-share](https://github.com/awslabs/reinvent2013-mobile-photo-share) - Mobile photo share app from re:Invent 2014.
-* [reinvent2014-scalable-site-management ★57](https://github.com/awslabs/reinvent2014-scalable-site-management) - Scalable site management sample from re:Invent 2014.
+* [reinvent2014-scalable-site-management ★57 ⏳1Y](https://github.com/awslabs/reinvent2014-scalable-site-management) - Scalable site management sample from re:Invent 2014.
 * [reinvent2015-dev309](https://github.com/awslabs/reinvent2015-dev309) - Large Scale Metrics Analysis from re:Invent 2015.
 * [timely-security-analytics ★24 ⏳2Y](https://github.com/awslabs/timely-security-analytics) - Security analytics sample from 2015 re:Invent 2015.
 * [todo-app-railsconf](https://github.com/awslabs/todo-app-railsconf) - Simple "Todo" app from RailsConf 2015.

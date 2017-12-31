@@ -247,7 +247,7 @@ are often collected in dictionaries.
   Calculate the similarity between texts using TF/IDF.
 
 ### Pragmatical Analysis
-- [SentimentLib ★7 ⏳4Y](https://github.com/nzaillian/sentiment_lib) -
+- [SentimentLib ★7 ⏳5Y](https://github.com/nzaillian/sentiment_lib) -
   Simple extensible sentiment analysis gem.
 
 ## High Level Tasks
@@ -386,7 +386,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Text Extraction
 
-- [yomu ★389](https://github.com/yomurb/yomu) -
+- [yomu ★389 ⏳1Y](https://github.com/yomurb/yomu) -
   library for extracting text and metadata from files and documents
   using the [Apache Tika](https://tika.apache.org/) content analysis toolkit.
 

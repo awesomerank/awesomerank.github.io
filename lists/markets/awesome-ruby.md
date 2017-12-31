@@ -1169,7 +1169,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [auto_html ★731 ⏳1Y](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
 * [Bh ★828](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
 * [gon ★2533](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
-* [PluggableJs ★51 ⏳1Y](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
+* [PluggableJs ★51 ⏳2Y](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 
 ## Web Crawling
 

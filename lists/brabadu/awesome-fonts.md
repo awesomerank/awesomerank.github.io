@@ -76,7 +76,7 @@ A curated list of fonts and typography resources.
 * [emojitracker ★552 ⏳1Y](https://github.com/mroth/emojitracker) - Track ALL the emoji
 * [emojize ★112 ⏳2Y](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility.
 * [gemoji ★2937](https://github.com/github/gemoji) - Emoji images and names
-* [gh-emoji ★139](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
+* [gh-emoji ★139 ⏳1Y](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
 * [node-emoji ★386](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
 * [megamoji ★150](https://github.com/muan/megamoji) - Making megamojis like a pro
 * [mojibar ★1771](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app

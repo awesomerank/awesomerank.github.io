@@ -25,6 +25,7 @@ title: Awesome Rank for ooade/awesome-preact
 - [Testing Utils](#testing-utils)
 - [Articles](#articles)
 - [Example Apps](#example-apps)
+- [Real Apps](https://preactjs.com/about/we-are-using)
 - [Related Libraries](#related-libraries)
 - [Tips](#tips)
 
@@ -47,6 +48,7 @@ title: Awesome Rank for ooade/awesome-preact
 - [TypeScript Preact Starter ★16](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript.
 - [Preact Redux SSR Example ★22 ⏳1Y](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example.
 - [Preact PWA ★446](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
+- [Preact Boilerplate ★0](https://github.com/therealparmesh/preact-boilerplate) - Absolutely minimal Preact starter project, powered by Parcel.
 
 ### Routing
 - [Preact Router ★352](https://github.com/developit/preact-router) - URL router for Preact.
@@ -83,7 +85,7 @@ title: Awesome Rank for ooade/awesome-preact
 - [Preact Level List ★3](https://github.com/juliangruber/preact-level-list) - Live updating leveldb list component for Preact.
 - [Preact Country Picker ★2](https://github.com/bboydflo/flagstrap-preact) - Country picker based on bootstrap 3 made for Preact.
 - [Preact Fluid ★33](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact.
-
+- [Preact Feather Icons ★5](https://github.com/ForsakenHarmony/preact-feather) - Feather icons for Preact.
 
 ### Libraries
 - [Redux Zero ★1418](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.

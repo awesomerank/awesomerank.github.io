@@ -334,6 +334,7 @@ These frameworks make customizing your zsh setup easier.
 * [going_places ★0 ⏳1Y](https://github.com/or17191/going_places) - A plugin that helps to use, create and maintain a list of shell locations.
 * [google-lucky ★0](https://github.com/miked0004/zsh-google-lucky) - Simple plugin to search for last command in google's "I feel lucky"
 * [gpg-agent ★4 ⏳1Y](https://github.com/axtl/gpg-agent.zsh) - Plugin that tries to do the right thing when it comes to setting up the GPG agent to act as an SSH agent as well on macOS.
+* [gpg-crypt ★0](https://github.com/Czocher/gpg-crypt) - ZSH plugin to encrypt/decrypt files or directories in place.
 * [grep2awk ★12 ⏳1Y](https://github.com/joepvd/grep2awk) - ZLE widget to transform grep command into awk command.
 * [grunt-plugin ★8 ⏳5Y](https://github.com/clauswitt/zsh-grunt-plugin) - Add autocompletion for grunt.
 * [gtm-terminal-plugin ★7](https://github.com/git-time-metric/gtm-terminal-plugin) - terminal plugin for [git time metrics](https://github.com/git-time-metric/gtm/blob/master/README.md).
@@ -390,7 +391,7 @@ These frameworks make customizing your zsh setup easier.
 * [navigation-tools ★155](https://github.com/psprint/zsh-navigation-tools) - Adds `htop`-like `kill`, directory bookmarks browser, multi-word incremental history searcher and more.
 * [nice-exit-code ★16 ⏳3Y](https://github.com/bric3/nice-exit-code) - Maps exit status code to human readable string.
 * [node.plugin.zsh ★6 ⏳2Y](https://github.com/srijanshetty/node.plugin.zsh) - Srijan Shetty's nodejs plugin for zsh with caching of nvm completions and autoloading of nvm if present.
-* [nodenv.plugin.zsh ★0](https://github.com/jsahlen/nodenv.plugin.zsh) - Auto-load nodenv and its completions into the shell.
+* [nodenv.plugin.zsh ★0 ⏳1Y](https://github.com/jsahlen/nodenv.plugin.zsh) - Auto-load nodenv and its completions into the shell.
 * [nohup ★0](https://github.com/micrenda/zsh-nohup) - Add `nohup` to the current command pressing `Ctrl-H`.
 * [noreallyjustfuckingstopalready ★268](https://github.com/eventi/noreallyjustfuckingstopalready) - macOS users know the pain of trying to figure out what command actually flushes the DNS cache on their version of macOS, and this plugin makes that annoyance go away.
 * [notify ★209](https://github.com/marzocchi/zsh-notify) - A plugin for the Z shell (on macOS and Linux) that posts desktop notifications when a command terminates with a non-zero exit status or when it took more than 30 seconds to complete, if the terminal application is in the background (or the command's terminal tab is inactive).
@@ -619,7 +620,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [classyTouch ★20](https://github.com/yarisgutierrez/classyTouch_oh-my-zsh) - Minimal, clean theme with git support.
 * [clean ★0](https://github.com/akz92/clean) - Minimalist ZSH theme.
 * [cloudy ★23 ⏳1Y](https://github.com/Huvik/Cloudy) - Minimal cloudy ZSH theme.
-* [cmder ★5](https://github.com/potasiyam/cmder-zsh-theme) - A ZSH theme that matches the theme of Cmder, a popular terminal emulator for windows.
+* [cmder ★5 ⏳1Y](https://github.com/potasiyam/cmder-zsh-theme) - A ZSH theme that matches the theme of Cmder, a popular terminal emulator for windows.
 * [cobalt2 ★652](https://github.com/wesbos/Cobalt2-iterm) - Wes Bos' Cobalt 2 theme for ZSH and iTerm 2.
 * [cobalt2git ★1](https://github.com/alexeimun/cobalt2git) - Cobalt 2 theme with git extensions.
 * [codemachine ★4 ⏳3Y](https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine) - Codemachine theme.

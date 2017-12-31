@@ -736,7 +736,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TestInsight](https://bitbucket.org/sglienke/testinsight/wiki/Home). Unit testing IDE Plugin for Delphi. It supports all versions from XE to 10 Seattle. Supports DUnit, DUnit2, DUnitX frameworks.
 
-* [Delphi IDE Explorer ★7](https://github.com/DGH2112/Delphi-IDE-Explorer). Wizard / expert / plugin that allows you to browser the internal fields, methods, properties and events of the IDE.
+* [Delphi IDE Explorer ★8](https://github.com/DGH2112/Delphi-IDE-Explorer). Wizard / expert / plugin that allows you to browser the internal fields, methods, properties and events of the IDE.
 // *Mainly useful for developers of IDE experts*
 
 * [Multi-RAD Studio IDE Expert Manager](http://www.davidghoyle.co.uk/WordPress/?page_id=1361). Application is for editing the installed experts in all versions of RAD Studio (and older Delphi and C++ Builder) on a machine.

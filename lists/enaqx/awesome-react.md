@@ -400,7 +400,7 @@ A collection of awesome things regarding React ecosystem.
 * [ogre.js - Object graph manager, built with ReactJS in mind ★4 ⏳2Y](https://github.com/elucidata/ogre.js)
 * [react-scroll-components - A set of components that react to page scrolling ★117 ⏳1Y](https://github.com/jeroencoumans/react-scroll-components)
 * [react-fullscreen-component - Create fullscreen toggles ★32 ⏳2Y](https://github.com/jeroencoumans/react-fullscreen-component)
-* [react-frozenhead - Make your whole page a React component and render it on the server ★54 ⏳2Y](https://github.com/matthewwithanm/react-frozenhead)
+* [react-frozenhead - Make your whole page a React component and render it on the server ★54 ⏳3Y](https://github.com/matthewwithanm/react-frozenhead)
 * [react-document-title - declarative, nested, stateful document.title ★1044](https://github.com/gaearon/react-document-title)
 * [react-tags - A simple wrapper around React.DOM ★5 ⏳3Y](https://github.com/adelevie/react-tags)
 * [react-datepicker by @misino - Datepicker component for application using Facebook React ★19](https://github.com/misino/react-datepicker)

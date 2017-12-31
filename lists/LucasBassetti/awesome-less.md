@@ -128,7 +128,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Css3LessPlease](http://chrsr.com/css3lessplease/) - Conversion of css3please.com to Less mixins.
 - [CssEffects](http://adodson.com/css-effects/) - 	Collection of CSS style effects.
 - [Cssowl](http://cssowl.owl-stars.com/) - Mixin library.
-- [Dynamic Stylesheet ★106 ⏳2Y](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) - Set of useful mixins.
+- [Dynamic Stylesheet ★106 ⏳3Y](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) - Set of useful mixins.
 - [Est ★349](https://github.com/ecomfe/est) - 	Mixin library.
 - [Hexagon](http://db0company.github.io/css-hexagon/) - Generate CSS hexagons with custom size and color.
 - [Homeless ★37 ⏳2Y](https://github.com/pixelass/homeless) - Helpful functions.

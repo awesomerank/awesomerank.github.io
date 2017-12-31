@@ -214,7 +214,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Sprint Poker ★149](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
 * [Startup Job ★39](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
 * [tty2048 ★135 ⏳1Y](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
-* [uai_shot ★5](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
+* [uai_shot ★9](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
 
 ## Artificial Intelligence
 *When your code becomes smarter than you.*
@@ -249,7 +249,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [oauth2_github ★1](https://github.com/chrislaskey/oauth2_github) - A GitHub OAuth2 Provider for Elixir.
 * [oauth2cli ★3 ⏳2Y](https://github.com/mgamini/oauth2cli-elixir) - Simple OAuth2 client written for Elixir.
 * [oauth2ex ★55](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
-* [oauther ★38](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
+* [oauther ★38 ⏳1Y](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 * [phauxth ★110](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
 * [phoenix_client_ssl ★1](https://github.com/jshmrtn/phoenix-client-ssl) - Client SSL Authentication Plugs for Phoenix and other Plug-based apps.
 * [samly ★5](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
@@ -1138,7 +1138,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [adap](https://github.com/awetzel/adap) - Create a data stream across your information systems to query, augment and transform data according to Elixir matching rules.
 * [amqp ★271](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
-* [conduit ★10](https://github.com/conduitframework/conduit) - A framework for working with message queues, with adapters for SQS and AMQP, and plugs for reusable messaging patterns.
+* [conduit ★11](https://github.com/conduitframework/conduit) - A framework for working with message queues, with adapters for SQS and AMQP, and plugs for reusable messaging patterns.
 * [cspex ★9 ⏳1Y](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
 * [dbus ★5 ⏳2Y](https://github.com/aforward/sadbus) - A dumb message bus for sharing data between microservices decoupled using Redis.
 * [elixir_nsq ★47](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.

@@ -87,7 +87,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [Lumo ★1180](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 - [Planck ★784](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 - [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
-- [shadow-cljs ★293](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
+- [shadow-cljs ★319](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 
 
 ### Document Object Model
@@ -118,7 +118,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 
 ### Internationalization
 - [Tower ★249 ⏳1Y](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
-- [Tempura ★116](https://github.com/ptaoussanis/tempura) - A Clojure(Script) i18n library, succeeding Tower
+- [Tempura ★120](https://github.com/ptaoussanis/tempura) - A Clojure(Script) i18n library, succeeding Tower
 
 
 ### JavaScript Interoperability

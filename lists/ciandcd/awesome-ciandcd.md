@@ -225,7 +225,7 @@ The tools for software delivery
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind  
 * [pulp](http://www.pulpproject.org/)  Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.  
 * [herd ★399 ⏳1Y](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder     
-* [murder ★2430](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
+* [murder ★2430 ⏳1Y](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
 
 ## Provisioning Tools 
 Provision tools

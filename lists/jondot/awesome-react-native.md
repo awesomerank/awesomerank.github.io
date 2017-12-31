@@ -157,16 +157,17 @@ Content published on the Web.
 
 ## Components
 
-Components and native modules. For more search [JS.COACH](https://js.coach/react-native).
+Components and native modules.
 
 ### UI
-
+- [react-native-typography ★69](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
 - [react-native-paper ★109](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
 - [react-virgin ★1108](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 - [rn-render-perfs ★25](https://github.com/mfrachet/rn-render-perfs) - Measure React rendering lifecycles using UI controls
 - [react-native-toast-native ★21](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
 - [rn-ab-hoc ★17](https://github.com/mfrachet/rn-ab-hoc) - Poor intrusive way to make A/B Testing by using an HoC instead of components.
-- [rn-placeholder ★314](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
+- [rn-placeholder ★315](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
+- [rn-displayable ★1](https://github.com/mfrachet/rn-displayable) - Display your components based on props or a set of rules
 - [react-native-scrollview-smart ★49](https://github.com/bolket/react-native-scrollview-smart) - A Smart ScrollView component for IOS and Android.
 - [react-native-fast-image ★641](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
 - [photo-viewer ★32](https://github.com/merryjs/photo-viewer) - A photo viewer for react native build on top of NYTPhotoViewer and FrescoImageViewer.
@@ -271,6 +272,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-easy-checkbox ★2](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native
 - [react-native-dropdown ★404](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 - [react-native-effects-view ★271](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
+- [react-native-elastic-stack ★11](https://github.com/monterosalondon/react-native-elastic-stack) - ReactNative component that implements [elastic stack effect](https://tympanus.net/Development/ElasticStack/)
 - [react-native-egg ★144](https://github.com/FuYaoDe/react-native-egg) - A easter egg component implementation simple gestures detection achieve trigger can make your react native app infinitely more fun.
 - [react-native-emoji ★152](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
 - [react-native-emoji-picker ★63](https://github.com/yonahforst/react-native-emoji-picker) - Simple Emoji picker for react-native with optional modal-like component
@@ -355,6 +357,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-page-control ★119](https://github.com/silentcloud/react-native-page-control) - React native page control, like ios  UIPageControl
 - [react-native-page-swiper ★74](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
 - [react-native-parallax ★387](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
+- [react-native-parallax-scroll ★71](https://github.com/monterosalondon/react-native-parallax-scroll) - Parallax Scroll component with sticky header, foreground, native-driver and all scrollable components(FlatList, ListView, SectionList, ScrollView)  support.
 - [react-native-parallax-scroll-view ★1028](https://github.com/jaysoo/react-native-parallax-scroll-view) - A ScrollView-like component with parallax and sticky header support.
 - [react-native-parallax-swiper ★80](https://github.com/zachgibson/react-native-parallax-swiper) - Configurable parallax swiper based on an iOS pattern. Uses Native Driver for super smooth parallax.
 - [react-native-parsed-text ★383](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
@@ -399,6 +402,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-search ★15](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 - [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 - [react-native-custom-segmented-control ★96](https://github.com/wix/react-native-custom-segmented-control) - Native UI iOS component for Segmented Control with custom style
+- [react-native-segmented-control-tab ★106](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab(for Android/iOS)
 - [react-native-segmented-view ★144](https://github.com/lelandrichardson/react-native-segmented-view) - Segmented View for React Native (with animation)
 - [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
 - [react-native-selectme ★149](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
@@ -517,6 +521,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-transparent-bar ★16](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
 - [kittenTricks ★3086](https://github.com/akveo/kittenTricks) - A react native mobile starter kit with over 40 screens and theme hot reload support
 - [react-native-grid-list ★ ★3](https://github.com/gusgard/react-native-grid-list) - React Native Grid List component
+- [react-native-swiper-flatlist ★★](https://github.com/gusgard/react-native-swiper-flatlist) - 👆 React Native Swiper component implemented with FlatList
 
 #### Navigation/Routing Articles
 - [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
@@ -554,7 +559,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-ux-cam ★13](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.
 
 ### Utils & Infra
-
+- [react-native-hour-format ★15](https://github.com/SoftwareMansion/react-native-hour-format) - Get hour format from OS settings.
 - [react-native-HsvToRgb ★2](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 - [react-native-call-detection ★40](https://github.com/priteshrnandgaonkar/react-native-call-detection) - Helps to detect different call states like Incoming, Disconnected, Dialing and Connected
 - [react-native-simple-encryption ★11](https://github.com/BhavanPatel/react-native-simple-encryption) - Simple XOR and base_64 encryption decryption for react-native
@@ -892,7 +897,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 Useful React Native tooling.
 
-- [ADB Auto Restarter ★5](https://github.com/mahanhaz/adb-auto-restarter) - Restart ADB service Automatically in case of crashing while debugging app with device
+- [ADB Auto Restarter ★5](https://github.com/mahanhaz/adb-auto-restarter) - Restart ADB service Automatically in case of crashing while debugging app with device .
+- [BuilderX](https://builderx.io/) - A design tool which writes React Native code for you , Desktop Mac app to replace your traditional UX design tools.
 - [react-native-snippets ★225](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
 - [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
 - [Ruby React Native (via Opal) ★389](https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
@@ -914,13 +920,14 @@ Useful React Native tooling.
 - [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 - [React Native Actions ★37](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
 - [Electrode Native ★235](https://github.com/electrode-io/electrode-native) - A platform to ease the integration of React Native components in existing mobile applications.
+- [AsyncStorage Dev Menu Item *15 ★38](https://github.com/jsoendermann/react-native-async-storage-dev-menu-item) - Adds an option to your dev menu to log the content of your AsyncStorage.
 
 ## Seeds
 
 Get a head start on development with an existing seed.
 
 - [🔥 Ignite ★6704](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
-- [React Native Seed ★271](https://github.com/GeekyAnts/react-native-seed) - A set of React Native Boilerplates to choose from. MobX or Redux for state-management, TypeScript or Flow for static type checking and CRNA or plain React Native for the stack - By the creators of Native Base
+- [React Native Seed ★286](https://github.com/GeekyAnts/react-native-seed) - A set of React Native Boilerplates to choose from. MobX or Redux for state-management, TypeScript or Flow for static type checking and CRNA or plain React Native for the stack - By the creators of Native Base.
 - [React-Native-Starter-Pack ★39](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 - [react-native-webpack-starter-kit ★878](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★239](https://github.com/roman01la/react-native-babel)
@@ -942,8 +949,10 @@ Get a head start on development with an existing seed.
 - [react-native-boilerplate ★39](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
 - [react-native-web-workspace ★30](https://github.com/agrcrobles/react-native-web-workspace) - A cross platform app with react in a monorepo
 - [react-native-web-boilerplate ★46](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate
-- [native-starter-kit ★1273](https://github.com/start-react/native-starter-kit) - A Starter Kit for React Native + NativeBase + React Navigation + Redux + CodePush Apps (iOS & Android)
+- [native-starter-kit ★1294](https://github.com/start-react/native-starter-kit) - A Starter Kit for React Native + NativeBase + React Navigation + Redux + CodePush Apps (iOS & Android)
 - [react-native-boilerplate-chucknorris ★13](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)
+- [react-native-template-super ★2](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
+
 
 ## Libraries
 
@@ -958,6 +967,7 @@ Libraries / SDK type additions for React Native development.
 
 Open source React Native apps and other examples.
 
+- [f8app ★11163](https://github.com/fbsamples/f8app) - Official F8 (Facebook Developer Conference) app of 2017. See [blog post](http://makeitopen.com/blog/2017/12/04/blog-post-f82017-open-source.html).
 - [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
 - [Boostnote ★238](https://github.com/BoostIO/boostnote-mobile) - Boostnote: open source note taking.
 - [ndash ★94](https://github.com/alexindigo/ndash) - npm dashboard.
@@ -1041,11 +1051,12 @@ Open source React Native apps and other examples.
 - [Todo List ★9](https://github.com/rishabhbhatia/react-native-todo) - Todo-List app using SwipeView with ES6 standards for iOS and Android.
 - [Quick-Sample ★2](https://github.com/innFactory/react-native-quick-sample) - A small and simple example app with navigation, data persistence, redux, listview and animation.
 - [Buttercup Mobile ★44](https://github.com/buttercup/buttercup-mobile) - Mobile password manager
+- [Nearby Live ★51](https://github.com/N3TC4T/Nearby-Live) - An unofficial NearbyLive app for Android and iOS
 
 ## Frameworks
 
 - [Awesome React Native Meteor ★145](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
-- [NativeBase ★6855](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
+- [NativeBase ★7062](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
 - [React Native Diagnose ★5](https://github.com/netbeast/react-native-diagnose) -  A framework to test a React Native app during runtime and production
 - [Teaset ★521](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control.
 
@@ -1120,6 +1131,7 @@ Assortment of conference and training videos.
 
 ### Training & tutorials
 
+- [Building Youtube UI in 30 Minutes | React Native Tutorial](https://www.youtube.com/watch?v=LdKtugH-sb8) - A quick tutorial showing how to build Youtube Mobile app's UI using React Native. This tutorial helps in getting started with coding designs from scratch.
 - [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
 - [Let's build a React Native app in 20 minutes](https://www.youtube.com/watch?v=9ArhJiMGVDc) and [Gist](https://gist.github.com/peterjmag/2ef39ba5d25f3f1e0008)
 - Egghead.io: [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)

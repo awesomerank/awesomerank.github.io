@@ -55,7 +55,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
 
-* [AdvancedNewFile ★6](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
+* [AdvancedNewFile ★9](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
 * [ag ★14002](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases ★104](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
 * [aliasme ★34](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
@@ -299,7 +299,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
 * [sub ★1401](https://github.com/basecamp/sub) - A delicious way to organize programs
 * [ts ★34 ⏳1Y](https://github.com/thinkerbot/ts) - A shell test script
-* [urchin ★147](https://github.com/tlevine/urchin) - An idiomatic shell testing framework that uses only shell commands
+* [urchin ★149](https://github.com/tlevine/urchin) - An idiomatic shell testing framework that uses only shell commands
 * [shunit2 ★367](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 * [rebash ★26](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 * [zunit ★35](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH

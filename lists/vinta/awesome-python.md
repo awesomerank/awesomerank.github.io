@@ -922,7 +922,7 @@ Inspired by [awesome-php ★17326](https://github.com/ziadoz/awesome-php).
 * [libffm ★596](https://github.com/guestwalk/libffm) - A library for Field-aware Factorization Machine (FFM).
 * [LightFM ★1365](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms.
 * [surprise](http://surpriselib.com) - A scikit for building and analyzing recommender systems.
-* [TensorRec ★184](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
+* [TensorRec ★202](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
 
 ## RESTful API
 
@@ -945,7 +945,7 @@ Inspired by [awesome-php ★17326](https://github.com/ziadoz/awesome-php).
     * [restless ★649](https://github.com/toastdriven/restless) - Framework agnostic REST framework based on lessons learned from Tastypie.
     * [ripozo ★178 ⏳1Y](https://github.com/vertical-knowledge/ripozo) - Quickly creating REST/HATEOAS/Hypermedia APIs.
     * [sandman ★2288 ⏳1Y](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
-    * [apistar ★2764](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
+    * [apistar ★2944](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
 
 ## RPC Servers
 

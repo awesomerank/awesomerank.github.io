@@ -924,7 +924,7 @@ be
 * [Optunity](http://optunity.readthedocs.io/en/latest/) - A library dedicated to automated hyperparameter optimization with a simple, lightweight API to facilitate drop-in replacement of grid search.
 * [Neural Networks and Deep Learning ★5755](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" [DEEP LEARNING].
 * [Annoy ★2832](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation.
-* [skflow ★3101](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow, mimicking Scikit Learn.
+* [skflow ★3101 ⏳1Y](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow, mimicking Scikit Learn.
 * [TPOT ★3346](https://github.com/rhiever/tpot) - Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
 * [pgmpy ★614](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 * [DIGITS ★2767](https://github.com/NVIDIA/DIGITS) - The Deep Learning GPU Training System (DIGITS) is a web application for training deep learning models.

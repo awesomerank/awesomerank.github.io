@@ -154,7 +154,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Beacon Scanner Apps
 
 * [iBeacon Scanner](https://play.google.com/store/apps/details?id=be.createweb.beaconscanner) & [code ★1](https://github.com/eliaslecomte/ibeacon-scanner-app)
-* [Beacon Scanner & Logger ★38](https://github.com/justinodwyer/Beacon-Scanner-and-Logger) Android app that scans for BLE Beacons/iBeacons and logs the results to a file
+* [Beacon Scanner & Logger ★38 ⏳1Y](https://github.com/justinodwyer/Beacon-Scanner-and-Logger) Android app that scans for BLE Beacons/iBeacons and logs the results to a file
 * [iBeacon Detector](https://play.google.com/store/apps/details?id=youten.redo.ble.ibeacondetector&hl=de)
 * [Bluetooth 4.0 Scanner](https://play.google.com/store/apps/details?id=com.bluemotionlabs.bluescan&hl=de)
 * [Beacon Keeper](https://play.google.com/store/apps/details?id=com.m039.beacon.keeper.app)

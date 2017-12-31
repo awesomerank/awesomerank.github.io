@@ -135,7 +135,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
 * [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display output.
 * [extrafont ★135 ⏳2Y](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
-* [showtext ★144](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
+* [showtext ★144 ⏳1Y](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 * [animation](http://yihui.name/animation/) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
 * [gganimate ★516](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2.
 * [misc3d](https://cran.r-project.org/web/packages/misc3d/index.html) - Powerful functions to deal with 3d plots, isosurfaces, etc.

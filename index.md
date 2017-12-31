@@ -160,7 +160,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Kotlin ★3563](lists/KotlinBy/awesome-kotlin.md)
 - [OCaml ★1136](lists/rizo/awesome-ocaml.md)
 - [ColdFusion ★48](lists/seancoyne/awesome-coldfusion.md)
-- [Fortran ★127](lists/rabbiabram/awesome-fortran.md)
+- [Fortran ★127 ⏳1Y](lists/rabbiabram/awesome-fortran.md)
 - [.NET ★5723](lists/quozd/awesome-dotnet.md)
 	- [Core ★3584](lists/thangchung/awesome-dotnet-core.md)
 - [PHP ★17326](lists/ziadoz/awesome-php.md)
@@ -174,7 +174,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [CMake ★946](lists/onqtam/awesome-cmake.md) - Build, test, and package software.
 - [ActionScript 3 ★52](lists/robinrodricks/awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR.
 - [Eta ★29](lists/sfischer13/awesome-eta.md) - Functional programming language for the JVM.
-- [Idris ★48](lists/joaomilho/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [Idris ★57](lists/joaomilho/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 
 
 ## Front-End Development
@@ -220,7 +220,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Text Editing ★76 ⏳1Y](lists/dok/awesome-text-editing.md)
 - [Motion UI Design ★457](lists/fliptheweb/motion-ui-design.md)
 - [Vue.js ★26186](lists/vuejs/awesome-vue.md) - App framework.
-- [Marionette.js ★144](lists/sadcitizen/awesome-marionette.md) - App framework.
+- [Marionette.js ★144 ⏳1Y](lists/sadcitizen/awesome-marionette.md) - App framework.
 - [Aurelia ★249](lists/behzad888/awesome-aurelia.md) - App framework.
 - [Charting ★791](lists/zingchart/awesome-charting.md)
 - [Ionic Framework 2 ★623](lists/candelibas/awesome-ionic.md)
@@ -583,11 +583,11 @@ title: Awesome Rank for sindresorhus/awesome
 - [Ledger ★18](lists/sfischer13/awesome-ledger.md) - Double-entry accounting on the command-line.
 - [Uncopyright ★154](lists/johnjago/awesome-uncopyright.md) - Public domain works.
 - [Crypto Currency Tools & Algorithms ★2153](lists/kennethreitz/awesome-coins.md) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
-- [Diversity ★202](lists/folkswhocode/awesome-diversity.md) - Creating a more inclusive and diverse tech community.
+- [Diversity ★216](lists/folkswhocode/awesome-diversity.md) - Creating a more inclusive and diverse tech community.
 - [Open Source Supporters ★248](lists/zachflower/awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects.
 - [Design Principles ★39](lists/robinstickel/awesome-design-principles.md) - Create better and more consistent designs and experiences.
-- [Visual Regression Testing ★225](lists/mojoaxel/awesome-regression-testing.md) - Ensures changes did not break the functionality or style.
-- [Theravada ★36](lists/johnjago/awesome-theravada.md) - Teachings from the Theravada Buddhist tradition.
+- [Visual Regression Testing ★264](lists/mojoaxel/awesome-regression-testing.md) - Ensures changes did not break the functionality or style.
+- [Theravada ★39](lists/johnjago/awesome-theravada.md) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT ★4](lists/inspectit-labs/awesome-inspectit.md) - Open source Java app performance management tool.
 
 

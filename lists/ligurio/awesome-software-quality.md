@@ -374,7 +374,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [Selenium ★101](https://github.com/TheJambo/awesome-testing)
 - [Symbolic execution ★30](https://github.com/ksluckow/awesome-symbolic-execution)
 - [Coq Proof Assistant ★137](https://github.com/uhub/awesome-coq)
-- [Visual regression testing ★225](https://github.com/mojoaxel/awesome-regression-testing)
+- [Visual regression testing ★264](https://github.com/mojoaxel/awesome-regression-testing)
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems ★72](https://github.com/asatarin/testing-distributed-systems)
 

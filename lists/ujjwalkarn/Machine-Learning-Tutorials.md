@@ -544,7 +544,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         
             - [GitHub Repo](https://github.com/chiphuyen/tf-stanford-tutorials)
             
-        - [Simplified Scikit-learn Style Interface to TensorFlow ★3101](https://github.com/tensorflow/skflow)
+        - [Simplified Scikit-learn Style Interface to TensorFlow ★3101 ⏳1Y](https://github.com/tensorflow/skflow)
         
         - [Learning TensorFlow GitHub Repo ★9](https://github.com/chetannaik/learning_tensorflow)
         

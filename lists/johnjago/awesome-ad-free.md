@@ -78,6 +78,7 @@ title: Awesome Rank for johnjago/awesome-ad-free
 - [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license.
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - Encyclopedia that anyone can edit.
 - [Wiktionary](https://www.wiktionary.org/) - Dictionary that anyone can edit.
+- [Weather.gov](http://www.weather.gov/) - Weather reports for places in the United States.
 
 ### Social
 

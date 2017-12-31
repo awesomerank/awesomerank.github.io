@@ -247,7 +247,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Particle
 
 * [Flint ★269](https://github.com/richardlord/Flint) - Particle Engine for Flash and Flex.
-* [Desuade Partigen](http://desuade.com/partigen) - Desuade Partigen particle generation system ([github ★19 ⏳6Y](https://github.com/andrewfitz/desuade)).
+* [Desuade Partigen](http://desuade.com/partigen) - Desuade Partigen particle generation system ([github ★19 ⏳7Y](https://github.com/andrewfitz/desuade)).
 * [Angulex ★9 ⏳1Y](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (ActionScript 3).
 * [SAP ★50](https://github.com/gonchar/SAP) - Particle System for Starling.
 * [Starling-Particles ★318](https://github.com/Gamua/Starling-Extension-Particle-System) - Particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com.
@@ -257,7 +257,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [Pantaloons ★18 ⏳5Y](https://github.com/EyeSee360/Pantaloons) - Panoramic viewing in Flash Player.
 * [SaladoPlayer ★92 ⏳2Y](https://github.com/mstandio/SaladoPlayer) - Panorama viewer.
-* [PanoramicViewer ★1 ⏳5Y](https://github.com/BrianMehrman/PanoramicViewer) - 3D Panoramic Viewer.
+* [PanoramicViewer ★1 ⏳6Y](https://github.com/BrianMehrman/PanoramicViewer) - 3D Panoramic Viewer.
 * [Sphere_panorama ★1 ⏳5Y](https://github.com/suzumura-ss/flash_sphere_panorama) - Panorama player with equirectangular texture written in AS3 (Alternativa3D).
 * [CuTy ★10 ⏳3Y](https://github.com/fieldOfView/CuTy) - QTVR Panorama viewer based on Flash 10.
 

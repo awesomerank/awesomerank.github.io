@@ -181,7 +181,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
 * [javaparser ★1454](https://github.com/javaparser/javaparser) - Java 1.8 Parser and Abstract Syntax Tree for Java.
 * [JavaPoet ★4470](https://github.com/square/javapoet) - A Java API for generating .java source files.
-* [jparsec ★199](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
+* [jparsec ★199 ⏳1Y](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
 * [JSweet](http://www.jsweet.org/) - A transpiler from Java to TypeScript/JavaScript.
 * [MPS](https://www.jetbrains.com/mps/) - Design and build extensible DSLs and editors.
 * [parboiled ★1045](https://github.com/sirthias/parboiled) - Parsing of arbitrary input text based on parsing expression grammars.

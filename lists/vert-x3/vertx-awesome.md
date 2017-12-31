@@ -71,7 +71,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Handlers ★3 ⏳1Y](https://github.com/spriet2000/vertx-handlers-http) - Open web framework for Vert.x.
 * [QBit ★594](https://github.com/advantageous/qbit) - REST and WebSocket method call marshaling and reactive library.
 * [vertx-rest-storage ★12](https://github.com/swisspush/vertx-rest-storage) - Persistence for REST resources in the filesystem or a redis database.
-* [Jubilee ★338](https://github.com/isaiah/jubilee) - A rack compatible Ruby HTTP server built on Vert.x 3.
+* [Jubilee ★338 ⏳1Y](https://github.com/isaiah/jubilee) - A rack compatible Ruby HTTP server built on Vert.x 3.
 * [Knot.x ★75](https://github.com/Cognifide/knotx) - Efficient & high-performance integration platform for modern websites built on Vert.x 3.
 * [Vert.x Jspare ★8](https://github.com/jspare-projects/vertx-jspare) - Improving your Vert.x 3 experience with Jspare Framework.
 * [Irked ★3](https://github.com/GreenfieldTech/irked) - Annotations-based configuration for Vert.x 3 Web and controller framework.

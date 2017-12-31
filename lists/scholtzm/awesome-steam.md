@@ -142,7 +142,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### Misc
 
-- [vpk ★9](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
+- [vpk ★9 ⏳1Y](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
 - [vdf ★21](https://github.com/ValvePython/vdf) - Python module for working with Valve's KeyValue format.
 
 ### C++
