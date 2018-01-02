@@ -209,6 +209,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [buku ★1663](https://github.com/jarun/Buku) - command-line bookmark manager.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
 * [wal ★581](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
+* [streamlink ★1697](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.
 
 ## Communication
 

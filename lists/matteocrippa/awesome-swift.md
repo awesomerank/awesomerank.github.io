@@ -198,7 +198,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftIntro ★53 ⏳1Y](https://github.com/Sajjon/SwiftIntro) - Memory game implementation that also teaches Swift.
 * [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code.
 * [The Swift Web Developer](https://theswiftwebdeveloper.com) - A publication for Swift Web Developers.
-* [whats-new-in-swift-4 ★1788](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
+* [whats-new-in-swift-4 ★1827](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
 
 ## Boilerplates
 
@@ -269,7 +269,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Libs for AI based projects (Machine Learning, Neural Networks etc).* [back to top](#readme) 
 
 * [BrainCore ★360](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework.
-* [CoreML-Models ★1841](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
+* [CoreML-Models ★2073](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [MLKit ★92](https://github.com/Somnibyte/MLKit) - A simple machine learning framework.
 * [Swift-AI ★5140](https://github.com/Swift-AI/Swift-AI) - The machine learning library.
 
@@ -325,7 +325,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [RandomUserSwift ★80](https://github.com/dingwilson/RandomUserSwift) - Framework to Generate Random Users - An Unofficial SDK for randomuser.me
 * [reddift ★165](https://github.com/sonsongithub/reddift) - reddit API wrapper.
 * [Swifter Twitter ★1867](https://github.com/mattdonnelly/Swifter) - Twitter framework.
-* [SwiftInstagram ★351](https://github.com/AnderGoig/SwiftInstagram) - Instagram API wrapper.
+* [SwiftInstagram ★368](https://github.com/AnderGoig/SwiftInstagram) - Instagram API wrapper.
 * [SwiftlySalesforce ★67](https://github.com/mike4aday/SwiftlySalesforce) - Framework for rapid development of native iOS apps that integrate with Salesforce.
 
 ### App Routing
@@ -333,9 +333,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Appz ★882](https://github.com/SwiftKitz/Appz) - Launch external apps and deeplink with ease.
 * [Compass ★602](https://github.com/hyperoslo/Compass) - Compass helps you setup a central navigation system for your application.
+* [RxFlow ★56](https://github.com/RxSwiftCommunity/RxFlow) - RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
 * [SwiftRouter ★160](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS.
 * [URLNavigator ★1397](https://github.com/devxoul/URLNavigator) - Elegant URL Routing.
-* [Weavy ★22](https://github.com/twittemb/Weavy) - Weavy is a navigation framework based on a weaving pattern that fits well with Reactive Programming.
 
 ### App Store
 *Libs to help with apple app store, in app purchases and receipt validation.* [back to top](#readme) 
@@ -391,7 +391,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Chart
 [back to top](#readme) 
 
-* [Charts ★16542](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).
+* [Charts ★16836](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).
 * [PNChart-Swift ★1226](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation.
 * [ScrollableGraphView ★4169](https://github.com/philackm/ScrollableGraphView) - Adaptive scrollable graph view for iOS to visualise simple discrete datasets.
 * [SwiftChart ★388](https://github.com/gpbl/SwiftChart) - A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.
@@ -509,7 +509,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Default ★320](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support
-* [DefaultsKit ★788](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS.
+* [DefaultsKit ★806](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS.
 * [Palau ★392](https://github.com/symentis/Palau) - Typesafe NSUserDefaults with custom rules.
 * [Prephirences ★447](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
 * [Storez ★49](https://github.com/SwiftKitz/Storez) - Safe, statically-typed, store-agnostic key-value storage.
@@ -527,7 +527,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Multi Database
 *Data management layers that involve multiple sources.* [back to top](#readme) 
 
-* [StorageKit ★163](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠
+* [StorageKit ★168](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠
 
 #### ORM
 [back to top](#readme) 
@@ -597,7 +597,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Punctual.swift ★318 ⏳1Y](https://github.com/harlanhaskins/Punctual.swift) :penguin: - Date handler.
 * [SwiftDate ★3481](https://github.com/malcommac/SwiftDate) - Easy NSDate Management.
 * [SwiftMoment ★1507](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
-* [Time ★610](https://github.com/dreymonde/Time) - Type-safe time calculations, powered by generics.
+* [Time ★611](https://github.com/dreymonde/Time) - Type-safe time calculations, powered by generics.
 * [Timepiece ★2401](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions.
 * [TrueTime.swift ★222](https://github.com/instacart/TrueTime.swift) - Get the true current time impervious to device clock time changes (NTP library).
 
@@ -656,7 +656,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Katana ★1643](https://github.com/BendingSpoons/katana-swift) - Write apps a la React and Redux.
 * [NoticeObserveKit ★111](https://github.com/marty-suzuki/NoticeObserveKit) - NoticeObserveKit is type-safe NotificationCenter wrapper that associates notice type with info type.
 * [Notificationz ★57](https://github.com/SwiftKitz/Notificationz) - Helping you own `NSNotificationCenter` by providing a simple, customizable adapter.
-* [Observable ★147](https://github.com/roberthein/Observable) - The easiest way to observe values.
+* [Observable ★161](https://github.com/roberthein/Observable) - The easiest way to observe values.
 * [PromiseKit ★8608](https://github.com/mxcl/PromiseKit) - Async promise programming lib.
 * [ReactiveCocoa ★18172](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa (RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.
 * [Reactor ★179 ⏳1Y](https://github.com/MailOnline/Reactor) - Powering your RAC architecture.
@@ -774,8 +774,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [APNGKit ★1311](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
 * [AXPhotoViewer ★248](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 * [CTPanoramaView ★762](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
-* [DTPhotoViewerController ★68](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
-* [FacebookImagePicker ★93](https://github.com/floriangbh/FacebookImagePicker) - Facebook album photo picker.
+* [DTPhotoViewerController ★70](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
+* [FacebookImagePicker ★99](https://github.com/floriangbh/FacebookImagePicker) - Facebook album photo picker.
 * [Filterpedia ★1706](https://github.com/FlexMonkey/Filterpedia) - Core image filter.
 * [FlexibleImage ★615](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 * [gifu ★1885](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
@@ -810,7 +810,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [WDImagePicker ★80](https://github.com/justwudi/WDImagePicker) - Image picker with customizable crop rectangle (getting update).
 * [XAnimatedImage ★576 ⏳1Y](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS based on FLAnimatedImage.
 * [YapImageManager ★52](https://github.com/yapstudios/YapImageManager) - A high-performance image downloader — powered by YapDatabase.
-* [ZImageCropper ★26](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
+* [ZImageCropper ★33](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ### Key Value Coding
 *Libraries for key-value coding* [back to top](#readme) 
@@ -934,7 +934,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Alamofire ★26259](https://github.com/Alamofire/Alamofire) :penguin: - Elegant networking.
 * [APIKit ★1311](https://github.com/ishkawa/APIKit) - Library for building type-safe web API client.
 * [BigBrother ★455 ⏳1Y](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
-* [Ciao ★18](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS(Bonjour, Zeroconf)
+* [Ciao ★21](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS(Bonjour, Zeroconf)
 * [Conduit ★21](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
 * [Dratini ★35](https://github.com/kevin0571/Dratini) - A neat network layer.
 * [Heimdallr.swift ★452](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
@@ -971,7 +971,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Messaging Protocol
 [back to top](#readme) 
 
-* [CocoaMQTT ★567](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X.
+* [CocoaMQTT ★574](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X.
 * [Perfect-Notifications ★54](https://github.com/PerfectlySoft/Perfect-Notifications) - iOS Notifications for Linux and OS X.
 
 #### Socket
@@ -1179,7 +1179,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [EZSwipeController ★717](https://github.com/goktugyil/EZSwipeController) - UIPageViewController like Snapchat/Tinder/iOS Main Pages.
 * [FAQView ★361](https://github.com/mukeshthawani/faqview) - An easy to use FAQ view for iOS.
 * [Fashion ★73](https://github.com/vadymmarkov/Fashion) - Fashion accessories and beauty tools to share and reuse UI styles.
-* [FillableLoaders ★1767](https://github.com/polqf/FillableLoaders) - Fillable loaders progress.
+* [FillableLoaders ★1784](https://github.com/polqf/FillableLoaders) - Fillable loaders progress.
 * [FlagKit ★1952](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
 * [FloatRatingView ★401](https://github.com/glenyi/FloatRatingView) - Floating rating system.
 * [GaugeKit ★898](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
@@ -1289,7 +1289,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### ApplicationDelegate
 [back to top](#readme) 
 
-* [SuperDelegate ★386](https://github.com/Square/SuperDelegate) - SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.
+* [SuperDelegate ★386 ⏳1Y](https://github.com/Square/SuperDelegate) - SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.
 
 #### Blur
 [back to top](#readme) 
@@ -1397,7 +1397,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Caishen ★662](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS.
-* [iCard ★249](https://github.com/eliakorkmaz/iCard) - Bank Card Generator using SnapKit DSL.
+* [iCard ★253](https://github.com/eliakorkmaz/iCard) - Bank Card Generator using SnapKit DSL.
 * [MFCard ★275](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
 
 #### Permissions
@@ -1426,7 +1426,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Adaptive Tab Bar ★1791](https://github.com/Ramotion/adaptive-tab-bar) - Adaptive tab bar.
 * [Animated Tab Bar ★8362](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tab bar items.
 * [ColorMatchTabs ★992](https://github.com/Yalantis/ColorMatchTabs) - Interesting way to display tabs.
-* [DTPagerController ★53](https://github.com/tungvoduc/DTPagerController) - Container view controller to display a set of ViewControllers in a horizontal scroll view
+* [DTPagerController ★57](https://github.com/tungvoduc/DTPagerController) - Container view controller to display a set of ViewControllers in a horizontal scroll view
 * [HHTabBarView ★43](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 * [Tabman ★691](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar.
 * [TabPageViewController ★747](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view.
@@ -1486,7 +1486,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ShelfView-iOS ★194](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
 * [SwiftSpreadsheet ★411](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
 * [TagCellLayout ★121](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
-* [VegaScroll ★1507](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView completely written in Swift 4.
+* [VegaScroll ★1564](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView completely written in Swift 4.
 
 #### UITableView
 [back to top](#readme) 
@@ -1540,7 +1540,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Hookah ★56](https://github.com/HookahSwift/Hookah) - Functional library.
 * [LifetimeTracker ★1407](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle / memory issues right as you develop your application.
 * [ObjectiveKit ★713](https://github.com/marmelroy/ObjectiveKit) - API for Objective C runtime functions.
-* [OpenSourceController ★26](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the librarie's licences used in your application.
+* [OpenSourceController ★28](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the librarie's licences used in your application.
 * [Popsicle ★1131](https://github.com/DavdRoman/Popsicle) - Delightful, extensible value interpolation framework.
 * [Prelude ★316 ⏳1Y](https://github.com/robrix/Prelude) - Framework of simple functional programming tools.
 * [protobuf-swift ★824](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers.

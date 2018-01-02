@@ -515,6 +515,9 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Documentation tools
 
+
+* [Storybook ★17507](https://github.com/storybooks/storybook) : "The UI development environment you'll love to use"
+
 * [Compodoc ★1072](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
 
 * [AngularDoc](http://angulardoc.io/) : Website that display "Architectural analysis and visualization for Angular 2 projects", integrate only with a github repository
@@ -561,7 +564,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 Starter ★543](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
 * [Angular 2 Leaflet Starter ★163](https://github.com/haoliangyu/ngx-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
 * [Angular 2 MapboxGL Starter ★38](https://github.com/haoliangyu/ngx-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
-* [Angular 2 reconnecting websockets quickstart ★8 ⏳1Y](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
+* [Angular 2 reconnecting websockets quickstart ★8 ⏳2Y](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
 * [ng2-start ★31](https://github.com/cebor/ng2-start) - Minimal setup to start creating an angular2 application
 * [ng-kitchen-sink ★762](https://github.com/born2net/Angular-kitchen-sink) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular
 * [ng-skeleton ★31](https://github.com/born2net/ng-skeleton) - The ultimate Angular seed with ngrx, bootstrap and two factor auth

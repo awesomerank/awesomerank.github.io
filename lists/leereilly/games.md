@@ -97,7 +97,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Ball And Wall ★10 ⏳2Y](https://github.com/budnix/ball-and-wall) - Pure JavaScript arkanoid style game. [Play it now!](http://ballandwall.com/)
 * [Breakout ★9](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5. [Play it now!](http://cdn.couchfriends.com/games/breakout/)
 * [Captain Rogers ★18](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
-* [Cell Mates ★0 ⏳4Y](https://github.com/gamebytes/cellmates) - Game made in 48 hours for the 2013 Global Game Jam.
+* [Cell Mates ★0 ⏳5Y](https://github.com/gamebytes/cellmates) - Game made in 48 hours for the 2013 Global Game Jam.
 * [Ceros Snake ★0 ⏳1Y](https://github.com/mjhasbach/ceros-snake) - A remake of the iconic 70's Snake game. [Play it now!](http://ceros-snake.hasba.ch/)
 * [CHANG€](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers. [Play it now!](http://change-game.herokuapp.com/)
 * [Chromacore ★33](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
@@ -120,7 +120,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Emberwind ★241 ⏳5Y](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play it now!](http://operasoftware.github.com/Emberwind/)
 * [ExecutiveMan ★39](https://github.com/CamHenlin/ExecutiveMan) - JavaScript MegaMan clone. [Play it now!](http://executive-man.com/)
 * [Flappy Bird ★167 ⏳3Y](https://github.com/hyspace/flappy) - flappy bird in html5. [Play it now!](http://hyspace.io/flappy/)
-* [Fluid Table Tennis ★43 ⏳4Y](https://github.com/anirudhjoshi/fluid_table_tennis) - Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. [Play it now!](http://anirudhjoshi.github.com/fluid_table_tennis)
+* [Fluid Table Tennis ★43 ⏳5Y](https://github.com/anirudhjoshi/fluid_table_tennis) - Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. [Play it now!](http://anirudhjoshi.github.com/fluid_table_tennis)
 * [FlxInvaders ★22 ⏳6Y](https://github.com/AdamAtomic/Flx-Invaders) - Very simple Flixel game inspired by the Taito classic. [Play it now!](http://flixel.org/flxinvaders/)
 * [FlxTeroids ★13 ⏳6Y](https://github.com/AdamAtomic/FlxTeroids) - Very simple Flixel game inspired by the classic arcade shooter. [Play it now!](http://www.flixel.org/flxteroids/)
 * [Grave Robbers ★13 ⏳6Y](https://github.com/AdamAtomic/GraveRobbers) - Sort of GIRP-inspired tower defense. [Play it now!](http://adamatomic.com/graverobbers)
@@ -256,7 +256,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Dental Defender: Saga of the Candy Horde ★17 ⏳2Y](https://github.com/cshepp/candyjam) - HTML5 shooter/tower defense game for the #CandyJam. [Play it now!](http://cas002.itch.io/dental-defenders-saga-of-the-candy-horde)
 * [Descensus 2 ★1](https://github.com/TomWHall/Descensus2) - A TypeScript 2D physics game. [Play it now!](http://booleanoperations.com/descensus2/)
 * [Hauberk ★867](https://github.com/munificent/hauberk) - Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
-* [HeartLine ★0 ⏳4Y](https://github.com/gamebytes/heartline.github.com) - Game made in 48 hours for the 2013 Global Game Jam.
+* [HeartLine ★0 ⏳5Y](https://github.com/gamebytes/heartline.github.com) - Game made in 48 hours for the 2013 Global Game Jam.
 * [Psiral](https://github.com/petarov/game-off-2013) - JavaScript/HTML5 game, GitHub Game Off 2 winner. [Play it now!](http://psiral.herokuapp.com/)
 * [CyberPong ★1 ⏳1Y](https://github.com/dreamtocode/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit. [Play it now!](http://cyber-pong.bitballoon.com/)
 * [Squirts ★10 ⏳2Y](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript. [Play it now!](http://is.gd/squirts)

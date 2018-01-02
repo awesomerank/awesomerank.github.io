@@ -55,7 +55,7 @@ Discover more awesome lists at [sindresorhus/awesome ★73813](https://github.co
     - [Bukkit Honeypot ★6 ⏳6Y](https://github.com/Argomirr/Honeypot) Honeypot - A honeypot plugin for Bukkit.
     - [Laravel Application Honeypot ★294](https://github.com/msurguy/Honeypot) - Honeypot - Simple spam prevention package for Laravel applications.
     - [stack-honeypot ★17 ⏳3Y](https://github.com/CHH/stack-honeypot) - Inserts a trap for spam bots into responses.
-    - [EoHoneypotBundle ★22](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
+    - [EoHoneypotBundle ★22 ⏳1Y](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
     - [shockpot ★40 ⏳2Y](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts.
     - [django-admin-honeypot ★407](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access. 
     - WordPress honeypots
@@ -387,7 +387,7 @@ the honeyd daemon and generate configuration files
 
 - Sandbox
     - [RFISandbox](https://monkey.org/~jose/software/rfi-sandbox/) - a PHP 5.x script sandbox built on top of [funcall](https://pecl.php.net/package/funcall)
-    - [dorothy2 ★176 ⏳2Y](https://github.com/m4rco-/dorothy2) - A malware/botnet analysis framework written in Ruby
+    - [dorothy2 ★176 ⏳3Y](https://github.com/m4rco-/dorothy2) - A malware/botnet analysis framework written in Ruby
     - [COMODO automated sandbox](https://help.comodo.com/topic-72-1-451-4768-.html)
     - [Argos](http://www.few.vu.nl/argos/) - An emulator for capturing zero-day attacks
     - [libemu ★28 ⏳1Y](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.

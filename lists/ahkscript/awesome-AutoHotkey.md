@@ -120,7 +120,7 @@ Development state:
 
 #### ListBox
 * [LBEX ★3 ⏳1Y](https://github.com/AHK-just-me/LBEX) - by [just me](https://github.com/AHK-just-me) - a collection of utility functions for ListBoxes.. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4755)
-* [TransparentListBox ★4 ⏳2Y](https://github.com/AHK-just-me/Class_TransparentListBox) - by just Me - Provides transparent listbox controls for AHK GUIs.. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=108)
+* [TransparentListBox ★4 ⏳3Y](https://github.com/AHK-just-me/Class_TransparentListBox) - by just Me - Provides transparent listbox controls for AHK GUIs.. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=108)
 
 #### ListView
 * [LV_Colors ★9](https://github.com/AHK-just-me/Class_LV_Colors) - by just Me - Individual background and/or text colours for a GUI ListView's cells or rows. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1081)

@@ -31,7 +31,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ## Configs
 
-- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide ★62483](https://github.com/airbnb/javascript)
+- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide ★63698](https://github.com/airbnb/javascript)
 - [Canonical](https://github.com/gajus/eslint-config-canonical) – Shareable config for [Canonical style guide ★12](https://github.com/gajus/canonical)
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Shareable config for ESLint's default settings
 - [ES ★6](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code
@@ -50,7 +50,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ### Frameworks and Libraries
 
-- [Angular](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's Angular Styleguide ★23457](https://github.com/johnpapa/angular-styleguide)
+- [Angular](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's Angular Styleguide ★23538](https://github.com/johnpapa/angular-styleguide)
 - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA
 - [Backbone ★91](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone
 - [Chai ★7](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai

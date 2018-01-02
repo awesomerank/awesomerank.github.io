@@ -145,6 +145,7 @@ title: Awesome Rank for vuejs/awesome-vue
     - [Parts](#parts)
   - [Runtime](#runtime)
     - [Command Line / Terminal](#command-line--terminal)
+  - [Prerendering](#prerendering)
 
 
 
@@ -374,7 +375,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) developed with [**Phoenix Framework**](http://phoenixframework.org), **Vue** and **Vue Router** ([_**demo**_](https://phoenix-vue-auth.herokuapp.com)) by [@Angarsk8](https://github.com/Angarsk8)
   - [Sample CRUD app with router in Vue 2.0 ★39](https://github.com/shershen08/vue.js-v2-crud-application) by [@shershen08](https://github.com/shershen08)
   - [ASP.NET Core Vue.js server-side rendering sample ★67](https://github.com/mgyongyosi/VuejsSSRSample) by [@mgyongyosi](https://github.com/mgyongyosi)
-  - [**vuefire-quickstart** ★42](https://github.com/sejr/vuefire-quickstart) - Documented Firebase integration w/ webpack and eslint, by [@sejr](https://github.com/sejr).
+  - [**vuefire-quickstart** ★42 ⏳1Y](https://github.com/sejr/vuefire-quickstart) - Documented Firebase integration w/ webpack and eslint, by [@sejr](https://github.com/sejr).
   - [**hello-vue-django** Vue.js and Django integration starter project with hot code reload ★250](https://github.com/rokups/hello-vue-django)
   - [**Real Time Social News App** ★200](https://github.com/Angarsk8/loopa-news) developed with [**Phoenix**](http://phoenixframework.org), **Vue**, **Vue Router** and **Vuex** ([_**demo**_](https://loopa-news.herokuapp.com)) by [@Angarsk8](https://github.com/Angarsk8)
   - [**vue-calculator** ★35](https://github.com/CaiYiLiang/simply-calculator-vuejs) a simply calculator built with Vue 2.0, vue-cli(webpack-simple). by [CaiYiLiang](https://github.com/CaiYiLiang)
@@ -532,7 +533,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [discord-logo ★5](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
 - [node-vue-template ★0](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
 - [vue-storefront ★422](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
--[fd-vue ★5](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
+- [fd-vue ★5](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
+- [wildfire ★88](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
 
 ### Commercial Products
 
@@ -988,6 +990,7 @@ Tooltips / popovers
  - [vue-sticker ★100](https://github.com/KamilOcean/vue-sticker) - Sticker effect to any directions
  - [v-rating ★3](https://github.com/vinayakkulkarni/v-rating) - ⭐️ Rating component in Semantic-UI made with VueJS (< 500B gzipped, blazing fast)
  - [vue-content-placeholders ★380](https://github.com/michalsnik/vue-content-placeholders) -  Composable components for rendering fake (progressive) content like facebook in vue
+ - [vue-page-designer ★4](https://github.com/fireyy/vue-page-designer) - Vue component for drag-and-drop to design and build mobile website.
 
 ### Tabs
 
@@ -1015,10 +1018,10 @@ Tooltips / popovers
 
 *Date / datetime / time Picker*
 
- - [vue-datepicker ★599](https://github.com/hilongjw/vue-datepicker) - Calendar and datepicker component with material design for Vue.js.
- - [vue2-timepicker ★146](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support.
+ - [vue-datepicker ★599](https://github.com/hilongjw/vue-datepicker) - **[unmaintained]** Calendar and datepicker component with material design for Vue.js.
+ - [vue2-timepicker ★146](https://github.com/phoenixwong/vue2-timepicker) - **[unmaintained]** A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support.
  - [vuejs-datepicker ★640](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
- - [vuedt ★5](https://github.com/nkoehring/vuedt) - Crazy lightweight (5.5kb!) Vuejs Date and Time picker component with nice animations and not too much fuzz.
+ - [vuedt ★5](https://github.com/nkoehring/vuedt) - **[unmaintained]** Crazy lightweight (5.5kb!) Vuejs Date and Time picker component with nice animations and not too much fuzz.
 - [vue-flatpickr-component](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr ★9149](https://github.com/chmln/flatpickr) datetime picker
 - [vue-bootstrap-datetimepicker](https://github.com/ankurk91/vue-bootstrap-datetimepicker) Vue.js component for [eonasdan-bootstrap-datetimepicker ★5953](https://github.com/Eonasdan/bootstrap-datetimepicker)
 - [vue-jalaali-datepicker ★12](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
@@ -1519,6 +1522,7 @@ the amazing Vue.js.
  - [vue-browserstore ★1](https://github.com/gvost/vue-browserstore) - Browser storage wrapper.
  - [VueStorage ★28](https://github.com/SeregPie/VueStorage) - Allows components to save and load their data across browser sessions.
 - [vue-web-storage ★1](https://github.com/ankurk91/vue-web-storage) Another Vue.js plugin for localStorage and sessionStorage
+- [vue-universal-cookies ★0](https://github.com/S64/vue-universal-cookies) Isomorphic cookies plugin for Vue.js / Nuxt.js supports Browser, Express, http (node).
 
 ### State Management
 
@@ -1890,7 +1894,9 @@ Payment utilities.
 ### Command Line / Terminal
  - [blessed-vue ★228](https://github.com/lyonlai/blessed-vue) - A VueJS runtime to let you write command line UI in Vue Edit
 
-
+## Prerendering
+ - [react-snap ★776](https://github.com/stereobooster/react-snap) - A zero-configuration static pre-renderer for SPA
+ 
 <br/>
 <br/>
 <br/>

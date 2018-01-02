@@ -341,7 +341,7 @@ anylysis and visualization.*
   * [vim-fireplace (Vim) ★1299](https://github.com/tpope/vim-fireplace)
   * [vim-redl (Vim) ★108 ⏳2Y](https://github.com/dgrnbrg/vim-redl)
   * [vim-leiningen (Vim) ★135](https://github.com/tpope/vim-salve)
-  * [rainbow_parentheses.vim (Vim) ★170](https://github.com/junegunn/rainbow_parentheses.vim)
+  * [rainbow_parentheses.vim (Vim) ★170 ⏳1Y](https://github.com/junegunn/rainbow_parentheses.vim)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
 

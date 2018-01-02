@@ -746,7 +746,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Deployer ★5071](https://github.com/deployphp/deployer) - A deployment tool.
 * [Envoy ★970](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
-* [Plum ★91 ⏳1Y](https://github.com/aerialls/Plum) - A deployer library.
+* [Plum ★91 ⏳2Y](https://github.com/aerialls/Plum) - A deployer library.
 * [Pomander ★202 ⏳1Y](https://github.com/tamagokun/pomander) - A deployment tool for PHP applications.
 * [Rocketeer ★2533](https://github.com/rocketeers/rocketeer) - A fast and easy deployer for the PHP world.
 
@@ -782,7 +782,7 @@ Libraries to help manage database schemas and migrations.
 *Useful libraries or tools that don't fit in the categories above.*
 
 * [Annotations ★222](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
-* [BotMan ★3112](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chat bots.
+* [BotMan ★3257](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chat bots.
 * [Cake Utility ★34](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
 * [Chief ★38](https://github.com/adamnicholson/Chief) - A command bus library.
 * [ClassPreloader ★228](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.

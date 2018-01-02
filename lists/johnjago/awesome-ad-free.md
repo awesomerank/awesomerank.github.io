@@ -7,9 +7,9 @@ title: Awesome Rank for johnjago/awesome-ad-free
 	This list is a copy of <a href="https://github.com/johnjago/awesome-ad-free">johnjago/awesome-ad-free</a> with ranks
 </p>
 ---
-# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) <a href="https://nomoreads.org"><img src="https://s1.postimg.org/dg1oazt7z/nomoreads-logo-sm.png" width="60" height="24"></a>
+# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) <a href="https://www.nomoreads.org"><img src="https://s1.postimg.org/dg1oazt7z/nomoreads-logo-sm.png" width="60" height="24"></a>
 
-> A curated list of ad-free alternatives to popular services on the Internet.
+> A curated list of ad-free alternatives to popular services on the internet.
 
 > Am I saying you should refrain from using an ad blocker? No. But consider offsetting your act of disobedience with an act of affirmative support. Vote with your wallet. Put some money behind the writing you like—whether it’s a website or a magazine or a newspaper. “But such-and-such website won’t let me pay for it.” Then discover something new.
 
@@ -30,8 +30,10 @@ title: Awesome Rank for johnjago/awesome-ad-free
 - [Resources](#resources)
   - [Ad Blocker](#ad-blocker)
   - [Articles](#articles)
+  - [Businesses](#businesses)
   - [Groups](#groups)
   - [Make Money Without Ads](#make-money-without-ads)
+  - [Talks](#talks)
  - [License](#license)
 
 ## Alternatives
@@ -115,13 +117,20 @@ title: Awesome Rank for johnjago/awesome-ad-free
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) - Story of a blogger who chose a better way to make a living.
 - [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html) - Paying for ad-free services casts a bigger vote.
 
+### Businesses
+
+> These business have no advertising policies.
+
+[Polyface Farms](http://www.polyfacefarms.com/no-advertising/) - Environmentally-friendly farm that relies on word of mouth to reach customers.
+
 ### Groups
 
-- [Ad Free Blog](http://adfreeblog.org/) - Icons for showing opposition to the use of corporate advertising on blogs.
+- [Ad Free Blog](http://adfreeblog.org) - Icons for showing opposition to the use of corporate advertising on blogs.
 - [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - Calls into question the purpose and effects of advertising in public space.
-- [Brandalism](http://brandalism.ch/) - International street art collective that subverts advertising in urban space.
-- [Coalition to Ban Billboard Blight](http://banbillboardblight.org/) - Defending the urban landscape of Los Angeles from a proliferation of billboards, supergraphic signs, and other forms of outdoor advertising.
-- [No More Ads](https://nomoreads.org/) - Manifesto promoting an ad-free internet.
+- [Art Not Ads](http://artnotads.org) - Artists creating change in the urban landscape, but not by going after the ads themselves.
+- [Brandalism](http://brandalism.ch) - International street art collective that subverts advertising in urban space.
+- [Coalition to Ban Billboard Blight](http://banbillboardblight.org) - Defending the urban landscape of Los Angeles from a proliferation of billboards.
+- [No More Ads](https://www.nomoreads.org) - Manifesto promoting an ad-free internet.
 
 ### Make Money Without Ads
 
@@ -129,6 +138,10 @@ title: Awesome Rank for johnjago/awesome-ad-free
 - [Liberapay](https://liberapay.com/) - Open source recurring donations platform.
 - [OpenCollective](https://opencollective.com/) - Enables groups to set up a collective, raise funds, and manage them transparently.
 - [Patreon](https://www.patreon.com/) - Recurring funding for artists and creators on either a monthly basis or per creation.
+
+### Talks
+
+- [What if there was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
 
 ## License
 

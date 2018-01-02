@@ -166,7 +166,7 @@ These frameworks make customizing your zsh setup easier.
 
 ### [zplugin ★92](https://github.com/zdharma/zplugin)
 
-**Zplugin** is a next-era plugin manager with [semigraphical UI](https://github.com/zdharma/zplugin-crasis) and a [Turbo Mode ★84](https://github.com/zdharma/zplugin#turbo-mode).
+**Zplugin** is an innovative plugin manager with [semigraphical UI](https://github.com/zdharma/zplugin-crasis), [Turbo Mode ★94](https://github.com/zdharma/zplugin#turbo-mode) and [services](https://github.com/zservices) support.
 
 ### [ZPM](https://github.com/horosgrisa/ZPM)
 
@@ -339,6 +339,7 @@ These frameworks make customizing your zsh setup easier.
 * [grunt-plugin ★8 ⏳5Y](https://github.com/clauswitt/zsh-grunt-plugin) - Add autocompletion for grunt.
 * [gtm-terminal-plugin ★7](https://github.com/git-time-metric/gtm-terminal-plugin) - terminal plugin for [git time metrics](https://github.com/git-time-metric/gtm/blob/master/README.md).
 * [gvm (yerinle) ★0 ⏳4Y](https://github.com/yerinle/zsh-gvm) - Provides autocompletion for gvm (Groovy enVironment Manager).
+* [hacker-quotes ★19](https://github.com/oldratlee/hacker-quotes) - Outputs a hacker quote randomly when you open a terminal.
 * [hadoop-plugin ★0](https://github.com/valek/zsh-hadoop-plugin) - Adds some convenience aliases for hadoop functions
 * [hanami-zsh](http://github.com/davydovanton/hanami-zsh) - zsh plugin for [hanami](http://hanamirb.org) projects
 * [hints ★28 ⏳3Y](https://github.com/joepvd/zsh-hints) - Display glob and parameter flags and other non completable info right under your editing buffer.
@@ -359,7 +360,7 @@ These frameworks make customizing your zsh setup easier.
 * [java-zsh-plugin ★0 ⏳1Y](https://github.com/Xetius/java-zsh-plugin) - Adds a `setjdk` command so you can switch easily between different versions of the jdk.
 * [jenkins-zsh ★3](https://github.com/tomplex/jenkins-zsh) - A jenkins plugin for ZSH, heavily inspired by the excellent jira plugin.
 * [jhipster-oh-my-zsh-plugin ★19](https://github.com/jhipster/jhipster-oh-my-zsh-plugin) - Adds commands for [jHipster](https://jhipster.github.io/).
-* [jira-plus ★3 ⏳2Y](https://github.com/gerges/oh-my-zsh-jira-plus) - Create JIRAs from the command line.
+* [jira-plus ★3 ⏳3Y](https://github.com/gerges/oh-my-zsh-jira-plus) - Create JIRAs from the command line.
 * [jvm ★2 ⏳2Y](https://github.com/mgryszko/jvm) - Allows selection of JDK on macOS.
 * [k](https://github.com/rimraf/k) - Directory listings for zsh with git features.
 * [kill-node ★5](https://github.com/vmattos/kill-node) - zsh plugin for murdering node process families.
@@ -558,7 +559,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [umake ★0](https://github.com/zlsun/umake) - Tab completion for Ubuntu umake
 * [vert.x-omz-plugin ★0 ⏳2Y](https://github.com/davidafsilva/vert.x-omz-plugin) - Provides autocomplete features for the [vertx](http://vertx.io/) command.
 * [zsh-_url-httplink ★2 ⏳4Y](https://github.com/Valodim/zsh-_url-httplink) - Extends zsh's \_urls completion, allowing it to complete urls from html pages.
-* [zsh-better-npm-completion ★97](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for `npm`.
+* [zsh-better-npm-completion ★102](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for `npm`.
 * [zsh-cabal-completion ★0 ⏳2Y](https://github.com/ehamberg/zsh-cabal-completion) - Add tab completion for cabal.
 * [zsh-completions ★1850](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
 * [zsh-ipfs ★5 ⏳2Y](https://github.com/aramboi/zsh-ipfs) - Completions for the [Interplanetary File System](https://ipfs.io).
@@ -594,6 +595,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [astro](https://github.com/iplaces/astro-zsh-theme/blob/master/README.md) - Based on [`ys`](http://blog.ysmood.org/my-ys-terminal-theme/) theme and `robbyrushell` (default theme) theme.
 * [aterminal ★12](https://github.com/guiferpa/aterminal) - Displays Nodejs, NPM, Docker, Go, Python, Elixir and Ruby information in the prompt.
 * [avit-d2k ★8 ⏳1Y](https://github.com/fdaciuk/avit-da2k) - Based on Avit, with small changes.
+* [avit-mod ★0](https://github.com/zlsun/avit-mod) - Modified version of oh-my-zsh's [avit](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/avit.zsh-theme) theme.
 * [bandit ★0 ⏳1Y](https://github.com/Holger-Will/zsh_bandit) - Another Powerline variant.
 * [bashi](https://github.com/eli-oat/bashi) - Optimized for Ahmet Sülek's [Flat UI Terminal Theme](https://github.com/ahmetsulek/flat-terminal) and Pasquale D'Silva's [Saturn Terminal Theme ★73 ⏳1Y](https://github.com/psql/saturn-colors).
 * [bender ★0](https://github.com/specious/bender) - Fancy two-line prompt with git integration.
@@ -658,7 +660,6 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [gitster](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) - When in a git repo, it shows the location from the git's root folder. When not in a git repo, it shows the path relative to home, `~`.
 * [glimmer ★1 ⏳2Y](https://github.com/martnu/glimmer) - Includes git branch, time and user@host.
 * [guri](https://github.com/victorfsf/guri) - A Simple and fast Oh-My-Zsh theme, based on [Pure ★4318](https://github.com/sindresorhus/pure)'s design.
-* [hacker-quotes ★19](https://github.com/oldratlee/hacker-quotes) - Outputs a hacker quote randomly when you open a terminal.
 * [hackersaurus](https://github.com/bhilburn/hackersaurus) - A theme with git status and exit code of last command run embedded in the prompt. Related to [powerlevel9k ★3434](https://github.com/bhilburn/powerlevel9k).
 * [haribo ★4 ⏳2Y](https://github.com/haribo/omz-haribo-theme) - Simple git status + timestamp in prompt.
 * [hedgehog](https://gist.github.com/hedgehog1029/dfbb7e66511e2c399157) - Simple, no-nonsense and clean, with support for git and return codes.
@@ -735,6 +736,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [powerlevel9k ★3434](https://github.com/bhilburn/powerlevel9k) - A very flexible theme based on the well-known agnoster-theme with support for various VCS, AWS, rbenv, virtualenv, etc. Works with vanilla ZSH as well as the various ZSH frameworks.
 * [powerline-cute](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme) - Based on [bullet-train](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme).
 * [powerline-go ★550](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt, written in go.
+* [powerline-pills ★0](https://github.com/lucasqueiroz/powerline-pills-zsh) - A powerline theme based on pills, created in Ruby.
 * [powerline-shell](https://github.com/banga/powerline-shell) - A [powerline ★2827 ⏳5Y](https://github.com/Lokaltog/vim-powerline)-like prompt for Bash, ZSH and Fish. Shows important details about git/svn/hg/fossil branch and is easy to customize/extend.
 * [powerline-train ★0 ⏳1Y](https://github.com/sherubthakur/powerline-train) - A powerline variant
 * [powerline ★0 ⏳1Y](https://github.com/syui/powerline.zsh) - A git aware powerline theme.

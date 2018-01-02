@@ -31,6 +31,7 @@ A collection of awesome things regarding React ecosystem.
     - [React and SocketIO](#react-and-socketio)
     - [Server-Client with React](#server-client-with-react)
     - [Server Side Rendering](#server-side-rendering)
+    - [Prerendering aka snapshotting](#prerendering-aka-snapshotting)
     - [Compiling React Tutorials](#compiling-react-tutorials)
     - [Debugging React](#debugging-react)
     - [Authentication](#authentication)
@@ -252,6 +253,10 @@ A collection of awesome things regarding React ecosystem.
 * [React Server Side Rendering with Hypernova](https://blog.larah.me/2017/04/10/react-server-side-rendering/)
 * [Server Side Rendering with Simple Redux Store Hydration](https://medium.com/@navgarcha7891/react-server-side-rendering-with-simple-redux-store-hydration-9f77ab66900a)
 
+##### Prerendering aka snapshotting
+* [react-snap ★776](https://github.com/stereobooster/react-snap)
+* [Prerendering solutions comparison](https://github.com/stereobooster/react-snap/blob/master/doc/alternatives.md)
+
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt ★9908](https://github.com/petehunt/webpack-howto)
 * [React Webpack Cookbook ★170 ⏳1Y](https://github.com/christianalfoni/react-webpack-cookbook)
@@ -264,7 +269,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Debugging React
 * [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
 * [Reactotron: Control, monitor, and instrument](https://github.com/skellock/reactotron)
-* [React-fix-it: Automagically generate tests from errors ★1880 ⏳1Y](https://github.com/MicheleBertoli/react-fix-it)
+* [React-fix-it: Automagically generate tests from errors ★1886 ⏳1Y](https://github.com/MicheleBertoli/react-fix-it)
 
 ##### Authentication
 * [Adding authentication to your React Flux app](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
@@ -476,7 +481,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-range-slider - Collection of react slider components ★71](https://github.com/jpuri/react-range-slider)
 * [react-ui-tree - React tree component with drag and drop support ★455](https://github.com/pqx/react-ui-tree)
 * [react-frame - React components within an iframe for isolated css styling ★37](https://github.com/pqx/react-frame)
-* [rodal - A React modal with animations ★373](https://github.com/chenjiahan/rodal)
+* [rodal - A React modal with animations ★390](https://github.com/chenjiahan/rodal)
 * [react-scrollbar - Simple ScrollArea component built for React ★279](https://github.com/souhe/reactScrollbar)
 * [react-experiments - Implement A/B tests with randomized parameterizations of your components ★238 ⏳1Y](https://github.com/HubSpot/react-experiments)
 * [react-slide-deck - For swipe, tabs, carousel, one page scroll. With animation hooks. tweening, tween callbacks ★69](https://github.com/jl-/react-slide-deck)
@@ -514,7 +519,7 @@ A collection of awesome things regarding React ecosystem.
 * [omnibar - Extensible search component for React. ★37](https://github.com/vutran/omnibar)
 * [react-virtualized-sticky-tree - Render virtualized tree structures with support for position: sticky  ★20](https://github.com/marchaos/react-virtualized-sticky-tree)
 * [react-flexbox-svg - Flexbox for SVG in React, using css-layout ★1](https://github.com/paulmelnikow/react-flexbox-svg)
-* [react-instantsearch - Search Interface building blocks for Algolia ★293](https://github.com/algolia/react-instantsearch)
+* [react-instantsearch - Search Interface building blocks for Algolia ★345](https://github.com/algolia/react-instantsearch)
 * [react-d3-tree - Create interactive D3 tree graphs ★36](https://github.com/bkrem/react-d3-tree)
 * [react-redux-modal-flex - Accessible modal dialog component for React, easy to install and use with Redux. ★4](https://github.com/tronghiep92/react-redux-modal-flex)
 * [react-switch - A draggable, customizable and accessible toggle-switch component. ★133](https://github.com/yogaboll/react-switch)
@@ -586,7 +591,7 @@ A collection of awesome things regarding React ecosystem.
 * [backbone-reaction - React, Backbone and then some ★20 ⏳3Y](https://github.com/jhudson8/backbone-reaction)
 * [react.backbone - Plugin for React to make Backbone migration easier](https://github.com/usepropeller/react.backbone)
 * [reactbone - React extensions for Backbone ★43 ⏳3Y](https://github.com/andrejewski/reactbone)
-* [backbone-react-ui - React components for use with backbone and backbone paginator ★18 ⏳2Y](https://github.com/securingsincity/backbone-react-ui)
+* [backbone-react-ui - React components for use with backbone and backbone paginator ★18 ⏳3Y](https://github.com/securingsincity/backbone-react-ui)
 * [react-events - Declarative managed event bindings for react components ★78 ⏳2Y](https://github.com/jhudson8/react-events)
 * [react-mixin-manager - React mixin registration manager ★33 ⏳2Y](https://github.com/jhudson8/react-mixin-manager)
 * [gsap-react-plugin - A GSAP plugin for tweening React.js component state ★123 ⏳3Y](https://github.com/hzdg/gsap-react-plugin)
@@ -629,7 +634,7 @@ A collection of awesome things regarding React ecosystem.
 * [formjs - A form generator for Reactjs ★44 ⏳3Y](https://github.com/zackify/formjs)
 * [react-form-builder - A Form Builder for React.js ★51 ⏳1Y](https://github.com/quri/react-form-builder)
 * [plexus-form - A dynamic form component for react using JSON-Schema ★126 ⏳2Y](https://github.com/AppliedMathematicsANU/plexus-form)
-* [tcomb-form - UI library for developing forms writing less code ★1071](https://github.com/gcanti/tcomb-form)
+* [tcomb-form - UI library for developing forms writing less code ★1087](https://github.com/gcanti/tcomb-form)
 * [formsy-react - A form input builder and validator for React JS ★2366](https://github.com/christianalfoni/formsy-react)
 * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
 * [Winterfell - Generate complex, validated and extendable JSON-based forms in React ★601](https://github.com/andrewhathaway/Winterfell)
@@ -914,7 +919,7 @@ A collection of awesome things regarding React ecosystem.
 #### Testing Utilities
 * [Jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
 * [enzyme - JavaScript Testing utilities for React ★11865](https://github.com/airbnb/enzyme)
-* [chai-immutable - Chai assertions for Facebook's Immutable library for JavaScript collections ★142](https://github.com/astorije/chai-immutable)
+* [chai-immutable - Chai assertions for Facebook's Immutable library for JavaScript collections ★144](https://github.com/astorije/chai-immutable)
 
 ##### Testing Tutorials
 * [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
@@ -1142,7 +1147,7 @@ A collection of awesome things regarding React ecosystem.
 * [brainfock/brainfock ★342](https://github.com/brainfock/brainfock)
 * [HVF/franchise ★3060](https://github.com/HVF/franchise)
 * [KELiON/cerebro ★4236](https://github.com/KELiON/cerebro)
-* [stride-nyc/remote_retro ★105](https://github.com/stride-nyc/remote_retro)
+* [stride-nyc/remote_retro ★122](https://github.com/stride-nyc/remote_retro)
 * [Sqlectron - SQL client](https://sqlectron.github.io/)
 * [ALM tools - an IDE built with and for React + TypeScript](http://alm.tools/)
 

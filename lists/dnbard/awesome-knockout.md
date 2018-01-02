@@ -39,7 +39,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Model ★63 ⏳5Y](https://github.com/thelinuxlich/knockout.model) - A base model for Knockout.js entities
 - [Namespaces ★60 ⏳6Y](https://github.com/hunterloftis/knockout.namespaces) - Namespaces for Knockout.js
 - [Rest ★65](https://github.com/frapontillo/knockout-rest) - A simple library to extend Knockout.js objects with RESTful actions
-- [Local Storage ★72 ⏳5Y](https://github.com/jimrhoskins/knockout.localStorage) - LocalStorage persistence for Knockout.js
+- [Local Storage ★72 ⏳6Y](https://github.com/jimrhoskins/knockout.localStorage) - LocalStorage persistence for Knockout.js
 - [Router ★64](https://github.com/profiscience/ko-component-router) - Router for single-page apps
 
 ## Custom Bindings

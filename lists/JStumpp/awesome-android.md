@@ -131,7 +131,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AndroidQuery ★2029 ⏳1Y](https://github.com/androidquery/androidquery) - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
 - [Flow ★2525](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
 - [Crouton ★3038 ⏳2Y](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
-- [DragSortListView ★3170 ⏳1Y](https://github.com/bauerca/drag-sort-listview) - Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).
+- [DragSortListView ★3170 ⏳2Y](https://github.com/bauerca/drag-sort-listview) - Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).
 - [SortableTableView ★850](https://github.com/ISchwarz23/SortableTableView) - An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.
 - [MaterialProgressBar ★1425](https://github.com/DreaminginCodeZH/MaterialProgressBar) - Material design ProgressBar with consistent appearance.
 - [AndroidFillableLoaders ★1704 ⏳1Y](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
@@ -266,7 +266,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Notifications
 - [android-remote-notifications ★73 ⏳2Y](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
-- [Android HeartBeat Fixer ★41 ⏳1Y](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - Way to set heartbeat interval and users receive PushNotifications from GCM.
+- [Android HeartBeat Fixer ★41 ⏳2Y](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - Way to set heartbeat interval and users receive PushNotifications from GCM.
 
 ### Database
 - [Cupboard](https://bitbucket.org/littlerobots/cupboard) - Access the sqlite easily via direct database access or through the ContentProvider framework.

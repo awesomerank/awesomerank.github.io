@@ -365,7 +365,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 
 * [container-diff ★1377](https://github.com/GoogleCloudPlatform/container-diff) - An image tool for comparing and analzying container images by [@GoogleCloud](https://github.com/GoogleCloudPlatform)
 * [container-factory ★53 ⏳2Y](https://github.com/mutable/container-factory) - Produces Docker images from tarballs of application source code by [@mutable](https://github.com/mutable)
-* [Derrick ★108](https://github.com/alibaba/derrick) - A tool help you to automate the generation of Dockerfile and dockerize application by scanning the code. By [@alibaba](https://github.com/alibaba). 
+* [Derrick ★128](https://github.com/alibaba/derrick) - A tool help you to automate the generation of Dockerfile and dockerize application by scanning the code. By [@alibaba](https://github.com/alibaba). 
 * [dlayer ★68 ⏳1Y](https://github.com/wercker/dlayer) - Stats collector for Docker layers by [@wercker](https://github.com/wercker)
 * [docker-companion ★19](https://github.com/mudler/docker-companion) - A command line tool written in Golang to squash and unpack docker images by [@mudler](https://github.com/mudler/)
 * [docker-make ★58](https://github.com/CtripCloud/docker-make) - Build, tag,and push a bunch of related docker images via a single command.
@@ -391,7 +391,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 Examples by:
 * [@arun-gupta ★164](https://github.com/arun-gupta/docker-images)
 * [@crosbymichael ★294](https://github.com/crosbymichael/Dockerfiles)
-* [@jessfraz ★5008](https://github.com/jessfraz/Dockerfiles)
+* [@jessfraz ★5260](https://github.com/jessfraz/Dockerfiles)
 * [@komljen ★396 ⏳1Y](https://github.com/komljen/dockerfile-examples)
 * [@kstaken ★591](https://github.com/kstaken/dockerfile-examples)
 * [@awesome-startup]( https://github.com/awesome-startup/docker-compose)
@@ -404,7 +404,7 @@ Examples by:
 
 * [dockfmt ★179](https://github.com/jessfraz/dockfmt) :construction: - Dockerfile formatter and parser by [@jessfraz][jessfraz]
 * [dockerfile_lint ★195](https://github.com/projectatomic/dockerfile_lint) - A rule-based 'linter' for Dockerfiles by [@redhataccess](https://github.com/redhataccess)
-* [Hadolint ★736](https://github.com/hadolint/hadolint) - A Dockerfile linter written in Haskell by [@lukasmartinelli](https://github.com/lukasmartinelli)
+* [Hadolint ★758](https://github.com/hadolint/hadolint) - A Dockerfile linter written in Haskell by [@lukasmartinelli](https://github.com/lukasmartinelli)
 * [Whale-linter ★28](https://github.com/jeromepin/whale-linter) - A simple and small Dockerfile linter written in Python3+ without dependencies by [@jeromepin](https://github.com/jeromepin)
 
 ### Registry

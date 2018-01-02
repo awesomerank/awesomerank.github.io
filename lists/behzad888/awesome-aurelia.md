@@ -294,7 +294,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Meteor Seed Projects
 
-* [TsumiNa/meteor-aurelia ★25 ⏳1Y](https://github.com/TsumiNa/meteor-aurelia) Skeleton that allows Meteor to use Aurelia as the front-end by @TsumiNa.
+* [TsumiNa/meteor-aurelia ★25 ⏳2Y](https://github.com/TsumiNa/meteor-aurelia) Skeleton that allows Meteor to use Aurelia as the front-end by @TsumiNa.
 
 # Contributing Guideline
 

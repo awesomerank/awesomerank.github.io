@@ -191,7 +191,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3dpad ★12 ⏳4Y](https://github.com/duckleg/as3dpad) - A virtual touchscreen gamepad designed for Adobe AIR Mobile (Android/iOS).
 * [Gamepad ★54](https://github.com/iainlobb/Gamepad) - Simulates an analog joystick input using the keyboard.
 * [Advanced_Joystick ★22 ⏳2Y](https://github.com/justjoeyuk/Advanced_Joystick) - Joystick for the Starling Framework, designed for Adobe AIR Mobile.
-* [AS3-Controller-Input ★28 ⏳3Y](https://github.com/arkeus/as3-controller-input) - Interact with Ouya and Xbox360 game controllers from Adobe AIR.
+* [AS3-Controller-Input ★28 ⏳4Y](https://github.com/arkeus/as3-controller-input) - Interact with Ouya and Xbox360 game controllers from Adobe AIR.
 
 ## Multimedia
 
@@ -248,14 +248,14 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [Flint ★269](https://github.com/richardlord/Flint) - Particle Engine for Flash and Flex.
 * [Desuade Partigen](http://desuade.com/partigen) - Desuade Partigen particle generation system ([github ★19 ⏳7Y](https://github.com/andrewfitz/desuade)).
-* [Angulex ★9 ⏳1Y](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (ActionScript 3).
+* [Angulex ★9 ⏳2Y](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (ActionScript 3).
 * [SAP ★50](https://github.com/gonchar/SAP) - Particle System for Starling.
 * [Starling-Particles ★318](https://github.com/Gamua/Starling-Extension-Particle-System) - Particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com.
 * [MotionParticleSprite ★0](https://github.com/bjeld/motionparticlesprite) - Design motion paths in Flash Pro and use it to guide Starling particles.
 
 #### Panorama Viewer
 
-* [Pantaloons ★18 ⏳5Y](https://github.com/EyeSee360/Pantaloons) - Panoramic viewing in Flash Player.
+* [Pantaloons ★18 ⏳6Y](https://github.com/EyeSee360/Pantaloons) - Panoramic viewing in Flash Player.
 * [SaladoPlayer ★92 ⏳2Y](https://github.com/mstandio/SaladoPlayer) - Panorama viewer.
 * [PanoramicViewer ★1 ⏳6Y](https://github.com/BrianMehrman/PanoramicViewer) - 3D Panoramic Viewer.
 * [Sphere_panorama ★1 ⏳5Y](https://github.com/suzumura-ss/flash_sphere_panorama) - Panorama player with equirectangular texture written in AS3 (Alternativa3D).
@@ -269,7 +269,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Sound
 
-* [SoundAS ★143](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3.
+* [SoundAS ★143 ⏳1Y](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3.
 * [Standingwave3 ★164 ⏳5Y](https://github.com/maxl0rd/standingwave3) - Dynamic audio library.
 * [Standingwave3-addons ★1 ⏳2Y](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3.
 * [Soundtouch-as3 ★58 ⏳7Y](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library.
@@ -392,7 +392,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### MP3
 
 * [AS3id3lib ★1 ⏳6Y](https://github.com/devxoul/as3id3lib) - Parse MP3 ID3 data.
-* [AS3Icy ★26 ⏳7Y](https://github.com/claus/as3icy) - Decode and play live MP3 streams from Shoutcast, Icecast and Limewire.
+* [AS3Icy ★26 ⏳8Y](https://github.com/claus/as3icy) - Decode and play live MP3 streams from Shoutcast, Icecast and Limewire.
 
 #### PDF
 
@@ -409,7 +409,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### SWF
 
 * [AS3swf ★526 ⏳3Y](https://github.com/claus/as3swf) - Low level library to parse, create, modify and publish SWF files.
-* [AS3abc ★2 ⏳5Y](https://github.com/imcj/as3abc) - Low level library to parse, create, modify and publish ABC (Actionscript Block Code) files.
+* [AS3abc ★2 ⏳6Y](https://github.com/imcj/as3abc) - Low level library to parse, create, modify and publish ABC (Actionscript Block Code) files.
 * [SWFWire ★229 ⏳2Y](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools.
 * [Abc-abstraction ★14 ⏳2Y](https://github.com/krilnon/abc-abstraction) - Allows ABC to be analyzed, manipulated, packaged back into an SWF, and run.
 
@@ -651,7 +651,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Admob ★3](https://github.com/myflashlab/Admob-ANE) - Admob ANE.
 * [GameServices ★3](https://github.com/myflashlab/GameServices-ANE) - Google Game Services for Android+iOS.
 * [MoPub ★27](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising.
-* [UMAnalytics ★10 ⏳2Y](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (iOS and Android).
+* [UMAnalytics ★10 ⏳3Y](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (iOS and Android).
 * [Localytics ★10 ⏳5Y](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android).
 * [Testflight ★26 ⏳5Y](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
 * [Chartboost ★48 ⏳2Y](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.

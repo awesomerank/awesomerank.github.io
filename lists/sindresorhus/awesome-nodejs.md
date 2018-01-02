@@ -479,7 +479,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [string-length ★41](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 - [camelcase ★164](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 - [escape-string-regexp ★192](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
-- [execall ★61](https://github.com/sindresorhus/execall) - Find multiple RegExp matches in a string.
+- [execall ★61 ⏳1Y](https://github.com/sindresorhus/execall) - Find multiple RegExp matches in a string.
 - [splice-string ★11 ⏳1Y](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 - [indent-string ★50](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
 - [strip-indent ★60](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.

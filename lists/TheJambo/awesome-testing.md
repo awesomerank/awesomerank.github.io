@@ -74,7 +74,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Application Security ★2755](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 - [Selenium ★285](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 - [Security ★2325](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
-- [Awesome Software Quality ★945](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
+- [Awesome Software Quality ★969](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
 
 ## Others
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.

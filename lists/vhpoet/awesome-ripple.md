@@ -116,7 +116,7 @@ Pull requests are more then welcome.
 - [Ripple Live (GateHub)](https://gatehub.net/live)
 
 ###### Other tools
-- [Ripple Helpers ★5 ⏳3Y](https://github.com/vhpoet/ripple-helpers)
+- [Ripple Helpers ★5 ⏳4Y](https://github.com/vhpoet/ripple-helpers)
 - [XRPTools](http://xrptools.com/)
 - [XRPValue](http://xrpvalue.com/): Real time XRP price.
 - [RippleGen ★19 ⏳4Y](https://github.com/CodeShark/RippleGen): A simple multithreaded vanity generator for the ripple p2p network.

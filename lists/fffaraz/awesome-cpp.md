@@ -570,16 +570,16 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CppSharp ★928](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
 * [ChaiScript ★1102](https://github.com/ChaiScript/ChaiScript) - An easy to use embedded scripting language for C++. [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh ★1027 ⏳1Y](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. [MIT]
-* [Cython ★2688](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. [Apache] [website](http://cython.org/)
+* [Cython ★2754](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. [Apache] [website](http://cython.org/)
 * [Duktape ★2988](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. [MIT] [website](http://duktape.org)
 * [JavaCpp ★2166](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. [Apache2]
-* [libffi ★860](https://github.com/libffi/libffi) - A portable foreign-function interface library. [MIT] [website](https://sourceware.org/libffi/)
+* [libffi ★878](https://github.com/libffi/libffi) - A portable foreign-function interface library. [MIT] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting. [MIT]
 * [luacxx ★88](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
 * [nbind ★1142](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. [MIT]
-* [pybind11 ★2869](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. [BSD]
+* [pybind11 ★2977](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. [BSD]
 * [SIP](https://riverbankcomputing.com/software/sip/intro) - C/C++ Bindings Generator for Python v2 and v3. [GPL]
-* [SWIG ★1889](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed] [website](http://www.swig.org/)
+* [SWIG ★1947](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed] [website](http://www.swig.org/)
 * [V7 ★1081](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPL2]
 * [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
 * [ChakraCore ★6586](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. [MIT]

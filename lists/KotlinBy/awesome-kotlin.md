@@ -236,7 +236,7 @@ Here awesome badge for your project:
 * [dmcg/k-sera ★6 ⏳1Y](https://github.com/dmcg/k-sera) - A JMock wrapper for Kotlin.
 * [dam5s/aspen ★27](https://github.com/dam5s/aspen) - Aspen is an RSpec and Spek inspired test runner for Kotlin.
 * [qwertukg/SeleniumBuilder ★23](https://github.com/qwertukg/SeleniumBuilder) - DSL for Selenium 2.0. Provide a possibility to write tests in Kotlin builder style.
-* [oleksiyp/mockk ★131](https://github.com/oleksiyp/mockk) - Pure Kotlin mocking library.
+* [oleksiyp/mockk ★237](https://github.com/oleksiyp/mockk) - Pure Kotlin mocking library.
 
 ### <a name="libraries-frameworks-dependency-injection"></a>Dependency Injection <sup>[Back ⇈](#libraries-frameworks-dependency-injection-subcategory)</sup>
 * [SalomonBrys/Kodein ★770](https://github.com/SalomonBrys/Kodein) - Painless Kotlin Dependency Injection .
@@ -510,7 +510,7 @@ Here awesome badge for your project:
 * [rakshakhegde/ObservableFlow ★15](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
 * [programmerr47/ganalytics ★5](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application.
 * [line/clay ★63](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio.
-* [WindSekirun/RichUtilsKt ★33](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin.
+* [WindSekirun/RichUtilsKt ★36](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin.
 * [TradeMe/MapMe ★635](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox.
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>

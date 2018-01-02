@@ -271,7 +271,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pastel](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 * [Ru ★375](https://github.com/tombenner/ru) - Ruby in your shell.
 * [Ruby/Progressbar ★1149](https://github.com/jfelchner/ruby-progressbar) - The most flexible text progress bar library for Ruby.
-* [TablePrint ★560](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
+* [TablePrint ★560 ⏳1Y](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 * [Terminal Table ★942](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 * [Tmuxinator ★7310](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
 
@@ -692,6 +692,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [i18n ★673](https://github.com/svenfuchs/i18n) - Ruby Internationalization and localization solution.
 * [r18n ★502](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
 * [Termit ★507](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
+* [Tolk ★475](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
 * [twitter-cldr-rb ★537](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 
 ## IRB

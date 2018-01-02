@@ -812,7 +812,7 @@ be
 ### General-Purpose Machine Learning
 
 * [PHP-ML ★4804](https://github.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
-* [PredictionBuilder ★77](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
+* [PredictionBuilder ★77 ⏳1Y](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 
 <a name="python"></a>
 ## Python
@@ -1326,7 +1326,7 @@ be
 * [Swift Brain ★301](https://github.com/vlall/Swift-Brain) - The first neural network / machine learning library written in Swift. This is a project for AI algorithms in Swift for iOS and OS X development. This project includes algorithms focused on Bayes theorem, neural networks, SVMs, Matrices, etc...
 * [Perfect TensorFlow ★108](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
 * [Awesome CoreML](https://github.com/NilStack/awesome-CoreML-models) - A curated list of pretrained CoreML models.
-* [Awesome Core ML Models ★1841](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
+* [Awesome Core ML Models ★2073](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
 
 <a name="tensor"></a>
 ## TensorFlow

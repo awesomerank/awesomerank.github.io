@@ -199,7 +199,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [giphyslack ★4 ⏳3Y](https://github.com/dotfury/giphyslack) - Giphy integration for Slack built in node.js
 - [good-slack](https://github.com/dmacosta/good-slack) - Slack Webhook message posting for Good process monitor
 - [grunt-alert ★5](https://github.com/mmarcon/grunt-alert) - Sends alerts about failing builds using different channels
-- [grunt-slack-hook ★26](https://github.com/pwalczyszyn/grunt-slack-hook) - Grunt plugin to send messages to Slack
+- [grunt-slack-hook ★26 ⏳1Y](https://github.com/pwalczyszyn/grunt-slack-hook) - Grunt plugin to send messages to Slack
 - [hublin-slack-integration ★5 ⏳2Y](https://github.com/linagora/hublin-slack-integration) - Integrate Hubl.in with Slack
 - [imma-let-you-finish ★40 ⏳2Y](https://github.com/sparragus/imma-let-you-finish) - A bot that randomly appears in your conversation to tell everyone who has the best comment of all times
 - [irc-slack-echo ★44 ⏳3Y](https://github.com/rknLA/irc-slack-echo) - Echoes IRC activity to Slack, and supports IRC/Slack username mapping

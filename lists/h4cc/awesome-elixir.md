@@ -210,7 +210,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Phoenix Trello ★2046](https://github.com/bigardone/phoenix-trello) - Trello tribute done in Elixir, Phoenix Framework, React and Redux.
 * [poxa ★623](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
 * [Queerlink ★20](https://github.com/Queertoo/Queerlink) - A simple yet efficient URL shortening service written in Elixir.
-* [RemoteRetro ★105](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React.
+* [RemoteRetro ★122](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React.
 * [Sprint Poker ★149](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
 * [Startup Job ★39](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
 * [tty2048 ★135 ⏳1Y](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
@@ -219,7 +219,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Artificial Intelligence
 *When your code becomes smarter than you.*
 
-* [Exnn ★60](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir.
+* [Exnn ★60 ⏳1Y](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir.
 * [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) - An Elixir implementation of the NEAT algorithm.
 * [simple_bayes ★294](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
@@ -285,7 +285,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [connection ★156](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
 * [gen_state_machine ★101](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen_statem.
-* [stockastic ★18 ⏳1Y](https://github.com/shanewilton/stockastic) - Simple Elixir wrapper for the Stockfighter API.
+* [stockastic ★18 ⏳2Y](https://github.com/shanewilton/stockastic) - Simple Elixir wrapper for the Stockfighter API.
 
 ## Benchmarking
 *Running code to see how long it takes, which is faster and/or if improvements have been made.*
@@ -355,7 +355,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [cog ★796](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
 * [ExIrc ★96](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 * [ExMustang ★41](https://github.com/techgaun/ex_mustang) - A simple, clueless slackbot and collection of responders.
-* [Guri ★16 ⏳1Y](https://github.com/elvio/guri) - Automate tasks using chat messages.
+* [Guri ★16 ⏳2Y](https://github.com/elvio/guri) - Automate tasks using chat messages.
 * [hedwig ★386](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.
 * [kaguya ★58](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
 * [slacker ★74 ⏳1Y](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
@@ -694,7 +694,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [plug_statsd ★44](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
 * [plugs ★15 ⏳1Y](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
 * [plugsnag ★44](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
-* [raygun ★15](https://github.com/cobenian/raygun) - Capture bugs and send them to Raygun.
+* [raygun ★15 ⏳1Y](https://github.com/cobenian/raygun) - Capture bugs and send them to Raygun.
 * [react_phoenix ★193](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
 * [resin ★3 ⏳2Y](https://github.com/Frost/resin) - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
 * [revision_plate_ex ★2](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
@@ -772,7 +772,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [httpotion ★612](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
 * [ivar ★11](https://github.com/swelham/ivar) - A lightweight wrapper around HTTPoison that provides a fluent and composable way to build http requests.
 * [lhttpc ★1 ⏳1Y](https://github.com/talko/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
-* [mnemonic_slugs ★4](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
+* [mnemonic_slugs ★4 ⏳1Y](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
 * [mochiweb ★1567](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
 * [neuron ★49](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 * [plug_wait1 ★1](https://github.com/wait1/plug_wait1) - Plug adapter for the wait1 protocol.
@@ -1115,7 +1115,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries and software for working with PDF files.*
 
 * [gutenex ★174](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
-* [pdf2htmlex ★38 ⏳1Y](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
+* [pdf2htmlex ★38 ⏳2Y](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
 * [pdf_generator ★99](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf (HTML to PDF) for use in Elixir projects.
 
 ## Protocols
@@ -1553,7 +1553,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [fast_yaml ★13](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
 * [yamerl ★121](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
 * [yaml_elixir ★43](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
-* [yomel ★5 ⏳1Y](https://github.com/Joe-noh/yomel) - libyaml interface for Elixir.
+* [yomel ★5 ⏳2Y](https://github.com/Joe-noh/yomel) - libyaml interface for Elixir.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Elixir development skills and knowledge.
@@ -1631,7 +1631,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix/) - An online course that teaches both the Elixir language and the Phoenix framework.
 * [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) - A Elixir cheat sheet, by Andy Hunt & Dave Thomas.
-* [Elixir Functional Programming ★218](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
+* [Elixir Functional Programming ★218 ⏳1Y](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
 * [Elixir School](https://elixirschool.com/) - Lessons about the Elixir programming language.
 * [The Little Schemer in Elixir ★320 ⏳1Y](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
 * [xElixir](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.

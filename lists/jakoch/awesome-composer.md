@@ -62,7 +62,7 @@ You might also like [awesome-php ★17326](https://github.com/ziadoz/awesome-php
 - [Composer-Shared-Package-Plugin ★153](https://github.com/Letudiant/composer-shared-package-plugin) - Allows you to share your selected packages between your projects by creating symlinks.
 - [Composer-Symlinker ★13](https://github.com/dg/composer-symlinker) - Enables you to load some packages from different directories (instead of loading them from /vendor).
 - [Prestissimo ★3227](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
-- [Composer-FastFetch ★10 ⏳1Y](https://github.com/jakoch/composer-fastfetch) - Parallel Downloader using external download tools: Aria2.
+- [Composer-FastFetch ★10 ⏳2Y](https://github.com/jakoch/composer-fastfetch) - Parallel Downloader using external download tools: Aria2.
 - [Composer-Curl-Plugin ★3 ⏳2Y](https://github.com/ngyuki/composer-curl-plugin) - The plugin use phpext_curl for downloading packages.
 - [Composer-Custom-Directory-Installer ★84](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (which is in the vendor folder).
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.

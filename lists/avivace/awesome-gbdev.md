@@ -226,7 +226,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [assemblydigest ★38](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques.
 - [Reverse Engineering for Beginners](https://beginners.re/) - Free ebook (1060 pages) by Dennis Yurichev.
 - [FlappyBoy: Making a simple Game Boy Game](http://voidptr.io/blog/2017/01/21/GameBoy.html)
-- [bootstrap.gb ★15](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
+- [bootstrap.gb ★17](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
 - [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) - Simple template code with memory defines, copy routines and IBM font tilemap.
 - [Super Game Boy development](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html) - Step by step tutorial to implement Super Game Boy features (frame and palettes).
 - [GameBoy programming tutorial: Hello World!](http://peterwynroberts.com/?p=10) - Step by step tutorial.
@@ -254,7 +254,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [GBDK Joypad](http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial) - Details the use of the joypad with GBDK.
 - [Game Boy home of Flavor](http://www.personal.triticom.com/~erm/GameBoy/) - Some full games and sources.
 - [GBDK Configuring and Programming Tutorial](https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/) - Configuring GBDK, Using Tiles, Colliding Sprites, GBTD, GBMB, Memory Management and ROM Banking.
-- [Simplified GBDK examples ★6 ⏳1Y](https://github.com/mrombout/gbdk_playground)
+- [Simplified GBDK examples ★7 ⏳1Y](https://github.com/mrombout/gbdk_playground)
 
 
 #### Old articles
@@ -279,8 +279,8 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Sushi ★2](https://github.com/JustSid/Sushi)
 - [Flappy-boy-asm ★10](https://github.com/bitnenfer/flappy-boy-asm)
 - [kupman ★1](https://github.com/dubvulture/gbdev) and some other projects
-- [Adjustris ★2](https://github.com/tbsp/Adjustris)
-- [exeman ★5](https://github.com/exezin/exeman)
+- [Adjustris ★3](https://github.com/tbsp/Adjustris)
+- [exeman ★6](https://github.com/exezin/exeman)
 - [Aevilia ★10](https://github.com/ISSOtm/Aevilia-GB)
 - [GBSlides ★10](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
 
@@ -313,7 +313,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [pokemontools ★148](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - A walkthrough to reverse engineer a Game Boy ROM challenge using radare2.
 - [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - A series of blog posts about disassembling Link's Awakening DX.
-- [Link's Awakening DX Disassembly ★43](https://github.com/mojobojo/LADX-Disassembly)
+- [Link's Awakening DX Disassembly ★47](https://github.com/mojobojo/LADX-Disassembly)
 - [Disassembly of Tetris ★5](https://github.com/osnr/tetris) - Based on Jeff Frohwein's original disassembly.
 - [FX Hammer disassembly ★1](https://github.com/DevEd2/FXHammer-Disasm)
 
@@ -324,7 +324,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Piglet ★34 ⏳3Y](https://github.com/danShumway/Piglet) - A LUA-driven AI that plays classic Game Boy color games using experimentation. In active development.
 - [The Game Boy Project](http://marc.rawer.de/Gameboy/Docs/GBProject.pdf) - Provides a study on the hardware and detailed constructional information for the realisation of three 8-bit bidirectional parallel ports.
 - [gbdk-n](https://github.com/rotmoset/gbdk-n) - Aims to update the gbdk libraries to be compatible with new versions of SDCC and provide helpers for building roms.
-- [Wiz ★44 ⏳2Y](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
+- [Wiz ★45 ⏳2Y](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
 - [Gatesboy](https://web.archive.org/web/*/http://www.gatesboy.com/) - Non-gaming purposes applications development.
 - [pdroms.de](http://pdroms.de/news/gameboy/) Game Boy releases.
 - [Game Boy Demospotting](http://gameboy.modermodemet.se/en) - A collection of demos.

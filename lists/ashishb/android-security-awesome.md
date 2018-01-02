@@ -107,7 +107,7 @@ Dynamic Analysis Tools
 20. [AuditdAndroid ★23 ⏳4Y](https://github.com/nwhusted/AuditdAndroid) – android port of auditd, not under active development anymore
 21. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - not under active development anymore
 22. [Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore
-23. [Aurasium ★18 ⏳2Y](https://github.com/xurubin/aurasium) – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
+23. [Aurasium ★18 ⏳3Y](https://github.com/xurubin/aurasium) – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
 24. [Android Linux Kernel modules ★96 ⏳3Y](https://github.com/strazzere/android-lkms)
 25. [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
 26. [StaDynA ★7](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.

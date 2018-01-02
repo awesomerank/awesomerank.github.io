@@ -189,7 +189,7 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 * [cl-sdl2 ★121](https://github.com/lispgames/cl-sdl2) - Bindings for SDL2 using C2FFI. [Expat][14].
 * [cl-svg](https://code.google.com/archive/p/cl-svg) - A basic library for producing SVG files. [Expat][14].
 * [CLinch ★204](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD][39].
-* [donuts ★12](https://github.com/tkych/donuts) - Graph drawing DSL for Common Lisp. [Expat][14].
+* [donuts ★12 ⏳1Y](https://github.com/tkych/donuts) - Graph drawing DSL for Common Lisp. [Expat][14].
 * [lispbuilder-sdl ★89](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat][14].
 * [l-lisp](http://www.ii.uib.no/~knute/lsystems/llisp.html) - A framework for generating and simulating plants and fractals. [GNU GPL2][208].
 * [okra ★20 ⏳3Y](https://github.com/aerique/okra) - CFFI bindings to Ogre. Not available on Quicklisp. [3-clause BSD][15].
@@ -220,7 +220,7 @@ Implementations
 
 * [ABCL](https://common-lisp.net/project/armedbear/) - Armed Bear Common Lisp; targets the JVM, compiles to bytecode. [Standard conformance][4]. [GNU GPL3][2] with [Classpath exception][3].
 * [CCL](//ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
-* [CLASP ★1155](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1][11] (and others).
+* [CLASP ★1172](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1][11] (and others).
 * [CMUCL](//www.cons.org/cmucl/) - An implementation from Carnegie Mellon University. Public domain.
 * [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1][11].
 * [GCL](https://www.gnu.org/software/gcl/) - Another GNU implementation; not yet fully ANSI-compliant. [GNU LGPL2.1][11].
@@ -338,19 +338,19 @@ HTTP Servers
 * [Clack ★654](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL][8].  Provides a unified interface to a webserver of choice (default is Hunchentoot).
 * [Hunchentoot](http://weitz.de/hunchentoot/) - A web server. [2-clause BSD][207]
 * [aserve ★79](https://github.com/franzinc/aserve) - AllegroServe; a web server. [LLGPL][8].
-* [hermetic ★17](https://github.com/eudoxia0/hermetic) - Security for Clack-based web applications. [Expat][14].
 * [wookie ★144](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server. [Expat][14].
 * [woo ★592](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev. [MIT][200].
 
 ### Clack plugins
 
 * [clack-errors ★18 ⏳1Y](https://github.com/eudoxia0/clack-errors) - Error page middleware for Clack. [LLGPL][8].
-* [clath ★9](https://github.com/BnMcGn/clath) - a single sign-on
+* [clath ★10](https://github.com/BnMcGn/clath) - a single sign-on
   middleware for Clack. It allows basic login with OAuth1.0a, OAuth2
   and OpenID. At the time of writing, it supports authentication from
   Google, Twitter, LinkedIn, StackExchange, Reddit and Github. [Apache2.0][51].
 * [clack-pretend ★5](https://github.com/BnMcGn/clack-pretend) - a testing
   and debugging tool for clack. [Apache2.0][89].
+* [hermetic ★17](https://github.com/eudoxia0/hermetic) - Security for Clack-based web applications. [Expat][14].
 
 Web frameworks
 --------------
@@ -634,7 +634,6 @@ Language extensions
 * [trivial-types ★28 ⏳5Y](https://github.com/m2ym/trivial-types) - Trivial type definitions. [LLGPL][8].
 * [interface](https://bitbucket.org/tarballs_are_good/interface) - A protocol library. [3-clause BSD][15].
 * [cl-syntax ★30 ⏳1Y](https://github.com/m2ym/cl-syntax) - Reader syntax conventions. [LLGPL][8].
-* [closer-mop](http://cliki.net/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
 * [cl-2dsyntax](http://www.cliki.net/cl-2dsyntax) - An indentation-sensitive reader system. Not available on Quicklisp. No license specified.
 * [cl-annot ★90 ⏳2Y](https://github.com/m2ym/cl-annot) - Python-like annotations for Common Lisp. [LLGPL][8].
 * [cl-interpol](http://www.cliki.net/cl-interpol) - A set of reader modifications to allow string interpolation. No license specified.
@@ -647,6 +646,10 @@ Language extensions
   the current stack is still useful to store
   somewhere. [Artistic License 2.0][51].
 
+### CLOS extensions
+
+* [Cells](https://github.com/kennytilton/cells) - "an implementation of the dataflow programming paradigm", or "reactive spreadsheet-like expressiveness for CLOS". Used to build an [algebra learning system](http://tiltontec.com/). With [documentation ★15 ⏳9Y](https://github.com/stefano/cells-doc). Lisp LGPL.
+* [closer-mop](http://cliki.net/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
 
 
 Files and directories

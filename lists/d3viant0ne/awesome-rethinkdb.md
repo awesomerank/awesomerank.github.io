@@ -72,7 +72,7 @@ Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list
 
 ##### Extension Libraries
 
-- [RethinkDB Pool ★15](https://github.com/hden/rethinkdb-pool) - Connection-pool for RethinkDB.
+- [RethinkDB Pool ★15 ⏳1Y](https://github.com/hden/rethinkdb-pool) - Connection-pool for RethinkDB.
  - Maintainer: `Hao-kang Den`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/hden) 
 - [Express Session RethinkDB ★24 ⏳1Y](https://github.com/armenfilipetyan/express-session-rethinkdb) - RethinkDB session store for Express 4.x.
  - Maintainer: `@armenfilipetyan`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/armenfilipetyan) 

@@ -85,7 +85,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [glances ★8869](https://github.com/nicolargo/glances)
 * [nmon](http://nmon.sourceforge.net/pmwiki.php)
-* [gtop ★6361](https://github.com/aksakalli/gtop)
+* [gtop ★6489](https://github.com/aksakalli/gtop)
 
 
 ## Desktop
@@ -124,7 +124,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 ### Vim
 
-* [Completor ★580](https://github.com/maralla/completor.vim) - async autocomplete with support for omni and semantic completion.
+* [Completor ★618](https://github.com/maralla/completor.vim) - async autocomplete with support for omni and semantic completion.
 * [Powerline](https://github.com/Lokaltog/powerline) - improved status bar for your buffers.
 * [snipmate ★1615](https://github.com/garbas/vim-snipmate) - textual snippets compatiable with Textmate snippets.
 * [The Ultimate Vim Distribution](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim.
@@ -185,7 +185,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for presenting your work*
 
 * [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
-* [hacker-slides ★41](https://github.com/msoedov/hacker-slides) - Reveal.js based presentation tool
+* [hacker-slides ★42](https://github.com/msoedov/hacker-slides) - Reveal.js based presentation tool
 * [impress.js ★32830](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
 * [remark ★7084](https://github.com/gnab/remark) - markdown based presentation on your browser
 * [reveal.js ★38094](https://github.com/hakimel/reveal.js) - markdown based presentation on your browser

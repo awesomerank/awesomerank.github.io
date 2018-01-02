@@ -207,7 +207,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 - [Hologram ★2106](https://github.com/trulia/hologram)
 - [mdcss ★633 ⏳1Y](https://github.com/jonathantneal/mdcss)
 - [Source](https://sourcejs.com/)
-- [styledoc ★4 ⏳5Y](https://github.com/Joony/styledoc)
+- [styledoc ★4 ⏳6Y](https://github.com/Joony/styledoc)
 - [styledocco ★1081 ⏳2Y](https://github.com/jacobrask/styledocco)
 - [styledown ★628](https://github.com/styledown/styledown)
 - [sc5-styleguide ★1199](https://github.com/SC5/sc5-styleguide)
@@ -244,7 +244,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 * [JSS ★2866](https://github.com/cssinjs/jss)
 * [react-styled ★34 ⏳1Y](https://github.com/bloodyowl/react-styled)
 * [react-with-styles ★943](https://github.com/airbnb/react-with-styles)
-* [styled-jsx ★2414](https://github.com/zeit/styled-jsx)
+* [styled-jsx ★2547](https://github.com/zeit/styled-jsx)
 * [styled-components ★11796](https://github.com/styled-components/styled-components)
 
 Here is a [CSS in JS techniques comparison ★2884](https://github.com/MicheleBertoli/css-in-js)

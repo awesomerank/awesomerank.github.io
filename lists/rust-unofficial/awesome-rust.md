@@ -78,8 +78,8 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 
 See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organizations running Rust in production).
 
-* [andschwa/rust-genetic-algorithm ★30](https://github.com/andschwa/rust-genetic-algorithm) — a genetic algorithm for academic benchmark problems [<img src="https://api.travis-ci.org/andschwa/rust-genetic-algorithm.svg?branch=master">](https://travis-ci.org/andschwa/rust-genetic-algorithm)
-* [azerupi/mdBook ★762](https://github.com/rust-lang-nursery/mdBook) — a command line utility to create books from markdown files [<img src="https://api.travis-ci.org/azerupi/mdBook.svg?branch=master">](https://travis-ci.org/azerupi/mdBook)
+* [andschwa/rust-genetic-algorithm ★30 ⏳1Y](https://github.com/andschwa/rust-genetic-algorithm) — a genetic algorithm for academic benchmark problems [<img src="https://api.travis-ci.org/andschwa/rust-genetic-algorithm.svg?branch=master">](https://travis-ci.org/andschwa/rust-genetic-algorithm)
+* [azerupi/mdBook ★811](https://github.com/rust-lang-nursery/mdBook) — a command line utility to create books from markdown files [<img src="https://api.travis-ci.org/azerupi/mdBook.svg?branch=master">](https://travis-ci.org/azerupi/mdBook)
 * [bluejekyll/trust-dns ★656](https://github.com/bluejekyll/trust-dns) — a DNS-server [<img src="https://api.travis-ci.org/bluejekyll/trust-dns.svg?branch=master">](https://travis-ci.org/bluejekyll/trust-dns)
 * [ivanceras/curtain ★148](https://github.com/ivanceras/curtain) — a database administration tool for postgresql [<img src="https://api.travis-ci.org/ivanceras/curtain.svg">](https://travis-ci.org/ivanceras/curtain)
 * [cobalt-org/cobalt.rs ★441](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust [<img src="https://api.travis-ci.org/cobalt-org/cobalt.rs.svg?branch=master">](https://travis-ci.org/cobalt-org/cobalt.rs)
@@ -186,7 +186,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * **Window Managers**
   * [way-cooler/way-cooler ★1248](https://github.com/way-cooler/way-cooler) — a customizable Wayland compositor (window manager) [<img src="https://api.travis-ci.org/way-cooler/way-cooler.svg?branch=master">](https://travis-ci.org/way-cooler/way-cooler)
 * **Web**
-  * [mcux/kylyp ★1](https://github.com/uncode/kylyp) — A new Forum use rust, rocket, diesel, postgresql, and responsive design [<img src="https://api.travis-ci.org/mcux/kylyp.svg?branch=master">](https://travis-ci.org/mcux/kylyp)
+  * [mcux/kylyp ★5](https://github.com/uncode/kylyp) — A new Forum use rust, rocket, diesel, postgresql, and responsive design [<img src="https://api.travis-ci.org/mcux/kylyp.svg?branch=master">](https://travis-ci.org/mcux/kylyp)
 
 ## Development tools
 
@@ -301,7 +301,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
 * Objective-C
   * [SSheldon/rust-objc ★117](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 * Python
-  * [getsentry/milksnake ★246](https://github.com/getsentry/milksnake) - extension for python setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable.
+  * [getsentry/milksnake ★280](https://github.com/getsentry/milksnake) - extension for python setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable.
   * [dgrunwald/rust-cpython ★646](https://github.com/dgrunwald/rust-cpython) — Python bindings [<img src="https://api.travis-ci.org/dgrunwald/rust-cpython.svg?branch=master">](https://travis-ci.org/dgrunwald/rust-cpython)
   * [PyO3/PyO3 ★523](https://github.com/PyO3/PyO3) — Rust bindings for the Python interpreter [<img src="https://api.travis-ci.org/PyO3/pyo3.svg?branch=master">](https://travis-ci.org/PyO3/pyo3)
 * R
@@ -331,7 +331,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
   * [Ride ★131](https://github.com/madeso/ride) — [<img src="https://api.travis-ci.org/madeso/ride.svg?branch=master">](https://travis-ci.org/madeso/ride)
   * [SolidOak](https://github.com/oakes/SolidOak) — a simple IDE for Rust, based on GTK+ and [Neovim ★25222](https://github.com/neovim/neovim)
   * [Sublime Text](https://www.sublimetext.com/)
-    * [rust-lang/rust-enhanced ★279](https://github.com/rust-lang/rust-enhanced) — official Rust package
+    * [rust-lang/rust-enhanced ★290](https://github.com/rust-lang/rust-enhanced) — official Rust package
     * [sublimehq/packages](https://github.com/sublimehq/Packages/tree/master/Rust) — native Sublime support (already installed)
   * [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
 	* [rust.vim ★889](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
@@ -486,7 +486,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
 * [GSL](http://www.gnu.org/software/gsl/)
   * [GuillaumeGomez/rust-GSL](https://github.com/GuillaumeGomez) — GSL bindings [<img src="https://api.travis-ci.org/GuillaumeGomez/rust-GSL.svg?branch=master">](https://travis-ci.org/GuillaumeGomez/rust-GSL)
 * [LAPACK](https://en.wikipedia.org/wiki/LAPACK)
-  * [stainless-steel/lapack ★31](https://github.com/blas-lapack-rs/lapack) — LAPACK bindings [<img src="https://api.travis-ci.org/blas-lapack-rs/lapack.svg?branch=master">](https://travis-ci.org/blas-lapack-rs/lapack)
+  * [stainless-steel/lapack ★33](https://github.com/blas-lapack-rs/lapack) — LAPACK bindings [<img src="https://api.travis-ci.org/blas-lapack-rs/lapack.svg?branch=master">](https://travis-ci.org/blas-lapack-rs/lapack)
 * [L-BFGS-B](https://en.wikipedia.org/wiki/Limited-memory_BFGS)
   * [noshu/lbfgsb-sys ★1 ⏳1Y](https://github.com/noshu/lbfgsb-sys) — Rust binding of fortran L-BFGS-B subroutine
 * [sebcrozet/nalgebra ★575](https://github.com/sebcrozet/nalgebra) — low-dimensional linear algebra library [<img src="https://api.travis-ci.org/sebcrozet/nalgebra.svg?branch=master">](https://travis-ci.org/sebcrozet/nalgebra)

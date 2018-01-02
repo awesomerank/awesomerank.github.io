@@ -124,7 +124,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [java-string-similarity ★1413](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [jsoniter](http://jsoniter.com/) - Claims to be the fastest JSON parser ever.
-* [jOOL ★1141](https://github.com/jOOQ/jOOL) - Useful extensions to Java 8 lambdas.
+* [jOOL ★1155](https://github.com/jOOQ/jOOL) - Useful extensions to Java 8 lambdas.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
 * [LevelDB ★815](https://github.com/dain/leveldb) - Rewrite (port) of LevelDB in Java.
 * [lightweight_trie ★37 ⏳5Y](https://github.com/bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
@@ -160,7 +160,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [transducers-java ★100 ⏳2Y](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
 * [VarInt](https://github.com/bazelbuild/bazel/blob/master/src/main/java/com/google/devtools/build/lib/util/VarInt.java) - No-deps variable int implementation without deps (by Bazel).
 * [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
-* [wire ★2187](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.
+* [wire ★2208](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.
 * [Zero-Allocation-Hashing ★260](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
 
 ## Metaprogramming
@@ -301,7 +301,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 ## Runtimes
 
 *Tools for managing jvm runtime processes*
-* [Capsule ★1067](https://github.com/puniverse/capsule) - Dead-Simple Packaging and Deployment for JVM Apps.
+* [Capsule ★1067 ⏳1Y](https://github.com/puniverse/capsule) - Dead-Simple Packaging and Deployment for JVM Apps.
 * [CRaSH](http://www.crashub.org/) - The shell for the Java Platform.
 * [Drip ★1409](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
 * [HotswapAgent ★866](https://github.com/HotswapProjects/HotswapAgent) - Redefine classes at runtime and skip the redeploy process.

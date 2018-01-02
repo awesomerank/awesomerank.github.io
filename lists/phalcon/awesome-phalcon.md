@@ -81,7 +81,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Base App ★67 ⏳1Y](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework
 * [INVO Application ★299](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework
 * [Lightning ★29 ⏳1Y](https://github.com/zxz054321/lightning) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
-* [MVC ★583](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+* [MVC ★583 ⏳1Y](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 * [nest ★7 ⏳3Y](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development
 * [phalanx ★18 ⏳4Y](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular
 * [Phalcon Boilerplate ★77 ⏳1Y](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
@@ -286,7 +286,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Various scaffolding tools.*
 
-* [generator-phalcon ★40 ⏳3Y](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon Multi-Module Applications
+* [generator-phalcon ★40 ⏳4Y](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon Multi-Module Applications
 * [phalcon-bootstrap ★20 ⏳2Y](https://github.com/JimmDiGrizli/phalcon-bootstrap) - Bootstrap component for a quick start developing applications on Phalcon PHP Framework
 
 

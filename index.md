@@ -250,7 +250,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Docker ★8934](lists/veggiemonk/awesome-docker.md)
 - [Vagrant ★299](lists/iJackUA/awesome-vagrant.md)
 - [Pyramid ★387](lists/uralbash/awesome-pyramid.md)
-- [Play1 Framework ★36 ⏳1Y](lists/PerfectCarl/awesome-play1.md)
+- [Play1 Framework ★36 ⏳2Y](lists/PerfectCarl/awesome-play1.md)
 - [CakePHP ★616](lists/friendsofcake/awesome-cakephp.md) - PHP framework.
 - [Symfony](https://github.com/sitepoint/awesome-symfony)
 	- [Education ★228](lists/pehapkari/awesome-symfony-education.md)
@@ -278,7 +278,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Machine Learning ★28131](lists/josephmisiti/awesome-machine-learning.md)
 	- [Tutorials ★5753](lists/ujjwalkarn/Machine-Learning-Tutorials.md)
 	- [ML with Ruby ★771](lists/arbox/machine-learning-with-ruby.md) - Learning, implementing, and applying Machine Learning using Ruby.
-	- [Core ML Models ★1841](lists/likedan/Awesome-CoreML-Models.md) - Models for Apple's machine learning framework.
+	- [Core ML Models ★2073](lists/likedan/Awesome-CoreML-Models.md) - Models for Apple's machine learning framework.
 - [Speech and Natural Language Processing ★1609 ⏳1Y](lists/edobashira/speech-language-processing.md)
 	- [Spanish ★119 ⏳1Y](lists/dav009/awesome-spanish-nlp.md)
 	- [NLP with Ruby ★679](lists/arbox/nlp-with-ruby.md)
@@ -322,7 +322,7 @@ title: Awesome Rank for sindresorhus/awesome
 ## Books
 
 - [Free Programming Books ★98579](lists/EbookFoundation/free-programming-books.md)
-- [Free Software Testing Books ★945](lists/ligurio/awesome-software-quality.md)
+- [Free Software Testing Books ★969](lists/ligurio/awesome-software-quality.md)
 - [Go Books ★4242](lists/dariubs/GoBooks.md)
 - [R Books ★76](lists/RomanTsegelskyi/rbooks.md)
 - [Mind Expanding Books ★2942](lists/hackerkid/Mind-Expanding-Books.md)

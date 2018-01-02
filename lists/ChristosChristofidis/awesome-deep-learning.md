@@ -519,7 +519,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 21. [A recurrent neural network designed to generate classical music. ★1453](https://github.com/hexahedria/biaxial-rnn-music-composition)
 22. [Memory Networks Implementations - Facebook ★1266](https://github.com/facebook/MemNN)
 23. [Face recognition with Google's FaceNet deep neural network. ★8766](https://github.com/cmusatyalab/openface)
-24. [Basic digit recognition neural network ★81 ⏳4Y](https://github.com/joeledenberg/DigitRecognition)
+24. [Basic digit recognition neural network ★81 ⏳5Y](https://github.com/joeledenberg/DigitRecognition)
 25. [Emotion Recognition API Demo - Microsoft](https://www.projectoxford.ai/demo/emotion#detection)
 26. [Proof of concept for loading Caffe models in TensorFlow ★1808](https://github.com/ethereon/caffe-tensorflow)
 27. [YOLO: Real-Time Object Detection](http://pjreddie.com/darknet/yolo/#webcam)

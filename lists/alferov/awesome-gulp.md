@@ -195,7 +195,7 @@ title: Awesome Rank for alferov/awesome-gulp
 
 ### Live Reload
 * [browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites ([recipes ★397](https://github.com/BrowserSync/gulp-browser-sync)).
-* [gulp-livereload ★761 ⏳1Y](https://github.com/vohof/gulp-livereload) - Gulp plugin for livereload.
+* [gulp-livereload ★761 ⏳2Y](https://github.com/vohof/gulp-livereload) - Gulp plugin for livereload.
 
 ### Caching
 * [gulp-changed ★674](https://github.com/sindresorhus/gulp-changed) - Only pass through changed files.

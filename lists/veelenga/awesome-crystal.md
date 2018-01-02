@@ -100,7 +100,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crass ★8](https://github.com/vonKingsley/crass) - Bindings for libsass
  * [crt.cr ★13](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-gsl ★10](https://github.com/ruivieira/crystal-gsl) - GNU Scientific Library bindings
- * [curl-crystal ★5](https://github.com/blocknotes/curl-crystal) - Bindings for [libcurl](https://curl.haxx.se/libcurl/)
+ * [curl-crystal ★5 ⏳1Y](https://github.com/blocknotes/curl-crystal) - Bindings for [libcurl](https://curl.haxx.se/libcurl/)
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape ★2988](https://github.com/svaarala/duktape) javascript engine
  * [gphoto2.cr ★8](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
  * [icu.cr ★2](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
@@ -350,7 +350,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [jennifer.cr ★96](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal ★43](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [record](https://github.com/luckyframework/record) - Type safe querying, saving and updating
- * [redis-tsv.cr ★4](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
+ * [redis-tsv.cr ★4 ⏳1Y](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
  * [stal-crystal ★3](https://github.com/soveran/stal-crystal) - Set algebra solver for Redis
  * [topaz ★53](https://github.com/topaz-crystal/topaz) - A simple and useful db wrapper
 
@@ -441,7 +441,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [open_exchange_rates ★9](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API
  * [pinboard.cr ★1](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
  * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry ★14859](https://github.com/getsentry/sentry)
- * [slack.cr ★9](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library
+ * [slack.cr ★9 ⏳1Y](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library
  * [spotify.cr ★28 ⏳1Y](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API
  * [tele.cr ★15](https://github.com/vladfaust/tele.cr) - A *convenient* wrapper for the Telegram Bot API
  * [telegram_bot ★46](https://github.com/hangyas/telegram_bot) - A wrapper for the Telegram Bot API

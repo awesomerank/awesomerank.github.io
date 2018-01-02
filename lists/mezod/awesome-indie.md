@@ -63,7 +63,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everyd
   
 - **[HackerNews](https://news.ycombinator.com/)**
 
-  News for hackers, mostly technology and entrepreneurship. Not specific to indie devs but a must for everyone interested in computer science, creating products and making money. A lot of indie devs lurking around. Started by [Paul Graham](https://twitter.com/paulg).
+  News for hackers, mostly technology and entrepreneurship. Not specific to indie devs but a must for everyone interested in computer science, creating products and making money. A lot of indie devs lurking around. Started by [Paul Graham](https://twitter.com/paulg) and maintained by the seed accelerator YCombinator.
   
 - **[ProductPeople.club](https://productpeople.club/)** [$]
 
@@ -83,6 +83,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everyd
 - **[r/SideProject](https://www.reddit.com/r/SideProject/)** - Quite active
 - **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([invite here](http://sideproject.xyz/)) - Slack community for people working on their sideprojects.
 - **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - A subreddit for small and independent businesses.
+- **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
 
 <!-- - lobsters -->
 
@@ -146,6 +147,10 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everyd
 - **[Giant Robots](http://giantrobots.fm/)**
 
   [Ben Orenstein](http://www.benorenstein.com/) (former growth/product lead at Thoughtbot) and [Derrick Reimer](https://twitter.com/derrickreimer) (co-founder of Drip) talk weekly about growing their SaaS businesses.
+  
+- **[Mixergy](https://itunes.apple.com/us/podcast/mixergy-startup-stories-1000-entrepreneurs-businesses/id348690336?mt=2)**
+
+  Startup Interview podcast hosted by [Andrew Warner](https://twitter.com/andrewwarner), who made $1 million a month from an online greeting cards business.
 
   
 ### Talks
@@ -170,12 +175,16 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everyd
 
   Talk on building a successful small solo business.
   
+- **[Paul Buchheit at Startup School 08](https://www.youtube.com/watch?v=EZxP0i9ah8E)
+
+  In this classic talk, AdSense/GMail/like button inventor explains how to listen to your users and why you should be critical of startup advice.
+  
 ##### Other
 
 - **[Talks from the MicroConf](https://vimeo.com/user12790628/videos)**
 - **[Talks from the BaconBizConf](http://baconbiz.com/)**
 - **[Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)**
-
+- 
 ### Posts
 
 - **[I’m Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/)** by [Pieter Levels](https://twitter.com/levelsio)
@@ -285,6 +294,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Carrd.co](https://themakingof.carrd.co/#)**
 
   [AJ](https://twitter.com/ajlkn) writes about the making of carrd.co and the different steps that he took on the way to a successful product.
+  
+- **[CandyJapan](https://www.candyjapan.com/behind-the-scenes)**
+
+  Revenue numbers and learnings from running a Japanese candy subscription box.
 
 ### Events
 
@@ -299,6 +312,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[BaconBizConf](http://baconbiz.com/)** [$]
 
   "An alliance for B2B bootstrappers". Philadelphia. By [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
+  
+- **[StartupSchool](https://www.startupschool.org/)**
+
+  Free event organized by seed accelerator [YCombinator](http://www.ycombinator.com/). You have to be a bit lucky to get in. Also, this suggestion goes a little bit against the idea of "bootstrapped" but YCombinator has a lot of good resources for us indie hackers!
   
 ##### Not specific to indie founders:
 
@@ -328,6 +345,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Rework](https://37signals.com/rework)** [$] by [37signals](https://37signals.com).
 - **[Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)** [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
 - **[Marketing for Developers](https://justinjackson.withcoach.com/marketing-for-developers-the-book)** [$] by [Justin Jackson](https://twitter.com/mijustin).
+- **[Hackers&Painters](http://www.paulgraham.com/hackpaint.html)** [$] by [Paul Graham](http://www.paulgraham.com/).
 
 ##### Other
 
@@ -337,6 +355,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18/ref=sr_1_1?s=books&ie=UTF8&qid=1493985078&sr=1-1&keywords=badass+kathy+sierra)** [$] by [Kathy Sierra](http://seriouspony.com/).
 - **[Anything You Want](https://www.amazon.com/dp/B00SI0B5FS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)** [$] by [Derek Sivers](https://twitter.com/sivers).
 - **[Founders at Work](https://www.amazon.com/Founders-Work-Stories-Startups-Early-ebook/dp/B009IXMK4O/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493985002&sr=1-1&keywords=founders+at+work)** [$] by [Jessica Livingston](https://twitter.com/jesslivingston).
+- **[SideProject Book](http://www.sideprojectbook.com/)** - [$49].
 
 ### Tools
 

@@ -112,7 +112,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [bootstrapy ★276 ⏳4Y](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
 - [Fbone ★1462](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
 - [Flask-Bootstrap ★165](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
-- [Flask Boilerplate ★5 ⏳2Y](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
+- [Flask Boilerplate ★5 ⏳3Y](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
 - [Flask Foundation ★1087](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.
 - [GoogleAppEngine Webapp2 Boilerplate ★709 ⏳1Y](https://github.com/coto/gae-boilerplate) A Complete boilerplate for Python Webapp2 on Google App Engine
 - [Flask Appengine Template ★1021](https://github.com/kamalgill/flask-appengine-template) Flask App engine Template

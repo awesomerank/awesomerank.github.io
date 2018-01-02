@@ -76,7 +76,7 @@ You might also like [awesome-nodejs ★20503](https://github.com/sindresorhus/aw
 
 ### CLI
 
-- [zsh-better-npm-completion ★97](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
+- [zsh-better-npm-completion ★102](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 
 
 ## Packages

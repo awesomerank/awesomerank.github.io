@@ -416,6 +416,7 @@ Inspired by [awesome-php ★17326](https://github.com/ziadoz/awesome-php).
 * [PyTime ★109 ⏳1Y](https://github.com/shinux/PyTime) - A easy-use Python module which aims to operate date/time/datetime by string.
 * [pytz](https://launchpad.net/pytz) - World timezone definitions, modern and historical. Brings the [tz database](https://en.wikipedia.org/wiki/Tz_database) into Python.
 * [when.py ★168](https://github.com/dirn/When.py) - Providing user-friendly functions to help perform common date and time actions.
+* [maya ★1807](https://github.com/kennethreitz/maya) - Datetimes for Humans, Maya is mostly built around the headaches and use-cases around parsing datetime data from websites.
 
 ## Debugging Tools
 
@@ -451,7 +452,7 @@ Inspired by [awesome-php ★17326](https://github.com/ziadoz/awesome-php).
 * [MXNet](https://github.com/dmlc/mxnet) - A deep learning framework designed for both efficiency and flexibility.
 * [Neupy](http://neupy.com/pages/home.html) - Running and testing different Artificial Neural Networks algorithms.
 * [Pytorch](http://pytorch.org/) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-* [Serpent.AI ★3324](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox. 
+* [Serpent.AI ★3324](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox.
 * [TensorFlow ★80786](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 * [Theano ★7374](https://github.com/Theano/Theano) - A library for fast numerical computation.
 
@@ -1182,7 +1183,7 @@ Inspired by [awesome-php ★17326](https://github.com/ziadoz/awesome-php).
 
 *Libraries for extracting web contents.*
 
-* [Haul ★113](https://github.com/vinta/Haul) - An Extensible Image Crawler.
+* [Haul ★113 ⏳1Y](https://github.com/vinta/Haul) - An Extensible Image Crawler.
 * [html2text ★435](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 * [lassie ★388](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans.
 * [micawber ★367](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs.

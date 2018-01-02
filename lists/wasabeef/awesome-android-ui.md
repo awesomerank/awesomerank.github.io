@@ -67,7 +67,7 @@ Name | License | Demo
 [snackbar ★1541 ⏳2Y](https://github.com/nispok/snackbar) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/snackbar.png" width="49%">
 [CircularReveal ★2223](https://github.com/ozodrukh/CircularReveal) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/CircularReveal.gif" width="49%">
 [material-range-bar ★1413](https://github.com/oli107/material-range-bar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-range-bar.png" width="49%"> <img src="/art/material-range-bar2.png" width="49%">
-[Lollipop-AppCompat-Widgets-Skeleton ★101 ⏳2Y](https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LollipopAppCompatWidgetSkeleton.gif" width="49%">
+[Lollipop-AppCompat-Widgets-Skeleton ★101 ⏳3Y](https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LollipopAppCompatWidgetSkeleton.gif" width="49%">
 [Carbon ★1868](https://github.com/ZieIony/Carbon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
 [material-calendarview ★3695](https://github.com/prolificinteractive/material-calendarview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-calendarview.gif" width="49%">
 [Material ★5253](https://github.com/rey5137/material) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Material.gif" width="49%"> <img src="/art/Material2.gif" width="49%"> <img src="/art/Material3.gif" width="49%"> <img src="/art/Material4.gif" width="49%"> <img src="/art/Material5.gif" width="49%"> <img src="/art/Material6.gif" width="49%"> <img src="/art/Material7.gif" width="49%"> <img src="/art/Material8.gif" width="49%"> <img src="/art/Material9.gif" width="49%"> <img src="/art/Material10.gif" width="49%"> <img src="/art/Material11.png" width="49%">
@@ -102,7 +102,7 @@ Name | License | Demo
 [InboxLayout ★662 ⏳2Y](https://github.com/zhaozhentao/InboxLayout) | UnKnown | <img src="/art/InboxLayout.gif" width="49%">
 [SwipeBack ★1309](https://github.com/liuguangqiang/SwipeBack) | UnKnown | <img src="/art/SwipeBack.gif" width="49%"> <img src="/art/SwipeBack2.gif" width="49%">
 [ArcLayout ★1125 ⏳1Y](https://github.com/ogaclejapan/ArcLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/arclayout1.gif" width="49%">
-[Dragger ★1171 ⏳1Y](https://github.com/ppamorim/Dragger) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Dragger.gif" width="100%">
+[Dragger ★1171 ⏳2Y](https://github.com/ppamorim/Dragger) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Dragger.gif" width="100%">
 [PhysicsLayout ★541](https://github.com/Jawnnypoo/PhysicsLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/PhysicsLayout.gif" width="49%">
 [BottomSheet ★3520](https://github.com/Flipboard/bottomsheet) | [License](https://github.com/Flipboard/bottomsheet/blob/master/LICENSE) | <img src="/art/BottomSheet.gif" width="49%">
 [Bubbles for Android ★1242](https://github.com/txusballesteros/bubbles-for-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/bubbles-for-android.gif" width="49%">
@@ -360,7 +360,7 @@ Name | License | Demo
 [Android StackBlur ★2976](https://github.com/kikoso/android-stackblur) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-stackblur.png" width="100%">
 [EdgeEffectOverride ★660 ⏳3Y](https://github.com/AndroidAlliance/EdgeEffectOverride) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EdgeEffectOverride.jpeg" width="100%">
 [ExplosionField ★3000](https://github.com/tyrantgit/ExplosionField) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ExplosionField.gif" width="49%">
-[BrokenView ★759 ⏳1Y](https://github.com/zhanyongsheng/BrokenView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/BrokenView.gif" width="49%">
+[BrokenView ★759 ⏳2Y](https://github.com/zhanyongsheng/BrokenView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/BrokenView.gif" width="49%">
 [Trianglify ★420](https://github.com/manolovn/trianglify) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Trianglify.png" width="49%">
 [ShineButton ★2902](https://github.com/ChadCSong/ShineButton) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ShineButton.gif" width="100%">
 

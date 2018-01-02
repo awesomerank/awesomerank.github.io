@@ -121,6 +121,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [webpack ★35039](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 * [Rollup ★11184](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 * [Brunch ★6302](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
+* [Parcel ★14152](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
 
 
 ## Testing Frameworks
@@ -290,8 +291,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Timeline
 
-* [TimelineJS ★8482 ⏳1Y](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript.
-* [timesheet.js ★43 ⏳2Y](https://github.com/semu/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
+* [TimelineJS v3 ★1263](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
+* [timesheet.js ★6371](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
 ## Spreadsheet
 
@@ -371,7 +372,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [RxJs ★18186](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript.
 * [Bacon ★5818](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript.
 * [Kefir ★5 ⏳1Y](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
-* [Highland] (http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
+* [Highland](http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 * [Most.js ★2453](https://github.com/cujojs/most) - high performance FRP library.
 * [MobX ★12442](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 * [Cycle.js](https://cycle.js.org) - A functional and reactive JavaScript library for cleaner code.
@@ -437,9 +438,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jquery-cookie ★8435](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
 * [js-cookie ★7959](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 * [Cookies ★1706](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library.
-* [DB.js] (https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library
-* [lawnchair.js] (https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
-* [sql.js] (https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+* [DB.js ★623](https://github.com/aaronpowell/db.js) - Promise based IndexDB Wrapper library
+* [lawnchair.js ★2149](https://github.com/brianleroux/lawnchair) - Simple client-side JSON storage.
+* [sql.js ★3988](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 
 
 ## Color
@@ -450,7 +451,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [colors ★8015](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 * [PleaseJS ★2119](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor ★1928](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
-* [Vibrant.js] (https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+* [Vibrant.js ★4214](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image.
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
@@ -746,7 +747,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Menu
 
 * [jQuery-menu-aim ★7620](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
-* [jQuery contextMenu] (https://github.com/swisnl/jQuery-contextMenu) -  contextMenu manager.
+* [jQuery contextMenu ★1607](https://github.com/swisnl/jQuery-contextMenu) -  contextMenu manager.
 * [Slideout ★7047](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
 * [Slide and swipe ★94 ⏳1Y](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
 
@@ -784,7 +785,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [hammer.js ★17424](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
 * [touchemulator ★175](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
-* [Dragula] (https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts
+* [Dragula ★16961](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts
 
 
 ## Maps
@@ -896,6 +897,7 @@ http://www.listjs.com
 * [Superhero.js](http://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base.
 * [SJSJ ★2048](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
 * [How to Write an Open Source JavaScript Library ★96 ⏳1Y](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
+* [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 
 
 # Other Awesome Lists

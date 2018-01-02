@@ -91,7 +91,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [union-type ★366](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
 * [freeky ★111 ⏳1Y](https://github.com/DrBoolean/freeky) – A collection of Free monads.
 * [Fluture](https://github.com/Avaq/Fluture) – A Future library with included control utilities, high performance and great error messages.
-* [fantasy-combinators ★48 ⏳1Y](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
+* [fantasy-combinators ★48 ⏳2Y](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
 * [fantasy-birds ★45 ⏳1Y](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 * [crocks ★143](https://github.com/evilsoft/crocks) – A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running.
 
@@ -175,7 +175,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 ### Examples and Exercises
 
 * [FPJS-Class ★74 ⏳2Y](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
-* [functional-javascript-workshop ★1563](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
+* [functional-javascript-workshop ★1578](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 * [functional-frontend-architecture ★1017 ⏳2Y](https://github.com/paldepind/functional-frontend-architecture) – A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
 * [cube-composer ★1205](https://github.com/sharkdp/cube-composer) – A puzzle game inspired by functional programming.
 * [FP Youtube Search ★41](https://github.com/jaysoo/example-fp-youtube-search) – YouTube search app with ReactJS, Redux, and FP concepts

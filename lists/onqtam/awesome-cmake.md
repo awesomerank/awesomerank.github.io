@@ -76,7 +76,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [cgcmake ★37](https://github.com/chadmv/cgcmake) - CMake modules for common applications related to computer graphics. [```[MIT]```][MIT]
 * [FindMathematica ★24](https://github.com/sakra/FindMathematica) - CMake module for Mathematica. [```[MIT]```][MIT]
 * [extra-cmake-modules ★25](https://github.com/KDE/extra-cmake-modules) - [KDE](https://github.com/KDE)'s extra modules and scripts for CMake. [```[BSD3]```][BSD-3-Clause]
-* [FindICU.cmake ★22](https://github.com/julp/FindICU.cmake) - CMake module to find International Components for Unicode (ICU) Library. [```[BSD2]```][BSD-2-Clause]
+* [FindICU.cmake ★22 ⏳1Y](https://github.com/julp/FindICU.cmake) - CMake module to find International Components for Unicode (ICU) Library. [```[BSD2]```][BSD-2-Clause]
 * [FindTBB ★46](https://github.com/justusc/FindTBB) - CMake find module for Intel Threading Building Blocks. [```[MIT]```][MIT]
 * [cmake-modules ★21 ⏳2Y](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei)'s CMake module collection. [```[MIT]```][MIT]
 

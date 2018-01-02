@@ -1135,6 +1135,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [re:Invent 2017 Serverless Recap](https://speakerdeck.com/danilop/re-invent-2017-serverless-recap) - Slides for the presentation about the serverless related announcements at re:Invent 2017.
 - [Amazon Web Services and Kubernetes: Now what?](https://thenewstack.io/aws-kubernetes-now/) - Podcast about the re:Invent 2017 announcements with regards to serverless computing.
 - [Building a serverless company with the Serverless Framework](https://www.slideshare.net/loige/building-a-serverless-company-on-aws-lambda-and-serverless-framework) - Slides for the presentation from Planet9 about building a company with serverless technologies.
+- [How serverless technologies impact Kubernetes](https://thenewstack.io/serverless-technologies-impact-kubernetes/) - Podcast about how and why serverless computing impacts Kubernetes.
 
 ## Amazon AWS resources
 
@@ -1330,7 +1331,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [DynamoDB autoscaling ★44](https://github.com/trek10inc/dynamodb-autoscaling) - Serverlessly monitor and autoscale DynamoDB.
 - [Cron Lambda HTTP trigger ★3](https://github.com/kandros/serverless-cron-lambda-http-trigger) - CloudWatch cron triggered serverless function used to fire an HTTP request to a specified URL.
 - [Serverless SQS worker ★69](https://github.com/sbstjn/sqs-worker-serverless) - Example for SQS worker in AWS Lambda using Serverless.
-- [Serverlecs ★1](https://github.com/tobyhede/serverlecs) - Deploys a set of applications to containers in an ECS cluster.
+- [Serverlecs ★1 ⏳1Y](https://github.com/tobyhede/serverlecs) - Deploys a set of applications to containers in an ECS cluster.
 - [Leto ★11](https://github.com/helixone/leto-serverless) - Angular server(less) side rendering.
 - [Open bot ★130](https://github.com/open-bot/open-bot) - An unoptionated bot driven by a configuration file in the repository.
 - [Endless commerce ★75 ⏳1Y](https://github.com/endless-commerce/endless) - Serverless open source e-commerce platform.
@@ -1402,7 +1403,6 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [DynamoDB backups ★5](https://github.com/alexdebrie/serverless-dynamodb-backups) - Automate your DynamoDB backups.
 
 ## Related projects
-
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
 - [DataFire ★117](https://github.com/DataFire/DataFire) - Open Integration Framework.
 - [AWS log parser ★6 ⏳1Y](https://github.com/rotemtam/serverless-aws-logs-parser) - Make sense of Lambda and API Gateway CloudWatch log files.
@@ -1525,7 +1525,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Kuhiro](http://kuhiro.com) - Edge Compute Network.
 - [Flogo](http://www.flogo.io) - Ultralight edge microservices framework ([GitHub project ★326](https://github.com/TIBCOSoftware/flogo)).
 - [Add custom resource ★6](https://github.com/dougmoscrop/add-custom-resource) - Library which is meant to be used in a Serverless plugin when a custom resource is needed.
-- [Reactive Interaction Gateway ★31](https://github.com/Accenture/reactive-interaction-gateway) - Scalable, Open Source gateway to your microservices.
+- [Reactive Interaction Gateway ★94](https://github.com/Accenture/reactive-interaction-gateway) - Scalable, Open Source gateway to your microservices.
 - [Serverless application lens](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf) - AWS well-architected framework for serverless applications.
 - [Serverless architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf) - Overview and best practices for serverless architectures built with AWS Lambda.
 - [Middy ★61](https://github.com/middyjs/middy) - The stylish Node.js middleware engine for AWS Lambda.
@@ -1533,6 +1533,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [FaaS Mark](http://faasmark.com) - Benchmark Functions-as-a-Service platforms ([GitHub project ★6](https://github.com/gobinaris/faasmark)).
 - [Tyk](https://tyk.io) - Tyk Open Source API Gateway ([GitHub project ★2662](https://github.com/TykTechnologies/tyk)).
 - [ES2017 - AWS Lambda boilerplate ★36](https://github.com/irvinlim/es2017-lambda-boilerplate) - Boilerplate for implementing Node.js functions on AWS Lambda using ES2017 features, unit testing and CI/CD with Travis or AWS CodeBuild.
+- [SCEPTER Framework](https://github.com/source4societyorg) - An open source framework built with Serverless to help manage and deploy distributed services and their user interfaces.
 
 ## Plugins
 
@@ -1592,7 +1593,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [AWS alerts ★63](https://github.com/ACloudGuru/serverless-plugin-aws-alerts) - Easily add CloudWatch alarms to functions.
 - [Crypt ★5](https://github.com/ACloudGuru/serverless-plugin-crypt) - Encrypt and decrypt environment variables.
 - [CLJS ★36](https://github.com/nervous-systems/serverless-cljs-plugin) - Enables Clojurescript as an implementation language for Lambda handlers.
-- [Encode env var objects ★0](https://github.com/yonomi/serverless-plugin-encode-env-var-objects) - Encode any environment variable objects.
+- [Encode env var objects ★0 ⏳1Y](https://github.com/yonomi/serverless-plugin-encode-env-var-objects) - Encode any environment variable objects.
 - [Additional stacks ★16](https://github.com/SC5/serverless-plugin-additional-stacks) - Support for managing multiple AWS CloudFormation stacks.
 - [Prune ★36](https://github.com/claygregory/serverless-prune-plugin) - Deletes old versions of functions from AWS, preserving recent and aliased versions.
 - [Offline scheduler ★19](https://github.com/ajmath/serverless-offline-scheduler) - Runs scheduled functions offline while integrating with serverless-offline.
@@ -1634,7 +1635,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Api Gateway auth](https://github.com/nochtap/serverless-plugin-api-gateway-auth) - Fork of the [API Gateway auth plugin ★3](https://github.com/frankleonrose/api-gateway-auth-plugin) with some enhancements.
 - [Export env ★7](https://github.com/arabold/serverless-export-env) - Export environment variables into a .env file with automatic AWS CloudFormation reference resolution.
 - [Split stacks ★19](https://github.com/dougmoscrop/serverless-plugin-split-stacks) - Generates nested stacks to get around the 200 resource CloudFormation limit.
-- [FaaS](https://github.com/alexellis/serverless-faas) - Provider plugin for the [FaaS project](https://github.com/alexellis/faas).
+- [OpenFaaS](https://github.com/openfaas/serverless-openfaas) - Provider plugin for the [OpenFaaS project ★7377](https://github.com/openfaas/faas).
 - [Package Python functions ★24](https://github.com/ubaniabalogun/serverless-package-python-functions) - Packaging Python Lambda functions with only the dependencies/requirements they need.
 - [Swagger to Serverless ★6](https://github.com/poi5305/swagger-to-serverless) - Convert `swagger.yml` to `serverless.yml`.
 - [Custom domain ★2](https://github.com/Icenium/serverless-custom-domain) - Custom domain support.

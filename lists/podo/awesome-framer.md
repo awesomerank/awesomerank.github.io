@@ -96,7 +96,7 @@ title: Awesome Rank for podo/awesome-framer
 * [shortcuts-for-framer ★421](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier.
 * [framer.placehold ★10 ⏳2Y](https://github.com/cupofjoakim/framer.placehold) - This is a module for framer that provides a library of different image placeholder services.
 * [FramerNavigationComponent ★28 ⏳2Y](https://github.com/jchavarri/FramerNavigationComponent) - Reusable and customizable navigation component for Framer, based on iOS.
-* [RippleTransition.framer ★4 ⏳1Y](https://github.com/offirg75/framer.RippleTransition) - Framer Module for a Material design like ripple transition.
+* [RippleTransition.framer ★4 ⏳2Y](https://github.com/offirg75/framer.RippleTransition) - Framer Module for a Material design like ripple transition.
 * [framer-icon ★26 ⏳2Y](https://github.com/peteschaffner/framer-icon) - Framer dynamically tinted icons based off of a template image.
 * [framer.makeGradient ★21 ⏳2Y](https://github.com/cupofjoakim/framer.makeGradient) - Module for Framer that makes it easy to create static linear/radial gradients. Want them to animate? I welcome pull requests.
 * [WatchKit-Framer ★55 ⏳2Y](https://github.com/ajimix/WatchKit-Framer) - Apple Watch Kit module for Framer.

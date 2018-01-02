@@ -97,7 +97,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ### Media Queries
 
 - [CSS and Media Query Strategies ★17 ⏳5Y](https://github.com/buymeasoda/less-media-queries) - Using Less CSS to develop a media query driven solution for modern and legacy browsers.
-- [Media Queries Library ★7 ⏳1Y](https://github.com/mrmlnc/less-mq) - Really simple media queries in Less.
+- [Media Queries Library ★7 ⏳2Y](https://github.com/mrmlnc/less-mq) - Really simple media queries in Less.
 - [Media Query to Type ★10 ⏳4Y](https://github.com/himedlooff/media-query-to-type) - A method for creating an IE specific stylesheet that allows the content of media queries to become accessible to Internet Explorer 8 and below.
 
 **[Back to top](#contents)**

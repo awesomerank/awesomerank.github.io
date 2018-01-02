@@ -95,7 +95,7 @@ Generate a README.md from package.json contents. With npm modules, lots of info 
 npm i package-json-to-readme -g
 ```
 
-### [npmwd ★4 ⏳2Y](https://github.com/zeke/npmwd) by [zeke](https://npmjs.org/~zeke)
+### [npmwd ★4 ⏳3Y](https://github.com/zeke/npmwd) by [zeke](https://npmjs.org/~zeke)
 
 Open the npm package URL in your browser that matches your shell's current working directory.
 

@@ -50,7 +50,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [Transforming Data with ClojureScript](http://langintro.com/cljsbook/index.html) – A Beginner's guide to ClojureScript with interactive examples and exercises
 
 ### Canvas
-- [Monet ★145](https://github.com/rm-hull/monet) – A small ClojureScript library to make it easier to work with canvas and visuals.
+- [Monet ★145 ⏳1Y](https://github.com/rm-hull/monet) – A small ClojureScript library to make it easier to work with canvas and visuals.
 - [Quamolit ★33](https://github.com/Quamolit/quamolit) – A tiny declarative animation library , inspired by React.
 
 
@@ -125,7 +125,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [CLJSJS](http://cljsjs.github.io/) – An easy way for Clojurescript developers to depend on Javascript libraries.
 - [Jayq ★400](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
 - [Purnam ★269 ⏳2Y](https://github.com/zcaudate/purnam) – A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.
-- [Pylon ★39 ⏳4Y](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
+- [Pylon ★39 ⏳5Y](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
 
 
 ### Miscellaneous
