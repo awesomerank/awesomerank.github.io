@@ -198,7 +198,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 * [JavaScript](https://www.npmjs.com/package/vertx3-eventbus-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - JavaScript event bus client.
 * [C++11 ★7](https://github.com/julien3/vertxbuspp) - C++11 event bus client.
-* [Java ★12 ⏳1Y](https://github.com/saffron-technology/vertx-eventbusbridge) - Java implementation of vertxbus.js.
+* [Java ★12 ⏳2Y](https://github.com/saffron-technology/vertx-eventbusbridge) - Java implementation of vertxbus.js.
 * [Java ★11](https://github.com/abdlquadri/vertx-eventbus-java) - Java and Android Event Bus Client.
 * [CLI ★2](https://github.com/cinterloper/vxc) - Command-line binary client for Vert.x event bus - pipe in JSON, emit JSON.
 * [Swift](https://github.com/tobias/vertx-swift-eventbus) - Event bus client for [Apple's Swift](https://swift.org) using the [TCP-based protocol ★20](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).

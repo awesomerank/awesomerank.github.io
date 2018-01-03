@@ -308,7 +308,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 ### PHP
 
-- [AlfredSlackSearch ★34 ⏳3Y](https://github.com/tylerhall/AlfredSlackSearch) - Alfred.app workflow that searches your team's Slack history
+- [AlfredSlackSearch ★34 ⏳4Y](https://github.com/tylerhall/AlfredSlackSearch) - Alfred.app workflow that searches your team's Slack history
 - [Archibald](https://github.com/lgaechter/Archibald) - A Slack integration to post GIF replies from replygif.net
 - [beanstalk-slack ★5 ⏳3Y](https://github.com/percipioglobal/beanstalk-slack) - Integrates your deploy commits from Beanstalk directly into Slack
 - [CLSlackBundle ★41](https://github.com/cleentfaar/CLSlackBundle) - Symfony bundle that lets you interact with the Slack API and webhooks
@@ -343,7 +343,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [Slacker ★560](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI
 - [SlackGoogle ★15 ⏳2Y](https://github.com/dommerq/SlackGoogle) - Slash command that returns a Google search URL, like LMGTFY
 - [SlackHelper ★5 ⏳3Y](https://github.com/leoetlino/SlackHelper) - Object-oriented classes for sending data to Slack via incoming webhooks
-- [SlackHolidayBot ★11 ⏳3Y](https://github.com/bradslavin/SlackHolidayBot) - Posts today's holiday to a channel in Slack
+- [SlackHolidayBot ★11 ⏳4Y](https://github.com/bradslavin/SlackHolidayBot) - Posts today's holiday to a channel in Slack
 - [slackuntappd ★16 ⏳2Y](https://github.com/gregavola/slackuntappd) - A webhook that allows you to search for beer information within Slack via Untappd
 - [SlackWamp ★5](https://github.com/voryx/SlackWamp) - A WAMP wrapper for the Slack API
 - [Sqwack ★14 ⏳2Y](https://github.com/heyupdate/Sqwack) - Semi-realtime profile photos in Slack

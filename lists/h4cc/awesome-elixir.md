@@ -142,7 +142,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [erlang-algorithms ★85](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
 * [exconstructor ★148](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
 * [exfsm](https://github.com/awetzel/exfsm) - Simple elixir library to define a static FSM.
-* [exkad ★0](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
+* [exkad ★0 ⏳1Y](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
 * [exmatrix ★47](https://github.com/a115/exmatrix) - ExMatrix is a small library for working with matrices, originally developed for testing matrix multiplication in parallel.
 * [ezcryptex ★0 ⏳2Y](https://github.com/stocks29/ezcryptex) - Thin layer on top of Cryptex.
 * [fnv ★1](https://github.com/asaaki/fnv.ex) - Pure Elixir implementation of Fowler–Noll–Vo hash functions.
@@ -1095,7 +1095,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [tirexs ★376](https://github.com/Zatvobor/tirexs) - An Elixir flavored DSL for building JSON based requests to Elasticsearch engine.
 * [triplex ★43](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications!
 * [udpflux ★3 ⏳2Y](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
-* [yar ★8 ⏳2Y](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
+* [yar ★8 ⏳3Y](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ## OTP
 *Libraries for working with OTP related things.*
@@ -1633,7 +1633,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) - A Elixir cheat sheet, by Andy Hunt & Dave Thomas.
 * [Elixir Functional Programming ★218 ⏳1Y](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
 * [Elixir School](https://elixirschool.com/) - Lessons about the Elixir programming language.
-* [The Little Schemer in Elixir ★320 ⏳1Y](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
+* [The Little Schemer in Elixir ★320 ⏳2Y](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
 * [xElixir](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
 ## Screencasts

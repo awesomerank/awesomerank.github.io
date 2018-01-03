@@ -28,7 +28,7 @@ title: Awesome Rank for johnjago/awesome-ad-free
   - [Utilities](#utilities)
   - [Video](#video)
 - [Resources](#resources)
-  - [Ad Blocker](#ad-blocker)
+  - [Ad Blockers](#ad-blockers)
   - [Articles](#articles)
   - [Businesses](#businesses)
   - [Groups](#groups)
@@ -102,8 +102,9 @@ title: Awesome Rank for johnjago/awesome-ad-free
 
 ## Resources
 
-### Ad Blocker
+### Ad Blockers
 
+- [Add-Art](https://add-art.org/) - Replaces ads with art.
 - [uBlock Origin ★10927](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
 
 **WARNING**: Avoid Adblock Plus because coprorations can [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
@@ -121,7 +122,8 @@ title: Awesome Rank for johnjago/awesome-ad-free
 
 > These business have no advertising policies.
 
-[Polyface Farms](http://www.polyfacefarms.com/no-advertising/) - Environmentally-friendly farm that relies on word of mouth to reach customers.
+- [Gandi](https://www.gandi.net/) - Domain registrar with a No Bullshit policy.
+- [Polyface Farms](http://www.polyfacefarms.com/no-advertising/) - Environmentally-friendly farm that relies on word of mouth to reach customers.
 
 ### Groups
 

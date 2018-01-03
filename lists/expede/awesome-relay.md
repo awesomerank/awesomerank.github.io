@@ -63,7 +63,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
  
 ## Example Implementations
 - [Relay TODO MVC ★133](https://github.com/taion/relay-todomvc) - The classic TODO example app, written with Relay.
-- [`relay-chat` ★89](https://github.com/transedward/relay-chat) - Relay with routing and pagination.
+- [`relay-chat` ★89 ⏳1Y](https://github.com/transedward/relay-chat) - Relay with routing and pagination.
 - [`koa-graphql-relay-example`](https://github.com/chentsulin/koa-graphql-relay-example) - "TODO" app with [`koa-graphql` ★468](https://github.com/chentsulin/koa-graphql) and `relay`.
 - [`todomvc-relay-go` ★47 ⏳1Y](https://github.com/sogko/todomvc-relay-go) - Relay TodoMVC app, driven by a Golang GraphQL backend.
 

@@ -760,6 +760,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [nsq-event-bus ★19](https://github.com/rafaeljesus/nsq-event-bus) - A tiny wrapper around NSQ topic and channel.
 * [oplog ★84 ⏳2Y](https://github.com/dailymotion/oplog) - Generic oplog/replication system for REST APIs.
 * [pubsub](https://github.com/tuxychandru/pubsub) - Simple pubsub package for go.
+* [rabtap ★1](https://github.com/jandelgado/rabtap) - RabbitMQ swiss army knife cli app.
 * [RapidMQ ★32](https://github.com/sybrexsys/RapidMQ) - RapidMQ is a lightweight and reliable library for managing of the local messages queue.
 * [sarama ★2333](https://github.com/Shopify/sarama) - Go library for Apache Kafka.
 * [Uniqush-Push ★935](https://github.com/uniqush/uniqush-push) - Redis backed unified push service for server-side notifications to mobile devices.

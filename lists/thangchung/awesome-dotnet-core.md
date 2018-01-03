@@ -143,6 +143,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Blockchain
 * [NBitcoin ★618](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
+* [Nethereum](https://github.com/Nethereum) - Bringing the love of Ethereum to .NET.
 
 ### Build Automation
 * [cake-build ★1479](https://github.com/cake-build/cake) - Cross platform build automation system. [http://cakebuild.net](http://cakebuild.net).
@@ -370,7 +371,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [FluentScheduler ★1103](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
 * [HangfireIO ★3184](https://github.com/HangfireIO/Hangfire) - Easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
 * [LiquidState ★89](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
-* [quartznet](https://github.com/quartznet/quartznet/tree/quartznet-3) - Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
+* [quartznet ★2173](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
 * [stateless ★1881](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
 
 ### SDKs

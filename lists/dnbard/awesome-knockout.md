@@ -43,7 +43,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Router ★64](https://github.com/profiscience/ko-component-router) - Router for single-page apps
 
 ## Custom Bindings
-- [Punches ★247 ⏳1Y](https://github.com/mbest/knockout.punches) - Collection of enhanced binding syntaxes
+- [Punches ★247 ⏳2Y](https://github.com/mbest/knockout.punches) - Collection of enhanced binding syntaxes
 - [Switch Case ★171 ⏳1Y](https://github.com/mbest/knockout-switch-case) - Powerful control flow bindings
 - [Repeat ★132](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler
 - [Table ★89 ⏳2Y](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout

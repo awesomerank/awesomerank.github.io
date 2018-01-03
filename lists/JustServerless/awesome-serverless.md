@@ -1277,7 +1277,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Practical ★8](https://github.com/asantibanez/practical) - Practical ActiveRecord for DynamoDB.
 - [Faceswap ★24](https://github.com/johncmckim/serverless-emoticon-faceswap) - A Serverless Project that overlays an Emoji on a face.
 - [3scale Authorizer](https://github.com/picsoung/awsThreeScale_Authorizer) - Custom Authorizer function for the AWS API Gateway using 3scale for API management.
-- [Slack to OpsGenie Alert Creator ★7](https://github.com/opsgenie/slack-to-opsgenie-alert-creator) - Create alerts from messages sent to a Slack channel.
+- [Slack to OpsGenie Alert Creator ★7 ⏳1Y](https://github.com/opsgenie/slack-to-opsgenie-alert-creator) - Create alerts from messages sent to a Slack channel.
 - [Offset Trump ★4](https://github.com/FLGMwt/offset-trump) - Single page app using Serverless (C# runtime) and S3 site hosting.
 - [CRUD FaunaDB](https://github.com/faunadb/serverless-crud) - CRUD service using FaunaDB.
 - [Log group test ★1](https://github.com/geoffdutton/serverless-loggroup-test) - Service to test the behavior of log groups.

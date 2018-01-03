@@ -456,7 +456,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
 * [relay-skeleton ★121 ⏳1Y](https://github.com/fortruce/relay-skeleton) - React, Relay, GraphQL project skeleton
 * [simple-relay-starter ★154](https://github.com/mhart/simple-relay-starter) - A very simple starter for React Relay using Browserify.
-* [relay-chat ★89](https://github.com/transedward/relay-chat) - an chat example showing Relay with routing and pagination.
+* [relay-chat ★89 ⏳1Y](https://github.com/transedward/relay-chat) - an chat example showing Relay with routing and pagination.
 * [relay-todomvc ★133](https://github.com/taion/relay-todomvc) - Relay TodoMVC with routing.
 * [graphql-express-sqlite ★59 ⏳2Y](https://github.com/mrblueblue/graphql-express-sqlite) - GraphQL server with Sqlite and Express
 * [koa-graphql-relay-example](https://github.com/chentsulin/koa-graphql-relay-example) - Example of [koa-graphql ★468](https://github.com/chentsulin/koa-graphql)

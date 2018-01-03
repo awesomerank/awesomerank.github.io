@@ -58,6 +58,7 @@ Discover more awesome lists at [sindresorhus/awesome ★73813](https://github.co
     - [EoHoneypotBundle ★22 ⏳1Y](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
     - [shockpot ★40 ⏳2Y](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts.
     - [django-admin-honeypot ★407](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access. 
+    - [WebTrap ★2](https://github.com/IllusiveNetworks-Labs/WebTrap) - Designed to create deceptive webpages to deceive and redirect attackers away from real websites.
     - WordPress honeypots
         - [HonnyPotter ★19 ⏳2Y](https://github.com/MartinIngesen/HonnyPotter) - A WordPress login honeypot for collection and analysis of failed login attempts.
         - [HoneyPress ★52 ⏳1Y](https://github.com/dustyfresh/HoneyPress) - python based WordPress honeypot in a docker container.
@@ -149,7 +150,7 @@ Discover more awesome lists at [sindresorhus/awesome ★73813](https://github.co
     - [pnaf ★14](https://github.com/jusafing/pnaf) - Passive Network Audit Framework.
 
 - VM monitoring and tools
-    - [vmscope](http://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf) - Monitoring of VM-based.
+    - [vmscope](https://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf) - Monitoring of VM-based.
     - [vmitools](http://libvmi.com/) - C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
     - [Antivmdetect ★211](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder.
     - [VMCloak ★203](https://github.com/jbremer/vmcloak) - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox.
@@ -217,7 +218,6 @@ Discover more awesome lists at [sindresorhus/awesome ★73813](https://github.co
 
 - Honeypot deployment
     - [Modern Honeynet Network](http://threatstream.github.io/mhn/) - makes deploying and managing secure honeypots extremely simple.
-    - [SurfIDS](http://ids.surfnet.nl/wiki/doku.php) - an open source Distributed Intrusion Detection System based on passive sensors.
 
 - Honeypot extensions to Wireshark
     - [Whireshark Extensions](https://www.honeynet.org/project/WiresharkExtensions) - support applying Snort IDS rules and signatures against pcap files.
@@ -275,6 +275,7 @@ Discover more awesome lists at [sindresorhus/awesome ★73813](https://github.co
     - [Kippo_JunOS ★10 ⏳2Y](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
     - [ssh-honeypotd ★4](https://github.com/sjinks/ssh-honeypotd) - A low-interaction SSH honeypot written in C.
     - [sshesame ★803 ⏳1Y](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
+    - [sshsyrup ★0](https://github.com/mkishere/sshsyrup) - A simple SSH Honeypot with features to capture terminal activity and upload to asciinema.org
 
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
@@ -296,7 +297,7 @@ Discover more awesome lists at [sindresorhus/awesome ★73813](https://github.co
     - [Honeeepi] (https://redmine.honeynet.org/projects/honeeepi/wiki) - Honeeepi is a honeypot sensor on Raspberry Pi which based on customized Raspbian OS.
 
 - File carving
-    - [TestDisk & PhotoRec](http://www.cgsecurity.org/)
+    - [TestDisk & PhotoRec](https://www.cgsecurity.org/)
 
 - Sebek
     - [Sebek](https://projects.honeynet.org/sebek/) - data capture

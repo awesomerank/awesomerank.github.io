@@ -56,10 +56,11 @@ Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list
 
 - [Evernote](https://evernote.com/) – Evernote can basically become your second brain and remember everything for you.
 - [Google Keep](http://www.google.com/keep/) – A nice and simple Note management system tightly integrated with Google products.
-- [OneNote](https://www.onenote.com/) – Very good Note management solution, but best for Windows users.
-- [WorkFlowy](https://workflowy.com/) - Web-based outlining application for nested bulletin lists.
-- [Preserver ★169](https://github.com/hsbalar/preserver) – Notes organizer desktop app based on Electron.
 - [Inkdrop](https://www.inkdrop.info/) – A cross-platform note taking app for Markdown lovers.
+- [OneNote](https://www.onenote.com/) – Very good Note management solution, but best for Windows users.
+- [Preserver ★169](https://github.com/hsbalar/preserver) – Notes organizer desktop app based on Electron.
+- [Standard Notes](https://standardnotes.org/) – A simple and private notes app.
+- [WorkFlowy](https://workflowy.com/) - Web-based outlining application for nested bulletin lists.
 
 ### Task Management
 

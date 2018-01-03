@@ -265,7 +265,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Walt ★150 ⏳4Y](https://github.com/clayallsopp/Walt) - Frictionless, hash-based iOS animations.
 * [AccordionView ★15 ⏳5Y](https://github.com/toamitkumar/AccordionView) - Create and add Accordions to your UIViews.
 * [Motion-wizard ★37](https://github.com/ijpiantanida/motion-wizard) - Gem to create wizard like view controllers in iOS.
-* [Motion-imager ★26 ⏳2Y](https://github.com/OTGApps/motion-imager) - Interactive iOS image viewer that does it all: double tap to zoom, flick to dismiss, et cetera.
+* [Motion-imager ★26 ⏳3Y](https://github.com/OTGApps/motion-imager) - Interactive iOS image viewer that does it all: double tap to zoom, flick to dismiss, et cetera.
 * [Motion Swipe ★11 ⏳1Y](https://github.com/dam13n/motion-swipe) - Tinder-like swipe gem.
 * [Motion-dynamic-type ★6 ⏳3Y](https://github.com/FluffyJack/motion-dynamic-type) - Simplifying even further iOS 7's Dynamic Type.
 * [Indoctrinator ★27 ⏳3Y](https://github.com/ryanlntn/indoctrinator) - Indoctrinator is a RubyMotion gem that provides a Path style tutorial view for iOS applications.

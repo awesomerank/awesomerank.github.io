@@ -264,7 +264,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ## Playground Sets
 *Sets of playgrounds about various topics*
 
-* [Public Extensions ★1](https://github.com/Jasdev/Public-Extension) - A set of useful extensions from [@PublicExtension](https://twitter.com/publicextension). 🌟
+* [Public Extensions ★1 ⏳1Y](https://github.com/Jasdev/Public-Extension) - A set of useful extensions from [@PublicExtension](https://twitter.com/publicextension). 🌟
 * [Parks And Recreation ★67](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds, for fun and for profit. 🌟
 * [URaimo's Playgrounds ★115](https://github.com/uraimo/Swift-Playgrounds) - My playgrounds, various topics.
 * [ManuelCarlos's Playgrouds ★4](https://github.com/manuelCarlos/Swift-Playgrounds) - Various playgrounds.
@@ -290,7 +290,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [SwiftCoin ★19](https://github.com/Thomvis/Swiftcoin) - A simplistic blockchain & cryptocurrency in a playground.
 * [SentimentlySwift ★1](https://github.com/benbahrenburg/SentimentlySwift) - Sentiment analysis in Swift. 
 * [Game Boards ★156 ⏳1Y](https://github.com/joalbright/Gameboard) - Chess, checkers, tic-tac-toe, sudoku and many others in playground. 🌟 ⏳
-* [StarWars Seals ★2 ⏳1Y](https://github.com/jeremyconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews. ⏳
+* [StarWars Seals ★2 ⏳2Y](https://github.com/jeremyconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews. ⏳
 * [SwiftFiles ★30 ⏳1Y](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground. ⏳
 * [Earth photos ★2 ⏳1Y](https://github.com/jtbandes/DSCOVR.playground) - A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟 ⏳
 
