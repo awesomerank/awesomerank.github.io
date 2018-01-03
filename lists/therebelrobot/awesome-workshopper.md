@@ -27,7 +27,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | ------------- | ------------- |
 | [algorithms-101 ★61 ⏳3Y](https://github.com/linclark/algorithms-101) | Introduction to algorithms |
 | [async-you ★72](https://github.com/bulkan/async-you) | Learn to use https://github.com/caolan/async |
-| [bacon-love ★43](https://github.com/mikaelbr/bacon-love) | Functional Reactive Programming and Bacon.js |
+| [bacon-love ★43 ⏳1Y](https://github.com/mikaelbr/bacon-love) | Functional Reactive Programming and Bacon.js |
 | [biohacker ★3](https://github.com/bionode/biohacker) | Gives some usage examples of bionode for bioinformatics |
 | [browserify-adventure](https://github.com/substack/browserify-adventure) | Learn browserify |
 | [bug-clinic ★111](https://github.com/othiym23/bug-clinic) | Learn how to debug Node.js apps |

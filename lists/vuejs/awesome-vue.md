@@ -649,6 +649,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vuethexplore ★3](https://github.com/sc0Vu/vuethexplore) - A simple app explore ethereum blockchain with vuejs.
   - [Fintechers](https://www.fintechers.io) - Fintech focused job board.
   - [Devjournal](https://www.devjournalapp.com) - Collaborative todo list for projects and ideas.
+  - [Bubbleflat](https://bubbleflat.com) - Online platform that helps students and young Professionals find their perfect roommates by searching for people with similar lifestyles, interests, or schools. Laravel & Vuejs
 
 ### Interactive Experiences
 
@@ -804,6 +805,7 @@ Tooltips / popovers
 - [vue-gallery ★48](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
 - [vue-swal ★30](https://github.com/anteriovieira/vue-swal) - A small wrapper for integrating SweetAlert to Vuejs. (Compatible with SSR)
 - [vue-modal-dialogs ★14](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
+- [vue-img-view ★6](https://github.com/la7ender/vue-img-view) - a plugin for Vue.js, you can drag / view / rotate pictures anywhere
 
 ### Parallax
 
@@ -1082,6 +1084,7 @@ Tooltips / popovers
 #### Color Picker
 
  - [vue-color ★719](https://github.com/xiaokaike/vue-color) - Vue Color Pickers for Sketch, Photoshop, Chrome & more.
+ - [vue-swatches ★14](https://github.com/saintplay/vue-swatches) - Help the user picking beautiful colors!
 
 #### Switch
 
@@ -1137,6 +1140,7 @@ Tooltips / popovers
  - [vue-transmit ★111](https://github.com/alexsasharegan/vue-transmit) - A purely Vue.js drag & drop uploader component based on Dropzone.js for Vue 2.0
  - [vue-upload-component ★619](https://github.com/lian-yue/vue-upload-component) - Vue upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory. Supports  Vue >= 2.0
  - [vue-uploader ★228](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
+ - [ic-firebase-uploader ★1](https://github.com/InCuca/ic-firebase-uploader) - A clean multi-file upload component for Firebase storage.
 
 #### Context Menu
 

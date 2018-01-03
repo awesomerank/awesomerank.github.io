@@ -343,7 +343,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jsduck ★1445](https://github.com/senchalabs/jsduck) - API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.
 
 
-
 ## Files
 *Libraries for working with files.*
 
@@ -540,6 +539,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Brain.js ★7947](https://github.com/harthur/brain) - Neural networks in JavaScript.
 * [Mind.js ★1204](https://github.com/stevenmiller888/mind) - A flexible neural network library.
 * [Synaptic.js ★5547](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
+* [deeplearn.js](https://deeplearnjs.org/) - A hardware-accelerated machine intelligence library for the web.
 
 
 ## Browser Detection
@@ -885,6 +885,7 @@ http://www.listjs.com
 * [grid ★3310](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height ★2756](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
 * [survey.js ★758](https://github.com/surveyjs/surveyjs) - JavaScript Survey Engine. It uses JSON for survey metadata and results. http://surveyjs.org/
+* [Array Explorer ★947](https://github.com/sdras/array-explorer) and [Object Explorer](https://sdras.github.io/object-explorer/) - Resources to help figure out what native JavaScript method would be best to use at any given time
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.

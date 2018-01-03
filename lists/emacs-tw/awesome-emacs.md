@@ -440,8 +440,8 @@ External Guides:
 
 *** Scala
 
-    - [[http://ensime.org/editors/emacs/scala-mode/][scala-mode]] - The definitive scala-mode for emacs.
-    - [[http://ensime.org][Ensime]] - ENhanced Scala Interaction Mode for Emacs.
+    - [[http://ensime.github.io//editors/emacs/scala-mode/][scala-mode]] - The definitive scala-mode for emacs.
+    - [[http://ensime.github.io/][Ensime]] - ENhanced Scala Interaction Mode for Emacs.
     - [[https://github.com/hvesalai/sbt-mode][sbt-mode]] - An emacs mode for interacting with scala sbt and projects.
 
 *** Lua
@@ -517,7 +517,7 @@ External Guides:
 
 *** Org-mode
 
-    - [[http://orgmode.org/][Org]] - =[built-in]= Write notes, GTD, authoring, publish and wash dishes.
+    - [[https://orgmode.org/][Org]] - =[built-in]= Write notes, GTD, authoring, publish and wash dishes.
       - [[https://github.com/kelvinh/org-page][org-page]] - A static site generator based on org-mode files.
       - [[https://github.com/coldnew/org-ioslide][org-ioslide]] - Export Org document into Google I/O HTML5 slide.
       - [[https://github.com/sabof/org-bullets][org-bullets]] - Shows org-mode bullets as pretty UTF-8 characters.
@@ -550,8 +550,10 @@ External Guides:
     - [[https://github.com/kaihaosw/eshell-prompt-extras][eshell-prompt-extras]] - Display extra information and color for your eshell prompt.
     - [[https://www.emacswiki.org/emacs/download/multi-term.el][multi-term]] - Managing multiple terminal buffers in Emacs.
     - [[https://github.com/kyagi/shell-pop-el][shell-pop]] - Quickly toggle a shell with one key action.
-    - [[https://github.com/peterwvj/eshell-up][eshell-up]] - Quickly navigate to a specific parent directory in eshell without having to repeatedly typing ~cd ..~
+    - [[https://github.com/peterwvj/eshell-up][eshell-up]] - Quickly navigate to a specific parent directory in eshell without having to repeatedly typing ~cd ..~.
     - [[https://github.com/steckerhalter/emacs-fasd][fasd]] - Emacs integration for the command-line productivity booster fasd.
+    - [[https://github.com/dieggsy/esh-autosuggest/][esh-autosuggest]] - Fish-like history autosuggestions in Eshell.
+    - [[https://github.com/Ambrevar/emacs-fish-completion][fish-completion]] - Fallback on [[http://fishshell.com/][fish shell]] completion for ~M-x shell~ and Eshell.
 
 *** Operating System
 
@@ -790,6 +792,7 @@ External Guides:
    - [[https://github.com/bodil/ohai-emacs][Ohai Emacs]] - The finest hand crafted artisanal emacs.d for your editing pleasure.
    - [[http://emacs-bootstrap.com/][Emacs-Bootstrap]] - Your on-the-fly Emacs development environment!
    - [[https://github.com/jkitchin/scimax][Scimax]] - An Emacs starter kit for scientists and engineers with a focus on Org-Mode.
+   - [[https://github.com/thefrontside/frontmacs][Frontmacs]] - A package-based, web-centric, customizable, awesome-by-default, acceptance-tested Emacs distribution.
 
 ** Noteworthy Configurations
 

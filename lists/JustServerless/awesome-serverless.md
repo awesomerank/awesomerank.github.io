@@ -1720,6 +1720,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [SNS Filter ★4](https://github.com/MechanicalRock/serverless-sns-filter) - Add SNS subscription filters to events.
 - [Reqvalidator ★1](https://github.com/RafPe/serverless-reqvalidator-plugin) - Add request validator to API Gateway methods.
 - [Ephemeral ★23](https://github.com/Accenture/serverless-ephemeral) - Plugin which helps bundling any stateless zipped library to AWS Lambda.
+- [Step Functions Offline ★10](https://github.com/vkkis93/serverless-step-functions-offline) - Emulate step functions locally when developing your Serverless project.
 
 ## Literature / Education
 

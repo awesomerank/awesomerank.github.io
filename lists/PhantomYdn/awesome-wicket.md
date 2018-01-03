@@ -39,8 +39,8 @@ Your contributions are always welcome!
 ## Libraries
 List of libraries and components which can be used in your application
 
-- [wicket-akka ★3 ⏳3Y](https://github.com/l0rdn1kk0n/wicket-akka) - Integration of Akka for Wicket.
-- [wicket-autowire ★11 ⏳1Y](https://github.com/wicket-acc/wicket-autowire) - Makes your life easier by automatic creation of component according to provided annotation.
+- [wicket-akka ★3 ⏳4Y](https://github.com/l0rdn1kk0n/wicket-akka) - Integration of Akka for Wicket.
+- [wicket-autowire ★11 ⏳2Y](https://github.com/wicket-acc/wicket-autowire) - Makes your life easier by automatic creation of component according to provided annotation.
 - [wicket-bootstrap ★275](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket.
 - [wicket-clientside-logging ★16 ⏳1Y](https://github.com/l0rdn1kk0n/wicket-clientside-logging) - Helper library that allows javascript logging on client side, all log messages will be stored on server side too.
 - [wicket-console ★7](https://github.com/PhantomYdn/wicket-console) - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side.

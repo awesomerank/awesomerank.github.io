@@ -822,7 +822,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 
 *Libraries for working with human languages.*
 
-* [dpar ★20 ⏳1Y](https://github.com/danieldk/dpar) - Transition-based statistical dependency parser.
+* [dpar ★20 ⏳2Y](https://github.com/danieldk/dpar) - Transition-based statistical dependency parser.
 * [go-eco ★3 ⏳2Y](https://github.com/ThePaw/go-eco) - Similarity, dissimilarity and distance matrices; diversity, equitability and inequality measures; species richness estimators; coenocline models.
 * [go-i18n ★530](https://github.com/nicksnyder/go-i18n) - Package and an accompanying tool to work with localized text.
 * [go-mystem ★11 ⏳1Y](https://github.com/dveselov/mystem) - CGo bindings to Yandex.Mystem - russian morphology analyzer.

@@ -290,7 +290,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 - [breezBot ★5 ⏳3Y](https://github.com/picsoung/breezBot) - Air quality index bot for Slack using the breezometer API
 - [Lua Slack ★11 ⏳3Y](https://github.com/ConnorVG/Lua-Slack) - A Lua Slack API wrapper
-- [lubot ★14 ⏳2Y](https://github.com/lusis/lubot) - Lua Chatbot running inside OpenResty
+- [lubot ★14 ⏳3Y](https://github.com/lusis/lubot) - Lua Chatbot running inside OpenResty
 - [uberSlackBot ★30 ⏳2Y](https://github.com/picsoung/uberSlackBot) - Get Uber price estimates directly in Slack
 
 ### Matlab

@@ -199,7 +199,7 @@ title: Awesome Rank for alferov/awesome-gulp
 
 ### Caching
 * [gulp-changed ★674](https://github.com/sindresorhus/gulp-changed) - Only pass through changed files.
-* [gulp-cached ★420](https://github.com/contra/gulp-cached) - A simple in-memory file cache.
+* [gulp-cached ★420 ⏳1Y](https://github.com/contra/gulp-cached) - A simple in-memory file cache.
 * [gulp-remember ★141 ⏳1Y](https://github.com/ahaurw01/gulp-remember) - Remember and recall files passed through it.
 * [gulp-newer ★199](https://github.com/tschaub/gulp-newer) - Pass through newer source files only.
 

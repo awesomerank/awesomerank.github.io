@@ -32,6 +32,7 @@ A curated list of awesome niche job boards.
 ## Blockchain
 
 * [Blocktribe](https://blocktribe.com/) - A job board for people working in "blockchain, DLT, Ethereum, Hyperledger, R3, crypto currency and related distributed technologies".
+* [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 
 ## Customer Support
 
@@ -48,7 +49,6 @@ A curated list of awesome niche job boards.
 * [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](http://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
-* [Design Inc.](https://www.designinc.com)
 
 ## DevOps
 
@@ -70,7 +70,7 @@ A curated list of awesome niche job boards.
 
 ### Elixir
 
-* [Elixir Jobs](http://jobs.elixirdose.com/)
+* [Elixir Jobs](https://elixir.career/)
 
 ### Erlang
 

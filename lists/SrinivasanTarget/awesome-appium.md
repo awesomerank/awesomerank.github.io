@@ -27,6 +27,7 @@ Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list
 - [Workshops](#workshops)
 - [Cloud Solutions and Devops](#cloud-solutions-and-devops)
 - [Git Books](#gitbooks)
+- [Test Frameworks](#test-frameworks)
 - [Community](#community)
 - [Tips](#tips)
 
@@ -98,6 +99,9 @@ Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list
 ## Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans.
 - [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - A quick reference book on how to use Appium for automating Android Application using Java - Nishant Verma.
+
+## Test Frameworks
+- [coteafs-appium ★10](https://github.com/WasiqB/coteafs-appium) - A tester friendly Mobile Automation Framework built on top of Appium which supports testing web and native apps for Android, iOS and Windows real or emulator Mobiles and Tablets.
 
 ## Community
 - [Discuss](https://discuss.appium.io)

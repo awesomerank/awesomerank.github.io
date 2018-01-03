@@ -415,7 +415,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CSS3ColorsSwift ★53 ⏳1Y](https://github.com/WorldDownTown/CSS3ColorsSwift) - A UIColor extension with CSS3 Colors name.
 * [DynamicColor ★1746](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors easily.
 * [FlatUIColors ★142](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette.
-* [Google Material Color ★46 ⏳1Y](https://github.com/katopz/google-material-color-swift) - Google Material Color Palette.
+* [Google Material Color ★46 ⏳2Y](https://github.com/katopz/google-material-color-swift) - Google Material Color Palette.
 * [HexColor ★95](https://github.com/artman/HexColor) - Define UIColors as Hex integers.
 * [Hue ★2290](https://github.com/hyperoslo/Hue) - Hue is the all-in-one coloring utility that you'll ever need.
 * [PrettyColors ★147](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
