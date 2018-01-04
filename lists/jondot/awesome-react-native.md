@@ -160,6 +160,7 @@ Content published on the Web.
 Components and native modules.
 
 ### UI
+- [RNParallax ★63](https://github.com/kyaroru/RNParallax)
 - [react-native-typography ★69](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
 - [react-native-paper ★109](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
 - [react-virgin ★1108](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
@@ -703,6 +704,7 @@ Components and native modules.
 - [react-native-device-angles ★9](https://github.com/cristianszwarc/RNDeviceAngles) - Get rotation information in degrees (pitch, yaw, roll) - ios
 - [react-native-passcode-auth ★62](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
 - [react-native-permissions ★518](https://github.com/yonahforst/react-native-permissions) - Check and request all permissions with a single api
+- [react-native-pinch ★69](https://github.com/localz/react-native-pinch) - SSL pinning for react native
 - [react-native-push-notification ★2224](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [react-native-phone-call ★22](https://github.com/tiaanduplessis/react-native-phone-call) - A simple way to initiate a phone call in React Native
 - [react-native-notifications ★757](https://github.com/wix/react-native-notifications) - React native notifications

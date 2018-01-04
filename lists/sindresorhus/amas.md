@@ -132,7 +132,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Nikita Voloboev](https://github.com/nikitavoloboev/ama) - [macOS enthusiast](https://github.com/nikitavoloboev/my-mac-os), [open knowledge](https://github.com/nikitavoloboev/my-notes) evangelist, [writer](https://medium.com/@NikitaVoloboev) and an aspiring web developer.
 - [Sitesh Shrivastava ★0 ⏳1Y](https://github.com/SITZ/ama) - About Technology, Quantitative Finance, Products & Extreme Sports.
 - [Zach Leatherman ★0 ⏳1Y](https://github.com/zachleat/ama) - I have a beard sometimes.
-- [Francis Sunday ★1](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
+- [Francis Sunday ★1 ⏳1Y](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
 - [Travis Northcutt ★0](https://github.com/tnorthcutt/ama) - Husband, dad, nomad, PHP developer.
 - [Olavi Haapala ★1](https://github.com/olpeh/ama) - Web and mobile developer from Finland.
 - [Manu Sunny ★0](https://github.com/manupsunny/ama) - Indian. ThoughtWorker. Backend Java Developer. Android enthusiast.

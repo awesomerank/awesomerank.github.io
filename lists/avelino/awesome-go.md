@@ -1608,7 +1608,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [kubernetes ★29736](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
 * [manssh ★52](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
 * [Moby ★46704](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.
-* [Mora ★228](https://github.com/emicklei/mora) - REST server for accessing MongoDB documents and meta data.
+* [Mora ★228 ⏳1Y](https://github.com/emicklei/mora) - REST server for accessing MongoDB documents and meta data.
 * [ostent ★148](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB.
 * [Packer](https://github.com/mitchellh/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 * [Pewpew ★133](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester.

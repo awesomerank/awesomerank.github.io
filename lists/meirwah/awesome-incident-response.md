@@ -149,9 +149,9 @@ A curated list of tools and resources for security incident response, aimed to h
 * [domfind ★3](https://github.com/diogo-fernan/domfind) - *domfind* is a Python DNS crawler for finding identical domain names under different TLDs.
 * [DumpsterFire ★337](https://github.com/TryCatchHCF/DumpsterFire) - The DumpsterFire Toolset is a modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
 * [Fenrir ★112](https://github.com/Neo23x0/Fenrir) - Fenrir is a simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI
-* [Fileintel ★52](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash
+* [Fileintel ★52 ⏳1Y](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash
 * [Hindsight ★220](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
-* [Hostintel ★94](https://github.com/keithjjones/hostintel) - Pull intelligence per host
+* [Hostintel ★94 ⏳1Y](https://github.com/keithjjones/hostintel) - Pull intelligence per host
 * [imagemounter ★42](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images
 * [Kansa ★417](https://github.com/davehull/Kansa) - Kansa is a modular incident response framework in Powershell
 * [rastrea2r ★83](https://github.com/aboutsecurity/rastrea2r) - allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X

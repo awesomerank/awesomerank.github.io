@@ -1335,7 +1335,7 @@ Most of these are paid services, some have free tiers.
 * [Giphy ★48](https://github.com/heyalexchoi/Giphy-iOS) Giphy API client for iOS in Objective-C.
 * [UberKit ★96 ⏳1Y](https://github.com/sachinkesiraju/UberKit) - A simple, easy-to-use Objective-C wrapper for the Uber API.
 * [InstagramKit ★910](https://github.com/shyambhat/InstagramKit) - Instagram iOS SDK.
-* [DribbbleSDK ★78 ⏳1Y](https://github.com/agilie/dribbble-ios-sdk) - Dribbble iOS SDK.
+* [DribbbleSDK ★78 ⏳2Y](https://github.com/agilie/dribbble-ios-sdk) - Dribbble iOS SDK.
 * [objectiveflickr ★726 ⏳2Y](https://github.com/lukhnos/objectiveflickr) - ObjectiveFlickr, a Flickr API framework for Objective-C.
 * [Easy Social ★130 ⏳1Y](https://github.com/pjebs/EasySocial) - Twitter & Facebook Integration.
 * [das-quadrat ★169](https://github.com/Constantine-Fry/das-quadrat) - A Swift wrapper for Foursquare API. iOS and macOS. :large_orange_diamond:

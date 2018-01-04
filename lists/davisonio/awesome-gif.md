@@ -85,7 +85,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gif-camera ★20 ⏳4Y](https://github.com/FuzzyWobble/GIF-Camera) - create animated GIFs using webcam
 - [Gifline ★56](https://github.com/zehfernandes/gifline) - Chrome extension to put GIFs in your emails
 - [Gifdrop ★36 ⏳1Y](https://github.com/markjaquith/gifdrop) - Create a repository for your collection of gif images
-- [Gh-gif ★21](https://github.com/node-gh/gh-gif) - NodeGH plugin for commenting on pull requests/issues using GIF reactions
+- [Gh-gif ★21 ⏳1Y](https://github.com/node-gh/gh-gif) - NodeGH plugin for commenting on pull requests/issues using GIF reactions
 - [Tty2gif ★141 ⏳2Y](https://github.com/z24/tty2gif) - record scripts and their outputs into both binary and GIF formats
 - [Giftoppr ★36 ⏳4Y](https://github.com/desktoppr/giftoppr) - Sync your favourite GIFs with Dropbox
 - [Gifit ★98](https://github.com/Fauntleroy/GIFit) - Chrome extension to make a GIF from a YouTube video

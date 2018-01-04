@@ -273,7 +273,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 
 ### Service Discovery
 
-* [Docker Grand Ambassador ★192 ⏳2Y](https://github.com/cpuguy83/docker-grand-ambassador) :skull: - This is a fully dynamic docker link ambassador. + [Article](https://docs.docker.com/engine/admin/ambassador_pattern_linking/) by [@cpuguy83][cpuguy83]
+* [Docker Grand Ambassador ★192 ⏳3Y](https://github.com/cpuguy83/docker-grand-ambassador) :skull: - This is a fully dynamic docker link ambassador. + [Article](https://docs.docker.com/engine/admin/ambassador_pattern_linking/) by [@cpuguy83][cpuguy83]
 * [docker-consul ★1011](https://github.com/gliderlabs/docker-consul) by [@progrium][progrium]
 * [etcd ★15819](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery by [@coreOS][coreos]
 * [istio ★4329](https://github.com/istio/istio) - An open platform to connect, manage, and secure microservices by [@IstioMesh](istio)
@@ -446,7 +446,7 @@ Services to securely store your Docker images.
 * [go-dockerclient ★1191](https://github.com/fsouza/go-dockerclient) - Go HTTP client for the Docker remote API by [@fsouza](https://github.com/fsouza/)
 * [Gradle Docker plugin ★67](https://github.com/gesellix/gradle-docker-plugin) - A Docker remote api plugin for Gradle by [@gesellix][gesellix]
 * [libcompose ★472](https://github.com/docker/libcompose) - Go library for Docker Compose.
-* [powerstrip ★311 ⏳1Y](https://github.com/clusterhq/powerstrip) :skull: - A tool for prototyping Docker extensions by [@clusterhq](https://github.com/clusterhq)
+* [powerstrip ★311 ⏳2Y](https://github.com/clusterhq/powerstrip) :skull: - A tool for prototyping Docker extensions by [@clusterhq](https://github.com/clusterhq)
 * [sbt-docker ★515](https://github.com/marcuslonnberg/sbt-docker) - Create Docker images directly from sbt by [@marcuslonnberg](https://github.com/marcuslonnberg)
 * [sbt-docker-compose ★102](https://github.com/Tapad/sbt-docker-compose) - Integrates Docker Compose functionality into sbt by [@kurtkopchik](https://github.com/kurtkopchik/)
 
