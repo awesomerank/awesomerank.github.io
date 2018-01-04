@@ -251,7 +251,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack-reply-shortcut ★2](https://github.com/websharks/slack-reply-shortcut) - Use the "R" shortcut key w/ selected text to easily reply in the web app
 - [slack-stuart ★93](https://github.com/gtracy/slack-stuart) - An extendable bot server for Slack
 - [slack-tableflip ★19 ⏳2Y](https://github.com/josheverett/slack-tableflip) - A tableflip slash command
-- [slack-texts ★17](https://github.com/nishanths/slack-texts) - Receive SMS notifications in Slack using Twilio
+- [slack-texts ★17 ⏳1Y](https://github.com/nishanths/slack-texts) - Receive SMS notifications in Slack using Twilio
 - [Slack-Twitter ★46](https://github.com/sillygwailo/Slack-Twitter) - Node.js middleware to create a reading and writing Twitter client out of Slack
 - [slack-webex-plugin ★17](https://github.com/gsingers/slack-webex-plugin) - Launch a Webex Personal Room or other type of meeting from Slack
 - [slack-yandex-api ★1 ⏳3Y](https://github.com/wearegoat/slack-yandex-api) - Simple server app for Yandex API and Slack integration
@@ -282,7 +282,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [step-slack-notify ★2 ⏳2Y](https://github.com/dimoreira/step-slack-notify) - Send a message to Slack after a build or deploy
 - [strider-slack ★5 ⏳1Y](https://github.com/Strider-CD/strider-slack) - Slack Incoming Webhooks as a Strider-CD plugin
 - [superscript](https://github.com/silentrob/superscript/) - A dialogue engine for creating chat bots
-- [swolebot ★36 ⏳1Y](https://github.com/robinpowered/swolebot) - A Slack bot for keeping your team fit through open pull requests
+- [swolebot ★36 ⏳2Y](https://github.com/robinpowered/swolebot) - A Slack bot for keeping your team fit through open pull requests
 - [terminal-slack ★697](https://github.com/evanyeung/terminal-slack) - Terminal client for Slack
 - [tesla-slack ★18](https://github.com/heikkipora/tesla-slack) - Track your Tesla from Slack
 

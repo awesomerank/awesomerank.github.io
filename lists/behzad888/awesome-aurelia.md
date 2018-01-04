@@ -202,7 +202,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-yt-player ★4 ⏳1Y](https://github.com/genadis/aurelia-yt-player) * Aurelia plugin for Youtube player API
 * [abalmus/aurelia-ace-editor ★5 ⏳1Y](https://github.com/abalmus/aurelia-ace-editor) * Aurelia ace editor plugin
 * [Tseberechts/aurelia-place-picker ★2 ⏳1Y](https://github.com/Tseberechts/aurelia-place-picker) * A place picker inspired by the Autocomplete places with Aurelia
-* [treacherous-aurelia ★2](https://github.com/grofit/treacherous-aurelia) * An Aurelia plugin for the treacherous validation system
+* [treacherous-aurelia ★2 ⏳1Y](https://github.com/grofit/treacherous-aurelia) * An Aurelia plugin for the treacherous validation system
 * [aurelia-filter ★8](https://github.com/SpoonX/aurelia-filter) * A plugin for aurelia to populate search/filter criteria. Works well with aurelia-orm
 * [aurelia-charts ★11](https://github.com/SpoonX/aurelia-charts) * Graphs plugin for aurelia. Supports all libraries
 * [aurelia-view-manager ★9](https://github.com/SpoonX/aurelia-view-manager) * A view manager for aurelia plugins. Add support for overriding views, and multiple frameworks

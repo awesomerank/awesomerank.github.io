@@ -361,7 +361,7 @@ These frameworks make customizing your zsh setup easier.
 * [jenkins-zsh ★3](https://github.com/tomplex/jenkins-zsh) - A jenkins plugin for ZSH, heavily inspired by the excellent jira plugin.
 * [jhipster-oh-my-zsh-plugin ★19](https://github.com/jhipster/jhipster-oh-my-zsh-plugin) - Adds commands for [jHipster](https://jhipster.github.io/).
 * [jira-plus ★3 ⏳3Y](https://github.com/gerges/oh-my-zsh-jira-plus) - Create JIRAs from the command line.
-* [jvm ★2 ⏳2Y](https://github.com/mgryszko/jvm) - Allows selection of JDK on macOS.
+* [jvm ★2 ⏳3Y](https://github.com/mgryszko/jvm) - Allows selection of JDK on macOS.
 * [k](https://github.com/rimraf/k) - Directory listings for zsh with git features.
 * [kill-node ★5](https://github.com/vmattos/kill-node) - zsh plugin for murdering node process families.
 * [kitsunebook.plugin.zsh ★0 ⏳3Y](https://github.com/d12frosted/kitsunebook.plugin.zsh) - KitsuneBook plugin for oh-my-zsh.

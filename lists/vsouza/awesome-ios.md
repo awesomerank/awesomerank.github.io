@@ -487,6 +487,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [swift-algorithm-club ★15389](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations! :large_orange_diamond:
 * [Impeller ★91](https://github.com/mentalfaculty/impeller) - A Distributed Value Store in Swift :large_orange_diamond:
 * [Dispatch ★244](https://github.com/alexdrone/Dispatch) - Multi-store Flux implementation in Swift :large_orange_diamond:
+* [DeepDiff ★189](https://github.com/onmyway133/DeepDiff) - Diff in Swift :large_orange_diamond:
 
 ## Date & Time
 
@@ -855,7 +856,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 #### Image
 * [GPU Image ★16743](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing.
-* [UIImage DSP ★376 ⏳4Y](https://github.com/gdawg/uiimage-dsp) - iOS UIImage processing functions using the vDSP/Accelerate framework for speed.
+* [UIImage DSP ★376 ⏳5Y](https://github.com/gdawg/uiimage-dsp) - iOS UIImage processing functions using the vDSP/Accelerate framework for speed.
 * [AsyncImageView ★943](https://github.com/nicklockwood/AsyncImageView) - Simple extension of UIImageView for loading and displaying images asynchronously without lock up the UI.
 * [SDWebImage ★19066](https://github.com/rs/SDWebImage) - Asynchronous image downloader with cache support with an UIImageView category.
 * [DFImageManager ★1219](https://github.com/kean/DFImageManager) - Modern framework for fetching images from various sources. Zero config yet immense customization and extensibility. Uses NSURLSession.
@@ -938,6 +939,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [TJProfileImage ★29](https://github.com/tejas-ardeshna/TJProfileImage) - Live rendering of componet’s properties in Interface Builder. :large_orange_diamond:
 * [Viewer ★309](https://github.com/bakkenbaeck/Viewer) - Image viewer (or Lightbox) with support for local and remote videos and images :large_orange_diamond:
 * [OverlayComposite ★6](https://github.com/aaronjsutton/OverlayComposite) - An asynchronous, multithreaded, image compositing framework written in Swift. :large_orange_diamond:
+* [MCScratchImageView ★155](https://github.com/Minecodecraft/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below :large_orange_diamond:
 
 #### Media Processing
 * [SwiftOCR ★2967](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift :large_orange_diamond:
@@ -1270,7 +1272,7 @@ Most of these are paid services, some have free tiers.
 * [VueFlux ★126](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture for Swift - Inspired by Vuex and Flux 🔶
 * [RxAnimated ★308](https://github.com/RxSwiftCommunity/RxAnimated) - Animated RxCocoa bindings
 
-## React-Like
+#### React-Like
 * [Render ★1676](https://github.com/alexdrone/Render) - Swift and UIKit a la React. :large_orange_diamond:
 * [Katana ★1643](https://github.com/BendingSpoons/katana-swift) - Swift apps a la React and Redux. :large_orange_diamond:
 * [TemplateKit ★130 ⏳1Y](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces in Swift. :large_orange_diamond:
@@ -2174,7 +2176,7 @@ Most of these are paid services, some have free tiers.
 #### Rating Stars
 * [FloatRatingView ★401](https://github.com/glenyi/FloatRatingView) - Whole, half or floating point ratings control written in Swift :large_orange_diamond:
 * [TTGEmojiRate ★229](https://github.com/zekunyan/TTGEmojiRate) - An emoji-liked rating view for iOS, implemented in Swift. :large_orange_diamond:
-* [StarryStars ★139](https://github.com/peterprokop/StarryStars) - StarryStars is iOS GUI library for displaying and editing ratings :large_orange_diamond:
+* [StarryStars ★139 ⏳1Y](https://github.com/peterprokop/StarryStars) - StarryStars is iOS GUI library for displaying and editing ratings :large_orange_diamond:
 * [Cosmos ★849](https://github.com/evgenyneu/Cosmos) - A star rating control for iOS / Swift :large_orange_diamond:
 * [HCSStarRatingView ★1045](https://github.com/hsousa/HCSStarRatingView) - Simple star rating view for iOS written in Objective-C
 * [MBRateApp ★53](https://github.com/MatiBot/MBRateApp) - A groovy app rate stars screen for iOS written in Swift :large_orange_diamond:
@@ -2354,6 +2356,7 @@ Most of these are paid services, some have free tiers.
 * [ListPlaceholder ★269](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views :large_orange_diamond:
 * [SectionScrubber ★143](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections :large_orange_diamond:
 * [CardsLayout ★281](https://github.com/filletofish/CardsLayout) - Nice card-designed custom collection view layout. 🔶
+* [CollectionKit ★1800](https://github.com/SoySauceLab/CollectionKit) - A modern Swift framework for building reusable data-driven collection components. 🔶
 
 #### Tag
 * [PARTagPicker ★271](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
@@ -2421,7 +2424,7 @@ Most of these are paid services, some have free tiers.
  * [XExtensionItem ★82 ⏳2Y](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions.
  * [ReflectableEnum ★330](https://github.com/fastred/ReflectableEnum) - Reflection for enumerations in Objective-C.
  * [ObjectiveSugar ★2215 ⏳1Y](https://github.com/supermarin/ObjectiveSugar) - ObjectiveC additions for humans. Ruby style.
- * [OpinionatedC ★44 ⏳1Y](https://github.com/leoschweizer/OpinionatedC) - Because Objective-C should have inherited more from Smalltalk.
+ * [OpinionatedC ★44 ⏳2Y](https://github.com/leoschweizer/OpinionatedC) - Because Objective-C should have inherited more from Smalltalk.
  * [SwiftRandom ★471](https://github.com/thellimist/SwiftRandom) - Generator for random data. :large_orange_diamond:
  * [RandomKit ★1264](https://github.com/nvzqz/RandomKit) - Random data generation in Swift. :large_orange_diamond:
  * [YOLOKit ★628 ⏳1Y](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.

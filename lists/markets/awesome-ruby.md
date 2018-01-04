@@ -825,7 +825,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Acts As Commentable ★816 ⏳1Y](https://github.com/jackdempsey/acts_as_commentable) - Provides a single Comment model that can be attached to any model(s) within your app.
   * [Acts As Commentable with Threading ★668](https://github.com/elight/acts_as_commentable_with_threading) - Similar to acts_as_commentable; however, utilizes awesome_nested_set to provide threaded comments.
   * [acts_as_follower ★756](https://github.com/tcocca/acts_as_follower) - Allow any ActiveRecord model to follow any other model.
-  * [ActiveRecord Reputation System ★1343 ⏳1Y](https://github.com/twitter/activerecord-reputation-system) - An Active Record Reputation System for Rails.
+  * [ActiveRecord Reputation System ★1343 ⏳2Y](https://github.com/twitter/activerecord-reputation-system) - An Active Record Reputation System for Rails.
   * [ActsAsTaggableOn ★4166](https://github.com/mbleigh/acts-as-taggable-on) - A tagging plugin for ActiveRecord that allows for custom tagging along dynamic contexts.
   * [Acts As Votable ★1130](https://github.com/ryanto/acts_as_votable) - Allow any ActiveRecord model to be voted on, like/dislike, upvote/downvote, etc.
   * [Merit ★1103](https://github.com/merit-gem/merit) - Adds reputation behavior to Rails apps in the form of Badges, Points, and Rankings for ActiveRecord or Mongoid.

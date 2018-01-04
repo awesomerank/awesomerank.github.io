@@ -143,7 +143,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Opa Programming Language](http://opalang.org/)
   - [Rhine ★580 ⏳2Y](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
   - [Rust Programming Language](http://rust-lang.org) - Originally written in OCaml before bootstrapping.
-  - [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo ★66 ⏳3Y](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
+  - [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo ★66 ⏳4Y](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
   - [tis-interpreter ★391 ⏳1Y](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
   - [Reason](http://facebook.github.io/reason/) - Friendly syntax & toolchain for OCaml by Facebook.
   - [Others](http://caml.inria.fr/cgi-bin/hump.en.cgi?sort=0&browse=88) - Some other compilers implemented in OCaml, quite a few dead now.
@@ -211,24 +211,25 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 - [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) – Compile and execute OCaml code online.
 - [iocaml ★152](https://github.com/andrewray/iocaml) – An OCaml kernel for the IPython notebook.
 - [utop ★384](https://github.com/diml/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
-- [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) — Small ncurses-based API and documentation browser. Provided with ocp-index.
-- [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) — A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
+- [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 - [ghim ★16 ⏳3Y](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
 - [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) – Yeoman generator to scaffold OCaml modules.
 - **Foreign Function Interface**:
   - [ocaml-main-program-in-c ★12](https://github.com/johnwhitington/ocaml-main-program-in-c) – Example build system for making mixed C/Ocaml binaries where the main program is in C.
   - [Modular foreign function bindings](http://openmirage.org/blog/modular-foreign-function-bindings)
-- **Editor Plugins**:
+- **Editor Integration**:
   - [merlin ★762](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
   - [tuareg ★176](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
-  - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml/) — extension that provides OCaml language support for [VSCode ★40060](https://github.com/microsoft/vscode)
-  - [Sublime better ocaml ★14](https://github.com/whitequark/sublime-better-ocaml) — Better OCaml mode for Sublime Text.
+  - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml/) – extension that provides OCaml language support for [VSCode ★40060](https://github.com/microsoft/vscode)
+  - [Sublime better ocaml ★14](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
     - [Sublime text package](https://github.com/def-lkb/sublime-text-merlin)
-  - [ocp-index](http://www.typerex.org/ocp-index.html) — Easy access to the interface information of installed OCaml libraries for editors like Emacs and Vim.
+  - [ocp-index](http://www.typerex.org/ocp-index.html) – Easy access to the interface information of installed OCaml libraries. Provides standalone tools like `ocp-browser` and `ocp-grep`.
+    - [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) – Small ncurses-based API and documentation browser.
+    - [ocp-index-top ★14](https://github.com/reynir/ocp-index-top) – Toplevel directive for looking up documentation using ocp-index.
     - [Sublime text package](https://sublime.wbond.net/packages/OCaml%20Autocompletion)
-  - [ocp-indent](http://www.typerex.org/ocp-indent.html) — Indentation tool for OCaml, to be used from editors like Emacs and Vim.
-    - [Vim interface](https://github.com/def-lkb/ocp-indent-vim).
-- Code coverage
+  - [ocp-indent](http://www.typerex.org/ocp-indent.html) – Indentation tool for OCaml, to be used from editors like Emacs and Vim.
+    - [Vim plugin](https://github.com/def-lkb/ocp-indent-vim).
+- **Code coverage**:
   - [Bisect](http://bisect.x9c.fr/)
   - [Bisect_ppx ★1 ⏳1Y](https://github.com/rleonid/bisect_ppx) a more recent fork of the previous tool.
 
@@ -399,6 +400,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
   - [Nproc ★25 ⏳4Y](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
   - [Parany ★15](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
+  - [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs. 
 
 - **Articles**:
   - [What is the state of OCaml's parallelization abilities?](http://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)

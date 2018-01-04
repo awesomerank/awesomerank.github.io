@@ -50,7 +50,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 * [dropwizard-grpc ★16](https://github.com/msteinhoff/dropwizard-grpc) - use a gRPC server in a Dropwizard service
 * [sqs-dropwizard](https://github.com/bascan/sqs-dropwizard) - Amazon SQS integration
 * [dropwizard-simple-cors ★0](https://github.com/ojacobson/dropwizard-simple-cors) - A Dropwizard bundle to provide simple, sensible CORS support
-* [dropwizard-version-info ★5](https://github.com/palantir/dropwizard-version-info) - A Dropwizard bundle which exposes a version endpoint
+* [dropwizard-version-info ★5 ⏳1Y](https://github.com/palantir/dropwizard-version-info) - A Dropwizard bundle which exposes a version endpoint
 
 ### Authentication
 

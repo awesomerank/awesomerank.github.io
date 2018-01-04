@@ -334,7 +334,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### SaaS API Wrappers
-* [Motionscan ★18 ⏳4Y](https://github.com/jjaffeux/Motionscan) - RubyMotion wrapper around the image recognition SDK of Moodstocks.com.
+* [Motionscan ★18 ⏳5Y](https://github.com/jjaffeux/Motionscan) - RubyMotion wrapper around the image recognition SDK of Moodstocks.com.
 * [Motion-phrase ★11 ⏳1Y](https://github.com/phrase/motion-phrase) - Connect your RubyMotion project with PhraseApp for easy app internationalization. Translatable strings are exported while browsing the app and then manageable through the PhraseApp translation editor.
 * [Purple-monkey ★6 ⏳1Y](https://github.com/hboon/purple-monkey) - Barebones wrapper for working with MailChimp on iOS/macOS using RubyMotion.
 * [Motion-tickspot ★2 ⏳2Y](https://github.com/codelation/motion-tickspot) - RubyMotion wrapper for the http://tickspot.com API that works on iOS and macOS.

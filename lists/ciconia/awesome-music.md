@@ -77,6 +77,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) - A listing and visual comparison of different music fonts.
 * [Frescobaldi ★277](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
 * [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
+* [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (with optional GitHub integration).
 * [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
 * [Inknote ★130 ⏳1Y](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 * [LibMEI ★33](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.

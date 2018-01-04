@@ -1300,7 +1300,7 @@ Tooltips / popovers
  - [vue-waypoint ★55](https://github.com/scaccogatto/vue-waypoint) - Waypoint component for Vue, this is the easiest way to trigger a function when you scroll.
  - [vue-clickaway ★280](https://github.com/simplesmiler/vue-clickaway) - Reusable clickaway directive for reusable Vue.js components.
  - [vue-scrollfire ★15 ⏳1Y](https://github.com/vue-comps/vue-scrollfire) - Fires an event on a specific scroll position.
- - [vue-resize-directive ★102](https://github.com/David-Desmaisons/Vue.resize) - Vue directive to detect resize events with deboucing and throttling capacity.
+ - [vue-resize-directive ★102 ⏳1Y](https://github.com/David-Desmaisons/Vue.resize) - Vue directive to detect resize events with deboucing and throttling capacity.
  - [v-click-outside ★115](https://github.com/ndelvalle/v-click-outside) - Vue directive to react on clicks outside of an element without stopping the event propagation.
  - [vue-outside-events ★15](https://github.com/nchutchind/vue-outside-events) - Vue 2.x directive to help a specified element listen for specific events occurring outside of itself.
  - [vue-selectable ★19](https://github.com/JSmith01/vue-selectable) - Vue 1.x/2.x directive to make items selectable by mouse.

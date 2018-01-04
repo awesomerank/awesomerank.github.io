@@ -1240,7 +1240,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Sonar ★101](https://github.com/thefuntasty/Sonar) - Cool radar-style view.
 * [Spots](https://github.com/hyperoslo) - Spots is a view controller framework that makes your setup and future development blazingly fast.
 * [SpreadsheetView ★2092](https://github.com/kishikawakatsumi/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications.
-* [StarryStars ★139](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
+* [StarryStars ★139 ⏳1Y](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 * [StatefulViewController ★1838](https://github.com/aschuch/StatefulViewController) - Placeholder views based on content, loading, error or empty states.
 * [StepProgressView ★56](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
 * [SurfingRefreshControl ★51 ⏳1Y](https://github.com/peiweichen/SurfingRefreshControl) - Customizable pull-to-refresh control.

@@ -54,6 +54,7 @@ sellers who aren't evil for physical resources.
     - [Intermediate](#intermediate)
     - [Advanced](#advanced)
 - [Library Manager](#library-manager)
+    - [Interfaces to other package managers](#interfaces-to-other-package-managers)
 - [Machine Learning](#machine-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [Network and Internet](#network-and-internet)
@@ -87,17 +88,19 @@ sellers who aren't evil for physical resources.
 - [Utilities](#utilities)
     - [Caching](#caching)
     - [Configuration](#configuration)
-    - [Language extensions](#language-extensions)
-    - [Files and directories](#files-and-directories)
-    - [Git](#git)
+    - [CSV](#csv)
     - [Date and time](#date-and-time)
     - [Data validation](#data-validation)
-    - [CSV](#csv)
     - [Documentation builders](#documentation-builders)
+    - [Files and directories](#files-and-directories)
+    - [Git](#git)
+    - [i18n](#i18n)
+    - [Language extensions](#language-extensions)
+        - [CLOS extensions](#clos-extensions)
+    - [Linting](#linting)
+    - [Logging](#logging)
     - [Markdown](#markdown)
     - [Plotting](#plotting)
-    - [i18n](#i18n)
-    - [Logging](#logging)
     - [Text Processing](#text-processing)
     - [Other](#other)
 - [XML](#xml)
@@ -306,6 +309,11 @@ Library Manager
 * [Quickutil ★59 ⏳1Y](https://github.com/tarballs-are-good/quickutil) - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. [3-clause BSD][15].
 * [Qi ★52](https://github.com/CodyReichert/qi) - A package manager with a traditionnal approach. [BSD][15].
 
+### Interfaces to other package managers
+
+* [cl-brewer ★6 ⏳1Y](https://github.com/can3p/cl-brewer) - Homebrew formula builder for (command line) common lisp applications. Public domain.
+* [qldeb](https://github.com/ralt/qldeb) -  Quicklisp systems to debian packages, along with [deb-packager ★3 ⏳2Y](https://github.com/ralt/deb-packager) (simply create a debian package by defining an s-expression) and an introductory [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html). Both [MIT][200].
+* [ql-to-deb ★15](https://github.com/dimitri/ql-to-deb) -  Update cl-* debian packages from Quicklisp releases. WTFPL.
 
 Machine Learning
 ================
@@ -440,6 +448,7 @@ Third-party APIs
 * [cl-irc](https://www.common-lisp.net/project/cl-irc/) - An IRC client library. [Expat][14].
 * [cl-mediawiki ★12 ⏳1Y](https://github.com/AccelerationNet/cl-mediawiki) - a wrapper around the MediaWiki api. [MIT][200].
 * [cl-openid](https://common-lisp.net/project/cl-openid/darcs/cl-openid/) - An implementation of OpenID. [LLGPL][8].
+* [cl-pushover ★1 ⏳1Y](https://github.com/TeMPOraL/cl-pushover) -  Common Lisp bindings to Pushover. [MIT][200].
 * [cl-ses ★10 ⏳2Y](https://github.com/CodyReichert/cl-ses) - Library for AWS SES. [Expat][14].
 * [humbler ★8](https://github.com/Shinmera/humbler) - A Tumblr API interface. [Artistic License 2.0][51].
 
@@ -615,6 +624,59 @@ Configuration
 * [envy ★28 ⏳1Y](https://github.com/fukamachi/envy) - Configuration switcher. [FreeBSD][39].
 * [py-configparser](https://common-lisp.net/project/py-configparser/) - reads and writes Python's ConfigParser-like configuration files. [MIT][200].
 
+CSV
+---
+
+* [cl-csv ★54](https://github.com/AccelerationNet/cl-csv) - A library for parsing CSV files. [3-clause BSD][15].
+
+
+Date and time
+-------------
+
+* [localtime](https://common-lisp.net/project/local-time/) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD][15].
+* [chronicity ★29](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD_3Clause][15].
+
+Data validation
+---------------
+
+* [ratify ★8](https://github.com/Shinmera/ratify) - A collection of utilities to ratify, validate and parse inputs. [Artistic License 2.0][51].
+
+Documentation builders
+----------------------
+
+* [sphinxcontrib-cldomain ★10](https://github.com/russell/sphinxcontrib-cldomain) -
+  Extending Sphinx to cover Common Lisp. To build documentation with
+  the same ease as sphinx would a Python project. [GPL3][2]
+* [Codex ★52 ⏳1Y](https://github.com/CommonDoc/codex) - A beautiful
+  documentation system for Common Lisp. [MIT][200].
+* [Staple ★11](https://github.com/Shinmera/staple) - a tool to generate
+  documentation pages using an HTML template. Uses the existing
+  README, adds docstrings, crossreferences and links to the
+  CLHS. [ArtisticLicense2.0][51].
+
+Files and directories
+---------------------
+
+* [uiop](http://quickdocs.org/uiop/) and its `pathname` package
+  (replaces [cl-fad](http://weitz.de/cl-fad/)). uiop is part of ASDF3
+  and as thus is shipped in many implementations. [MIT][200].
+* [osicat](https://common-lisp.net/project/osicat/) - A lightweight operating system interface on POSIX-like systems (directory iteration and deletion, environment variables, file permissions, etc) [Expat][14].
+* [pathname-utils ★3](https://github.com/Shinmera/pathname-utils) - A
+  collection of utilities to help with pathname
+  operations. [Artistic License 2.0][51].
+* [archive ★16](https://github.com/froydnj/archive) - a library for reading and creating archive (tar, cpio) files. [BSD_3Clause][15]. A pure Common Lisp replacement for the 'tar' program.
+
+Git
+---
+
+* [legit](https://shinmera.github.io/legit/) - an interface to the Git
+  binary. [Artistic License 2.0][51].
+
+i18n
+----
+
+* [cl-locale ★14 ⏳2Y](https://github.com/fukamachi/cl-locale) - A simple i18n library. [LLGPL][8].
+
 Language extensions
 -------------------
 
@@ -651,53 +713,18 @@ Language extensions
 * [Cells](https://github.com/kennytilton/cells) - "an implementation of the dataflow programming paradigm", or "reactive spreadsheet-like expressiveness for CLOS". Used to build an [algebra learning system](http://tiltontec.com/). With [documentation ★15 ⏳9Y](https://github.com/stefano/cells-doc). Lisp LGPL.
 * [closer-mop](http://cliki.net/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
 
+Linting
+-------
 
-Files and directories
----------------------
+* [sblint ★25](https://github.com/fukamachi/sblint) - a linter for Common
+  Lisp source code using SBCL, suited for Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint)). [BSD_2Clause][17].
 
-* [uiop](http://quickdocs.org/uiop/) and its `pathname` package
-  (replaces [cl-fad](http://weitz.de/cl-fad/)). uiop is part of ASDF3
-  and as thus is shipped in many implementations. [MIT][200].
-* [osicat](https://common-lisp.net/project/osicat/) - A lightweight operating system interface on POSIX-like systems (directory iteration and deletion, environment variables, file permissions, etc) [Expat][14].
-* [pathname-utils ★3](https://github.com/Shinmera/pathname-utils) - A
-  collection of utilities to help with pathname
-  operations. [Artistic License 2.0][51].
-* [archive ★16](https://github.com/froydnj/archive) - a library for reading and creating archive (tar, cpio) files. [BSD_3Clause][15]. A pure Common Lisp replacement for the 'tar' program.
 
-Git
----
+Logging
+-------
 
-* [legit](https://shinmera.github.io/legit/) - an interface to the Git
-  binary. [Artistic License 2.0][51].
+* [log4cl ★72](https://github.com/7max/log4cl) - Logging framework modelled after Log4J. [Apache2.0][89]. Advanced integration with Slime.
 
-Date and time
--------------
-
-* [localtime](https://common-lisp.net/project/local-time/) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD][15].
-* [chronicity ★29](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD_3Clause][15].
-
-Data validation
----------------
-
-* [ratify ★8](https://github.com/Shinmera/ratify) - A collection of utilities to ratify, validate and parse inputs. [Artistic License 2.0][51].
-
-CSV
----
-
-* [cl-csv ★54](https://github.com/AccelerationNet/cl-csv) - A library for parsing CSV files. [3-clause BSD][15].
-
-Documentation builders
-----------------------
-
-* [sphinxcontrib-cldomain ★10](https://github.com/russell/sphinxcontrib-cldomain) -
-  Extending Sphinx to cover Common Lisp. To build documentation with
-  the same ease as sphinx would a Python project. [GPL3][2]
-* [Codex ★52 ⏳1Y](https://github.com/CommonDoc/codex) - A beautiful
-  documentation system for Common Lisp. [MIT][200].
-* [Staple ★11](https://github.com/Shinmera/staple) - a tool to generate
-  documentation pages using an HTML template. Uses the existing
-  README, adds docstrings, crossreferences and links to the
-  CLHS. [ArtisticLicense2.0][51].
 
 Markdown
 --------
@@ -713,17 +740,6 @@ Plotting
 * [eazy-gnuplot ★17 ⏳1Y](https://github.com/guicho271828/eazy-gnuplot) - a
   lispy, structure-less Gnuplot library. With its
   [cookbook](http://guicho271828.github.io/eazy-gnuplot/). [LLGPL][8]
-
-i18n
-----
-
-* [cl-locale ★14 ⏳2Y](https://github.com/fukamachi/cl-locale) - A simple i18n library. [LLGPL][8].
-
-Logging
--------
-
-* [log4cl ★72](https://github.com/7max/log4cl) - Logging framework modelled after Log4J. [Apache2.0][89]. Advanced integration with Slime.
-
 
 Text Processing
 ---------------
@@ -787,6 +803,7 @@ an issue to add a new framework, library or software to the list.
 [14]: http://directory.fsf.org/wiki/License:Expat
 [15]: http://directory.fsf.org/wiki/License:BSD_3Clause
 [16]: https://www.quicklisp.org/beta/
+[17]: https://directory.fsf.org/wiki/License:BSD_2Clause
 [20]: http://www.cs.northwestern.edu/academics/courses/325/readings/graham/graham-notes.html
 [21]: http://www.goodreads.com/book/show/1175730.Object_Oriented_Programming_in_Common_LISP
 [33]: http://directory.fsf.org/wiki/License:Zlib

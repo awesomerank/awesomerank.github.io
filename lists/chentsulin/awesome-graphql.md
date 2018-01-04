@@ -29,6 +29,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [C/C++](#lib-c)
 	- [Go](#lib-go)
 	- [Scala](#lib-scala)
+	- [Perl](#lib-perl)	
 	- [.NET](#lib-dotnet)
 	- [Erlang](#lib-erlang)
 	- [Elixir](#lib-elixir)
@@ -96,6 +97,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
 * [Munich](https://www.meetup.com/GraphQL-Munich/)
 * [Toronto](https://www.meetup.com/GraphQL-Toronto/)
+* [Dallas-Fort Worth](https://www.meetup.com/DFW-GraphQL-Meetup/)
 
 <a name="lib" />
 
@@ -265,6 +267,13 @@ If you want to contribute to this list (please do), send me a pull request.
 * [sangria ★985](https://github.com/sangria-graphql/sangria) - Scala GraphQL client and server library.
 * [sangria-relay ★61](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
 * [graphql-scala ★5 ⏳2Y](https://github.com/hrosenhorn/graphql-scala) - An attempt to get GraphQL going with Scala.
+
+<a name="lib-perl" />
+
+### Perl Libraries
+
+* [Perl6-GraphQL ★12](https://github.com/CurtTilmes/Perl6-GraphQL) - GraphQL for Perl6.
+* [graphql-perl ★18](https://github.com/graphql-perl/graphql-perl) - GraphQL for Perl5.
 
 <a name="lib-dotnet" />
 

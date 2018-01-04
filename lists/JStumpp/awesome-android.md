@@ -160,7 +160,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [LGSnackbar ★31](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
 - [ShimmerLayout ★1130](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications.
 - [CircleProgressBar ★11](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
-
+- [Easy-Signature-Android ★5](https://github.com/smalam119/Easy-Signature-Android) - An simple ui library that provides a plugable signature view.
 #### Paginate
 - [NoPaginate ★70](https://github.com/NoNews/NoPaginate) - Simple Android pagination library
 
