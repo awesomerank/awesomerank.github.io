@@ -535,7 +535,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [vue-storefront ★422](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
 - [fd-vue ★5](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
 - [wildfire ★88](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
-- [Uber Run] (https://github.com/break-enter/uberrun) - Simple automation desktop app to download and organize your tax invoices from Uber.
+- [Uber Run ★7](https://github.com/break-enter/uberrun) - Simple automation desktop app to download and organize your tax invoices from Uber.
+- [vue-chrome-extension-boilerplate ★4](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack
 
 ### Commercial Products
 
@@ -749,6 +750,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-notify-me ★68](https://github.com/PygmySlowLoris/vue-notify-me) - Stackable notification Alert for Vue
  - [vue-noty ★46](https://github.com/renoguyon/vuejs-noty) - A Vue.js 2 wrapper around Noty
  - [vue-notice ★29](https://github.com/nikitamarcius/vue-notice) - Vue.js 2 wrapper around Noty.js with native API
+ - [vue-flash-message ★0](https://github.com/keen-on-design/vue-flash-message) - Simple yet flexible notification plugin
 
 ### Loader
 
@@ -910,6 +912,7 @@ Tooltips / popovers
  - [vue-dplayer](https://github.com/sinchang/vue-dplayer) - A Vue 2.x video player component based on DPlayer.
  - [vue-canvasvideo ★8](https://github.com/chrishurlburt/vue-canvasvideo) - A Vue 2.x component for video backgrounds and autoplay video on iOS/Safari.
  - [vue-music ★8](https://github.com/petsgre/music) - A Vue component base on html5 <audio>.
+ - [vue-audio-visual ★1](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.
 
 ### Infinite Scroll
 
@@ -1125,7 +1128,7 @@ Tooltips / popovers
  - [vue-mce ★11](https://github.com/Eazymov/vue-mce) - tinymce editor component for VueJS.
  - [Vue2-Editor ★467](https://github.com/davidroyer/vue2-editor) - HTML Editor using Vue.js and Quilljs
  - [vue-codemirror ★386](https://github.com/surmon-china/vue-codemirror) - A Codemirror component for Vue2.
- 
+
 #### Image Manipulation
 
 *Edit images*
@@ -1371,6 +1374,10 @@ Tooltips / popovers
 
 - [vue-scroll-behavior ★57](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
 
+*Seamless scrolling*
+
+- [vue-seamless-scroll ★16](https://github.com/chenxuan0000/vue-seamless-scroll) - A simple, Seamless scrolling for Vue.js.
+ 
 ### Routing
 
  - [vue-router ★8059](https://github.com/vuejs/vue-router) - The official router for Vue.js.

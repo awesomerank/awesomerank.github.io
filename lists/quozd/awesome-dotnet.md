@@ -161,7 +161,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MVC.Template ★58](https://github.com/NonFactors/MVC6.Template) - ASP.NET Core MVC project starter template.
 * [ProjectScaffold ★429](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
 * [Serene ★1250](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC application platform designed to simplify and shorten development of data-centric business applications with a service-based architecture. Serene is a starter template to build Serenity applications.
-* [Side-Waffle ★611](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
+* [Side-Waffle ★611 ⏳1Y](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
 * [Template10 ★1275](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
 
 ## Artificial Intelligence
@@ -908,7 +908,7 @@ metadata in media files, including video, audio, and photo formats
 * [Web Essentials ★977 ⏳1Y](https://github.com/madskristensen/WebEssentials2013) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
 * [VsVIM ★2486](https://github.com/jaredpar/VsVim) - VIM in Visual Studio
 * [Nuget Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) - NuGet is the package manager for the Microsoft development platform including .NET
-* [SideWaffle ★611](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013 that makes any web developer's life much easier
+* [SideWaffle ★611 ⏳1Y](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013 that makes any web developer's life much easier
 * [Resharper](http://www.jetbrains.com/resharper/) - Developer Productivity Tool for Visual Studio **[$]**
 * [Refactoring Essentials](http://vsrefactoringessentials.com/) - Open source extension for C# and VB.NET refactorings, including code best practice analyzers.
 * [CodeContracts ★707](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET

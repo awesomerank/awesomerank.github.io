@@ -107,7 +107,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [java.cr ★9 ⏳1Y](https://github.com/ysbaddaden/java.cr) - Java Native Interface (JNI) bindings (and generator)
  * [libnotify.cr ★11 ⏳1Y](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
  * [pcap.cr ★13](https://github.com/maiha/pcap.cr) - Bindings for libpcap
- * [posix ★18](https://github.com/ysbaddaden/posix) - POSIX/C bindings
+ * [posix ★18 ⏳1Y](https://github.com/ysbaddaden/posix) - POSIX/C bindings
  * [soundfile ★1](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
  * [ssh2.cr ★24](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox ★1157](https://github.com/nsf/termbox) (terminal UI library)

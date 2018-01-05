@@ -1156,7 +1156,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [opq ★93](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
 * [pqueue ★95](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
 * [que ★254](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
-* [queuex ★9](https://github.com/falood/queuex) - Priority Queue with multiple backends.
+* [queuex ★9 ⏳1Y](https://github.com/falood/queuex) - Priority Queue with multiple backends.
 * [RBMQ ★12](https://github.com/Nebo15/rbmq) - Simple API for spawning RabbitMQ Producers and Consumers.
 * [stream_weaver](https://hex.pm/packages/stream_weaver) - Library for working with streams.
 * [task_bunny ★109](https://github.com/shinyscorpion/task_bunny) - background processing application written in Elixir and uses RabbitMQ as a messaging backend.

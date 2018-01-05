@@ -693,7 +693,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [spew ★1698](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
 * [stdlog ★43 ⏳2Y](https://github.com/alexcesaro/log) - Stdlog is an object-oriented library providing leveled logging. It is very useful for cron jobs.
 * [tail ★880](https://github.com/hpcloud/tail) - Go package striving to emulate the features of the BSD tail program.
-* [xlog ★1](https://github.com/xfxdev/xlog) - Plugin architecture and flexible log system for Go, with level ctrl, multiple log target and custom log format.
+* [xlog ★1 ⏳1Y](https://github.com/xfxdev/xlog) - Plugin architecture and flexible log system for Go, with level ctrl, multiple log target and custom log format.
 * [xlog ★117](https://github.com/rs/xlog) - Structured logger for `net/context` aware HTTP handlers with flexible dispatching.
 * [zap ★3067](https://github.com/uber-go/zap) - Fast, structured, leveled logging in Go.
 * [zerolog ★585](https://github.com/rs/zerolog) - Zero-allocation JSON logger.
