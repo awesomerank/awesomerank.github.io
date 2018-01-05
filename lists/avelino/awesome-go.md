@@ -7,7 +7,7 @@ title: Awesome Rank for avelino/awesome-go
 	This list is a copy of <a href="https://github.com/avelino/awesome-go">avelino/awesome-go</a> with ranks
 </p>
 ---
-# Awesome Go 
+# Awesome Go
 
 [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) [![Slack Widget](https://s3.eu-central-1.amazonaws.com/ngtuna/join-us-on-slack.png)](http://gophers.slack.com/messages/awesome)
 
@@ -1275,7 +1275,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [filetype ★218](https://github.com/h2non/filetype) - Small package to infer the file type checking the magic numbers signature.
 * [filler ★9](https://github.com/yaronsumel/filler) - small utility to fill structs using "fill" tag.
 * [fzf ★12192](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
-* [generate ★6](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
+* [generate ★6 ⏳1Y](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 * [gentleman ★481](https://github.com/h2non/gentleman) - Full-featured plugin-driven HTTP client library.
 * [git-time-metric ★416](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 * [GJSON ★1932](https://github.com/tidwall/gjson) - Get a JSON value with one line of code.
@@ -1329,6 +1329,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [mc ★617](https://github.com/minio/mc) - Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems.
 * [mergo ★355](https://github.com/imdario/mergo) - Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements.
 * [minify ★1284](https://github.com/tdewolff/minify) - Fast minifiers for HTML, CSS, JS, XML, JSON and SVG file formats.
+* [minquery ★23](https://github.com/icza/minquery) - MongoDB / mgo.v2 query that supports efficient pagination (cursors to continue listing documents where we left off).
 * [mmake ★1311](https://github.com/tj/mmake) - Modern Make.
 * [moldova ★138](https://github.com/StabbyCutyou/moldova) - Utility for generating random data based on an input template.
 * [mp ★21 ⏳1Y](https://github.com/sanbornm/mp) - Simple cli email parser. It currently takes stdin and outputs JSON.
@@ -1354,6 +1355,7 @@ See [go-hardware ★593](https://github.com/rakyll/go-hardware) for a comprehens
 * [retry ★30](https://github.com/kamilsk/retry) - Functional mechanism based on context to perform actions repetitively until successful.
 * [retry-go ★9](https://github.com/rafaeljesus/retry-go) - Retrying made simple and easy for golang.
 * [robustly ★123](https://github.com/VividCortex/robustly) - Runs functions resiliently, catching and restarting panics.
+* [rq ★12](https://github.com/ddo/rq) - A nicer interface for golang stdlib HTTP client.
 * [scheduler ★178](https://github.com/carlescere/scheduler) - Cronjobs scheduling made easy.
 * [sling ★593](https://github.com/dghubble/sling) - Go HTTP requests builder for API clients.
 * [spinner ★398](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options.

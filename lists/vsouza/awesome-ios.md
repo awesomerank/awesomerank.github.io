@@ -555,7 +555,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## Functional Programming
 * [Forbind ★44](https://github.com/ulrikdamm/Forbind) - Functional chaining and promises in Swift. :large_orange_diamond:
-* [Funky ★12 ⏳1Y](https://github.com/brynbellomy/Funky) - Functional programming tools and experiments in Swift. :large_orange_diamond:
+* [Funky ★12 ⏳2Y](https://github.com/brynbellomy/Funky) - Functional programming tools and experiments in Swift. :large_orange_diamond:
 * [LlamaKit ★637 ⏳2Y](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools. :large_orange_diamond:
 * [Oriole ★11 ⏳2Y](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift 2.0 protocol extensions. :large_orange_diamond:[e]
 * [Prelude ★316 ⏳1Y](https://github.com/robrix/Prelude) - Swift µframework of simple functional programming tools. :large_orange_diamond:
@@ -885,7 +885,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [UIImageView-BetterFace-Swift ★444](https://github.com/croath/UIImageView-BetterFace-Swift) - The Swift version of https://github.com/croath/UIImageView-BetterFace :large_orange_diamond:
 * [KFSwiftImageLoader ★340 ⏳1Y](https://github.com/kiavashfaisali/KFSwiftImageLoader) - An extremely high-performance, lightweight, and energy-efficient pure Swift async web image loader with memory and disk caching for iOS and  Watch. :large_orange_diamond:
 * [Toucan ★2071](https://github.com/gavinbunney/Toucan) - Fabulous Image Processing in Swift :large_orange_diamond:
-* [ImageLoaderSwift ★263](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS written in Swift. :large_orange_diamond:
+* [ImageLoaderSwift ★263 ⏳1Y](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS written in Swift. :large_orange_diamond:
 * [ImageScout ★851](https://github.com/kaishin/ImageScout) - A Swift implementation of fastimage. Supports PNG, GIF, and JPEG. :large_orange_diamond:
 * [JLStickerTextView ★354](https://github.com/luiyezheng/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image. :large_orange_diamond:
 * [Agrume ★221](https://github.com/JanGorman/Agrume) - A lemony fresh iOS image viewer written in Swift. :large_orange_diamond:
@@ -1173,7 +1173,7 @@ Most of these are paid services, some have free tiers.
 * [AEXML ★714](https://github.com/tadija/AEXML) - Simple and lightweight XML parser written in Swift. :large_orange_diamond:
 * [Ji ★740](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift. :large_orange_diamond:
 * [Ono ★2204](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & macOS
-* [AlamofireXmlToObjects ★62](https://github.com/evermeer/AlamofireXmlToObjects) - Fetch a XML feed and parse it into objects :large_orange_diamond:
+* [AlamofireXmlToObjects ★62 ⏳1Y](https://github.com/evermeer/AlamofireXmlToObjects) - Fetch a XML feed and parse it into objects :large_orange_diamond:
 * [Fuzi ★632](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift with XPath & CSS support :large_orange_diamond:
 * [Kanna ★1472](https://github.com/tid-kijyun/Kanna)  - Kanna(鉋) is an XML/HTML parser for macOS/iOS. :large_orange_diamond:
 * [SwiftyXMLParser ★151](https://github.com/yahoojapan/SwiftyXMLParser) - Simple XML Parser implemented in Swift :large_orange_diamond:
@@ -1935,6 +1935,7 @@ Most of these are paid services, some have free tiers.
 * [BulletinBoard ★2139](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces on iOS :large_orange_diamond:
 * [Cards ★2146](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views. :large_orange_diamond:
 * [CFNotify ★380](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable views. :large_orange_diamond:
+* [StatusAlert ★217](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow. :large_orange_diamond:
 
 #### Badge
 * [MIBadgeButton ★293](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons. :large_orange_diamond:
@@ -2234,7 +2235,7 @@ Most of these are paid services, some have free tiers.
 * [RevealingSplashView ★807](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash :large_orange_diamond:
 
 #### Stepper
-* [PFStepper ★24](https://github.com/PerfectFreeze/PFStepper) - May be the most elegant stepper you have ever had! :large_orange_diamond:
+* [PFStepper ★24 ⏳1Y](https://github.com/PerfectFreeze/PFStepper) - May be the most elegant stepper you have ever had! :large_orange_diamond:
 * [ValueStepper ★220](https://github.com/BalestraPatrick/ValueStepper) - A Stepper object that displays its value. :large_orange_diamond:
 * [GMStepper ★578](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle. :large_orange_diamond:
 * [barceloneta ★38](https://github.com/arn00s/barceloneta) - The right way to increment/decrement values with a simple gesture on iOS. :large_orange_diamond:

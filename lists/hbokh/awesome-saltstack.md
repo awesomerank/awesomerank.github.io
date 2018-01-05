@@ -81,6 +81,7 @@ A :gem: means **really _awesome / useful_**.
 * [zulily/alkali ★7 ⏳2Y](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon.
 * [zulily/buoyant ★4 ⏳2Y](https://github.com/zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments.
 * [valentin2105/Kubernetes-Saltstack](https://k8s-salt.opsnotice.xyz/) - Saltstack recipe to deploy Kubernetes cluster from scratch.
+* [madflojo/masterless-salt-base ★11](https://github.com/madflojo/masterless-salt-base) - Quickly bootstrap a generic(ish) Ubuntu server. One that is ready to host Docker containers.
 
 ## Books
 

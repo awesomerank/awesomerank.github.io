@@ -228,7 +228,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-mime ★17](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [graphql-crystal ★62](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation
  * [kave ★17](https://github.com/jwoertink/kave) - Kemal API Version Extension
- * [kemal-auth-token ★16](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
+ * [kemal-auth-token ★16 ⏳1Y](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
  * [kemal-monetdb ★0 ⏳1Y](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
  * [kemal-session ★24](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
  * [mime-types.cr ★6](https://github.com/jwaldrip/mime-types.cr) - A port of the Ruby MIME-types library

@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-965-orange.svg) | January 03, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-968-orange.svg) | January 05, 2018
 
 ### Contributing
 
@@ -123,6 +123,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Cryptography](#cryptography)
     - [Keychain](#keychain)
   - [Streaming](#streaming)
+  - [Styling](#styling)
   - [System](#system)
   - [Testing](#testing)
     - [Mock](#mock)
@@ -251,6 +252,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Misc
 *Miscellaneous Swift related projects* 
+* [Beak ★46](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
 * [generator-swift-framework ★33](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project.
 * [InteractivePlayground ★45 ⏳1Y](https://github.com/dasdom/InteractivePlayground) - A playground exploring the interactivity of Xcode 7.3 playgrounds.
 * [MAIKit ★137 ⏳1Y](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X.
@@ -296,7 +298,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Dance ★613](https://github.com/saoudrizwan/Dance) - A radical & elegant animation library built for iOS.
 * [DKChainableAnimationKit ★1810](https://github.com/Draveness/DKChainableAnimationKit) - Easy to read and write chainable animations.
 * [DSGradientProgressView ★248](https://github.com/DholStudio/DSGradientProgressView) - DSGradientProgressView is a simple and customizable animated progress bar.
-* [Ease ★590](https://github.com/roberthein/Ease) - Animate everything with Ease
+* [Ease ★590](https://github.com/roberthein/Ease) - Animate everything with Ease.
 * [EasyAnimation ★2513](https://github.com/icanzilb/EasyAnimation) - A library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.
 * [FlightAnimator ★562](https://github.com/AntonTheDev/FlightAnimator) - Natural Blocks Based Core Animation Framework.
 * [Gemini ★2061](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
@@ -568,7 +570,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *If you prefer to manage XML data formatted entries, here are some helpful libs* [back to top](#readme) 
 
 * [AEXML ★714](https://github.com/tadija/AEXML) - xml wrapper.
-* [AlamofireXmlToObjects ★62](https://github.com/evermeer/AlamofireXmlToObjects) - An Alamofire extension for fetching an XML feed and parsing it into objects.
+* [AlamofireXmlToObjects ★62 ⏳1Y](https://github.com/evermeer/AlamofireXmlToObjects) - An Alamofire extension for fetching an XML feed and parsing it into objects.
 * [CheatyXML ★15](https://github.com/lobodart/CheatyXML) - A powerful framework designed to manage XML easily.
 * [SwiftyXML ★21](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 * [SWXMLHash ★893](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing.
@@ -782,7 +784,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [gifu ★1885](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
 * [GPUImage 2 ★3458](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
 * [HanekeSwift ★4574](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS with extra love for images.
-* [ImageLoader ★263](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS.
+* [ImageLoader ★263 ⏳1Y](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS.
 * [ImageScout ★851](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG.
 * [ImageViewer ★1626](https://github.com/MailOnline/ImageViewer) - An image viewer à la Twitter
 * [JLStickerTextView ★354](https://github.com/luiyezheng/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
@@ -791,7 +793,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [LetterAvatarKit ★48](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
 * [Lightbox ★535](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app.
 * [MapleBacon ★197](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
-* [MCScratchImageView ★155](https://github.com/Minecodecraft/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below
+* [MCScratchImageView ★155](https://github.com/Minecodecraft/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
 * [Misen ★120](https://github.com/tasanobu/Misen) - A script to support using Xcode Asset Catalog.
 * [Moa ★268](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 * [Nuke ★2452](https://github.com/kean/Nuke) - Advanced framework for loading, caching, processing, displaying and preheating images.
@@ -936,7 +938,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Alamofire ★26259](https://github.com/Alamofire/Alamofire) :penguin: - Elegant networking.
 * [APIKit ★1311](https://github.com/ishkawa/APIKit) - Library for building type-safe web API client.
 * [BigBrother ★455 ⏳1Y](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
-* [Ciao ★21](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS(Bonjour, Zeroconf)
+* [Ciao ★21](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).
 * [Conduit ★21](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
 * [Dratini ★35](https://github.com/kevin0571/Dratini) - A neat network layer.
 * [Heimdallr.swift ★452](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
@@ -1077,6 +1079,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Live ★1950](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
+
+### Styling
+[back to top](#readme) 
+
+* [Stylist ★81](https://github.com/yonaskolb/Stylist) - Define UI styles in a hot-loadable external yaml or json file.
 
 ### System
 [back to top](#readme) 
@@ -1233,7 +1240,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SectionedSlider ★150](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 * [SelectionDialog ★76](https://github.com/kciter/SelectionDialog) - Simple selection dialog.
 * [ShadowView ★229](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
-* [Shiny ★280](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash)
+* [Shiny ★280](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
 * [SkeletonView ★2888](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 * [SKPhotoBrowser ★1411](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers.
 * [SMSwipeableTabView ★28](https://github.com/smahajan28/SMSwipeableTabView) - Fully customizable control which is mixture of UIPageViewController and Scrollable Tab Bar.
@@ -1271,7 +1278,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [GoogleWearAlert ★444 ⏳1Y](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [GSMessage ★268](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
 * [Hokusai ★383](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
-* [HYAlertController ★56](https://github.com/castial/HYAlertController) - A simple and minimalist iOS AlertController.
+* [HYAlertController ★56 ⏳1Y](https://github.com/castial/HYAlertController) - A simple and minimalist iOS AlertController.
 * [Jelly ★1441](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 * [Kamagari ★75](https://github.com/tasanobu/Kamagari) - Simple UIAlertController builder class.
 * [KRAlertController ★35](https://github.com/krimpedance/KRAlertController) - A beautiful alert controller for your iOS.
@@ -1280,6 +1287,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NotificationBanner ★1525](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
 * [PMAlertController ★1697](https://github.com/Codeido/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
 * [SCLAlertView ★4127](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
+* [StatusAlert ★217](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
 * [SweetAlert ★1779](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [Swift-Prompts ★714](https://github.com/GabrielAlva/Swift-Prompts) - Design custom prompts with a great scope of options to choose from.
 * [SwiftMessages ★2728](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS.

@@ -206,7 +206,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [Precept ★428](https://github.com/CoNarrative/precept) - A declarative programming framework.
 - [re-frame ★2881](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [Tenzing](http://martinklepsch.github.io/tenzing/) – A ClojureScript template with no backend that uses Boot.
-- [WebFUI ★228 ⏳4Y](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
+- [WebFUI ★228 ⏳5Y](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
 
 
 ### WebSockets

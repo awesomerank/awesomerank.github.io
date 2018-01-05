@@ -1252,7 +1252,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [S3 CRUD ★33 ⏳1Y](https://github.com/tscanlin/serverless-s3-crud) - Serverless CRUD service using S3.
 - [Santa serverless](https://github.com/santaswap/users-serverless) - Sample service which showcases CI / CD usage.
 - [Learn Serverless ★2](https://github.com/WendySanarwanto/learn-serverless) - Collection of Serverless AWS Lambda samples based on Serverless's official publications.
-- [CloudWatch RDS Custom Metrics ★11](https://github.com/AndrewFarley/serverless-cloudwatch-rds-custom-metrics) - Serverless MySQL RDS Data Collection script to push Custom Metrics to CloudWatch on AWS.
+- [CloudWatch RDS Custom Metrics ★11 ⏳1Y](https://github.com/AndrewFarley/serverless-cloudwatch-rds-custom-metrics) - Serverless MySQL RDS Data Collection script to push Custom Metrics to CloudWatch on AWS.
 - [Clouden Xmas](https://github.com/cloudenoy/clouden-xmas) - Serverless Project which uses IoT, MQTT and more.
 - [Hello Retail ★159](https://github.com/Nordstrom/hello-retail) - Project with stream processing.
 - [Slack app ★76 ⏳1Y](https://github.com/johnagan/serverless-slack-app) - Slack App Boilerplate with OAuth and Bot actions.
@@ -1581,7 +1581,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Enable API logs ★6](https://github.com/paulSambolin/serverless-enable-api-logs) - Enables Coudwatch logging for API Gateway events.
 - [Containerless ★32](https://github.com/Reckon-Limited/containerless) - Plugin for configuring ECS deployment.
 - [Swagger ★14](https://github.com/Reckon-Limited/serverless_swagger) - Configure serverless functions from swagger definition.
-- [Plugin scripts ★20](https://github.com/mvila/serverless-plugin-scripts) - Adds scripting capabilities to the Serverless Framework.
+- [Plugin scripts ★20 ⏳1Y](https://github.com/mvila/serverless-plugin-scripts) - Adds scripting capabilities to the Serverless Framework.
 - [Bind deployment id ★14](https://github.com/jacob-meacham/serverless-plugin-bind-deployment-id) - Bind the randomly generated deployment resource to your custom resources.
 - [CoffeeScript ★4](https://github.com/duanefields/serverless-coffeescript) - Quick and dirty plugin to compile CoffeeScript files.
 - [GraphiQL ★36](https://github.com/bencooling/serverless-plugin-graphiql) - Plugin to run a local HTTP server for GraphiQL and your GraphQL handler.

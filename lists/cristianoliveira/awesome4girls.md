@@ -74,7 +74,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Js-Girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
 
-  - [Js4Girls](http://webschool.io/js4girls/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+  - [Js4Girls ★98 ⏳1Y](https://github.com/Webschool-io/js4girls) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     A Brazilian initiative to provide free javascript classes to women in a male-free environment.
 
@@ -529,6 +529,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Women in Tech](http://www.womenintechnology.co.uk/)
 
     Women in Technology is a commercial organization committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
+
+  - [Women who hack](http://www.womenwhohack.co/)
+
+    WomenHack is a community that empowers women in tech through events, jobs, and reviews and aims at creating a more inclusive and diverse workplace for all. Our diversity recruiting events targets some of the most talented women in tech from respective local communities.
 
 ### Organisation toolkits
 ([Go to top](#awesome4girls---))

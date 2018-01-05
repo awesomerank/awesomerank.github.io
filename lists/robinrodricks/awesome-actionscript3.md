@@ -377,7 +377,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### JSON
 
-* [Actionjson ★133 ⏳5Y](https://github.com/mherkender/actionjson) - Faster, more advanced ActionScript 3 JSON library.
+* [Actionjson ★133 ⏳6Y](https://github.com/mherkender/actionjson) - Faster, more advanced ActionScript 3 JSON library.
 * [Jameson ★14 ⏳6Y](https://github.com/mattupstate/jameson) - JSON Document Object Mapper.
 * [Serialkiller ★4 ⏳7Y](https://github.com/benbjohnson/serialkiller) - JSON & XML serialization library.
 * [JsonMapper ★2 ⏳3Y](https://github.com/kemsky/JsonMapper) - Typed JSON parser.
@@ -560,7 +560,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Performance Primitives ★23 ⏳5Y](https://github.com/martinkallman/performance-as3) - High-performance math modeled on the Intel Performance Primitives.
 * [Zexpression ★9 ⏳3Y](https://github.com/Xorcerer/zexpression) - Parse and evalate math expressions with functions and variables.
 * [FlexibleMatrix ★2 ⏳7Y](https://github.com/Lukx/FlexibleMatrix) - A multi purpose Matrix class.
-* [AS3eval](http://eval.hurlant.com/) - Packages the Tamarin ESC compiler to work within Flash Player. ([alternate ★11 ⏳5Y](https://github.com/SimonRichardson/as3-eval)).
+* [AS3eval](http://eval.hurlant.com/) - Packages the Tamarin ESC compiler to work within Flash Player. ([alternate ★11 ⏳6Y](https://github.com/SimonRichardson/as3-eval)).
 * [FlashFormulaEditor ★15 ⏳5Y](https://github.com/zasdfgbnm/FlashFormulaEditor) - Formula editor made in Adobe Flex.
 
 #### Text

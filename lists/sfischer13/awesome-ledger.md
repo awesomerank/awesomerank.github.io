@@ -59,7 +59,7 @@ You might also like [awesome-beancount ★66 ⏳1Y](https://github.com/wzyboy/aw
 ## Tools
 
 - [ledgerhelpers ★35](https://github.com/Rudd-O/ledgerhelpers) - Collection of helper programs.
-- [node-ledger-web ★95](https://github.com/slashdotdash/node-ledger-web) - Web front-end to Ledger data.
+- [node-ledger-web ★95 ⏳1Y](https://github.com/slashdotdash/node-ledger-web) - Web front-end to Ledger data.
 
 ## Social
 

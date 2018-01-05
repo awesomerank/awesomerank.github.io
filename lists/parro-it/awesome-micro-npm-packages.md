@@ -71,7 +71,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 * [pretty-ms ★249](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
 * [hirestime ★5](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
-* [periods ★2 ⏳2Y](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds.
+* [periods ★2 ⏳3Y](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds.
 * [fecha ★1265](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing.
 * [akamai-time-reference ★0 ⏳1Y](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
 * [timeago.js ★2941](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement.

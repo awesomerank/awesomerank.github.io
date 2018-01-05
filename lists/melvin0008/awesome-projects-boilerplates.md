@@ -81,7 +81,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [React Isomorphic Starterkit ★2334](https://github.com/RickWong/react-isomorphic-starterkit) Isomorphic starterkit with server-side React rendering having many features
     - [Coffee React Quickstart  ★255 ⏳1Y](https://github.com/KyleAMathews/coffee-react-quickstart) Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
     - [Flask React Boilerplate ★292 ⏳1Y](https://github.com/alexkuz/flask-react-boilerplate) Flask and react Boilerplate
-    - [Boilerplate Webpack React ★46 ⏳1Y](https://github.com/tcoopman/boilerplate-webpack-react) Boilerplate project for Reactjs with webpack, gulp and stylus
+    - [Boilerplate Webpack React ★46 ⏳2Y](https://github.com/tcoopman/boilerplate-webpack-react) Boilerplate project for Reactjs with webpack, gulp and stylus
     - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
     - [React Redux Universal Hot Example ★10699](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
     - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
@@ -133,7 +133,7 @@ Curated list of boilerplates and templates to enhance productivity.
 *Boilerplates and templates for Ruby*
 
 - [AngularJS Rails Templates ★576](https://github.com/pitr/angular-rails-templates) Rails and Angular Tempate.  
-- [AngularJS Sinatra Bootstrap ★13 ⏳4Y](https://github.com/dannolan/angularjs-sinatra-bootstrap-template) Angular Sinatra Bootstrap template.
+- [AngularJS Sinatra Bootstrap ★13 ⏳5Y](https://github.com/dannolan/angularjs-sinatra-bootstrap-template) Angular Sinatra Bootstrap template.
 - [Rails Composer](http://railsapps.github.io/rails-composer/) Use Rails Composer to generate any of the example applications from the RailsApps project.
 - [Rails Bootstrap ★483](https://github.com/RailsApps/rails-bootstrap) Starter App for Rails and Bootstrap
 

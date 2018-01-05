@@ -440,7 +440,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [resque-slack ★14 ⏳1Y](https://github.com/julienXX/resque-slack) - Post failed Rescue jobs notifications in a Slack channel
 - [semaphore-to-slack ★1 ⏳3Y](https://github.com/flevour/semaphore-to-slack) - Post Semaphore status messages to Slack
 - [slack-gamebot ★93](https://github.com/dblock/slack-gamebot) - A game bot for Slack
-- [slack\_notifier ★7 ⏳3Y](https://github.com/nacyot/slack_notifier) - Send notifications to Slack
+- [slack\_notifier ★7 ⏳4Y](https://github.com/nacyot/slack_notifier) - Send notifications to Slack
 - [slack-notifier ★1075](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack
 - [slack-notify ★90 ⏳2Y](https://github.com/sosedoff/slack-notify) - Send notifications to Slack
 - [slack-portals ★7 ⏳3Y](https://github.com/atomic-app/slack-portals) - Link two different companies' Slacks together through a common channel

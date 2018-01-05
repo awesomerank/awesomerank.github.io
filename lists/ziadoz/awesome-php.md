@@ -503,7 +503,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Elephant.io ★960](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 * [Evenement ★585](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Event ★260 ⏳1Y](https://github.com/thephpleague/event) - An event library with a focus on domain events.
-* [Hoa EventSource ★72](https://github.com/hoaproject/Eventsource) - An event source library.
+* [Hoa EventSource ★72 ⏳1Y](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Hoa WebSocket ★381](https://github.com/hoaproject/Websocket) - Another web socket library.
 * [Prooph Event Store ★278](https://github.com/prooph/event-store) - An event source component to persist event messages
 * [Ratchet ★3892](https://github.com/ratchetphp/Ratchet) - A web socket library.

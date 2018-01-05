@@ -281,7 +281,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [ascii-charts ★217 ⏳1Y](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
 - [progress](https://github.com/tj/node-progress) - Flexible ascii progress bar.
 - [insight ★392](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
-- [cli-cursor ★32](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
+- [cli-cursor ★32 ⏳1Y](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
 - [columnify ★262](https://github.com/timoxley/columnify) - Create text-based columns suitable for console output. Supports cell wrapping.
 - [cli-columns ★8](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
 - [cfonts ★229](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
