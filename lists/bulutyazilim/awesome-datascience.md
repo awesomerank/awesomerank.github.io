@@ -511,12 +511,12 @@ Quick Start
 ## Other Awesome Lists
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness) list.
- - [Awesome Machine Learning ★28131](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
+ - [Awesome Machine Learning ★29088](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
  - [lists ★4644](https://github.com/jnv/lists)
  - [awesome-dataviz ★1419](https://github.com/fasouto/awesome-dataviz)
- - [awesome-python ★42063](https://github.com/vinta/awesome-python)
+ - [awesome-python ★43469](https://github.com/vinta/awesome-python)
  - [Data Science IPython Notebooks. ★11139](https://github.com/donnemartin/data-science-ipython-notebooks)
- - [awesome-r ★2562](https://github.com/qinwf/awesome-R)
+ - [awesome-r ★2631](https://github.com/qinwf/awesome-R)
  - [awesome-datasets ★21679](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
  - [Awesome Data Science Ideas ★354](https://github.com/JosPolfliet/awesome-datascience-ideas)

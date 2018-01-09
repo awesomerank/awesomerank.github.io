@@ -16,7 +16,7 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP ★17326](https://github.com/ziadoz/awesome-php)
+- [Awesome PHP ★17604](https://github.com/ziadoz/awesome-php)
 - [Awesome Awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -362,7 +362,7 @@ Additional lists you might find useful:
 ## Templating
 *Plugins for templating and lexing.*
 
-- [Address plugin ★0](https://github.com/drmonkeyninja/cakephp-address) - An address helper that outputs a marked up address.
+- [Address plugin ★0 ⏳1Y](https://github.com/drmonkeyninja/cakephp-address) - An address helper that outputs a marked up address.
 - [Bake plugin ★47](https://github.com/cakephp/bake) - Provides code generation functionality.
 - [Bootstrap plugin ★31](https://github.com/elboletaire/twbs-cake-plugin) - A Bootstrap 3 plugin with support for LESS.
 - [BootstrapUI plugin ★238](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
@@ -371,7 +371,7 @@ Additional lists you might find useful:
 - [CommonMark plugin ★7 ⏳2Y](https://github.com/gourmet/common-mark) - Adds [CommonMark](http://commonmark.org) (markdown) support to models and views.
 - [CsvView plugin ★130](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 - [Feed plugin ★9](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
-- [InlineCss plugin ★6](https://github.com/drmonkeyninja/cakephp-inline-css) - A plugin to convert HTML style blocks to inline CSS on a View template (intended for use with email templates).
+- [InlineCss plugin ★6 ⏳1Y](https://github.com/drmonkeyninja/cakephp-inline-css) - A plugin to convert HTML style blocks to inline CSS on a View template (intended for use with email templates).
 - [JadeView plugin](https://github.com/clthck/cakephp-jade) - Jade template engine plugin.
 - [Liquid plugin ★3 ⏳1Y](https://github.com/gourmet/liquid) - A plugin to use the Liquid templating language for views.
 - [Meta plugin ★5](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
@@ -394,7 +394,7 @@ Additional lists you might find useful:
 ## Third Party APIs
 *Plugins for accessing third party APIs.*
 
-- [CakeTmdb plugin ★3](https://github.com/drmonkeyninja/cakephp-tmdb) - The Movie Database (TMDB) API integration.
+- [CakeTmdb plugin ★3 ⏳1Y](https://github.com/drmonkeyninja/cakephp-tmdb) - The Movie Database (TMDB) API integration.
 - [GitHub plugin](https://github.com/cvo-technologies/cakephp-github) - Allows access to the GitHub REST APIs using the [Webservice ★58](https://github.com/UseMuffin/Webservice) ORM.
 - [Ratchet plugin ★43](https://github.com/WyriHaximus/Ratchet) - Brings the Ratchet websocket package to CakePHP.
 - [Salesforce plugin ★3](https://github.com/voycey/cakephp-salesforce) - Allows use of CakePHP's ORM to Query and Interact with Salesforce Enterprise Instances.

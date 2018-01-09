@@ -150,13 +150,13 @@ Run `brew cask install quicklookapk` or [download manually](https://github.com/h
 [![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QuickLookAPK.png) ★63](https://github.com/hezi/QuickLookAPK)
 
 
-### [quicklook-pat ★9](https://github.com/pixelrowdies/quicklook-pat)
+### [quicklook-pat ★9 ⏳1Y](https://github.com/pixelrowdies/quicklook-pat)
 
 > Preview Adobe Photoshop pattern files
 
 Run `brew cask install quicklook-pat` or [download manually](https://github.com/pixelrowdies/quicklook-pat/releases)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/quicklook-pat.png) ★9](https://github.com/pixelrowdies/quicklook-pat)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/quicklook-pat.png) ★9 ⏳1Y](https://github.com/pixelrowdies/quicklook-pat)
 
 
 ## License

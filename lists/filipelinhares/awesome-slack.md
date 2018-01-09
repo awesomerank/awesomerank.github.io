@@ -46,7 +46,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
 - [Kazan Developers](https://devkzn.slack.com/)
 - [Polish developers](http://slackin.devstyle.pl/)
-- [Spanish-speaking developer communities list ★51](https://github.com/esebastian/awesome-spanish-slack-dev-groups)
+- [Spanish-speaking developer communities list ★52](https://github.com/esebastian/awesome-spanish-slack-dev-groups)
 - [Ruby Turkey Community](https://rubytr.herokuapp.com/)
 
 ## Design

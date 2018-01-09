@@ -11,7 +11,7 @@ title: Awesome Rank for jondot/awesome-devenv
 
 A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 
-Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in turn inspired by [awesome-python ★42063](https://github.com/vinta/awesome-python).
+Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in turn inspired by [awesome-python ★43469](https://github.com/vinta/awesome-python).
 
 ### Contributing
 
@@ -69,7 +69,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [phantomas ★2046](https://github.com/macbre/phantomas) - website perf evaluation tool
 * [siege](http://www.joedog.org/siege-home/)
-* [Vegeta ★6751](https://github.com/tsenart/vegeta)
+* [Vegeta ★6881](https://github.com/tsenart/vegeta)
 * [wrk ★14227](https://github.com/wg/wrk)
 * [redis-faina](https://github.com/Instagram/redis-faina) Instagram's Redis counter/timing stats based on the MONITOR command
 
@@ -160,7 +160,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [git-secret ★693](https://github.com/sobolevn/git-secret) - A bash-tool to store your private data inside a git repository.
 * [git-semver ★125](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 * [git-sweep ★1667 ⏳1Y](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
-* [git-up ★2729](https://github.com/aanand/git-up) - a better 'git pull'
+* [git-up ★2726](https://github.com/aanand/git-up) - a better 'git pull'
 * [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
 * [scm_breeze](https://github.com/ndbroadbent/scm_breeze) Streamline your git workflow
 * [tig](http://jonas.nitro.dk/tig/) - an ncurses-based text-mode interface for git
@@ -179,7 +179,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for orchestrating awesome development environments*
 
 * [azk ★836](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
-* [Nanobox ★1106](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
+* [Nanobox ★1129](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
 ## Presentation
 *Tools for presenting your work*
@@ -211,7 +211,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [ack](https://github.com/petdance/ack2) - the Perl based
   better-than-grep tool.
 * [ag ★14002](https://github.com/ggreer/the_silver_searcher) - A C based code-searching tool similar to ack, but faster
-* [peco ★4236](https://github.com/peco/peco) - interactive filtering, like interactive Grep
+* [peco ★4294](https://github.com/peco/peco) - interactive filtering, like interactive Grep
 
 
 ## Terminal
@@ -237,7 +237,7 @@ to `/home/Users/yourself/projects`.
 * [fswatch](https://github.com/alandipert/fswatch) - a watch tool which
   will emit FS events and you can run commands on demand with. Note -
 `fswatch-run` too.
-* [guard ★5480](https://github.com/guard/guard) - FS watch tool with a huge ecosystem of plugins
+* [guard ★5490](https://github.com/guard/guard) - FS watch tool with a huge ecosystem of plugins
 * [LiveReload](http://livereload.com/) - FS watch and preprocessor as a desktop app for `/OSX/` and `/WIN/` with complementary browser extensions
   * [guard-livereload ★1944 ⏳1Y](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions
 * [watchman ★6103](https://github.com/facebook/watchman) - Facebook's better

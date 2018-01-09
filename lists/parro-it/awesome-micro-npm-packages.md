@@ -45,7 +45,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [unordered-array-remove ★105](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
 * [array-swap ★2 ⏳1Y](https://github.com/michaelzoidl/swap-array) - Swap position of two items in an array.
 * [mirrarray ★2](https://github.com/johnwquarles/mirrarray) - Creates a keymirror object from an array of valid keys.
-* [group-array ★18](https://github.com/doowb/group-array) - Group array of objects into lists.
+* [group-array ★21](https://github.com/doowb/group-array) - Group array of objects into lists.
 
 ### String
 
@@ -76,7 +76,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [akamai-time-reference ★0 ⏳1Y](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
 * [timeago.js ★2941](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement.
 * [count-days-in-month ★1 ⏳1Y](https://github.com/shinnn/count-days-in-month) - Get the number of days in a given month.
-* [time-stamp ★36](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
+* [time-stamp ★41](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
 
 ### Object
 
@@ -143,47 +143,47 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [du ★20](https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb.
 * [file-size ★200 ⏳2Y](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies.
 * [tmp ★340](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js.
-* [fs-promise ★178](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
+* [fs-promise ★176](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
 
 ### Browser
 
-* [delegate ★85](https://github.com/zenorocha/delegate) - Lightweight event delegation.
+* [delegate ★91](https://github.com/zenorocha/delegate) - Lightweight event delegation.
 * [insert-css ★186](https://github.com/substack/insert-css) - Insert a string of css into the head
 * [dom-element-value ★3 ⏳1Y](https://github.com/crysalead-js/dom-element-value) - DOM element value getter/setter.
-* [image-promise ★37](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
-* [get-media-size ★5 ⏳1Y](https://github.com/bfred-it/get-media-size) - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
+* [image-promise ★43](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
+* [get-media-size ★6 ⏳1Y](https://github.com/bfred-it/get-media-size) - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
 * [document-ready ★35](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
 
 ### Semver
 
 * [semver ★2020](https://github.com/npm/node-semver) - The semantic version parser used by npm.
-* [semver-max ★2 ⏳2Y](https://github.com/eush77/semver-max) - Find maximum (or minimum) version according to semver.
+* [semver-max ★3 ⏳2Y](https://github.com/eush77/semver-max) - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied ★2 ⏳1Y](https://github.com/parro-it/semver-first-satisfied) - Find minimum in an array of version that satisfies a semver range.
 
 
 
 ### CLI
 
-* [abbrev ★114](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
-* [glob ★4051](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
+* [abbrev ★116](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
+* [glob ★4151](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
 * [username ★73](https://github.com/sindresorhus/username) - Get the username of the current user.
 * [minimist ★2629](https://github.com/substack/minimist) - Parse argument options.
-* [png-to-ico ★24](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
+* [png-to-ico ★25](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
 * [help-version ★1 ⏳1Y](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application
 
 ### Module management
 
-* [pkg-conf ★65 ⏳1Y](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+* [pkg-conf ★66](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 * [normalize-pkg ★11](https://github.com/jonschlinkert/normalize-pkg) - Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.
 
 ### Generators
 
-* [is-generator ★11](https://github.com/blakeembrey/is-generator) - Check whether a given value is a generator function.
+* [is-generator ★12](https://github.com/blakeembrey/is-generator) - Check whether a given value is a generator function.
 
 ### Other
 
 * [uuid ★5074](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
-* [node-mime ★1031](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
+* [node-mime ★1060](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
 * [not-defined ★1](https://github.com/fibo/not-defined) - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object.
 * [is-fqdn ★13](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name.
 

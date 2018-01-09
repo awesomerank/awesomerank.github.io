@@ -75,7 +75,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     * [Get Your Engine Ready for Vulkan on Mobile](http://malideveloper.arm.com/downloads/Presentations/GDC%202016/Theatre/Get%20Your%20Engine%20Ready%20for%20Vulkan%20on%20Mobile.pdf)
     * [Mali Vulkan Tutorials](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.1/index.html) and [Slides](https://developer.arm.com/graphics/vulkan/vulkan-tutorials) Vulkan tutorials from the [Mali Vulkan SDK](http://malideveloper.arm.com/resources/sdks/mali-vulkan-sdk/)
 * Intel
-    * [API without Secrets: Introduction to Vulkan ★502](https://github.com/GameTechDev/IntroductionToVulkan) [[LICENSE](https://github.com/GameTechDev/IntroductionToVulkan/blob/master/license.txt)]
+    * [API without Secrets: Introduction to Vulkan ★515](https://github.com/GameTechDev/IntroductionToVulkan) [[LICENSE](https://github.com/GameTechDev/IntroductionToVulkan/blob/master/license.txt)]
         * [Part 1: The Beginning](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-1)
         * [Part 2: Swap Chain](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-2)
         * [Part 3: First Triangle](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-3)
@@ -101,8 +101,8 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     * [An overview of next-generation graphics APIs](http://nextgenapis.realtimerendering.com/) - covers Vulkan, D3D12 etc.
 *  [vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync ★12 ⏳1Y](https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. [MIT]
 *  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - by baldurk.
-*  [Tutorial by Overv](https://vulkan-tutorial.com/) and [its github repository ★558](https://github.com/Overv/VulkanTutorial). [CC BY-SA 4.0]
-*  [Vulkan Demos and Tutorials ★38](https://github.com/Z80Fan/VulkanDemos) [MIT].
+*  [Tutorial by Overv](https://vulkan-tutorial.com/) and [its github repository ★568](https://github.com/Overv/VulkanTutorial). [CC BY-SA 4.0]
+*  [Vulkan Demos and Tutorials ★37](https://github.com/Z80Fan/VulkanDemos) [MIT].
 *  [Qualcomm Video Tutorial Series](https://developer.qualcomm.com/software/adreno-gpu-sdk/tutorial-videos) - Leans more towards Vulkan for mobile devices.
 *  [Raw Vulkan](https://alain.xyz/blog/raw-vulkan) - Overview on how to program a Vulkan application from the ground up.
 *  [I Am Graphics And So Can You](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1) - Blog post style tutorial for those new to graphics learning Vulkan.
@@ -114,102 +114,102 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [GFXBench 5](https://kishonti.net/news_single.jsp?id=31133884) - by Kishonti.
 *  [ProtoStar](https://www.unrealengine.com/blog/epic-games-unveils-protostar-at-samsung-galaxy-unpacked) - by Epic, built with Unreal Engine 4 technology.
 *  [Doom](https://en.wikipedia.org/wiki/Doom_(2016_video_game)) - by id Software.
-*  [vkQuake ★392](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. [GPL]
-*  [Linux port of SteamVR ★278](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR is built on top of the Vulkan API.
+*  [vkQuake ★402](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. [GPL]
+*  [Linux port of SteamVR ★283](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR is built on top of the Vulkan API.
 *  [3DMark](https://www.futuremark.com/pressreleases/compare-vulkan-and-directx-12-performance-with-3dmark) - 3DMark API Overhead test.
 
 ## Samples
 *  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of  Sponza ★28 ⏳1Y](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos_meetup_munich](https://github.com/SaschaWillems/Vulkan/blob/master/documentation/Khronos_meetup_munich_fromGLtoVulkan.pdf).
 *  McNopper's [examples](https://github.com/McNopper/Vulkan)
 *  [KhronosGroup](https://github.com/KhronosGroup)
-    *  [Samples ★420](https://github.com/KhronosGroup/Vulkan-Samples)
+    *  [Samples ★423](https://github.com/KhronosGroup/Vulkan-Samples)
     *  [Conformance Tests (CTS)](https://github.com/KhronosGroup/Vulkan-CTS)
 *  Google
-    *  [Android port of LunarG samples ★124](https://github.com/googlesamples/vulkan-basic-samples).
-    *  [android tutorials ★288](https://github.com/googlesamples/android-vulkan-tutorials).
+    *  [Android port of LunarG samples ★130](https://github.com/googlesamples/vulkan-basic-samples).
+    *  [android tutorials ★295](https://github.com/googlesamples/android-vulkan-tutorials).
 *  [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. [[LICENSE](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
-    *  [gl_vk_chopper ★120](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
-    *  [gl_vk_threaded_cadscene ★68](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using veraious techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
+    *  [gl_vk_chopper ★119](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
+    *  [gl_vk_threaded_cadscene ★69](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using veraious techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
     *  [gl_vk_bk3dthreaded ★42 ⏳1Y](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
-    *  [gl_vk_supersampled ★39 ⏳1Y](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
-*  [NVIDIA GameWorks Samples ★440](https://github.com/NVIDIAGameWorks/GraphicsSamples) - GameWorks cross-platform graphics API samples. [[LICENSE](https://github.com/NVIDIAGameWorks/GraphicsSamples/blob/master/license.txt)]
-*  [LunarG's samples ★521](https://github.com/LunarG/VulkanSamples)
+    *  [gl_vk_supersampled ★38 ⏳1Y](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
+*  [NVIDIA GameWorks Samples ★460](https://github.com/NVIDIAGameWorks/GraphicsSamples) - GameWorks cross-platform graphics API samples. [[LICENSE](https://github.com/NVIDIAGameWorks/GraphicsSamples/blob/master/license.txt)]
+*  [LunarG's samples ★530](https://github.com/LunarG/VulkanSamples)
 *  [vkcube ★40](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
 drm/kms.
 *  [Stardust from Intel ★66](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. [[LICENSE](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
-*  [Vulkan Quake port based on QuakeSpasm ★392](https://github.com/Novum/vkQuake).
-*  [C# Samples](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk ★40](https://github.com/FacticiusVir/SharpVk) [MIT]
-*  [Vulkan-Forward-Plus-Renderer ★333](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. [MIT]
-*  [Laugh Engine ★225](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
-*  [tinyrenderers ★214](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
-*  [TLVulkanRenderer ★19](https://github.com/trungtle/TLVulkanRenderer) - Simple Vulkan-based renderer for my master thesis on real-time transparency. [CC BY-SA 4.0]
-*  [Vulkan-Hpp Samples ★94](https://github.com/jherico/Vulkan) - Fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
-*  [SDF Font Demo ★97](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. [MIT]
+*  [Vulkan Quake port based on QuakeSpasm ★402](https://github.com/Novum/vkQuake).
+*  [C# Samples](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk ★41](https://github.com/FacticiusVir/SharpVk) [MIT]
+*  [Vulkan-Forward-Plus-Renderer ★336](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. [MIT]
+*  [Laugh Engine ★227](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
+*  [tinyrenderers ★217](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
+*  [TLVulkanRenderer ★21](https://github.com/trungtle/TLVulkanRenderer) - Simple Vulkan-based renderer for my master thesis on real-time transparency. [CC BY-SA 4.0]
+*  [Vulkan-Hpp Samples ★93](https://github.com/jherico/Vulkan) - Fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
+*  [SDF Font Demo ★100](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. [MIT]
 *  [vulkantoy ★14](https://github.com/jpystynen/vulkantoy) - Shadertoy image shader test app with Vulkan. [MIT]
 *  [GL_vs_VK ★27](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. [MIT]
 
 ## Libraries
-*  [Cinder ★3320](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). [BSD]
+*  [Cinder ★3357](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). [BSD]
 *  [SDL](https://discourse.libsdl.org/t/sdl-2-0-6-released/23109) - added cross-platform Vulkan graphics support in SDL_vulkan.h. [zlib]
 *  [DemoFramework](https://github.com/NXPmicro/gtec-demo-framework) - NXP GTEC C++11 cross-platform demo framework including lots of samples for Vulkan, OpenGL ES, OpenVX, OpenCL, OpenVG and OpenCV. [[BSD-3-clause](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
 *  [openFrameworks ★37](https://github.com/openframeworks-vk/openFrameworks) - the most famouse C++ creative coding framework. [MIT]
-*  [bgfx ★3825](https://github.com/bkaradzic/bgfx) - Cross-platform rendering library, bgfx backend is WIP. [[LICENSE](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
-*  [PowerVR SDK ★227](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
-*  [glfw ★3171](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  [[LICENSE](https://github.com/glfw/glfw/blob/master/COPYING.txt)]
+*  [bgfx ★4078](https://github.com/bkaradzic/bgfx) - Cross-platform rendering library, bgfx backend is WIP. [[LICENSE](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
+*  [PowerVR SDK ★233](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
+*  [glfw ★3242](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  [[LICENSE](https://github.com/glfw/glfw/blob/master/COPYING.txt)]
 *  [MoltenVK](https://moltengl.com/moltenvk/) - run Vulkan on iOS and macOS. [Non-free]
-*  [imgui ★8844](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
-*  [libvc ★70 ⏳1Y](https://github.com/alexhultman/libvc) - Vulkan Compute for C++.  [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
-*  [AMD's Anvil ★301](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) - cross-platform framework for Vulkan. [[LICENSE](https://github.com/GPUOpen-LibrariesAndSDKs/OutOfOrderRasterization/blob/master/LICENSE.txt)]
+*  [imgui ★9171](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
+*  [libvc ★71 ⏳1Y](https://github.com/alexhultman/libvc) - Vulkan Compute for C++.  [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
+*  [AMD's Anvil ★312](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) - cross-platform framework for Vulkan. [[LICENSE](https://github.com/GPUOpen-LibrariesAndSDKs/OutOfOrderRasterization/blob/master/LICENSE.txt)]
     * [Introductory Vulkan sample ★46](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan). [MIT]
-*  [Vulkan Memory Allocator ★149](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library from AMD [MIT]
-*  [Google's vulkan-cpp-library ★171](https://github.com/google/vulkan-cpp-library) - Vulkan abstraction library using C++11 for memory, resource management, type and thread safety as well as system independency. [Apache]
-*  [Vookoo ★55](https://github.com/andy-thomason/Vookoo) - Vookoo is a set of dependency-free utilities to assist in the construction and updating of Vulkan graphics data structres. [MIT]
-*  [vpp ★78](https://github.com/nyorain/vpp) - Modern C++ Vulkan Abstraction focused on performance and a straightforward interface. [MIT]
+*  [Vulkan Memory Allocator ★163](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library from AMD [MIT]
+*  [Google's vulkan-cpp-library ★175](https://github.com/google/vulkan-cpp-library) - Vulkan abstraction library using C++11 for memory, resource management, type and thread safety as well as system independency. [Apache]
+*  [Vookoo ★56](https://github.com/andy-thomason/Vookoo) - Vookoo is a set of dependency-free utilities to assist in the construction and updating of Vulkan graphics data structres. [MIT]
+*  [vpp ★84](https://github.com/nyorain/vpp) - Modern C++ Vulkan Abstraction focused on performance and a straightforward interface. [MIT]
 *  [Intrinsic Engine](http://www.intrinsic-engine.com/) - Intrinsic is a Vulkan based cross-platform graphics and game engine. [Apache License 2.0]
-*  [glo / OpenGL Overload ★215 ⏳1Y](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
+*  [glo / OpenGL Overload ★214 ⏳1Y](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
 *  [Skia](https://skia.googlesource.com/skia) - Google's 2D graphics library has a [Vulkan](https://skia.org/user/special/vulkan) [backend](https://github.com/google/skia/tree/master/src/gpu/vk), demonstrated in a cross-platform [sample application](https://skia.org/user/sample/viewer) with its own [window library](https://github.com/google/skia/tree/master/tools/viewer). [BSD 3-clause] [website](https://skia.org)
 *  [Spectrum](https://github.com/mwalczyk/spectrum_core) - Work-in-progress framework and abstraction layer around Vulkan. 
-*  [VkHLF ★207](https://github.com/nvpro-pipeline/VkHLF) - Vulkan High Level Framework. [[LICENSE]](https://github.com/nvpro-pipeline/VkHLF/blob/master/LICENSE.txt)
-*  [VulkanOnD3D12 ★6](https://github.com/Chabloom/VulkanOnD3D12) - Vulkan API for D3D12. [Apache License 2.0]
-*  [visor ★14](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. [MIT]
-*  [Lugdunum ★138](https://github.com/Lugdunum3D/Lugdunum) - Modern cross-platform 3D rendering engine built with Vulkan and modern C++14. [MIT]
-*  [Vulkan-WSIWindow ★22](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. [Apache License 2.0]
-*  [Falcor ★239](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting DX12 and Vulkan. [BSD 3-clause]
-*  [The-Forge ★10](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
+*  [VkHLF ★212](https://github.com/nvpro-pipeline/VkHLF) - Vulkan High Level Framework. [[LICENSE]](https://github.com/nvpro-pipeline/VkHLF/blob/master/LICENSE.txt)
+*  [VulkanOnD3D12 ★7](https://github.com/Chabloom/VulkanOnD3D12) - Vulkan API for D3D12. [Apache License 2.0]
+*  [visor ★16](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. [MIT]
+*  [Lugdunum ★154](https://github.com/Lugdunum3D/Lugdunum) - Modern cross-platform 3D rendering engine built with Vulkan and modern C++14. [MIT]
+*  [Vulkan-WSIWindow ★23](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. [Apache License 2.0]
+*  [Falcor ★257](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting DX12 and Vulkan. [BSD 3-clause]
+*  [The-Forge ★21](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
 *  [VK9 ★433](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
-*  [gfx-rs ★1272](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API for Rust. [Apache License 2.0]
+*  [gfx-rs ★1326](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API for Rust. [Apache License 2.0]
 *  [Satellite ★2](https://github.com/world8th/satellite) - fork of Marble (and continuation de facto), Vulkan API based ray tracing engine
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
 *  [dvulkan ★13 ⏳1Y](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
-*  [ErupteD ★22](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
-*  [Haskell bindings for Vulkan ★42 ⏳1Y](https://github.com/expipiplus1/vulkan) - [[LICENSE](https://github.com/expipiplus1/vulkan/blob/master/LICENSE)]
-*  [Vulkan-hpp ★885](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
-*  [VulkanSharp ★177](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. [MIT]
+*  [ErupteD ★23](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
+*  [Haskell bindings for Vulkan ★43 ⏳1Y](https://github.com/expipiplus1/vulkan) - [[LICENSE](https://github.com/expipiplus1/vulkan/blob/master/LICENSE)]
+*  [Vulkan-hpp ★894](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
+*  [VulkanSharp ★185](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. [MIT]
 *  [Vulkano ★1](https://github.com/tomaka/vulkano) - Safe and rich Rust wrapper around the Vulkan API. [MIT]
 *  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. [BSD]
-*  [SharpVk ★40](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk). [MIT]
+*  [SharpVk ★41](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk). [MIT]
 *  [vulkan ★48](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. [Apache Licence 2.0]
   
 ## Tools
 *  [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
-*  [LoaderAndValidationLayers ★352](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [Apache Licence 2.0]
-*  [renderdoc ★2119](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. [MIT]
-*  [VulkanTools ★202](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, `vktrace` and `vkreplay`. [Apache Licence 2.0]
-*  [CodeXL ★634](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. [MIT]
+*  [LoaderAndValidationLayers ★362](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [Apache Licence 2.0]
+*  [renderdoc ★2197](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. [MIT]
+*  [VulkanTools ★210](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, `vktrace` and `vkreplay`. [Apache Licence 2.0]
+*  [CodeXL ★650](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. [MIT]
 *  [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
 *  [Mali Graphics Debugger](http://malideveloper.arm.com/resources/tools/mali-graphics-debugger/).
-*  [Open Capture and Analytics Tool (OCAT) ★78](https://github.com/GPUOpen-Tools/OCAT) - rovides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. [MIT]
-*  [gapid ★488](https://github.com/google/gapid) - Graphics API Debugger, can trace and replay Android OpenGL ES and Vulkan applications. [Apache License 2.0]
+*  [Open Capture and Analytics Tool (OCAT) ★80](https://github.com/GPUOpen-Tools/OCAT) - rovides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. [MIT]
+*  [gapid ★593](https://github.com/google/gapid) - Graphics API Debugger, can trace and replay Android OpenGL ES and Vulkan applications. [Apache License 2.0]
 *  [ARM - PerfDoc ★41](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. [MIT]
 
 ## Books
 * [Introduction to Computer Graphics and the Vulkan API](https://www.amazon.com/Introduction-Computer-Graphics-Vulkan-API/dp/1548616176) by **Kenwright** - Introduce the reader to the exciting topic of computer graphics from a grounds-up practical perspective with the Vulkan API.
 * [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
-  * [Book's Examples ★22](https://github.com/PacktPublishing/Learning-Vulkan)
+  * [Book's Examples ★26](https://github.com/PacktPublishing/Learning-Vulkan)
 * [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
-  * [Book's Examples ★58](https://github.com/PacktPublishing/Vulkan-Cookbook)
+  * [Book's Examples ★66](https://github.com/PacktPublishing/Vulkan-Cookbook)
 * [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - by **Graham Sellers** and **John Kessenich** - Introduces powerful 3D development techniques for many fields. 
 
 ## Community
@@ -224,7 +224,7 @@ drm/kms.
 *  [awesome-opengl ★654](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *  [gamedev ★4469](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *  [graphics-resources ★1066 ⏳1Y](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
-*  [awesome-d3d12 ★25](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
+*  [awesome-d3d12 ★28](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
 ## License
 

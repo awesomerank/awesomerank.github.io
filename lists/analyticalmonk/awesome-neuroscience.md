@@ -38,28 +38,28 @@ Software, libraries and frameworks for development purposes.
 
 ### Python
 
-- [Nengo ★274](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
-- [Nitime ★106](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
+- [Nengo ★279](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
+- [Nitime ★107](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
 - [Nilearn ★331](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
-- [DIPY ★136](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
-- [MNE-Python ★371](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
-- [NiBabel ★165](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
-- [PsychoPy ★395](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
-- [NuPic ★5310](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
-- [Brian2 ★151](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
-- [expyriment ★53](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
+- [DIPY ★139](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
+- [MNE-Python ★383](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
+- [NiBabel ★174](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
+- [PsychoPy ★407](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
+- [NuPic ★5346](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
+- [Brian2 ★157](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
+- [expyriment ★54](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
 
 ### Matlab
 
-- [FieldTrip ★166](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
+- [FieldTrip ★172](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
 - [Psychtoolbox-3](http://psychtoolbox.org/) -  Free set of Matlab and GNU Octave functions for vision and neuroscience research.
 
 ### C++
 
-- [Brayns ★78](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
+- [Brayns ★79](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
 
 ### JavaScript
-- [Brainbrowser ★149](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
+- [Brainbrowser ★150](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
 
 ## Resources
 Interesting resources related to neuroscience.
@@ -96,7 +96,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - Searchable database for computational neuroscience models.
 - [NeuronDB](https://senselab.med.yale.edu/NeuronDB) - Serchable database for  of three types of neuronal properties: voltage gated conductances, neurotransmitter receptors, and neurotransmitter substances.
 - [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - Interactive mindmap containing curated resources for anyone interested in learning neuroscience.
-- [neuroSummerSchools ★67](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonnal) summer schools in neuroscience and related fields.
+- [neuroSummerSchools ★69](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonnal) summer schools in neuroscience and related fields.
 
 ## Contribute
 

@@ -104,7 +104,7 @@ title: Awesome Rank for sadcitizen/awesome-marionette
 - [MarionetteJS + Brunch + Babel/ES6 ★15](https://github.com/denar90/brunch-with-marionettejs)
 - [A Place to Write About Technical Subjects on the Web ★95 ⏳2Y](https://github.com/jmeas/gistbook)
 - [The Front End App for edit.sx ★32 ⏳3Y](https://github.com/samccone/edit.sx-frontend)
-- [Streamus ★1103](https://github.com/MeoMix/StreamusChromeExtension)
+- [Streamus ★1103 ⏳1Y](https://github.com/MeoMix/StreamusChromeExtension)
 - [Marionette-Integrations ★104](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools
 - [ES6 Marionette Project ★66 ⏳1Y](https://github.com/abiee/es6-marionette)
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example

@@ -458,7 +458,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 - [awesome-awesome ★150](https://github.com/erichs/awesome-awesome) by @erichs
 - [awesome-awesome ★63 ⏳1Y](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
 - [awesome-awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness) by @bayandin
-- [awesome-awesomes ★485 ⏳1Y](https://github.com/fleveque/awesome-awesomes) by @fleveque
+- [awesome-awesomes ★489 ⏳1Y](https://github.com/fleveque/awesome-awesomes) by @fleveque
 - [awesome-collection ★98](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
 - [lists ★4644](https://github.com/jnv/lists) by @jnv
 

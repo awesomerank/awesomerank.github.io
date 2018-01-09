@@ -122,7 +122,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### ChatWork
 
-* [Hubot](https://hubot.github.com/) + [adapter ★65](https://github.com/akiomik/hubot-chatwork) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★66](https://github.com/akiomik/hubot-chatwork) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter ★4](https://github.com/tokada/lita-chatwork) (Ruby)
 
 ### Dasher
@@ -131,15 +131,15 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Discord
 
-* [Discordrb ★279](https://github.com/meew0/discordrb) (Ruby)
+* [Discordrb ★285](https://github.com/meew0/discordrb) (Ruby)
 * [Errbot](http://errbot.io/) + [adapter ★7](https://github.com/gbin/err-backend-discord) (Python)
 * [Lita](https://www.lita.io/) + [adapter ★0 ⏳1Y](https://github.com/kyleboe/lita-discord) (Ruby)
 
 ### Facebook Messenger
 
-* [Botkit ★7430](https://github.com/howdyai/botkit) (JavaScript, Node.js)
+* [Botkit ★7571](https://github.com/howdyai/botkit) (JavaScript, Node.js)
 * [FacebookMessenger](https://github.com/hyperoslo/facebook-messenger) (Ruby)
-* [Hubot](https://hubot.github.com/) + [adapter ★39 ⏳1Y](https://github.com/ClaudeBot/hubot-messenger-bot) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★40 ⏳1Y](https://github.com/ClaudeBot/hubot-messenger-bot) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter ★0 ⏳1Y](https://github.com/ASoftCo/lita-facebook) (Ruby)
 * [opsdroid](https://opsdroid.github.io/) + [connector ★0](https://github.com/opsdroid/connector-facebook) (Python)
 
@@ -149,13 +149,13 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Flowdock
 
-* [Hubot](https://hubot.github.com/) + [adapter ★90](https://github.com/flowdock/hubot-flowdock) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★91](https://github.com/flowdock/hubot-flowdock) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter ★8 ⏳1Y](https://github.com/bhouse/lita-flowdock) (Ruby)
 
 ### Gitter
 
 * [Errbot](http://errbot.io/) + [adapter ★10](https://github.com/errbotio/err-backend-gitter) (Python)
-* [Hubot](https://hubot.github.com/) + [adapter ★70](https://github.com/huafu/hubot-gitter2) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★71](https://github.com/huafu/hubot-gitter2) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter ★2 ⏳2Y](https://github.com/braiden-vasco/lita-gitter) (Ruby)
 
 ### HipChat
@@ -166,7 +166,7 @@ These open source projects will help you to build a bot in order to automate you
 * [Hipbot ★90](https://github.com/pewniak747/hipbot) (Ruby)
 * [Hipchat ★105](https://github.com/daneharrigan/hipchat) via XMPP (Go)
 * [Hipchat-go ★119](https://github.com/tbruyelle/hipchat-go) via HipChat API v2 (Go)
-* [Hubot](https://hubot.github.com/) + [adapter ★691](https://github.com/hipchat/hubot-hipchat) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★689](https://github.com/hipchat/hubot-hipchat) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter ★38](https://github.com/litaio/lita-hipchat) (Ruby)
 * [Will](https://skoczen.github.io/will/) (Python)
 
@@ -176,16 +176,16 @@ These open source projects will help you to build a bot in order to automate you
 
 ### iMessage
 
-* [Hubot](https://hubot.github.com/) + [adapter ★168 ⏳3Y](https://github.com/lazerwalker/hubot-imessage) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★170 ⏳3Y](https://github.com/lazerwalker/hubot-imessage) (CoffeeScript, Node.js)
 
 ### IRC
 
 * [Cinch ★1012](https://github.com/cinchrb/cinch) (Ruby)
 * [Errbot](http://errbot.io/) (Python)
 * [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/irc.html) (Go)
-* [Hubot](https://hubot.github.com/) + [adapter ★306](https://github.com/nandub/hubot-irc) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★307](https://github.com/nandub/hubot-irc) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter ★17](https://github.com/litaio/lita-irc) (Ruby)
-* [PagerBot ★225](https://github.com/stripe-contrib/pagerbot) (Ruby)
+* [PagerBot ★226](https://github.com/stripe-contrib/pagerbot) (Ruby)
 * [Yetibot ★149](https://github.com/yetibot/yetibot) (Clojure)
 
 ### Jabbr
@@ -194,7 +194,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Let's chat
 
-* [Hubot](https://hubot.github.com/) + [adapter ★52 ⏳2Y](https://github.com/sdelements/hubot-lets-chat) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★53 ⏳2Y](https://github.com/sdelements/hubot-lets-chat) (CoffeeScript, Node.js)
 
 ### Lingr
 
@@ -206,9 +206,9 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Mattermost
 
-* [Errbot](http://errbot.io) + [adapter ★17](https://github.com/Vaelor/errbot-mattermost-backend) (Python)
+* [Errbot](http://errbot.io) + [adapter ★18](https://github.com/Vaelor/errbot-mattermost-backend) (Python)
 * [Hubot](https://hubot.github.com/) + [adapter ★73](https://github.com/renanvicente/hubot-mattermost) (CoffeeScript, Node.js)
-* [Hubot](https://hubot.github.com/) + [adapter ★101](https://github.com/loafoe/hubot-matteruser) via Websockets (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★104](https://github.com/loafoe/hubot-matteruser) via Websockets (CoffeeScript, Node.js)
 
 ### Partychat
 
@@ -216,12 +216,12 @@ These open source projects will help you to build a bot in order to automate you
 
 ### QQ
 
-* [Hubot](https://hubot.github.com/) + [adapter ★1043 ⏳1Y](https://github.com/xhan/qqbot) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★1071 ⏳1Y](https://github.com/xhan/qqbot) (CoffeeScript, Node.js)
 
 ### Rocket.Chat
 
 * [Errbot](http://errbot.io) + [adapter ★7 ⏳1Y](https://github.com/AoiKuiyuyou/AoikRocketChatErrbot) (Python)
-* [Hubot](https://hubot.github.com/) + [adapter ★287](https://github.com/RocketChat/hubot-rocketchat) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★292](https://github.com/RocketChat/hubot-rocketchat) (CoffeeScript, Node.js)
 
 ### Skype
 
@@ -235,18 +235,18 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Slack
 
-* [Botkit ★7430](https://github.com/howdyai/botkit) (JavaScript, Node.js)
+* [Botkit ★7571](https://github.com/howdyai/botkit) (JavaScript, Node.js)
 * [Cog](https://operable.io/) (Any language)
-* [Elixir-Slack ★373](https://github.com/BlakeWilliams/Elixir-Slack) (Elixir)
+* [Elixir-Slack ★377](https://github.com/BlakeWilliams/Elixir-Slack) (Elixir)
 * [Errbot](http://errbot.io/) (Python)
 * [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/slack.html) (Go)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/slackhq/hubot-slack) (CoffeeScript, Node.js)
-* [Jubot ★57 ⏳2Y](https://github.com/liquidz/jubot) (Clojure)
+* [Jubot ★59 ⏳2Y](https://github.com/liquidz/jubot) (Clojure)
 * [Lita](https://www.lita.io/) + [adapter ★113](https://github.com/litaio/lita-slack) (Ruby)
 * [Multivac ★40](https://github.com/vektorlab/multivac) (Python, Docker)
 * [opsdroid](https://opsdroid.github.io/) + [connector ★2](https://github.com/opsdroid/connector-slack) (Python)
-* [PagerBot ★225](https://github.com/stripe-contrib/pagerbot) (Ruby)
-* [Slack-Ruby-Bot ★34](https://github.com/dblock/slack-ruby-bot) (Ruby)
+* [PagerBot ★226](https://github.com/stripe-contrib/pagerbot) (Ruby)
+* [Slack-Ruby-Bot ★35](https://github.com/dblock/slack-ruby-bot) (Ruby)
 * [Slackbotsy ★79](https://github.com/rlister/slackbotsy) (Ruby)
 * [Slacker ★74 ⏳1Y](https://github.com/koudelka/slacker) (Elixir)
 * [Yetibot ★149](https://github.com/yetibot/yetibot) (Clojure)
@@ -265,7 +265,7 @@ These open source projects will help you to build a bot in order to automate you
 * [Hubot](https://hubot.github.com/) + [adapter ★128](https://github.com/lukefx/hubot-telegram) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/wonderbread/lita-telegram) (Ruby)
 * [opsdroid](https://opsdroid.github.io/) + [connector ★0](https://github.com/opsdroid/connector-telegram) (Python)
-* [Telegram-bot-ruby ★646](https://github.com/atipugin/telegram-bot-ruby) (Ruby)
+* [Telegram-bot-ruby ★662](https://github.com/atipugin/telegram-bot-ruby) (Ruby)
 * [TelegramBot](https://github.com/hangyas/TelegramBot) (Crystal)
 * [TelegramBot ★231](https://github.com/eljojo/telegram_bot) (Ruby)
 
@@ -276,15 +276,15 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Twilio
 
-* [Botkit ★7430](https://github.com/howdyai/botkit) via IP Messaging (JavaScript, Node.js)
+* [Botkit ★7571](https://github.com/howdyai/botkit) via IP Messaging (JavaScript, Node.js)
 * [Hubot](https://hubot.github.com/) + [adapter ★2 ⏳2Y](https://github.com/philnash/hubot-twilio-ip-messaging) via IP Messaging (CoffeeScript, Node.js)
 * [Hubot](https://hubot.github.com/) + [adapter ★15 ⏳1Y](https://github.com/jkarmel/hubot-twilio) via SMS (CoffeeScript, Node.js)
 
 ### Twitter
 
 * [Chatterbot](https://muffinista.github.io/chatterbot/) (Ruby)
-* [Hubot](https://hubot.github.com/) + [adapter ★87 ⏳2Y](https://github.com/MathildeLemee/hubot-twitter) (CoffeeScript, Node.js)
-* [Lita](https://www.lita.io/) + [adapter ★11 ⏳2Y](https://github.com/fukayatsu/lita-twitter) (Ruby)
+* [Hubot](https://hubot.github.com/) + [adapter ★88 ⏳2Y](https://github.com/MathildeLemee/hubot-twitter) (CoffeeScript, Node.js)
+* [Lita](https://www.lita.io/) + [adapter ★12](https://github.com/fukayatsu/lita-twitter) (Ruby)
 * [opsdroid](https://opsdroid.github.io/) + [connector ★0](https://github.com/opsdroid/connector-twitter) (Python)
 
 ### Typetalk
@@ -306,12 +306,12 @@ These open source projects will help you to build a bot in order to automate you
 
 ### WeChat
 
-* [Hubot](https://hubot.github.com/) + [adapter ★277 ⏳1Y](https://github.com/KasperDeng/Hubot-WeChat) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★281 ⏳1Y](https://github.com/KasperDeng/Hubot-WeChat) (CoffeeScript, Node.js)
 
 ### XMPP / Jabber
 
 * [Errbot](http://errbot.io/) (Python)
-* [Hubot](https://hubot.github.com/) + [adapter ★176](https://github.com/markstory/hubot-xmpp) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★175](https://github.com/markstory/hubot-xmpp) (CoffeeScript, Node.js)
 * [Jabberjay ★33 ⏳2Y](https://github.com/vbauer/jabberjay) (Clojure)
 
 ### Yammer

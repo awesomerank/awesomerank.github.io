@@ -21,8 +21,8 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [dhtkv ★48 ⏳1Y](https://github.com/maxogden/dhtkv) – CLI for storing arbitrary key/value data in the bittorrent mainline DHT.
 * [gun ★6928](https://github.com/amark/gun) – A realtime, decentralized, offline-first, graph database engine.
 * [hyperpipe ★98](https://github.com/mafintosh/hyperpipe) – Distributed input/output pipe.
-* [hypervision ★287](https://github.com/mafintosh/hypervision) – P2P Television.
-* [instant.io ★1690](https://github.com/webtorrent/instant.io) – Streaming file transfer over WebTorrent.
+* [hypervision ★291](https://github.com/mafintosh/hypervision) – P2P Television.
+* [instant.io ★1720](https://github.com/webtorrent/instant.io) – Streaming file transfer over WebTorrent.
 * [ipp-printer ★296](https://github.com/watson/ipp-printer) – Create a printer on your network.
 * [peercast ★357 ⏳3Y](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
 * [peerflix ★4519](https://github.com/mafintosh/peerflix) – Streaming torrent client.
@@ -33,7 +33,7 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [torrent-mount ★1094 ⏳2Y](https://github.com/mafintosh/torrent-mount) – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.
 * [webcat ★355](https://github.com/mafintosh/webcat) – pipe across the web using WebRTC.
 * [websocketd ★8828](https://github.com/joewalnes/websocketd) – Turn any program that uses stdin/stdout into a WebSocket server.
-* [webtorrent ★15112](https://github.com/webtorrent/webtorrent) – BitTorrent over WebRTC.
+* [webtorrent ★15457](https://github.com/webtorrent/webtorrent) – BitTorrent over WebRTC.
 * [wifi-triangulate ★53 ⏳1Y](https://github.com/watson/wifi-triangulate) – Finds your current position on planet earth using the wifi access point.
 
 ## Modules
@@ -47,15 +47,15 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [etcdjs ★54](https://github.com/mafintosh/etcdjs) – Low level etcd v2 client written in Javascript with failover support.
 * [geocode-wifi ★24 ⏳2Y](https://github.com/watson/geocode-wifi) – Get yours latitude/longitude based on your wifi access point.
 * [hash-to-port ★22 ⏳2Y](https://github.com/mafintosh/hash-to-port) – Hash a value to a valid port.
-* [hyperdb ★145](https://github.com/mafintosh/hyperdb) – Distributed scalable database.
+* [hyperdb ★177](https://github.com/mafintosh/hyperdb) – Distributed scalable database.
 * [ip-packet ★25 ⏳2Y](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
-* [magnet-uri ★107](https://github.com/webtorrent/magnet-uri) – Parse a magnet URI and return an object of keys/values.
+* [magnet-uri ★113](https://github.com/webtorrent/magnet-uri) – Parse a magnet URI and return an object of keys/values.
 * [network-address ★53](https://github.com/mafintosh/network-address) – Get the local network address of your machine.
 * [network-simulator ★37 ⏳2Y](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
 * [rtsp-stream ★41 ⏳1Y](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
 * [simple-peer ★1440](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
 * [simple-websocket ★71](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.
-* [torrent-discovery ★90](https://github.com/webtorrent/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
+* [torrent-discovery ★92](https://github.com/webtorrent/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
 * [torrent-stream ★1450](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
 * [udp-packet ★33 ⏳2Y](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
 
@@ -64,9 +64,9 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 > Implementation of protocols specs in pure javascript.
 
 * [airswarm ★105 ⏳1Y](https://github.com/mafintosh/airswarm) – Network swarm that automagically discovers other peers on the network using multicast dns.
-* [bittorrent-dht ★621](https://github.com/webtorrent/bittorrent-dht) – BitTorrent DHT protocol implementation.
-* [bittorrent-protocol ★166](https://github.com/webtorrent/bittorrent-protocol) – BitTorrent peer wire protocol implementation.
-* [bittorrent-tracker ★531](https://github.com/webtorrent/bittorrent-tracker) – BitTorrent tracker (client & server) implementation
+* [bittorrent-dht ★628](https://github.com/webtorrent/bittorrent-dht) – BitTorrent DHT protocol implementation.
+* [bittorrent-protocol ★173](https://github.com/webtorrent/bittorrent-protocol) – BitTorrent peer wire protocol implementation.
+* [bittorrent-tracker ★553](https://github.com/webtorrent/bittorrent-tracker) – BitTorrent tracker (client & server) implementation
 * [bonjour ★243](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 * [castv2 ★391](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
 * [dht-rpc ★49](https://github.com/mafintosh/dht-rpc) – Make RPC calls over a [Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf) based DHT.

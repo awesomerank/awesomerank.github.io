@@ -26,15 +26,15 @@ Inspired by the __[awesome ★73813](https://github.com/sindresorhus/awesome)__ 
 
 #### Libraries
 - [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-- [GradStop.js ★90](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+- [GradStop.js ★92](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-- [Coloor ★337 ⏳1Y](https://github.com/krasimir/coloor) - Image preloading utility.
-- [Color Thief ★6156](https://github.com/lokesh/color-thief) - Grab color palette from an image.
+- [Coloor ★338 ⏳1Y](https://github.com/krasimir/coloor) - Image preloading utility.
+- [Color Thief ★6215](https://github.com/lokesh/color-thief) - Grab color palette from an image.
 - [Colorify.js ★745](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-- [Colofilter.css ★573 ⏳1Y](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
-- [Polychrome ★255](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
-- [Palettable ★283](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+- [Colofilter.css ★578 ⏳1Y](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
+- [Polychrome ★257](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
+- [Palettable ★285](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 - [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
 
 #### Web App

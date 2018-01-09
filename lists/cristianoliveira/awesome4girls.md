@@ -154,6 +154,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Code Girl is an event featuring motivational talks about overcoming challenges faced by women who work in the technology industry. The event features female speakers who aim to inspire women in the industry.
 
+  - [Czechitas](https://www.czechitas.cz/) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czech Republic" width="30">
+  
+    Czechitas is a nonprofit organization based in the Czech Republic which organizes events, courses, and summer camps to help women, girls and children to explore the world of IT. The events cover topics from programming, web development, graphic design, digital marketing, and data analytics.
+
   - [Fortune Most Powerful Women Summit](http://www.fortuneconferences.com/most-powerful-women-summit-2016/)
 
     The Women in Tech Summit inspires, educates and connects women in the technology industry.
@@ -298,6 +302,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [European Women In Technology](http://www.europeanwomenintech.com)
 
     A conference to inspire and connect women working in the tech industry. It offers interactive panels and deep-dive workshops, delivered by industry pioneers. Both men and women can attend to discuss issues relating to women in tech leadership, female founders, bridging the gender gap, non-technical women in tech and inspiring future generations of girls into the sector.
+
+  - [Female Founders Conference](http://www.femalefoundersconference.org/)
+
+    An annual conference organized by accelerator Y Combinator and targeted at female founders and entrepreneurs. The event features talks and panels, including sessions where female founders share their experiences and offer startup guidance.
 
   - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
 

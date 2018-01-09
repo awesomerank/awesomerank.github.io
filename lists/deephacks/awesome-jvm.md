@@ -108,8 +108,8 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [commons-math](http://commons.apache.org/proper/commons-math) - Library of lightweight, self-contained mathematics and statistics components.
 * [CuckooFilter4J ★47](https://github.com/MGunlogson/CuckooFilter4J) - Bloom filter replacement for approximated set-membership queries.
 * [cyclops ★386](https://github.com/aol/cyclops) - Integration modules for RxJava, Reactor, FunctionalJava, Guava & Javaslang.
-* [Eclipse Collections ★457](https://github.com/eclipse/eclipse-collections) - Collections framework for Java.
-* [failsafe ★1956](https://github.com/jhalterman/failsafe) - A lightweight, zero-dependency library for handling failures.
+* [Eclipse Collections ★483](https://github.com/eclipse/eclipse-collections) - Collections framework for Java.
+* [failsafe ★1987](https://github.com/jhalterman/failsafe) - A lightweight, zero-dependency library for handling failures.
 * [fasttuple ★130](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
 * [FlatBuffers](http://google.github.io/flatbuffers/) - Efficient cross platform serialization library for C++, C#, Go, Java, JavaScript, PHP, and Python.
 * [geohash ★224](https://github.com/davidmoten/geo) - Java utility methods for geohashing.
@@ -259,7 +259,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [Chronon](http://chrononsystems.com) - Record your entire java program. Replay on any machine.
 * [GCeasy](http://gceasy.io/) - Machine learning guided Garbage collection log analysis tool. Auto-detect problems in the JVM GC logs and recommend solutions to it.
 * [GCViewer ★1962](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
-* [grav ★170](https://github.com/epickrram/grav) - A collection of tools to help visualise process execution.
+* [grav ★177](https://github.com/epickrram/grav) - A collection of tools to help visualise process execution.
 * [hawkshaw ★39 ⏳2Y](https://github.com/jClarity/hawkshaw) - Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.
 * [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 * [hdrhistogram-metrics-reservoir](https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir) - A Metrics Reservoir implementation backed by HdrHistogram.
@@ -329,7 +329,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 ## Documentation
 
 *Documentation related to JVM*
-* [Linux tracing workshop ★437](https://github.com/goldshtn/linux-tracing-workshop) - JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.
+* [Linux tracing workshop ★451](https://github.com/goldshtn/linux-tracing-workshop) - JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.
 * [JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) - mini-post series where every post goes deep for only a single topic by Aleksey Shipilёv.
 * [Coordinated Omission problem](https://groups.google.com/forum/#!msg/mechanical-sympathy/icNZJejUHfE/BfDekfBEs_sJ) - Discussion on Mechanical Sympathy.
 * [False sharing](http://mechanical-sympathy.blogspot.se/2011/07/false-sharing.html) - Threads impact the performance of each other while modifying independent variables sharing the same cache line. Martin Thompson.

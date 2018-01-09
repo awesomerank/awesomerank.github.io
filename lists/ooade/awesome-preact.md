@@ -81,7 +81,7 @@ title: Awesome Rank for ooade/awesome-preact
 - [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - Skip Server Side Rendering of Components.
 - [Preact Head ★24](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /\> for Preact.
 - [Preact Side Effect ★7](https://github.com/ooade/preact-side-effect) - Create components whose nested prop changes map to a global side effect.
-- [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) - Preact Integration with [Tiny Atom ★27](https://github.com/qubitproducts/tiny-atom).
+- [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) - Preact Integration with [Tiny Atom ★30](https://github.com/qubitproducts/tiny-atom).
 - [Preact Level List ★3](https://github.com/juliangruber/preact-level-list) - Live updating leveldb list component for Preact.
 - [Preact Country Picker ★2](https://github.com/bboydflo/flagstrap-preact) - Country picker based on bootstrap 3 made for Preact.
 - [Preact Fluid ★33](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact.
@@ -110,7 +110,7 @@ title: Awesome Rank for ooade/awesome-preact
 - [TodoMVC ★47](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
 - [Colors App ★75](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
 - [Tracks ★9](https://github.com/jordic/tracks_preact) - PWA for tracking things in general. Gdrive Sync.
-- [Hueify ★57](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights.
+- [Hueify ★61](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights.
 
 ### Related Libraries
 - [React ★83326](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.

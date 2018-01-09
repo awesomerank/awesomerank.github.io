@@ -32,7 +32,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Security
 - [BeEF](http://beefproject.com/) - Manipulate the browser exploiting any XSS vulns you find.
-- [OWASP ZAP ★3245](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
+- [OWASP ZAP ★3359](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
 - [Cookie Inspector](https://chrome.google.com/webstore/detail/cookie-inspector/jgbbilmfbammlbbhmmgaagdkbkepnijn) - View and Edit Cookies easily using the developer tools pane.
 
 ### Make your life easier
@@ -54,7 +54,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Thinking, Fast and Slow](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) - All about how we make decisions (UI Testing).
 
 ## Training (Includes developer training for automation testers)
-- [Learn to Code ★379](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
+- [Learn to Code ★395](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
 - [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 - [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
@@ -64,16 +64,16 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Suggested Awesome Lists
 
 ### Must Read
-- [Falsehoods ★6483](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
-- [Naughty Strings ★22280](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-- [Unicode ★397](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+- [Falsehoods ★6616](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
+- [Naughty Strings ★22531](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
+- [Unicode ★407](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Useful References
 - [The Original ★73813](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
-- [Learn to Code ★379](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
-- [Application Security ★2755](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
-- [Selenium ★285](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
-- [Security ★2325](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
+- [Learn to Code ★395](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+- [Application Security ★2916](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
+- [Selenium ★289](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
+- [Security ★2407](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 - [Awesome Software Quality ★969](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
 
 ## Others

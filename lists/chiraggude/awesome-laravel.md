@@ -11,7 +11,7 @@ title: Awesome Rank for chiraggude/awesome-laravel
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 
-Inspired by [ziadoz/awesome-php ★17326](https://github.com/ziadoz/awesome-php)
+Inspired by [ziadoz/awesome-php ★17604](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
 
@@ -103,7 +103,7 @@ Inspired by [ziadoz/awesome-php ★17326](https://github.com/ziadoz/awesome-php)
 * [Google2FA ★690](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module
 * [Laravel User Verification ★460](https://github.com/jrean/laravel-user-verification) - Handle the user verification flow and validate email
 * [Adldap2 Laravel ★331](https://github.com/Adldap2/Adldap2-Laravel) - LDAP authentication and Active Directory management
-* [Doorman ★566](https://github.com/clarkeash/doorman) - Limit access to your Laravel applications by using invite codes.
+* [Doorman ★575](https://github.com/clarkeash/doorman) - Limit access to your Laravel applications by using invite codes.
 
 ##### Utilities
 
@@ -207,7 +207,7 @@ Inspired by [ziadoz/awesome-php ★17326](https://github.com/ziadoz/awesome-php)
 * [Dingo API ★6846](https://github.com/dingo/api) - Multi-purpose toolkit for developing RESTful APIs
 * [Laravel CORS ★2122](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 * [Laravel Fractal ★864](https://github.com/spatie/laravel-fractal) - Output complex, flexible, AJAX/RESTful data structures with Fractal in Laravel and Lumen
-* [Laravel GraphQL ★899](https://github.com/Folkloreatelier/laravel-graphql) - Facebook GraphQL for Laravel 5. It supports Relay, eloquent models, validation and GraphiQL.
+* [Laravel GraphQL ★966](https://github.com/Folkloreatelier/laravel-graphql) - Facebook GraphQL for Laravel 5. It supports Relay, eloquent models, validation and GraphiQL.
 
 ##### Tasks, Commands and Scheduling
 

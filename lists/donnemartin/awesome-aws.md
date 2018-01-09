@@ -529,7 +529,7 @@ AWS Repos:
 
 Community Repos:
 
-* [capeless/warrant :fire: ★97](https://github.com/capless/warrant) - Python library for using Cognito.
+* [capeless/warrant :fire: ★110](https://github.com/capless/warrant) - Python library for using Cognito.
 
 ### Data Pipeline
 
@@ -756,7 +756,7 @@ Community Repos:
 * [nficano/python-lambda :fire::fire::fire: ★569](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in Lambda.
 * [serverless/serverless :fire::fire::fire::fire::fire: ★20784](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
 * [Tim-B/grunt-aws-lambda :fire::fire: ★251](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
-* [trek10inc/aws-lambda-debugger :fire: ★198](https://github.com/trek10inc/aws-lambda-debugger) - Remote debugging tool for Lambda functions running on Node 6.10
+* [trek10inc/aws-lambda-debugger :fire::fire: ★198](https://github.com/trek10inc/aws-lambda-debugger) - Remote debugging tool for Lambda functions running on Node 6.10
 
 ### Machine Learning
 
@@ -856,7 +856,7 @@ Community Repos:
 * [tongwang/s3fs-c :fire: ★127 ⏳4Y](https://github.com/tongwang/s3fs-c) - Mounts buckets for use on a local file system.
 * [twpayne/s3-parallel-put :fire::fire:](https://github.com/twpayne/s3-parallel-put) - CLI that supports parallel uploads.
 * [waynehoover/s3_direct_upload :fire::fire::fire: ★621](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
-* [weavejester/clj-aws-s3 :fire: ★199](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
+* [weavejester/clj-aws-s3 :fire::fire: ★199](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
 
 ### SES
 
@@ -950,11 +950,11 @@ AWS Repos:
 
 * [aws-arch-backoff-simulator ★75 ⏳2Y](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog.
 * [aws-big-data-blog :fire::fire::fire: ★512](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
-* [aws-demo-php-simple-app ★7](https://github.com/awslabs/aws-demo-php-simple-app) - PHP apps from the AWS Blogs.
+* [aws-demo-php-simple-app ★7 ⏳1Y](https://github.com/awslabs/aws-demo-php-simple-app) - PHP apps from the AWS Blogs.
 * [aws-mobile-sample-wif](https://github.com/awslabs/aws-mobile-sample-wif) - Samples from the AWS Mobile SDK blog.
 * [aws-mobile-self-paced-labs-samples](https://github.com/awslabs/aws-mobile-self-paced-labs-samples) - Android Snake Game from a self-paced lab.
 * [aws-quickstart](https://github.com/aws-quickstart/) - Official repository for AWS Quick Start.
-* [aws-spot-labs :fire:](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances.
+* [aws-spot-labs :fire::fire:](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances.
 * [aws-training-demo ★93](https://github.com/awslabs/aws-training-demo) - Demos from the Technical Trainers community.
 * [java-meme-generator-sample](https://github.com/awslabs/java-meme-generator-sample) - Meme generation app from re:Invent 2012.
 * [railsconf2013-tech-demo :fire: ★166 ⏳4Y](https://github.com/awslabs/railsconf2013-tech-demo) - Seahorse demo from RailsConf 2013.

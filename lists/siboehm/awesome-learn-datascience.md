@@ -36,7 +36,7 @@ No previous knowledge required but Python and statistics basics will definitely 
 - [Model ensemble: Explanation](https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/) - Combine multiple models into one for better performance.
 
 ## Data Science using Python
-This list covers only Python, as many are already familiar with this language. [Data Science tutorials using R ★907](https://github.com/ujjwalkarn/DataScienceR).
+This list covers only Python, as many are already familiar with this language. [Data Science tutorials using R ★939](https://github.com/ujjwalkarn/DataScienceR).
 
 ### Learning Python
 

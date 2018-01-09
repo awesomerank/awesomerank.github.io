@@ -30,7 +30,7 @@ There are a lot of ways to get updates, choose your own
 
 - [Official Blog](http://www.jstips.co)
 - [Official Twitter Account](https://twitter.com/tips_js)
-- [Hubot ★8 ⏳1Y](https://github.com/dggriffin/hubot-jstips)
+- [Hubot ★8 ⏳2Y](https://github.com/dggriffin/hubot-jstips)
 - [Slackbot ★18](https://github.com/radibit/js-tips-slack-bot)
 - [js2016.tips](http://js2016.tips/)
 - [Hingsir](http://hingsir.com/jstips-site/dist/tips/)

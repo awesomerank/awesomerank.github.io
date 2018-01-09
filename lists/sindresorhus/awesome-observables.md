@@ -39,8 +39,8 @@ You might also like [awesome-nodejs ★20503](https://github.com/sindresorhus/aw
 
 ## Packages
 
-- [any-observable ★38 ⏳1Y](https://github.com/sindresorhus/any-observable) - Support any Observable library and polyfill.
-- [is-observable ★17](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable.
+- [any-observable ★39 ⏳1Y](https://github.com/sindresorhus/any-observable) - Support any Observable library and polyfill.
+- [is-observable ★19](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable.
 - [observable-to-promise ★24](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
 - [stream-to-observable ★52 ⏳1Y](https://github.com/jamestalmage/stream-to-observable) - Convert a Node.js stream into an Observable.
 - [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill.

@@ -157,7 +157,7 @@ Made with Electron.
 - [Marky ★310](https://github.com/vesparny/marky) - Markdown editor.
 - [Deco ★5437](https://github.com/decosoftware/deco-ide) - React Native IDE.
 - [Toshocat ★125 ⏳1Y](https://github.com/tofuness/Toshocat) - Anime/Manga Progress Tracker.
-- [iStats ★83](https://github.com/ningt/iStats) - CPU and memory stats on your menubar.
+- [iStats ★83 ⏳1Y](https://github.com/ningt/iStats) - CPU and memory stats on your menubar.
 - [Wire ★585](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
 - [Ramme ★2478](https://github.com/terkelg/ramme) - Unofficial Instagram app.
 - [Moonview ★54](https://github.com/teesloane/moonview) - Ambient notepad.
@@ -183,7 +183,7 @@ Made with Electron.
 - [Insomnia ★5809](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 - [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app.
 - [ProtonMail Desktop ★178](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
-- [Comma Chameleon ★171](https://github.com/theodi/comma-chameleon) - CSV editor.
+- [Comma Chameleon ★170](https://github.com/theodi/comma-chameleon) - CSV editor.
 - [Buttercup Desktop ★1867](https://github.com/buttercup/buttercup-desktop) - Password manager.
 - [Mailspring ★2103](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 - [Manta ★1720](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
@@ -248,7 +248,7 @@ Made with Electron.
 - [electron-quick-start ★3315](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 - [bozon ★528](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [electron-vue ★4210](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
-- [electron-next-skeleton ★80](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
+- [electron-next-skeleton ★90](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
 - [electron-sandbox ★11](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
 
 
@@ -311,7 +311,7 @@ Made with Electron.
 - [electron-unhandled ★96](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 - [electron-process-manager ★42](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
 - [ipc-flux ★3](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
-- [electron-util ★168](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
+- [electron-util ★173](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
 
 ### Using Electron
 

@@ -47,15 +47,15 @@ Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list
 - [Cash ★7404](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck.
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
 - [iTunes-remote ★283](https://github.com/mischah/itunes-remote) - Control iTunes on the CLI.
-- [phunt ★97 ⏳1Y](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
-- [trelew ★68 ⏳1Y](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
-- [wat ★382 ⏳1Y](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
+- [phunt ★98 ⏳1Y](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
+- [trelew ★69 ⏳1Y](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
+- [wat ★385 ⏳1Y](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
 - [metronome ★6 ⏳2Y](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI.
 - [fastack ★27 ⏳1Y](https://github.com/fastack/cli) - A zero-config tool that makes developing client-side apps easy.
 - [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.
-- [quotr ★60 ⏳1Y](https://github.com/andrerpena/quotr) - View stock exchange quotes.
+- [quotr ★62 ⏳1Y](https://github.com/andrerpena/quotr) - View stock exchange quotes.
 - [Vantage ★3376](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app.
-- [birdknife ★23 ⏳1Y](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI.
+- [birdknife ★23](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI.
 - [tv-remote-cli ★16](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV.
 - [launch ★27](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more
 - [lifxsh ★4](https://github.com/ristomatti/lifxsh) - Interactive shell for controlling [LIFX](http://www.lifx.com) smart lights.
@@ -66,12 +66,12 @@ Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list
 
 #### POSIX implementations
 
-- [less ★11 ⏳1Y](https://github.com/vorpaljs/vorpal-less) - Implementation of the `less` command.
-- [grep ★10 ⏳1Y](https://github.com/vorpaljs/vorpal-grep) - Implementation of the `grep` command.
+- [less ★12 ⏳1Y](https://github.com/vorpaljs/vorpal-less) - Implementation of the `less` command.
+- [grep ★11 ⏳1Y](https://github.com/vorpaljs/vorpal-grep) - Implementation of the `grep` command.
 
 #### Development tools
 
-- [repl ★13 ⏳2Y](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context.
+- [repl ★14 ⏳2Y](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context.
 - [tour ★12 ⏳2Y](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
 - [watch ★2 ⏳2Y](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime.
 - [log ★9 ⏳2Y](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
@@ -88,7 +88,7 @@ Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list
 #### Toolbox
 - [rc ★6 ⏳1Y](https://github.com/subk/vorpal-rc) - Simple .rc file support.
 - [comment ★4 ⏳1Y](https://github.com/subk/vorpal-comment) - Bash-like comment support.
-- [as-default ★3 ⏳1Y](https://github.com/ialpert/vorpal-as-default) - Triggers Vorpal task in case it runs without any specificly defined task.
+- [as-default ★4 ⏳1Y](https://github.com/ialpert/vorpal-as-default) - Triggers Vorpal task in case it runs without any specificly defined task.
 
 ## Contribute
 

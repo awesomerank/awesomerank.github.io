@@ -13,7 +13,7 @@ title: Awesome Rank for mojoaxel/awesome-regression-testing
 Regression testing is a type of software testing which verifies that software which was previously developed and tested still performs the same way after it was changed or interfaced with other software. The purpose of regression testing is to ensure that changes to the software have not introduced new faults.
 
 ## Foreword
-This is intended to be an *incomplete* list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awsome-testing ★101](https://github.com/TheJambo/awesome-testing).
+This is intended to be an *incomplete* list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awsome-testing ★119](https://github.com/TheJambo/awesome-testing).
 
 Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ★**.
 
@@ -73,8 +73,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Happo ★330](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces.
 - [reg-cli](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html repot.
 - [Nightmare ★14483](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
-- [Puppeteer ★20492](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
-- [Visual Review ★221](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
+- [Puppeteer ★22638](https://github.com/GoogleChrome/puppeteer) - Headless Google Chrome Node API.
+- [Visual Review ★224](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
 - [reg-suit ★93](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
 - [Chimp ★702](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 

@@ -55,15 +55,15 @@ You might also like [awesome-npm ★2721](https://github.com/sindresorhus/awesom
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 - [script-runner ★16](https://github.com/paulpflug/script-runner) - Simple task runner with a terse syntax.
-- [npm-run-all ★1469](https://github.com/mysticatea/npm-run-all) - Fully featured task runner.
-- [redrun ★55](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+- [npm-run-all ★1517](https://github.com/mysticatea/npm-run-all) - Fully featured task runner.
+- [redrun ★57](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 
 ## File Watchers
 
 Tools to watch your source files and run a build command whenever any of the files change.
 
-- [onchange ★296](https://github.com/Qard/onchange) - `onchange <glob> -- <command>`.
-- [watch ★1000](https://github.com/mikeal/watch) - `watch <command> <directory>`.
+- [onchange ★307](https://github.com/Qard/onchange) - `onchange <glob> -- <command>`.
+- [watch ★1014](https://github.com/mikeal/watch) - `watch <command> <directory>`.
 
 ## Dev Servers
 
@@ -75,11 +75,11 @@ Tools to watch your source files and run a build command whenever any of the fil
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
 - [rimraf ★2124](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`.
-- [del-cli ★78](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion.
+- [del-cli ★82](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion.
 - [mkdirp ★1614](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`.
-- [cpy-cli ★65 ⏳1Y](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming.
-- [copyfiles ★69](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory.
-- [sync-files ★21](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode.
+- [cpy-cli ★66 ⏳1Y](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming.
+- [copyfiles ★76](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory.
+- [sync-files ★22](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode.
 - [echo-cli ★3 ⏳1Y](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support.
 - [clear-cli ★32 ⏳1Y](https://github.com/sindresorhus/clear-cli) - Clear the terminal.
 - [cross-env ★1982](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style.
@@ -89,20 +89,20 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ### Utility Packs
 
-- [shx ★358](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
+- [shx ★378](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
 ## Other Utilities
 
-- [hashmark ★175](https://github.com/keithamus/hashmark) -  Take contents of a file and output as new file with a hash in the name.
-- [gzip-size-cli ★86](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
-- [opn-cli ★116 ⏳1Y](https://github.com/sindresorhus/opn-cli) - Open websites, files, executables, etc. with the user's preferred application.
+- [hashmark ★177](https://github.com/keithamus/hashmark) -  Take contents of a file and output as new file with a hash in the name.
+- [gzip-size-cli ★88](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
+- [opn-cli ★125 ⏳1Y](https://github.com/sindresorhus/opn-cli) - Open websites, files, executables, etc. with the user's preferred application.
 - [headr ★0 ⏳1Y](https://github.com/heldr/headr) - Add header / banner info to a file.
 - [Bower files CLI ★3](https://github.com/thompsonemerson/bower-files-cli) - Get main bower files on the command line
 
 ## Miscellaneous
 
 - [screwy ★84 ⏳1Y](https://github.com/samueleaton/screwy) - The npm scripts GUI.
-- [Forrest ★230 ⏳1Y](https://github.com/stefanjudis/forrest) - npm scripts desktop client.
+- [Forrest ★242 ⏳1Y](https://github.com/stefanjudis/forrest) - npm scripts desktop client.
 - [run-npm ★158](https://github.com/timoxley/npm-run) - Run locally-installed node module executables. Useful for debugging npm scripts.
 - [npm-quick-run ★66](https://github.com/bahmutov/npm-quick-run) - Quickly run npm scripts by prefix without typing the full name.
 - [edit-script ★3](https://github.com/RyanZim/edit-script) - Edit npm scripts from the command line without worrying about JSON escaping.

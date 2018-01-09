@@ -175,7 +175,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everyd
 
   Talk on building a successful small solo business.
   
-- **[Paul Buchheit at Startup School 08](https://www.youtube.com/watch?v=EZxP0i9ah8E)
+- **[Paul Buchheit at Startup School 08](https://www.youtube.com/watch?v=EZxP0i9ah8E)**
 
   In this classic talk, AdSense/GMail/like button inventor explains how to listen to your users and why you should be critical of startup advice.
   
@@ -363,11 +363,11 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   A collection of resources for bootstrappers put together by [Mac Martine](http://macmartine.com/). 
 
-- **[free-for-dev ★17662](https://github.com/ripienaar/free-for-dev)**
+- **[free-for-dev ★17836](https://github.com/ripienaar/free-for-dev)**
 
   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
   
-- **[Stack-on-a-budget ★6852](https://github.com/255kb/stack-on-a-budget)**
+- **[Stack-on-a-budget ★6884](https://github.com/255kb/stack-on-a-budget)**
 
   Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
 

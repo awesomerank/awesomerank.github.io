@@ -42,7 +42,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * Babel: [grunt-babel ★386](https://github.com/babel/grunt-babel) - Turn ES6+ code into vanilla ES5 with no runtime
 * Traceur: [grunt-traceur](https://github.com/aaronfrost/grunt-traceur) ES6 > ES5 transpilation, [grunt-traceur-build ★9 ⏳1Y](https://github.com/tarruda/grunt-traceur-build)
 * ES6 Module Transpiler: [grunt-es6-module-transpiler ★86 ⏳1Y](https://github.com/joefiorini/grunt-es6-module-transpiler)
-* Regenerator: [grunt-regenerator ★20](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
+* Regenerator: [grunt-regenerator ★20 ⏳1Y](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
 * [grunt-microlib ★29 ⏳4Y](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (sample [Gruntfile](https://github.com/jakearchibald/es6-promise/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js))
 * [grunt-defs ★5](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3
 * es6-transpiler: [grunt-es6-transpiler ★12 ⏳2Y](https://github.com/sindresorhus/grunt-es6-transpiler) - ES6 → ES5

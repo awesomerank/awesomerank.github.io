@@ -170,7 +170,7 @@ Please, add yourself and your economics-related projects.
 
 ### Projects
 
-* [economics-book ★5](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
+* [economics-book ★6](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
 * [pyeconomics ★76 ⏳4Y](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 * [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 * [quantecon_nyu_2016 ★39 ⏳1Y](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
@@ -182,7 +182,7 @@ Please, add yourself and your economics-related projects.
 * [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
 * [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets. Updated regularly.
-* [fecon235 ★241](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
+* [fecon235 ★266](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
 * [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 
 

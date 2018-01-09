@@ -54,7 +54,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## AI
 *Navigation, Decision-Making and AI Libraries*
 
-* [Jumper ★416](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library
+* [Jumper ★421](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library
 
 ## Animation
 *Animation & Frame-Managing Libraries*
@@ -81,7 +81,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [FPSGraph ★12 ⏳3Y](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility
 * [debugGraph ★16](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph
-* [Lovebird ★149](https://github.com/rxi/lovebird) - Browser-based debug console
+* [Lovebird ★153](https://github.com/rxi/lovebird) - Browser-based debug console
 * [Lovecat ★16 ⏳2Y](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
 * [LoveDebug ★60 ⏳1Y](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
 * [lurker ★105 ⏳2Y](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
@@ -95,7 +95,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Autobatch ★39](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
 * [HSLUV ★15 ⏳1Y](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL)
 * [Maid64 ★19](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE
-* [Möan.lua ★35](https://github.com/twentytwoo/Moan.lua) - Multiple-choice VN-esque messagebox library for LÖVE
+* [Möan.lua ★41](https://github.com/twentytwoo/Moan.lua) - Multiple-choice VN-esque messagebox library for LÖVE
 * [renderplanet ★9](https://github.com/meric/renderplanet) - realistic orthographic planet rendering
 * [Sölar ★1](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator
 * [svglover ★17](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE
@@ -116,7 +116,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [lovely-windows ★3](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 * [love-state-switcher ★5](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine
 * [lue ★27](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game
-* [lume ★229](https://github.com/rxi/lume) - Collection of functions for Lua, geared towards game development
+* [lume ★232](https://github.com/rxi/lume) - Collection of functions for Lua, geared towards game development
 * [rotLove ★116](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
 * [ScreenManager ★16](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework
 * [shack ★27 ⏳1Y](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation
@@ -163,11 +163,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## <a name="object"></a>Object Orientation
 *Object Orientation Libraries that support [Class-Commons ★33 ⏳2Y](https://github.com/bartbes/Class-Commons)*
 
-* [30log ★234](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
+* [30log ★239](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
 * [classic ★175](https://github.com/rxi/classic) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
 * [hump.class](http://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
-* [middleclass ★892](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
+* [middleclass ★908](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
 
 ## Performance
 *Performance measurement tools*
@@ -179,7 +179,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Physics
 *Collision Detection & Physics Wrappers*
 
-* [Bump ★375](https://github.com/kikito/bump.lua) - Collision detection library for Lua
+* [Bump ★383](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [HC](http://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [Windfield ★73](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE
 
@@ -232,10 +232,10 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tweening
 *Smoothing & Timer Libraries*
 
-* [Flux ★132 ⏳1Y](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
+* [Flux ★135 ⏳1Y](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
 * [hump.timer](http://hump.readthedocs.io/en/latest/timer.html) - Timer and tweening library with flexible tweening methods
 * [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
-* [tween.lua ★271 ⏳1Y](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method
+* [tween.lua ★278 ⏳1Y](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method
 
 ## UI
 *User Interface Libraries*
@@ -316,7 +316,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 # Other Awesome Lists
 
-* [awesome-lua ★1545](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses
+* [awesome-lua ★1566](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses
 * [awesome-love-shaders ★36 ⏳2Y](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE
 * [awesome-pico8 ★713](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more
 

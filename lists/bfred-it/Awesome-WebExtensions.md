@@ -74,14 +74,14 @@ Apps that help you manage your extensions.
 
 - [create-webextension ★5](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
-- [generator-chrome-extension-kickstart ★175](https://github.com/handtrix/generator-chrome-extension-kickstart) - Flexible Boilerplate based on gulp, webpack & babel.
+- [generator-web-extension ★1](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [react-chrome-extension-boilerplate ★855](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
 
 ## Sample Extensions
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI.
 
-- [npmhub ★297](https://github.com/npmhub/npmhub)
+- [npmhub ★298](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub ★180](https://github.com/sindresorhus/hide-files-on-github)
 - [Refined GitHub ★2953](https://github.com/sindresorhus/refined-github)
 - [mdn/webextension-examples ★965](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.

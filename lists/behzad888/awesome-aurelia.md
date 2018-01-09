@@ -100,7 +100,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-template-lint ★51](https://github.com/MeirionHughes/aurelia-template-lint) * Sanity check of Aurelia-flavor template HTML
 * [atom-aurelia-snippets](https://atom.io/packages/atom-aurelia-snippets) * JavaScript and TypeScript snippets for atom
 * [aurelia-installer ★3](https://github.com/kristianmandrup/aurelia-installer) * CLI for managing Aurelia components and vendor libs
-* [aurelia-debugger ★5 ⏳1Y](https://github.com/charlespockert/aurelia-debugger) * Visual debug tool for Aurelia
+* [aurelia-debugger ★5 ⏳2Y](https://github.com/charlespockert/aurelia-debugger) * Visual debug tool for Aurelia
 
 #### Seed Project
 
@@ -185,7 +185,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-notification ★31](https://github.com/SpoonX/aurelia-notification) {ES6/TS/Webpack} * Automatically translated notifications utilizing humane.js and i18n
 * [aurelia-binding-loader ★12 ⏳1Y](https://github.com/bryanrsmith/aurelia-binding-loader) * An Aurelia loader for using any module directly from a view template
 * [aurelia-dragula ★26](https://github.com/michaelmalonenz/aurelia-dragula) * An ES2015 port of the Dragula library, targeted at the Aurelia Framework
-* [aurelia-breeze ★67](https://github.com/jdanyow/aurelia-breeze) * Everything you need to use Breeze with Aurelia
+* [aurelia-breeze ★67 ⏳1Y](https://github.com/jdanyow/aurelia-breeze) * Everything you need to use Breeze with Aurelia
 * [aurelia-bootstrap-datepicker](https://github.com/Itprosolutions/aurelia-bootstrap-datepicker) * An aurelia port for bootstrap-datepicker
 * [Aurelia-Configuration ★94](https://github.com/vheissu/aurelia-configuration) * Smart configuration for your Aurelia applications.
 * [aurelia-environment ★4](https://github.com/MarcScheib/aurelia-environment) * aurelia-environment provides simple .env parsing and loading

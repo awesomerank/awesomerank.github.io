@@ -46,8 +46,8 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [trackingjs](https://trackingjs.com/) - computer vision on the web
 
 ## sound
-- [doppler ★2214](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers
-- [speak.js ★233 ⏳1Y](https://github.com/mattytemple/speak-js) - text-to-speech on the web
+- [doppler ★2219](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers
+- [speak.js ★231 ⏳2Y](https://github.com/mattytemple/speak-js) - text-to-speech on the web
 
 ## streams
 - [strip-html](https://www.npmjs.com/package/strip-html) - strip html from a stream
@@ -71,10 +71,10 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [cash ★7404](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6
 
 ## virtual machines
-- [jsemu ★865](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript
+- [jsemu ★875](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript
 - [jslinux](https://www.npmjs.com/package/jslinux) - x86 emulator for running Linux, written in JavaScript
 - [jvm](https://www.npmjs.com/package/node-jvm) - java virtual machine in pure node.js
-- [doppio ★1707](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript
+- [doppio ★1714](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript
 
 ## misc
 - [bell.js](https://www.npmjs.com/package/bell.js) - real-time anomalies detection for periodic time series.

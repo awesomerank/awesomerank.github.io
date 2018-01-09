@@ -210,7 +210,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Device support
 * [Motion-distance ★22 ⏳3Y](https://github.com/willrax/motion-distance) - Easy distance tracking for RubyMotion projects.
-* [Motion-capture ★12 ⏳3Y](https://github.com/dblandin/motion-capture) - AVFoundation wrapper to support custom camera controllers.
+* [Motion-capture ★12 ⏳4Y](https://github.com/dblandin/motion-capture) - AVFoundation wrapper to support custom camera controllers.
 
 
 ### Encryption
@@ -252,7 +252,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### Autolayout
 * [Purplish-layout](http://hboon.com/purplish-layout/) - RubyMotion wrapper for Auto Layout on iOS and macOS
-* [Motion-layout ★226 ⏳3Y](https://github.com/qrush/motion-layout) - Nice way to use Auto Layout in your RubyMotion app.
+* [Motion-layout ★226 ⏳4Y](https://github.com/qrush/motion-layout) - Nice way to use Auto Layout in your RubyMotion app.
 
 
 #### Input

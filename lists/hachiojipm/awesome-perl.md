@@ -9,7 +9,7 @@ title: Awesome Rank for hachiojipm/awesome-perl
 ---
 # Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Perl5 frameworks, libraries and software. Inspired by [awesome-go ★25806](https://github.com/avelino/awesome-go).
+A curated list of awesome Perl5 frameworks, libraries and software. Inspired by [awesome-go ★26574](https://github.com/avelino/awesome-go).
 
 Not Perl6 modules ;-P
 
@@ -340,7 +340,7 @@ We also recommend these lists.
 
 * [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
 * [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) - A simple prefork server framework
-* [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman ★4527](https://github.com/ddollar/foreman)
+* [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman ★4564](https://github.com/ddollar/foreman)
 
 ## Profiling
 
@@ -507,9 +507,9 @@ Other amazingly awesome lists can be found in:
 
 * [bayandin/awesome-awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness)
 * [emijrp/awesome-awesome ★979](https://github.com/emijrp/awesome-awesome)
-* [fleveque/awesome-awesomes ★485 ⏳1Y](https://github.com/fleveque/awesome-awesomes)
+* [fleveque/awesome-awesomes ★489 ⏳1Y](https://github.com/fleveque/awesome-awesomes)
 * [sindresorhus/awesome ★73813](https://github.com/sindresorhus/awesome)
-* [t3chnoboy/awesome-awesome-awesome ★984](https://github.com/t3chnoboy/awesome-awesome-awesome)
+* [t3chnoboy/awesome-awesome-awesome ★1015](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
 # How to contribute?
 

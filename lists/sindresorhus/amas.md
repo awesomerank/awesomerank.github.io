@@ -13,16 +13,16 @@ title: Awesome Rank for sindresorhus/amas
 
 #### Ask these people anything!
 
-- [Sindre Sorhus ★817](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
+- [Sindre Sorhus ★834](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
 - [Pascal Hartig ★33 ⏳2Y](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 - [Stephen Sawchuk ★12 ⏳2Y](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 - [Arthur Verschaeve](https://github.com/arthurvr/ama) - Open source fanboy at H5BP, Yeoman, jQuery, and TodoMVC.
-- [Mark Otto ★80 ⏳2Y](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
+- [Mark Otto ★81 ⏳2Y](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
 - [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
-- [Kent C. Dodds ★171](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
+- [Kent C. Dodds ★179](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
 - [Simon Boudrias ★2 ⏳2Y](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
 - [Reza Akhavan ★3 ⏳2Y](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
-- [Wes Bos ★185 ⏳1Y](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
+- [Wes Bos ★189 ⏳1Y](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
 - [Anselm Hannemann ★7 ⏳2Y](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
 - [Blain Smith ★2 ⏳2Y](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
 - [Lewis Cowper ★4 ⏳2Y](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
@@ -53,12 +53,12 @@ title: Awesome Rank for sindresorhus/amas
 - [Rishabh Pugalia ★9 ⏳2Y](https://github.com/rishabhp/ama) - Full stack engineer. Creator of [CSSDeck](http://cssdeck.com).
 - [Matthew Mueller ★3 ⏳2Y](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
 - [DeokHong Kim ★0 ⏳2Y](https://github.com/insanehong/ama) - Front-end engineer at NAVER, founder of [hackrslab](https://github.com/hackrslab).
-- [Hugo Giraudel ★26 ⏳2Y](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
+- [Hugo Giraudel ★27 ⏳2Y](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
 - [Will Binns-Smith ★0 ⏳2Y](https://github.com/wbinnssmith/ama) - JavaScript at Bitbucket. Makes internet things.
 - [Lauri Tervonen ★0 ⏳2Y](https://github.com/mollikka/ama) - CS & SE university student in Finland.
 - [Matija Marohnić ★1 ⏳2Y](https://github.com/silvenon/ama) - From modding Warcraft to frontend design/development and nerdiness for Node.js build tools.
 - [Kyle Robinson Young ★1 ⏳2Y](https://github.com/shama/ama) - Makes stuff and likes bears.
-- [Trent Oswald](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website ★215](https://github.com/nodejs/iojs.org).
+- [Trent Oswald](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website ★214](https://github.com/nodejs/iojs.org).
 - [Una Kravets ★16 ⏳2Y](https://github.com/una/ama) - Front-end developer, Sass things, Dev communities & Open Source Design.
 - [Chris Missal ★1 ⏳2Y](https://github.com/chrismissal/ama) - Maker of Internet things in Austin, TX. A goofball, nerd, and OSS lover.
 - [Acho Arnold](https://github.com/najela/ama) - Full stack web developer with great passion in [Social Psychology](https://en.wikipedia.org/wiki/Social_psychology).
@@ -85,7 +85,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Daichi Furiya ★2 ⏳2Y](https://github.com/wasabeef/ama) - Software developer in Japan. I love Android, JavaScript and iOS.
 - [Maxime Thirouin ★2 ⏳2Y](https://github.com/MoOx/ama) - Freelance front-end/UI/UX developer. Open Source addict & compulsive coder.
 - [Chris Biscardi](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript](https://github.com/future-ui/future-ui). [Haskell ★18 ⏳2Y](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
-- [Vladimir Agafonkin](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries ★73](https://github.com/mourner/projects). Building the future of interactive maps.
+- [Vladimir Agafonkin](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries ★75](https://github.com/mourner/projects). Building the future of interactive maps.
 - [Claudio Procida ★0 ⏳2Y](https://github.com/claudiopro/ama) - Full stack web developer, mentor, evangelist and speaker. Passionate about painting and photography.
 - [Zeno Rocha ★73 ⏳2Y](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/).
 - [Kahlil Lechelt ★0](https://github.com/kahlil/ama) - JavaScript developer, organizes KarlsruheJS, co-host of the [Descriptive Podcast](http://descriptive.audio) and the [Reactive Podcast](http://reactive.audio), vocalist.
@@ -112,10 +112,10 @@ title: Awesome Rank for sindresorhus/amas
 - [Unbug Lee ★0 ⏳1Y](https://github.com/unbug/ama) - Author of [MIHTool](http://www.mihtool.com) and [Codelf](http://unbug.github.io/codelf/).
 - [Tibor Simon ★0 ⏳1Y](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, [tiborsimon.io](https://tiborsimon.io).
 - [Danilo Vaz](https://github.com/danilovaz/ama) - Front-end developer (Brazilian), working at [mLabs](https://www.mlabs.com.br/) with JavaScript, EmberJS, APIs and other cool stuffs. I'm also [BeerJS/SJC ★13 ⏳1Y](https://github.com/beerjs/sjc) organizer.
-- [Adrian Mejia](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at [adrianmejia.com](http://adrianmejia.com). Author of ["E-commerce Application built with the MEAN stack" ★100 ⏳1Y](https://github.com/amejiarosario/meanshop). JavaScript lover. Boston located.
+- [Adrian Mejia](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at [adrianmejia.com](http://adrianmejia.com). Author of ["E-commerce Application built with the MEAN stack" ★103 ⏳1Y](https://github.com/amejiarosario/meanshop). JavaScript lover. Boston located.
 - [Jon Kuperman ★1 ⏳1Y](https://github.com/jkup/ama) - I love JavaScript! I blog at [Codeplanet](https://codeplanet.io), make videos at [Nodecasts](https://nodecasts.io) and podcast at [The Web Behind](https://webbehind.com).
 - [Max Stoiber](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS](https://github.com/keystonejs/keystone) and [ElementalUI](https://github.com/elementalui/elemental). Creator of [react-boilerplate](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
-- [Joe Lencioni](https://github.com/lencioni/ama) - Building [ImportJS ★302](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com).
+- [Joe Lencioni](https://github.com/lencioni/ama) - Building [ImportJS ★314](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com).
 - [Lindsey Bieda ★0 ⏳1Y](https://github.com/lindseyb/ama) - Back-end developer, game maker, and hardware hacker.
 - [Jeroen Engels ★3 ⏳1Y](https://github.com/jfmengels/ama) - JS developer and open source enthusiast.
 - [Tim Smith ★0 ⏳1Y](https://github.com/smithtimmytim/ama) - Front-end designer, nerd, and recovering coffee addict.
@@ -125,7 +125,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Kundan Singh](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
 - [Michael Novotny ★2 ⏳1Y](https://github.com/manovotny/ama) - JavaScript developer. Open source contributor. Insatiable learner. Standards and best practices enthusiast. Development is a lifestyle, not a job.
 - [Artem Sapegin](https://github.com/sapegin/ama) - Frontend developer at Here, creator of [React Styleguidist](https://github.com/sapegin/react-styleguidist) and passionate photographer.
-- [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy ★14](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
+- [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy ★15](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
 - [Jesse Palmer](https://github.com/jesselpalmer/ama) - Author of [Testing Angular 2 Applications](http://testing-angular-2-applications.com). Master Software Engineer, Manager at Capital One.
 - [Chris 'Freddy' Getsfred ★0 ⏳1Y](https://github.com/elderfo/ama) - Black hoodie aficionado, full-stack developer, JavaScript lover, new open source contributer, former script nerd, former technology instructor.
 - [Seth Holladay ★0 ⏳1Y](https://github.com/sholladay/ama) - A human seeking a full stack of pancakes and software, bug free.
@@ -136,9 +136,9 @@ title: Awesome Rank for sindresorhus/amas
 - [Travis Northcutt ★0](https://github.com/tnorthcutt/ama) - Husband, dad, nomad, PHP developer.
 - [Olavi Haapala ★1](https://github.com/olpeh/ama) - Web and mobile developer from Finland.
 - [Manu Sunny ★0](https://github.com/manupsunny/ama) - Indian. ThoughtWorker. Backend Java Developer. Android enthusiast.
-- [Ken Wheeler ★9](https://github.com/kenwheeler/ama) - Professional American. Manchild.
+- [Ken Wheeler ★8](https://github.com/kenwheeler/ama) - Professional American. Manchild.
 - [Helen V. Holmes ★2](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer.
-- [Rachel Andrew ★166](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+- [Rachel Andrew ★169](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 - [Ilya Bodrov ★0](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
 - [Matt Seemon ★0](https://github.com/mattseemon/ama) - Voice-over artist, karaoke jockey, amateur actor, IT enthusiast.
 - [Gaurav Mehla ★4](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor.
@@ -149,7 +149,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Lizzie Siegle ★0](https://github.com/elizabethsiegle/ama) - iOS and web developer, developer evangelist, hackathon hacker and judge, [Spectra](http://sospectra.com) organizer, racially ambiguous.
 - [Sami CHNITER ★0](https://github.com/chniter/ama) - Microsoft Exchange, Office, Skype For Business, PowerShell developer, blogger, and software geek.
 - [Mordechai Zuber](https://M-ZUBER/AMA) - Developer, Maintainer, Open Sourcer. Passionate about development.
-- [Krzysztof Cieslak ★1](https://github.com/Krzysztof-Cieslak/AMA) - Software developer, consultant, founder of [Lambda Factory](http://lambdafactory.io), author of [Ionide](http://ionide.io), [Forge](http://forge.run), [Fornax](https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of [VSCode-Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm), contributor to many OSS projects, international speaker. 
+- [Krzysztof Cieslak ★2](https://github.com/Krzysztof-Cieslak/AMA) - Software developer, consultant, founder of [Lambda Factory](http://lambdafactory.io), author of [Ionide](http://ionide.io), [Forge](http://forge.run), [Fornax](https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of [VSCode-Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm), contributor to many OSS projects, international speaker. 
 - [Benjamin Reitzammer ★4](https://github.com/benjmin-r/ama) - Developer, ex-CTO, Engineering Manager, Communities.
 - [Jiri Cincura](https://github.com/cincuranet/ama) - Developer, speaker, blogger, runner and yogi.
 - [Clark Weckmann ★0](https://github.com/clarkhacks/ama) - Web Developer, Designer, and Programmer. Specializing in small business websites and blogs.
@@ -158,11 +158,11 @@ title: Awesome Rank for sindresorhus/amas
 
 #### Ask these organizations anything!
 
-- [Edenspiekermann ★12 ⏳2Y](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world.
+- [Edenspiekermann ★14 ⏳2Y](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world.
 - [Code Monkey Health ★0 ⏳2Y](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food [LEAF](http://codemonkeyhealth.com).
 - [Ruby Taiwan ★115 ⏳2Y](https://github.com/rubytaiwan/AMA) - Helping developers in Taiwan with any questions. Can ask in English or Chinese.
-- [DevOps Taiwan ★41 ⏳2Y](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions.
-- [Vim Taiwan ★7 ⏳2Y](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions.
+- [DevOps Taiwan ★40 ⏳2Y](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions.
+- [Vim Taiwan ★8 ⏳2Y](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions.
 - [From the Front ★0 ⏳1Y](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
 - [HackCU ★4 ⏳2Y](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things.
 - [Ansible Taiwan ★6 ⏳1Y](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.

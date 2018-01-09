@@ -69,6 +69,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Books
 > Best books about WPO
 
+* [HTTP/2 in Action by Barry Pollard](https://www.manning.com/books/http2-in-action) - Barry Pollard - early release
 * [Web Performance in Action by Jeremy Wagner](https://www.manning.com/books/web-performance-in-action) - Jeremy L. Wagner
 * [Book of Speed](http://www.bookofspeed.com/) - Stoyan Stefanov
 * [Designing for Performance: Weighing Aesthetics and Speed](http://designingforperformance.com/) - Lara Callender Hogan
@@ -270,7 +271,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Imagemin ★1806](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
 * [Sharp ★6872](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
 * [Gm ★4599](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
-* [Exexif ★7409](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
+* [Exexif ★7511](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
 * [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.
 * [Grunt-contrib-imagemin ★1189](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
 * [Gulp-imagemin ★1397](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
@@ -284,7 +285,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Shrinkray](https://shrinkray.io) - One-click optimization for images in your Github repos
 * [mozjpeg ★2819](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 * [Jpegoptim ★624](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
-* [ZopfliPNG ★2027](https://github.com/google/zopfli) - A command line program to optimize PNG images.
+* [ZopfliPNG ★2057](https://github.com/google/zopfli) - A command line program to optimize PNG images.
 * [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress png files to get the smallest possible size.
 * [Leanify ★438](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 * [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
@@ -356,7 +357,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-contrib-concat ★810](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 * [Grunt-contrib-uglify ★1404](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify Javascript files.
 * [Clean-css ★2727](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
-* [Django-compressor ★1966](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
+* [Django-compressor ★1972](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 * [Django-pipeline](https://github.com/cyberdelia/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
 * [JShrink ★493](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
 * [JSCompress](http://jscompress.com/) - The most minimalistic online JS Compress tool.

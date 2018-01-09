@@ -78,14 +78,14 @@ Material Design
 Repo | Demo
 --- | ---
 [Material ★9060](https://github.com/CosmicMind/Material) <br> [![](http://gh-btns.cjwirth.com/stars/CosmicMind/Material)](https://github.com/CosmicMind/Material/stargazers) <br> Language: Swift <br> License: [BSD-3][BSD-3] | <img src="/assets/Material1.gif"> <img src="/assets/Material2.gif"> <img src="/assets/Material3.gif">
-[MaterialKit ★2502](https://github.com/nghialv/MaterialKit) <br> [![](http://gh-btns.cjwirth.com/stars/nghialv/MaterialKit)](https://github.com/nghialv/MaterialKit/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/MaterialKit1.gif">
+[MaterialKit ★2527](https://github.com/nghialv/MaterialKit) <br> [![](http://gh-btns.cjwirth.com/stars/nghialv/MaterialKit)](https://github.com/nghialv/MaterialKit/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/MaterialKit1.gif">
 
 
 Notifications and Alerts
 ========================
 Repo | Demo
 --- | ---
-[TSMessages ★4911](https://github.com/KrauseFx/TSMessages) <br> [![](http://gh-btns.cjwirth.com/stars/KrauseFx/TSMessages)](https://github.com/KrauseFx/TSMessages/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/TSMessages1.png"> <img src="/assets/TSMessages2.png"> <img src="/assets/TSMessages3.png">
+[TSMessages ★4922](https://github.com/KrauseFx/TSMessages) <br> [![](http://gh-btns.cjwirth.com/stars/KrauseFx/TSMessages)](https://github.com/KrauseFx/TSMessages/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/TSMessages1.png"> <img src="/assets/TSMessages2.png"> <img src="/assets/TSMessages3.png">
 [CRToast ★3986](https://github.com/cruffenach/CRToast) <br> [![](http://gh-btns.cjwirth.com/stars/cruffenach/CRToast)](https://github.com/cruffenach/CRToast/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/CRToast1.gif">
 [TWMessageBarManager ★1774](https://github.com/terryworona/TWMessageBarManager) <br> [![](http://gh-btns.cjwirth.com/stars/terryworona/TWMessageBarManager)](https://github.com/terryworona/TWMessageBarManager/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/TWMessageBarManager1.png">
 [RKDropdownAlert ★1447](https://github.com/cwRichardKim/RKDropdownAlert) <br> [![](http://gh-btns.cjwirth.com/stars/cwRichardKim/RKDropdownAlert)](https://github.com/cwRichardKim/RKDropdownAlert/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/RKDropdownAlert1.gif" width="49%" > <img src="/assets/RKDropdownAlert2.gif" width="49%" >

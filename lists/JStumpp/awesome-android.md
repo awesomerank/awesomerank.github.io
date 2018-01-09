@@ -103,11 +103,11 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 - [ActivityStarter ★253](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 - [AndroidAnnotations ★9943](https://github.com/androidannotations/androidannotations) - Java annotations with dependency injection at compile time.
-- [Toothpick ★581](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection (DI) library for Java.
+- [Toothpick ★611](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection (DI) library for Java.
 
 ### Android Services
-- [Remoter ★4](https://github.com/josesamuel/remoter) - An alternative to Android AIDL for Android Remote IPC services using plain java interfaces.
-- [Service Connector ★1](https://github.com/josesamuel/serviceconnector) - Bind Android services and callbacks to fields and methods.
+- [Remoter ★8](https://github.com/josesamuel/remoter) - An alternative to Android AIDL for Android Remote IPC services using plain java interfaces.
+- [Service Connector ★3](https://github.com/josesamuel/serviceconnector) - Bind Android services and callbacks to fields and methods.
 
 ### Game Development
 
@@ -117,7 +117,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
 - [Rajawali ★1603](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 - [Cocos2d-x](http://www.cocos2d-x.org) - Cross-platform 2d game framework.
-- [JustWeEngine ★695](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
+- [JustWeEngine ★699](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
 
 ### Security
 
@@ -137,7 +137,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AndroidFillableLoaders ★1704 ⏳1Y](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
 - [NexusDialog ★162](https://github.com/dkharrat/NexusDialog) - Allows you to easily and quickly create forms in Android with little code.
 - [Snap RecyclerView Utils ★74 ⏳1Y](https://github.com/prashantsolanki3/Snap-RecyclerView-Utils) - Populate Single or multiple Layout RecyclerView without creating an Adapter.
-- [MultiSnapRecyclerView ★1265](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView
+- [MultiSnapRecyclerView ★1307](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView
 - [SwipeableCard ★669](https://github.com/michelelacorte/SwipeableCard) - Implementation of swipe card like StreetView!!
 - [ElasticProgressBar ★284](https://github.com/michelelacorte/ElasticProgressBar) - Beautiful loading bar.
 - [EntryScreenManager ★30 ⏳1Y](https://github.com/kunall17/EntryScreenManager) - Intro/Entry/Walkthrough/Starting Screens.
@@ -201,7 +201,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [MaterialEditText ★4836](https://github.com/rengwuxian/MaterialEditText) - Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.
 - [Emojicon ★3065](https://github.com/rockerhieu/emojicon) - Adds emoticons to your app
 - [MaterialSearchBar ★1213](https://github.com/mancj/MaterialSearchBar) - Material Design Search Bar for Android
-- [InputMask ★480](https://github.com/RedMadRobot/input-mask-android) - Pattern-based user input formatter, parser and validator.
+- [InputMask ★490](https://github.com/RedMadRobot/input-mask-android) - Pattern-based user input formatter, parser and validator.
 
 #### Loading Images
 
@@ -215,9 +215,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 #### Video
 
 - [ijkplayer ★16829](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
-- [Exoplayer ★8500](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
+- [Exoplayer ★8757](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
    Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
-- [Easy-Video-Player ★1051](https://github.com/afollestad/easy-video-player) - Easy Video Player is very simple and easy to use in our app. 
+- [Easy-Video-Player ★1081](https://github.com/afollestad/easy-video-player) - Easy Video Player is very simple and easy to use in our app. 
 - [VideoPlayView ★50](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
 
 #### Camera
@@ -371,8 +371,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Runtime Permissions
 
-- [Permission Dispatcher ★6252](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
-- [RxPermissions ★5105](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava.
+- [Permission Dispatcher ★6449](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
+- [RxPermissions ★5329](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava.
 - [NoPermission ★75](https://github.com/NoNews/NoPermission) - Simple Android library for permissions request. Consists of only one class.
 
 ### Other
@@ -388,7 +388,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [ZXing Android-Integration ★16740](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent.
 - [Gradle Retrolambda Plugin ★5170](https://github.com/evant/gradle-retrolambda) - Java 8 Lambdas on Android!
 - [RxJava ★29535](https://github.com/ReactiveX/RxJava)- RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-- [RxBinding ★6632](https://github.com/JakeWharton/RxBinding)- RxBinding – RxJava binding APIs for Android UI widgets from the platform and support libraries.
+- [RxBinding ★6786](https://github.com/JakeWharton/RxBinding)- RxBinding – RxJava binding APIs for Android UI widgets from the platform and support libraries.
 - [Caffeine ★421](https://github.com/percolate/caffeine) - A collection of utility classes that help make Android development faster.
 - [AboutLibraries ★1963](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 - [AudioPlayerView ★79 ⏳1Y](https://github.com/HugoMatilla/AudioPlayerView) - A view that loads audio from an url and have basic playback tools.

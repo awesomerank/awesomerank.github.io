@@ -9,7 +9,7 @@ title: Awesome Rank for kennethreitz/awesome-coins
 ---
 # ₿ Awesome Crypto Currency Tools & Algorithms
 
-[![GitHub stars](https://img.shields.io/github/stars/kennethreitz/awesome-coins.svg?style=social&label=Star) ★2153](https://github.com/kennethreitz/awesome-coins)
+[![GitHub stars](https://img.shields.io/github/stars/kennethreitz/awesome-coins.svg?style=social&label=Star) ★2378](https://github.com/kennethreitz/awesome-coins)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
 [![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
 
@@ -38,7 +38,7 @@ Hope that helps clear things up.
 - [Internet Archive](https://archive.org) **BTC**: `1Archive1n2C579dMsAu3iC6tWzuQJz8dN`
 - [The Pirate Bay](https://thepiratebay.org) **BTC**: `129TQVAroeehD9fZpzK51NdZGQT4TqifbG`
 - [xkcd](https://xkcd.com) **BTC**: `14Tr4HaKkKuC1Lmpr2YMAuYVZRWqAdRTcr`
-- [this repo ★2153](https://github.com/kennethreitz/awesome-coins) **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
+- [this repo ★2378](https://github.com/kennethreitz/awesome-coins) **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
 
 ## ☤ Coin Market Tools & Utilities
 
@@ -55,12 +55,12 @@ Hope that helps clear things up.
 
 ## ☤ Reading Material
 
-- [Overview of Cryptocurrencies ★301](https://github.com/kilimchoi/cryptocurrency) — GitHub Repo.
+- [Overview of Cryptocurrencies ★338](https://github.com/kilimchoi/cryptocurrency) — GitHub Repo.
 - [Map of Coins](http://mapofcoins.com) – Explore the visualized history of the cryptocurrencies, from their whitepapers up to present days.
 - [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
-- [Mastering Bitcoin ★5796](https://github.com/bitcoinbook/bitcoinbook) (ebook)
+- [Mastering Bitcoin ★6664](https://github.com/bitcoinbook/bitcoinbook) (ebook)
 - [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
-- [Blockchain for humans ★3](https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (in construction).
+- [Blockchain for humans ★4](https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (in construction).
 - [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) — Official subreddit about crypto-currencies and crypto-assets.
 
 ## ☤ Coin Mining Pools
@@ -138,7 +138,7 @@ Actual Hosted Coin Wallets:
 - [bfgminer](http://macminer.fabulouspanda.com/commandline/) — Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.
 - [cgminer](http://macminer.fabulouspanda.com/commandline/) — ASIC and FPGA miner in C for Bitcoin.
 - [sgminer](http://macminer.fabulouspanda.com/commandline/) — Scrypt GPU miner.
-- [nheqminer ★48](https://github.com/kozyilmaz/nheqminer-macos) — Equihash CPU & GPU miner.
+- [nheqminer ★58](https://github.com/kozyilmaz/nheqminer-macos) — Equihash CPU & GPU miner.
 
 ## ☤ Recommended Hardware
 
@@ -147,7 +147,7 @@ Actual Hosted Coin Wallets:
 
 ## ☤ Cool Coin/Blockchain Stuff
 
-- [Bit ★491](https://github.com/ofek/bit) — Python’s fastest Bitcoin library with an API allowing transactions
+- [Bit ★528](https://github.com/ofek/bit) — Python’s fastest Bitcoin library with an API allowing transactions
   to be made in only 3 lines of code.
 - [bcoin](http://bcoin.io) — Bitcoin fullnode implementation written entirely in Node.js that you can even run in a browser, includes wallet, mempool, chain, and mining. 
 - [**BTC** Mempol and Fee Explorer](https://core.jochen-hoenicke.de/queue/#4d)
@@ -156,7 +156,7 @@ Actual Hosted Coin Wallets:
 - [Cosmos](https://cosmos.network) — Network and a framework for interoperability between blockchains.
 - [URI scheme for Blockchain exploration](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-August/010712.html)
 - [Blockply](https://blockply.com/) — Collection of the most interesting and outstanding blockchain projects
-- [Blockchain demo ★1671](https://github.com/anders94/blockchain-demo) — Web-based demonstration of blockchain concepts.
+- [Blockchain demo ★1835](https://github.com/anders94/blockchain-demo) — Web-based demonstration of blockchain concepts.
 - [Silly Gamble](https://www.sillygamble.com) — Simple, fair and transparent bitcoin betting game.
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)

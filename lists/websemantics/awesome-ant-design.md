@@ -90,7 +90,7 @@ Ant Design family of projects.
 
 Projects that are built with Angular and Ant Design.
 
-- [NG-ZORRO ★1923](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
+- [NG-ZORRO ★2128](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
 
 ## Vue.js
 
@@ -110,7 +110,7 @@ A list of UI components built with Ant Design.
 - [react-lz-editor ★377](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
 - [React Grid ★10 ⏳1Y](https://github.com/kagawagao/react-grid) __[Deprecated]__ - Grid React UI Component based on Ant Design.
 - [Antd Kit ★22 ⏳1Y](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
-- [antd-data-table ★28](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
+- [antd-data-table ★32](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
 
 ## Applications
 
@@ -150,8 +150,8 @@ A list of starter projects and boilerplates built with Ant Design.
 - [Aspnet Core Antd Boilerplate ★7](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
 - [React Redux Universal ★16](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages.
 
-- [CRA-TS-Antd ★32](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
-- [Ng-Alain ★558](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
+- [CRA-TS-Antd ★37](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
+- [Ng-Alain ★772](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
 
 ## Non-JavaScript Libraries
 
@@ -161,8 +161,8 @@ A list of libraries that are written for non-JavaScript languages.
 
 ## Electron
 
-- [StarCabinet ★98](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design.
-- [Nowa ★106](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
+- [StarCabinet ★118](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design.
+- [Nowa ★114](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
 
 ## Contributing
 

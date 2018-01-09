@@ -52,26 +52,26 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) - Easy browsable UI for exploring the protocol's domains, methods and events
 - [ChromeDevTools/devtools-protocol ★119](https://github.com/chromedevtools/devtools-protocol) - Issue tracker for protocol bugs
 - [Remote Debug Gateway ★59 ⏳2Y](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
-- [DevTools Backend ★21](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments. 
+- [DevTools Backend ★27](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments. 
 - [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) - The official Selenium/WebDriver implementation for Chrome is implemented on top of the DevTools Protocol.
-- [Chrome Protocol Proxy ★43](https://github.com/wendigo/chrome-protocol-proxy) - tool for debugging clients using devtools protocol
-- [Puppeteer ★20492](https://github.com/GoogleChrome/puppeteer) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol
+- [Chrome Protocol Proxy ★47](https://github.com/wendigo/chrome-protocol-proxy) - tool for debugging clients using devtools protocol
+- [Puppeteer ★22638](https://github.com/GoogleChrome/puppeteer) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol
 
 #### Protocol driver libraries (in various languages)
 - JavaScript/Node.js: [chrome-remote-interface ★2126](https://github.com/cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol
 - TypeScript/Node.js: [chrome-debugging-client ★40](https://github.com/krisselden/chrome-debugging-client) - A TypeScript async/await-friendly debugging client
 - Java: [cdp4j ★104](https://github.com/webfolderio/cdp4j) - Java library for CDP
 - Python: [PyChromeDevTools ★35](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
-- Python: [chromewhip ★22](https://github.com/chuckus/chromewhip) - Python 3 asyncio driver to manage concurrent requests to Google Chrome Devtools endpoints
-- Python: [pychrome ★92](https://github.com/fate0/pychrome) - A Python Package for the Google Chrome Dev Protocol
-- Go: [chromedp ★1573](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
-- Go: [cdp ★71](https://github.com/mafredri/cdp) - A Golang library for the protocol
+- Python: [chromewhip ★25](https://github.com/chuckus/chromewhip) - Python 3 asyncio driver to manage concurrent requests to Google Chrome Devtools endpoints
+- Python: [pychrome ★109](https://github.com/fate0/pychrome) - A Python Package for the Google Chrome Dev Protocol
+- Go: [chromedp](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
+- Go: [cdp ★79](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd ★126](https://github.com/wirepair/gcd) - A different client library in Go
 - Go: [godet ★170](https://github.com/raff/godet) - Also different, also Go.
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
-- Ruby: [ChromeRemote ★17](https://github.com/cavalle/chrome_remote) - A client implementation of the Chrome DevTools Protocol in Ruby
-- Kotlin: [chrome-reactive-kotlin ★19](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
+- Ruby: [ChromeRemote ★19](https://github.com/cavalle/chrome_remote) - A client implementation of the Chrome DevTools Protocol in Ruby
+- Kotlin: [chrome-reactive-kotlin ★20](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
 
 #### Developing with the protocol
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes

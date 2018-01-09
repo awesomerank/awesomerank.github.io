@@ -99,7 +99,7 @@ Economics are not simple or rational.
 definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -
 Currency validity date ranges overlap due to revolts, invasions, new
 constitutions, and slow planned adoption.
-- [`tax` ★193](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
+- [`tax` ★195](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
 library.
 
 
@@ -225,13 +225,13 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber` ★6150](https://github.com/googlei18n/libphonenumber) - Google's
+- [`libphonenumber` ★6283](https://github.com/googlei18n/libphonenumber) - Google's
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
-[C# ★170](https://github.com/erezak/libphonenumber-csharp),
+[C# ★174](https://github.com/erezak/libphonenumber-csharp),
 [Objective-C ★1753](https://github.com/iziz/libPhoneNumber-iOS),
-[Python ★1689](https://github.com/daviddrysdale/python-phonenumbers),
-[Ruby ★530](https://github.com/sstephenson/global_phone) and
+[Python ★1708](https://github.com/daviddrysdale/python-phonenumbers),
+[Ruby ★533](https://github.com/sstephenson/global_phone) and
 [PHP ★2075](https://github.com/giggsey/libphonenumber-for-php).
 
 
@@ -243,10 +243,10 @@ Covers streets, postal codes, buildings, cities and countries.
 - [Letter Delivered Despite No Name, No
 Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate
 falsehood about postal addresses: you do not need one.
-- [`libaddressinput` ★292](https://github.com/googlei18n/libaddressinput) - Google's
+- [`libaddressinput` ★298](https://github.com/googlei18n/libaddressinput) - Google's
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
-- [`addressing` ★528](https://github.com/commerceguys/addressing) - A PHP 5.4+
+- [`addressing` ★532](https://github.com/commerceguys/addressing) - A PHP 5.4+
 addressing library, powered by Google's dataset.
 - [`postal-address` ★69](https://github.com/scaleway/postal-address) - Python
 module to parse, normalize and render postal addresses.

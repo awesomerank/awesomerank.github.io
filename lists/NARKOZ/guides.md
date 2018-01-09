@@ -64,13 +64,13 @@ coding style guides and development practices across the web.
 ### CSS
 
 + [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-+ [Principles of writing consistent, idiomatic CSS ★5372](https://github.com/necolas/idiomatic-css#readme)
-+ [HTML and CSS code guide ★6708](https://github.com/mdo/code-guide#readme)
-+ [General CSS notes, advice and guidelines ★3628](https://github.com/csswizardry/CSS-Guidelines#readme)
++ [Principles of writing consistent, idiomatic CSS ★5390](https://github.com/necolas/idiomatic-css#readme)
++ [HTML and CSS code guide ★6733](https://github.com/mdo/code-guide#readme)
++ [General CSS notes, advice and guidelines ★3632](https://github.com/csswizardry/CSS-Guidelines#readme)
 
 ### Sass
 
-+ [Principles of writing idiomatic Sass ★222 ⏳1Y](https://github.com/anthonyshort/idiomatic-sass#readme)
++ [Principles of writing idiomatic Sass ★223 ⏳1Y](https://github.com/anthonyshort/idiomatic-sass#readme)
 + [Sass Style Guide](https://css-tricks.com/sass-style-guide/)
 + [Sass Guidelines](https://sass-guidelin.es/)
 
@@ -79,7 +79,7 @@ coding style guides and development practices across the web.
 ### HTML
 
 + [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-+ [HTML and CSS code guide ★6708](https://github.com/mdo/code-guide#readme)
++ [HTML and CSS code guide ★6733](https://github.com/mdo/code-guide#readme)
 
 ### XML
 
@@ -103,11 +103,11 @@ coding style guides and development practices across the web.
 
 ### CoffeeScript
 
-+ [CoffeeScript Style Guide ★1646](https://github.com/polarmobile/coffeescript-style-guide#readme)
++ [CoffeeScript Style Guide ★1649](https://github.com/polarmobile/coffeescript-style-guide#readme)
 
 ### Elixir
 
-+ [Elixir Style Guide ★2467](https://github.com/christopheradams/elixir_style_guide#readme)
++ [Elixir Style Guide ★2510](https://github.com/christopheradams/elixir_style_guide#readme)
 
 ### Go
 
@@ -116,11 +116,11 @@ coding style guides and development practices across the web.
 ### JavaScript
 
 + [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
-+ [Principles of Writing Consistent, Idiomatic JavaScript ★13430](https://github.com/rwaldron/idiomatic.js#readme)
-+ [Airbnb JavaScript Style Guide ★62782](https://github.com/airbnb/javascript#readme)
++ [Principles of Writing Consistent, Idiomatic JavaScript ★13537](https://github.com/rwaldron/idiomatic.js#readme)
++ [Airbnb JavaScript Style Guide ★64042](https://github.com/airbnb/javascript#readme)
 + [JavaScript: The Right Way](http://jstherightway.org/)
 + [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
-+ [JavaScript SDK Design Guide ★473](https://github.com/hueitan/javascript-sdk-design#readme)
++ [JavaScript SDK Design Guide ★490](https://github.com/hueitan/javascript-sdk-design#readme)
 
 ### Java
 
@@ -129,8 +129,8 @@ coding style guides and development practices across the web.
 ### Objective-C
 
 + [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml)
-+ [NYTimes Objective-C Style Guide ★4622](https://github.com/NYTimes/objective-c-style-guide#readme)
-+ [The official raywenderlich.com Objective-C style guide ★2707](https://github.com/raywenderlich/objective-c-style-guide#readme)
++ [NYTimes Objective-C Style Guide ★4635](https://github.com/NYTimes/objective-c-style-guide#readme)
++ [The official raywenderlich.com Objective-C style guide ★2721](https://github.com/raywenderlich/objective-c-style-guide#readme)
 
 ### PHP
 
@@ -148,7 +148,7 @@ coding style guides and development practices across the web.
 
 ### Ruby
 
-+ [The Ruby Style Guide ★13288](https://github.com/bbatsov/ruby-style-guide#readme)
++ [The Ruby Style Guide ★13404](https://github.com/bbatsov/ruby-style-guide#readme)
 + [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
 
 ### Scala
@@ -167,18 +167,18 @@ coding style guides and development practices across the web.
 
 ### Swift
 
-+ [The Official raywenderlich.com Swift Style Guide ★8005](https://github.com/raywenderlich/swift-style-guide#readme)
++ [The Official raywenderlich.com Swift Style Guide ★8098](https://github.com/raywenderlich/swift-style-guide#readme)
 
 ## Frameworks
 
 ### AngularJS
 
-+ [AngularJS Style Guide ★23483](https://github.com/johnpapa/angular-styleguide#readme)
++ [AngularJS Style Guide ★23555](https://github.com/johnpapa/angular-styleguide#readme)
 + [An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)
 
 ### Node.js
 
-+ [Node.js Style Guide ★4122](https://github.com/felixge/node-style-guide#readme)
++ [Node.js Style Guide ★4150](https://github.com/felixge/node-style-guide#readme)
 + [Node.js Best Practices ★11025](https://github.com/i0natan/nodebestpractices#readme)
 
 ### RSpec
@@ -187,7 +187,7 @@ coding style guides and development practices across the web.
 
 ### Rails
 
-+ [The Rails Style Guide ★5315](https://github.com/bbatsov/rails-style-guide#readme)
++ [The Rails Style Guide ★5348](https://github.com/bbatsov/rails-style-guide#readme)
 
 ### Vue
 
@@ -197,7 +197,7 @@ coding style guides and development practices across the web.
 
 ### API
 
-+ [HTTP API Design Guide ★12580 ⏳1Y](https://github.com/interagent/http-api-design#readme)
++ [HTTP API Design Guide ★12615 ⏳1Y](https://github.com/interagent/http-api-design#readme)
 + [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
 + [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
 
@@ -207,7 +207,7 @@ coding style guides and development practices across the web.
 
 ### Favicon
 
-+ [favicon-cheat-sheet ★8400](https://github.com/audreyr/favicon-cheat-sheet#readme)
++ [favicon-cheat-sheet ★8449](https://github.com/audreyr/favicon-cheat-sheet#readme)
 
 ### iOS
 

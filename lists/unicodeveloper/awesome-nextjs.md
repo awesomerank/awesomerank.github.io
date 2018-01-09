@@ -65,7 +65,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 ## Apps
 * [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities.
 * [NextJS GOT ★15](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
-* [Next Episode ★21](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes.
+* [Next Episode ★21 ⏳1Y](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes.
 * [Relate ★237](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 * [Next News ★396](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
 * [Password ★68](https://github.com/dotcypress/password) - One password, right way.
@@ -80,11 +80,11 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [Dashboard ★314](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 * [Snape ★71](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 * [Trello Resume ★3](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
-* [Server Authentication with JWT ★14](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
+* [Server Authentication with JWT ★24](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
 * [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 * [Cookie handler with server render ★0](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 * [Gank ★36](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
-* [Decoupled CMS example with GraphQL and Next.js ★5](https://github.com/janit/decoupled-cms-nextjs-graphql)
+* [Decoupled CMS example with GraphQL and Next.js ★6](https://github.com/janit/decoupled-cms-nextjs-graphql)
 * [DS ★2](https://github.com/divyenduz/ds) - Personal site manager.
 
 ## Videos

@@ -352,7 +352,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
 
-* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ★4962](https://github.com/jedisct1/libsodium).
+* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ★5115](https://github.com/jedisct1/libsodium).
 * [HTML Purifier ★1045](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [IniScan ★1255](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [Optimus ★722](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
@@ -407,7 +407,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Exakat ★103](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 * [Mondrian ★343 ⏳2Y](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
-* [phan ★2521](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
+* [phan ★2574](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
 * [PHPCompatibility ★731](https://github.com/wimg/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
 * [PhpDependencyAnalysis ★288](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
 * [PHP Metrics ★1344](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
@@ -631,7 +631,7 @@ Libraries to help manage database schemas and migrations.
 * [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
 * [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
 * [TwitterOAuth ★3524](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
-* [TwitterSDK ★37 ⏳2Y](https://github.com/lyrixx/twitter-sdk) - A fully tested Twitter SDK.
+* [TwitterSDK ★37 ⏳3Y](https://github.com/lyrixx/twitter-sdk) - A fully tested Twitter SDK.
 
 ## Markup
 *Libraries for working with markup.*
@@ -718,7 +718,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Ardent ★591](https://github.com/morrisonlevi/Ardent) - A library of data structures.
 * [Cake Collection ★30](https://github.com/cakephp/collection) - A simple collections library (CP).
-* [Collections ★52](https://github.com/italolelis/collections) - Collections Abstraction library for PHP.
+* [Collections ★52 ⏳1Y](https://github.com/italolelis/collections) - Collections Abstraction library for PHP.
 * [Fractal ★2144](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
 * [Ginq ★156](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 * [JsonMapper ★708](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
@@ -801,7 +801,7 @@ Libraries to help manage database schemas and migrations.
 * [Metrics ★216](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [noCAPTCHA ★177](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Nmap ★83](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
-* [Opengraph ★81 ⏳1Y](https://github.com/euskadi31/Opengraph) - An opengraph library.
+* [Opengraph ★81 ⏳2Y](https://github.com/euskadi31/Opengraph) - An opengraph library.
 * [Pagerfanta ★728](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [PHP Expression ★32 ⏳4Y](https://github.com/Kitano/php-expression) - A PHP expression language.
 * [PHP PassBook ★196](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
@@ -879,7 +879,7 @@ Libraries to help manage database schemas and migrations.
 * [phpMyAdmin ★2736](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 * [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 * [Grav ★8208](https://github.com/getgrav/grav) - A modern flat-file CMS.
-* [Lychee ★4012](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
+* [Lychee ★4084](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
 
 ## Infrastructure
 *Infrastructure for providing PHP applications and services.*

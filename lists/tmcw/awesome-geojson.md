@@ -20,15 +20,15 @@ GeoJSON utilities that will make your life easier.
 * [geojson-flatten](https://github.com/tmcw/geojson-flatten): flatten multi geometries into normal geometries
 * [geojson-multiply ★1 ⏳1Y](https://github.com/haoliangyu/geojson-multiply):  merge normal geojson features into one multi geometry type feature
 * [geojson-js-utils ★340 ⏳1Y](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
-* [geojson-merge ★68](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
+* [geojson-merge ★70](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
 * [geojson-normalize ★16](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
 * [geojson-pick](https://www.npmjs.com/package/geojson-pick): remove all but specified properties from features in a geojson featurecollection
 * [geojson-random](https://github.com/tmcw/geojson-random): generate random geojson points, lines, and polygons
-* [geojson-rewind ★29](https://github.com/mapbox/geojson-rewind): enforce ring winding order
+* [geojson-rewind ★30](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 * [geojson-summary ★27](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
 * [point-grouper ★26 ⏳3Y](https://github.com/substack/point-grouper): group geojson points into containing polygons
 * [geojson-join](https://github.com/tmcw/geojson-join): join geojson against json, dbf, and csv files
-* [simplify-geojson ★80 ⏳1Y](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
+* [simplify-geojson ★81 ⏳1Y](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 * [turf ★3188](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
 * [winnow](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
 
@@ -45,12 +45,12 @@ GeoJSON utilities that will make your life easier.
 
 ### validation
 
-* [geojsonhint ★155](https://github.com/mapbox/geojsonhint): find errors in your geojson files
+* [geojsonhint ★156](https://github.com/mapbox/geojsonhint): find errors in your geojson files
 
 ### services
 
-* [geojsonio-cli ★109](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
-* [geojsonio-extension ★1 ⏳3Y](https://github.com/mapbox/geojsonio-extension): chrome extension for editing github files in geojson.io
+* [geojsonio-cli ★110](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
+* [geojsonio-extension ★1 ⏳4Y](https://github.com/mapbox/geojsonio-extension): chrome extension for editing github files in geojson.io
 * [geojsonlint](http://geojsonlint.com/): REST interface for GeoJSON validation
 * [mapshaper](http://mapshaper.org/): Simple interface for simplification and conversion of GeoJSON and TopoJSON
 * [koop](https://koopjs.github.io): Server with plugins that recast Esri, GitHub, Socrata and other services as GeoJSON endpoints
@@ -58,26 +58,26 @@ GeoJSON utilities that will make your life easier.
 
 ### conversion
 
-* [csv2geojson ★184](https://github.com/mapbox/csv2geojson): convert CSV to geojson
+* [csv2geojson ★186](https://github.com/mapbox/csv2geojson): convert CSV to geojson
 * [geojson-mapnikify ★22](https://github.com/mapbox/geojson-mapnikify): Transform GeoJSON objects into Mapnik XML stylesheets with embedded GeoJSON data and simplestyle-spec-derived styles.
-* [geojson-vt ★705](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
+* [geojson-vt ★728](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
 * [geojson2dsv](https://github.com/tmcw/geojson2dsv): convert geojson to csv and tsv
 * [geojson2rtree ★4 ⏳3Y](https://github.com/maxogden/geojson2rtree): generate a static rtree (using terraformer) from a set of geojson features
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
-  * [fiona ★382](https://github.com/toblerity/fiona): nice python interface on top of ogr
+  * [fiona ★390](https://github.com/toblerity/fiona): nice python interface on top of ogr
 * [minjur ★48](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
-* [shp2json ★120 ⏳1Y](https://github.com/substack/shp2json): convert shapefile zip archives to streaming GeoJSON
-* [togeojson ★664](https://github.com/mapbox/togeojson): convert gpx & kml to geojson
+* [shp2json ★121 ⏳1Y](https://github.com/substack/shp2json): convert shapefile zip archives to streaming GeoJSON
+* [togeojson ★675](https://github.com/mapbox/togeojson): convert gpx & kml to geojson
 * [tokml ★83](https://github.com/mapbox/tokml): convert geojson to KML
-* [topojson ★3090](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
-* [vt-geojson ★39 ⏳1Y](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
-* [wellknown ★125](https://github.com/mapbox/wellknown): convert wkt to geojson
-* [osmtogeojson ★266](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
-* [esri2open ★219 ⏳2Y](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
+* [topojson ★3125](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
+* [vt-geojson ★40 ⏳1Y](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
+* [wellknown ★127](https://github.com/mapbox/wellknown): convert wkt to geojson
+* [osmtogeojson ★274](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
+* [esri2open ★221 ⏳2Y](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 * [gtfs2geojson](https://github.com/tmcw/gtfs2geojson): convert GTFS transit data to GeoJSON
 * [geoxform](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming csv, shapefile or kml, etc.
-* [supercluster ★448](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
-* [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3): Converts polygon winding order between rfc7946 and [d3 compatible ★244](https://github.com/d3/d3-geo#d3-geo) conventions.
+* [supercluster ★465](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
+* [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3): Converts polygon winding order between rfc7946 and [d3 compatible ★248](https://github.com/d3/d3-geo#d3-geo) conventions.
 * [geojson-svgify ★4](https://github.com/juliuste/geojson-svgify): Convert GeoJSON geometry paths to SVG polyline elements.
 * [geojson-to-svg-cli ★4](https://github.com/derhuerst/geojson-to-svg-cli): Command line tool to convert GeoJSON to SVG.
 
@@ -85,10 +85,10 @@ GeoJSON utilities that will make your life easier.
 
 * [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
 * [geojson.xyz](http://geojson.xyz/): natural earth data in web-friendly sizes with hotlinking
-* [world-atlas ★475](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
+* [world-atlas ★482](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
 * [geo-maps ★735](https://github.com/simonepri/geo-maps): High Quality GeoJSON maps programmatically generated.
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
-* [us-atlas ★540](https://github.com/topojson/us-atlas): geojson & topojson for United States features
+* [us-atlas ★545](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 * [metro-extracts](https://mapzen.com/data/metro-extracts/): regional OpenStreetMap data as GeoJSON
 * [whereonearth-airport ★13 ⏳4Y](https://github.com/straup/whereonearth-airport): outlines of every airport
 * [whereonearth-building ★5 ⏳6Y](https://github.com/straup/whereonearth-building): building outlines
@@ -99,10 +99,10 @@ GeoJSON utilities that will make your life easier.
 
 ### serialization
 
-* [python-geojson ★289](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
-* [rgeo-geojson ★118](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
-* [rust-geojson ★46](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
-* [geojson-jackson ★108](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
+* [python-geojson ★292](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+* [rgeo-geojson ★119](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
+* [rust-geojson ★49](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+* [geojson-jackson ★116](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [mapbox-java](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson ★11109](https://github.com/google/gson))
 
 ### resources

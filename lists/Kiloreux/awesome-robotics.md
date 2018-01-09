@@ -98,7 +98,7 @@ An Internet-accessible simulation system that allows the simulation of robots co
 [**The Player Project**](http://playerstage.sourceforge.net/)
 Free Software tools for robot and sensor applications 
 
-[**Open AI's Roboschool** ★923](https://github.com/openai/roboschool)
+[**Open AI's Roboschool** ★969](https://github.com/openai/roboschool)
 Open-source software for robot simulation, integrated with OpenAI Gym.
 
 [**ViSP**](http://visp.inria.fr/)
@@ -184,12 +184,12 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence ★3198](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [Awesome Computer Vision ★4005](https://github.com/jbhuang0604/awesome-computer-vision)
-* [Awesome Machine Learning ★28131](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome Deep Learning ★6549](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Machine Learning ★29088](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Deep Learning ★7050](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Deep Vision ★5625](https://github.com/kjw0612/awesome-deep-vision)
 * [Awesome Reinforcement Learning ★2457](https://github.com/aikorea/awesome-rl)
-* [Awesome Robotics ★38](https://github.com/ahundt/awesome-robotics)
-* [Awesome Robotics Libraries ★131](https://github.com/jslee02/awesome-robotics-libraries)
+* [Awesome Robotics ★51](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics Libraries ★150](https://github.com/jslee02/awesome-robotics-libraries)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/Kiloreux/awesome-robotics">Kiloreux/awesome-robotics</a> with ranks

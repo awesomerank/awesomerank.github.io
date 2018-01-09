@@ -537,7 +537,7 @@ $ git commit -m "remove xyz file"
 <hr>
 
 ## Git-Flow
-Improved [Git-flow ★2393](https://github.com/petervanderdoes/gitflow-avh)
+Improved [Git-flow ★2445](https://github.com/petervanderdoes/gitflow-avh)
 
 ### Index
 * [Setup](#setup)

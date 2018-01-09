@@ -13,7 +13,7 @@ title: Awesome Rank for ujjwalkarn/Machine-Learning-Tutorials
 
 - If you want to contribute to this list, please read [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md).
 
-- [Curated list of R tutorials for Data Science, NLP and Machine Learning ★907](https://github.com/ujjwalkarn/DataScienceR).
+- [Curated list of R tutorials for Data Science, NLP and Machine Learning ★939](https://github.com/ujjwalkarn/DataScienceR).
 
 - [Curated list of Python tutorials for Data Science, NLP and Machine Learning ★2861](https://github.com/ujjwalkarn/DataSciencePython).
 
@@ -74,7 +74,7 @@ title: Awesome Rank for ujjwalkarn/Machine-Learning-Tutorials
 
 - [Dive into Machine Learning ★7623](https://github.com/hangtwenty/dive-into-machine-learning)
 
-- [A curated list of awesome Machine Learning frameworks, libraries and software ★28131](https://github.com/josephmisiti/awesome-machine-learning)
+- [A curated list of awesome Machine Learning frameworks, libraries and software ★29088](https://github.com/josephmisiti/awesome-machine-learning)
 
 - [A curated list of awesome data visualization libraries and resources. ★1419](https://github.com/fasouto/awesome-dataviz)
 
@@ -413,7 +413,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [fast.ai - Cutting Edge Deep Learning For Coders](http://course.fast.ai/part2.html)
 
-- [A curated list of awesome Deep Learning tutorials, projects and communities ★6549](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [A curated list of awesome Deep Learning tutorials, projects and communities ★7050](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 - [Lots of Deep Learning Resources](http://deeplearning4j.org/documentation.html)
 
@@ -1160,7 +1160,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 ## Other Tutorials
 
-- For a collection of Data Science Tutorials using R, please refer to [this list ★907](https://github.com/ujjwalkarn/DataScienceR).
+- For a collection of Data Science Tutorials using R, please refer to [this list ★939](https://github.com/ujjwalkarn/DataScienceR).
 
 - For a collection of Data Science Tutorials using Python, please refer to [this list ★2861](https://github.com/ujjwalkarn/DataSciencePython).
 ---

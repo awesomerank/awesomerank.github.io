@@ -13,7 +13,7 @@ title: Awesome Rank for sindresorhus/awesome-scifi
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*For fantasy books, see [awesome-fantasy ★274](https://github.com/RichardLitt/awesome-fantasy).*
+*For fantasy books, see [awesome-fantasy ★281](https://github.com/RichardLitt/awesome-fantasy).*
 
 *Please read the [Contributing Guidelines](https://github.com/sindresorhus/awesome-scifi/blob/master/contributing.md) before contributing.*
 
@@ -820,7 +820,7 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 ### Fantasy
 
-_Fantasy books which contain elements of science fiction. For pure fantasy, see [this list ★274](https://github.com/RichardLitt/awesome-fantasy)._
+_Fantasy books which contain elements of science fiction. For pure fantasy, see [this list ★281](https://github.com/RichardLitt/awesome-fantasy)._
 
 #### [The Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun) (1993, 1994, 1996) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.0]
 

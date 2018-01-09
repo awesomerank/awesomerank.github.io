@@ -295,7 +295,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [yargs ★3831](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [DraftLog ★841](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
 - [Bit ★857](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
-- [gradient-string ★219](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+- [gradient-string ★229](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
 
 ### Build tools
@@ -357,7 +357,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [seneca ★2690](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
 - [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 - [Hemera ★399](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
-- [Micro ★5541](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
+- [Micro ★5698](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
 
 
 ### Documentation
@@ -386,7 +386,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [load-json-file ★76](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
 - [write-json-file ★73](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 - [fs-write-stream-atomic ★37](https://github.com/npm/fs-write-stream-atomic) - Like `fs.createWriteStream()`, but atomic.
-- [filenamify ★77](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
+- [filenamify ★77 ⏳1Y](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
 - [lnfs ★9](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`.
 - [istextorbinary ★37](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 - [fs-jetpack ★347](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
@@ -649,7 +649,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [WebdriverIO](http://webdriver.io) - Automated testing based on the WebDriver protocol.
 - [Jest ★14177](https://github.com/facebook/jest) - Painless JavaScript testing.
 - [TestCafe ★3754](https://github.com/DevExpress/testcafe) - Automated browser testing.
-- [abstruse ★83](https://github.com/bleenco/abstruse) - Continuous Integration server.
+- [abstruse ★87](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 
 ### Security
@@ -657,7 +657,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [snyk ★664](https://github.com/Snyk/snyk) - CLI and build-time tool to find & fix vulnerable npm dependencies.
 - [nsp ★1261](https://github.com/nodesecurity/nsp) - CLI tool to identify known vulnerabilities in your project.
 - [RegEx-DoS ★62](https://github.com/jagracey/RegEx-DoS) - CLI tool to identify possible regex denial of service (ReDos) vulnerabilities in your project.
-- [credential-plus ★28](https://github.com/simonepri/credential-plus) - Password hashing and verification made easy.
+- [credential-plus ★34](https://github.com/simonepri/credential-plus) - Password hashing and verification made easy.
 
 
 ### Benchmarking
@@ -689,7 +689,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
 - [emailjs ★1540](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
-- [email-templates ★1780](https://github.com/niftylettuce/email-templates) - Create, preview, and send custom email templates.
+- [email-templates ★1801](https://github.com/niftylettuce/email-templates) - Create, preview, and send custom email templates.
 
 
 ### Job queues

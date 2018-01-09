@@ -36,7 +36,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 ## Grunt tasks
 
-* [grunt-penthouse ★72](https://github.com/fatso83/grunt-penthouse)
+* [grunt-penthouse ★72 ⏳1Y](https://github.com/fatso83/grunt-penthouse)
 * [grunt-critical-css ★541](https://github.com/filamentgroup/grunt-criticalcss)
 * [grunt-critical ★120](https://github.com/bezoerb/grunt-critical)
 

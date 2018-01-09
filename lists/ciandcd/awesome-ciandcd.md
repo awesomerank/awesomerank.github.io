@@ -206,7 +206,7 @@ The tools for software package and installation
 * [NSIS](http://nsis.sourceforge.net/Main_Page)  NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution  
 * [rpm](http://rpm.org)  The RPM Package Manager (RPM) is a powerful command line driven package management system capable of installing, uninstalling, verifying, querying, and updating computer software packages  
 * [yum](http://yum.baseurl.org)  Yum is an automatic updater and package installer/remover for rpm systems  
-* [fpm ★8181](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.  
+* [fpm ★8236](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.  
 * [wix](http://wixtoolset.org/) The most powerful set of tools available to create your Windows installation experience.  
 * [packer](https://www.packer.io/)  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.  
 
@@ -225,7 +225,7 @@ The tools for software delivery
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind  
 * [pulp](http://www.pulpproject.org/)  Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.  
 * [herd ★399 ⏳1Y](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder     
-* [murder ★2430 ⏳1Y](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
+* [murder ★2441 ⏳1Y](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
 
 ## Provisioning Tools 
 Provision tools
@@ -246,8 +246,8 @@ Jetty provides a Web server and javax.servlet container, plus support for SPDY, 
 ## OS And Shell
 Linux shell, perl, python  
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
-* [awesome-python ★42063](https://github.com/vinta/awesome-python)  
-* [awesome-perl ★369](https://github.com/hachiojipm/awesome-perl)  
+* [awesome-python ★43469](https://github.com/vinta/awesome-python)  
+* [awesome-perl ★379](https://github.com/hachiojipm/awesome-perl)  
 * [awesome-sysadmin ★16354](https://github.com/kahun/awesome-sysadmin)  
 
 ## Applications And Container
