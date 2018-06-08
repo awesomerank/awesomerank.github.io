@@ -9,35 +9,37 @@ title: Awesome Rank for svaksha/Julia.jl
 ---
 # Julia.jl
 
-[Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of knowledge resources for the [Julia language](https://github.com/JuliaLang).
+[Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of knowledge resources for programming in [Julia](https://github.com/JuliaLang), an all-purpose programming language that addresses the needs of high-performance numerical analysis and computational science.
 
 + [INDEX](#index)
 + [LICENSE](#license)
+   + [ODbL and AGPLv3](#odbl-and-agplv3)
    + [Mirrors](#mirrors)
 + [CONTRIBUTE](#contribute)
    + [Guidelines](#guidelines)
-   + [Status](#status)
    + [BugReport-PullRequest](#bugreport-pullrequest)
-
+   + [Package Status](#package-status)
+   
 ----
 
 # INDEX
-For Base packages, check if the package you seek is listed in the [built-in package manager ★163](https://github.com/JuliaLang/METADATA.jl) on github, or check METADATA for [registered Julia packages](http://pkg.julialang.org/), then use the built-in package manager to install it after checking the requirements for respective versions and dont forget the Easter eggs!
+For Base packages, check if the package you seek is listed in the [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check METADATA for [registered Julia packages](http://pkg.julialang.org/), then use the built-in package manager to install it after checking the requirements for respective versions. [Pkg3.jl](https://github.com/JuliaLang/Pkg3.jl) is an alpha next-generation package manager for Julia that creates a `Manifest.toml` file that records the exact versions of each dependency and their transitive dependencies.  
 
-To create a package, check out the [Julia Package Development Kit](https://github.com/JuliaLang/PkgDev.jl) and here is a [sample Julia package ★18](https://github.com/JuliaLang/Example.jl) model. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the current core development on [github](https://github.com/JuliaLang/julia/pulse). Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
+To create a package, check out the [Julia Package Development Kit](https://github.com/JuliaLang/PkgDev.jl) and here is a [sample Julia package ★24](https://github.com/JuliaLang/Example.jl) model. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the current core development on [github](https://github.com/JuliaLang/julia/pulse). Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
 
 
 + [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, HMM, ML, NLP, ...
 + [API.md](https://github.com/svaksha/Julia.jl/blob/master/API.md) :: Language API's - C++, Fortran, Go, Java, JavaScript, MATLAB, Perl, Python, R, ...
 + [Biology.md](https://github.com/svaksha/Julia.jl/blob/master/Biology.md) :: Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, Neuroscience, et. al...
-+ [Build-Automation.md](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md) :: Tools for continuous integration (CI),  continuous delivery (CD), Packaging, release engineering (RE), release management (RM), software configuration management (SCM), etc...
++ [DesktopApplications.md](https://github.com/svaksha/Julia.jl/blob/master/DesktopApplications.md) :: Front-end client application software, viz. Debuggers, Documentation generators, Desktop User Interface for word processors, GUI spreadsheets, etc.. 
++ [DevOps.md](https://github.com/svaksha/Julia.jl/blob/master/DevOps.md) :: DevOps tools for infrastructure management, continuous integration (CI), continuous delivery (CD), package management, release engineering (RE), release management (RM), software configuration management (SCM), etc...
 + [Chemistry.md](https://github.com/svaksha/Julia.jl/blob/master/Chemistry.md) :: Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...
-+ [Computer-Graphics.md](https://github.com/svaksha/Julia.jl/blob/master/Computer-Graphics.md) :: Plotting, Graphics and other Visualization tools.
 + [DataBase.md](https://github.com/svaksha/Julia.jl/blob/master/DataBase.md) :: NoSQL, RDBMS and Middleware API's.
 + [Earth-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
++ [FileIO.md](https://github.com/svaksha/Julia.jl/blob/master/FileIO.md) :: File IO (Input/Output) functionality and support for various data types and file formats.
++ [Graphics.md](https://github.com/svaksha/Julia.jl/blob/master/Graphics.md) :: Plotting, Graphics and other Visualization tools.
 + [Hardware.md](https://github.com/svaksha/Julia.jl/blob/master/Hardware.md) :: Software for cross-platform hardware, Robotics, and other API libraries.
 + [i18n-L10n.md](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: Transliteration, Internationalisation (i18n) and Localisation (L10n)
-+ [IO.md](https://github.com/svaksha/Julia.jl/blob/master/IO.md) :: Input/Output functionality and support for file formats.
 + [Mathematics.md](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md):: Algebra, Geometry,... anything Math related.
 + [OpenData.md](https://github.com/svaksha/Julia.jl/blob/master/OpenData.md) :: OpenData, Free Data Sets.
 + [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
@@ -57,12 +59,21 @@ To create a package, check out the [Julia Package Development Kit](https://githu
 ----
 
 # LICENSE
-+ COPYRIGHT © 2012-Now [SVAKSHA](http://svaksha.com/pages/Bio), All Rights Reserved.
-+ This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE.md) file and ALL references, citations, copies and forks of this work must retain the Copyright, Licence (LICENSE.md file), this permission notice and must [attribute credit](https://en.wikipedia.org/wiki/Creative_Commons_license#Attribution).
++ COPYRIGHT © 2012-Now [SVAKSHA](http://svaksha.com/pages/Bio), herewith dual-licensed for the data (ODbL-v1.0+) and the software (AGPLv3+), respectively. 
+
+## [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) and [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)
++ The __data__ (aggregated and curated decibans of knowledge resources for Julia language) in this repository (`Julia.jl`) is released under the [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/) (ODbL-v1.0). The Open Database License (ODbL) grants anyone the freedom to share, create and adapt the data or database with proper __credit attribution__ as specified in the license and __offer any new work under the same terms__, and __release a public copy if using the new work for commercial purposes__.
++ The __software__ used in `Julia.jl` is released under the [AGPLv3 License](http://www.gnu.org/licenses/agpl-3.0.html), and above, as detailed in the [LICENSE-AGPLv3.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE-AGPLv3.md) file.
++ ALL copies and forks of this work must retain the Copyright, respective Licence files for program code (AGPLv3) and data (ODbL) along with this permission notice in all copies or substantial portions of the new work.
+
+The motivation for this change is to make it easier for people to re-use this data as a knowledge resource within a database. For example, [julia-observer](https://juliaobserver.com) is a visual tool for browsing through packages that pulls data from `Julia.jl`, `METADATA.jl` and various sources. By releasing the website code [publicly ★23](https://github.com/djsegal/julia_observer) are an example on how one can build upon or transform the data to benefit the community.
+
 
 ## Mirrors
 + [Bitbucket](https://bitbucket.org/svaksha/Julia.jl) :: git clone git@bitbucket.org:svaksha/Julia.jl.git
 + [GitLab](https://gitlab.com/svaksha/Julia.jl) :: git clone git@gitlab.com:svaksha/Julia.jl.git
+
+----
 
 # CONTRIBUTE
 [Contributions](https://github.com/svaksha/Julia.jl/graphs/contributors) to `Julia.jl` are welcome in the form of pull requests (PR). Here are some guidelines and tips on how to submit a Bug Report (BR) and/or [PR](https://github.com/svaksha/Julia.jl/pulls):
@@ -74,8 +85,16 @@ The Julia community has [ethical guidelines](http://julialang.org/community/stan
    + {2} https://github.com/JuliaLang/julialang.github.com/issues/194
 
 
-## Status
-These [comments](https://github.com/svaksha/Julia.jl/commit/a884fe9e921d57b87d85e970c2f57b8f21025641#commitcomment-15802037) led to a [BR discussing](https://github.com/svaksha/Julia.jl/issues/55) the addition of metadata tags that will enable programmers and package users to easily distinguish the status of various Julia packages that are under various stages of development. Currently, METADATA has a tag system but not all package authors use it, making it harder for lay users to know if the package maintenance is active or not. 
+## BugReport-PullRequest
+1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files. Before creating a new top-level tag within the various categories, please check wikipedia or other resources first. If you are unable to decide, discuss it (via a BR, not a PR ;-)). 
+2. Then, type `julia src/scrape.jl` to run the [scraper](https://github.com/svaksha/Julia.jl/blob/master/src/scrape.jl) file and commit the `db.csv` file too.
+3. For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
+4. For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) page.
+5. For those unable to use git, create a github account, then fork the `Julia.jl` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
+
+
+## Package Status
+Please note that this repo lists packages that are outdated and/or worked on older versions of Julia. These continue to remain listed as its openly available along with the hope that someone may want to continue with the work as a fork as it aligns with their research or work. These [comments](https://github.com/svaksha/Julia.jl/commit/a884fe9e921d57b87d85e970c2f57b8f21025641#commitcomment-15802037) led to a [BR discussing](https://github.com/svaksha/Julia.jl/issues/55) the addition of metadata tags that will enable programmers and package users to easily distinguish the status of various Julia packages that are under various stages of development. Currently, METADATA has a tag system but not all package authors use it, making it harder for lay users to know if the package maintenance is active or not. 
 
 Lets experiment with asking package authors and core-commiters to tag their Julia packages on the following criteria : 
 
@@ -86,12 +105,6 @@ On a scale of 1 to 5 (1=lowest,..5=highest), please rank your package for,
 + `Activity` : Should a 3rd party user bother to use your library, or is it really only intended to be used by the package author? Let's say, an experimental "throw-away toy repo" whose development has now been abandoned.
 + `License` : Which software license do you use? If you dont have a license, please state `None`. 
 
-## BugReport-PullRequest
-1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files.
-2. Then, type `julia src/scrape.jl` to run the [scraper](https://github.com/svaksha/Julia.jl/blob/master/src/scrape.jl) file and commit the `db.csv` file too.
-3. For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
-4. For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) page.
-5. For those unable to use git, create a github account, then fork the `Julia.jl` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/svaksha/Julia.jl">svaksha/Julia.jl</a> with ranks

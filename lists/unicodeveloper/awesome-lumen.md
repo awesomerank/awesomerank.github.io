@@ -7,11 +7,11 @@ title: Awesome Rank for unicodeveloper/awesome-lumen
 	This list is a copy of <a href="https://github.com/unicodeveloper/awesome-lumen">unicodeveloper/awesome-lumen</a> with ranks
 </p>
 ---
-# Awesome lumen [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
+# Awesome lumen [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 > Curated list of resources: books, videos, articles about using Lumen ( PHP Microframework by Laravel )
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd ★208](https://github.com/unicodeveloper/awesome-tdd).*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd ★253](https://github.com/unicodeveloper/awesome-tdd).*
 
 *Please read the [contribution guidelines](#guidelines) before contributing.*
 
@@ -30,7 +30,7 @@ title: Awesome Rank for unicodeveloper/awesome-lumen
 ## Essentials
 * [Lumen Homepage](https://lumen.laravel.com/)
 * [Documentation](https://lumen.laravel.com/docs/5.2) - Lumen 5
-* [GitHub Repository ★5213](https://github.com/laravel/lumen)
+* [GitHub Repository ★5634](https://github.com/laravel/lumen)
 
 
 ## Tutorials
@@ -45,7 +45,7 @@ title: Awesome Rank for unicodeveloper/awesome-lumen
 * [Developing a microservice with Lumen](http://goodheads.io/2015/06/19/developing-a-micro-service-with-lumen/)
 * [Json Web token authentication for Lumen](https://laravelista.com/posts/json-web-token-authentication-for-lumen)
 * [How to use Lumen](http://codelution.com/resource/framework/how-to-use-lumen-by-laravel/)
-
+* [Creating Your First Artisan Command in Lumen 5.5](https://www.codementor.io/seyiadeleke42/creating-your-first-artisan-command-in-lumen-5-5-cvi59gmgl)
 
 ### Videos
 * [Introducing Lumen by Taylor Otwell](https://laracasts.com/lessons/introducing-lumen)
@@ -57,31 +57,32 @@ title: Awesome Rank for unicodeveloper/awesome-lumen
 
 
 ## Packages and Middleware
-* [Lumen Cors ★41](https://github.com/vluzrmos/lumen-cors) - A simple lumen CORS
-* [Alternative Lumen Cors ★70](https://github.com/palanik/lumen-cors) - CORS Middleware for Lumen micro-framework
-* [Phpspec Lumen ★0 ⏳1Y](https://github.com/pmartelletti/phpspec-lumen) - Test your Lumen app with phpspec
-* [Understand Lumen ★6 ⏳1Y](https://github.com/understand/understand-lumen) - Laravel Lumen service provider for Understand.io
-* [Badge Poser ★5 ⏳2Y](https://github.com/vluzrmos/laravel-badge-poser) - Lumen Badge Generator
-* [Cors Illuminate ★44](https://github.com/neomerx/cors-illuminate) - CORS (Cross-Origin Resource Sharing) support for Laravel and Lumen
-* [Jwt Artisan ★133 ⏳1Y](https://github.com/generationtux/jwt-artisan) - JWT auth for Laravel and Lumen
-* [Facebook SDK ★593](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen
-* [Lumen Generators ★182](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5.
-* [Dingo API ★6846](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks.
-* [Lumen Tinker ★81](https://github.com/vluzrmos/lumen-tinker) - An interactive shell to Lumen framework
-* [Lumen Maintenance Mode ★12 ⏳1Y](https://github.com/rdehnhardt/lumen-maintenance-mode) - Define Lumen Application Maintenance Mode
-* [Lumen Vendor Publish ★113](https://github.com/laravelista/lumen-vendor-publish) - Vendor publish command for Lumen framework.
-* [Lumen Make ★15 ⏳1Y](https://github.com/michaelbonds/lumen-make) - Ports most of the make commands from Laravel to Lumen. 
+* [Lumen Cors ★42](https://github.com/vluzrmos/lumen-cors) - A simple lumen CORS
+* [Alternative Lumen Cors ★84](https://github.com/palanik/lumen-cors) - CORS Middleware for Lumen micro-framework
+* [Phpspec Lumen ★0 ⏳2Y](https://github.com/pmartelletti/phpspec-lumen) - Test your Lumen app with phpspec
+* [Understand Lumen ★6](https://github.com/understand/understand-lumen) - Laravel Lumen service provider for Understand.io
+* [Badge Poser ★5](https://github.com/vluzrmos/laravel-badge-poser) - Lumen Badge Generator
+* [Cors Illuminate ★46](https://github.com/neomerx/cors-illuminate) - CORS (Cross-Origin Resource Sharing) support for Laravel and Lumen
+* [Jwt Artisan ★139 ⏳1Y](https://github.com/generationtux/jwt-artisan) - JWT auth for Laravel and Lumen
+* [Facebook SDK ★647](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen
+* [Lumen Generators ★221](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5.
+* [Dingo API ★7463](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks.
+* [Lumen Tinker ★88](https://github.com/vluzrmos/lumen-tinker) - An interactive shell to Lumen framework
+* [Lumen Maintenance Mode ★12](https://github.com/rdehnhardt/lumen-maintenance-mode) - Define Lumen Application Maintenance Mode
+* [Lumen Vendor Publish ★128](https://github.com/laravelista/lumen-vendor-publish) - Vendor publish command for Lumen framework.
+* [Lumen Make ★15 ⏳2Y](https://github.com/michaelbonds/lumen-make) - Ports most of the make commands from Laravel to Lumen. 
 * [Lumen File Manager](https://github.com/nordsoftware/lumen-file-manager) - File manager module for the Lumen PHP framework.
-* [Lumen 5.2 HTTP Basic Auth Guard ★32](https://github.com/arubacao/http-basic-auth-guard) - Brings back basic authentication for Lumen 5.2.
-* [Larasupport ★63](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers.
-* [REST API With Lumen ★263](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework.
+* [Lumen 5.2 HTTP Basic Auth Guard ★37](https://github.com/arubacao/http-basic-auth-guard) - Brings back basic authentication for Lumen 5.2.
+* [Larasupport ★70](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers.
+* [REST API With Lumen ★319](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework.
+* [Lumen Passport ★285](https://github.com/dusterio/lumen-passport) - Making Laravel Passport work with Lumen.
 
 
 ## Made With Lumen
-* [Slack Invitator ★55 ⏳1Y](https://github.com/vluzrmos/lumen-slackin) - A Slack Invitator made with Lumen Framework
-* [Email Microservice ★41 ⏳2Y](https://github.com/rlacerda83/lumen-email-microservice) - Microservice for sending emails with Lumen
-* [Lissandra ★13](https://github.com/laravelista/Lissandra) - API for Laracasts Feed built with Lumen.
-* [Lumen Solder ★1 ⏳2Y](https://github.com/TechnicPack/LumenSolder) - An implementation of Solder in Laravel's Lumen Framework.
+* [Slack Invitator ★56 ⏳1Y](https://github.com/vluzrmos/lumen-slackin) - A Slack Invitator made with Lumen Framework
+* [Email Microservice ★44 ⏳2Y](https://github.com/rlacerda83/lumen-email-microservice) - Microservice for sending emails with Lumen
+* [Lissandra ★14](https://github.com/laravelista/Lissandra) - API for Laracasts Feed built with Lumen.
+* [Lumen Solder ★3 ⏳2Y](https://github.com/TechnicPack/LumenSolder) - An implementation of Solder in Laravel's Lumen Framework.
 
 
 ## Books

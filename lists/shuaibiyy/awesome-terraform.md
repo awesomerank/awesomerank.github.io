@@ -7,7 +7,7 @@ title: Awesome Rank for shuaibiyy/awesome-terraform
 	This list is a copy of <a href="https://github.com/shuaibiyy/awesome-terraform">shuaibiyy/awesome-terraform</a> with ranks
 </p>
 ---
-# Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 > A curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
 [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
@@ -38,6 +38,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues)
 * [Terraform Community Modules](https://github.com/terraform-community-modules)
 * [Terraform Module Registry](https://registry.terraform.io/)
+* [Terraform PDF Doc ★4](https://github.com/dohsimpson/terraform-doc-pdf)
 
 ## Books
 
@@ -48,10 +49,11 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 ## Tutorials and Blog Posts
 
+* [Terraforming 1Password](https://blog.agilebits.com/2018/01/25/terraforming-1password/) - How 1Password migrated from CloudFormation to Terraform.
+* [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/) - Shows the behind the scenes of the infrastructure powered by Terraform that solved [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) at [Segment](https://segment.com/).
 * [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp) - Series of blog posts from the author of "Terraform: Up & Running" that guide the reader from beginning with Terraform to using it in the real world.
 * [Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform: Part I](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/), [II](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-ii/) & [III](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/) - Illustrates how Terraform can be incorporated into a microservice deployment pipeline.
 * [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - Illustrates how easy it is to use the OpenStack Terraform provider to deploy a web server.
-* [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/) - Shows the behind the scenes of the infrastructure powered by Terraform that solved [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) at [Segment](https://segment.com/).
 * [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) - Explanation of a demo using Terraform to provision a sample AWS architecture.
 * [Deploying Discourse with Terraform](https://www.hashicorp.com/blog/terraform-discourse.html) - Shows how Terraform can create a running instance of Discourse on DigitalOcean in one command.
 * [Bootstrapping Docker Infrastructure With Terraform](http://vilkeliskis.com/blog/2016/02/10/bootstrapping-docker-with-terraform.html) - Walkthrough of deploying a dockerized app on ECS using Terraform.
@@ -65,35 +67,40 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 For more Community Modules not listed here please see the [Terraform Module Registry](https://registry.terraform.io/).
 
-* [segmentio/stack ★1447](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS.
-* [terraform-ecs-jenkins ★54](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
-* [tf_aws_bastion_s3_keys ★68](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2.
-* [terraform-static-website-s3-cloudfront ★29 ⏳1Y](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables.
+* [segmentio/stack ★1614](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS.
+* [terraform-ecs-jenkins ★65](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
+* [tf_aws_bastion_s3_keys ★106](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2.
+* [terraform-static-website-s3-cloudfront ★35 ⏳1Y](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables.
 * [tf_aws_vpc_only ★4](https://github.com/terraform-community-modules/tf_aws_vpc_only) - Provides only VPC (without subnets) in AWS.
 * [tf_aws_asg_elb ★24](https://github.com/terraform-community-modules/tf_aws_asg_elb) - Creates Auto-Scaling Groups and Launch Configurations for use with an Elastic Load Balancer.
 * [tf_aws_availability_zones_cfn ★4 ⏳1Y](https://github.com/terraform-community-modules/tf_aws_availability_zones_cfn) - Gets availability zones for your AWS region/account from Cloudformation.
-* [tf_aws_ubuntu_ami ★54](https://github.com/terraform-community-modules/tf_aws_ubuntu_ami) - Easy way to lookup Ubuntu AMIs with Terraform.
-* [tf_aws_sg ★64](https://github.com/terraform-community-modules/tf_aws_sg) - Collection of common security group settings.
+* [tf_aws_ubuntu_ami ★55](https://github.com/terraform-community-modules/tf_aws_ubuntu_ami) - Easy way to lookup Ubuntu AMIs with Terraform.
+* [tf_aws_sg ★65](https://github.com/terraform-community-modules/tf_aws_sg) - Collection of common security group settings.
 * [tf_aws_coreos_ami ★14 ⏳1Y](https://github.com/terraform-community-modules/tf_aws_coreos_ami) - Easy way to lookup CoreOS AMIs with terraform.
-* [tf_aws_private_subnet_nat_gateway ★7](https://github.com/terraform-community-modules/tf_aws_private_subnet_nat_gateway) - Creates private subnets with NAT Gateway in AWS.
-* [tf_aws_rds ★18](https://github.com/terraform-aws-modules/terraform-aws-rds) - Creates RDS resources on AWS.
-* [terraform-aws-postgresql-rds ★23](https://github.com/azavea/terraform-aws-postgresql-rds) - Creates PostgreSQL on RDS.
-* [tf_aws_vpc ★206](https://github.com/terraform-community-modules/tf_aws_vpc) - Provides VPCs in AWS.
-* [tf_aws_nat ★17](https://github.com/terraform-community-modules/tf_aws_nat) - NAT instances for AWS.
-* [rancher-terraform-digitalocean ★12](https://github.com/lunagt/rancher-terraform-digitalocean) - Rancher server on digitalocean.
+* [tf_aws_private_subnet_nat_gateway ★9](https://github.com/terraform-community-modules/tf_aws_private_subnet_nat_gateway) - Creates private subnets with NAT Gateway in AWS.
+* [tf_aws_rds ★57](https://github.com/terraform-aws-modules/terraform-aws-rds) - Creates RDS resources on AWS.
+* [terraform-aws-postgresql-rds ★32](https://github.com/azavea/terraform-aws-postgresql-rds) - Creates PostgreSQL on RDS.
+* [tf_aws_vpc ★212](https://github.com/terraform-community-modules/tf_aws_vpc) - Provides VPCs in AWS.
+* [tf_aws_nat ★20](https://github.com/terraform-community-modules/tf_aws_nat) - NAT instances for AWS.
+* [rancher-terraform-digitalocean ★15 ⏳1Y](https://github.com/lunagt/rancher-terraform-digitalocean) - Rancher server on digitalocean.
+* [terraform-aws-ecr ★14](https://github.com/cloudposse/terraform-aws-ecr) - Manages Docker container registries on AWS ECR.
+* [terraform-aws-efs ★8](https://github.com/cloudposse/terraform-aws-efs) - Defines an EFS Filesystem.
+* [terraform-aws-key-pair ★38](https://github.com/cloudposse/terraform-aws-key-pair) - Automatically Generate SSH Key Pairs (Public/Private Keys).
+* [terraform-aws-jenkins ★32](https://github.com/cloudposse/terraform-aws-jenkins) - Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack.
 
 ## Tools
 
-* [Atlantis ★522](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
-* [terraform-docs ★306](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules.
+* [Atlantis ★650](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
+* [terraform_validate ★107](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform.
+* [terraform-docs ★516](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules.
 * [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 * [terraform-provisioner ★9](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts.
-* [terraboot ★19](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
-* [terraform-provider-pingdom ★21](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
-* [terragrunt ★947](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
-* [tfenv ★199](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv.
-* [terraform-landscape ★131](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand.
-* [Blast Radius ★29](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs.
+* [terraboot ★31](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
+* [terraform-provider-pingdom ★35](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
+* [terragrunt ★1315](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
+* [tfenv ★300](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv.
+* [terraform-landscape ★300](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand.
+* [Blast Radius ★197](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs.
 
 
 ## Talks
@@ -113,10 +120,10 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Editor Plugins
 
-* [Vim-Terraform ★184](https://github.com/hashivim/vim-terraform)
-* [Vim-Terraform-Completion ★54](https://github.com/juliosueiras/vim-terraform-completion)
+* [Vim-Terraform ★258](https://github.com/hashivim/vim-terraform)
+* [Vim-Terraform-Completion ★119](https://github.com/juliosueiras/vim-terraform-completion)
 * [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
-* [Emacs terraform-mode ★59 ⏳1Y](https://github.com/syohex/emacs-terraform-mode)
+* [Emacs terraform-mode ★69 ⏳1Y](https://github.com/syohex/emacs-terraform-mode)
 
 ## License
 

@@ -9,7 +9,7 @@ title: Awesome Rank for marcobiedermann/search-engine-optimization
 ---
 # [Search Engine Optimization (SEO)](https://marcobiedermann.github.io/search-engine-optimization/)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 [![Join the chat at https://gitter.im/marcobiedermann/search-engine-optimization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcobiedermann/search-engine-optimization)
 
 A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
@@ -156,10 +156,10 @@ search engines do not use this meta tag
 * **[Followerwonk](https://moz.com/followerwonk):** tools for Twitter Analytics, Bio Search and More
 * **[Google Analytics](https://www.google.com/analytics/):** generate detailed statistics about a website's traffic
 * **[Open Site Explorer](https://moz.com/researchtools/ose/):** use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.
-* **[Piwik](https://piwik.org/):** an open analytics platform
+* **[Matomo](https://matomo.org/):** an open analytics platform
 * **[SEMrush](https://www.semrush.com/):** SEMrush is a powerful and versatile competitive intelligence suite for online marketing, from SEO and PPC to social media and video advertising research.
 * **[Seomator](https://seomator.com/):**  SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips.
-* **[SEOstats ★1153](https://github.com/eyecatchup/SEOstats):** SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
+* **[SEOstats ★1195](https://github.com/eyecatchup/SEOstats):** SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
 * **[SimilarWeb](https://www.similarweb.com/):** compare website traffic with SimilarWeb.com's advanced traffic estimator tool. See any website's traffic sources & uncover their online marketing strategies.
 * **[Twitter Analytics](https://analytics.twitter.com/):** measure and boost your impact on Twitter.
 
@@ -173,7 +173,6 @@ search engines do not use this meta tag
 * **[Google Trends](https://www.google.com/trends/):** explore Google trending search topics with Google Trends.
 * **[Keyword Planner](https://adwords.google.com/KeywordPlanner):** plan your Search Network campaigns and learn what your customers are looking for
 * **[Keyword Tool](http://keywordtool.io/):** best FREE alternative to Google Keyword Tool for SEO & PPC keyword research! Get 750+ relevant long-tail keywords from Google Suggest in seconds!
-* **[Rankscanner](https://www.rankscanner.com/):** easily track your keyword positions (SERPs) on Google for free. Unlimited websites and 100 % ranking accuracy. The best SEO tool and SERP monitor online.
 
 ### Links
 * **[OpenLinkProfiler](http://www.openlinkprofiler.org/):** get an in-depth analysis of the freshest live backlinks.
@@ -188,14 +187,14 @@ search engines do not use this meta tag
 * **[Twitter card validator](https://cards-dev.twitter.com/validator):** enter the URL of the page with the meta tags to validate
 
 ### Bookmarklets
-* **[OuiSEO ★29 ⏳3Y](https://github.com/carlsednaoui/seo-bookmarklet):** an open-source bookmarklet that shows you on-page SEO and social meta data information.
+* **[OuiSEO ★32 ⏳3Y](https://github.com/carlsednaoui/seo-bookmarklet):** an open-source bookmarklet that shows you on-page SEO and social meta data information.
 * **[SEO Bookmarklet](https://twkm.ca/projects/seo-bookmarklet):** a One-Stop SEO Bookmarklet to Quickly Review On-Site SEO
 
 ### Browser Extensions
 * **[MozBar](https://moz.com/tools/seo-toolbar):** the SEO Toolbar from Moz gives you quick access to many on-page SEO factors, Domain & Page Authority plus a quick nofollow toggle. Download the Free Toolbar today!
 
 ### Jekyll Plugins
-* **[Jekyll SEO Tag ★576](https://github.com/jekyll/jekyll-seo-tag):** A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
+* **[Jekyll SEO Tag ★696](https://github.com/jekyll/jekyll-seo-tag):** A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
 
 ### TYPO3 Extensions
 * **[Basic SEO Features](https://typo3.org/extensions/repository/view/seo_basics):** Adds a separate field for the title-tag per page, easy and SEO-friendly keywords and description editing in a new module as well as a flexible Google Sitemap.
@@ -220,7 +219,7 @@ search engines do not use this meta tag
 
 ## Courses
 * **[Analyzing Your Website to Improve SEO](https://www.lynda.com/Marketing-Small-Business-Marketing-tutorials/Analyzing-Your-Website-Improve-SEO/82409-2.html):** walks step-by-step through the process of reviewing the content and markup of a web site to improve its ranking in search engine results. With Peter Kent by Lynda.com
-* **[ClickMinded Search Engine Optimization Training](https://www.udemy.com/seo-training/):** ClickMinded Search Engine Optimization Training with Tommy Griffith by udemy
+* **[ClickMinded](https://www.clickminded.com/):** ClickMinded is an SEO training course for startups that want to grow their organic traffic and sales as quickly as possible.
 * **[Ecommerce SEO 101 Video Series](https://www.shopify.com/videos/ecommerce-seo-101):** Ecommerce SEO 101 Video Series with Helen Overland by shopify
 * **[Improving SEO Using Accessibility Techniques](https://www.lynda.com/HTML-5-tutorials/Improving-SEO-Using-Accessibility-Techniques/89051-6.html):** make web sites more accessible and search engine friendly through proper markup and web standards compliance. With Morten Rand-Hendriksen by Lynda.com
 * **[International SEO Fundamentals](https://www.lynda.com/Analytics-tutorials/International-SEO-Fundamentals/377449-6.html):** attract international visitors to your websites with these SEO tips. Learn how to determine target markets and optimize your website's technical aspects and content for countries and languages around the world. With David Booth by Lynda.com

@@ -7,7 +7,7 @@ title: Awesome Rank for kdabir/awesome-groovy
 	This list is a copy of <a href="https://github.com/kdabir/awesome-groovy">kdabir/awesome-groovy</a> with ranks
 </p>
 ---
-Awesome Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+Awesome Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 ==============
 
 Curated list of awesome groovy libraries, frameworks and resources. Inspired by many other awesome-* repositories. This awesome collection is also available on [Groovy.ZEEF.com](https://groovy.zeef.com/kunal.dabir).
@@ -34,34 +34,38 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 - [Contributing](#contributing)
 - [Credits](#credits)
 
-## Build tools and Setup
+## Build tools, setup and CI
 * [Gradle](http://www.gradle.org/) - A powerful build system for the JVM
+* [GMavenPlus ★155](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
 * [SDKMAN](http://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
-* [Lazybones ★502 ⏳1Y](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
+* [Lazybones ★526 ⏳1Y](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
+* [Jenkins job-dsl-plugin ★1256](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
+* [travis-groovy ★2](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci
 
 ## IDE and Editor Support
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The Most Intelligent IDE for the Java Platform
 * [Groovy Grails Tool Suite](http://spring.io/tools/ggts) -  Eclipse-based IDE optimized for developing, debugging and executing Groovy and Grails applications
 * [Groovy Web Console](http://groovyconsole.appspot.com) - The online Groovy console
-* [LightTable Plugin ★26 ⏳1Y](https://github.com/rundis/LightTable-Groovy) - LightTable Support
-* [Sublime Text 2](https://gist.github.com/kdabir/2203530) - Run groovy scripts from Sublime Text
+* [LightTable Plugin ★26 ⏳2Y](https://github.com/rundis/LightTable-Groovy) - LightTable Support
+* [Sublime Text 2/3](https://gist.github.com/kdabir/2203530) - Run groovy scripts from Sublime Text
 
 ## Web Frameworks
 
-* [Grails ★460 ⏳8Y](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language
-* [Gaelyk ★232 ⏳1Y](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
-* [Glide ★47](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap
-* [Ratpack ★1641](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications
-* [gServ ★42](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
+* [Grails ★458 ⏳8Y](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language
+* [Gaelyk ★233](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
+* [Glide ★48](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap
+* [Ratpack ★1686](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications
+* [gServ ★44 ⏳1Y](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
 * [Spring-Boot](http://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
+* [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
 
 ## Database
-* [Gmongo ★182 ⏳1Y](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
-* [Gstorm ★65](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
-* [Tayra ★136](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
-* [Groovy-liquibase ★72 ⏳2Y](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase
-* [Effigy ★5 ⏳1Y](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework
-* [elasticsearch-groovy ★37](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client
+* [Gmongo ★179 ⏳2Y](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
+* [Gstorm ★68 ⏳1Y](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
+* [Tayra ★139 ⏳1Y](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
+* [Groovy-liquibase ★75 ⏳2Y](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase
+* [Effigy ★6 ⏳2Y](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework (abandoned)
+* [elasticsearch-groovy ★39 ⏳1Y](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client
 
 ## Rich Application
 
@@ -69,20 +73,24 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [GroovyFx](http://groovyfx.org/) - GroovyFX provides a Groovy binding for JavaFX 2.0.
 
 ## HTTP
-* [Http-Builder ★240](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
-* [Http Builder NG ★102](https://github.com/http-builder-ng/http-builder-ng) - Http Builder NG is a modern Groovy DSL for making http requests.
+* [Http-Builder ★252](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
+* [HTTP Builder NG ★116](https://github.com/http-builder-ng/http-builder-ng) - HTTP Builder NG is a modern Groovy DSL for making http requests.
+* [HTTP Builder NG Gradle Plugin ★9](https://github.com/http-builder-ng/gradle-http-plugin) - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
 * [AsyncRestClient ★4 ⏳2Y](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls
-* [Groovy-wslite ★355](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
+* [Groovy-wslite ★368](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
 
 ## Testing
-* [Spock ★1776](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
-* [Geb ★826](https://github.com/geb/geb) - Very Groovy Browser Automation
+* [Spock ★1937](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
+* [Geb ★883](https://github.com/geb/geb) - Very Groovy Browser Automation
 * [Betamax](http://betamax.software/) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
-* [HTTP Mock Server ★7](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures.
+* [HTTP Mock Server ★10](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures.
+* [Ersatz Mock Server ★25](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses.
+* [Dru](https://agorapulse.github.io/dru/) - Data Reconstruction Utility loads data from external sources JSON, YML for easy testing GORM, DynamoDB or just plain POJOs.
+* [Gru](https://agorapulse.github.io/gru/) - Groovy HTTP Testing Framework for running integration and semi-ingetration tests for any HTTP backend with native unit test support for Grails and Spring MVC.
 
 ## Concurrency
-* [GPars ★171](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
-* [RxGroovy ★131](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy
+* [GPars ★181](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
+* [RxGroovy ★138](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy
 * [Vertx](http://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM
 
 ## Code Analysis
@@ -90,42 +98,44 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Sonar-Groovy](https://github.com/SonarQubeCommunity/sonar-groovy) - SonarQube Groovy plugin
 
 ## Transpilers
-* [Grooscript ★186](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
+* [Grooscript ★193](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
 
 ## Static Web
-* [Grain ★131](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
-* [Gaiden ★125](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
+* [Grain ★138](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
+* [Gaiden ★133 ⏳1Y](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
 
 ## Language Utilities
 * [Functionalgroovy ★61 ⏳2Y](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
-* [Groovy-stream ★64](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
+* [Groovy-stream ★65](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
 * [Flipside ★22](https://github.com/johnnywey/flipside) - Simple Groovy options library
-* [groovy-common-extensions ★62 ⏳1Y](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system
+* [groovy-common-extensions ★67 ⏳1Y](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system
 * [groovy-extra-list-behaviour ★2 ⏳2Y](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system
 * [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code
   * [gprof ★27 ⏳2Y](https://github.com/gperfutils/gprof) - The profiling module for Groovy
-  * [gbench ★25 ⏳2Y](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy
+  * [gbench ★25 ⏳3Y](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy
 
 ## File System Utilities
-* [Groovy-Vfs ★55](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
-* [Directree ★9](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
+* [Groovy-Vfs ★59](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
+* [Directree ★9 ⏳1Y](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
 
 ## File Format DSL
-* [document-builder ★82 ⏳1Y](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
-* [spreadsheet-builder](https://github.com/MetadataRegistry/spreadsheet-builder) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
+* [document-builder ★84 ⏳2Y](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
+* [spreadsheet-builder](http://spreadsheet.dsl.builders/) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
+* [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy
 
 ## Scripting Tools
- * [sshoogr ★265](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
+ * [sshoogr ★283](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
+
 
 ## Rule Engines
-* [grules ★29 ⏳1Y](https://github.com/zhaber/grules) - rule engine for data preprocessing
-* [n-cube ★84](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
+* [grules ★28 ⏳1Y](https://github.com/zhaber/grules) - rule engine for data preprocessing
+* [n-cube ★94](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
 
 # Resources
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/incubator-groovy) - Groovy's source code mirrored on Github
+* [Groovy's source ★2647](https://github.com/apache/groovy) - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -152,6 +162,12 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Guillaume Laforge's blog](http://glaforge.appspot.com/)
 * [Cédric Champeau's blog](http://melix.github.io/blog/)
 * [Jochen Theodorou's blog](http://blackdragsview.blogspot.com/)
+* [Grails Team blog](http://grailsblog.objectcomputing.com/)
+
+## Conferences
+* [Greachconf](http://greachconf.com)
+* [GR8Conf Europe](http://gr8conf.eu)
+* [GR8Conf USA](http://gr8conf.us)
 
 # Contributing
 
@@ -181,7 +197,7 @@ If you are lazy to download the repo, an easy way is:
 
 # Credits
 
-To all the awesome-* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) and [this ★20295](https://github.com/bayandin/awesome-awesomeness).
+To all the awesome-* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) and [this ★21454](https://github.com/bayandin/awesome-awesomeness).
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/kdabir/awesome-groovy">kdabir/awesome-groovy</a> with ranks

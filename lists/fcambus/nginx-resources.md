@@ -7,7 +7,7 @@ title: Awesome Rank for fcambus/nginx-resources
 	This list is a copy of <a href="https://github.com/fcambus/nginx-resources">fcambus/nginx-resources</a> with ranks
 </p>
 ---
-# Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
 
@@ -40,16 +40,17 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx Configuration Primer](http://blog.martinfjordvald.com/2010/07/nginx-primer/)
 - [Nginx Primer 2: From Apache to Nginx](http://blog.martinfjordvald.com/2011/02/nginx-primer-2-from-apache-to-nginx/)
 - [Understanding the Nginx Configuration Inheritance Model](http://blog.martinfjordvald.com/2012/08/understanding-the-nginx-configuration-inheritance-model/)
-- [Nginx HTTP server boilerplate configs ★6420](https://github.com/h5bp/server-configs-nginx)
-- [Nginx Boilerplate - Configuration template and a set of handy must-have snippets ★2200](https://github.com/nginx-boilerplate/nginx-boilerplate)
+- [Nginx HTTP server boilerplate configs ★6898](https://github.com/h5bp/server-configs-nginx)
+- [Nginx Boilerplate - Configuration template and a set of handy must-have snippets ★2271](https://github.com/nginx-boilerplate/nginx-boilerplate)
 - [Cranking Nginx to 11](https://speakerdeck.com/helgi/cranking-nginx-to-11)
 - [Nginx and PHP, match made in heaven](https://speakerdeck.com/helgi/nginx-and-php-match-made-in-heaven)
 - [How to Configure OCSP Stapling in Apache and Nginx](https://sslmate.com/blog/post/ocsp_stapling_in_apache_and_nginx)
+- [nginxconfig.io - Online nginx configuration generator](https://nginxconfig.io)
 
 ## Tutorials
 
 - [NGINX and NGINX Plus Admin Guide](https://www.nginx.com/resources/admin-guide/)
-- [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source ★1872 ⏳1Y](https://github.com/openresty/nginx-tutorials))
+- [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source ★2015](https://github.com/openresty/nginx-tutorials))
 - [Introduction to nginx.conf scripting](http://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
 - [Load Balancing with NGINX and NGINX Plus](https://www.nginx.com/blog/load-balancing-with-nginx-plus/) ([Part 2](https://www.nginx.com/blog/load-balancing-with-nginx-plus-part2/))
 - [Optimizing Nginx for High Traffic Loads](http://blog.martinfjordvald.com/2011/04/optimizing-nginx-for-high-traffic-loads/)
@@ -83,7 +84,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 - [Nginx JSON hacks](https://web.archive.org/web/20140921162448/http://www.gabrielweinberg.com/blog/2011/07/nginx-json-hacks.html)
 - [Using Environment Variables In Nginx.conf](https://docs.apitools.com/blog/2014/07/02/using-environment-variables-in-nginx-conf.html)
-- [JSONP Proxy - Get JSONP from APIs not supporting it natively ★8](https://github.com/fcambus/jsonp-proxy)
+- [JSONP Proxy - Get JSONP from APIs not supporting it natively ★9 ⏳1Y](https://github.com/fcambus/jsonp-proxy)
 - [Log rotation directly within Nginx configuration file](https://www.cambus.net/log-rotation-directly-within-nginx-configuration-file/)
 - [Realtime pixel tracking with Nginx, syslog-ng, and Redis](https://benwilber.github.io/nginx/redis/syslog/pixel-tracking/2013/09/13/realtime-pixel-tracking-with-nginx-syslog-ng-and-redis.html)
 - [Dynamic log formats in Nginx](https://benwilber.github.io/nginx/syslog/logging/2015/08/26/dynamic-log-formats-in-nginx.html)
@@ -115,14 +116,14 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Lapis - A web framework for Lua or MoonScript powered by OpenResty](http://leafo.net/lapis/)
 - [Nginx image processing server with OpenResty and Lua](http://leafo.net/posts/creating_an_image_server.html)
 - [A small router for Openresty](https://docs.apitools.com/blog/2014/04/24/a-small-router-for-openresty.html)
-- [Building an OpenResty events server ★65 ⏳3Y](https://github.com/cagerton/dropthat)
+- [Building an OpenResty events server ★66 ⏳4Y](https://github.com/cagerton/dropthat)
 - [SysAdvent 2014 - OpenResty, Nginx and Lua](http://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source ★9 ⏳2Y](https://github.com/lusis/sysadvent-2014))
 - [OpenResty (Nginx) with dynamically generated certificates](http://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/)
 - [Ceryx - A dynamic reverse proxy](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 - [An Introduction To OpenResty](http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 - [Developing OpenResty Framework using decoupled libraries](http://www.iresty.com/download/ebook/2015_con/aapo.pdf) ([Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
 - [Programming OpenResty (written by the OpenResty creator)](https://www.gitbook.com/book/openresty/programming-openresty/details)
-- [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards ★3755](https://github.com/alexazhou/VeryNginx)
+- [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards ★4111](https://github.com/alexazhou/VeryNginx)
 
 - [OpenResty Con 2015](http://www.iresty.com)
 

@@ -7,7 +7,7 @@ title: Awesome Rank for fliptheweb/motion-ui-design
 	This list is a copy of <a href="https://github.com/fliptheweb/motion-ui-design">fliptheweb/motion-ui-design</a> with ranks
 </p>
 ---
-# Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 What is motion design? It's a magic that's alive your interfaces, makes a user feel comfortable with UI changes.
 It’s curated collection of resources, software, libraries, videos and articles related to motion UI design, UI animations and transitions.
 Feel free to [add something interesting](https://github.com/fliptheweb/motion-ui-design/blob/master/contributing.md) (todo inside) by pull request!
@@ -156,12 +156,12 @@ And obvious your secret weapon – Pen and paper!
 * [Snabbt.js](http://daniel-lundin.github.io/snabbt.js/) – Minimalistic animation library in JavaScript.
 * [Famo.us](http://famous.org/) – High-performance JavaScript library for animations & interfaces.
 * [Processing.js](http://processingjs.org/) – JavaScript library for Processing visual programming language.
-* [Framer.js ★4981](https://github.com/koenbok/Framer) – Prototyping tool for designing UI, interaction and animation.
+* [Framer.js ★5172](https://github.com/koenbok/Framer) – Prototyping tool for designing UI, interaction and animation.
 * [Dynamics.js](http://dynamicsjs.com/) – JavaScript library to create physics-based animations.
-* [Mo.js ★12602](https://github.com/legomushroom/mojs) – Motion graphics toolbelt for the web.
+* [Mo.js ★13372](https://github.com/legomushroom/mojs) – Motion graphics toolbelt for the web.
 * [AnimateTransition](http://rapid-application-development-js.github.io/AnimateTransition/) – Library for transition of blocks and popups.
-* [Animate Plus ★4279](https://github.com/bendc/animateplus) – CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile.
-* [Gravitas.js ★124 ⏳2Y](https://github.com/iamralpht/gravitas.js) – Super fast physics simulations for JavaScript.
+* [Animate Plus ★4819](https://github.com/bendc/animateplus) – CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile.
+* [Gravitas.js ★139 ⏳3Y](https://github.com/iamralpht/gravitas.js) – Super fast physics simulations for JavaScript.
 * [Popmotion](https://popmotion.io/guides/basics/get-started/) – JavaScript motion engine that makes creating engaging user interactions quick and simple.
 * [anime.js](http://animejs.com/) - Lightweight JavaScript animation library.
 

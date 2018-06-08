@@ -7,7 +7,7 @@ title: Awesome Rank for sger/ElixirBooks
 	This list is a copy of <a href="https://github.com/sger/ElixirBooks">sger/ElixirBooks</a> with ranks
 </p>
 ---
-# Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 Contents
 ====
 * [Books](#books)
@@ -46,7 +46,7 @@ Elixir-School is an open and community driven effort inspired by Twitter’s Sca
 
 Elixir is an excellent language if you want to learn about functional programming, and with this hands-on introduction, you’ll discover just how powerful and fun Elixir can be. This language combines the robust functional programming of Erlang with a syntax similar to Ruby, and includes powerful features for metaprogramming.
 
-### [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) *Free*
+### [Études for Elixir](https://startlearningelixir.com/r/etudes-for-elixir) *Free*
 
 <img src="http://orm-other.s3.amazonaws.com/elixir_etudes_splash/cover.jpg" width="120px"/>
 
@@ -76,11 +76,11 @@ The Little Elixir & OTP Guidebook gets you started programming applications with
 
 Elixir, based on Erlang’s virtual machine and ecosystem, makes it easier to achieve scalability, concurrency, fault tolerance, and high availability goals that are pursued by developers using any programming language or programming paradigm. Elixir is a modern programming language that utilizes the benefits offered by Erlang VM without really incorporating the complex syntaxes of Erlang.
 
-### [Programming Elixir 1.3](https://pragprog.com/book/elixir13/programming-elixir-1-3)
+### [Programming Elixir ≥ 1.6](https://pragprog.com/book/elixir16/programming-elixir-1-6)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/5116WrBGeQL._SX415_BO1,204,203,200_.jpg" width="120px"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/4181m33RmQL._SX415_BO1,204,203,200_.jpg" width="120px"/>
 
-You want to explore functional programming, but are put off by the academic feel (tell me about monads just one more time). You know you need concurrent applications, but also know these are almost impossible to get right. Meet Elixir, a functional, concurrent language built on the rock-solid Erlang VM. Elixir’s pragmatic syntax and built-in support for metaprogramming will make you productive and keep you interested for the long haul. This book is the introduction to Elixir for experienced programmers.
+> This book is the introduction to Elixir for experienced programmers, completely updated for Elixir 1.6 and beyond. Explore functional programming without the academic overtones (tell me about monads just one more time). Create concurrent applications, but get them right without all the locking and consistency headaches. Meet Elixir, a modern, functional, concurrent language built on the rock-solid Erlang VM. Elixir’s pragmatic syntax and built-in support for metaprogramming will make you productive and keep you interested for the long haul. Maybe the time is right for the Next Big Thing. Maybe it’s Elixir.
 
 ### [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com)
 
@@ -93,6 +93,12 @@ Hey there! This is Learn You Some Erlang for great good! This book is for you if
 <img src="http://t3.gstatic.com/images?q=tbn:ANd9GcSKqtSJPiXGRxX140Y-BAXI7Bt7ja9965hL_Xo4CVVBbrVNOlbm" width="120px"/>
 
 Elixir’s straightforward syntax and this guided tour give you a clean, simple path to learn modern functional programming techniques. No previous functional programming experience required! This book walks you through the right concepts at the right pace, as you explore immutable values and explicit data transformation, functions, modules, recursive functions, pattern matching, high-order functions, polymorphism, and failure handling, all while avoiding side effects.
+
+### [Take Off With Elixir](https://bigmachine.io/products/take-off-with-elixir)
+
+<img src="https://cdn.shopify.com/s/files/1/2184/6525/products/cover_500_2048x.jpg?v=1504403907" width="120px"/>
+
+This isn’t your typical “let’s build a blog” situation. You’ll be working with me, the Dev Lead of the fictional Aerospace startup RED:4, as we dive into Elixir and conduct various scientific studies.
 
 **Advanced Books**
 ---
@@ -173,6 +179,12 @@ Why choose Erlang for web applications? Discover the answer hands-on by building
 
 Elixir and Phoenix are generating tremendous excitement as an unbeatable platform for building modern web applications. Make the most of them as you build a stateful web app with Elixir and OTP. Model domain entities without an ORM or a database. Manage server state and keep your code clean with OTP Behaviours. Layer on a Phoenix web interface without coupling it to the business logic. Open doors to powerful new techniques that will get you thinking about web development in fundamentally new ways.
 
+### [Elixir and Elm Tutorial](https://leanpub.com/elixir-elm-tutorial)
+
+<img src="https://s3.amazonaws.com/titlepages.leanpub.com/elixir-elm-tutorial/hero?1518079280" width="120px"/>
+
+Welcome to the world of functional web programming! In this book, we'll learn how to create fun, scalable, and maintainable web applications. We'll use the latest ideas from emerging languages like Elixir and Elm to craft a fun experience. Rather than focusing on theory, we'll take a practical approach and build a real-world application.
+
 **Resources**
 ====
 * [Joe Armstrong - A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
@@ -186,7 +198,7 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 * [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
-* [Awesome Elixir ★7511](https://github.com/h4cc/awesome-elixir)
+* [Awesome Elixir ★8063](https://github.com/h4cc/awesome-elixir)
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
 * [Elixir School](http://elixirschool.com/)
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)

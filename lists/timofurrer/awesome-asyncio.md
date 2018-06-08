@@ -7,7 +7,7 @@ title: Awesome Rank for timofurrer/awesome-asyncio
 	This list is a copy of <a href="https://github.com/timofurrer/awesome-asyncio">timofurrer/awesome-asyncio</a> with ranks
 </p>
 ---
-# Awesome asyncio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Awesome asyncio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 > A carefully curated list of awesome Python asyncio frameworks, libraries, software and resources.
 
@@ -36,64 +36,69 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Libraries to build web applications.*
 
 * [aiohttp](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (PEP-3156).
-* [sanic ★7959](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
+* [sanic ★9384](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
 * [Quart](https://gitlab.com/pgjones/quart) - An asyncio web microframework with the same API as Flask.
-* [Kyoukai ★331](https://github.com/SunDwarf/Kyoukai) - Fully async web framework for Python3.5+ using asyncio.
-* [cirrina ★15](https://github.com/neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp.
-* [autobahn ★1633](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
-* [websockets ★1131](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
+* [Kyoukai](https://github.com/SunDwarf/Kyoukai) - Fully async web framework for Python3.5+ using asyncio.
+* [cirrina ★19](https://github.com/neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp.
+* [autobahn ★1777](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
+* [websockets ★1461](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
+* [Tornado](http://www.tornadoweb.org/en/stable/) - Performant web framework and asynchronous networking library.
 
 ## Message Queues
 
 *Libraries to implement applications using message queues.*
 
-* [aioamqp ★123](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio.
-* [aiozmq ★242](https://github.com/aio-libs/aiozmq) - Asyncio (pep 3156) integration with ZeroMQ.
-* [crossbar ★1409](https://github.com/crossbario/crossbar) - Crossbar.io is a networking platform for distributed and microservice applications.
+* [aioamqp ★141](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio.
+* [aiozmq](https://github.com/aio-libs/aiozmq) - Asyncio (pep 3156) integration with ZeroMQ.
+* [crossbar ★1497](https://github.com/crossbario/crossbar) - Crossbar.io is a networking platform for distributed and microservice applications.
 
 ## Database Drivers
 
 *Libraries to connect to databases.*
 
-* [asyncpg ★2292](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.
-* [asyncpgsa ★161](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
-* [aiopg ★547](https://github.com/aio-libs/aiopg) - Library for accessing a PostgreSQL database.
-* [aiomysql ★412](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
-* [aioodbc ★73](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
-* [motor ★898](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
-* [asyncio-redis ★395](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
-* [aiocouchdb ★40 ⏳1Y](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
-* [aioes ★88](https://github.com/aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
-* [peewee-async](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee ★4702](https://github.com/coleifer/peewee) and aiopg.
+* [asyncpg ★2615](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.
+* [asyncpgsa ★208](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
+* [aiopg ★623](https://github.com/aio-libs/aiopg) - Library for accessing a PostgreSQL database.
+* [aiomysql ★514](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
+* [aioodbc ★97](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
+* [motor ★974](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
+* [aioredis ★589](https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/aio-libs) Redis client (PEP 3156).
+* [asyncio-redis ★419](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
+* [aiocouchdb ★42](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
+* [aioinflux ★35](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
+* [aioes](https://github.com/aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
+* [peewee-async](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee ★5251](https://github.com/coleifer/peewee) and aiopg.
+* [GINO](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg ★2615](https://github.com/MagicStack/asyncpg) dialect.
 
 ## Networking
 
 *Libraries to communicate in your network.*
 
-* [AsyncSSH ★620](https://github.com/ronf/asyncssh) - Provides an asynchronous client and server implementation of the SSHv2 protocol.
+* [AsyncSSH ★675](https://github.com/ronf/asyncssh) - Provides an asynchronous client and server implementation of the SSHv2 protocol.
 
 ## Testing
 
 *Libraries to test asyncio based applications.*
 
-* [aiomock ★10 ⏳1Y](https://github.com/nhumrich/aiomock) - A python mock library that supports async methods.
-* [asynctest ★109](https://github.com/Martiusweb/asynctest) - Enhance the standard unittest package with features for testing. asyncio libraries
-* [pytest-asyncio ★185](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
+* [aiomock ★13 ⏳1Y](https://github.com/nhumrich/aiomock) - A python mock library that supports async methods.
+* [asynctest ★128](https://github.com/Martiusweb/asynctest) - Enhance the standard unittest package with features for testing. asyncio libraries
+* [pytest-asyncio ★246](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 
 ## Alternative Loops
 
 *Alternative asyncio loop implementations.*
 
-* [uvloop ★4252](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
-* [curio ★2256](https://github.com/dabeaz/curio) - The coroutine concurrency library.
+* [uvloop ★4711](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
+* [curio ★2478](https://github.com/dabeaz/curio) - The coroutine concurrency library.
 
 ## Misc
 
 *Other awesome asyncio libraries.*
 
-* [aiofiles ★365](https://github.com/Tinche/aiofiles) - File support for asyncio.
-* [aiodebug ★8](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
-* [aiorun ★7](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
+* [aiofiles ★486](https://github.com/Tinche/aiofiles) - File support for asyncio.
+* [aiodebug ★13 ⏳1Y](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
+* [aiorun ★23](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
+* [aiozipkin ★73](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
 
 ## Writings
 
@@ -104,6 +109,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Async Through the looking Glass](https://hackernoon.com/async-through-the-looking-glass-d69a0a88b661) - Nice writing about it's worth using asyncio or not for specific use-cases.
 * [Asynchronous Python](https://hackernoon.com/asynchronous-python-45df84b82434) - Introduction into asynchronous programming with Python.
 * [AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e) - A gentle introduction to asynchronous programming from basic examples working up to URL fetching.
+* [Test limits of Python aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html) - Making 1 million requests with python-aiohttp.
 
 ## Talks
 

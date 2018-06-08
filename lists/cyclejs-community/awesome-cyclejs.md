@@ -7,7 +7,7 @@ title: Awesome Rank for cyclejs-community/awesome-cyclejs
 	This list is a copy of <a href="https://github.com/cyclejs-community/awesome-cyclejs">cyclejs-community/awesome-cyclejs</a> with ranks
 </p>
 ---
-## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
@@ -95,10 +95,10 @@ http://oleg.fi/graafi/
 * [fabiothiroki/cyclejs-starwars ★2](https://github.com/fabiothiroki/cyclejs-starwars) - A Star Wars character search app using Cycle.js, RxJS and Virtual DOM tests.
 * [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) - A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
 * [cyclejs/todomvc-cycle ★214](https://github.com/cyclejs/todomvc-cycle/) - TodoMVC [example](https://cyclejs.github.io/todomvc-cycle/) implemented in Cycle.js
-* [jefersondaniel/cyclejs-notes ★1](https://github.com/jefersondaniel/cyclejs-notes) - Notes app using Cycle.js and Orbit.js https://jefersondaniel.com/cyclejs-notes
+* [jefersondaniel/cyclejs-notes ★2](https://github.com/jefersondaniel/cyclejs-notes) - Notes app using Cycle.js and Orbit.js https://jefersondaniel.com/cyclejs-notes
 * [staltz/dat-installer ★77](https://github.com/staltz/dat-installer) - Download, install, and update Android apps through Dat
 * [usm4n/cycle-hn ★25](https://github.com/usm4n/cycle-hn) - Hackernews Clone Using CycleJS
-* [lizraeli/cycle-github-emojis ★1](https://github.com/lizraeli/cycle-github-emojis) - A github emoji viewer made with Cycle.JS [webapp](https://github-emoji.levizraelit.com/)
+* [lizraeli/cycle-github-emojis ★2](https://github.com/lizraeli/cycle-github-emojis) - A github emoji viewer made with Cycle.JS [webapp](https://github-emoji.levizraelit.com/)
 
 ## Tools
 
@@ -120,8 +120,8 @@ http://oleg.fi/graafi/
 * [axefrog/cycle-router5 ★30](https://github.com/axefrog/cycle-router5) - A router driver using Router5
 * [cgeorg/cycle-socket.io ★27](https://github.com/cgeorg/cycle-socket.io) - A Cycle driver for Socket.IO clients
 * [secobarbital/cycle-fetch-driver ★2](https://github.com/secobarbital/cycle-fetch-driver) - A Cycle.js Driver for making HTTP requests, using the Fetch API.
-* [r7kamura/cycle-fetcher-driver ★14](https://github.com/r7kamura/cycle-fetcher-driver) - A Cycle.js Driver for making HTTP requests using [stackable-fetcher ★18 ⏳1Y](https://github.com/r7kamura/stackable-fetcher).
-* [benji6/cycle-audio-graph ★12](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph ★112](https://github.com/benji6/virtual-audio-graph)
+* [r7kamura/cycle-fetcher-driver ★14](https://github.com/r7kamura/cycle-fetcher-driver) - A Cycle.js Driver for making HTTP requests using [stackable-fetcher ★19 ⏳2Y](https://github.com/r7kamura/stackable-fetcher).
+* [benji6/cycle-audio-graph ★12](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph ★212](https://github.com/benji6/virtual-audio-graph)
 * [CyclicMaterials/cycle-hammer-driver ★11](https://github.com/CyclicMaterials/cycle-hammer-driver) - A Cycle.js driver to wrap Hammer.js and detect touch gestures
 * [jessaustin/cycle-sse-driver ★6](https://github.com/jessaustin/cycle-sse-driver) - Source driver for Server-Sent Events/EventSource.
 * [tylors/cycle-snabbdom ★41](https://github.com/TylorS/cycle-snabbdom) - DOM driver using Snabbdom
@@ -190,7 +190,7 @@ http://oleg.fi/graafi/
 * [erykpiast/autocompleted-select ★10](https://github.com/erykpiast/autocompleted-select) - Select Web Component with autocompletion. Based on RxJS and VirtualDOM.
 * [enten/cyclejs-calendar ★11](https://github.com/enten/cyclejs-calendar) - Calendar component for Cycle.js. Try it online [here](http://enten.github.io/cyclejs-calendar/example).
 * [mciparelli/cyclejs-gravatar ★0](https://github.com/mciparelli/cyclejs-gravatar) - Cycle.js component for rendering a gravatar profile image.
-* [tommy-the-runner/cyclejs-ace-editor ★0](https://github.com/tommy-the-runner/cyclejs-ace-editor) - Cycle.js intergration with Ace Editor using [brace ★460](https://github.com/thlorenz/brace). Check an example [here](https://tommy-the-runner.github.io/cyclejs-ace-editor/).
+* [tommy-the-runner/cyclejs-ace-editor ★0](https://github.com/tommy-the-runner/cyclejs-ace-editor) - Cycle.js intergration with Ace Editor using [brace ★544](https://github.com/thlorenz/brace). Check an example [here](https://tommy-the-runner.github.io/cyclejs-ace-editor/).
 * [raquelxmoss/cycle-color-picker ★44](https://github.com/raquelxmoss/cycle-color-picker) - A Color Picker component for Cycle.js. [Check out the example](https://raquelxmoss.github.io/cycle-color-picker).
 * [cyclejs-community/cycle-svg-pan-and-zoom ★4](https://github.com/cyclejs-community/cycle-svg-pan-and-zoom) - A Google Maps style SVG pan and zoom component for Cycle.js
 

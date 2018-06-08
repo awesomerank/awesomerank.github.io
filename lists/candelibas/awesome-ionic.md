@@ -7,7 +7,7 @@ title: Awesome Rank for candelibas/awesome-ionic
 	This list is a copy of <a href="https://github.com/candelibas/awesome-ionic">candelibas/awesome-ionic</a> with ranks
 </p>
 ---
-# Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 An "awesome" list of the Ionic resources 
 
@@ -105,7 +105,7 @@ An "awesome" list of the Ionic resources
 
 #### Tools
 * [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
-* [Vim-ionic2 ★1](https://github.com/akz92/vim-ionic2)
+* [Vim-ionic2 ★1 ⏳1Y](https://github.com/akz92/vim-ionic2)
 
 #### Video Tutorials
 * [Ionic Quickstart](https://www.udemy.com/ionic-2-quickstart/)
@@ -123,20 +123,20 @@ An "awesome" list of the Ionic resources
 
 #### Open Source Projects
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
-* [IonicRealty ★274 ⏳1Y](https://github.com/ccoenraets/ionic2-realty)
-* [Ionic Firebase Chat App ★34](https://github.com/ionic2blueprints/firebase-chat)
-* [Ionic Ecommerce App ★23 ⏳1Y](https://github.com/ionic2blueprints/ionic2-marketcloud)
+* [IonicRealty ★278 ⏳1Y](https://github.com/ccoenraets/ionic2-realty)
+* [Ionic Firebase Chat App ★36 ⏳1Y](https://github.com/ionic2blueprints/firebase-chat)
+* [Ionic Ecommerce App ★26 ⏳1Y](https://github.com/ionic2blueprints/ionic2-marketcloud)
 * [Ionic Conference App based on Lanyrd API ★7 ⏳1Y](https://github.com/ionic2blueprints/conference-app)
-* [Ionic Stock Tracking App ★13 ⏳1Y](https://github.com/ionic2blueprints/ionic2-stockmarket)
-* [Ionic Wordpress Client ★16 ⏳1Y](https://github.com/ionic2blueprints/ionic2-wp-client)
-* [Ionic Media Player ★28](https://github.com/ionic2blueprints/media-player)
+* [Ionic Stock Tracking App ★16 ⏳1Y](https://github.com/ionic2blueprints/ionic2-stockmarket)
+* [Ionic Wordpress Client ★17 ⏳1Y](https://github.com/ionic2blueprints/ionic2-wp-client)
+* [Ionic Media Player ★28 ⏳1Y](https://github.com/ionic2blueprints/media-player)
 * [Ionic Social App ★24 ⏳1Y](https://github.com/ionic2blueprints/social-app)
 * [Ionic Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 * [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum)
-* [Ionic Reddit Reader ★120](https://github.com/smartapant/ionic2-reddit-reader)
+* [Ionic Reddit Reader ★121](https://github.com/smartapant/ionic2-reddit-reader)
 * [Ionic Advanced Components](https://github.com/yannbf/ionic2-components)
-* [Ionic aiEyes - Azure Computer Vision API ★10](https://github.com/brenopolanski/aiEyes)
-* [Ionic Soundboard ★5](https://github.com/rkalis/ionic-soundboard)
+* [Ionic aiEyes - Azure Computer Vision API ★13](https://github.com/brenopolanski/aiEyes)
+* [Ionic Soundboard ★6](https://github.com/rkalis/ionic-soundboard)
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](https://github.com/candelibas/awesome-ionic/blob/master/CONTRIBUTING.md) first.

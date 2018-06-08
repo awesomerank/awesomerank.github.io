@@ -12,15 +12,10 @@ title: Awesome Rank for mhinz/vim-galore
   <img src='https://raw.githubusercontent.com/mhinz/vim-galore/master/static/images/logo-vim-galore.png' alt='vim-galore logo' />
   <br /><br /><br /><br />
   <div>
-    <a href='https://github.com/wsdjeg/vim-galore-zh_cn'>
-      <img src='https://img.shields.io/badge/Translation:-Chinese-grey.svg' alt='translation: chinese' />
-    </a>
-    <a href='http://postd.cc/?s=vim-galore'>
-      <img src='https://img.shields.io/badge/Translation:-Japanese-grey.svg' alt='tranlsation: japanese' />
-    </a>
-    <a href='https://github.com/lsrdg/vim-galore'>
-      <img src='https://img.shields.io/badge/Translation:-Portuguese-grey.svg' alt='translation: portuguese' />
-    </a>
+    <a href='https://github.com/wsdjeg/vim-galore-zh_cn'>Chinese</a> |
+    <a href='http://postd.cc/?s=vim-galore'>Japanese</a> |
+    <a href='https://github.com/lsrdg/vim-galore'>Portuguese</a> |
+    <a href='http://givi.olnd.ru/vim-galore/vim-galore-ru.html'>Russian</a>
     <div>
       <br />
       <sub>Licensed under <a href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0<a/>.</sub>
@@ -84,6 +79,7 @@ title: Awesome Rank for mhinz/vim-galore
 - [Running external programs and using filters](#running-external-programs-and-using-filters)
 - [Cscope](#cscope)
 - [MatchIt](#matchit)
+- [True colors](#true-colors)
 
 ### [Tips](#tips-1)
 
@@ -162,7 +158,7 @@ Discussions and user questions are best done on the
 [vim_use](https://groups.google.com/forum/#!forum/vim_use) mailing list or using
 IRC ([Freenode](https://freenode.net)) in the `#vim` channel.
 
-Development happens on [GitHub ★11083](https://github.com/vim/vim), discussions on the
+Development happens on [GitHub ★12873](https://github.com/vim/vim), discussions on the
 [vim_dev](https://groups.google.com/forum/#!forum/vim_dev) mailing list.
 
 Read [Why, oh WHY, do those #?@! nutheads use
@@ -308,7 +304,7 @@ Help:
 - http://michael.peopleofhonoronly.com/vim/vim_cheat_sheet_for_programmers_screen.png
 - http://www.rosipov.com/images/posts/vim-movement-commands-cheatsheet.png
 
-Or quickly open a cheatsheet from within Vim: [vim-cheat40 ★63](https://github.com/lifepillar/vim-cheat40).
+Or quickly open a cheatsheet from within Vim: [vim-cheat40 ★85](https://github.com/lifepillar/vim-cheat40).
 
 # Basics
 
@@ -556,8 +552,8 @@ full potential.
 - A range is either a single address or a pair of addresses separated by either
   `,` or `;`.
 - Ranges tell commands which lines to act on.
-- Most commands act only on the current line by default.
-- Only `:write` and `:global` act on all lines by default.
+- Most commands act only on the current line by default. Notable exceptions are
+  `:write` and `:global` which act on all lines.
 
 The usage of ranges is pretty intuitive, so here are some examples (using `:d`
 as short form of `:delete`):
@@ -892,13 +888,11 @@ on. Thus, `g-` and `g+` simply go back and forth in time, respectively.
 | `[count]g-`, `:earlier [count]?` | Go to older text state [count] times. The "?" can be either "s", "m", "h", "d", or "f". E.g. `:earlier 2d` goes to the text state from 2 days ago. `:earlier 1f` will go to the state of the latest file save. |
 | `[count]g+`, `:later [count]?` | Same as above, but other direction. |
 
-The undo tree is kept in memory and will be lost when Vim quits. See [Handling
-backup, swap, undo, and viminfo
-files](#handling-backup-swap-undo-and-viminfo-files) for how to enable
-persistent undo.
+The undo tree is kept in memory and will be lost when Vim quits. See [Undo
+files](#undo-files) for how to enable persistent undo.
 
 If you're confused by the undo tree,
-[undotree ★841](https://github.com/mbbill/undotree) does a great job at visualizing
+[undotree ★917](https://github.com/mbbill/undotree) does a great job at visualizing
 it.
 
 Help:
@@ -971,8 +965,8 @@ quickfix window.
 ## Macros
 
 Vim allows _recording_ typed characters into a [register](#registers). It's a
-great way to automate certain tasks on the fly. (For more elaborate tasks, [Vim
-scripting](#vim-scripting) should be used instead.)
+great way to automate certain tasks on the fly. (For more elaborate tasks, Vim
+scripting should be used instead.)
 
 - Start recording by typing `q` followed by the register, e.g. `q`. (The
   command-line will signify this via "recording @q".)
@@ -1069,7 +1063,7 @@ topic.)
 Help:
 
 - `:h 'termguicolors'`
-- [List of colorschemes](#list-of-colorschemes-1)
+- [List of colorschemes](PLUGINS.md#colorschemes-1)
 - [Cosmetic changes to colorschemes](#cosmetic-changes-to-colorschemes)
 
 ## Folding
@@ -1092,7 +1086,7 @@ Vim distinguishes between several types of fold methods:
 
 **NOTE**: Folding can be computationally intensive! If you experience any
 performance drawbacks (small delays when typing), have a look at
-[FastFold ★275](https://github.com/Konfekt/FastFold), which prevents Vim from
+[FastFold ★311](https://github.com/Konfekt/FastFold), which prevents Vim from
 updating folds when it's not needed.
 
 Help:
@@ -1153,8 +1147,7 @@ Many of the concepts mentioned above also have _local_ counterparts:
 | `:cd`      | `:lcd`                | window           | `:h :lcd`             |
 | `<leader>` | `<localleader>`       | buffer           | `:h maplocalleader`   |
 
-Variables also sport different scopes, but will be explained in
-[Vim scripting](http://vimdoc.sourceforge.net/htmldoc/usr_41.html).
+[Variables also have different scopes](https://vimhelp.appspot.com/usr_41.txt.html#41.2).
 
 # Usage
 
@@ -1711,7 +1704,7 @@ mount a remote filesystem into your local filesystem.
 
 ## Managing plugins
 
-[Pathogen ★9691](https://github.com/tpope/vim-pathogen) was the first popular tool for
+[Pathogen ★10163](https://github.com/tpope/vim-pathogen) was the first popular tool for
 managing plugins. Actually it just adjusts the _runtimepath_ (`:h 'rtp'`) to
 include all the things put under a certain directory. You have to clone the
 repositories of the plugins there yourself.
@@ -1752,7 +1745,7 @@ See `:h blockwise-examples` for more info. It might seem complicated at first,
 but quickly becomes second nature.
 
 If you want to get real fancy, have a look at
-[multiple-cursors ★5738](https://github.com/terryma/vim-multiple-cursors).
+[multiple-cursors ★6070](https://github.com/terryma/vim-multiple-cursors).
 
 ## Running external programs and using filters
 
@@ -1946,6 +1939,49 @@ Help:
 :h matchit
 :h b:match_words
 ```
+
+## True colors
+
+Using true colors in a terminal emulator means being able to use 24 bits for RGB
+colors. That makes 16777216 (2^24) colors instead of the usual 256.
+
+As explained [here](#colorschemes), colorschemes can actually be _two_
+colorschemes by having definitions for terminals (xterm) and for GUIs (gvim).
+This made sense before terminal emulators learned about true colors.
+
+After `:set termguicolors`, Vim starts emitting escape sequences only understood
+by a terminal emulator that supports true colors. When your colors look weird,
+chances are your terminal emulator doesn't support true colors or your
+colorcheme has no GUI colors defined.
+
+Many people use the terminal multiplexer
+[tmux](https://github.com/tmux/tmux/wiki) which basically sits in between the
+terminal emulator and Vim. To make tmux _forward_ the true color escape
+sequences emitted by Vim, you have to put the following in the user's
+`.tmux.conf`:
+
+```
+set-option -g  default-terminal 'tmux-256color'
+set-option -ga terminal-overrides ',xterm-256color:Tc'
+```
+
+- The first line should be the same for most people and denotes the `$TERM` to
+  be used _within_ tmux.
+- The second line adds the tmux-specific `Tc` (true color) capability to the
+  other terminfo entries of `xterm-256color`. Obviously this assumes that the
+  user is using `TERM=xterm-256color` _outside_ of tmux.
+
+So, here is the checklist for enabling true colors:
+
+- Read `:h 'termguicolors'`.
+- Put `set termguicolors` in your vimrc.
+- Make sure your colorscheme has color definitions for GUIs. (It should contain
+  lines with `guifg` and `guibg`.)
+- Make sure your terminal emulator of choice supports true colors.
+- Using tmux? Configure it to add the `Tc` capability.
+
+A popular reference for colors in the terminal:
+https://gist.github.com/XVilka/8346728
 
 # Tips
 
@@ -2150,12 +2186,14 @@ Always use a dark gray statusline, no matter what colorscheme is chosen:
 autocmd ColorScheme * highlight StatusLine ctermbg=darkgray cterm=NONE guibg=darkgray gui=NONE
 ```
 
-The same, but only for the "lucius" colorscheme (check `:echo
-color_name` which should be set by all valid colorschemes):
+This triggers every time you use `:colorscheme ...`. If you want it to trigger only for
+a certain colorscheme:
 
 ```vim
-autocmd ColorScheme lucius highlight StatusLine ctermbg=darkgray cterm=NONE guibg=darkgray gui=NONE
+autocmd ColorScheme desert highlight StatusLine ctermbg=darkgray cterm=NONE guibg=darkgray gui=NONE
 ```
+
+This triggers only for `:colorscheme desert`.
 
 # Commands
 
@@ -2191,8 +2229,8 @@ With `:normal` you can do normal mode mappings from the command-line. E.g.
 `:normal! 4j` will make the cursor go down 4 lines (without using any custom
 mapping for "j" due to the "!").
 
-Mind that `:normal` also takes a count, so `:%norm! Iabc` would prepend "abc" to
-every line.
+Mind that `:normal` also takes a [range](#ranges), so `:%norm! Iabc` would
+prepend "abc" to every line.
 
 With `:execute` you can mix commands with expressions. Assume you edit a C
 source file and want to switch to its header file:
@@ -2470,8 +2508,8 @@ looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
 - [janus](https://github.com/carlhuda/janus.git)
-- [spacevim ★4574](https://github.com/SpaceVim/SpaceVim)
-- [spf13 ★11499](https://github.com/spf13/spf13-vim)
+- [spacevim ★6641](https://github.com/SpaceVim/SpaceVim)
+- [spf13 ★12480](https://github.com/spf13/spf13-vim)
 
 ## Standard plugins
 
@@ -2523,8 +2561,8 @@ To change the keys in X, put this in your `~/.xmodmap`:
 
 Afterwards source it via `$ xmodmap ~/.xmodmap`.
 
-An alternative would be using [caps2esc ★83](https://github.com/oblitum/caps2esc) or
-[xcape ★1154](https://github.com/alols/xcape).
+An alternative would be using [caps2esc ★89](https://github.com/oblitum/caps2esc) or
+[xcape ★1249](https://github.com/alols/xcape).
 
 **Windows**:
 
@@ -2571,7 +2609,7 @@ There are two things which can have a huge impact on performance:
 | `:set cursorline`        | Causes all lines to redraw. | `:set nocursorline` |
 | `:set cursorcolumn`      | Causes all lines to redraw. | `:set nocursorcolumn` |
 | `:set relativenumber`    | Causes all lines to redraw. | `:set norelativenumber` |
-| `:set foldmethod=syntax` | If the syntax file is slow already, this makes it even worse. | `:set foldmethod=manual`, `:set foldmethod=marker` or [FastFold ★275](https://github.com/Konfekt/FastFold) |
+| `:set foldmethod=syntax` | If the syntax file is slow already, this makes it even worse. | `:set foldmethod=manual`, `:set foldmethod=marker` or [FastFold ★311](https://github.com/Konfekt/FastFold) |
 | `:set synmaxcol=3000`    | Due to internal representation, Vim has problems with long lines in general. Highlights columns till column 3000. | `:set synmaxcol=200` |
 | matchparen.vim           | Loaded by default. Uses regular expressions to find the accompanying parenthesis. | Disable plugin: `:h matchparen` |
 
@@ -2624,7 +2662,7 @@ To workaround this, you have to `:set paste`, so it gets pasted as-is. See `:h
 
 If you're fed up with toggling `'paste'` all the time, have a look at this fine
 plugin that does it for you:
-[bracketed-paste ★314](https://github.com/ConradIrwin/vim-bracketed-paste).
+[bracketed-paste ★337](https://github.com/ConradIrwin/vim-bracketed-paste).
 
 Additional read from the same author as the plugin:
 [here](http://cirw.in/blog/bracketed-paste).

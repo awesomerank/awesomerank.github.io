@@ -59,7 +59,7 @@ title: Awesome Rank for aleksandar-todorovic/awesome-linux
     * [Not based on any desktop environment](#not-based-on-any-desktop-environment)
     * [Third-party clients for online services](#third-party-clients-for-online-services)
     * [Package management and creation tools](#distro-based-package-management-tools)
-  * [Console-based Applications](#console-based-applications)
+  * [Console-based Applications and Tools](#console-based-applications-and-tools)
 * [Useful Websites](#useful-websites)
 * [License](#license)
 
@@ -83,31 +83,31 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Fedora (formerly Fedora Core) is a Linux distribution developed by the community-supported Fedora Project and owned by Red Hat. Fedora contains software distributed under a free and open-source license and aims to be on the leading edge of such technologies. Fedora has a reputation for focusing on innovation, integrating new technologies early on and working closely with upstream Linux communities. The default desktop in Fedora is the GNOME desktop environment and the default interface is the GNOME Shell. Other desktop environments, including KDE, Xfce, LXDE, MATE and Cinnamon, are available. Fedora Project also distributes custom variations of Fedora called Fedora spins. These are built with specific sets of software packages, offering alternative desktop environments or targeting specific interests such as gaming, security, design, scientific computing and robotics.
 
-**Latest version:** Fedora Twenty Seven (27)
+**Latest version:** Fedora Twenty Eight (28)
 
 **Default Desktop Environment:** GNOME
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/fedora.png)
+![default look](https://distrowatch.com/images/cgfjoewdlbc/fedora.png)
 
 #### [Linux Mint](http://linuxmint.com/)
 
 > Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
-**Latest version:** Linux Mint Sonya (18.2)
+**Latest version:** Linux Mint Sylvia (18.3)
 
 **Default Desktop Environment:** Cinnamon and MATE
 
-![default look](http://distrowatch.com/images/cgfjoewdlbc/mint.png)
+![default look](https://distrowatch.com/images/cgfjoewdlbc/mint.png)
 
 #### [Ubuntu](http://www.ubuntu.com/)
 
 > Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world. 
 
-**Latest version:** Ubuntu 17.10
+**Latest version:** Ubuntu 18.04
 
 **Default Desktop Environment:** GNOME
 
-![default look](http://distrowatch.com/images/screenshots/ubuntu-17.10.png)
+![default look](https://distrowatch.com/images/cgfjoewdlbc/ubuntu.png)
 
 ### Intermediate
 
@@ -286,8 +286,8 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 * [9wm](http://unauthorised.org/dhog/9wm.html) - Window manager that attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.
 * [awesome](https://awesomewm.org/) - Highly configurable window manager for X. Fast and extensible.
-* [Blackbox](http://blackboxwm.sourceforge.net/) - Lightweight window manager for the X window system, without library dependencies. Built using C++.
-* [bspwm ★1903](https://github.com/baskerville/bspwm) - Tiling window manager that represents windows as the leaves of a full binary tree.
+* [Blackbox ★15 ⏳1Y](https://github.com/bradleythughes/blackbox) - Lightweight window manager for the X window system, without library dependencies. Built using C++.
+* [bspwm ★2130](https://github.com/baskerville/bspwm) - Tiling window manager that represents windows as the leaves of a full binary tree.
 * [Compiz](https://launchpad.net/compiz) - OpenGL compositing window manager. It has a plug-in system to be changed at runtime.
 * [dwm](http://dwm.suckless.org/) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application and task performed.
 * [Enlightenment](http://www.enlightenment.org/) - Window manager bundled with a whole suite of libraries to help you create beautiful user interfaces.
@@ -296,7 +296,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [i3](http://i3wm.org/) - Tiling window manager. BSD-licensed. Primarily targeted at advanced users and developers.
 * [IceWM](http://www.icewm.org/) - Window manager with the goal of being fast, simple, and not getting in the user's way.
 * [JWM](http://www.joewing.net/projects/jwm/) - Lightweight window manager for X11. Good choice for older and/or less powerful systems, though perfectly capable of running on modern systems. Built using C.
-* [Matchbox](https://www.yoctoproject.org/tools-resources/projects/matchbox) - Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.
+* [Matchbox](https://www.yoctoproject.org/software-item/matchbox/) - Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.
 * [Mutter](https://download.gnome.org/sources/mutter/) - Window manager for X. Default window manager in GNOME 3.
 * [Openbox](http://openbox.org/wiki/Main_Page) - Highly configurable window manager with extensive standards support.
 * [ratpoison](http://www.nongnu.org/ratpoison/) - A simple window manager with no library dependencies, no graphics, and no decorations. Modeled after GNU Screen.
@@ -309,7 +309,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 The list of awesome Linux applications that you should be using.
 
-If you're looking for some pro-tips for your favorite text editor, you might be interested in [awesome-atom](https://github.com/mehcode/awesome-atom), [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks), [vim-galore](https://github.com/mhinz/vim-galore), [awesome-emacs](https://github.com/emacs-tw/awesome-emacs), or [awesome-vscode ★3917](https://github.com/viatsko/awesome-vscode).
+If you're looking for some pro-tips for your favorite text editor, you might be interested in [awesome-atom](https://github.com/mehcode/awesome-atom), [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks), [vim-galore](https://github.com/mhinz/vim-galore), [awesome-emacs](https://github.com/emacs-tw/awesome-emacs), or [awesome-vscode ★5584](https://github.com/viatsko/awesome-vscode).
 
 ### GUI-based Applications
 
@@ -328,7 +328,7 @@ For more GNOME-based apps, visit: https://wiki.gnome.org/Apps
 * [FeedReader](https://jangernert.github.io/FeedReader/) - RSS desktop client able to integrate with multiple online services.
 * [Go For It!](http://manuel-kehl.de/projects/go-for-it/) - To-do list with built-in productivity timer.
 * [NaSC](http://parnold-x.github.io/nasc/) - Intelligent calculator app.
-* [Spice-Up ★236](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app.
+* [Spice-Up ★326](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app.
 * [Vocal](http://vocalproject.net/) - Podcast client for the modern desktop.
 
 For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/elementary-apps/).
@@ -356,11 +356,11 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 
 * [Corebird](http://corebird.baedert.org/) - Twitter client.
 * [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Twitch player.
-* [Caprine ★2745](https://github.com/sindresorhus/caprine) - Facebook's Messenger client with some added privacy features.
-* [PB for Desktop ★212](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
-* [ramme ★2478](https://github.com/terkelg/ramme) - Instagram client.
-* [ScudCloud ★1198](https://github.com/raelgc/scudcloud) - Slack client with additional features (compared to the original Slack client).
-* [Whatever ★241](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
+* [Caprine ★3212](https://github.com/sindresorhus/caprine) - Facebook's Messenger client with some added privacy features.
+* [PB for Desktop ★267](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
+* [ramme ★2753](https://github.com/terkelg/ramme) - Instagram client.
+* [ScudCloud ★1242](https://github.com/raelgc/scudcloud) - Slack client with additional features (compared to the original Slack client).
+* [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
 
 #### Package management and creation tools
 
@@ -372,7 +372,7 @@ Distro-oriented:
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - Main package management tool on openSUSE.
 * [YumEx](https://fedorahosted.org/yumex/) (Fedora) - A GUI for the `dnf` package manager.
 * [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - A wrapper for `pacman` which adds automated access to the AUR using the same syntax as pacman.
-* [Aura ★604](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager.
+* [Aura ★648](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager.
 
 Distro-independent:
 
@@ -383,22 +383,22 @@ Distro-independent:
 You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/jbucaran/awesome-fish).
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player.
-* [fuck ★32629](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command.
+* [fuck ★35488](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command.
 * [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [glances](https://nicolargo.github.io/glances/) - Cross-platform system monitoring tool.
 * [htop](http://hisham.hm/htop/) - Nice looking, customizable task manager.
 * [nano](http://www.nano-editor.org) - Simple to use text editor.
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
-* [ranger ★2893](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
-* [screenFetch ★1905](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
-* [shellcheck ★9571](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
-* [speed-test ★2860](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
+* [ranger ★3640](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
+* [screenFetch ★2081](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
+* [shellcheck ★11181](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
+* [speed-test ★2969](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
 * [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.
 * [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://parall.ax/vtop) - Easily-extendable activity monitor.
-* [wavemon ★158](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
-* [youtube-dl ★32132](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
+* [wavemon ★192](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
+* [youtube-dl ★37142](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
 
 ## Useful Websites
 

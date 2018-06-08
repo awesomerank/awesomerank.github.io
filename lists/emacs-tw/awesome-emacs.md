@@ -10,14 +10,17 @@ title: Awesome Rank for emacs-tw/awesome-emacs
 * Awesome Emacs
 [[https://github.com/sindresorhus/awesome][https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]] [[https://travis-ci.org/emacs-tw/awesome-emacs][file:https://api.travis-ci.org/emacs-tw/awesome-emacs.svg?branch=master]]
 
-A community driven list of useful Emacs packages, libraries and others.
+Welcome to Awesome Emacs, a community driven list of useful Emacs packages, utilities and libraries. Most of the following packages are available in [[https://github.com/melpa/melpa][MELPA]]. We recommend installing packages with it.
 
-Most of the following packages are available in [[https://github.com/melpa/melpa][MELPA]]. We recommend installing packages with it.
+Also, please do consider contributing back to the Emacs community. One major way is by financially sponsoring the lead developers and teams of developers that create and maintain the wonderful Emacs packages that so many of us use. [[https://github.com/tarsius/elisp-maintainers][Elisp Maintainers]] provides a fantastic collection of ways that one can donate to several prolific Emacs package developers. Please do so donate.
+
+Above, all enjoy using Emacs. The community, that more than anything, makes Emacs a great ecosystem and place to develop, learn and grow.
 
 #+BEGIN_QUOTE
 *Table of Contents*
 - [[#awesome-emacs][Awesome Emacs]]
   - [[#interface-enhancement][Interface Enhancement]]
+    - [[#key-bindings][Key-bindings]]
   - [[#file-manager][File Manager]]
   - [[#navigation][Navigation]]
   - [[#visual][Visual]]
@@ -129,19 +132,32 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
    - [[https://github.com/nonsequitur/smex/][smex]] - A smart M-x enhancement for Emacs.
    - [[https://github.com/dholm/tabbar][tabbar]] - Display a tab bar in the header line.
    - [[https://www.emacswiki.org/emacs/WinnerMode][winner]] - =[built-in]= "Undo"(and "redo") changes in the window configuration with the key commands.
-   - [[https://github.com/emacs-evil/evil][Evil]] - An *e* xtensible *vi* *l* ayer: manipulate Emacs with Vi key binding.
-   - [[https://github.com/abo-abo/hydra][Hydra]] - Make bindings that stick around.
    - [[https://github.com/zk-phi/sublimity][sublimity]] - smooth-scrolling, minimap inspired by the sublime editor.
    - [[https://github.com/knu/elscreen][ElScreen]] - Utility for multiple screens.
-   - [[https://github.com/chrisdone/god-mode][god-mode]] - Global minor mode for entering Emacs commands without modifier keys.
-   - [[https://github.com/ergoemacs/ergoemacs-mode][ergoemacs-mode]] - Global minor mode to use both common interface keys and ergonomic keys for emacs.
    - [[https://github.com/pashinin/workgroups2][workgroups2]] - Session manager, saves all your opened buffers, their location and sizes on disk to restore later.
-   - [[https://github.com/mrkkrp/modalka][modalka]] - Introduce native modal editing of your own design.
    - [[https://github.com/mrkkrp/ace-popup-menu][ace-popup-menu]] - Replace GUI popup menu with something more efficient.
    - [[https://github.com/ReanGD/emacs-multi-compile][multi-compile]] - Multi target interface to compile.
    - [[https://github.com/rakanalh/emacs-dashboard][Dashboard]] - A startup dashboard which provides certain information about your recent Emacs activities.
    - [[HTTPS://github.com/ch11ng/exwm][EXWM]] - EXWM turns Emacs into a full-featured tiling X window manager.
+     - [[https://github.com/emacs-helm/helm-exwm][Helm-EXWM]] - EXWM-specific sources for Helm together with an application launchers and switches.
    - [[https://github.com/cyrus-and/zoom][Zoom]] - Fixed and automatic balanced window layout for Emacs.
+   - [[https://github.com/wasamasa/eyebrowse][Eyebrowse]] - A simple-minded way of managing window configs in emacs.
+
+*** Key-bindings
+    #+BEGIN_QUOTE
+    Something maybe make RSI away.
+    #+END_QUOTE
+    - [[https://github.com/emacs-evil/evil][Evil]] - An *e* xtensible *vi* *l* ayer: manipulate Emacs with Vi key binding.
+      - [[https://github.com/emacs-evil/evil-collection][Evil Collection]] - A collection of Evil bindings.
+      - [[https://github.com/emacs-evil/evil-ediff][Evil Ediff]] - Evil bindings for Ediff.
+      - [[https://github.com/emacs-evil/evil-magit][Evil Magit]] - Evil bindings for Magit.
+      - [[https://github.com/JorisE/evil-mu4e][Evil mu4e]] - Evil bindings for mu4e.
+      - [[https://github.com/noctuid/lispyville][LispyVille]] - Evil bindings for lispy-mode.
+    - [[https://github.com/abo-abo/hydra][Hydra]] - Make bindings that stick around.
+    - [[https://github.com/chrisdone/god-mode][god-mode]] - Global minor mode for entering Emacs commands without modifier keys.
+    - [[https://github.com/mrkkrp/modalka][modalka]] - Introduce native modal editing of your own design.
+    - [[https://github.com/xahlee/xah-fly-keys][xah-fly-keys]] - A modal keybinding for emacs (like vim), but based on command frequency and ergonomics.
+    - [[https://github.com/ergoemacs/ergoemacs-mode][ergoemacs-mode]] - Global minor mode to use both common interface keys and ergonomic keys for emacs.
 
 ** File Manager
 
@@ -164,6 +180,7 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
    - [[https://www.emacswiki.org/emacs/WindMove][windmove]] - =[built-in]= Tired with =C-x o=? Now you can use =shift+arrows= to jump between windows.
    - [[https://github.com/winterTTr/ace-jump-mode][Ace jump]] - A quick cursor jump mode.
    - [[https://github.com/abo-abo/avy][Avy]] - Jump to visible text using a char-based decision tree.
+   - [[https://github.com/doitian/iy-go-to-char][iy-go-to-char]] - Go to next CHAR which is similar to "f" and "t" in vim, works well with Multiple Cursors.
    - [[https://github.com/camdez/goto-last-change.el][goto-last-change]] - Move point through buffer-undo-list positions.
    - [[https://github.com/ShingoFukuyama/helm-swoop][Helm-swoop]] - Efficiently jump between matched string/lines.
    - [[https://github.com/syohex/emacs-anzu][anzu]] - displays current match and total matches.
@@ -188,7 +205,7 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
    - [[https://www.emacswiki.org/emacs/UndoTree][undo-tree]] - Visualize the whole undo history in buffer as a tree, and you can access anywhere in it.
    - [[https://github.com/nschum/highlight-symbol.el][highlight-symbol]] - Auto/manually highlight the same symbols in code, navigate in them, or replace string.
    - [[https://github.com/Fanael/rainbow-delimiters][rainbow-delimiters]] - Highlights parentheses, brackets, and braces according to their depth.
-   - [[https://julien.danjou.info/projects/emacs-packages][rainbow-mode]] - Display color on color-code string (hex/rgb) directly.
+   - [[https://github.com/emacsmirror/rainbow-mode][rainbow-mode]] - Colorize color names in buffers.
    - [[https://github.com/benma/visual-regexp.el][visual-regexp]] - Replace via RegExp, with real-time visual feedback directly in the buffer.
      - [[https://github.com/benma/visual-regexp-steroids.el/][visual-regexp-steroids]] - The same as visual-regexp, but use modern regular expressions instead of Emacs-style.
    - [[https://www.emacswiki.org/emacs/WhiteSpace][whitespace]] - =[built-in]= Visualize blanks (tab/space/newline).
@@ -198,6 +215,8 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
    - [[https://github.com/fgeller/highlight-thing.el][highlight-thing]] - Light-weight minor mode to highlight thing under point using built-ins.
    - [[https://github.com/larstvei/Focus][focus]] - Dim the font color of text in surrounding paragraphs.
    - [[https://github.com/Malabarba/beacon][beacon]] - Never lose your cursor again.
+   - [[https://github.com/gonewest818/dimmer.el][dimmer.el]] - Interactively highlight which buffer is active by dimming the others.
+   - [[https://github.com/k-talo/volatile-highlights.el][volatile-highlights.el]] - Minor mode for visual feedback on some operations in Emacs.
 
 ** Editing
 
@@ -213,6 +232,7 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
    - [[https://github.com/mrkkrp/zzz-to-char][zzz-to-char]] - Fancy replacement for `zap-to-char`.
    - [[https://github.com/mkcms/interactive-align][ialign]] - Interactively align lines using a regular expression.
    - [[http://www.lysator.liu.se/~tab/artist/][artist-mode]] - =[built-in]= Draw ASCII lines, squares, rectangles and poly-lines, ellipses, and circles with your mouse and/or keyboard.
+   - [[https://github.com/bbatsov/crux][crux]] - A Collection of Ridiculously Useful eXtensions for Emacs.
 
 *** Kill-ring
 
@@ -246,6 +266,7 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
    - [[https://github.com/purcell/whitespace-cleanup-mode][whitespace-cleanup-mode]] - Intelligently call whitespace-cleanup on save.
    - [[https://github.com/realgud][realgud]] - A modular front-end for interacting with external debuggers.
    - [[https://github.com/leoliu/ggtags][ggtags]] - Emacs frontend to GNU Global source code tagging system.
+   - [[https://github.com/lewang/ws-butler][ws-butler]] - Unobtrusively trim extraneous white-space *ONLY* in lines edited.
 
 *** Completion
 
@@ -284,6 +305,7 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
 
     - [[http://cc-mode.sourceforge.net/][CC Mode]] - =[built-in]= An Emacs and XEmacs mode for editing C and other languages with similar syntax.
     - [[https://github.com/Andersbakken/rtags][rtags]] - A C/C++ client/server indexer with for integration with emacs based on clang.
+    - [[https://github.com/cquery-project/emacs-cquery][emacs-cquery]] - Emacs client of [[https://github.com/cquery-project/cquery][cquery]], a C/C++/Objective-C language server powered by clang.
     - [[https://github.com/Sarcasm/irony-mode][irony-mode]] - A C/C++ minor mode for Emacs powered by libclang.
     - [[https://github.com/Lindydancer/cmake-font-lock][cmake-font-lock]] - Enhanced font-lock rules for CMake.
     - [[https://github.com/abo-abo/function-args][function-args]] - visual CEDET enhancements for C++.
@@ -374,6 +396,7 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
 
       - [[https://github.com/dysinger/purescript-mode][purescript-mode]] - An Emacs major mode for PureScript.
       - [[https://github.com/purescript-emacs/emacs-psci][emacs-psci]] - An Emacs major mode for psci.
+      - [[https://github.com/epost/psc-ide-emacs][psc-ide-emacs]] - Emacs integration for PureScript's psc-ide tool.
 
 **** PHP
 
@@ -524,6 +547,11 @@ External Guides:
       - [[https://github.com/sabof/org-bullets][org-bullets]] - Shows org-mode bullets as pretty UTF-8 characters.
       - [[https://github.com/org-trello/org-trello][org-trello]] - Minor mode to synchronize org-mode buffer and [[https://trello.com][trello]] board.
       - [[https://github.com/alphapapa/org-protocol-capture-html][org-protocol-capture-html]] - Capture HTML from the browser selection into Emacs as org-mode content.
+      - [[https://github.com/Kungsgeten/org-brain][org-brain]] - Org-mode wiki + concept-mapping.
+      - [[https://github.com/rexim/org-cliplink][org-cliplink]] - Insert org-mode links from clipboard.
+      - [[https://github.com/alphapapa/helm-org-rifle][helm-org-rifle]] - Rifle through your Org buffers and acquire your target.
+      - [[https://github.com/abo-abo/org-download][org-download]] - Drag and drop images to Emacs org-mode
+      - [[https://github.com/fniessen/org-html-themes][org-html-themes]] - Export Org mode files into awesome HTML in 2 minutes.
 
 ** Version control
 
@@ -558,8 +586,9 @@ External Guides:
 
 *** Operating System
 
-    - [[https://github.com/zk-phi/symon/][Symon]] - tiny graphical system monitor.
+    - [[https://github.com/zk-phi/symon/][Symon]] - Tiny graphical system monitor.
     - [[https://github.com/jabranham/system-packages][system-packages]] - Manage your installed packages with emacs.
+    - [[https://github.com/emacs-helm/helm-system-packages][Helm System Packages]] - A Helm interface to the package manager of your operating system.
 
 *** Search
 
@@ -748,7 +777,7 @@ External Guides:
    - [[https://github.com/steckerhalter/grandshell-theme][Grandshell-theme]] - /(dark)/ *[256color]* Theme with intensive colors.
 
    #+BEGIN_QUOTE
-   The above list contains some of the most popular/installed themes. If still unsatisfied, you can also take a look at [[https://emacsthemes.com/][GNU Emacs Themes Gallery]] for screenshots of almost all available Emacs themes.
+   The above list contains some of the most popular/installed themes. If still unsatisfied, you can also take a look at [[https://pawelbx.github.io/emacs-theme-gallery/][GNU Emacs Themes Gallery]] for screenshots of almost all available Emacs themes.
    #+END_QUOTE
 
 ** Multimedia
@@ -762,12 +791,12 @@ External Guides:
 ** Finance
 
    - [[https://github.com/NicolasPetton/elbank][Elbank]] - Personal finances application for Emacs.
+   - [[https://github.com/ledger/ledger-mode][ledger-mode]] - Plain text double-entry accounting in Emacs with [[https://www.ledger-cli.org/][ledger]].
 
 ** Fun
 
    - [[https://github.com/TeMPOraL/nyan-mode][Nyan-mode]] - Let Nyan Cat show you your buffer position in mode line.
    - [[https://www.emacswiki.org/emacs/ZoneMode][Zone Mode]] - =[built-in]= A buffer obfuscator, or a screensaver.
-   - [[http://www.cb1.com/~john/computing/emacs/lisp/games/index.html][swimmers.el]] - An emacs screensaver.
    - [[https://bitbucket.org/zck/minesweeper.el][minesweeper.el]] - An implementation of minesweeper in emacs.
    - [[https://bitbucket.org/zck/2048.el][2048-game.el]] - An implementation of 2048 in emacs.
    - [[https://github.com/vibhavp/emacs-xkcd][emacs-xkcd]] -  Read xkcd from emacs.
@@ -794,6 +823,7 @@ External Guides:
    - [[http://emacs-bootstrap.com/][Emacs-Bootstrap]] - Your on-the-fly Emacs development environment!
    - [[https://github.com/jkitchin/scimax][Scimax]] - An Emacs starter kit for scientists and engineers with a focus on Org-Mode.
    - [[https://github.com/thefrontside/frontmacs][Frontmacs]] - A package-based, web-centric, customizable, awesome-by-default, acceptance-tested Emacs distribution.
+   - [[https://github.com/technomancy/better-defaults][better-defaults]] - A small number of better defaults for Emacs.
 
 ** Noteworthy Configurations
 
@@ -834,6 +864,7 @@ External Guides:
    - [[https://www.masteringemacs.org/][Mastering Emacs]] - Mastering the world’s best text editor.
    - [[http://endlessparentheses.com/][Endless Parentheses]] - Concise ramblings on Emacs productivity.
    - [[http://whattheemacsd.com/][What the .emacs.d!?]] - Sharing Emacs snippets and pastes with others.
+   - [[https://hackr.io/tutorials/learn-emacs][Community Curated Emacs Resources]] - Top Recommended Resources.
 
 
 * Contributing
@@ -844,7 +875,7 @@ Before contributing, please read this tiny guideline:
 
 ** The Order of Items
 
-*Please don't rearrange the package ordering without any reason!* The items should be sorted by its popularity ( /roughly, because it's impossible to have a precious standard./ e.g. _most of people would use it_; _recommended for every newbie_...), instead of your personal preference.
+*Please don't rearrange the package ordering without any reason!* The items should be sorted by its popularity ( /roughly, because it's impossible to have a precise standard./ e.g. _most people would use it_; _recommended for every newbie_...), instead of your personal preference.
 
 For example, =Evil= is obviously not a package that every Emacser needs. So please don't move it onto the top of its category.
 

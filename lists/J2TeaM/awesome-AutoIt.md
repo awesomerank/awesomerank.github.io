@@ -9,14 +9,14 @@ title: Awesome Rank for J2TeaM/awesome-AutoIt
 ---
 # Awesome AutoIt
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/J2TeaM/awesome-AutoIt.svg)](https://travis-ci.org/J2TeaM/awesome-AutoIt)
 [![Creator](https://img.shields.io/badge/Creator-Juno__okyo-blue.svg)](https://junookyo.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow&maxAge=2592000)](https://twitter.com/juno_okyo)
 
 > A curated list of awesome UDFs, example scripts, tools and useful resources for [AutoIt](https://www.autoitscript.com/).
 
-Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) list thing.
+Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome ★85445](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table Of Contents
 
@@ -310,7 +310,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Gmail (by PhoenixXL)](https://www.autoitscript.com/forum/index.php?showtopic=141340) - Remote Gmail (UDF).
 - [Google Functions (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=98504) - Google Functions (Suggestions, Definitions, Translate, Convert).
 - [Google Maps (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=115437) - Google Maps UDF.
-- [Imgur ★5 ⏳2Y](https://github.com/J2TeaM/AutoIt-Imgur-UDF) - An AutoIt UDF to help you upload images using Imgur API.
+- [Imgur ★9 ⏳2Y](https://github.com/J2TeaM/AutoIt-Imgur-UDF) - An AutoIt UDF to help you upload images using Imgur API.
 - [iTunes (by torels)](https://www.autoitscript.com/forum/index.php?showtopic=70675) - iTunes UDF.
 - [iTunes (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=101802) - Another iTunes UDF.
 - [No-IP (by Nessie)](https://www.autoitscript.com/forum/index.php?showtopic=150985) - With this UDF you can simply update your no-ip hostname(s) and retrive the ip address of an no-ip address.
@@ -379,7 +379,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [TVExplorer (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=125251) - TVExplorer UDF.
 - [SciLexer (by Kip)](https://www.autoitscript.com/forum/index.php?showtopic=51547) - SciLexer UDF.
 - [AutoItAppveyor (by KyleChamberlin) ★0 ⏳3Y](https://github.com/AutoItMicro/AutoItAppveyor) - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.
-- [Micro Unit Testing Framework (by KyleChamberlin) ★5 ⏳1Y](https://github.com/AutoItMicro/MicroUnitTestingFramework) - Micro is a xUnit style testing framework design for use with AutoIt.
+- [Micro Unit Testing Framework (by KyleChamberlin) ★5 ⏳2Y](https://github.com/AutoItMicro/MicroUnitTestingFramework) - Micro is a xUnit style testing framework design for use with AutoIt.
 - [TeenyScript (by tarretarretarre)](http://teenyscript.tarre.nu/documentation) - TeenyScript is a Superset of AutoIt which makes it more advanced. TeenyScript code are parsed into native AutoiT code.
 - [Logger (by Worlor) ★0](https://github.com/Worlor/AutoIt-Logger) - Logger is an all-in-one logging utility really easy to use ! It enable log rotate per day and zip it after x days
 
@@ -440,7 +440,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Crayon Syntax Highlighter](https://wordpress.org/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
 - [WP Syntax](https://wordpress.org/plugins/wp-syntax/) (WordPress Plugin) - based on GeSHi.
 - [PrismJS](http://prismjs.com/) - Added AutoIt since version 1.1.0
-- [AutoIt - Visual Studio ★13](https://github.com/loganch/AutoIt-VSCode) - AutoIt extension for Visual Studio.
+- [AutoIt - Visual Studio ★15](https://github.com/loganch/AutoIt-VSCode) - AutoIt extension for Visual Studio.
 
 ## License
 
@@ -452,15 +452,15 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Other Awesome Lists
 
-- [awesome ★73813](https://github.com/sindresorhus/awesome) by @sindresorhus
-- [awesome-all ★102](https://github.com/bradoyler/awesome-all) by @bradoyler
-- [awesome-awesome ★979](https://github.com/emijrp/awesome-awesome) by @emijrp
-- [awesome-awesome ★150](https://github.com/erichs/awesome-awesome) by @erichs
+- [awesome ★85445](https://github.com/sindresorhus/awesome) by @sindresorhus
+- [awesome-all ★105 ⏳1Y](https://github.com/bradoyler/awesome-all) by @bradoyler
+- [awesome-awesome ★1125](https://github.com/emijrp/awesome-awesome) by @emijrp
+- [awesome-awesome ★173](https://github.com/erichs/awesome-awesome) by @erichs
 - [awesome-awesome ★63 ⏳1Y](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
-- [awesome-awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness) by @bayandin
-- [awesome-awesomes ★489 ⏳1Y](https://github.com/fleveque/awesome-awesomes) by @fleveque
-- [awesome-collection ★98](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
-- [lists ★4644](https://github.com/jnv/lists) by @jnv
+- [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness) by @bayandin
+- [awesome-awesomes ★492 ⏳1Y](https://github.com/fleveque/awesome-awesomes) by @fleveque
+- [awesome-collection ★98 ⏳1Y](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
+- [lists ★4980](https://github.com/jnv/lists) by @jnv
 
 [[Back to Top](#awesome-autoit)]
 ---

@@ -7,10 +7,10 @@ title: Awesome Rank for yissachar/awesome-dart
 	This list is a copy of <a href="https://github.com/yissachar/awesome-dart">yissachar/awesome-dart</a> with ranks
 </p>
 ---
-Awesome Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+Awesome Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 ============
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome ★73813](https://github.com/sindresorhus/awesome) lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome ★85445](https://github.com/sindresorhus/awesome) lists.
 
 ### Contributing
 
@@ -46,48 +46,47 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 * [AngularDart](https://angulardart.org/) - AngularDart is a development platform for building mobile and desktop web applications
 * [Flutter](https://flutter.io/) - Flutter is a development platform for building mobile applications.
-* [Polymer](https://www.dartlang.org/polymer/) - Use polymer to build structured, encapsulated, client-side web apps with web components.
-* [uix ★77](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React.
+* [uix ★80](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React.
 * [MDL/Dart](http://www.material-design-lite.pub/) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 * [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
 
 
 ## Server Frameworks
 
-* [Jaguar ★32](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensiblity.
-* [Angel ★185](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve.
-* [Aqueduct ★232](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support.
-* [Redstone ★271](https://github.com/redstone-dart/redstone) - Redstone is a server-side, metadata driven micro-framework for Dart.
-* [Start ★398](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
-* [Express ★103 ⏳3Y](https://github.com/dartist/express) - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
+* [Jaguar ★57](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensiblity.
+* [Angel ★260](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve.
+* [Aqueduct ★372](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support.
+* [Redstone ★295 ⏳1Y](https://github.com/redstone-dart/redstone) - Redstone is a server-side, metadata driven micro-framework for Dart.
+* [Start ★410 ⏳1Y](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
+* [Express ★106 ⏳3Y](https://github.com/dartist/express) - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
     * There are many packages written for Shelf. By convention they start with [shelf_](https://pub.dartlang.org/search?q=shelf_)
-* [Force ★82 ⏳1Y](https://github.com/ForceUniverse/dart-force) - A real time web framework, embracing websockets, making communication even better
-* [Vane ★24](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system
-* [Rikulo Stream ★151](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources
+* [Force ★86 ⏳1Y](https://github.com/ForceUniverse/dart-force) - A real time web framework, embracing websockets, making communication even better
+* [Vane ★26 ⏳1Y](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system
+* [Rikulo Stream ★153](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources
 
 ## Game Development
 
 * [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
-* [DartRocket ★42 ⏳2Y](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
-* [Pixi Dart ★21 ⏳3Y](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
-* [Ranger ★16 ⏳2Y](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
+* [DartRocket ★42](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
+* [Pixi Dart ★22 ⏳3Y](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
+* [Ranger ★17 ⏳3Y](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
 
 ## Animation
 
-* [Universal Tween Engine ★21 ⏳1Y](https://github.com/xaguzman/tween-engine-dart) - A port of the original java Universal Tween Engine created by Aurelien Ribbon.
-* [Spine Dart ★6 ⏳3Y](https://github.com/FedeOmoto/spine) - An implementation of the Esoteric Software Spine runtime.
+* [Universal Tween Engine ★23 ⏳2Y](https://github.com/xaguzman/tween-engine-dart) - A port of the original java Universal Tween Engine created by Aurelien Ribbon.
+* [Spine Dart ★8 ⏳3Y](https://github.com/FedeOmoto/spine) - An implementation of the Esoteric Software Spine runtime.
 
 ## Template
 
-* [mustache4dart ★37](https://github.com/valotas/mustache4dart) - A simple implementation of Mustache.
-* [jaded ★31](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
+* [mustache4dart ★41](https://github.com/valotas/mustache4dart) - A simple implementation of Mustache.
+* [jaded ★32](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
 
 ## Database
 
-* [Postgres ★14](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
-* [SQLJockey ★7](https://github.com/jamesots/sqljocky) - MySQL connector.
-* [PostgreSQL ★68 ⏳1Y](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver
+* [Postgres ★27](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
+* [SQLJockey ★8](https://github.com/jamesots/sqljocky) - MySQL connector.
+* [PostgreSQL ★71 ⏳1Y](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver
 * [dartabase_model](https://pub.dartlang.org/packages/dartabase_model) - Serverside Database Object Models for simple data manipulation using MySQL/PGSQL without having to write SQL
 * [dartabase_migration](https://pub.dartlang.org/packages/dartabase_migration) - Serverside Database migration for simple version controlled database structure manipulation using MySQL/PGSQL without having to write SQL
 
@@ -97,10 +96,11 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 ## Utilities
 
-* [Quiver ★160](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
-* [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
+* [built_value ★142](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization.
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
+* [Quiver ★179](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
+* [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 
 ## Dependency Injection
 
@@ -109,24 +109,26 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 ## Parsers
 
 * [html](https://pub.dartlang.org/packages/html) - A library for working with HTML documents. Previously known as html5lib.
-* [markdown ★69](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server.
-* [PetitParser ★84](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+* [markdown ★80](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server.
+* [PetitParser ★96](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
 * [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 * [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
 * [YAML](https://pub.dartlang.org/packages/yaml) - A parser for YAML.
+* [Dart Tags](https://pub.dartlang.org/packages/dart_tags) - The library for parsing ID3 tags, written in pure Dart.
+
 
 ## Validation
 
 * [Constrain](https://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
-* [validator.dart ★18](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
+* [validator.dart ★24](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
 
 ## ORM
 
-* [Objectory ★42 ⏳1Y](https://github.com/vadimtsushko/objectory) - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb.
+* [Objectory ★43 ⏳1Y](https://github.com/vadimtsushko/objectory) - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb.
 
 ## Image
 
-* [image ★90](https://github.com/brendan-duncan/image) - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
+* [image ★118](https://github.com/brendan-duncan/image) - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
 
 ## Algorithms
 
@@ -134,7 +136,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 ## Testing
 
-* [Guinness ★40 ⏳1Y](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
+* [Guinness ★40 ⏳2Y](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
 * [test](https://pub.dartlang.org/packages/test) - Provides a standard way of writing and running tests in Dart.
 
 ## Tools
@@ -145,7 +147,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [Stagehand](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [Crossdart](http://crossdart.info) - Cross-referenced source code of the packages from Pub.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).
-* [gulp-dart ★3 ⏳1Y](https://github.com/agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js.
+* [gulp-dart ★3 ⏳2Y](https://github.com/agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 * [dev_compiler](https://github.com/dart-lang/dev_compiler) - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
 
 ## Tutorials
@@ -161,13 +163,14 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [Gitter Chat Channel](https://gitter.im/dart-lang/home)
 * [Google Group](https://groups.google.com/a/dartlang.org/d/forum/misc)
 * [Stack Overflow](http://stackoverflow.com/tags/dart)
+* [Facebook Group (pt-BR)](https://www.facebook.com/groups/dartlangbr)
 
 ## IDEs, Editors, and Plugins
 
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
-* [Sublime Text Package ★200](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package
-* [Emacs Plugin ★56](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language
-* [Vim Plugin ★175](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
+* [Sublime Text Package ★212 ⏳1Y](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package
+* [Emacs Plugin ★74](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language
+* [Vim Plugin ★205](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
 * [Atom Plugin](https://atom.io/packages/atom-dart) - Dart support for Atom.
 * [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
 * [Dart Code](https://marketplace.visualstudio.com/items?itemName=DanTup.dart-code) - Dart support for Visual Studio Code.

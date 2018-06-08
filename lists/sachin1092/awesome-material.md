@@ -7,59 +7,59 @@ title: Awesome Rank for sachin1092/awesome-material
 	This list is a copy of <a href="https://github.com/sachin1092/awesome-material">sachin1092/awesome-material</a> with ranks
 </p>
 ---
-# Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 A curated list of Google's [material design](http://www.google.com/design/spec) based libraries, resources and awesome things.
 
 Icons, Fonts and Colors
 ==
-  - [material-design-icons ★32728](https://github.com/google/material-design-icons) — Material Design icons by Google.
-  - [material-design-iconic-font ★1153](https://github.com/zavoloklom/material-design-iconic-font) — Material Design Iconic Font and CSS toolkit.
-  - [material-design-fonticons ★79](https://github.com/designjockey/material-design-fonticons) — Material Design Fonticons is a font converted version of the Google Material Design Icon set.
-  - [material-colors ★176](https://github.com/shuhei/material-colors) — Colors of Google's Material Design made available to coders.
-  - [material-color ★117](https://github.com/mrmlnc/material-color) — The colour palette, based on Google's Material Design, for use in your project.
+  - [material-design-icons ★35009](https://github.com/google/material-design-icons) — Material Design icons by Google.
+  - [material-design-iconic-font ★1216 ⏳1Y](https://github.com/zavoloklom/material-design-iconic-font) — Material Design Iconic Font and CSS toolkit.
+  - [material-design-fonticons ★77 ⏳1Y](https://github.com/designjockey/material-design-fonticons) — Material Design Fonticons is a font converted version of the Google Material Design Icon set.
+  - [material-colors ★198](https://github.com/shuhei/material-colors) — Colors of Google's Material Design made available to coders.
+  - [material-color ★122](https://github.com/mrmlnc/material-color) — The colour palette, based on Google's Material Design, for use in your project.
   - [LESS-Material-design-colors](https://github.com/tisign/LESS-Material-design-colors) — A .less file with al the Google material design colors.
-  - [sass-material-colors ★92 ⏳1Y](https://github.com/minusfive/sass-material-colors) — An easy way to use Google's Material Design colors in your Sass/Scss project.
-  - [Google-Material-Design-Font-Icon ★5 ⏳2Y](https://github.com/Seb-L/Google-Material-Design-Font-Icon) — Font Icon based on Google Material Design Icon set.
+  - [sass-material-colors ★101 ⏳1Y](https://github.com/minusfive/sass-material-colors) — An easy way to use Google's Material Design colors in your Sass/Scss project.
+  - [Google-Material-Design-Font-Icon ★5](https://github.com/Seb-L/Google-Material-Design-Font-Icon) — Font Icon based on Google Material Design Icon set.
   - [Material Design Icons](https://materialdesignicons.com/) — Community generated Material Design icon pack.
   - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) — A web-based set of tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
 
 Animation
 ==
   - JavaScript
-    - [Waves ★2831](https://github.com/fians/Waves) — Click effect inspired by Google's Material Design.
+    - [Waves ★2991](https://github.com/fians/Waves) — Click effect inspired by Google's Material Design.
     - [material-design-hamburger](https://github.com/swirlycheetah/material-design-hamburger) — Android's Material Design hamburger animation built in CSS.
-    - [Material-Preloader ★385](https://github.com/aarondo/Material-Preloader) — A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).
+    - [Material-Preloader ★383 ⏳1Y](https://github.com/aarondo/Material-Preloader) — A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).
     - [Google-material-design-ripple-effect ★13 ⏳3Y](https://github.com/ninox92/Google-material-design-ripple-effect) — jQuery plugin recreates ripple and focus effect.
   
 Components
 ==
-  - [SVG-Morpheus ★2435](https://github.com/alexk111/SVG-Morpheus) — JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
-  - [Material-Design-ColorPicker ★11 ⏳2Y](https://github.com/Fraina/Material-Design-ColorPicker) — A Material Design Color Picker.
-  - [material-design-color-palette ★148 ⏳1Y](https://github.com/zavoloklom/material-design-color-palette) — Material Design Color Palette: LESS/CSS toolkit.
-  - [md-timepicker ★12 ⏳1Y](https://github.com/dotlouis/md-timepicker) — A Polymer Timepicker element in Material Design.
-  - [md-date-time ★185 ⏳2Y](https://github.com/SimeonC/md-date-time) — A Date-Time picker based on Googles Material Design Spec.
-  - [ng-material-floating-button ★450 ⏳1Y](https://github.com/nobitagit/ng-material-floating-button) — Material design floating menu with action buttons implemented as an Angularjs directive.
+  - [SVG-Morpheus ★2494](https://github.com/alexk111/SVG-Morpheus) — JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
+  - [Material-Design-ColorPicker ★12](https://github.com/Fraina/Material-Design-ColorPicker) — A Material Design Color Picker.
+  - [material-design-color-palette ★154 ⏳2Y](https://github.com/zavoloklom/material-design-color-palette) — Material Design Color Palette: LESS/CSS toolkit.
+  - [md-timepicker ★12 ⏳2Y](https://github.com/dotlouis/md-timepicker) — A Polymer Timepicker element in Material Design.
+  - [md-date-time ★184 ⏳2Y](https://github.com/SimeonC/md-date-time) — A Date-Time picker based on Googles Material Design Spec.
+  - [ng-material-floating-button ★456 ⏳1Y](https://github.com/nobitagit/ng-material-floating-button) — Material design floating menu with action buttons implemented as an Angularjs directive.
 
 
 CSS
 ==
-  - [Surface ★233](https://github.com/mildrenben/surface) — A lightweight, CSS only framework based on Material Design.
+  - [Surface ★258](https://github.com/mildrenben/surface) — A lightweight, CSS only framework based on Material Design.
   - [material-ui](https://github.com/callemall/material-ui) — A CSS Framework and a Set of React Components that Implement Google's Material Design.
-  - [bootstrap-material-design ★18870](https://github.com/FezVrasta/bootstrap-material-design) — Material design theme for Bootstrap 3.
-  - [materialize ★30443](https://github.com/Dogfalo/materialize) — Materialize, a CSS Framework based on Material Design.
-  - [materialBootstrap ★72 ⏳2Y](https://github.com/throrin19/materialBootstrap) — Twitter Bootstrap theme for Google material design.
-  - [material-playground ★260](https://github.com/ebidel/material-playground) — Polymer material design playground.
-  - [material-framework ★355](https://github.com/nt1m/material-framework) — An easy to use material design based framework.
-  - [mui ★3733](https://github.com/muicss/mui) — A lightweight CSS framework that follows Material Design guidelines.
-  - [material-foundation ★344](https://github.com/eucalyptuss/material-foundation) — A Material Design version of Foundation for Sites.
+  - [bootstrap-material-design ★19296](https://github.com/FezVrasta/bootstrap-material-design) — Material design theme for Bootstrap 3.
+  - [materialize ★32922](https://github.com/Dogfalo/materialize) — Materialize, a CSS Framework based on Material Design.
+  - [materialBootstrap ★71 ⏳2Y](https://github.com/throrin19/materialBootstrap) — Twitter Bootstrap theme for Google material design.
+  - [material-playground ★261](https://github.com/ebidel/material-playground) — Polymer material design playground.
+  - [material-framework ★375](https://github.com/nt1m/material-framework) — An easy to use material design based framework.
+  - [mui ★3968](https://github.com/muicss/mui) — A lightweight CSS framework that follows Material Design guidelines.
+  - [material-foundation ★363](https://github.com/eucalyptuss/material-foundation) — A Material Design version of Foundation for Sites.
 
 JS
 ==
-  - [AngularJS ★15931](https://github.com/angular/material) — Material design for Angular.
-  - [ember-paper ★741](https://github.com/miguelcobain/ember-paper) — The Ember approach to Material Design.
-  - [material-design-lite ★29181](https://github.com/google/material-design-lite) — Material Design Lite Components in HTML/CSS/JS.
-  - [react-material ★404](https://github.com/BerkeleyTrue/react-material) — Material design components written with React.js and React Style.
+  - [AngularJS ★16210](https://github.com/angular/material) — Material design for Angular.
+  - [ember-paper ★776](https://github.com/miguelcobain/ember-paper) — The Ember approach to Material Design.
+  - [material-design-lite ★30190](https://github.com/google/material-design-lite) — Material Design Lite Components in HTML/CSS/JS.
+  - [react-material ★407 ⏳1Y](https://github.com/BerkeleyTrue/react-material) — Material design components written with React.js and React Style.
 
 
 SASS
@@ -71,29 +71,29 @@ SASS
 
 WordPress
 ==
-  - [MaterialPress ★112 ⏳2Y](https://github.com/alexpatin/MaterialPress) — MaterialPress is a WordPress theme, influenced heavily by Google's Material Design philosophy.
-  - [materialwp ★374](https://github.com/braginteractive/materialwp) — Material Design WordPress Theme.
+  - [MaterialPress ★111 ⏳3Y](https://github.com/alexpatin/MaterialPress) — MaterialPress is a WordPress theme, influenced heavily by Google's Material Design philosophy.
+  - [materialwp ★397](https://github.com/braginteractive/materialwp) — Material Design WordPress Theme.
   
  WinForms
 ==
-- [MaterialSkin ★1200](https://github.com/IgnaceMaes/MaterialSkin) — Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
+- [MaterialSkin ★1375](https://github.com/IgnaceMaes/MaterialSkin) — Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
 
 XAML
 ==
- - [MaterialDesignInXamlToolkit ★3858](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) — Google's Material Design in XAML & WPF, for C# & VB.Net.
+ - [MaterialDesignInXamlToolkit ★4703](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) — Google's Material Design in XAML & WPF, for C# & VB.Net.
 
 Other
 ==
-  - [material_design_zh ★2754](https://github.com/1sters/material_design_zh) — Material Design Collaborative Chinese translation
+  - [material_design_zh ★2921 ⏳1Y](https://github.com/1sters/material_design_zh) — Material Design Collaborative Chinese translation
   - [material-color-scheme](https://github.com/paradox41/material-color-scheme) — Sublime Text syntax theme based off the Material Design color palette.
-  - [framaterial ★45 ⏳2Y](https://github.com/Framaterial/framaterial) — A Framework to create Material Design projects.
+  - [framaterial ★46 ⏳2Y](https://github.com/Framaterial/framaterial) — A Framework to create Material Design projects.
   - [Material Design Templates](http://themeforest.net/tags/material%20design) — Various material design inspired themes and templates on ThemeForest.
   - [MaterialUp](http://www.materialup.com/) — Get your daily dose of Material design inspiration!
   - [Material Palette](http://www.materialpalette.com/) — Choose your favorite colors and generate your Material Design palette.
   - [Paper Polymer Elements](https://elements.polymer-project.org/browse?package=paper-elements) — Paper elements are a set of visual elements that implement Google's Material Design.
   
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness) list.
 
 ## Contributing
 

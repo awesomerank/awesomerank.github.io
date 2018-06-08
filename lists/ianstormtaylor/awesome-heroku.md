@@ -100,7 +100,7 @@ Information about the company itself...
 Anything dealing with [Heroku Postgres](https://www.heroku.com/postgres)...
 
 - `official` [Heroku Postgres](https://www.heroku.com/postgres) — the landing page explaining with it is.
-- `plugin` [heroku-buildpack-pgbouncer ★225](https://github.com/heroku/heroku-buildpack-pgbouncer) — a buildpack that allows for transaction pooling using [`stunnel`](https://www.stunnel.org/index.html) and [`pgbouncer`](https://wiki.postgresql.org/wiki/PgBouncer) to avoid hitting connection limits.
+- `plugin` [heroku-buildpack-pgbouncer ★249](https://github.com/heroku/heroku-buildpack-pgbouncer) — a buildpack that allows for transaction pooling using [`stunnel`](https://www.stunnel.org/index.html) and [`pgbouncer`](https://wiki.postgresql.org/wiki/PgBouncer) to avoid hitting connection limits.
 
 
 ## <img width="21" height="21" src="images/redis.png" /> Redis
@@ -127,8 +127,8 @@ How to secure you Heroku applications...
 Helpful resources for the [Heroku Toolbelt](https://toolbelt.heroku.com/)...
 
 - `official` [Toolbelt Download](https://toolbelt.heroku.com/) — where to download the Heroku toolbelt.
-- `plugin` [heroku-accounts ★1283 ⏳1Y](https://github.com/ddollar/heroku-accounts) — makes it easy to work with multiple accounts at once from the command line.
-- `plugin` [heroku-pg-extras ★837](https://github.com/heroku/heroku-pg-extras) — a toolbelt plugin that adds extra useful plugins for working with Postgres. Things like analyzing cache hit rates, outlier queries, unused indexes, table sizes, etc.
+- `plugin` [heroku-accounts ★1278 ⏳2Y](https://github.com/ddollar/heroku-accounts) — makes it easy to work with multiple accounts at once from the command line.
+- `plugin` [heroku-pg-extras ★880](https://github.com/heroku/heroku-pg-extras) — a toolbelt plugin that adds extra useful plugins for working with Postgres. Things like analyzing cache hit rates, outlier queries, unused indexes, table sizes, etc.
 
 
 ## <img width="21" height="21" src="images/goodbye.png" /> Goodbye...

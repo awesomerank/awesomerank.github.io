@@ -7,7 +7,7 @@ title: Awesome Rank for dav009/awesome-spanish-nlp
 	This list is a copy of <a href="https://github.com/dav009/awesome-spanish-nlp">dav009/awesome-spanish-nlp</a> with ranks
 </p>
 ---
-# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 
 Curated list of Linguistic Resources for doing Spanish NLP & CL.
@@ -23,7 +23,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [TreeTagger - POSTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
 - [Stanford - POSTagger](http://nlp.stanford.edu/software/tagger.shtml)
 - [Freeling](http://nlp.lsi.upc.edu/freeling/)
-- [ixa-pipe-pos ★10](https://github.com/ixa-ehu/ixa-pipe-pos)
+- [ixa-pipe-pos ★13](https://github.com/ixa-ehu/ixa-pipe-pos)
 - [Ruby Snowball Implementation ★3 ⏳5Y](https://github.com/MaG21/estem)
 - [Spaguetti POSTagger(Based on NLTK +  CESS corpus](https://code.google.com/p/spaghetti-tagger/)
 
@@ -32,7 +32,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Name Entity Recognition (NER)
 - [OpenNLP - Person/Place/Organization models](http://opennlp.sourceforge.net/models-1.5/)
-- [DBPedia Spotlight ★629](https://github.com/dbpedia-spotlight/dbpedia-spotlight)
+- [DBPedia Spotlight ★664](https://github.com/dbpedia-spotlight/dbpedia-spotlight)
 - [CitiusTagger - Spanish NER and  POSTagger](http://gramatica.usc.es/pln/tools/CitiusTools.html)
 
 ## Corpora
@@ -44,7 +44,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [ ACL 2010 in Uppsala - Shared Task: Machine Translation for European Languages](http://www.statmt.org/wmt10/translation-task.html)
 - [TASS - 2014 (Sentiment Analysis focused on Spanish)](http://www.daedalus.es/TASS2014/tass2014.php)
 - [SemEval-2 2010 Coreference Resolution in Multiple Languages](http://semeval2.fbk.eu/semeval2.php?location=tasks)
-
+- [SAB Corpus (Spanish Corpus for Sentiment Analysis towards Brands)](http://sabcorpus.linkeddata.es/)
 
 ### Corpora
 - [Multilingual Aligned Annotated Corpus (CRATER)](http://catalog.elra.info/product_info.php?products_id=636)
@@ -54,8 +54,8 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Lemmas Dictionary](http://sfn.uab.es:8080/SFN/dictionary/dictionary-information-lemmas-and-expanded-forms)
 - [esTenten Spanish (POSTagged) ](http://www.sketchengine.co.uk/documentation/wiki/Corpora/TenTen/esTenTen)
 - [Europarl Corpus (Parallel Corpus English-Spanish)](http://www.statmt.org/europarl/)
-- [Colombian Political Speeches ★2 ⏳4Y](https://github.com/dav009/LatinamericanTextResources)
-- [South American Slang Expressions/MTWE ★2 ⏳4Y](https://github.com/dav009/LatinamericanTextResources)
+- [Colombian Political Speeches ★3 ⏳4Y](https://github.com/dav009/LatinamericanTextResources)
+- [South American Slang Expressions/MTWE ★3 ⏳4Y](https://github.com/dav009/LatinamericanTextResources)
 - [Syntax and Semantic Annotations (Subset Ancora Corpus)](http://ufal.mff.cuni.cz/conll2009-st/trial/CoNLL2009-ST-Spanish-trial.zip)
 - [Plurilingual Specific Corpus on Economics, Medicine, Computer Science](http://www.iula.upf.edu/corpus/corpusuk.htm)
 - [Copenhagen  Treebank (Dependency Parsing)](http://code.google.com/p/copenhagen-dependency-treebank/)
@@ -78,7 +78,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Misc
 
-- [Word2Vec vectors for Wikipedia Spanish Articles ★431](https://github.com/idio/wiki2vec)
+- [Word2Vec vectors for Wikipedia Spanish Articles ★485](https://github.com/idio/wiki2vec)
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)

@@ -9,7 +9,7 @@ title: Awesome Rank for willianjusten/awesome-svg
 ---
 <img src="https://rawgit.com/willianjusten/awesome-svg/master/logo.svg" alt="Awesome SVG">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) [![Travis Build](https://travis-ci.org/willianjusten/awesome-svg.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) [![Travis Build](https://travis-ci.org/willianjusten/awesome-svg.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-svg)
 
 > A curated list of SVG. The main idea is that everyone can contribute here, so we can center all the informations about SVG and keep up-to-date.
 
@@ -17,7 +17,6 @@ title: Awesome Rank for willianjusten/awesome-svg
 	- [Accessible SVG](https://github.com/willianjusten/awesome-svg/blob/master/topics/Accessibility.md)
 	- [Animation](https://github.com/willianjusten/awesome-svg/blob/master/topics/Animation.md)
 	- [Books](https://github.com/willianjusten/awesome-svg/blob/master/topics/Books.md)
-	- [Downloads](https://github.com/willianjusten/awesome-svg/blob/master/topics/Downloads.md)
 	- [Experiments](https://github.com/willianjusten/awesome-svg/blob/master/topics/Experiments.md)
 	- [Filters](https://github.com/willianjusten/awesome-svg/blob/master/topics/Filters.md)
 	- [Follow on Twitter](https://github.com/willianjusten/awesome-svg/blob/master/topics/Follow-twitter.md)
@@ -56,9 +55,9 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ## Other Awesome Lists
 
-* [Awesome ★73813](https://github.com/sindresorhus/awesome)
-* [Awesome-awesome ★979](https://github.com/emijrp/awesome-awesome)
-* [Awesome-awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness)
+* [Awesome ★85445](https://github.com/sindresorhus/awesome)
+* [Awesome-awesome ★1125](https://github.com/emijrp/awesome-awesome)
+* [Awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness)
 
 ## License
 

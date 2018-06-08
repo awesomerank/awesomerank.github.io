@@ -7,7 +7,7 @@ title: Awesome Rank for bulutyazilim/awesome-datascience
 	This list is a copy of <a href="https://github.com/bulutyazilim/awesome-datascience">bulutyazilim/awesome-datascience</a> with ranks
 </p>
 ---
-# Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 
 *An open source Data Science repository to learn and apply towards solving real world problems.*
@@ -31,6 +31,7 @@ title: Awesome Rank for bulutyazilim/awesome-datascience
 * [Presentations](#presentations)
 * [Data Science Competitions](#competitions)
 * [Comics](#comics)
+* [Tutorials](#tutorials)
 * [Other Awesome Lists](#other-awesome-lists)
 
 
@@ -43,8 +44,6 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 First of all, Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts. Our favorite data scientist is [Clare Corthell](https://twitter.com/clarecorthell). She is an expert in data-related systems and a hacker, and has been working on a company as a data scientist. [Clare's blog](http://datasciencemasters.org/). This website helps you to understand the exact way to study as a professional data scientist.
 
 Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.continuum.io/downloads) to play with data and to create applications. 
-
-This is the [Guide](https://github.com/okulbilisim/awesome-datascience/blob/master/DataScience-Life-Cycle.md) to begin a **Data Science** project.
 
 ## Infographic
 
@@ -81,7 +80,7 @@ Preview | Description
 
 ## COLLEGES
 
-* [A list of colleges and universities offering degrees in data science. ★74](https://github.com/ryanswanstrom/awesome-datascience-colleges)
+* [A list of colleges and universities offering degrees in data science. ★85](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 * [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
 * [Data Science Degree @ UVA](https://dsi.virginia.edu/)
 * [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
@@ -89,11 +88,13 @@ Preview | Description
 * [MS in Computer Information Systems @ Boston University](http://cisonline.bu.edu/)
 * [MS in Business Analytics @ ASU Online](http://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
 * [Data Science Engineer @ BTH](https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/)
+* [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
+* [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/master/course-offerings/management-data-science.html)
 
 ## MOOC's
 
 * [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
-* [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science/1?utm_medium=listingPage)
+* [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
 * [Data Mining - 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specialization/datamining)
 * [Machine Learning – 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/machine-learning)
 * [CS 109 Data Science](http://cs109.github.io/2015/)
@@ -106,7 +107,7 @@ Preview | Description
 * [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 * [Oxford Machine Learning](http://www.cs.ox.ac.uk/activities/machinelearning/)
 * [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
-* [Data Science Specialization ★2791](https://github.com/DataScienceSpecialization/courses)
+* [Data Science Specialization ★2951](https://github.com/DataScienceSpecialization/courses)
 * [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
 * [Data Science and Analytics in Context by Edx](https://www.edx.org/xseries/data-science-analytics-context)
 * [Big Data University by IBM](https://bigdatauniversity.com/)
@@ -152,7 +153,7 @@ Preview | Description
 * [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 * [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
 * [Dept. of Politics @ New York University](http://www.nyu.edu/projects/politicsdatalab/datasupp_datasources.html)
-* [Open Data Sources ★247 ⏳2Y](https://github.com/datasciencemasters/data)
+* [Open Data Sources ★273](https://github.com/datasciencemasters/data)
 * [UNICEF Statistics and Monitoring](https://www.unicef.org/statistics/index_24287.html)
 * [UNICEF Data](https://data.unicef.org/)
 * [undata](http://data.un.org/)
@@ -165,6 +166,8 @@ Preview | Description
 * [IBM Blog abour open data](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
 * [Open data Index](http://index.okfn.org/)
 * [Liver Tumor Segmentation Challenge Dataset](http://www.lits-challenge.com/)
+* [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
+* [GHTorrent](http://ghtorrent.org/)
 
 ## Bloggers
 
@@ -255,7 +258,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 
 ## Podcasts
 
-- [Adversarial Learning](https://adversariallearning.com/)
+- [Adversarial Learning](http://adversariallearning.com/)
 - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
 - [Data Skeptic](https://dataskeptic.com/)
@@ -327,7 +330,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Erin Bartolo](https://twitter.com/erinbartolo) - Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr.
 - [Greg Reda](https://twitter.com/gjreda) Working @ _GrubHub_ about data and pandas
 - [Gregory Piatetsky](https://twitter.com/kdnuggets) -  KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
-- [Gregory Piatetsky](https://twitter.com/kdnuggets) - KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
 - [Hakan Kardas](https://twitter.com/hakan_kardes) - Data Scientist
 - [Hilary Mason](https://twitter.com/hmason) - Data Scientist in Residence at @accel.
 - [Jeff Hammerbacher](https://twitter.com/hackingdata) ReTweeting about data science
@@ -341,7 +343,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Kirk Borne](https://twitter.com/KirkDBorne) -  DataScientist, PhD Astrophysicist, Top #BigData Influencer.
 - [Linda Regber](https://twitter.com/LindaRegber) - Data story teller, visualizations.
 - [Luis Rei](https://twitter.com/lmrei) - PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science.
-- [Machine Learning](https://twitter.com/ML_toparticles) - Live Content Curated by top 1K Machine Learning Experts
 - [Mark Stevenson](https://twitter.com/Agent_Analytics) - Data Analytics Recruitment Specialist at Salt (@SaltJobs) | Analytics - Insight - Big Data - Datascience
 - [Matt Harrison](https://twitter.com/__mharrison__) - Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, ult|goalt-imate, organic gardening.
 - [Matthew Russell](https://twitter.com/ptwobrussell) - Mining the Social Web.
@@ -383,6 +384,7 @@ We are more than 3,190 data scientists and data geeks in our community.
  - [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
  - [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
+ - [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
 
 ## Toolboxes - Environment
 
@@ -408,23 +410,23 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks.
  * [Octave](https://www.gnu.org/software/octave/) GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab)
  * [Apache Spark](https://spark.apache.org/) Lightning-fast cluster computing
- * [Hydrosphere Mist ★137](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.
+ * [Hydrosphere Mist ★180](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.
  * [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
  * [Torch](http://torch.ch/) A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
- * [Nervana's python based Deep Learning Framework ★3350](https://github.com/NervanaSystems/neon)
+ * [Nervana's python based Deep Learning Framework ★3558](https://github.com/NervanaSystems/neon)
  * [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS
  * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
- * [Intel framework ★322 ⏳1Y](https://github.com/01org/idlf) - Intel® Deep Learning Framework
- * [Datawrapper](https://www.datawrapper.de/) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com ★863](https://github.com/datawrapper/datawrapper)
+ * [Intel framework ★323 ⏳2Y](https://github.com/01org/idlf) - Intel® Deep Learning Framework
+ * [Datawrapper](https://www.datawrapper.de/) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com ★909](https://github.com/datawrapper/datawrapper)
  * [Tensor Flow](https://www.tensorflow.org/) - TensorFlow is an Open Source Software Library for Machine Intelligence
  * [Natural Language Toolkit](http://www.nltk.org/)
  * [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit)
  * [Julia](http://julialang.org) – high-level, high-performance dynamic programming language for technical computing
- * [IJulia ★1165](https://github.com/JuliaLang/IJulia.jl) – a Julia-language backend combined with the Jupyter interactive environment
+ * [IJulia ★1253](https://github.com/JuliaLang/IJulia.jl) – a Julia-language backend combined with the Jupyter interactive environment
  * [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook that enables data-driven, 
 interactive data analytics and collaborative documents with SQL, Scala and more
-* [Featuretools ★346](https://github.com/featuretools/featuretools) - An open source framework for automated feature engineering written in python
-* [Optimus ★126](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend. 
+* [Featuretools ★1347](https://github.com/featuretools/featuretools) - An open source framework for automated feature engineering written in python
+* [Optimus ★244](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend. 
 
 Quick Start
 
@@ -489,7 +491,7 @@ Quick Start
 * [Introduction to Data Science](http://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
 * [Intro to Data Science for Enterprise Big Data](http://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
 * [How to Interview a Data Scientist](http://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
-* [How to Share Data with a Statistician ★4201](https://github.com/jtleek/datasharing)
+* [How to Share Data with a Statistician ★4395](https://github.com/jtleek/datasharing)
 * [The Science of a Great Career in Data Science](http://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
 * [What Does a Data Scientist Do?](http://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
 * [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
@@ -508,20 +510,25 @@ Quick Start
 ## Comics
 ![Digital Data](http://imgs.xkcd.com/comics/digital_data.png "Digital Data")
 
+## Tutorials
+
+* [Data science your way ★376](https://github.com/jadianes/data-science-your-way)
+
 ## Other Awesome Lists
 
- - Other amazingly awesome lists can be found in the [awesome-awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness) list.
- - [Awesome Machine Learning ★29088](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
- - [lists ★4644](https://github.com/jnv/lists)
- - [awesome-dataviz ★1419](https://github.com/fasouto/awesome-dataviz)
- - [awesome-python ★43469](https://github.com/vinta/awesome-python)
- - [Data Science IPython Notebooks. ★11139](https://github.com/donnemartin/data-science-ipython-notebooks)
- - [awesome-r ★2631](https://github.com/qinwf/awesome-R)
- - [awesome-datasets ★21679](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
+ - Other amazingly awesome lists can be found in the [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness) list.
+ - [Awesome Machine Learning ★33352](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
+ - [lists ★4980](https://github.com/jnv/lists)
+ - [awesome-dataviz ★1665](https://github.com/fasouto/awesome-dataviz)
+ - [awesome-python ★50412](https://github.com/vinta/awesome-python)
+ - [Data Science IPython Notebooks. ★12632](https://github.com/donnemartin/data-science-ipython-notebooks)
+ - [awesome-r ★2978](https://github.com/qinwf/awesome-R)
+ - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
- - [Awesome Data Science Ideas ★354](https://github.com/JosPolfliet/awesome-datascience-ideas)
- - [Machine Learning for Software Engineers ★17516](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-
+ - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas)
+ - [Machine Learning for Software Engineers ★18977](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+ - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
+ - [Awesome Machine Learning On Source Code ★2764](https://github.com/src-d/awesome-machine-learning-on-source-code)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/bulutyazilim/awesome-datascience">bulutyazilim/awesome-datascience</a> with ranks

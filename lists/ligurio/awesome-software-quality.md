@@ -10,7 +10,7 @@ title: Awesome Rank for ligurio/awesome-software-quality
 ## List of Free Software Testing Resources
 
 [![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 ### Intro
 
@@ -18,7 +18,7 @@ There is a list of [free programming
 ebooks](https://github.com/vhf/free-programming-books).  And I have decided to
 create a similar list with books, courses and podcasts about software quality.
 
-**[Subscribe](https://github.com/ligurio/free-software-testing-books/subscription) to receive notificatons.**
+**[Subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons.**
 
 ### Testimonials
 
@@ -40,6 +40,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Podcasts](#podcasts)
 * [Conferences](#conferences)
 * [Workshops and interactive learning tools](#workshops-and-interactive-learning-tools)
+* [Learned lessons](#learned-lessons)
 * [Awesome lists](#awesome-lists)
 
 
@@ -52,7 +53,6 @@ create a similar list with books, courses and podcasts about software quality.
 * [Perspectives on Agile Software Testing](https://info.thoughtworks.com/ebook-agile-software-testing)
 * [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
 * [Programs and Proofs. Mechanizing Mathematics with Dependent Types.](http://ilyasergey.net/pnp/) - Ilya Sergey @ilyasergey
-* [Software testing](http://www.rehancodes.com/files/ron-patton-software-testing-1st-edition.pdf) - Ron Patton
 * [Measure Software Quality using Application Security](https://github.com/DinisCruz/Book_Software_Quality/tree/master/content) (WIP) - Dinis Cruz
 * [The "A" Word](https://leanpub.com/TheAWord) - Alan Page
 * [Professional Software Development](http://mixmastamyk.bitbucket.org/pro_soft_dev/) (Chapter: "5. Software Quality") - Mike G. Miller
@@ -69,9 +69,8 @@ create a similar list with books, courses and podcasts about software quality.
 * [Manual Testing Help](http://www.softwaretestinghelp.com/manual-testing-help-ebook-free-download/)
 * [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (PDF) - Ajay Balamurugadas, Sundaresan Krishnaswami
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
-* [Random testing book ★6 ⏳4Y](https://github.com/regehr/random-testing-book) DRAFT
-* [Software Testing: A Comprehensive Approach ★45](https://github.com/laboon/ebook) - Bill Laboon
-* [Common System and Software Testing Pitfalls](https://www.infoq.com/resource/articles/common-testing-pitfalls/en/resources/Common-System-and-Software-Testing-Pitfalls-excerpt.pdf) - Donald G. Firesmith
+* [Random testing book ★6 ⏳5Y](https://github.com/regehr/random-testing-book) DRAFT
+* [Software Testing: A Comprehensive Approach ★55](https://github.com/laboon/ebook) - Bill Laboon
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
@@ -85,6 +84,8 @@ create a similar list with books, courses and podcasts about software quality.
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 * [Mutation Testing: Better Code by Making Bugs](https://leanpub.com/mutationtesting) - Filip van Laenen
 * [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) - Jason Polites
+* [Observing and Reasoning About Errors](https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2017/09/Jerry-Weinberg-eBook-final-compressed-contents-page.pdf)
+* [The Little Black Book On Test Design](http://thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) -- Rikard Endgren
 
 #### Standards In software Testing
 
@@ -98,16 +99,14 @@ create a similar list with books, courses and podcasts about software quality.
 #### Testing of Free and OpenSource Software
 
 * [Quality Improvement in Volunteer Free and Open Source Software Project](http://www.cyrius.com/publications/michlmayr-phd.pdf) (PDF)
-* [Testing and quality management of free and open source software](https://github.com/ligurio/tos-book) (WIP) - Sergey Bronnikov
 
 #### Testing by different programming languages
 
 * [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
 * [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
-* [Testing Erlang ★282 ⏳1Y](https://github.com/zkessin/testing-erlang-book)
-* [Testing in Scala ★8 ⏳3Y](https://github.com/dhinojosa/testing-in-scala-book)
-* [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
-* [Test-Driven Development - Extensive Tutorial ★168](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
+* [Testing Erlang ★285 ⏳1Y](https://github.com/zkessin/testing-erlang-book)
+* [Testing in Scala ★9 ⏳4Y](https://github.com/dhinojosa/testing-in-scala-book)
+* [Test-Driven Development - Extensive Tutorial ★199](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 * [Testing and Debugging JavaScript ★37 ⏳6Y](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
 * [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
@@ -137,7 +136,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Alloy Documentation](http://alloy.mit.edu/alloy/documentation.html) - Daniel Jackson
 * [Introduction to Spin](http://spinroot.com/spin/Man/) - Multiple Authors
 * Software Foundations: [4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html), [draft](https://softwarefoundations.cis.upenn.edu/draft/)
-, [epub ★11 ⏳2Y](https://github.com/carliros/software-foundations-book) - Benjamin C. Pierce & Co
+, [epub ★13](https://github.com/carliros/software-foundations-book) - Benjamin C. Pierce & Co
 * [Verified Functional Algorithms](http://www.cs.princeton.edu/~appel/vfa/) - Andrew W. Appel
 * [Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/1998/FoundsCS/) - Dr Larry Paulson
 * [Principles of Model Checking](https://pdfs.semanticscholar.org/f126/9591359fddc20f95da10c7bd4c054080b447.pdf) - Christel Baier, Joost-Pieter Katoen
@@ -155,8 +154,9 @@ create a similar list with books, courses and podcasts about software quality.
 * [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
-* [Is Parallel Programming Hard, And, If So, What Can You Do About It? ★13](https://github.com/paulmckrcu/perfbook) (chapters "Validation" and "Formal verification") - Paul E. McKenney @paulmckrcu
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It? ★19](https://github.com/paulmckrcu/perfbook) (chapters "Validation" and "Formal verification") - Paul E. McKenney @paulmckrcu
 * [More books...](http://www.freetechbooks.com/index.php/formal-methods-f28.html)
+* [Formal Methods of Software Design](https://www.cs.utoronto.ca/~hehner/FMSD/)
 
 ## In Russian
 
@@ -166,7 +166,6 @@ create a similar list with books, courses and podcasts about software quality.
 * [Белая книжная полка менеджера](http://labs.stratoplan.ru/wmbook-03-01/) ([epub](http://labs.stratoplan.ru/wmbook-03-01/wmbook.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/wmbook.mobi), [zip](http://labs.stratoplan.ru/wmbook-03-01/wmbook.zip))
 * Как стать менеджером ([pdf](http://labs.stratoplan.ru/wmbook-03-01/it_manager.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/it_manager.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/it_manager.mobi)) - Слава Панкратов, Александр Орлов
 * [It starts with a great product](https://www.intercom.com/books/product-management)
-* [Гибкие методологии разработки](http://adm-lib.ru/books/10/Gibkie-metodologii.pdf) - Вольфсон Борис
 
 #### Тестирование ПО
 
@@ -200,6 +199,7 @@ create a similar list with books, courses and podcasts about software quality.
 * [Mathematical Logic](https://www.youtube.com/playlist?list=PL2EB5662A0D455A81&feature=plcp)
 * [Engineering Ethics](https://ocw.mit.edu/courses/engineering-systems-division/esd-932-engineering-ethics-spring-2006/audio-lectures/)
 * [Engineering Ethics](https://itunes.apple.com/us/course/engineering-ethics/id1039496124?ign-mpt=uo%3D8)
+* Software Development Process: [Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkNAtqsKcFkUGpf4j67NBaz), [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPm8PAGH7ov2Bj-nG4sXgCtJ), [Part 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkoQFThzsc9e7Fe3QV_KJCs)
 
 
 #### Software Testing
@@ -209,8 +209,8 @@ create a similar list with books, courses and podcasts about software quality.
 * [Embedded Software Testing](http://nptel.ac.in/courses/117106112/)
 * [Software Testing Fundamentals](https://www.edx.org/course/software-testing-fundamentals-usmx-university-maryland-university-stv1-1x)
 * [Software Testing Methods](https://www.udacity.com/course/software-testing--cs258)
-* [QA Academy ★13 ⏳1Y](https://github.com/TelerikAcademy/QA-Academy)
-* [QA and Automation course ★17 ⏳1Y](https://github.com/HackBulgaria/QA-and-Automation-101)
+* [QA Academy ★17 ⏳2Y](https://github.com/TelerikAcademy/QA-Academy)
+* [QA and Automation course ★17 ⏳2Y](https://github.com/HackBulgaria/QA-and-Automation-101)
 * [Software Testing and Verification](https://www.edx.org/micromasters/software-testing-verification)
 * [Introduction to Software Testing](https://alison.com/course/introduction-to-software-testing)
 * [Software Testing - Black-box Strategies and White-box Testing](https://alison.com/course/software-testing-black-box-strategies-and-white-box-testing)
@@ -244,7 +244,7 @@ create a similar list with books, courses and podcasts about software quality.
 
 * [Software security](https://ru.coursera.org/learn/software-security)
 
-#### Perofrmance Testing
+#### Performance Testing
 
 * [Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLD2AE32F507F10481&feature=plcp)
 * [LoadRunner Tutorials](https://www.youtube.com/playlist?list=PLFB7DB42D42A7C31C)
@@ -282,15 +282,15 @@ create a similar list with books, courses and podcasts about software quality.
 * [Advanced Topics in Software Verification](https://www.cse.unsw.edu.au/~cs4161/16s2/)
 * [Theorem Proving - Principles, Techniques, Applications](https://www.cse.unsw.edu.au/~kleing/teaching/thprv-04/index.html)
 
-##### TLA+
+##### Model Checking
 
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
-* [Dr. TLA+ Series ★213](https://github.com/tlaplus/DrTLAPlus)
-
-##### Spin/PVS
-
+* [Dr. TLA+ Series ★272](https://github.com/tlaplus/DrTLAPlus)
 * [Theorem Proving and Model Checking in PVS](https://www.cs.cmu.edu/~emc/15-820A/) - Edmund M. Clarke
-
+* mCRL2 [System Validation: Automata and behavioural equivalences](https://www.coursera.org/learn/automata-system-validation)
+* mCRL2 [System Validation (2): Model process behaviour](https://www.coursera.org/learn/system-validation-behavior)
+* mCRL2 [System Validation (3): Requirements by modal formulas](https://www.coursera.org/learn/system-validation-modal-formulas)
+* mCRL2 [System Validation (4): Modelling Software, Protocols, and other behaviour](https://www.coursera.org/learn/system-validation-software-protocols)
 
 ## In Russian
 
@@ -318,19 +318,24 @@ create a similar list with books, courses and podcasts about software quality.
 
 #### Формальная верификация ПО
 
-* [Верификация программ на моделях](http://savenkov.lvk.cs.msu.su/mc.html)
+* [Верификация программ на моделях](https://www.youtube.com/user/ksavenkov/playlists)
 * [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) ([PDF](http://is.ifmo.ru/present/2012/20120218_model_che%D1%81king_karpov_lecture01.pdf))
 * [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
-* [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ)
+* [Теория соответствия для систем с блокировками и разрушением](http://panda.ispras.ru/~kuliamin/docs/ConfTheory-book-2008.pdf) - И.Б. Бурдонов, А.С. Косачев, В.В. Кулямин
+* [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf) -- А.С. Камкин
+* [Методы верификации программного обеспечения](http://www.ict.edu.ru/ft/005645/62322e1-st09.pdf) -- В.В. Кулямин
+* [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ) ([практикум](http://mfsp.cmc.msu.ru/w/wp-content/uploads/2015/07/Deductive-Verification-Practicum.pdf))
+
 
 # Workshops and interactive learning tools
 
 - [Learn TLA](https://learntla.com/introduction/)
-- [test-anything ★118](https://github.com/finnp/test-anything)
+- [tla_workshop ★11](https://github.com/parlarjb/tla_workshop)
+- [test-anything](https://github.com/finnp/test-anything)
 - https://math-comp.github.io/mcb/
-- [LibFuzzer Wokshop ★480](https://github.com/Dor1s/libfuzzer-workshop)
+- [LibFuzzer Wokshop ★545](https://github.com/Dor1s/libfuzzer-workshop)
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
 - [Code-defenders game (mutation testing)](http://code-defenders.org/login)
@@ -338,6 +343,8 @@ create a similar list with books, courses and podcasts about software quality.
 - [Robot ON! A Program Understanding Game](http://www.sqrlab.ca/software/roboton/)
 - [FireFinder](http://www.sqrlab.ca/software/firefinder/)
 - [Threaded Paws: A Concurrency Game](http://www.sqrlab.ca/software/threadedpaws/)
+- [Verigames](http://verigames.com/)
+- [Edukera](https://www.edukera.com/)
 
 # Conferences
 
@@ -364,19 +371,26 @@ create a similar list with books, courses and podcasts about software quality.
 * [The Ministry of Testing Podcast](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing)
 * [TDD in context](http://www.schmonz.com/tag/tdd-in-context/)
 
+# Learned lessons
+
+* [NASA Public Lessons Learned System](https://llis.nasa.gov/)
+* [Flight Software Engineering Lessons](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1671&context=amcis2009)
+* [Forum on Risks to the Public in Computers and Related Systems](http://catless.ncl.ac.uk/Risks/)
+
 # Awesome lists
 
-- [Fuzzing testing ★1442](https://github.com/secfigo/Awesome-Fuzzing)
-- [Mutation testing ★12](https://github.com/theofidry/mutation-testing)
-- [Chaos Engineering ★837](https://github.com/dastergon/awesome-chaos-engineering)
-- [Static analysis ★2135](https://github.com/mre/awesome-static-analysis)
-- [TAP (Test Anything Protocol) ★385](https://github.com/sindresorhus/awesome-tap)
-- [Selenium ★119](https://github.com/TheJambo/awesome-testing)
-- [Symbolic execution ★30](https://github.com/ksluckow/awesome-symbolic-execution)
-- [Coq Proof Assistant ★137](https://github.com/uhub/awesome-coq)
-- [Visual regression testing ★264](https://github.com/mojoaxel/awesome-regression-testing)
+- [Fuzzing testing ★1820](https://github.com/secfigo/Awesome-Fuzzing)
+- [Mutation testing ★21](https://github.com/theofidry/mutation-testing)
+- [Chaos Engineering ★1305](https://github.com/dastergon/awesome-chaos-engineering)
+- [Static analysis ★3086](https://github.com/mre/awesome-static-analysis)
+- [TAP (Test Anything Protocol) ★420](https://github.com/sindresorhus/awesome-tap)
+- [Selenium ★183](https://github.com/TheJambo/awesome-testing)
+- [Symbolic execution ★143](https://github.com/ksluckow/awesome-symbolic-execution)
+- [Coq Proof Assistant ★147](https://github.com/uhub/awesome-coq)
+- [awesome-provable ★8](https://github.com/awesomo4000/awesome-provable)
+- [Visual regression testing ★497](https://github.com/mojoaxel/awesome-regression-testing)
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
-- [Testing of distributed systems ★72](https://github.com/asatarin/testing-distributed-systems)
+- [Testing of distributed systems ★406](https://github.com/asatarin/testing-distributed-systems)
 
 ### License
 

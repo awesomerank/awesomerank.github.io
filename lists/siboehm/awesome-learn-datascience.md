@@ -7,7 +7,7 @@ title: Awesome Rank for siboehm/awesome-learn-datascience
 	This list is a copy of <a href="https://github.com/siboehm/awesome-learn-datascience">siboehm/awesome-learn-datascience</a> with ranks
 </p>
 ---
-# Data Science Tutorials & Resources for Beginners [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Data Science Tutorials & Resources for Beginners [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 *If you want to know more about Data Science but don't know where to start this list is for you!* :chart_with_upwards_trend:
 
@@ -36,7 +36,7 @@ No previous knowledge required but Python and statistics basics will definitely 
 - [Model ensemble: Explanation](https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/) - Combine multiple models into one for better performance.
 
 ## Data Science using Python
-This list covers only Python, as many are already familiar with this language. [Data Science tutorials using R ★939](https://github.com/ujjwalkarn/DataScienceR).
+This list covers only Python, as many are already familiar with this language. [Data Science tutorials using R ★1075](https://github.com/ujjwalkarn/DataScienceR).
 
 ### Learning Python
 
@@ -73,9 +73,10 @@ This list covers only Python, as many are already familiar with this language. [
 
 ### Various other helpful tools and resources
 
-- [Template folder structure for organizing Data Science projects ★784](https://github.com/drivendata/cookiecutter-data-science)
+- [Template folder structure for organizing Data Science projects ★1167](https://github.com/drivendata/cookiecutter-data-science)
 - [Anaconda Python distribution](https://www.continuum.io/downloads) - Contains most of the important Python packages for Data Science.
-- [LightGBM gradient boosting framework ★4415](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
+- [Natural Language Toolkit](http://www.nltk.org/) - Collection of libraries for working with text-based data.
+- [LightGBM gradient boosting framework ★5705](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
 - [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more timeconsuming calculations (r4.xlarge server is a good place to start).
 
 
@@ -89,9 +90,9 @@ Sorted by increasing complexity.
 
 ## More advanced resources and lists
 
-- [Awesome Data Science ★5132](https://github.com/bulutyazilim/awesome-datascience)
-- [Data Science Python ★2861](https://github.com/ujjwalkarn/DataSciencePython)
-- [Machine Learning Tutorials ★5753](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [Awesome Data Science ★8055](https://github.com/bulutyazilim/awesome-datascience)
+- [Data Science Python ★3107](https://github.com/ujjwalkarn/DataSciencePython)
+- [Machine Learning Tutorials ★7486](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
 ## Contribute
 

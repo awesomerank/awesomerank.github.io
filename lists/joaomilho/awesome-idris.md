@@ -10,7 +10,7 @@ title: Awesome Rank for joaomilho/awesome-idris
 
 
 
-# Awesome Idris [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Awesome Idris [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 [<img src="https://www.idris-lang.org/logo/logo.png" align="right" width="160">](https://www.idris-lang.org/)
 
@@ -30,7 +30,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo ★2236](https://github.com/idris-lang/Idris-dev)
+* [Official repo ★2430](https://github.com/idris-lang/Idris-dev)
 
 ### Articles
 
@@ -43,7 +43,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [Type Driven Development With Idris](https://www.manning.com/books/type-driven-development-with-idris) - Most important book published so far.
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
-* [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2016.pdf) - Repo is [here ★179](https://github.com/idris-hackers/software-foundations).
+* [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2016.pdf) - Repo is [here ★202](https://github.com/idris-hackers/software-foundations).
 
 ### Papers
 
@@ -64,32 +64,32 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Presentations
 
 * [Idris: General Purpose Programming with Dependent Types](https://www.youtube.com/watch?v=vkIlW797JN8) - Presentation by Edwin Brady, Idris' creator.
-* [Dependently Typed Functional Programming in Idris by David Christiansen](https://vimeo.com/117221082) - Here's [2](https://vimeo.com/117973383), [3](https://vimeo.com/117979741) and [notes & exercises ★44 ⏳2Y](https://github.com/david-christiansen/IdrisAtGalois2015).
+* [Dependently Typed Functional Programming in Idris by David Christiansen](https://vimeo.com/117221082) - Here's [2](https://vimeo.com/117973383), [3](https://vimeo.com/117979741) and [notes & exercises ★43 ⏳2Y](https://github.com/david-christiansen/IdrisAtGalois2015).
 
 ### Projects
 
 * [GitHub's trending Idris repos](https://github.com/trending/idris)
-* [iridium ★169 ⏳3Y](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris.
-* [lightyear ★159](https://github.com/ziman/lightyear) - Parser combinators for Idris.
-* [quantities ★116](https://github.com/timjb/quantities) Type-safe physical computations and unit conversions in Idris.
-* [idris-type-providers ★59](https://github.com/david-christiansen/idris-type-providers) - Type provider library for Idris.
-* [IdrisScript ★62](https://github.com/idris-hackers/IdrisScript) - FFI Bindings to interact with the unsafe world of JavaScript.
-* [idris-containers ★56](https://github.com/jfdm/idris-containers) - Various data structures for use in the Idris Language.
-* [IdrisSqlite ★28 ⏳1Y](https://github.com/david-christiansen/IdrisSqlite) - Effectful bindings for SQLite.
-* [idris-http ★24](https://github.com/uwap/idris-http) - HTTP library for Idris.
-* [RingIdris ★17](https://github.com/FranckS/RingIdris) - Ring solver for Idris.
-* [specdris ★31](https://github.com/pheymann/specdris) - Test framework for Idris.
+* [iridium ★175 ⏳3Y](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris.
+* [lightyear ★173](https://github.com/ziman/lightyear) - Parser combinators for Idris.
+* [quantities ★123](https://github.com/timjb/quantities) Type-safe physical computations and unit conversions in Idris.
+* [idris-type-providers ★65](https://github.com/david-christiansen/idris-type-providers) - Type provider library for Idris.
+* [IdrisScript ★70](https://github.com/idris-hackers/IdrisScript) - FFI Bindings to interact with the unsafe world of JavaScript.
+* [idris-containers ★63](https://github.com/jfdm/idris-containers) - Various data structures for use in the Idris Language.
+* [IdrisSqlite ★28](https://github.com/david-christiansen/IdrisSqlite) - Effectful bindings for SQLite.
+* [idris-http ★27](https://github.com/uwap/idris-http) - HTTP library for Idris.
+* [RingIdris ★16](https://github.com/FranckS/RingIdris) - Ring solver for Idris.
+* [specdris ★32](https://github.com/pheymann/specdris) - Test framework for Idris.
 * [idris-config ★16](https://github.com/jfdm/idris-config) - Parsers for various configuration files written in Idris.
-* [probability ★17](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris.
+* [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris.
 * [idris-protobuf ★17](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris.
-* [idris-free ★13](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them.
+* [idris-free ★15](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them.
 
 ### Backends
 
-* [idris-jvm ★216](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode backend for Idris.
-* [idris-llvm ★49](https://github.com/idris-hackers/idris-llvm) - LLVM backend.
-* [idris-erlang ★162](https://github.com/lenary/idris-erlang) - Erlang backend.
-* [idris-malfunction ★60 ⏳1Y](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend.
+* [idris-jvm ★254](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode backend for Idris.
+* [idris-llvm ★59](https://github.com/idris-hackers/idris-llvm) - LLVM backend.
+* [idris-erlang ★165](https://github.com/lenary/idris-erlang) - Erlang backend.
+* [idris-malfunction ★64](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend.
 
 ### Community
 

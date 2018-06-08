@@ -32,13 +32,13 @@ Assembler List
 * *[ILASM - IL Assembler](http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx)*
 >ILAsm (IL Assembler) generates a portable executable (PE) file from Common Intermediate Language (CIL) code
 
-* *[PeachPy ★1081](https://github.com/Maratyszcza/PeachPy)*
+* *[PeachPy ★1132](https://github.com/Maratyszcza/PeachPy)*
 >is an x86-64 assembler embedded in Python which targets high-performance computing audience. PeachPy can generate object files or assembly listings for Windows, Linux, Mac OS X, Native Client, and Go from the same source
 
 * *[FLASM](http://www.nowrap.de/flasm)*
 >Flasm is a free command line assembler/disassembler of Flash ActionScript bytecode. It lets you make changes to any SWF. Flasm fully supports SWFs produced by Macromedia Flash 8 and earlier.
 
-* *[XEDParse ★43 ⏳1Y](https://github.com/x64dbg/XEDParse)*
+* *[XEDParse ★50 ⏳2Y](https://github.com/x64dbg/XEDParse)*
 >XEDParse is an open source (LGPLv3) library for assembling single x86(-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions.
 
 * *[HLA](http://www.plantation-productions.com/Webster/HighLevelAsm/index.html)*
@@ -79,7 +79,7 @@ Disassembler & Debuggers
 * *[Radare2](http://rada.re)*
 >An open-source complete framework for reverse-engineering and analyzing binaries; composed of a set of small utilities that can be used together or independently from the command line.
 
-* *[Plasma ★2554](https://github.com/plasma-disassembler/plasma)*
+* *[Plasma ★2628](https://github.com/plasma-disassembler/plasma)*
 >Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 
 IDE
@@ -137,6 +137,7 @@ External links
 * [GCC-Inline-Assembly-HOWTO](http://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html)
 * [Introductory Intel x86: Architecture, Assembly, Applications & Alliteration](http://opensecuritytraining.info/IntroX86.html)
 * [PC Assembly Language](http://pacman128.github.io/pcasm/)
+* [Programmming Community Curated Resources for Learning Assembly Language](https://hackr.io/tutorials/learn-assembly-language)
 
 ----------
 

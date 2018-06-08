@@ -7,7 +7,7 @@ title: Awesome Rank for addyosmani/critical-path-css-tools
 	This list is a copy of <a href="https://github.com/addyosmani/critical-path-css-tools">addyosmani/critical-path-css-tools</a> with ranks
 </p>
 ---
-Critical-path (Above-the-fold) CSS Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+Critical-path (Above-the-fold) CSS Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 ==========================================
 
 > Tools to help prioritize above-the-fold CSS
@@ -24,42 +24,42 @@ The following is a list of tools to help generate, inline and report on critical
 ## Node modules
 
 
-* [Penthouse ★1676](https://github.com/pocketjoso/penthouse) - by Jonas Ohlsson generates critical-path CSS
-* [Critical](https://github.com/addyosmani/critical) - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust ★119](https://github.com/addyosmani/oust) and inline-styles)
-* [CriticalCSS ★1000 ⏳1Y](https://github.com/filamentgroup/criticalcss) - by FilamentGroup finds & outputs critical CSS
+* [Penthouse ★1798](https://github.com/pocketjoso/penthouse) - by Jonas Ohlsson generates critical-path CSS
+* [Critical](https://github.com/addyosmani/critical) - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust ★122](https://github.com/addyosmani/oust) and inline-styles)
+* [CriticalCSS ★1073 ⏳1Y](https://github.com/filamentgroup/criticalcss) - by FilamentGroup finds & outputs critical CSS
 
 
 ## Server-side modules
 
-* [mod_pagespeed ★479](https://github.com/pagespeed/mod_pagespeed) - Apache module for automatic PageSpeed optimization
-* [ngx_pagespeed ★3662](https://github.com/pagespeed/ngx_pagespeed) - Nginx module for automatic PageSpeed optimization
+* [mod_pagespeed](https://github.com/pagespeed/mod_pagespeed) - Apache module for automatic PageSpeed optimization
+* [ngx_pagespeed](https://github.com/pagespeed/ngx_pagespeed) - Nginx module for automatic PageSpeed optimization
 
 ## Grunt tasks
 
-* [grunt-penthouse ★72 ⏳1Y](https://github.com/fatso83/grunt-penthouse)
-* [grunt-critical-css ★541](https://github.com/filamentgroup/grunt-criticalcss)
-* [grunt-critical ★120](https://github.com/bezoerb/grunt-critical)
+* [grunt-penthouse ★70](https://github.com/fatso83/grunt-penthouse)
+* [grunt-critical-css ★539 ⏳1Y](https://github.com/filamentgroup/grunt-criticalcss)
+* [grunt-critical ★123](https://github.com/bezoerb/grunt-critical)
 
 ## CasperJS
 
-* [critical-css-casperjs ★69 ⏳3Y](https://github.com/ibrennan/critical-css-casperjs) - CasperJS script to pull critical CSS information from pages
+* [critical-css-casperjs ★70 ⏳4Y](https://github.com/ibrennan/critical-css-casperjs) - CasperJS script to pull critical CSS information from pages
 
 ## PhantomJS
 
-* [dr-css-inliner ★76 ⏳3Y](https://github.com/drdk/dr-css-inliner) - PhantomJS script to inline above-the-fold CSS on a page.
+* [dr-css-inliner ★78 ⏳3Y](https://github.com/drdk/dr-css-inliner) - PhantomJS script to inline above-the-fold CSS on a page.
 
 ## Inline sources (styles, scripts)
 
 * [inline-styles ★23 ⏳3Y](https://github.com/maxogden/inline-styles) - by Max Ogden, replaces `<link>` tags with inline `<style>` tags + inlines CSS url() calls with data URIs
-* [gulp-inline-source ★173](https://github.com/fmal/gulp-inline-source) - by Filip Malinowski, replaces `<link>` tags with inline `<style>` tags, and replaces `<script src="">` tags with their inline content
-* [inline-critical ★65](https://github.com/bezoerb/inline-critical) - by Ben Zörb, inline critical path CSS and load existing stylesheets with `loadCSS`
-* [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader/) for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See [React Starter Kit ★16307](https://github.com/kriasoft/react-starter-kit) as an example.
+* [gulp-inline-source ★188](https://github.com/fmal/gulp-inline-source) - by Filip Malinowski, replaces `<link>` tags with inline `<style>` tags, and replaces `<script src="">` tags with their inline content
+* [inline-critical ★72](https://github.com/bezoerb/inline-critical) - by Ben Zörb, inline critical path CSS and load existing stylesheets with `loadCSS`
+* [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader/) for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See [React Starter Kit ★17734](https://github.com/kriasoft/react-starter-kit) as an example.
 
 ## Async load CSS
 
 Async loading should be used to fetch the rest of your site-wide styles after you've inlined your critical-path CSS.
 
-* [loadCSS ★4918](https://github.com/filamentgroup/loadCSS) - loads CSS asynchronously using JS. [Research](https://gist.github.com/scottjehl/87176715419617ae6994) that led to this is also available.
+* [loadCSS ★5340](https://github.com/filamentgroup/loadCSS) - loads CSS asynchronously using JS. [Research](https://gist.github.com/scottjehl/87176715419617ae6994) that led to this is also available.
 * [async & conditional loading](https://gist.github.com/matt-bailey/602b40c77a5d3381ff26) - POC script for loading CSS files asynchronously and conditionally based on body tag classes
 * [asyncLoader ★0 ⏳3Y](https://github.com/n0mad01/asyncLoader) - async script/stylesheet loader
 * [basket.js](http://addyosmani.github.io/basket.js/) - async script/resource loader with support for localStorage caching. Can be [extended ★20 ⏳4Y](https://github.com/andrewwakeling/basket-css-example) to load stylesheets.
@@ -79,13 +79,13 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 ## Render-blocking issues detection
 
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Online tool that measures the performance of a page for mobile devices and desktop devices. It fetches the url twice, once with a mobile user-agent, and once with a desktop-user agent. 
-* [PSI](https://github.com/addyosmani/psi) - Node module for PageSpeed Insights reporting as part of your build process. Use directly with Gulp or use [grunt-pagespeed ★476 ⏳1Y](https://github.com/jrcryer/grunt-pagespeed) if a Grunt user. For local testing, a write-up using this task and [ngrok](http://www.jamescryer.com/2014/06/12/grunt-pagespeed-and-ngrok-locally-testing/) is available.
+* [PSI](https://github.com/addyosmani/psi) - Node module for PageSpeed Insights reporting as part of your build process. Use directly with Gulp or use [grunt-pagespeed ★470 ⏳1Y](https://github.com/jrcryer/grunt-pagespeed) if a Grunt user. For local testing, a write-up using this task and [ngrok](http://www.jamescryer.com/2014/06/12/grunt-pagespeed-and-ngrok-locally-testing/) is available.
 * [PageSpeed Insights DevTools extension](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en) - Chrome extension for running PageSpeed tests from inside the browser.
 * [PageSpeed Insights Checker for mobile extension](https://chrome.google.com/webstore/detail/pagespeed-insights-checke/mkjmodmicmpjedhoekkmafdgpocdkbna?hl=en) - checks Mobile PageSpeed score for every page and gives you a handy preview.
 
 ## Supplementary tools
 
-* [UnCSS](https://github.com/giakki/uncss) removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss), [Gulp ★975](https://github.com/ben-eb/gulp-uncss) and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
+* [UnCSS](https://github.com/giakki/uncss) removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss), [Gulp ★977](https://github.com/ben-eb/gulp-uncss) and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
 
 ---
 <p align="center">

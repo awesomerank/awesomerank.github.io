@@ -7,9 +7,9 @@ title: Awesome Rank for hachiojipm/awesome-perl
 	This list is a copy of <a href="https://github.com/hachiojipm/awesome-perl">hachiojipm/awesome-perl</a> with ranks
 </p>
 ---
-# Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Perl5 frameworks, libraries and software. Inspired by [awesome-go ★26574](https://github.com/avelino/awesome-go).
+A curated list of awesome Perl5 frameworks, libraries and software. Inspired by [awesome-go ★31168](https://github.com/avelino/awesome-go).
 
 Not Perl6 modules ;-P
 
@@ -340,7 +340,7 @@ We also recommend these lists.
 
 * [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
 * [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) - A simple prefork server framework
-* [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman ★4564](https://github.com/ddollar/foreman)
+* [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman ★4706](https://github.com/ddollar/foreman)
 
 ## Profiling
 
@@ -505,11 +505,11 @@ We also recommend these lists.
 
 Other amazingly awesome lists can be found in:
 
-* [bayandin/awesome-awesomeness ★20295](https://github.com/bayandin/awesome-awesomeness)
-* [emijrp/awesome-awesome ★979](https://github.com/emijrp/awesome-awesome)
-* [fleveque/awesome-awesomes ★489 ⏳1Y](https://github.com/fleveque/awesome-awesomes)
-* [sindresorhus/awesome ★73813](https://github.com/sindresorhus/awesome)
-* [t3chnoboy/awesome-awesome-awesome ★1015](https://github.com/t3chnoboy/awesome-awesome-awesome)
+* [bayandin/awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness)
+* [emijrp/awesome-awesome ★1125](https://github.com/emijrp/awesome-awesome)
+* [fleveque/awesome-awesomes ★492 ⏳1Y](https://github.com/fleveque/awesome-awesomes)
+* [sindresorhus/awesome ★85445](https://github.com/sindresorhus/awesome)
+* [t3chnoboy/awesome-awesome-awesome ★1091 ⏳1Y](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
 # How to contribute?
 

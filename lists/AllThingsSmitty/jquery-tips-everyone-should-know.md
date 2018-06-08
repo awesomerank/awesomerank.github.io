@@ -7,11 +7,11 @@ title: Awesome Rank for AllThingsSmitty/jquery-tips-everyone-should-know
 	This list is a copy of <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know">AllThingsSmitty/jquery-tips-everyone-should-know</a> with ranks
 </p>
 ---
-# jQuery Tips Everyone Should Know [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# jQuery Tips Everyone Should Know [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 A collection of simple tips to help up your jQuery game.
 
-> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★73813](https://github.com/sindresorhus/awesome).
+> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★85445](https://github.com/sindresorhus/awesome).
 
 
 ## Table of Contents
@@ -56,7 +56,11 @@ The `$` alias used by jQuery is also used by other JavaScript libraries. To ensu
 jQuery.noConflict();
 ```
 
-Now you'll reference the jQuery object using the `jQuery` variable name instead of `$` (e.g., `jQuery('div p').hide()`).
+Now you'll reference the jQuery object using the `jQuery` variable name instead of `$` (e.g., `jQuery('div p').hide()`). If you have multiple versions of jQuery on the same page, you can use `noConflict()` to set an alias to a specific version:
+
+```javascript
+let $x = jQuery.noConflict();
+```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -169,7 +173,7 @@ $('img').on('error', function () {
 });
 ```
 
-Alternatively, if you wish to simply hide broken images this snippet will take care of that for:
+Alternatively, if you wish to hide broken images this snippet will take care of that for:
 
 ```javascript
 $('img').on('error', function () {
@@ -192,7 +196,7 @@ $.post('sign_up.php', {
 });
 ```
 
-However, all of those `val()` calls are expensive. A better way of collecting the user inputs is using the `serialize()` function which collects the user inputs as a string:
+But, all of those `val()` calls are expensive. A better way of collecting the user inputs is using the `serialize()` function which collects the user inputs as a string:
 
 ```javascript
 $.post('sign_up', $('#sign-up-form').serialize());
@@ -213,7 +217,7 @@ $('.btn').on('hover', function () {
 });
 ```
 
-You just need to add the necessary CSS. If you want an even _simpler_ way use the `toggleClass` method:
+You need to add the necessary CSS. If you want an even _simpler_ way use the `toggleClass` method:
 
 ```javascript
 $('.btn').on('hover', function () {
@@ -276,14 +280,14 @@ $('#showBlocks').on('click', function () {
 });
 ```
 
-Caching jQuery selectors are an easy performance gain.
+Caching jQuery selectors is a good performance gain.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Toggle Fade/Slide
 
-Sliding and fading are something we use plenty in our animations with jQuery. You might just want to show an element when a user clicks something, which makes the `fadeIn` and `slideDown` methods perfect. But if you want that element to appear on the first click and then disappear on the second this will work just fine:
+Sliding and fading are something we use plenty in our animations with jQuery. You might want to show an element when a user clicks something, which makes the `fadeIn` and `slideDown` methods perfect. But if you want that element to appear on the first click and then disappear on the second this will work fine:
 
 ```javascript
 // Fade
@@ -472,8 +476,8 @@ There you go!
 If you want to disable right-click, you can do it for an entire page...
 
 ```javascript
-$(document).ready(function() {
-  $(document).bind('contextmenu', function(e) {
+$(document).ready(function () {
+  $(document).bind('contextmenu', function (e) {
     return false;
   })
 })
@@ -482,8 +486,8 @@ $(document).ready(function() {
 ...but you can also do the same for a specific element:
 
 ```javascript
-$(document).ready(function() {
-  $('#submit').bind('contextmenu', function(e) {
+$(document).ready(function () {
+  $('#submit').bind('contextmenu', function (e) {
     return false;
   })
 })
@@ -504,6 +508,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 * [Español](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/es-ES)
 * [Français](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/fr-FR)
 * [Magyar](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/hu-HU)
+* [Português do Europe](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT)
 * [Pусский](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
 * [简体中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)
 * [繁體中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)

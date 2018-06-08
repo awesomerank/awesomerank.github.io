@@ -7,7 +7,7 @@ title: Awesome Rank for lvwzhen/tools
 	This list is a copy of <a href="https://github.com/lvwzhen/tools">lvwzhen/tools</a> with ranks
 </p>
 ---
-# Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Web Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 >An awesome list of hosted tools for web development.
 
@@ -96,21 +96,20 @@ title: Awesome Rank for lvwzhen/tools
 * [Alibench](http://alibench.com/)
 * [Webkaka](http://pagespeed.webkaka.com/)
 * [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
+* [GTmetrix](https://gtmetrix.com/)
 
 ### Color
 
 * [nipponcolors](http://nipponcolors.com/)
 * [flatuicolors](http://flatuicolors.com/)
-* [ios7colors](http://ios7colors.com/)
 * [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 * [color-hex](http://www.color-hex.com/)
-* [colors ★8015](https://github.com/mrmrs/colors)
+* [colors ★8191](https://github.com/mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 * [randomColor](https://randomcolor.llllll.li/)
-* [Please JS](http://www.checkman.io/please/)
 * [colourco.de](http://colourco.de)
 * [flatuicolorpicker](http://www.flatuicolorpicker.com/)
-* [krmp.cc ★2](https://github.com/dadleyy/krmp.cc)
+* [krmp.cc ★2 ⏳1Y](https://github.com/dadleyy/krmp.cc)
 
 ### Font
 
@@ -121,7 +120,7 @@ title: Awesome Rank for lvwzhen/tools
 * [fonts2u](http://www.fonts2u.com/index.html)
 * [webfonts](http://www.fonts.com/web-fonts)
 * [justfont](http://www.justfont.com/)
-* [iconpark ★331 ⏳1Y](https://github.com/lvwzhen/iconpark)
+* [iconpark ★338 ⏳2Y](https://github.com/lvwzhen/iconpark)
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
 

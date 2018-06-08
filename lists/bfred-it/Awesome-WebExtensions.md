@@ -28,7 +28,6 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 - [Chrome Extensions API](https://developer.chrome.com/extensions/api_index) - Comprehensive documentation on the original API provided by Chrome.
 - [Mozilla's WebExtensions documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) - MDN wiki for the WebExtensions API.
 - [Browser support for WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) - Compatibility table for Chrome, Edge, Firefox, and Opera.
-- [Mozilla Firefox API support](http://arewewebextensionsyet.com) - Detailed WebExtensions support for Firefox.
 - [Microsoft Edge API support](https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap) - Detailed WebExtensions support for Edge.
 - [Safari Extensions documentation](https://developer.apple.com/safari/extensions/) - Developer documentation on building Safari extensions
 - [Opera API support](https://dev.opera.com/extensions/apis/) - Detailed WebExtensions support for Opera.
@@ -48,43 +47,44 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 
 Code meant become part of the extension.
 
-- [webext-options-sync ★15](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
-- [webext-inject-on-install ★1](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox.
-- [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux ★36568](https://github.com/reactjs/redux) for managing the state of your WebExtension
-- [mozilla/webextension-polyfill ★238](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
+- [webext-options-sync ★25](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
+- [webext-inject-on-install ★5 ⏳1Y](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox.
+- [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux](https://github.com/reactjs/redux) for managing the state of your WebExtension
+- [mozilla/webextension-polyfill ★347](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
 
 ## Tools
 
 Apps that help you manage your extensions.
 
-- [Chrome Webstore Upload ★64](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
-- [mozilla/web-ext ★316](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
-- [chromepet ★12 ⏳3Y](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
-- [chrome-ext-downloader ★17 ⏳2Y](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
-- [unzip-crx ★9 ⏳1Y](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files.
+- [Chrome Webstore Upload ★113](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
+- [mozilla/web-ext ★429](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
+- [chromepet ★15 ⏳3Y](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
+- [chrome-ext-downloader ★22 ⏳3Y](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
+- [unzip-crx ★12 ⏳1Y](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files.
 - [chrome-store-api ★10 ⏳1Y](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
-- [Chrome extension source viewer ★216](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
+- [Chrome extension source viewer ★273](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
+- [@wext/shipit ★6](https://github.com/LinusU/wext-shipit) - Tool to automatically publish to Goole Webstore, Mozilla Addons and Opera Addons.
 
 ## Testing
 
-- [sinon-chrome ★217](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
+- [sinon-chrome ★251](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
 - [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines.
 
 ## Boilerplates
 
-- [create-webextension ★5](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
+- [create-webextension ★8](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
-- [generator-web-extension ★1](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
-- [react-chrome-extension-boilerplate ★855](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
+- [generator-web-extension ★34](https://github.com/HaNdTriX/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
+- [react-chrome-extension-boilerplate ★1026](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
 
 ## Sample Extensions
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI.
 
-- [npmhub ★298](https://github.com/npmhub/npmhub)
-- [Hide Files on GitHub ★180](https://github.com/sindresorhus/hide-files-on-github)
-- [Refined GitHub ★2953](https://github.com/sindresorhus/refined-github)
-- [mdn/webextension-examples ★965](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
+- [npmhub ★328](https://github.com/npmhub/npmhub)
+- [Hide Files on GitHub ★187](https://github.com/sindresorhus/hide-files-on-github)
+- [Refined GitHub ★5152](https://github.com/sindresorhus/refined-github)
+- [mdn/webextension-examples ★1241](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
 
 ## License
 

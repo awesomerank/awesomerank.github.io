@@ -7,11 +7,9 @@ title: Awesome Rank for avajs/awesome-ava
 	This list is a copy of <a href="https://github.com/avajs/awesome-ava">avajs/awesome-ava</a> with ranks
 </p>
 ---
-# Awesome AVA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome) [<img src="https://github.com/avajs/ava/raw/master/media/header.png" width="280" align="right" alt="AVA">](https://ava.li)
+# Awesome AVA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://github.com/avajs/ava/raw/master/media/header.png" width="280" align="right" alt="AVA">](https://ava.li)
 
 > [AVA](https://ava.li) is a minimal & futuristic JavaScript test runner
-
-*Please read the [contribution guidelines](https://github.com/avajs/awesome-ava/blob/master/contributing.md) before contributing.*
 
 
 ## Contents
@@ -42,40 +40,39 @@ title: Awesome Rank for avajs/awesome-ava
 
 ## Packages
 
-- [eslint-plugin-ava ★144](https://github.com/avajs/eslint-plugin-ava) - ESLint rules.
+- [eslint-plugin-ava ★157](https://github.com/avajs/eslint-plugin-ava) - ESLint rules.
 - [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions.
-- [sublime-ava ★40 ⏳1Y](https://github.com/avajs/sublime-ava) - Snippets for Sublime.
-- [atom-ava ★92](https://github.com/avajs/atom-ava) - Snippets for Atom.
-- [vscode-ava ★20](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code.
-- [vim-ava-snippets ★16 ⏳1Y](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim.
-- [ava-spec ★149](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers.
-- [redux-ava ★180](https://github.com/sotojuan/redux-ava) - Test helpers for Redux.
-- [redux-test-recorder ★425 ⏳1Y](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app.
-- [gulp-ava ★53](https://github.com/avajs/gulp-ava) - Run tests with Gulp.
+- [sublime-ava ★39 ⏳2Y](https://github.com/avajs/sublime-ava) - Snippets for Sublime.
+- [atom-ava ★93](https://github.com/avajs/atom-ava) - Snippets for Atom.
+- [vscode-ava ★21](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code.
+- [vim-ava-snippets ★17 ⏳2Y](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim.
+- [ava-spec ★154](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers.
+- [redux-ava ★183](https://github.com/sotojuan/redux-ava) - Test helpers for Redux.
+- [redux-test-recorder ★449 ⏳1Y](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app.
+- [gulp-ava ★54](https://github.com/avajs/gulp-ava) - Run tests with Gulp.
 - [grunt-ava ★7](https://github.com/avajs/grunt-ava) - Run tests with Grunt.
 - [fly-ava](https://github.com/pine/fly-ava) - Run tests with Fly.
-- [start-ava ★6](https://github.com/start-runner/ava) - Run tests with Start.
-- [sigh-ava ★0](https://github.com/unlight/sigh-ava) - Run tests with Sigh.
-- [ava-rethinkdb ★25](https://github.com/rrdelaney/ava-rethinkdb) - Test helpers for RethinkDB.
-- [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) - Test [ESLint ★9679](https://github.com/eslint/eslint) plugins with AVA.
-- [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift ★2839](https://github.com/facebook/jscodeshift) codemods with AVA.
-- [ava-preact-init ★9 ⏳1Y](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact.
-- [ava-check](https://github.com/leebyron/testcheck-js/tree/master/integrations/ava-check) - Generative property testing with [`TestCheck.js` ★739](https://github.com/leebyron/testcheck-js).
-- [ava-fixture ★2](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA.
-- [ava-playback ★93](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests.
+- [start-ava ★6 ⏳1Y](https://github.com/start-runner/ava) - Run tests with Start.
+- [sigh-ava ★0 ⏳1Y](https://github.com/unlight/sigh-ava) - Run tests with Sigh.
+- [ava-rethinkdb ★26](https://github.com/rrdelaney/ava-rethinkdb) - Test helpers for RethinkDB.
+- [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) - Test [ESLint ★11458](https://github.com/eslint/eslint) plugins with AVA.
+- [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift ★3292](https://github.com/facebook/jscodeshift) codemods with AVA.
+- [ava-preact-init ★8 ⏳1Y](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact.
+- [ava-fixture ★4](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA.
+- [ava-playback ★103](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests.
 
 
 ## Works with AVA
 
-- [Spectron ★838](https://github.com/electron/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
-- [Chūhai ★72 ⏳1Y](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js.
-- [Leakage ★1177](https://github.com/andywer/leakage#usage-with-ava--tape) - Memory leak testing.
-- [pify ★748](https://github.com/sindresorhus/pify) - Promisify callback-style functions for better testing. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6)
-- [p-event ★197](https://github.com/sindresorhus/p-event) - Promisify an event. [(Example)](https://github.com/sindresorhus/gulp-debug/blob/4db5871594742a346d17aa9b34f43c87d4e54934/test.js#L42-L44)
-- [execa ★927](https://github.com/sindresorhus/execa) - Test your CLI tools. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6)
-- [delay ★168](https://github.com/sindresorhus/delay) - Add delays to your tests. [(Example)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39)
-- [get-stream ★88 ⏳1Y](https://github.com/sindresorhus/get-stream) - Test the output of streams. [(Example)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35)
-- [create-test-server ★23](https://github.com/lukechilds/create-test-server) - Creates a minimal Express server for testing. [(Example)](https://github.com/lukechilds/clone-response/blob/11f5870e4e1b039e2d9a8f1f72d45fd1b9706bf3/test/clone-response.js)
+- [Spectron ★973](https://github.com/electron/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
+- [Chūhai ★76 ⏳1Y](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js.
+- [Leakage ★1240](https://github.com/andywer/leakage#usage-with-ava--tape) - Memory leak testing.
+- [pify ★945](https://github.com/sindresorhus/pify) - Promisify callback-style functions for better testing. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6)
+- [p-event ★212](https://github.com/sindresorhus/p-event) - Promisify an event. [(Example)](https://github.com/sindresorhus/gulp-debug/blob/4db5871594742a346d17aa9b34f43c87d4e54934/test.js#L42-L44)
+- [execa ★1293](https://github.com/sindresorhus/execa) - Test your CLI tools. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6)
+- [delay ★223](https://github.com/sindresorhus/delay) - Add delays to your tests. [(Example)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39)
+- [get-stream ★109 ⏳1Y](https://github.com/sindresorhus/get-stream) - Test the output of streams. [(Example)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35)
+- [create-test-server ★39](https://github.com/lukechilds/create-test-server) - Creates a minimal Express server for testing. [(Example)](https://github.com/lukechilds/clone-response/blob/11f5870e4e1b039e2d9a8f1f72d45fd1b9706bf3/test/clone-response.js)
 
 
 ## Tutorials
@@ -85,14 +82,14 @@ title: Awesome Rank for avajs/awesome-ava
 
 ## Miscellaneous
 
-- [Stickers](https://www.stickermule.com/user/1070705604/stickers)
+- [Stickers, t-shirts, etc](https://www.redbubble.com/people/sindresorhus/works/30330590-ava-logo) - The products are sold at production price without any markup.
 - [Slides from AVA talk at London Node User Group](https://speakerdeck.com/novemberborn/ava-at-lnug) - By core team member [Mark Wubben](https://github.com/novemberborn).
 
 
 ## Support
 
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
-- [Gitter chat](https://gitter.im/avajs/ava)
+- [Spectrum](https://spectrum.chat/ava)
 - [Twitter](https://twitter.com/ava__js)
 
 

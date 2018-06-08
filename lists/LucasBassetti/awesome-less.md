@@ -7,7 +7,7 @@ title: Awesome Rank for LucasBassetti/awesome-less
 	This list is a copy of <a href="https://github.com/LucasBassetti/awesome-less">LucasBassetti/awesome-less</a> with ranks
 </p>
 ---
-# Awesome Less [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★73813](https://github.com/sindresorhus/awesome)
+# Awesome Less [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/LucasBassetti/awesome-less/14437854/less-logo.svg" align="right" height="80">](http://lesscss.org/)
 
@@ -55,23 +55,23 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Learn in 10 Minutes](http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/)
 - [Official Guide](http://lesscss.org/)
-- [Official Repository ★15269](https://github.com/less/less.js)
+- [Official Repository ★15554](https://github.com/less/less.js)
 
 **[Back to top](#contents)**
 
 ## UI/Theme Frameworks and Components
 
 - [1pxdeep](http://rriepe.github.io/1pxdeep/) - Brings designing by relative visual weight, or designing with color schemes, to Bootstrap.
-- [Ant Design ★21077](https://github.com/ant-design/ant-design) - 	An enterprise-class UI design language and React-based implementation.
-- [Bootstrap a11y theme ★30 ⏳3Y](https://github.com/bassjobsen/bootstrap-a11y-theme) - Makes web accessibility easier for Bootstrap developers.
+- [Ant Design ★29349](https://github.com/ant-design/ant-design) - 	An enterprise-class UI design language and React-based implementation.
+- [Bootstrap a11y theme ★31 ⏳4Y](https://github.com/bassjobsen/bootstrap-a11y-theme) - Makes web accessibility easier for Bootstrap developers.
 - [Bootstrap 3](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Bootswatch](http://bootswatch.com/) - Collection of free themes for Bootstrap.
 - [Cardinal](http://cardinalcss.com/) - Small "mobile first" CSS framework for front-end developers who build responsive web applications.
-- [CSSHórus ★74 ⏳3Y](https://github.com/firminoweb/csshorus) - 	Library for development of responsive and mobile websites.
+- [CSSHórus ★73 ⏳4Y](https://github.com/firminoweb/csshorus) - 	Library for development of responsive and mobile websites.
 - [Flat UI Free](http://designmodo.github.io/Flat-UI/) - Theme and framework for Bootstrap.
 - [JBST](http://jbst.eu/) - Theme framework that can be used as a standalone website builder or to create WordPress themes.
-- [Less Rails ★347](https://github.com/metaskills/less-rails) - Less for Rails.
-- [Material Design for Bootstrap ★18870](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.
+- [Less Rails ★348](https://github.com/metaskills/less-rails) - Less for Rails.
+- [Material Design for Bootstrap ★19296](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.
 - [Metro UI CSS](http://metroui.org.ua/) - Set of styles to create a site with an interface similar to Windows 8.
 - [Schema](http://danmalarkey.github.io/schema/) - 	Light, responsive, and lean frontend UI framework.
 - [Semantic UI](http://semantic-ui.com/) - UI component framework based around useful principles from natural language.
@@ -84,20 +84,20 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### Grid
 
-- [Bootstrap Grid Only ★431](https://github.com/zirafa/bootstrap-grid-only) - Bootstrap's responsive grid and responsive utility classes only, without any extras. Lightweight yet still powerful. Style to taste.
-- [Framework ★730 ⏳1Y](https://github.com/jonikorpi/Less-Framework) - Less Framework is a CSS grid system for designing adaptive web sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid.
+- [Bootstrap Grid Only ★452](https://github.com/zirafa/bootstrap-grid-only) - Bootstrap's responsive grid and responsive utility classes only, without any extras. Lightweight yet still powerful. Style to taste.
+- [Framework ★727 ⏳1Y](https://github.com/jonikorpi/Less-Framework) - Less Framework is a CSS grid system for designing adaptive web sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid.
 - [Flexible Grid System](http://flexible.gs/) - This framework will let you create your web applications in a flexible way that you've never experienced before.
 - [Fluidable](http://fluidable.com/) - Fluidable is a mobile first, responsive grid system. It is standalone, lightweight & built using Less.
-- [Grid System ★5 ⏳2Y](https://github.com/goodpixels/less-grid-system) - Super-easy to use, markup-independent grid system.
-- [Less Zen Grid](https://github.com/bassjobsen/LESS-Zen-Grid) - Implementation of [Zen Grids ★248](https://github.com/JohnAlbin/zen-grids) in Less.
-- [Order.Less ★20](https://github.com/chromice/order.less) - Baseline alignment, column grids and modular scales.
+- [Grid System ★7 ⏳2Y](https://github.com/goodpixels/less-grid-system) - Super-easy to use, markup-independent grid system.
+- [Less Zen Grid](https://github.com/bassjobsen/LESS-Zen-Grid) - Implementation of [Zen Grids ★249](https://github.com/JohnAlbin/zen-grids) in Less.
+- [Order.Less ★21](https://github.com/chromice/order.less) - Baseline alignment, column grids and modular scales.
 
 **[Back to top](#contents)**
 
 ### Media Queries
 
 - [CSS and Media Query Strategies ★17 ⏳5Y](https://github.com/buymeasoda/less-media-queries) - Using Less CSS to develop a media query driven solution for modern and legacy browsers.
-- [Media Queries Library ★7 ⏳2Y](https://github.com/mrmlnc/less-mq) - Really simple media queries in Less.
+- [Media Queries Library ★9 ⏳2Y](https://github.com/mrmlnc/less-mq) - Really simple media queries in Less.
 - [Media Query to Type ★10 ⏳4Y](https://github.com/himedlooff/media-query-to-type) - A method for creating an IE specific stylesheet that allows the content of media queries to become accessible to Internet Explorer 8 and below.
 
 **[Back to top](#contents)**
@@ -106,15 +106,15 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [Brand Colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
-- [Open Color ★3061](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
+- [Open Color ★3284](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 
 **[Back to top](#contents)**
 
 ### Animation
 
-- [Animate ★40](https://github.com/joshuapekera/animate) - A library of CSS3 keyframe animations authored using Less.
-- [Animate Less ★534](https://github.com/machito/animate.less) - Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) to Less.
-- [Cube Less ★49](https://github.com/sparanoid/cube.less) - 3D (animated) cube using only CSS (Less), originally used by LeanCloud (aka. AVOS Cloud).
+- [Animate ★42](https://github.com/joshuapekera/animate) - A library of CSS3 keyframe animations authored using Less.
+- [Animate Less ★535](https://github.com/machito/animate.less) - Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) to Less.
+- [Cube Less ★49 ⏳1Y](https://github.com/sparanoid/cube.less) - 3D (animated) cube using only CSS (Less), originally used by LeanCloud (aka. AVOS Cloud).
 - [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on.
 - [Less Burguer ★5 ⏳2Y](https://github.com/MarkRabey/less-burger) - Port of [Sass Burger](http://joren.co/sass-burger/) to Less.
 
@@ -123,32 +123,32 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ### Miscellaneous
 
 - [3L](http://mateuszkocz.github.io/3l/) - Mixins library.
-- [Bidi ★12 ⏳1Y](https://github.com/danielkatz/less-bidi) - Set of mixins for creating bi-directional styling.
+- [Bidi ★12 ⏳2Y](https://github.com/danielkatz/less-bidi) - Set of mixins for creating bi-directional styling.
 - [Clearless](http://clearleft.github.io/clearless/) - 	Collection of mixins.
 - [Css3LessPlease](http://chrsr.com/css3lessplease/) - Conversion of css3please.com to Less mixins.
 - [CssEffects](http://adodson.com/css-effects/) - 	Collection of CSS style effects.
 - [Cssowl](http://cssowl.owl-stars.com/) - Mixin library.
-- [Dynamic Stylesheet ★106 ⏳3Y](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) - Set of useful mixins.
-- [Est ★349](https://github.com/ecomfe/est) - 	Mixin library.
+- [Dynamic Stylesheet ★104 ⏳3Y](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) - Set of useful mixins.
+- [Est ★358](https://github.com/ecomfe/est) - 	Mixin library.
 - [Hexagon](http://db0company.github.io/css-hexagon/) - Generate CSS hexagons with custom size and color.
-- [Homeless ★37 ⏳2Y](https://github.com/pixelass/homeless) - Helpful functions.
+- [Homeless ★37 ⏳3Y](https://github.com/pixelass/homeless) - Helpful functions.
 - [Less Elements](http://lesselements.com/) - Set of basic mixins.
-- [Lesshat ★2243](https://github.com/madebysource/lesshat) - Smart mixins library.
+- [Lesshat ★2255](https://github.com/madebysource/lesshat) - Smart mixins library.
 - [Lessley ★8 ⏳3Y](https://github.com/pixelass/lessley) - 	A jasmine like testing suite written in pure Less.
-- [Lessmore ★2](https://github.com/belyan/lessmore) - 	Mixins library. Cross-browser support for the CSS3 features and more.
-- [Normalize](https://github.com/segundofdez/normalize.less) - 	Modularized famous [normalize.css ★29026](https://github.com/necolas/normalize.css) using Less.
+- [Lessmore ★2 ⏳1Y](https://github.com/belyan/lessmore) - 	Mixins library. Cross-browser support for the CSS3 features and more.
+- [Normalize](https://github.com/segundofdez/normalize.less) - 	Modularized famous [normalize.css ★31266](https://github.com/necolas/normalize.css) using Less.
 - [Oban](http://oban.io/) - 	Collection of mixins.
-- [Preboot ★1744 ⏳1Y](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS.
+- [Preboot ★1738 ⏳2Y](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS.
 - [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
-- [Shape ★34 ⏳4Y](https://github.com/fahad19/shape.less) - Collection of mixins for various shapes.
+- [Shape ★35 ⏳4Y](https://github.com/fahad19/shape.less) - Collection of mixins for various shapes.
 - [TRRtoolbelt ★2 ⏳4Y](https://github.com/therebelrobot/tRRtoolbelt.less) - Mixins and functions for common actions.
 
 **[Back to top](#contents)**
 
 ## Style Guides
 
-- [Handshake Style Guide ★3 ⏳1Y](https://github.com/handshake/less-style-guide) - This guide presents a collection of best-practices and coding conventions.
-- [WebMD Health Services Style Guide ★2 ⏳3Y](https://github.com/bitmap/less-styleguide) - This document outlines CSS/Less best practices at WebMD Health Services.
+- [Handshake Style Guide ★5 ⏳1Y](https://github.com/handshake/less-style-guide) - This guide presents a collection of best-practices and coding conventions.
+- [WebMD Health Services Style Guide ★2 ⏳4Y](https://github.com/bitmap/less-styleguide) - This document outlines CSS/Less best practices at WebMD Health Services.
 
 **[Back to top](#contents)**
 
@@ -156,12 +156,12 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### Java
 
-- [JLessC ★30](https://github.com/i-net-software/jlessc) - Less compiler written completely in Java.
-- [Less Engine ★229 ⏳2Y](https://github.com/Asual/lesscss-engine) - Runs Less in the Rhino JVM-based JavaScript interpreter.
-- [Less CSS Compiler for Java ★167](https://github.com/marceloverdijk/lesscss-java) - Runs Less in the Rhino JVM-based JavaScript interprete.
-- [Less4j ★133 ⏳1Y](https://github.com/SomMeri/less4j) - Native Java implementation.
+- [JLessC ★32](https://github.com/i-net-software/jlessc) - Less compiler written completely in Java.
+- [Less Engine ★228 ⏳3Y](https://github.com/Asual/lesscss-engine) - Runs Less in the Rhino JVM-based JavaScript interpreter.
+- [Less CSS Compiler for Java ★165 ⏳1Y](https://github.com/marceloverdijk/lesscss-java) - Runs Less in the Rhino JVM-based JavaScript interprete.
+- [Less4j ★132 ⏳1Y](https://github.com/SomMeri/less4j) - Native Java implementation.
 - [Lesscss ★8 ⏳2Y](https://github.com/houbie/lesscss) - Runs Less using Rhino, Nasshorn or node.js engine; 1.7.0 compliant.
-- [Lesscss Gradle Plugin ★11 ⏳2Y](https://github.com/houbie/lesscss-gradle-plugin) - Gradle plugin based on Less.
+- [Lesscss Gradle Plugin ★11](https://github.com/houbie/lesscss-gradle-plugin) - Gradle plugin based on Less.
 
 **[Back to top](#contents)**
 
@@ -174,7 +174,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### PHP
 
-- [ILess ★40](https://github.com/mishal/iless) - PHP port written in Javascript.
+- [ILess ★44 ⏳1Y](https://github.com/mishal/iless) - PHP port written in Javascript.
 - [Lessphp](http://leafo.net/lessphp/) - Compiler written in PHP.
 - [Less.php](http://lessphp.gpeasy.com/) - PHP port.
 
@@ -182,46 +182,46 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### Python
 
-- [Pyhton Compiler ★106 ⏳1Y](https://github.com/lesscpy/lesscpy) - Compiler written in Python.
+- [Pyhton Compiler ★113](https://github.com/lesscpy/lesscpy) - Compiler written in Python.
 
 **[Back to top](#contents)**
 
 ### Ruby
 
-- [Ruby Compiler ★117](https://github.com/cowboyd/less.rb) - Less in Ruby's V8 Engine.
+- [Ruby Compiler ★114 ⏳1Y](https://github.com/cowboyd/less.rb) - Less in Ruby's V8 Engine.
 
 **[Back to top](#contents)**
 
 ### Go
 
-- [Go Compiler ★12](https://github.com/kib357/less-go) - Runs Less inside embedded Javascript engine.
+- [Go Compiler ★14](https://github.com/kib357/less-go) - Runs Less inside embedded Javascript engine.
 
 **[Back to top](#contents)**
 
 ## GUIs, Editors and Plugins
 
-- [Atom Linter ★14](https://github.com/josa42/atom-linter-less) - Linter plugin in the Atom text editor.
+- [Atom Linter ★14 ⏳1Y](https://github.com/josa42/atom-linter-less) - Linter plugin in the Atom text editor.
 - [CSS 2 Convert](http://css2less.co/) - Quick way to automatically convert CSS to Less, easy as copy and paste.
-- [CSS Less(ish) ★47 ⏳2Y](https://github.com/kizza/CSS-Less-ish) - Sublime Text 2 & 3 plugin that implements a stripped down version of the functionality in css preprocessors (such as Less).
+- [CSS Less(ish) ★50 ⏳3Y](https://github.com/kizza/CSS-Less-ish) - Sublime Text 2 & 3 plugin that implements a stripped down version of the functionality in css preprocessors (such as Less).
 - [Crunch 2!](http://getcrunch.co/) - Crunch 2 is a cross-platform (Windows, Mac, and Linux) editor with integrated compiling. If you work with large Less projects, you should definitely try it out, as you only need the free version for Less files.
 - [Diamond](https://diamond.js.org) - Dependency management built for Sass, Less, and CSS.
 - [Eclipse Less Plugin](http://www.normalesup.org/~simonet/soft/ow/eclipse-less.html) - This plugin extends the Eclipse IDE by providing handy features to edit and compile Less stylesheets.
 - [Eclipse Transpiler Plugin ★19](https://github.com/gossi/eclipse-transpiler-plugin) - Eclipse plugin to automatically transpile your files (Less, SASS, CoffeeScript, etc.).
 - [Emacs ★106](https://github.com/purcell/less-css-mode) - Emacs mode with support for compile-on-save.
-- [Grunt Contrib ★695](https://github.com/gruntjs/grunt-contrib-less) - Compile Less files to CSS using Grunt.
-- [Grunt Lint ★78](https://github.com/jgable/grunt-lesslint) - Lint your Less files using CSS Lint from Grunt.
+- [Grunt Contrib ★704](https://github.com/gruntjs/grunt-contrib-less) - Compile Less files to CSS using Grunt.
+- [Grunt Lint ★79 ⏳1Y](https://github.com/jgable/grunt-lesslint) - Lint your Less files using CSS Lint from Grunt.
 - [Gulp Less](https://github.com/plus3network/gulp-less) - Plugin for Gulp.
-- [Hayaky ★935 ⏳1Y](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development.
-- [Hyra Helper ★27 ⏳2Y](https://github.com/Hyra/less) - CakePHP plugin that converts your Less files to CSS using only PHP.
+- [Hayaky ★945 ⏳2Y](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development.
+- [Hyra Helper ★27 ⏳3Y](https://github.com/Hyra/less) - CakePHP plugin that converts your Less files to CSS using only PHP.
 - [Koala](http://koala-app.com/) - Koala is a cross-platform GUI application for compiling Less, sass and coffeescript.
-- [Less for Notepad++ ★60](https://github.com/azrafe7/LESS-for-Notepad-plusplus) - Syntax Highlighting for Notepad++.
-- [Less Sublime ★514](https://github.com/danro/Less-sublime) - Syntax highlighting for Sublime Text.
-- [Lesshint ★102](https://github.com/lesshint/lesshint) - Tool to aid you in writing clean and consistent Less.
+- [Less for Notepad++ ★61 ⏳1Y](https://github.com/azrafe7/LESS-for-Notepad-plusplus) - Syntax Highlighting for Notepad++.
+- [Less Sublime ★508](https://github.com/danro/Less-sublime) - Syntax highlighting for Sublime Text.
+- [Lesshint ★111](https://github.com/lesshint/lesshint) - Tool to aid you in writing clean and consistent Less.
 - [LiveReload](http://livereload.com/) - CSS edits and image changes apply live. CoffeeScript, SASS, Less and others just work.
 - [SimpleLess](https://wearekiss.com/simpless) - SimpleLess is a minimalistic Less compiler. Just drag, drop and compile.
-- [Sublime Less2CSS ★206](https://github.com/timdouglas/sublime-less2css) - Sublime Text 2 Plugin to compile Less files to css on save.
-- [SublimeOnSaveBuild ★227 ⏳1Y](https://github.com/alexnj/SublimeOnSaveBuild) - Trigger a build the moment you save a file in Sublime Text 2. Works best with web projects that make use of Less, Compass and any other pre-processor or a makefile.
-- [Vim Less ★597 ⏳1Y](https://github.com/groenewege/vim-less) - This vim bundle adds syntax highlighting, indenting and autocompletion.
+- [Sublime Less2CSS ★203 ⏳1Y](https://github.com/timdouglas/sublime-less2css) - Sublime Text 2 Plugin to compile Less files to css on save.
+- [SublimeOnSaveBuild ★230](https://github.com/alexnj/SublimeOnSaveBuild) - Trigger a build the moment you save a file in Sublime Text 2. Works best with web projects that make use of Less, Compass and any other pre-processor or a makefile.
+- [Vim Less ★599 ⏳2Y](https://github.com/groenewege/vim-less) - This vim bundle adds syntax highlighting, indenting and autocompletion.
 - [Visual Studio Web Essentials](http://vswebessentials.com/) - If you ever write CSS, HTML, JavaScript, TypeScript, CoffeeScript or Less, then you will find many useful features that make your life as a developer easier.
 - [Winless](http://lesscss.org/usage/#editors-and-plugins) - WinLess started out as a clone of Less.app, it takes a more feature-complete approach and has several settings. It also supports starting with command line arguments.
 
@@ -231,7 +231,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [BeautifyTools Less Compiler](http://beautifytools.com/less-compiler.php) - Online Less compiler with optional formatting and minification at [BeautifyTools](http://beautifytools.com/).
 - [EstFiddle](http://ecomfe.github.io/est/fiddle/) - Online Less compiler providing live demo for Less and est. Allowing users to switch among all versions of Less after 1.4.0 with optional est/Autoprefixer functionalities.
-- [ILess](http://demo-iless.rhcloud.com/) - Live demo of [ILess ★40](https://github.com/mishal/iless) PHP compiler.
+- [ILess](http://demo-iless.rhcloud.com/) - Live demo of [ILess ★44 ⏳1Y](https://github.com/mishal/iless) PHP compiler.
 - [Leafo](http://leafo.net/lessphp/editor.html) - [Lessphp](http://leafo.net/lessphp/) live demo.
 - [Less2CSS](http://less2css.org/) - Online Integrated Development Environment (IDE) that is hosted in a browser allowing users to edit and compile Less to CSS in real-time.
 - [LessPHP](http://lessphp.gpeasy.com/demo) - [Less.php](http://lessphp.gpeasy.com/) live demo.
