@@ -211,7 +211,7 @@ See also [A comparison of operating systems written in Rust ★168](https://gith
 * [mmstick/fontfinder ★132](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 * [mmstick/parallel ★913](https://github.com/mmstick/parallel) — Reimplementation of GNU Parallel
 * [mmstick/systemd-manager ★462](https://github.com/mmstick/systemd-manager) — a systemd service manager written in Rust using GTK-rs.
-* [mmstick/tv-renamer ★105](https://github.com/mmstick/tv-renamer) — a tv series renaming application with an optional GTK3 frontend. [<img src="https://api.travis-ci.org/mmstick/tv-renamer.svg?branch=master">](https://travis-ci.org/mmstick/tv-renamer)
+* [mmstick/tv-renamer ★105 ⏳1Y](https://github.com/mmstick/tv-renamer) — a tv series renaming application with an optional GTK3 frontend. [<img src="https://api.travis-ci.org/mmstick/tv-renamer.svg?branch=master">](https://travis-ci.org/mmstick/tv-renamer)
 * [ogham/exa ★4398](https://github.com/ogham/exa) — a replacement for 'ls' [<img src="https://api.travis-ci.org/ogham/exa.svg?branch=master">](https://travis-ci.org/ogham/exa)
 * [Ralvke/logram ★7](https://github.com/Ralvke/logram) — Push log files' updates to Telegram [<img src="https://api.travis-ci.org/Ralvke/logram.svg?branch=master">](https://travis-ci.org/Ralvke/logram)
 * [redox-os/ion ★604](https://github.com/redox-os/ion) — Next-generation system shell [<img src="https://api.travis-ci.org/redox-os/ion.svg?branch=master">](https://travis-ci.org/redox-os/ion)

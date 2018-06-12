@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) |  :penguin: | 835 | June 04, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) |  :penguin: | 836 | June 09, 2018
 
 ### Contents
 
@@ -371,7 +371,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [AwesomeCache ★1125](https://github.com/aschuch/AwesomeCache) - Manage cache easy.
 * [Cache ★1257](https://github.com/hyperoslo/Cache) - Nothing but Cache.
 * [Cachyr ★99](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS.
-* [Carlos ★482](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
+* [Carlos ★484](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 * [EVURLCache ★270](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.
 
 ### Chart
@@ -794,7 +794,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [LayoutLess ★250](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
 * [ManualLayout ★273](https://github.com/isair/ManualLayout) - Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.
 * [Neon ★4299](https://github.com/mamaral/Neon) - A powerful programmatic UI layout framework.
-* [PinLayout ★918](https://github.com/mirego/PinLayout) - Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS]
+* [PinLayout ★956](https://github.com/layoutBox/PinLayout) - Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS]
 * [Static ★1054](https://github.com/venmo/Static) - A simple static table views for iOS.
 * [Stevia ★2265](https://github.com/freshOS/Stevia) - Elegant view layout for iOS.
 
@@ -1191,6 +1191,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [KRAlertController ★41](https://github.com/krimpedance/KRAlertController) - A beautiful alert controller for your iOS.
 * [NotificationBanner ★2092](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
 * [PMAlertController ★1811](https://github.com/pmusolino/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
+* [PopupDialog ★2635](https://github.com/orderella/PopupDialog) - A simple, customizable popup dialog. Replaces UIAlertController alert style.
 * [SCLAlertView ★4390](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [StatusAlert ★431](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
 * [SweetAlert ★1836](https://github.com/codestergit/SweetAlert-iOS) - Alert system.

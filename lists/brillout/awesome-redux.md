@@ -36,7 +36,7 @@ title: Awesome Rank for brillout/awesome-redux
 
 *Aims to improve the overall structure of the source code. Makes reasoning about the code easier.*
 
- - [redux-schema ★148](https://github.com/ddsol/redux-schema) - Automatic actions, reducers and validation for Redux.
+ - [redux-schema ★148 ⏳1Y](https://github.com/ddsol/redux-schema) - Automatic actions, reducers and validation for Redux.
  - [redux-tcomb ★217 ⏳1Y](https://github.com/gcanti/redux-tcomb) - Immutable and type-checked state and actions for Redux.
  - [redux-action-tree](https://github.com/cerebral/redux-action-tree) - The Cerebral signals running with Redux.
  - [redux-elm](https://github.com/salsita/redux-elm) - The Elm Architecture in JavaScript.

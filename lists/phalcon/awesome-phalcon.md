@@ -157,7 +157,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Dependency Injection.*
 
 * [phalcon-autoload-services ★16 ⏳3Y](https://github.com/JimmDiGrizli/phalcon-autoload-services) - Components for automatic registration services in Dependency Injection
-* [phalcon-service-loader ★19 ⏳2Y](https://github.com/serebro/phalcon-service-loader) - Service loader for Phalcon PHP Framework
+* [phalcon-service-loader ★19 ⏳3Y](https://github.com/serebro/phalcon-service-loader) - Service loader for Phalcon PHP Framework
 * [pidic ★3](https://github.com/phalette/pidic) - Nette Dependency Injection/Container for Phalcon
 
 
@@ -314,7 +314,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *SMS services & libraries.*
 
-* [Multiple SMS Sender factory ★30 ⏳2Y](https://github.com/stanislav-web/phalcon-sms-factory) - Phalcon SMS Factory
+* [Multiple SMS Sender factory ★30 ⏳3Y](https://github.com/stanislav-web/phalcon-sms-factory) - Phalcon SMS Factory
 
 
 ## Talks

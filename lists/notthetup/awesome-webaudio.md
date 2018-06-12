@@ -60,7 +60,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Wavesurfer.js ★2885](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
 - [envelope-generator ★25 ⏳1Y](https://github.com/itsjoesullivan/envelope-generator) - Simple ADSR envelope generator for web audio.
 - [Audiojs ★113](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
-- [audio contour ★15 ⏳1Y](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator.
+- [audio contour ★15 ⏳2Y](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator.
 - [Tuna ★951](https://github.com/Theodeus/tuna) - An audio effects library.
 - [web-audio-recorder-js ★272 ⏳1Y](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
 - [audiolet ★869 ⏳2Y](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.

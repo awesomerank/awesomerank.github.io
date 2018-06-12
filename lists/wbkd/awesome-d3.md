@@ -43,7 +43,6 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-flame-graph ★306](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
 - [d3-horizon-chart ★54 ⏳1Y](https://github.com/kmandov/d3-horizon-chart) - Horizon charts module
 - [d3-message-sequence ★69 ⏳1Y](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
-- [d3-tribin ★10](https://github.com/mfilippo/d3-tribin) - Group two-dimensional points into triangular bins [bins, triangles, sampling]
 - [d3plus ★1391](https://github.com/alexandersimoes/d3plus) - Extension library for easy creation of visualizations [scatter, stacked, line, bar, pie, network, bubble, box, map]
 - [d3-timeline ★631](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts
 - [d3fc ★422](https://github.com/d3fc/d3fc) - A collection of interactive chart components [line, bar, stacked, scatter, candlestick, ohlc]

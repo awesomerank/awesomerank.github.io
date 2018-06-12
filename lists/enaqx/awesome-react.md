@@ -597,6 +597,7 @@ A collection of awesome things regarding React ecosystem.
 * [Slate - A completely customizable framework for building rich text editors. ★7585](https://github.com/ianstormtaylor/slate)
 * [react-animated-transitions - Easy animated transitions in React ★6](https://github.com/sonaye/react-animated-transitions)
 * [react-json-schema - Construct React elements from JSON by mapping JSON definitions to React components that you expose. ★65](https://github.com/TechniqueSoftware/react-json-schema)
+* [compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React ★104](https://github.com/tvler/compose-state)
 
 ##### Integration
 * [ReactJS.NET](http://reactjs.net/)

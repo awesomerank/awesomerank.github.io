@@ -91,7 +91,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [ripple ★33](https://github.com/ripple-emulator/ripple)
 * Building
   * [cordova-xml ★5 ⏳1Y](https://github.com/mifi/cordova-xml)
-  * [cordova-auto-patch ★1 ⏳1Y](https://github.com/shevaroller/cordova-auto-patch)
+  * [cordova-auto-patch ★1 ⏳2Y](https://github.com/shevaroller/cordova-auto-patch)
 * Logging
   * [Bugfender ★2](https://github.com/bugfender/cordova-plugin-bugfender)
 

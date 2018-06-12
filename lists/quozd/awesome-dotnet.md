@@ -180,7 +180,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Cassette ★528](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
 * [NodeAssets ★20 ⏳2Y](https://github.com/ajorkowski/NodeAssets) - Asset Manager for .NET that has live CSS updates using SignalR and can optionally leverage Node.js compilers
 * [Bundle Transformer ★26](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
-* [Bundler ★259](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
+* [Bundler ★259 ⏳1Y](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
 * [SquishIt ★474](https://github.com/jetheredge/SquishIt) - Lets you *easily* bundle some CSS and JavaScript
 
 ## Authentication and Authorization
@@ -475,7 +475,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [QtSharp ★427](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 * [MahApps.Metro ★4802](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro-styled WPF apps
-* [Callisto ★347 ⏳2Y](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
+* [Callisto ★347 ⏳3Y](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
 * [ObjectListView](http://objectlistview.sourceforge.net/cs/index.html) - ObjectListView is a C# wrapper around a .NET ListView. It makes the ListView much easier to use and teaches it some new tricks
 * [DockPanelSuite](https://sourceforge.net/projects/dockpanelsuite/) - The Visual Studio inspired docking library for .NET WinForms
 * [AvalonEdit ★590](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop

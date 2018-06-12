@@ -69,13 +69,13 @@ You might also like [awesome-php ★18804](https://github.com/ziadoz/awesome-php
 - [PackageVersions ★867](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions.
 - [Composer Locator ★52](https://github.com/mindplay-dk/composer-locator) - Provides a means of locating the installation path for a given Composer package name.
 - [PackageInfo ★5 ⏳1Y](https://github.com/ThaDafinser/PackageInfo) - Check if a package is installed and retrieve all package informations like version, tag release date, description, ...
-- [composer-ignore-plugin ★5 ⏳1Y](https://github.com/lichunqiang/composer-ignore-plugin) - The composer plugin to remove useless files in vendor by yourself.
-- [composer-git-hooks ★173](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
+- [Composer-Ignore-Plugin ★5 ⏳1Y](https://github.com/lichunqiang/composer-ignore-plugin) - The composer plugin to remove useless files in vendor by yourself.
+- [Composer-Git-Hooks ★173](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
 - [Symfony-Flex](https://github.com/symfony/flex) - Provides [recipe-based ★489](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
-- [phpcodesniffer-composer-installer ★62](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - Automates the configuration of custom PHP_CodeSniffer standards/sniffs via Composer
+- [PHPCodeSniffer-Composer-Installer ★62](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - Automates the configuration of custom PHP_CodeSniffer standards/sniffs via Composer
 - [Composer-Warmup ★138](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
 - [Foxy ★34](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations when composer package is installed or updated.
-- [nodejs-installer ★92](https://github.com/thecodingmachine/nodejs-installer) - downloads and installs NodeJS and npm as composer package 
+- [NodeJS-Installer ★92](https://github.com/thecodingmachine/nodejs-installer) - downloads and installs NodeJS and npm as composer package 
 
 ## Tools
 
@@ -87,12 +87,12 @@ You might also like [awesome-php ★18804](https://github.com/ziadoz/awesome-php
 
 ## Scripts
 
-- [composer-travis-lint ★4](https://github.com/raphaelstolt/composer-travis-lint) - Allows you to lint the Travis CI configuration file (`.travis.yml`).
-- [composer-multitest ★5 ⏳1Y](https://github.com/raphaelstolt/composer-multitest) - Enables you to run a Composer script against multiple, locally installed PHP versions, which are managed by PHPBrew or phpenv.
+- [Composer-Travis-Lint ★4](https://github.com/raphaelstolt/composer-travis-lint) - Allows you to lint the Travis CI configuration file (`.travis.yml`).
+- [Composer-Multitest ★5 ⏳1Y](https://github.com/raphaelstolt/composer-multitest) - Enables you to run a Composer script against multiple, locally installed PHP versions, which are managed by PHPBrew or phpenv.
 - [ScriptsDev ★39](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
 - [ParameterHandler ★619](https://github.com/Incenteev/ParameterHandler) - Allows you to manage your ignored parameters when running a composer install or update.
 - [PhantomJS-Installer ★133](https://github.com/jakoch/phantomjs-installer)- A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
-- [tooly ★75](https://github.com/tommy-muehle/tooly-composer-script) - Manage needed PHAR files in your project composer.json. Every PHAR file will be saved in the composer binary directory. Optional with GPG verification for every PHAR.
+- [Tooly ★75](https://github.com/tommy-muehle/tooly-composer-script) - Manage needed PHAR files in your project composer.json. Every PHAR file will be saved in the composer binary directory. Optional with GPG verification for every PHAR.
 
 ## Packagist-compatible repositories
 
@@ -117,7 +117,7 @@ You might also like [awesome-php ★18804](https://github.com/ziadoz/awesome-php
 
 ## Books
 
-- [Creating and Using Composer Packages](https://www.packtpub.com/books/content/creating-and-using-composer-packages)
+- [Creating and Using Composer Packages](https://hub.packtpub.com/creating-and-using-composer-packages/)
 
 ## Blogs
 
@@ -159,17 +159,19 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
 
 ## Packagist
 
-- [Packagist-Crawler ★30](https://github.com/hirak/packagist-crawler) - Script to mirror Packagist metadata.
+- [Packagist Mirror from Brazil](https://github.com/Webysther/packagist-mirror) - This is a maintained stable version of [packagist crawler ★30](https://github.com/hirak/packagist-crawler).
+- [Docker Image ★0](https://github.com/Webysther/packagist-mirror-docker) - This Docker image helps to create a customized packagist mirror.
+- [Packagist Mirror from Indonesia ★17](https://github.com/IndraGunawan/packagist-mirror) - Another implementation for creating a packagist mirror.
 
 ### Packagist Mirrors
 
 - North America
-  - Canada - [packagist.org](https://packagist.org)
+  - Canada - [packagist.org](https://packagist.org) *Main mirror*
 - South America
   - Brazil - [packagist.com.br](https://packagist.com.br)
 - Asia
   - China - [packagist.phpcomposer.com](https://pkg.phpcomposer.com)
-  - Indonesia [packagist.phpindonesia.id](https://packagist.phpindonesia.id)
+  - Indonesia - [packagist.phpindonesia.id](https://packagist.phpindonesia.id)
   - Japan - [packagist.jp](https://packagist.jp)
 
 ## Composer Repositories

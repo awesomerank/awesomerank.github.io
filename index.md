@@ -195,7 +195,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [SVG ★3591](lists/willianjusten/awesome-svg.md) - XML-based vector image format.
 - [Canvas ★414](lists/raphamorim/awesome-canvas.md)
 - [KnockoutJS ★73](lists/dnbard/awesome-knockout.md)
-- [Dojo Toolkit ★62](lists/petk/awesome-dojo.md)
+- [Dojo Toolkit ★62 ⏳1Y](lists/petk/awesome-dojo.md)
 - [Inspiration ★634](lists/NoahBuscher/Inspire.md)
 - [Ember ★267](lists/nmec/awesome-ember.md) - App framework.
 - [Android UI ★30497](lists/wasabeef/awesome-android-ui.md)
@@ -263,7 +263,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Kubernetes ★2766](lists/ramitsurana/awesome-kubernetes.md)
 - [Lumen ★197](lists/unicodeveloper/awesome-lumen.md)
 - [Serverless Framework ★1416](lists/pmuens/awesome-serverless.md)
-- [Apache Wicket ★33 ⏳1Y](lists/PhantomYdn/awesome-wicket.md) - Java web app framework.
+- [Apache Wicket ★33 ⏳2Y](lists/PhantomYdn/awesome-wicket.md) - Java web app framework.
 - [Vert.x ★843](lists/vert-x3/vertx-awesome.md) - Toolkit for building reactive apps on the JVM.
 - [Terraform ★385](lists/shuaibiyy/awesome-terraform.md) - Tool for building, changing, and versioning infrastructure.
 

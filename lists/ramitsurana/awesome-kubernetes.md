@@ -308,6 +308,7 @@ Managed Kubernetes
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
   - [Kubermatic](http://www.loodse.com/)
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
+  - [IBM Cloud Private](https://www.ibm.com/cloud/private)
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 
@@ -317,6 +318,7 @@ Managed Kubernetes
    - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) - Alibaba Cloud Container Service for Kubernetes
+   - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
 
   ### [Paas](#paas)
 
@@ -329,7 +331,6 @@ Managed Kubernetes
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
   - [OpenShift Origin](http://www.openshift.org/)
   - [Eldarion Cloud](http://eldarion.cloud)
-  - [IBM Bluemix Container Service](http://www.ibm.com/cloud-computing/bluemix/containers)
   - [Hasura](http://www.hasura.io)
   - [teresa ★258](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes.
 
@@ -646,7 +647,7 @@ Projects
 ## Application deployment orchestration
 
 * [ElasticKube](https://elasticbox.com/kubernetes)
-* [AppController ★163](https://github.com/Mirantis/k8s-AppController)
+* [AppController ★163 ⏳1Y](https://github.com/Mirantis/k8s-AppController)
 * [Kb8or ★47 ⏳1Y](https://github.com/UKHomeOffice/kb8or)
 * [IBM UrbanCode](https://developer.ibm.com/urbancode/plugin/kubernetes/)
 * [Nulecule ★222 ⏳1Y](https://github.com/projectatomic/nulecule)

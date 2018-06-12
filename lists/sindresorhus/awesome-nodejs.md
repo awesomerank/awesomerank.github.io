@@ -685,7 +685,7 @@ title: Awesome Rank for sindresorhus/awesome-nodejs
 
 - [retext](https://github.com/wooorm/retext) - An extensible natural language system.
 - [franc ★2629](https://github.com/wooorm/franc) - Detect the language of text.
-- [leven ★345](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+- [leven ★345 ⏳1Y](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [natural ★7764](https://github.com/NaturalNode/natural) - Natural language facility.
 
 

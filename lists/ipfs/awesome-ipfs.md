@@ -44,7 +44,7 @@ place to ask about it might be in [ipfs/apps ★47 ⏳1Y](https://github.com/ipf
 * [beets ★7926](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub ★167](https://github.com/fazo96/ipfs-boards)
-* [Cohort ★18 ⏳1Y](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
+* [Cohort ★18 ⏳2Y](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 * [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
 * [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
@@ -66,6 +66,7 @@ place to ask about it might be in [ipfs/apps ★47 ⏳1Y](https://github.com/ipf
 * [markup.rocks ★16 ⏳2Y](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
 * [Partyshare](https://partysha.re) - A simple file sharing app.
+* [Filemap](https://filemap.xyz/) - Upload files to a geographic point and never memorize a link again.
 * [FileNation](https://filenation.io/) - The simplest way to send your files around the world using IPFS.
 * [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
 * [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
@@ -104,7 +105,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipfs-linux-service ★42 ⏳3Y](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
 * [ipfs-paste ★19 ⏳2Y](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
 * [ipfs-screencap ★28 ⏳1Y](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
-* [ipfscrape ★148 ⏳1Y](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
+* [ipfscrape ★148 ⏳2Y](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
 * [ipget ★85](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
 * [IPRedirect ★1 ⏳1Y](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
 * [ipscend ★193](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS

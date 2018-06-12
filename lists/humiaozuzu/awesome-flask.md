@@ -164,7 +164,7 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 - [Flask-Bcrypt ★203](https://github.com/maxcountryman/flask-bcrypt) - Flask-Bcrypt is a Flask extension that provides bcrypt hashing utilities for your application
 - [Mixer ★505](https://github.com/klen/mixer) - Mixer is application to generate instances of Django or SQLAlchemy models
 - [Flask-FeatureFlags ★99](https://github.com/trustrachel/Flask-FeatureFlags) - A Flask extension that enables or disables features based on configuration
-- [Flask-Reggie ★42 ⏳4Y](https://github.com/rhyselsmore/flask-reggie) - Regex Converter for Flask URL Routes
+- [Flask-Reggie ★42 ⏳5Y](https://github.com/rhyselsmore/flask-reggie) - Regex Converter for Flask URL Routes
 - [Flask-SocketIO ★2340](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications
 - [Flask-Moment ★194](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js
 - [Flask-Paginate ★150](https://github.com/lixxu/flask-paginate) - Pagination support for Flask

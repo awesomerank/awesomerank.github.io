@@ -299,7 +299,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 
 ## Logging
 
-- [dolog ★23](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
+- [dolog ★23 ⏳1Y](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
 - [Volt ★3](https://github.com/codinuum/volt) – A variant of Bolt OCaml logging tool.
 - [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 

@@ -407,7 +407,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [Feathers and Vue 2.0 Blog Admin Demo ★63 ⏳1Y](https://github.com/delay/feathers-vue-blog-admin-demo) Demo for using Feathers with Vue 2.0. It includes authentication, vue-router, vue-infinite-loading and roles by [delay](https://github.com/delay)
   - [vue-zhihudaily-2.0 ★104 ⏳1Y](https://github.com/cs1707/vue-zhihudaily-2.0) Zhihudaily demo built with Vue 2.0, vue-router & vuex, with server-side rendering. by [cs1707](https://github.com/cs1707)
   - [vue-demo-todolist ★49](https://github.com/fishenal/Todos_Vuejs) a simply vue2.0 demo built with Vue 2.0, vue-cli. by [fishenal](https://github.com/fishenal)
-  - [**vue-AdminLte** ★336](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
+  - [**vue-AdminLte** ★336 ⏳1Y](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
   - [**Vue(2.0) + Node.js: A blog content manage system (CMS)**](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
   - [ngexplorer-quasar](https://github.com/gustaYo/ngexplorer-quasar) -Implementation of [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN) with [quasar framework](https://github.com/rstoenescu/quasar-framework) by [gustaYo](https://github.com/gustaYo)
   - [zhihu-daily-vue ★31](https://github.com/moonou/zhihu-daily-vue) a zhihu daily base on vue2.0 by [moonou](https://github.com/moonou)
@@ -557,7 +557,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Flamme ★112](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
 - [Goldfish ★1775](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI built with VueJS, Golang, and Bulma CSS
 - [Adminify ★539](https://github.com/wxs77577/adminify) - An Admin dashboard based on [Vuetify](https://vuetifyjs.com/), check the [Online Demo](http://adminify.genyii.com)
-- [promptie ★50](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
+- [promptie ★50 ⏳1Y](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
 - [Hare ★145](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
 - [Paper-Dashboard ★1](https://github.com/cristijora/vue-paper-dashboard) -Creative Tim Paper Dashboard made for Vue
 - [AdminLTE-VueJS2 ★73](https://github.com/otezz/AdminLTE-VueJS2) - An open source project that implements  VueJS (v2.x) on AdminLTE.
@@ -897,7 +897,7 @@ title: Awesome Rank for vuejs/awesome-vue
 
  - [vue-radial-progress ★162](https://github.com/wyzant-dev/vue-radial-progress) - Radial progress bar component for Vue.js.
  - [vue-simple-spinner ★259](https://github.com/dzwillia/vue-simple-spinner) - A simple, flexible spinner for Vue.js
- - [vuex-loading](https://github.com/f/vuex-loading) - Multiple Loader Management for Vue/Vuex applications.
+ - [vue-wait ★567](https://github.com/f/vue-wait) - Complex Loader Management for Vue/Vuex and Nuxt applications.
  - [vue-spinner-component](https://sergeyloysha.github.io/vue-spinner-component/) - Customizable, lightweight spinner for Vue.js.
  - [vue-progress-path ★98](https://github.com/Akryum/vue-progress-path) - Customizable progress indicators and spinners that support any custom SVG path.
  - [vue-blockui ★23](https://github.com/realdah/vue-blockui) - BlockUI for vue 2, similiar to jquery blockUI, can be used for loading screen.
@@ -1030,6 +1030,7 @@ Tooltips / popovers
  - [vue-chartkick ★308](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue
  - [d3vue ★35](https://github.com/ignoreintuition/d3vue) - A D3 Plugin for Creating Reactive Data Visualizations in VueJS
  - [vue2-frappe ★34](https://github.com/JustSteveKing/vue2-frappe) - A simple wrapper around Frappe Charts for VueJS
+ - [vue-google-charts ★4](https://github.com/devstark-com/vue-google-charts) - Reactive Vue.js wrapper for Google Charts lib
 
 ### Time
 
@@ -1041,6 +1042,7 @@ Tooltips / popovers
  - [vue-analog-clock-range ★40](https://github.com/f/vue-analog-clock-range) - Analog clock range to show time difference.
  - [vue-moment-lib ★13](https://github.com/julon/vue-moment-lib) - A simple Vue.js 2.0 MomentJS library (filters & globals) using the same momentjs API.
  - [vuejs-countdown ★42](https://github.com/getanwar/vuejs-countdown) - A simple countdown timer component for vue js 2.0
+ - [vue2-flip-countdown ★3](https://github.com/philipjkim/vue2-flip-countdown) - A countdown timer with flip effect for Vue 2.x
 
 ### Calendar
 
@@ -1232,6 +1234,7 @@ Tooltips / popovers
 #### Generator
 
  - [vue-json-schema ★306](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
+ - [vue-awesome-form ★4](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor 
 
 ##### Date Picker
 
@@ -1268,6 +1271,7 @@ Tooltips / popovers
  - [vue-dropdowns ★11](https://github.com/mikerodham/vue-dropdowns) - A minimalistic and adaptable way to display select boxes if using objects for vue2.x
  - [v-cascade ★7](https://github.com/zanseven007/v-cascade) - A lovely component of cascade selector with Vue 2.x (Support both of PC and Mobile)
  - [vue-multi-select ★33](https://github.com/IneoO/vue-multi-select) - A custom component to make select/multiselect for Vue2.
+ - [v-region ★12](https://github.com/TerryZ/v-region) - A simple region selector, provide Chinese administrative division data.
 
 #### Slider
 
@@ -1632,6 +1636,7 @@ Tooltips / popovers
  - [ic-formly ★6](https://github.com/InCuca/ic-formly) - Simple form component powered by vue-formly.
  - [Form Builder ★57](https://github.com/laravel-enso/formbuilder) - Json template based form builder, based on Vue and Laravel.
  - [vue-autofocus-directive ★6](https://github.com/Botre/vue-autofocus-directive) - Vue autofocus directive.
+ - [vue-awesome-form ★4](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
 
 #### Validation
 
@@ -1646,6 +1651,7 @@ Tooltips / popovers
  - [vuejs-model-validator ★12](https://github.com/deulos/vuejs-model-validator) - VueJS style data component validation. Easiness, simplicity, accurate.
  - [willvalidate ★5](https://github.com/gustavoSoriano/willvalidate) - Validation Forms for Vue.js.
  - [vue-m-validator ★0](https://github.com/silksofthesoul/vue-m-validator) - Model data validation library, for VueJs.
+ - [vue-isyourpasswordsafe ★11](https://github.com/Pitu/vue-isyourpasswordsafe) - A small utility written in Vue that checks if the given password has been leaked against the Have I Been Pwned API.
 
 ### Scroll
 
@@ -1660,7 +1666,7 @@ Tooltips / popovers
  - [VBar ★152](https://github.com/luiguild/v-bar) - The virtual responsive cross-browser scrollbar component for Vue.js 2x.
  - [Vuebar](http://serafin.io/vuebar/) - Vue 2 directive for custom scrollbar that uses native scroll behavior. Lightweight, performant, customizable and without dependencies.
  - [vue-detached-scrollbar ★1](https://github.com/ozangulle/vue-detached-scrollbar) - A simple scrollbar that can be detached from the container it is scrolling.
- - [vuescroll ★1](https://github.com/wangyi7099/vuescroll) - A virtual scrollbar based on vue.js 2x.
+ - [vuescroll ★190](https://github.com/YvesCoding/vuescroll) - A scrolling plugin based on Vue.js for uniforming the scrolling in PC and mobile.
 
 *Detect when components enter viewport*
 
@@ -1701,7 +1707,7 @@ Tooltips / popovers
  - [vue-l-lazyload ★19 ⏳1Y](https://github.com/lsycxyj/vue-l-lazyload) - A lazyload plugin for Vue.js v2.x+.
  - [vue-lazyload-img ★208](https://github.com/JALBAA/vue-lazyload-img) - Especially optimized for mobile browser. support V2 & v1.
  - [vue-lazy-images ★47](https://github.com/yyh1102/vue-lazyload-images) - A plugin of lazyload images for Vue 2.x.
- - [v-lazy-img ★16](https://github.com/nkoehring/v-lazy-img) - Tiny (<0.6kb) directive for progressive image loading for Vue 2.
+ - [v-lazy-img ★16 ⏳1Y](https://github.com/nkoehring/v-lazy-img) - Tiny (<0.6kb) directive for progressive image loading for Vue 2.
  - [vue-clazy-load ★65](https://github.com/matheusgrieger/vue-clazy-load) - Lightweight transitionable image lazy loading component using IntersecionObserver for Vue 2.
  - [vue-lazy-this ★8](https://github.com/thangman22/vue-lazy-this) - Lazyloading component using Intersection Observer API.
  - [v2-lazy-list ★17](https://github.com/dwqs/v2-lazy-list) - A simple lazy-load list component based Vue 2.x
@@ -1735,6 +1741,9 @@ Tooltips / popovers
  - [vue-overdrive ★323](https://github.com/mattrothenberg/vue-overdrive) Super easy magic-move transitions for Vue apps 🎩
  - [animated-number-vue ★11](https://github.com/Leocardoso94/animated-number-vue) Super easy way to animate numbers.
  - [vue-typed-js ★38](https://github.com/Orlandster1998/vue-typed-js) Typed.js integration to easily create typying animations.
+ - [vue-parent-change-transition ★6](https://github.com/inamori/vue-parent-change-transition) Enable a child components to animate when it changes the parent.
+ - [vue-smooth-height ★20](https://github.com/guanzo/vue-smooth-height) Transition an elements height in response to data changes.
+ - [VueTween ★3](https://github.com/SeregPie/VueTween) Allows components to tween their properties.
 
 ### Meta Tags
 
@@ -1829,7 +1838,7 @@ A Vue 2.x component of easy-to-config page visibility api.
  - [vue-jsonp ★53](https://github.com/LancerComet/vue-jsonp) - A tiny library for handling JSONP request.
  - [v-model ★34 ⏳1Y](https://github.com/huanleguang/v-model) - V-Model is a model plugin for Vue.js, like ng-resource.
  - [vue-resource-mock ★19](https://github.com/noru/vue-resource-mock) - A helper to mock your http response, based on vue-resource's interceptor.
- - [vue-async-data-2 ★28](https://github.com/kamijin-fanta/vue-async-data) - Async data loading plugin for Vue.js.
+ - [vue-async-data-2 ★28 ⏳1Y](https://github.com/kamijin-fanta/vue-async-data) - Async data loading plugin for Vue.js.
  - [vue-api-request ★103](https://github.com/ftgibran/vue-api-request) - A plugin that provides full control on your APIs, making your request simple, fast and easy to implement.
  - [vue-fast-axios ★23](https://github.com/leonardovilarinho/vue-fast-axios) - Make requests with validations in a simple and beautiful way.
  - [vue-async-properties](https://github.com/blainehansen/vue-async-properties) - An `asyncData` and `asyncComputed` plugin with support for debouncing, transforming results, error handlers, loading/pending flags, lazy/eager requests.
@@ -1903,7 +1912,6 @@ the amazing Vue.js.
 
 #### Redux
 
- - [revue ★1](https://github.com/revue/revue) - Redux binding for Vue.
  - [vuedeux ★65](https://github.com/Vuedeux/vuedeux) - Binding Solutions for Vue & Redux.
     - [redux-store-mixin ★0](https://github.com/kolesoffac/redux-store-mixin) - Mixin for integrate action creators in methods of vue-component
     - [vue-redux-prepare-props ★0](https://github.com/kolesoffac/vue-redux-prepare-props) - Helper for use props of *Redux* with *Vue.js* using *Vuex* and *Vuedeux*
@@ -2006,6 +2014,7 @@ the amazing Vue.js.
  - [vs-crumbs](https://github.com/NxtChg/pieces/tree/master/js/vue/vs-crumbs) - Vue breadcrumbs in 40 lines of code that allows nested paths without child views.
  - [vue-nav ★22](https://github.com/nearspears/vue-nav) - Page navigation manager, support all navigation function of native mobile app. 页面导航管理器，支持手机原生应用的所有导航功能。
  - [vue-2-crumbs ★13](https://github.com/Suruat/vue-2-crumbs) - Breadcrumbs plugin for Vue.js 2 framework that allows to select parent route in route meta object with no need of sub-routing. Also allows using dynamic data.
+ - [vue-pesdk ★0](https://github.com/imgly/pesdk-wrapper-vuejs) Vue.js wrapper for the PhotoEditorSDK
 
 ### Miscellaneous
 - [vue-container ★55](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.

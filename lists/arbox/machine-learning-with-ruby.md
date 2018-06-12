@@ -80,7 +80,7 @@ the word using the `#RubyML` hash tag!
 Please help us to fill out this section! :smiley:
 
 - [How to implement linear regression in Ruby](https://www.practicalai.io/implementing-linear-regression-using-ruby/)
-  <sup>[[code ★2](https://github.com/daugaard/example-linear-regression)]</sup>
+  <sup>[[code ★2 ⏳1Y](https://github.com/daugaard/example-linear-regression)]</sup>
 - [How to implement classification using logistic regression in Ruby](https://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/)
 - [How to implement simple binary classification using a Neural Network in Ruby](https://www.practicalai.io/implementing-simple-classification-using-neural-network-in-ruby/)
   <sup>[[code ★10](https://github.com/daugaard/example-neural-network)]</sup>

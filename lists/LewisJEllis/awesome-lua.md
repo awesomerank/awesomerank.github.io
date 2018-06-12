@@ -205,7 +205,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 ### Templating
 - [lustache](http://olivinelabs.com/lustache/) - Mustache template implementation.
 - [etlua ★108](https://github.com/leafo/etlua) - Embedded Lua templates, ERB-style.
-- [lua-resty-template ★540](https://github.com/bungle/lua-resty-template) - Lua-oriented template engine for OpenResty, somewhat Jinja-like.
+- [lua-resty-template ★540 ⏳1Y](https://github.com/bungle/lua-resty-template) - Lua-oriented template engine for OpenResty, somewhat Jinja-like.
 
 
 ### Documentation
@@ -285,7 +285,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 
 ### Compression
 - [lua-zlib ★142](https://github.com/brimworks/lua-zlib) - Simple streaming interface to zlib for gzip/gunzip.
-- [lua-zip ★40](https://github.com/brimworks/lua-zip) - Lua binding to libzip. Reads and writes zip files.
+- [lua-zip ★40 ⏳1Y](https://github.com/brimworks/lua-zip) - Lua binding to libzip. Reads and writes zip files.
 
 
 ### Cryptography

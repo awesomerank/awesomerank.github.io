@@ -111,7 +111,7 @@ Additional lists you might find useful:
 - [CakeDC/NavAuth plugin ★9](https://github.com/CakeDC/cakephp-nav-auth) - A plugin for authenticating against Navision® service using SOAP or OData services. It includes NTLM authentication and more.
 - [CakeDC/Users plugin ★436](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
 - [CookieAuth plugin ★18 ⏳1Y](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
-- [HierAuth plugin ★6 ⏳1Y](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization.
+- [HierAuth plugin ★6 ⏳2Y](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization.
 - [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client` ★2019](https://github.com/thephpleague/oauth2-client).
 - [Muffin/Tokenize plugin ★8](https://github.com/UseMuffin/Tokenize) - Event driven behavior for easily generating single-use security tokens.
 - [MultiTenant plugin ★29 ⏳1Y](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.

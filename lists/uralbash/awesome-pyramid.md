@@ -371,7 +371,7 @@ provide new storage backends.*
 * [paginate ★33](https://github.com/Pylons/paginate) - Python pagination module.
 * [pyramid_tablib ★6 ⏳3Y](https://github.com/lxneng/pyramid_tablib) - tablib renderer
   (xlsx, xls, csv) for pyramid
-* [tomb_routes ★1 ⏳2Y](https://github.com/sontek/tomb_routes) - Simple utility library
+* [tomb_routes ★1 ⏳3Y](https://github.com/sontek/tomb_routes) - Simple utility library
   around pyramid routing
 * [pyramid_extdirect ★11 ⏳2Y](https://github.com/jenner/pyramid_extdirect) - This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS. ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate. 
 * [pyramid_retry ★4](https://github.com/Pylons/pyramid_retry) - pyramid_retry is an execution policy for Pyramid that wraps requests and can retry them a configurable number of times under certain "retryable" error conditions before indicating a failure to the client.

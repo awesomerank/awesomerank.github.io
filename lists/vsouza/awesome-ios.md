@@ -353,7 +353,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Johnny ★28](https://github.com/zolomatok/Johnny) - Melodic Caching for Swift
 * [Disk ★2022](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
 * [Cachyr ★99](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift
-* [Cache ★182](https://github.com/soffes/Cache) - Swift caching library.
+* [Cache ★182 ⏳1Y](https://github.com/soffes/Cache) - Swift caching library.
 
 ## Charts
 
@@ -371,7 +371,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FSLineChart ★844](https://github.com/ArthurGuibert/FSLineChart) - A line chart library for iOS.
 * [chartee ★907 ⏳2Y](https://github.com/zhiyu/chartee) - a charting library for mobile platforms.
 * [ANDLineChartView ★425 ⏳1Y](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView is easy to use view-based class for displaying animated line chart.
-* [TWRCharts ★369 ⏳3Y](https://github.com/chasseurmic/TWRCharts) - An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.
+* [TWRCharts ★369 ⏳4Y](https://github.com/chasseurmic/TWRCharts) - An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.
 * [SwiftCharts ★1671](https://github.com/i-schuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS.
 * [FlowerChart ★9](https://github.com/drinkius/flowerchart) - Flower-shaped chart with custom appearance animation, fully vector.
 * [Scrollable-GraphView ★4495](https://github.com/philackm/ScrollableGraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
@@ -653,7 +653,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FutureLib ★37 ⏳1Y](https://github.com/couchdeveloper/FutureLib) - FutureLib is a pure Swift 2 library implementing Futures & Promises inspired by Scala.
 * [SwiftNotificationCenter ★492](https://github.com/100mango/SwiftNotificationCenter) - A Protocol-Oriented NotificationCenter which is type safe, thread safe and with memory safety
 * [FutureKit ★701](https://github.com/FutureKit/FutureKit) - A Swift based Future/Promises Library for iOS and macOS.
-* [signals-ios ★509](https://github.com/uber/signals-ios) - Typeful eventing
+* [signals-ios ★509 ⏳1Y](https://github.com/uber/signals-ios) - Typeful eventing
 * [BrightFutures ★1657](https://github.com/Thomvis/BrightFutures) - Write great asynchronous code in Swift using futures and promises.
 * [NoticeObserveKit ★113](https://github.com/marty-suzuki/NoticeObserveKit) - NoticeObserveKit is type-safe NotificationCenter wrapper that associates notice type with info type.
 * [Hydra ★1502](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code in Swift
@@ -750,7 +750,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [BluetoothKit ★1658](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/macOS devices using BLE.
 * [Bluetonium ★140](https://github.com/e-sites/Bluetonium) - Bluetooth mapping in Swift
 * [BlueCap ★487](https://github.com/troystribling/BlueCap) - iOS Bluetooth LE framework
-* [Apple Family ★39](https://github.com/kirankunigiri/Apple-Family) - Quickly connect Apple devices together with Bluetooth, wifi, and USB.
+* [Apple Family ★39 ⏳1Y](https://github.com/kirankunigiri/Apple-Family) - Quickly connect Apple devices together with Bluetooth, wifi, and USB.
 * [Bleu ★449](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U
 * [Bluejay ★672](https://github.com/steamclock/bluejay) - A simple Swift framework for building reliable Bluetooth LE apps.
 * [BabyBluetooth ★3605](https://github.com/coolnameismy/BabyBluetooth) - The easiest way to use Bluetooth (BLE) in iOS/MacOS.
@@ -862,7 +862,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [MyLinearLayout ★2861](https://github.com/youngsoft/MyLinearLayout) - MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap.
 * [SugarAnchor ★19 ⏳1Y](https://github.com/ashikahmad/SugarAnchor) - Same native NSLayoutAnchor & NSLayoutConstraints; but with more natural and easy to read syntactic sugar. Typesafe, concise & readable.
 * [Anchors ★155](https://github.com/onmyway133/Anchors) - Declarative, extensible, powerful Auto Layout for iOS 8+ and macOS 10.10+
-* [PinLayout ★918](https://github.com/mirego/PinLayout) - Extremely Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable.
+* [PinLayout ★956](https://github.com/layoutBox/PinLayout) - Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS] 🔶
 * [SnapLayout ★9](https://github.com/sp71/SnapLayout) - Concise Auto Layout API to chain programmatic constraints while easily updating existing constraints. [e]
 * [Cupcake ★203](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
 * [MiniLayout ★4](https://github.com/yonat/MiniLayout) - Minimal AutoLayout convenience layer. Program constraints succinctly.
@@ -1370,6 +1370,7 @@ Most of these are paid services, some have free tiers.
 * [NativeJSONMapper ★2](https://github.com/DimaMishchenko/NativeJSONMapper) - Simple Swift 4 encoding & decoding.
 * [PMJSON ★287](https://github.com/postmates/PMJSON) - Pure Swift JSON encoding/decoding library.
 * [jsoncafe.com](http://www.jsoncafe.com/) - Online Template driven Model Class Generator from JSON.
+* [Mappable ★8](https://github.com/leavez/Mappable) - lightweight and powerful JSON object mapping library, specially optimized for immutable properties.
 
 ### XML & HTML
 * [AEXML ★765](https://github.com/tadija/AEXML) - Simple and lightweight XML parser written in Swift.
@@ -1636,7 +1637,7 @@ Most of these are paid services, some have free tiers.
 * [Curassow ★399](https://github.com/kylef-archive/Curassow) - Swift HTTP server using the pre-fork worker model.
 * [Zewo ★1774](https://github.com/Zewo/Zewo) - Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines.
 * [Vapor ★13917](https://github.com/vapor/vapor) - Elegant web framework for Swift that works on iOS, macOS, and Ubuntu.
-* [swiftra ★272 ⏳1Y](https://github.com/takebayashi/swiftra) - Sinatra-like DSL for developing web apps in Swift
+* [swiftra ★272 ⏳2Y](https://github.com/takebayashi/swiftra) - Sinatra-like DSL for developing web apps in Swift
 * [blackfire ★947 ⏳1Y](https://github.com/elliottminns/blackfire) - A fast HTTP web server based on Node.js and Express written in Swift
 * [swift-http ★464 ⏳1Y](https://github.com/huytd/swift-http) - HTTP Implementation for Swift on Linux and macOS
 * [Trevi ★47 ⏳2Y](https://github.com/Yoseob/Trevi) - libuv base Swift web HTTP server framework
@@ -1659,7 +1660,7 @@ Most of these are paid services, some have free tiers.
 ## Text
 * [Twitter Text Obj ★1931](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
 * [Nimbus ★6418](https://github.com/jverkoey/nimbus) - Nimbus is a toolkit for experienced iOS software designers.
-* [NSStringEmojize ★628](https://github.com/diy/nsstringemojize) - A category on NSString to convert Emoji Cheat Sheet codes to their equivalent Unicode characters.
+* [NSStringEmojize ★628 ⏳1Y](https://github.com/diy/nsstringemojize) - A category on NSString to convert Emoji Cheat Sheet codes to their equivalent Unicode characters.
 * [MMMarkdown ★1157](https://github.com/mdiep/MMMarkdown) - An Objective-C static library for converting Markdown to HTML.
 * [DTCoreText ★5415](https://github.com/Cocoanetics/DTCoreText) - Methods to allow using HTML code with CoreText.
 * [DTRichTextEditor ★303](https://github.com/Cocoanetics/DTRichTextEditor) - A rich-text editor for iOS.
@@ -1677,7 +1678,7 @@ Most of these are paid services, some have free tiers.
 * [pangu.Objective-C ★108 ⏳1Y](https://github.com/Cee/pangu.objective-c) - Paranoid text spacing in Objective-C.
 * [SwiftString ★1455 ⏳1Y](https://github.com/amayne/SwiftString) - A comprehensive, lightweight string extension for Swift
 * [Marklight ★396](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS
-* [MarkdownTextView ★583](https://github.com/indragiek/MarkdownTextView) - Rich Markdown editing control for iOS
+* [MarkdownTextView ★583 ⏳1Y](https://github.com/indragiek/MarkdownTextView) - Rich Markdown editing control for iOS
 * [TextAttributes ★1982](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings. [e]
 * [Reductio ★355 ⏳1Y](https://github.com/fdzsergio/Reductio) - Automatic summarizer text in Swift
 * [SmarkDown ★63 ⏳2Y](https://github.com/SwiftStudies/SmarkDown) - A Pure Swift implementation of the markdown mark-up language
@@ -2013,7 +2014,7 @@ Most of these are paid services, some have free tiers.
 * [CCMRadarView ★182 ⏳1Y](https://github.com/cacmartinez/CCMRadarView) - CCMRadarView uses the IBDesignable tools to make an easy customizable radar view with animation
 * [Pulsator ★892](https://github.com/shu223/Pulsator) - Pulse animation for iOS
 * [Interpolate ★1584](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations
-* [ADPuzzleAnimation ★115 ⏳1Y](https://github.com/Antondomashnev/ADPuzzleAnimation) - Custom animation for UIView inspired by Fabric - Answers animation.
+* [ADPuzzleAnimation ★115 ⏳2Y](https://github.com/Antondomashnev/ADPuzzleAnimation) - Custom animation for UIView inspired by Fabric - Answers animation.
 * [Wave ★80](https://github.com/onmyway133/Wave) - :ocean: Declarative chainable animations in Swift
 * [Stellar ★2580](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift
 * [MotionMachine ★340](https://github.com/poetmountain/MotionMachine) - A powerful, elegant, and modular animation library for Swift.
@@ -2992,7 +2993,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Dracula Theme](https://draculatheme.com/xcode/) - A dark theme for Xcode.
 * [Xcode themes list ★1947](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
 * [Solarized-Dark-for-Xcode ★308](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode) - Solarized Dark Theme for Xcode 5.
-* [WWDC2016 Xcode Color Scheme ★385 ⏳1Y](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
+* [WWDC2016 Xcode Color Scheme ★385 ⏳2Y](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
 
 ### Other Xcode
 

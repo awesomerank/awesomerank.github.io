@@ -148,7 +148,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 ## User Interface
 #### UI Components
 
-* [MinimalComps ★639 ⏳2Y](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash.
+* [MinimalComps ★639 ⏳3Y](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash.
 * [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - Upgraded for data binding, relative resizing, ASML builder and more.
 * [MadComponents ★42 ⏳3Y](https://github.com/danfreeman/MadComponents) - Popular Mobile UI Framework for AS3 / AIR.
 * [AsWing ★7](https://github.com/dreamsxin/AsWing) - Open Source Flash ActionScript GUI framework.
@@ -251,7 +251,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Angulex ★9 ⏳2Y](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (ActionScript 3).
 * [SAP ★49 ⏳1Y](https://github.com/gonchar/SAP) - Particle System for Starling.
 * [Starling-Particles ★317](https://github.com/Gamua/Starling-Extension-Particle-System) - Particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com.
-* [MotionParticleSprite ★0](https://github.com/bjeld/motionparticlesprite) - Design motion paths in Flash Pro and use it to guide Starling particles.
+* [MotionParticleSprite ★0 ⏳1Y](https://github.com/bjeld/motionparticlesprite) - Design motion paths in Flash Pro and use it to guide Starling particles.
 
 #### Panorama Viewer
 
@@ -289,7 +289,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Goplayer ★18 ⏳7Y](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3.
 * [OSFlashVideoPlayer ★104 ⏳6Y](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player.
 * [F4player ★114 ⏳3Y](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player.
-* [dashas ★102 ⏳1Y](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript.
+* [dashas ★102 ⏳2Y](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript.
 * [hlsplayer ★63 ⏳5Y](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework.
 * [vgaplayer ★22 ⏳3Y](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP).
 
@@ -398,7 +398,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([docs](http://alivepdf.bytearray.org/), [github ★16](https://github.com/riadvice/alivepdf)).
 * [PurePDF ★133 ⏳4Y](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText.
-* [HalcyonPDF ★2 ⏳6Y](https://github.com/systemed/halcyon_pdf) - OpenStreetMap PDF renderer.
+* [HalcyonPDF ★2 ⏳7Y](https://github.com/systemed/halcyon_pdf) - OpenStreetMap PDF renderer.
 * [PDFCase ★2 ⏳5Y](https://github.com/dickclaus/pdfcase) - PDF Library.
 * [PDFView ★3 ⏳2Y](https://github.com/jankapunkt/PDFView) - PDF viewer built from scratch.
 
@@ -573,7 +573,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Emulators
 
 * [NES Emulator ★428 ⏳2Y](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
-* [Commodore 64 Emulator ★58 ⏳7Y](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3.
+* [Commodore 64 Emulator ★58 ⏳8Y](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3.
 * [8080 Emulator ★5 ⏳8Y](https://github.com/ozipi/As3_SpaceInvaders_Emulator) - An actionscript 3 space invaders emulator based on the intel 8080 processor.
 * [8-bit VM ★4 ⏳5Y](https://github.com/OutOfTheVoid/AS3-8-bit-VM) - An eight bit virtual machine written in actionscript.
 

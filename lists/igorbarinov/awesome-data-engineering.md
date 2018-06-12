@@ -32,7 +32,7 @@ List of content
 	* [MySQL](http://www.mysql.com/) The world's most popular open source database.
 		* [TiDB ★13447](https://github.com/pingcap/tidb) TiDB is a distributed NewSQL database compatible with MySQL protocol 	
 		* [Percona XtraBackup](https://www.percona.com/software/mysql-database/percona-xtrabackup) Percona XtraBackup is a free, open source, complete online backup solution for all versions of Percona Server, MySQL® and MariaDB®
-		* [mysql_utils ★808](https://github.com/pinterest/mysql_utils) Pinterest MySQL Management Tools
+		* [mysql_utils ★808 ⏳1Y](https://github.com/pinterest/mysql_utils) Pinterest MySQL Management Tools
 	* [MariaDB](https://mariadb.org/) An enhanced, drop-in replacement for MySQL.
 	* [PostgreSQL](http://www.postgresql.org/) The world's most advanced open source database.
 	* [Amazon RDS](http://aws.amazon.com/rds/) Amazon RDS makes it easy to set up, operate, and scale a relational database in the cloud. 

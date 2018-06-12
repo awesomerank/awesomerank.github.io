@@ -53,7 +53,7 @@ sellers who aren't evil for physical resources.
 - [JSON](#json)
 - [Language extensions](#language-extensions)
     - [CLOS extensions](#clos-extensions)
-    - [Non-deterministic programming](#non-deterministic-programming)
+    - [Non-deterministic, logic programming](#non-deterministic-logic-programming)
 - [Learning and Tutorials](#learning-and-tutorials)
     - [Online](#online)
     - [Beginner](#beginner)
@@ -81,10 +81,12 @@ sellers who aren't evil for physical resources.
     - [Javascript](#javascript)
     - [Websockets](#websockets)
     - [Static site generators](#static-site-generators)
+    - [Deployment](#deployment)
     - [Third-party APIs](#third-party-apis)
     - [Others](#others)
 - [Numerical and Scientific](#numerical-and-scientific)
 - [Parallelism and Concurrency](#parallelism-and-concurrency)
+    - [Job processing](#job-processing)
 - [Regex](#regex)
 - [Scripting](#scripting)
 - [Text Editor Resources](#text-editor-resources)
@@ -294,6 +296,8 @@ JSON
 
 * [cl-json ★52](https://github.com/hankhero/cl-json) - A JSON encoder and decoder. [Expat][14].
 * [jsown ★54](https://github.com/madnificent/jsown) - A reader and writer for the JSON format. [Expat][14].
+* [json-mop ★18 ⏳1Y](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT][200].
+
 
 Language extensions
 ===================
@@ -317,6 +321,7 @@ Language extensions
 * [cl-2dsyntax](http://www.cliki.net/cl-2dsyntax) - An indentation-sensitive reader system. Not available on Quicklisp. No license specified.
 * [cl-annot ★98](https://github.com/m2ym/cl-annot) - Python-like annotations for Common Lisp. [LLGPL][8].
 * [cl-interpol](http://www.cliki.net/cl-interpol) - A set of reader modifications to allow string interpolation. No license specified.
+* [arrow-macros ★47 ⏳1Y](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT][200].
 * [dissect](https://shinmera.github.io/dissect) - when a lot of
   projects use the “trivial-backtrace” system that just gives them a
   string with a backtrace, Dissect allows you to capture, step, and
@@ -552,6 +557,13 @@ Static site generators
 * [coleslaw ★274](https://github.com/kingcons/coleslaw) and its
   [coleslaw-cli ★3 ⏳1Y](https://github.com/40ants/coleslaw-cli) - Flexible
   Lisp Blogware similar to Frog, Jekyll, or Hakyll. [BSD][15].
+
+Deployment
+----------
+
+* [heroku-buildpack-common-lisp](https://gitlab.com/duncan-bayne/heroku-buildpack-common-lisp) - A Heroku buildpack that uses Roswell to compile Common Lisp applications. LGPL3.
+* [cube ★14](https://github.com/xh4/cube) - Kubernetes client library for Common LISP generated from the Swagger specification. No license specified.
+
 
 Third-party APIs
 ----------------

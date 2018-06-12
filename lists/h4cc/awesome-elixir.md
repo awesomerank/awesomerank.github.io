@@ -700,7 +700,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [plug_password ★8](https://github.com/azranel/plug_password) - Plug for adding simple cookie-based authentication.
 * [plug_rails_cookie_session_store ★67 ⏳1Y](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
 * [plug_redirect_https ★5 ⏳1Y](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
-* [plug_require_header ★24 ⏳1Y](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
+* [plug_require_header ★24 ⏳2Y](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
 * [plug_response_header ★9 ⏳2Y](https://github.com/c-rack/plug_response_header) - easy manipulation of HTTP response headers.
 * [plug_ribbon ★20 ⏳2Y](https://github.com/stnly/plug_ribbon) - Injects a ribbon to your web application in the development environment.
 * [plug_secex ★13 ⏳1Y](https://github.com/techgaun/plug_secex) - Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure.
@@ -1341,7 +1341,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [chinese_translation ★75](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
 * [cidr ★14](https://github.com/c-rack/cidr-elixir) - Classless Inter-Domain Routing (CIDR) for Elixir.
 * [cirru_parser ★0 ⏳3Y](https://github.com/Cirru/parser.ex) - Cirru Parser in Elixir.
-* [cldr ★2 ⏳3Y](https://github.com/magicienap/cldr) - cldr is a library to use information from CLDR data.
+* [cldr ★2 ⏳4Y](https://github.com/magicienap/cldr) - cldr is a library to use information from CLDR data.
 * [colorful ★2 ⏳3Y](https://github.com/Joe-noh/colorful) - Elixir macros to decorate characters on CUI.
 * [colors ★7 ⏳1Y](https://github.com/lidashuang/colors) - Colors util written in Elixir.
 * [convertat ★11 ⏳2Y](https://github.com/whatyouhide/convertat) - An Elixir library for converting from and to arbitrary bases.
@@ -1359,7 +1359,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_rfc3966 ★0 ⏳1Y](https://github.com/marcelog/ex_rfc3966) - Elixir Tel URI parser compatible with RFC3966.
 * [ex_rfc3986 ★7 ⏳1Y](https://github.com/marcelog/ex_rfc3986) - RFC3986 URI/URL parser.
 * [ex_uc ★11](https://github.com/carturoch/ex_uc) - Extensible Units Converter for Elixir.
-* [exmoji ★57](https://github.com/mroth/exmoji) - Emoji encoding Swiss Army knife for Elixir/Erlang.
+* [exmoji ★57 ⏳1Y](https://github.com/mroth/exmoji) - Emoji encoding Swiss Army knife for Elixir/Erlang.
 * [expletive ★19 ⏳1Y](https://github.com/xavier/expletive) - Profanity filter library for Elixir.
 * [expr ★6](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
 * [faust](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
@@ -1454,7 +1454,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exgrid ★8](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
 * [exjira ★6 ⏳3Y](https://github.com/mattweldon/exjira) - JIRA client library for Elixir.
 * [exlingr ★1 ⏳3Y](https://github.com/mtwtkman/exlingr) - A Lingr client module.
-* [explay ★14](https://github.com/sheharyarn/explay) - Unofficial Google Play API in Elixir.
+* [explay ★14 ⏳1Y](https://github.com/sheharyarn/explay) - Unofficial Google Play API in Elixir.
 * [exstagram ★11 ⏳2Y](https://github.com/arthurcolle/exstagram) - Elixir library for Instagram v1 API.
 * [extripe ★21](https://github.com/princemaple/extripe) - Feature complete Stripe API wrapper.
 * [extwitter ★306](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
@@ -1507,7 +1507,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [sendgrid ★38](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
 * [shopify ★24](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
 * [sift_ex ★13 ⏳1Y](https://github.com/C404/sift_ex) - A Siftscience API Library for Elixir.
-* [simplex ★3 ⏳1Y](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
+* [simplex ★3 ⏳2Y](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 * [slack ★409](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 * [sparkpost ★33](https://github.com/SparkPost/elixir-sparkpost) - An Elixir library for sending email using SparkPost.
 * [statix ★124](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
@@ -1567,7 +1567,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_gtin ★1](https://github.com/kickinespresso/ex_gtin) - A validation library for GTIN codes under GS1 specification.
 * [exop ★57](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
 * [jeaux ★6 ⏳1Y](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
-* [shape ★7 ⏳2Y](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
+* [shape ★7 ⏳3Y](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
 * [skooma ★56](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
 * [uk_postcode ★6 ⏳3Y](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
 * [vex ★329](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.

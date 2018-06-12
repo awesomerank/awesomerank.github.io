@@ -357,7 +357,7 @@ phone numbers.
 
 *Packages for project management and time-tracking.*
 
-* [django-timepiece ★283 ⏳1Y](https://github.com/caktus/django-timepiece) - A multi-user Django application for tracking people's time on projects.
+* [django-timepiece ★283 ⏳2Y](https://github.com/caktus/django-timepiece) - A multi-user Django application for tracking people's time on projects.
 
 ## Reporting
 *Packages for creating reports*
@@ -627,7 +627,7 @@ phone numbers.
 
 ## Books
 
-* [Django by Example ★15 ⏳1Y](https://github.com/kevinlondon/django-by-example) (1.2)
+* [Django by Example ★15 ⏳2Y](https://github.com/kevinlondon/django-by-example) (1.2)
 * [Djen of Django](https://www.agiliq.com/books/djenofdjango/) (< 1.7)
 * [Effective Django](http://www.effectivedjango.com/) (1.5)
 * [Getting started with Django](http://www.gettingstartedwithdjango.com/) (video)

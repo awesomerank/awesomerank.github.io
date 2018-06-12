@@ -29,7 +29,7 @@ Inspired by the [awesome ★85445](https://github.com/sindresorhus/awesome) list
 ## Resources, Blogs, and Books
 
 ### For beginners
-* [Promise Cookbook ★1302](https://github.com/mattdesl/promise-cookbook) - The why, what, and how. "A brief introduction [...] primarily aimed at frontend developers".
+* [Promise Cookbook ★1302 ⏳1Y](https://github.com/mattdesl/promise-cookbook) - The why, what, and how. "A brief introduction [...] primarily aimed at frontend developers".
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
 * [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)
 * [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises) - Basics of JavaScript's native promise implementation.
@@ -108,7 +108,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-memoize ★58](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
 * [p-whilst ★35](https://github.com/sindresorhus/p-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise
 * [p-throttle ★54](https://github.com/sindresorhus/p-throttle) - Throttle promise-returning & async functions
-* [p-debounce ★47](https://github.com/sindresorhus/p-debounce) - Debounce promise-returning & async functions
+* [p-debounce ★47 ⏳1Y](https://github.com/sindresorhus/p-debounce) - Debounce promise-returning & async functions
 * [p-retry ★144](https://github.com/sindresorhus/p-retry) - Retry a promise-returning or async function
 * [p-wait-for ★34](https://github.com/sindresorhus/p-wait-for) - Wait for a condition to be true
 * [p-timeout ★73](https://github.com/sindresorhus/p-timeout) - Timeout a promise after a specified amount of time

@@ -89,7 +89,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Other
 
-* [Deployable ★20](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
+* [Deployable ★20 ⏳1Y](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
 * [Linkcast ★9](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability.
 ---
 <p align="center">

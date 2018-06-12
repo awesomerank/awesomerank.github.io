@@ -106,7 +106,7 @@ Made with Electron.
 - [Sia-UI](http://sia.tech) - Decentralized file storage system based on cryptocurrency technology.
 - [MarkRight ★908 ⏳1Y](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 - [Mongotron ★2407](https://github.com/officert/mongotron) - MongoDB management tool.
-- [Colonizers ★121 ⏳2Y](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
+- [Colonizers ★121 ⏳3Y](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
 - [Eintopf ★61 ⏳2Y](https://github.com/mazehall/eintopf) - Manage development projects with Docker.
 - [WhatsDesktop ★218](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app.
 - [Sqlectron ★2277](https://github.com/sqlectron/sqlectron-gui) - SQL client.

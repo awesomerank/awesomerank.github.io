@@ -57,10 +57,13 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [Lecture - CppCon 2017: Mathieu Ropert “Modern CMake for Modular Design”](https://www.youtube.com/watch?v=eC9-iRN2b04).
 * [Article - Modern C++ CI (although it uses non-modern CMake like ```include_directories()```)](https://juan-medina.com/2017/07/01/moderncppci/).
 * [Article - It's Time To Do CMake Right](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) (one of the best articles about CMake).
-* [Article - Basic CMake usage](https://codingnest.com/basic-cmake/)
+* Articles - A series on CMake - by Martin Hořeňovský
+    * [Basic CMake usage](https://codingnest.com/basic-cmake/)
+    * [Basic CMake, part 2: libraries](https://codingnest.com/basic-cmake-part-2/)
 * [Lecture - Introduction to CMake - by Florent Castelli, C++ Sweden 2018](https://www.youtube.com/watch?v=jt3meXdP-QI).
 * [Article - Some nice and accurate CMake tips](http://bastian.rieck.me/blog/posts/2018/cmake_tips/)
 * [Article - Modern CMake for Library Developers](http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/)
+* [Article - Effective Modern CMake: a great summary of most good practices - by Manuel Binna](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
 
 ## Package Management / Build Systems
 
@@ -162,6 +165,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cpp14-project-template ★10](https://github.com/arnavb/cpp14-project-template) - A C++14 template with CI, tests, code coverage, docs and static analysis integration. [```[CC0-1.0]```][CC0-1.0]
 * [cmake_templates ★38](https://github.com/acdemiralp/cmake_templates) - Templates for creating C++ libraries and executables (including conan). ```[NO LICENSE]```
 * [cmake_snippets ★16](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [```[BSD3]```][BSD-3-Clause]
+* [cmake-cookbook ★30](https://github.com/dev-cafe/cmake-cookbook) - A huge CMake cookbook full of recipes. [```[MIT]```][MIT]
 
 ## Other
 

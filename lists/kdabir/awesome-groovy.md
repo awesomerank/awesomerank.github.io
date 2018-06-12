@@ -111,7 +111,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [groovy-common-extensions ★67 ⏳1Y](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system
 * [groovy-extra-list-behaviour ★2 ⏳2Y](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system
 * [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code
-  * [gprof ★27 ⏳2Y](https://github.com/gperfutils/gprof) - The profiling module for Groovy
+  * [gprof ★27 ⏳3Y](https://github.com/gperfutils/gprof) - The profiling module for Groovy
   * [gbench ★25 ⏳3Y](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy
 
 ## File System Utilities

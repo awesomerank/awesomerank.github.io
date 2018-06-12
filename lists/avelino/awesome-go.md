@@ -588,7 +588,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [go-enum ★45](https://github.com/abice/go-enum) - Code generation for enums from code comments.
 * [go-linq](https://github.com/ahmetalpbalkan/go-linq) - .NET LINQ-like query methods for Go.
 * [goderive ★567](https://github.com/awalterschulze/goderive) - Derives functions from input types.
-* [interfaces ★137](https://github.com/rjeczalik/interfaces) - Command line tool for generating interface definitions.
+* [interfaces ★137 ⏳1Y](https://github.com/rjeczalik/interfaces) - Command line tool for generating interface definitions.
 * [jennifer ★703](https://github.com/dave/jennifer) - Generate arbitrary Go code without templates.
 * [pkgreflect ★63](https://github.com/ungerik/pkgreflect) - Go preprocessor for package scoped reflection.
 
@@ -596,7 +596,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Geographic tools and servers*
 
-* [geocache ★84 ⏳1Y](https://github.com/melihmucuk/geocache) - In-memory cache that is suitable for geolocation based applications.
+* [geocache ★84 ⏳2Y](https://github.com/melihmucuk/geocache) - In-memory cache that is suitable for geolocation based applications.
 * [geoserver ★6](https://github.com/hishamkaram/geoserver) - geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API.
 * [osm ★9](https://github.com/paulmach/osm) - Library for reading, writing and working with OpenStreetMap data and APIs.
 * [pbf ★6](https://github.com/maguro/pbf) - OpenStreetMap PBF golang encoder/decoder.
@@ -1014,7 +1014,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [gpm ★1201](https://github.com/pote/gpm) - Barebones dependency manager for Go.
 * [gvt ★741](https://github.com/FiloSottile/gvt) - `gvt` is a simple vendoring tool made for Go native vendoring (aka GO15VENDOREXPERIMENT), based on gb-vendor.
 * [johnny-deps ★213 ⏳3Y](https://github.com/VividCortex/johnny-deps) - Minimal dependency version using Git.
-* [nut ★248 ⏳2Y](https://github.com/jingweno/nut) - Vendor Go dependencies.
+* [nut ★248 ⏳3Y](https://github.com/jingweno/nut) - Vendor Go dependencies.
 * [VenGO ★109 ⏳1Y](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments.
 
 ## Query Language
@@ -1052,7 +1052,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-fn ★7 ⏳3Y](https://github.com/ematvey/go-fn) - Mathematical functions written in Go language, that are not covered by math pkg.
 * [go-gt ★3 ⏳2Y](https://github.com/ThePaw/go-gt) - Graph theory algorithms written in "Go" language.
 * [go.matrix ★302](https://github.com/skelterjohn/go.matrix) - linear algebra for go (has been stalled).
-* [gocomplex ★3 ⏳2Y](https://github.com/varver/gocomplex) - Complex number library for the Go programming language.
+* [gocomplex ★3 ⏳3Y](https://github.com/varver/gocomplex) - Complex number library for the Go programming language.
 * [goent ★4](https://github.com/kzahedi/goent) - GO Implementation of Entropy Measures
 * [gofrac ★6 ⏳2Y](https://github.com/anschelsc/gofrac) - (goinstallable) fractions library for go with support for basic arithmetic.
 * [gohistogram ★105](https://github.com/VividCortex/gohistogram) - Approximate histograms for data streams.

@@ -125,6 +125,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [iron:router ★2052](https://github.com/iron-meteor/iron-router) - A client and server side router designed specifically for Meteor.
 * [kadira:flow-router ★1106](https://github.com/kadirahq/flow-router) - Client Side Router for Meteor.
+* [ostrio:flow-router-extra ★131](https://github.com/VeliovGroup/flow-router) - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
 * [meteorhacks:picker ★166](https://github.com/meteorhacks/picker) - Server Side Router for Meteor.
 
 ## Offline
@@ -144,6 +145,12 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [velocity:html-reporter ★24 ⏳2Y](https://github.com/meteor-velocity/html-reporter) - HTML reporter for Meteor velocity testing framework.
 * [Gagarin ★159](https://github.com/anticoders/gagarin) - Another testing framework for your meteor apps. 
 
+## SEO
+
+*Search Engine Optimization tools*
+
+* [ostrio:spiderable-middleware ★7](https://github.com/VeliovGroup/spiderable-middleware) - Prerendering (*a.k.a. Spiderable*) with support of ES6 (ECMAScript2015) - Meteor app crawled perfectly by search engines.
+
 ## Files
 
 *Handling files in Meteor*
@@ -157,7 +164,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Search, sort and paginate related tools*
 
 * [tmeasday:publish-counts ★196 ⏳1Y](https://github.com/percolatestudio/publish-counts) - Publish the count of a cursor, in real time.
-* [percolate:find-from-publication ★35 ⏳1Y](https://github.com/versolearning/find-from-publication) - Enable finding all documents that have been published by a given publication.
+* [percolate:find-from-publication ★35 ⏳2Y](https://github.com/versolearning/find-from-publication) - Enable finding all documents that have been published by a given publication.
 * [meteorhacks:search-source ★153 ⏳1Y](https://github.com/meteorhacks/search-source) - Reactive Data Source for Search
 * [matteodem:easy-search ★424](https://github.com/matteodem/meteor-easy-search) - Easy-to-use search with Blaze Components (+ Elastic Search Support)
 * [alethes:pages ★410](https://github.com/alethes/meteor-pages) - Out of the box Meteor pagination
@@ -195,6 +202,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [percolate:synced-cron ★474](https://github.com/percolatestudio/meteor-synced-cron) - Cron system for Meteor. It supports syncronizing jobs between multiple processes.
 * [vsivsi:job-collection ★378](https://github.com/vsivsi/meteor-job-collection) - A persistent and reactive job queue for Meteor, supporting distributed workers that can run anywhere.
+* [ostrio:cron-jobs ★14](https://github.com/VeliovGroup/Meteor-CRON-jobs) - Package with similar API to native `setTimeout` and `setInterval` methods, but synced between all running Meteor (NodeJS) instances.
 
 ## Debugging Tools
 
@@ -222,7 +230,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [iron-cli ★655 ⏳1Y](https://github.com/iron-meteor/iron-cli) - A scaffolding command line tool for Meteor applications 
 * [Differential - meteor-boilerplate ★915 ⏳2Y](https://github.com/Differential/meteor-boilerplate)
 * [meteoris2 ★258 ⏳2Y](https://github.com/radiegtya/meteoris2)
-* [Base ★672](https://github.com/themeteorchef/base)
+* [Base ★672 ⏳1Y](https://github.com/themeteorchef/base)
 
 ## Tooling
 
@@ -258,9 +266,10 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Alternative Databases
 
-**Alternative Databases for MongoDB
+*Alternative Databases for MongoDB*
 
 * [meteor-pg ★21](https://github.com/Richie765/meteor-pg) - New and improved PostgreSQL support for Meteor
+* [ostrio:neo4jdriver ★53 ⏳1Y](https://github.com/VeliovGroup/ostrio-neo4jdriver) - Neo4j Driver for Meteor, with support of GrapheneDB
 * [numtel:pg ★305 ⏳2Y](https://github.com/numtel/meteor-pg) - Reactive PostgreSQL for Meteor
 * [numtel:mysql ★344 ⏳1Y](https://github.com/numtel/meteor-mysql) - Reactive MySQL for Meteor
 * [simple:rethink ★312 ⏳1Y](https://github.com/Slava/meteor-rethinkdb) - RethinkDB integration for Meteor

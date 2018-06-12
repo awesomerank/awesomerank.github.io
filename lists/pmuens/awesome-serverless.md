@@ -1097,6 +1097,9 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Serverless vendor lock-in](https://techbeacon.com/serverless-vendor-lock-should-you-be-worried) - Post about the potential vendor lock-in when dealing with serverless architectures.
 - [Kubernetes won – so now what?](http://redmonk.com/jgovernor/2018/05/25/kubernetes-won-so-now-what/) - Post on how Kubernetes should evolve in general and around serverless computing capabilities.
 - [Microsoft pushes serverless beyond events and functions](https://thenewstack.io/microsoft-pushes-serverless-beyond-events-and-functions/) - Post about the recent Azure Functions changes.
+- [Best event source for doing pub-sub](https://theburningmonk.com/2018/04/what-is-the-best-event-source-for-doing-pub-sub-with-aws-lambda/) - Post which shows different pub-sub architectures to use with AWS Lambda.
+- [Building a serverless GeoSearch GraphQL API](https://serverless.com/blog/build-geosearch-graphql-api-aws-appsync-elasticsearch/) - How to build a serverless GeoSearch GraphQL API using AWS AppSync & Elasticsearch.
+- [6 things I've learned using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526) - Post about the lessons learned using serverless technologies 6 months in.
 
 ## Screencasts
 
@@ -1504,7 +1507,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Modern koa ★17](https://github.com/barczaG/serverless-modern-koa) - Template which makes it easy to build koa apps what can be also run on AWS lambda or as a standalone koa server (or in Docker).
 - [Alexa skill ★7 ⏳1Y](https://github.com/sbstjn/serverless-alexa-skill) - Serverless example for a custom Amazon Alexa skill.
 - [OpenWhisk Slack SMS bot ★4 ⏳1Y](https://github.com/ibmets/smsbot) - SMS Bot for Slack using Twilio and OpenWhisk.
-- [DynamoDB autoscaling ★44](https://github.com/trek10inc/dynamodb-autoscaling) - Serverlessly monitor and autoscale DynamoDB.
+- [DynamoDB autoscaling ★44 ⏳1Y](https://github.com/trek10inc/dynamodb-autoscaling) - Serverlessly monitor and autoscale DynamoDB.
 - [Cron Lambda HTTP trigger ★3 ⏳1Y](https://github.com/kandros/serverless-cron-lambda-http-trigger) - CloudWatch cron triggered serverless function used to fire an HTTP request to a specified URL.
 - [Serverless SQS worker ★111](https://github.com/sbstjn/sqs-worker-serverless) - Example for SQS worker in AWS Lambda using Serverless.
 - [Serverlecs ★1 ⏳1Y](https://github.com/tobyhede/serverlecs) - Deploys a set of applications to containers in an ECS cluster.
@@ -1542,7 +1545,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [SendToSlack ★5 ⏳1Y](https://github.com/optimizely/serverless-sendToSlack) - Send messages to a Slack channel.
 - [Slack Time Tracking Bot with Google Sheets ★2](https://github.com/ersel/time-tracker-slack-gsheets) - A Node.js application to help you keep track of time spent on manual tasks in a standardized way.
 - [Kinesis Streams fan-out ★60](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework).
-- [X-Ray ★2](https://github.com/e-r-w/serverless-xray-test) - Example service to test the AWS X-Ray integration.
+- [X-Ray ★2 ⏳1Y](https://github.com/e-r-w/serverless-xray-test) - Example service to test the AWS X-Ray integration.
 - [Faultline ★72](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
 - [Dev dependencies ★3](https://github.com/cjelger/serverless-dev-dependencies) - Dummy project to show exclusion of dev dependencies when packaging with the Serverless Framework.
 - [FaunaDB powered GraphQL blog ★14](https://github.com/fauna/serverless-graphql-blog) - Serverless blog leveraging GraphQL in combination with FaunaDB.
@@ -1807,7 +1810,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Jest ★58](https://github.com/SC5/serverless-jest-plugin) - Adds support for test-driven development using Jest.
 - [Postgraphql ★88](https://github.com/rentrop/serverless-postgraphql) - GraphQL endpoint for PostgreSQL using postgraphql.
 - [Lambda dead letter ★16 ⏳1Y](https://github.com/gmetzker/serverless-plugin-lambda-dead-letter) - Configure a Lambda with a dead letter queue or topic.
-- [Delete log groups ★11](https://github.com/horike37/serverless-delete-loggroups) - Delete all AWS log groups.
+- [Delete log groups ★11 ⏳1Y](https://github.com/horike37/serverless-delete-loggroups) - Delete all AWS log groups.
 - [Dir config ★4 ⏳1Y](https://github.com/economysizegeek/serverless-dir-config-plugin) - EXPERIMENTAL - Plugin to load function and resource definitions from a directory.
 - [AWS alerts ★131](https://github.com/ACloudGuru/serverless-plugin-aws-alerts) - Easily add CloudWatch alarms to functions.
 - [Crypt ★7 ⏳1Y](https://github.com/ACloudGuru/serverless-plugin-crypt) - Encrypt and decrypt environment variables.
@@ -1879,7 +1882,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Eventuate AWS Gateway ★3](https://github.com/eventuate-clients/eventuate-aws-gateway-serverless-plugin) - Plugin for the [Eventuate](http://eventuate.io) AWS Gateway.
 - [API Gateway binary ★68](https://github.com/maciejtreder/serverless-apigw-binary) - Enable binary support in AWS API Gateway.
 - [Graph ★45](https://github.com/trek10inc/serverless-graph) - Outputs your Serverless architecture and resources as a Graphviz dot compatible output.
-- [Lambda fanout ★10](https://github.com/trek10inc/serverless-aws-lambda-fanout) - Quickly add a fanout Lambda with targets to a Serverless project.
+- [Lambda fanout ★10 ⏳1Y](https://github.com/trek10inc/serverless-aws-lambda-fanout) - Quickly add a fanout Lambda with targets to a Serverless project.
 - [Browserifier ★14](https://github.com/digitalmaas/serverless-plugin-browserifier) - Reduce the size and speed up your Node.js based Lambdas using Browserify.
 - [Shell ★8](https://github.com/UnitedIncome/serverless-shell) - Drop to a runtime shell with all the environment variables set that you'd have in Lambda.
 [Offline ★1364](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally when developing on Serverless projects.
@@ -2082,7 +2085,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Dependency install ★6](https://github.com/99xt/serverless-dependency-install) - Serverless plugin for managing dependencies.
 - [DynamoDB local ★199](https://github.com/99xt/serverless-dynamodb-local) - Use DynamoDB locally with Serverless.
 - [Cognito manager ★24](https://github.com/trek10inc/serverless-cognito-manager) - Easy cognito management for Serverless projects.
-- [Hook scripts ★4 ⏳1Y](https://github.com/kennu/serverless-plugin-hookscripts) - Run code whenever a Serverless action is run.
+- [Hook scripts ★4 ⏳2Y](https://github.com/kennu/serverless-plugin-hookscripts) - Run code whenever a Serverless action is run.
 - [Header function ★1 ⏳1Y](https://github.com/blackevil245/serverless-header-function) - Automatically run a JavaScript script on every Serverless action hooks.
 - [Runtime Node.js 6.10](https://github.com/creditiq/serverless-runtime-node610) - Support for the Node.js 6.10 runtime.
 - [Swagger export ★14 ⏳1Y](https://github.com/kennu/serverless-plugin-swagger-export) - Generate a Swagger JSON definition from your Serverless project.

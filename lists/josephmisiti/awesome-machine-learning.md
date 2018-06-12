@@ -180,7 +180,7 @@ Further resources:
 <a name="cpp-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [BanditLib ★91 ⏳2Y](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library.
+* [BanditLib ★91 ⏳3Y](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library.
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
 * [CatBoost ★2867](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU (even multi-GPU) computation.
 * [CNTK ★14591](https://github.com/Microsoft/CNTK) - The Computational Network Toolkit (CNTK) by Microsoft Research, is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
@@ -498,7 +498,7 @@ Further resources:
 * [Decision Trees ★161](https://github.com/serendipious/nodejs-decision-tree-id3) - NodeJS Implementation of Decision Tree using ID3 Algorithm.
 * [DN2A ★455](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
 * [figue](https://code.google.com/archive/p/figue) - K-means, fuzzy c-means and agglomerative clustering.
-* [Gaussian Mixture Model ★15](https://github.com/lukapopijac/gaussian-mixture-model) - Unsupervised machine learning with multivariate Gaussian mixture model.
+* [Gaussian Mixture Model ★15 ⏳1Y](https://github.com/lukapopijac/gaussian-mixture-model) - Unsupervised machine learning with multivariate Gaussian mixture model.
 * [Node-fann ★183 ⏳1Y](https://github.com/rlidwka/node-fann) - FANN (Fast Artificial Neural Network Library) bindings for Node.js
 * [Keras.js ★4100](https://github.com/transcranial/keras-js) - Run Keras models in the browser, with GPU support provided by WebGL 2.
 * [Kmeans.js ★41 ⏳4Y](https://github.com/emilbayes/kMeans.js) - Simple Javascript implementation of the k-means algorithm, for node.js and the browser.
@@ -639,7 +639,7 @@ Further resources:
   * [cutorch ★275](https://github.com/torch/cutorch) - Torch CUDA Implementation.
   * [cunn ★180](https://github.com/torch/cunn) - Torch CUDA Neural Network Implementation.
   * [imgraph ★19](https://github.com/clementfarabet/lua---imgraph) - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images.
-  * [videograph ★8 ⏳4Y](https://github.com/clementfarabet/videograph) - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos.
+  * [videograph ★8 ⏳5Y](https://github.com/clementfarabet/videograph) - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos.
   * [saliency ★3 ⏳4Y](https://github.com/marcoscoffier/torch-saliency) - code and tools around integral images. A library for finding interest points based on fast integral histograms.
   * [stitch ★3 ⏳6Y](https://github.com/marcoscoffier/lua---stitch) - allows us to use hugin to stitch images and apply same stitching to a video sequence.
   * [sfm ★3 ⏳6Y](https://github.com/marcoscoffier/lua---sfm) - A bundle adjustment/structure from motion package.
@@ -964,7 +964,7 @@ be
 * [REP ★517 ⏳1Y](https://github.com/yandex/rep) - an IPython-based environment for conducting data-driven research in a consistent and reproducible way. REP is not trying to substitute scikit-learn, but extends it and provides better user experience.
 * [rgf_python](https://github.com/fukatani/rgf_python) - Python bindings for Regularized Greedy Forest (Tree) Library.
 * [skbayes ★283](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API.
-* [fuku-ml ★215](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
+* [fuku-ml ★215 ⏳1Y](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
 * [Xcessiv ★1051](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
 * [PyTorch ★16226](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 * [ML-From-Scratch ★8324](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.

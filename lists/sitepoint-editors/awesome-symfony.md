@@ -220,7 +220,7 @@ Table of contents:
 * [rss-atom-bundle ★92](https://github.com/alexdebril/rss-atom-bundle) - RSS and Atom Bundle.
 * [Search-SphinxsearchBundle ★42 ⏳1Y](https://github.com/timewasted/Search-SphinxsearchBundle) - Sphinx search bundle.
 * [SettingsBundle ★73](https://github.com/dmishh/SettingsBundle) - Database centric configuration management. Global and per-user settings supported.
-* [shorturl-bundle ★12 ⏳1Y](https://github.com/fabstei/shorturl-bundle) - Provides short URLs for your project.
+* [shorturl-bundle ★12 ⏳2Y](https://github.com/fabstei/shorturl-bundle) - Provides short URLs for your project.
 * [SimpleArrayBundle ★2 ⏳1Y](https://github.com/EmanueleMinotto/SimpleArrayBundle) - Symfony 2 bundle for simple tags management, based on doctrine 2 simple_array type.
 * [sphinx-realtime-bundle ★5](https://github.com/camdram/sphinx-realtime-bundle) - A bundle which automatically syncs Doctrine entities to a Sphinx real-time index.
 * [SphinxsearchBundle ★25 ⏳1Y](https://github.com/IAkumaI/SphinxsearchBundle) - Provide to use Sphinx search.

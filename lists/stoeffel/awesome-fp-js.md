@@ -104,7 +104,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 * [lenses](https://github.com/DrBoolean/lenses) – Composable [kmett ★1309](https://github.com/ekmett/lens) style lenses.
 * [optics ★74 ⏳2Y](https://github.com/flunc/optics) – Profunctor optics (Lens, Prism, iso).
-* [ramda-lens ★151](https://github.com/ramda/ramda-lens) – :ram: :mag_right: Lens library built on Ramda.
+* [ramda-lens ★151 ⏳1Y](https://github.com/ramda/ramda-lens) – :ram: :mag_right: Lens library built on Ramda.
 * [fantasy-lenses ★105 ⏳2Y](https://github.com/fantasyland/fantasy-lenses) – Composable, immutable getters and setters. (Profunctor lenses WIP)
 * [nanoscope ★159 ⏳1Y](https://github.com/5outh/nanoscope) – Lenses with dotty support.
 * [partial.lenses ★523](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.

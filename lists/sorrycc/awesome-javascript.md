@@ -168,7 +168,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [prettier ★24763](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 * [JSHint ★7935](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
-* [jscs ★5154](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
+* [jscs ★5154 ⏳1Y](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt ★1710](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
 * [jsinspect ★1760](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
 * [buddy.js ★610](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
@@ -774,7 +774,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [Cerberus ★2931](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
  * [full-page-intro-and-navigation ★33 ⏳3Y](https://github.com/CodyHouse/full-page-intro-and-navigation) - An intro page with a full width background image, a bold animated menu and an iOS-like blurred effect behind the navigation
  * [Fluid-Squares ★28 ⏳3Y](https://github.com/crozynski/Fluid-Squares) - A fluid grid of square units.
- * [Mobile-First-RWD ★62 ⏳5Y](https://github.com/bradfrost/Mobile-First-RWD) - An example of a mobile-first responsive web design
+ * [Mobile-First-RWD ★62 ⏳6Y](https://github.com/bradfrost/Mobile-First-RWD) - An example of a mobile-first responsive web design
  * [this-is-responsive ★1527](https://github.com/bradfrost/this-is-responsive) - This Is Responsive
  * [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) Task automation with NPM run-scripts.
 

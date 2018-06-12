@@ -331,7 +331,7 @@ Related Repos:
 * [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-net/)
 * [Learn More](https://aws.amazon.com/sdk-for-net/)
-* [Samples :fire: ★101](https://github.com/awslabs/aws-sdk-net-samples)
+* [Samples :fire: ★101 ⏳1Y](https://github.com/awslabs/aws-sdk-net-samples)
 
 ## Command Line Tools
 
@@ -476,7 +476,7 @@ AWS Repos:
 
 Community Repos:
 
-* [jorgebastida/awslogs :fire::fire::fire::fire: ★1962](https://github.com/jorgebastida/awslogs) - Simple CLI for querying groups, streams and events.
+* [jorgebastida/awslogs :fire::fire::fire::fire::fire: ★1962](https://github.com/jorgebastida/awslogs) - Simple CLI for querying groups, streams and events.
 * [newrelic-platform/newrelic_aws_cloudwatch_plugin :fire: ★153](https://github.com/newrelic-platform/newrelic_aws_cloudwatch_plugin) - New Relic plugin.
 
 ### Code Deploy
@@ -559,7 +559,7 @@ AWS Repos:
 * [aws-sessionstore-dynamodb-ruby ★43](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps.
 * [dynamodb-cross-region-library :fire::fire: ★227](https://github.com/awslabs/dynamodb-cross-region-library) - Cross-region replication.
 * [dynamodb-geo :fire::fire: ★215 ⏳1Y](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
-* [dynamodb-import-export-tool ★56](https://github.com/awslabs/dynamodb-import-export-tool) - Import and export examples.
+* [dynamodb-import-export-tool ★56 ⏳1Y](https://github.com/awslabs/dynamodb-import-export-tool) - Import and export examples.
 * [dynamodb-online-index-violation-detector ★5 ⏳3Y](https://github.com/awslabs/dynamodb-online-index-violation-detector) - Finds violations on an online GSI's hash key and range key.
 * [dynamodb-streams-kinesis-adapter ★40](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - Kinesis interface to consume and process data from a DynamoDB stream.
 * [dynamodb-tictactoe-example-app](https://github.com/awslabs/dynamodb-tictactoe-example-app) - Lightweight python app.
@@ -569,7 +569,7 @@ AWS Repos:
 
 Community Repos:
 
-* [channl/dynamodb-lambda-autoscale :fire::fire: ★311](https://github.com/channl/dynamodb-lambda-autoscale) - Autoscale DynamoDB provisioned capacity using Lambda.
+* [channl/dynamodb-lambda-autoscale :fire::fire: ★311 ⏳1Y](https://github.com/channl/dynamodb-lambda-autoscale) - Autoscale DynamoDB provisioned capacity using Lambda.
 * [lyft/confidant :fire::fire::fire::fire: ★1298](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
 * [sebdah/dynamic-dynamodb :fire::fire::fire: ★578](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
 
@@ -732,7 +732,7 @@ AWS Repos:
 
 Community Repos:
 
-* [alestic/lambdash :fire::fire: ★335](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside the Lambda environment.
+* [alestic/lambdash :fire::fire: ★335 ⏳1Y](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside the Lambda environment.
 * [Alephbet/gimel :fire: ★174](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using Lambda.
 * [apex/apex :fire::fire::fire::fire::fire: ★7002](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
 * [claudiajs/claudia :fire::fire::fire::fire::fire: ★2754](https://github.com/claudiajs/claudia) - Deploy Node.js projects to Lambda and API Gateway easily.
