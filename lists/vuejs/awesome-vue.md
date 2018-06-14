@@ -379,6 +379,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Build a cryptocurrency tracker using Vue.js](https://pusher.com/tutorials/cryptocurrency-tracker-vue)
 - [Build a design feedback app using Vue.js](https://pusher.com/tutorials/design-feedback-vuejs)
 - [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/developing-a-single-page-app-with-flask-and-vuejs)
+- [Accepting Payments with Stripe, Vue.js, and Flask](https://testdriven.io/accepting-payments-with-stripe-vuejs-and-flask)
 
 ### Examples
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
@@ -554,7 +555,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [npm-stats ★61](https://github.com/apertureless/npm-stats) - npm package download statistics dashboard
   - [vue2-admin-lte ★597](https://github.com/devjin0617/vue2-admin-lte) - a project that converts AdminLTE to work with Vuejs (v2.x).
 - [Dockeron ★332](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
-- [Flamme ★112](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
+- [Flamme ★112 ⏳1Y](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
 - [Goldfish ★1775](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI built with VueJS, Golang, and Bulma CSS
 - [Adminify ★539](https://github.com/wxs77577/adminify) - An Admin dashboard based on [Vuetify](https://vuetifyjs.com/), check the [Online Demo](http://adminify.genyii.com)
 - [promptie ★50 ⏳1Y](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
@@ -626,6 +627,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Chattier ★0](https://github.com/raniesantos/chattier) - SPA social network built with Laravel 5.6, Vue.js 2, and Bulma (Buefy components + Bulmaswatch themes). Also uses JWT authentication.
 - [chrome-ribbon-reminder ★3](https://github.com/johndatserakis/chrome-ribbon-reminder) - A Chrome extension written using Vue and Async/Await. Uses a popup display and changes badge counts.
 - [Faviator](https://www.faviator.xyz/) - A simple easy favicon generator.
+- [Laravel Genealogy ★15](https://github.com/laravel-genealogy/genealogy) - Genealogy / family tree management system using Laravel 5.6, Vue.js 2 and various components. Work in progress.
 
 ### Commercial Products
 
@@ -1211,7 +1213,7 @@ Tooltips / popovers
  - [vue-text-highlight ★4](https://github.com/AlbertLucianto/vue-text-highlight) - Text highlighter library for Vue.js 💄
  - [vue2-hammer ★37](https://github.com/bsdfzzzy/vue2-hammer) Hammer.js wrapper for Vue 2.x to support mobile touch..
  - [vue-countable ★1](https://github.com/johndatserakis/vue-countable) - Vue binding for countable.js. Provides real-time paragraph, sentence, word, and character counting.
-
+ - [v-show-slide ★1](https://github.com/phegman/v-show-slide) - A Vue.js directive for animating an element to and from height: auto in a sliding motion.
 
 ### Tabs
 
@@ -1558,6 +1560,7 @@ Tooltips / popovers
  - [mint-ui ★11210](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js.
  - [vant ★4793](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
  - [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.
+ - [mand-mobile](https://didi.github.io/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.
 
 ### Admin Template
 
@@ -1716,7 +1719,7 @@ Tooltips / popovers
 
 ### Pagination
 
-  - [vue-paginate ★429](https://github.com/TahaSh/vue-paginate) - A simple vue.js plugin to paginate data.
+ - [vue-paginate ★429](https://github.com/TahaSh/vue-paginate) - A simple vue.js plugin to paginate data.
  - [vue-pagination-2 ★84](https://github.com/matfish2/vue-pagination-2) - Vue.js 2 pagination component.
  - [vuejs-uib-pagination ★38](https://github.com/sant123/vuejs-uib-pagination) - Best and complete pagination plugin for Vue.js. Inspired in Angular Bootstrap Pagination.
  - [vuejs-paginate ★313](https://github.com/lokyoung/vuejs-paginate) - A Vue.js(v2.x+) component for creating pagination.
@@ -1727,6 +1730,7 @@ Tooltips / popovers
  - [laravel-vue-pagination ★107](https://github.com/gilbitron/laravel-vue-pagination) - A Vue.js pagination component for Laravel paginators that works with Bootstrap.
  - [vue-lpage ★3](https://github.com/Botre/vue-lpage) - Low-level Vue pagination component.
  - [v-page ★15](https://github.com/TerryZ/v-page) - A simple pagination bar, including length Menu, i18n support, based on Vue2.x.
+ - [vue-smart-pagination ★7](https://github.com/grinmax/vue-smart-pagination) - Smart pagination of any data with a lot of nice settings.
 
 ### Animation
 

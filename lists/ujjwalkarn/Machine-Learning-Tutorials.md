@@ -122,6 +122,8 @@ title: Awesome Rank for ujjwalkarn/Machine-Learning-Tutorials
 
 - [What are the key skills of a data scientist?](https://www.quora.com/What-are-the-key-skills-of-a-data-scientist)
 
+- [The Big List of DS/ML Interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
+
 <a name="ai" />
 
 ## Artificial Intelligence

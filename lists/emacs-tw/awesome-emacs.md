@@ -145,7 +145,7 @@ Above, all enjoy using Emacs. The community, that more than anything, makes Emac
 
 *** Key-bindings
     #+BEGIN_QUOTE
-    Something maybe make RSI away.
+    Possibly help prevent keyboard related repetitive strain injury (RSI) from occurring.
     #+END_QUOTE
     - [[https://github.com/emacs-evil/evil][Evil]] - An *e* xtensible *vi* *l* ayer: manipulate Emacs with Vi key binding.
       - [[https://github.com/emacs-evil/evil-collection][Evil Collection]] - A collection of Evil bindings.
@@ -319,18 +319,18 @@ Above, all enjoy using Emacs. The community, that more than anything, makes Emac
 
 *** Ruby
 
-    - [[https://github.com/senny/rvm.el][rvm]]  Ruby versions manager within Emacs.
-    - [[https://github.com/endofunky/bundler.el][bundler]] Interact with gem Bundler from Emacs.
-    - [[https://github.com/nonsequitur/inf-ruby][inf-ruby]] REPL buffer connected to a Ruby subprocess.
-    - [[https://github.com/zenspider/enhanced-ruby-mode][enhanced-ruby-mode]] Enhanced Ruby Mode replaces the emacs ruby mode that
+    - [[https://github.com/senny/rvm.el][rvm]] - Ruby versions manager within Emacs.
+    - [[https://github.com/endofunky/bundler.el][bundler]] - Interact with gem Bundler from Emacs.
+    - [[https://github.com/nonsequitur/inf-ruby][inf-ruby]] - REPL buffer connected to a Ruby subprocess.
+    - [[https://github.com/zenspider/enhanced-ruby-mode][enhanced-ruby-mode]] - Enhanced Ruby Mode replaces the emacs ruby mode that
       comes with ruby. It uses the Ripper class found in ruby 1.9.2 (and later)
       to parse and indent the source code.
-    - [[https://www.emacswiki.org/emacs/yari.el][yari]] Yet Another RI interface for Emacs.
+    - [[https://www.emacswiki.org/emacs/yari.el][yari]] - Yet Another RI interface for Emacs.
     - [[https://github.com/dgutov/robe][robe]] Code navigation, documentation lookup and completion for Ruby.
-    - [[https://github.com/bbatsov/rubocop][rubocop]] A Ruby static code analyzer, based on the community Ruby style guide.
-    - [[https://github.com/ainame/motion-mode][motion-mode]]  A package to provide emacs' major mode for RubyMotion enviroment.
-    - [[https://github.com/pezra/rspec-mode][rspec-mode]] An RSpec minor mode for Emacs.
-    - [[https://github.com/michaelklishin/cucumber.el][feature-mode]] Emacs mode for editing Cucumber plain text stories.
+    - [[https://github.com/rubocop-hq/rubocop][rubocop]] - A Ruby static code analyzer, based on the community Ruby style guide.
+    - [[https://github.com/ainame/motion-mode][motion-mode]] - A package to provide emacs' major mode for RubyMotion enviroment.
+    - [[https://github.com/pezra/rspec-mode][rspec-mode]] - An RSpec minor mode for Emacs.
+    - [[https://github.com/michaelklishin/cucumber.el][feature-mode]] - Emacs mode for editing Cucumber plain text stories.
     - [[https://github.com/eschulte/rinari][rinari]] - Rinari Is Not A Rails IDE (it is an Emacs minor mode for Rails).
 
 *** Lisp Family
@@ -560,7 +560,7 @@ External Guides:
    - [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Version-Control.html][VC]] - =[built-in]= Emacs version control interface works with several different version control systems including Bazaar, CVS, Git, Mercurial, Monotone, RCS, SCCS/CSSC, and Subversion.
    - [[https://github.com/dgtized/github-clone.el][github-clone.el]] - Fork and clone Github projects from Emacs.
    - [[https://github.com/magit/git-modes][git-rebase-mode]] - Major mode for editing git rebase files.
-   - [[https://github.com/pidu/git-timemachine][git-timemachine]] - Step through historic versions of git controlled files.
+   - [[https://gitlab.com/pidu/git-timemachine][git-timemachine]] - Step through historic versions of git controlled files.
    - [[https://github.com/syohex/emacs-git-gutter][git-gutter]] - Indicator the modified lines via git diff.
    - [[https://github.com/syohex/emacs-git-messenger][git-messenger]] - popup commit message at current line to know why this line was changed.
    - [[https://github.com/rmuslimov/browse-at-remote][browse-at-remote]] - Open page at github/bitbucket from emacs buffers.
@@ -568,6 +568,10 @@ External Guides:
    - [[https://github.com/ananthakumaran/monky][monky]] - An interactive interface for mercurial.
    - [[https://bitbucket.org/agriggio/ahg/][aHg]] - An Emacs front-end for the Mercurial SCM.
    - [[https://github.com/jwiegley/git-undo-el][git-undo]] - A command for Emacs to regress or "undo" a region back through its Git history.
+
+#+BEGIN_QUOTE
+For additional git related emacs packages to use or to get inspiration from, take a look at the following resource: [[https://github.com/tarsius/git-elisp-overview]].
+#+END_QUOTE
 
 ** Integration
 
@@ -725,7 +729,6 @@ External Guides:
     - [[https://github.com/jwiegley/use-package][use-package]] - A declaration macro to isolate package configuration in a way that is performance-oriented and tidy.
       - [[https://github.com/edvorg/req-package][req-package]] - A use-package wrapper for package runtime dependencies management.
     - [[https://github.com/jschaf/esup][ESUP]] - Emacs Start Up Profiler.  Benchmark Emacs Startup time without ever leaving your Emacs.
-    - [[https://github.com/technomancy/better-defaults][better-defaults]] - A small number of better defaults for Emacs.
     - [[https://github.com/emacscollective/no-littering][no-littering]] - Help keeping ~/.emacs.d clean.
 
 *** Package Updates
@@ -827,7 +830,6 @@ External Guides:
 
 ** Noteworthy Configurations
 
-  - [[https://github.com/emacsmirror/emacswiki.org/blob/master/emacs-init.el][init.el]] - Drew Adams : Icicles, bookmark+ to name a few.
   - [[https://github.com/jwiegley/dot-emacs][dot-emacs]] - John Wiegley (@jwiegley): Lead maintainer of Emacs, use-package.
   - [[https://github.com/howardabrams/dot-files/blob/master/emacs.org][emacs.org]] - Howard Abrams (@howardabrams).
   - [[https://github.com/magnars/.emacs.d][.emacs.d]] - Magnar Sveen (@magnars) : multiple-cursors, dash, expand-region.
@@ -843,9 +845,12 @@ External Guides:
   - [[https://github.com/ejmr/DotEmacs][DotEmacs]] - Eric James Michael Ritz (@ejmr).
   - [[https://github.com/thierryvolpiatto/emacs-tv-config][emacs-tv-config]] - Thierry Volpiatto (@thierryvolpiatto) : Helm Maintainer.
   - [[https://github.com/jorgenschaefer/Config/blob/master/emacs.el][emacs.el]] - Jorgen Schäfer (@jorgenschaefer) : Elpy, Circe.
-  - [[https://ogbe.net/emacsconfig.html][emacsconfig.html]] - Dennis Ogbe.
   - [[https://github.com/joedicastro/dotfiles/tree/master/emacs][emacs]] - Joe di Castro @joedicastro.
   - [[https://github.com/julienfantin/.emacs.d][emacs.d]] - Julien Fantin : use-package, good config organisation system.
+
+#+BEGIN_QUOTE
+In addition, for more configurations, take a look at [[https://github.com/caisah/emacs.dz]].
+#+END_QUOTE
 
 ** Tutorials
 

@@ -331,7 +331,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Libraries and tools for templating.*
 
-* [jade-phalcon ★5 ⏳1Y](https://github.com/kylekatarnls/jade-phalcon) - Jade Template Engine for Phalcon PHP Framework
+* [jade-phalcon ★5 ⏳2Y](https://github.com/kylekatarnls/jade-phalcon) - Jade Template Engine for Phalcon PHP Framework
 * [phalcon-xslt-view-engine ★2 ⏳2Y](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon PHP Framework
 * [twig-phalcon ★4](https://github.com/vinyvicente/phalcon-twig) - Twig Template Engine for Phalcon PHP Framework
 

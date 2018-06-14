@@ -460,7 +460,7 @@ phone numbers.
 * [django-nose ★789](https://github.com/django-nose/django-nose) - Test runner using nose.
 * [django-selenium ★84 ⏳2Y](https://github.com/dragoon/django-selenium) - Selenium testing support.
 * [django-shotgun ★13 ⏳4Y](https://github.com/stephenmcd/django-shotgun) - Test entire Django sites.
-* [django-slowtests ★121](https://github.com/realpython/django-slow-tests) - Locate your slowest tests.
+* [django-slowtests ★121 ⏳1Y](https://github.com/realpython/django-slow-tests) - Locate your slowest tests.
 * [django-test-plus ★279](https://github.com/revsys/django-test-plus) - Useful addons to Django's default TestCase that greatly reduces boilerplate code
 * [factory_boy ★1459](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 * [hitchtest](http://hitchtest.com/) - High level integration testing framework for Django.

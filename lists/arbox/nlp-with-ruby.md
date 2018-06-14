@@ -430,7 +430,7 @@ the underlying language.
   Generate strings that match a given regular expression.
 - [verbal_expressions ★547 ⏳4Y](https://github.com/ryan-endacott/verbal_expressions) -
   Make difficult regular expressions easy.
-- [translit_kit ★0](https://github.com/AnalyzePlatypus/TranslitKit) -
+- [translit_kit ★0 ⏳1Y](https://github.com/AnalyzePlatypus/TranslitKit) -
   Transliterate Hebrew & Yiddish text into Latin characters.
 - [re2 ★60](https://github.com/mudge/re2) -
   hight-speed Regular Expression library for Text Mining and Text Extraction.

@@ -492,6 +492,7 @@ Projects
 * [Keel](https://keel.sh/)
 * [Apollo ★108](https://github.com/logzio/apollo) - Open Source application providing teams with self service UI for creating and deploying their services to Kubernetes.
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
+* [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
 
 ## Serverless Implementations
 
@@ -628,7 +629,7 @@ Projects
 * [click ★672](https://github.com/databricks/click) - A CLI focused REPL for quickly interacting with Kubernetes objects.
 * [kube-prompt ★601](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
 * [Kube-shell ★742](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
-* [Kubebot ★82 ⏳1Y](https://github.com/harbur/kubebot)
+* [Kubebot ★82 ⏳2Y](https://github.com/harbur/kubebot)
 * [kubectx ★1357](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl
 * [kubens ★1357](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl
 * [StackStorm ★2654](https://github.com/StackStorm/st2)

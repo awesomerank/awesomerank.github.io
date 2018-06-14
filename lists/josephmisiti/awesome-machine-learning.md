@@ -513,7 +513,7 @@ Further resources:
 * [Bayesian-Bandit ★40](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser.
 * [Synaptic ★6108](https://github.com/cazala/synaptic) - Architecture-free neural network library for Node.js and the browser.
 * [kNear ★36](https://github.com/NathanEpstein/kNear) - JavaScript implementation of the k nearest neighbors algorithm for supervised learning.
-* [NeuralN ★273 ⏳2Y](https://github.com/totemstech/neuraln) - C++ Neural Network library for Node.js. It has advantage on large dataset and multi-threaded training.
+* [NeuralN ★273 ⏳3Y](https://github.com/totemstech/neuraln) - C++ Neural Network library for Node.js. It has advantage on large dataset and multi-threaded training.
 * [kalman ★91 ⏳2Y](https://github.com/itamarwe/kalman) - Kalman filter for Javascript.
 * [shaman ★101 ⏳2Y](https://github.com/luccastera/shaman) - Node.js library with support for both simple and multiple linear regression.
 * [ml.js ★1000](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!

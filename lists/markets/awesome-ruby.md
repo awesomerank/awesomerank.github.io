@@ -1097,7 +1097,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Bacon ★409](https://github.com/chneukirchen/bacon) - A small RSpec clone.
   * [Capybara ★8373](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications.
   * [Cucumber ★1898](https://github.com/cucumber/cucumber) - BDD that talks to domain experts first and code second.
-  * [Cutest ★144](https://github.com/djanowski/cutest) - Isolated tests in Ruby.
+  * [Cutest ★144 ⏳1Y](https://github.com/djanowski/cutest) - Isolated tests in Ruby.
   * [Howitzer ★161](https://github.com/strongqa/howitzer) - Ruby based framework for acceptance testing
   * [Konacha ★1075](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
   * [minitest ★2415](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.

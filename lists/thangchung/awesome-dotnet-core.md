@@ -143,7 +143,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Steeltoe OSS](https://github.com/SteelToeOSS) - .NET toolkit for common microservice patterns.
 
 ### Application Templates
-* [ASP.NET Core Boilerplate](https://github.com/ASP-NET-Core-Boilerplate/Templates) - A professional ASP.NET MVC template for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.
+* [.NET Boxed ★1265](https://github.com/Dotnet-Boxed/Templates) - Project templates with batteries included, providing the minimum amount of code required to get you going. Includes ASP.NET Core API and GraphQL Templates.
 * [aspnet-core-react-template ★219](https://github.com/bradymholt/aspnet-core-react-template) - ASP.NET Core 2.0 / React SPA Template App.
 * [AspNetCoreSpa ★599](https://github.com/asadsahi/AspNetCoreSpa) - Asp.Net Core 2+ & Angular 6 SPA with Angular CLI full featured application.
 * [ASP.NET-MVC-Template ★157](https://github.com/NikolayIT/ASP.NET-MVC-Template) - A ready-to-use templates for ASP.NET MVC 5 and ASP.NET Core with repositories, services, models mapping and DI and StyleCop warnings fixed.
@@ -187,6 +187,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [GitVersioning ★104](https://github.com/AArnott/Nerdbank.GitVersioning) - Stamp your assemblies and NuGet packages with a version from a single, simple version.txt file and include git commit IDs for non-official builds.
 * [go-dotnet ★213](https://github.com/matiasinsaurralde/go-dotnet) - Go wrapper for the .NET Core Runtime.
 * [Image2Docker ★221](https://github.com/docker/communitytools-image2docker-win) - PowerShell module which ports existing Windows application workloads to Docker.
+* [LocalAppVeyor ★65](https://github.com/joaope/LocalAppVeyor) - Run your AppVeyor builds, locally.
 * [msbuild ★3492](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
 * [Nuke ★162](https://github.com/nuke-build/nuke) - Cross-platform build automation system.
 * [Opserver ★3418](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System.
@@ -535,7 +536,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Schema.NET ★126](https://github.com/RehanSaeed/Schema.NET) - Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.
 * [ServiceStack.Text ★927](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers.
 * [TinyCsvParser ★66](https://github.com/bytefish/TinyCsvParser) - Easy to use, easy to extend and high-performance library for CSV parsing with .NET.
-* [Wire ★330](https://github.com/rogeralsing/Wire) - Binary serializer for POCO objects.
+* [Wire ★330 ⏳1Y](https://github.com/rogeralsing/Wire) - Binary serializer for POCO objects.
 * [YamlDotNet ★656](https://github.com/aaubry/YamlDotNet) - .NET
 * [ZeroFormatter ★1234](https://github.com/neuecc/ZeroFormatter) - Fast binary (de)serializer for .NET.
 * [Utf8Json ★876](https://github.com/neuecc/Utf8Json) - Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).

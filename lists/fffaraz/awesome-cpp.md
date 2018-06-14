@@ -399,6 +399,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [OpenEXR](http://www.openexr.com/) - Cross-platform library for high dynamic range imaging. [Modified BSDF]
 * [OpenImageIO ★748](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]
 * [tesseract-ocr](https://github.com/tesseract-ocr) - An OCR engine. [Apache2]
+* [TinyEXIF ★17](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. [MIT]
 * [Video++ ★496](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. [MIT]
 * [VIGRA ★267](https://github.com/ukoethe/vigra) - A generic C++ computer vision library for image analysis. [MIT X11]
 * [VTK](http://www.vtk.org/) - Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]
@@ -781,7 +782,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Build Systems
 
-* [Bazel](https:/bazel.build) - A multi-language, fast and scalable build system from Google. [Apache]
+* [Bazel](https://bazel.build) - A multi-language, fast and scalable build system from Google. [Apache]
 * [Bear ★721](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling. [GPLv3]
 * [cget ★232](https://github.com/pfultz2/cget) - Cmake package retrieval used to download and install cmake packages. [Boost]
 * [clib ★2909](https://github.com/clibs/clib) - Package manager for the C programming language. [MIT]

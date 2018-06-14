@@ -191,7 +191,7 @@ To third parties:
 Data Structures
 ===============
 
-* [bst ★3](https://github.com/glv2/bst) - Binary Search Tree. [GPL3][2]. Not in Quicklisp.
+* [bst ★3 ⏳1Y](https://github.com/glv2/bst) - Binary Search Tree. [GPL3][2]. Not in Quicklisp.
 * [FSet](http://quickdocs.org/fset/) - A functional, set-theoretic collections data structure library. [LLGPL][8].
 * [pileup](http://nikodemus.github.io/pileup/) - a portable, performant, and thread-safe binary heap for Common Lisp. [MIT][200].
 * [sycamore ★41](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD_3Clause][15].

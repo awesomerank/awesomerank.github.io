@@ -301,7 +301,7 @@ Name | License | Demo
 --- | --- | ---
 [Caldroid ★1371](https://github.com/roomorama/Caldroid) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/Caldroid.png" width="49%">
 [android-times-square ★4194](https://github.com/square/android-times-square) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-times-square.png" width="49%">
-[Android-MonthCalendarWidget ★1033](https://github.com/romannurik/Android-MonthCalendarWidget) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](https://github.com/wasabeef/awesome-android-ui/blob/master//art/Android-MonthCalendarWidget.png)
+[Android-MonthCalendarWidget ★1033 ⏳1Y](https://github.com/romannurik/Android-MonthCalendarWidget) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](https://github.com/wasabeef/awesome-android-ui/blob/master//art/Android-MonthCalendarWidget.png)
 [android-betterpickers ★2698](https://github.com/code-troopers/android-betterpickers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](https://github.com/wasabeef/awesome-android-ui/blob/master//art/android-betterpickers.png)
 [Android-Week-View ★2888](https://github.com/alamkanak/Android-Week-View) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](https://github.com/wasabeef/awesome-android-ui/blob/master//art/Android-Week-View.png)
 [SilkCal ★383 ⏳2Y](https://github.com/NLMartian/SilkCal) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/SilkCat.gif" width="49%">

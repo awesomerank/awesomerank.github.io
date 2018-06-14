@@ -437,7 +437,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [basket.js ★3153](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage.
 * [bag.js ★73 ⏳1Y](https://github.com/nodeca/bag.js) - A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.
 * [basil.js ★1906](https://github.com/Wisembly/basil.js) - The missing Javascript smart persistent layer.
-* [jquery-cookie ★8487](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
+* [jquery-cookie ★8487 ⏳1Y](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
 * [js-cookie ★9551](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 * [Cookies ★1748](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library.
 * [DB.js ★634 ⏳1Y](https://github.com/aaronpowell/db.js) - Promise based IndexDB Wrapper library

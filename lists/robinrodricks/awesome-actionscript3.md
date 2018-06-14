@@ -397,7 +397,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### PDF
 
 * [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([docs](http://alivepdf.bytearray.org/), [github ★16](https://github.com/riadvice/alivepdf)).
-* [PurePDF ★133 ⏳4Y](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText.
+* [PurePDF ★133 ⏳5Y](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText.
 * [HalcyonPDF ★2 ⏳7Y](https://github.com/systemed/halcyon_pdf) - OpenStreetMap PDF renderer.
 * [PDFCase ★2 ⏳5Y](https://github.com/dickclaus/pdfcase) - PDF Library.
 * [PDFView ★3 ⏳2Y](https://github.com/jankapunkt/PDFView) - PDF viewer built from scratch.

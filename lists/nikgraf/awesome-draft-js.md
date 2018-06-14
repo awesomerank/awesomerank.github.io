@@ -53,7 +53,7 @@ title: Awesome Rank for nikgraf/awesome-draft-js
 * [Draft.js Plugins ★2740](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js
   - [Alignment](https://www.draft-js-plugins.com/plugin/alignment)
   - [Autolist ★52](https://github.com/icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation.
-  - [Block Breakout ★33](https://github.com/icelab/draft-js-block-breakout-plugin) - Break out of block types as you type.
+  - [Block Breakout ★33 ⏳1Y](https://github.com/icelab/draft-js-block-breakout-plugin) - Break out of block types as you type.
   - [Buttons ★59](https://github.com/vacenz/last-draft-js-plugins)
   - [Color Picker ★59](https://github.com/vacenz/last-draft-js-plugins)
   - [Counter](https://www.draft-js-plugins.com/plugin/counter) - Character, word & line counting.
@@ -148,6 +148,7 @@ title: Awesome Rank for nikgraf/awesome-draft-js
 * [Douban Read](https://read.douban.com/editor_ng)
 * [Dooly](https://www.dooly.ai)
 * [Wagtail](https://wagtail.io/)
+* [Patreon](https://www.patreon.com/)
 
 ## License
 

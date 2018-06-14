@@ -56,7 +56,7 @@ under the hood:
 - [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox)
 - [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo ★39 ⏳1Y](https://github.com/shuhei/todomvc-choo))
 - [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - ([repo](https://github.com/mw222rs/choo-firebase))
-- [Grow](https://grow.static.land) - ([repo ★15 ⏳1Y](https://github.com/sethvincent/grow))
+- [Grow](https://grow.static.land) - ([repo ★15 ⏳2Y](https://github.com/sethvincent/grow))
 - [Chatbot](http://chootbot.herokuapp.com) - ([repo ★1 ⏳1Y](https://github.com/plaey/chatbot))
 - [chat-random ★4 ⏳1Y](https://github.com/akiva/chat-random)
 - [choo-leaflet-demo ★16 ⏳1Y](https://github.com/timwis/choo-leaflet-demo)

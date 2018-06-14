@@ -19,7 +19,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ## Charts
 
-- [billboard.js ★2603](https://github.com/naver/billboard.js) - Re-usable chart library [bar, line, area, donut, pie, step]
+- [billboard.js ★2603](https://github.com/naver/billboard.js) - Re-usable chart library [bar, line, area, donut, pie, step, spline]
 - [britecharts ★3324](https://github.com/eventbrite/britecharts) - Client-side reusable charting library [bar, line, donut, sparkline, step]
 - [cirrusjs ★93 ⏳2Y](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library [area, line, stacked]
 - [cubism ★4669](https://github.com/square/cubism) - Time series visualization
@@ -61,7 +61,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [Gantt-Chart ★299](https://github.com/dk8996/Gantt-Chart) - Gantt chart library
 - [insights ★188](https://github.com/ignacioola/insights) -  Library to visualize and navigate graphs
 - [kotojs ★278 ⏳1Y](https://github.com/kotojs/kotojs) - ES6 based framework
-- [metrics-graphics](https://github.com/mozilla/metrics-graphics) - Optimized for visualizing time-series data [line, scatter, area]
+- [metrics-graphics ★6883](https://github.com/metricsgraphics/metrics-graphics) - Optimized for visualizing time-series data [line, scatter, area]
 - [micropolar ★117 ⏳1Y](https://github.com/biovisualize/micropolar) - A polar chart library
 - [mpld3 ★1648](https://github.com/mpld3/mpld3) - Export matplotlib graphics to work in the Browser
 - [neo4jd3 ★216](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
@@ -91,7 +91,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [line-chart ★1225](https://github.com/n3-charts/line-chart) - Line chart module for Angular [line, area, bar]
 - [nivo ★2521](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability [bar, line, area, bubble, chord, heatmap]
 - [ngx-charts ★2071](https://github.com/swimlane/ngx-charts) - Chart framework for Angular [bar, pie, line, area, polar, stacked, bubble]
-- [number-picture](https://github.com/finnfiddle/number-picture) - Collection of React components for composing visualizations
+- [potion ★111](https://github.com/finnfiddle/potion) - Collection of React components for composing visualizations
 - [react-d3 ★1728 ⏳2Y](https://github.com/esbullington/react-d3) - Charts for React [area, bar, candlestick, line, pie, scatter]
 - [react-d3-components ★1369](https://github.com/codesuki/react-d3-components) - D3 Components [bar, stacked, scatter, line, area, pie]
 - [react-d3-library ★789](https://github.com/react-d3-library/react-d3-library) - Library to use D3 in React [area, bar, line, pie, scatter]
@@ -182,7 +182,6 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-force-gravity ★17 ⏳1Y](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion)
 - [d3-resume ★32 ⏳3Y](https://github.com/glena/d3-resume) - Resume visualizer
 - [d3.sketchy ★228 ⏳2Y](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
-- [d3-plugins ★1785](https://github.com/d3/d3-plugins) - Collection of plugins (sankey, bullet, hexbin, ...)
 - [d3plus-text ★38](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 - [graph-scroll ★409](https://github.com/1wheel/graph-scroll) - Simple scrolling events
 - [jsdoc2diagram ★33 ⏳2Y](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc

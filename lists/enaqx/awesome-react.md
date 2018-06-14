@@ -161,6 +161,7 @@ A collection of awesome things regarding React ecosystem.
 * [GraphCMS Beginners Guide with React](https://graphcms.com/docs/getting-started/beginners_guide_with_react/)
 * [Build a Chat App with React and Pusher Chatkit](https://github.com/bookercodes/build-a-chat-app-with-react-and-pusher-chatkit)
 * [How to set up continuous integration and deployment for your React app](https://medium.freecodecamp.org/how-to-set-up-continuous-integration-and-deployment-for-your-react-app-d09ae4525250)
+* [SSR Split (A/B) Testing and Analytics with React, Redux, and Next.js](https://hackernoon.com/tutorial-ssr-split-testing-and-analytics-with-react-redux-and-next-js-5392799c15c7)
 
 ##### React best practices
 
@@ -205,7 +206,6 @@ A collection of awesome things regarding React ecosystem.
 * [NgReact - React Components in Angular](http://davidandsuzi.com/ngreact-react-components-in-angular/)
 * [ng-React Update - React 0.9 and Angular Track By](http://davidandsuzi.com/ngreact-update/)
 * [Using React for Faster Renders and Isomosphism in Angular](http://davidandsuzi.com/using-react-for-faster-renders-and-isomorphism-in-angular/)
-* [Faster AngularJS Rendering](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 * [Improving AngularJS long list rendering performance using ReactJS](http://www.mono-software.com/blog/post/Mono/242/Improving-AngularJS-long-list-rendering-performance-using-ReactJS/)
 * [How can React and Flux help us create better Angular applications?](https://medium.com/@gilbox/how-can-react-and-flux-help-us-create-better-stronger-faster-angular-applications-639247898fb)
 * [Achieving Reasonable and Scalable Routing in AngularJS with Flux](https://medium.com/@gilbox/achieving-reasonable-and-scalable-routing-in-angularjs-with-flux-2655e06cd5ee)
@@ -482,7 +482,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-widgets - Suite of ui input widgets including combobox, multiselect, datepicker and more](https://github.com/theporchrat/react-widgets)
 * [react-select - Rich Select Component ★11904](https://github.com/JedWatson/react-select)
 * [react-video - React component to load video from Vimeo or Youtube ★213 ⏳2Y](https://github.com/pedronauck/react-video)
-* [react-captcha - A react.js reCAPTCHA for Google ★336](https://github.com/appleboy/react-recaptcha)
 * [react-cassette-player - Vector-based HTML5 Audio Player ★90 ⏳1Y](https://github.com/chadpaulson/react-cassette-player)
 * [react-tagsinput - A simple react component for inputing tags. ★951](https://github.com/olahol/react-tagsinput)
 * [react-autolink - An autolink mixin for React ★40 ⏳1Y](https://github.com/banyan/react-autolink)
@@ -570,6 +569,7 @@ A collection of awesome things regarding React ecosystem.
 * [rsuite - A suite of React components ★1495](https://github.com/rsuite/rsuite)
 * [react-dt - A data table component for React and Material-UI ★1](https://github.com/sonaye/react-dt)
 * [react-vertical-timeline-component - A vertical timeline for React.js ★72](https://github.com/stephane-monnot/react-vertical-timeline)
+* [react-handsontable - A React wrapper for the the Handsontable spreadsheet component. ★239](https://github.com/handsontable/react-handsontable)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system ★584](https://github.com/LouisBarranqueiro/reapop)
@@ -666,6 +666,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-three-renderer - Render into a three.js canvas using React ★1261](https://github.com/toxicFork/react-three-renderer)
 * [react-threejs - Simplest bindings between React & Three.js ★37](https://github.com/fritx/react-threejs)
 * [react-masonry-css - Fast Masonry layout powered by CSS, dependancy free ★39](https://github.com/paulcollett/react-masonry-css)
+* [react-captcha - A react.js reCAPTCHA for Google ★336](https://github.com/appleboy/react-recaptcha)
+* [reaptcha - Clean, modern and simple React wrapper for Google reCAPTCHA ★14](https://github.com/sarneeh/reaptcha)
 
 ##### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
@@ -687,6 +689,7 @@ A collection of awesome things regarding React ecosystem.
 * [NeoForm – Modular HOCs for form state management and validation](https://github.com/zero-plus-x/neoform)
 * [react-jsonschema-form – A React component for building Web forms from JSON Schema](https://github.com/mozilla-services/react-jsonschema-form)
 * [List View Select - A Togglable select box for React Native with native components ★41](https://github.com/JamesWatling/react-native-list-view-select)
+* [Final Form 🏁 ★2225](https://github.com/final-form/react-final-form)
 
 ##### Autocomplete
 * [react-typeahead-search by @tonyspiro ★14 ⏳2Y](https://github.com/tonyspiro/react-typeahead-search)
@@ -1022,7 +1025,7 @@ A collection of awesome things regarding React ecosystem.
 * [graphql-yoga - Easiest way to run a GraphQL server](https://github.com/graphcool/graphql-yoga)
 
 #### Database Integration
-* [Hasura - Build scalable GraphQL applications on Postgres in minutes. Create tables and relationships and get GraphQL APIs instantly with fine grained permissions and access control.](https://hasura.io/) 
+* [Hasura - Build scalable GraphQL applications on Postgres in minutes. Create tables and relationships and get GraphQL APIs instantly with fine grained permissions and access control.](https://hasura.io/)
 * [Prisma - a performant open-source GraphQL ORM-like * layer doing the heavy lifting in your GraphQL server.](https://www.prisma.io/)
 * [graphql-bookshelf - Some help defining GraphQL schema around BookshelfJS models ★163](https://github.com/brysgo/graphql-bookshelf)
 * [GraphpostgresQL - GraphQL for **PostgreSQL** ★997 ⏳1Y](https://github.com/solidsnack/GraphpostgresQL)

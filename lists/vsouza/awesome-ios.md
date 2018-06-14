@@ -154,7 +154,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Tag](#tag)
     - [TextField & TextView](#textfield--textview)
     - [UIPageControl](#uipagecontrol)
-    - [Web View](#web--view)
+    - [Web View](#web-view)
 - [Utility](#utility)
 - [VR](#vr)
 - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
@@ -195,9 +195,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 *Courses, tutorials and guides*
 
-* [Apple- Start Developing with iOS](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Apple Guide.
-* [Apple - Object-Oriented Programming with Objective-C](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
-* [Apple - Programming with Objective-C](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+* [Apple- Start Developing with iOS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Apple Guide.
+* [Apple - Object-Oriented Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
+* [Apple - Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 * [CodeProject](https://www.codeproject.com/articles/88929/getting-started-with-iphone-and-ios-development) - Getting Started with iPhone and iOS Development.
 * [Lifehacker](https://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) - I Want to Write iOS Apps. Where Do I Start?
 * [Ray Wenderlich](https://www.raywenderlich.com/38557/learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
@@ -210,7 +210,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ### Other free courses
 
- * [Codeschool - Exploring Google Maps for iOS](https://www.codeschool.com/courses/exploring-google-maps-for-ios)
+ * [Codeschool - Exploring Google Maps for iOS](https://www.pluralsight.com/courses/exploring-google-maps-for-ios)
 
 ## Analytics
 
@@ -340,7 +340,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 * [Awesome Cache ★1125](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift)
 * [mattress ★466](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content
-* [Carlos ★482](https://github.com/WeltN24/Carlos) - A simple but flexible cache
+* [Carlos ★484](https://github.com/spring-media/Carlos) - A simple but flexible cache
 * [HanekeSwift ★4689](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 * [YYCache ★1765](https://github.com/ibireme/YYCache) - High performance cache framework for iOS.
 * [Cache ★1257](https://github.com/hyperoslo/Cache) - Nothing but Cache.
@@ -642,7 +642,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Droar ★30](https://github.com/myriadmobile/Droar) - Droar is a modular, single-line installation debugging window
 
 ## EventBus
-* [SwiftEventBus ★649](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8.
+* [SwiftEventBus ★649](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [PromiseKit ★9510](https://github.com/mxcl/PromiseKit) - Promises for iOS and macOS.
 * [Bolts ★5293](https://github.com/BoltsFramework/Bolts-ObjC) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier, including tasks (promises) and app links (deep links).
 * [SwiftTask ★1790](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel + retry for Swift.
@@ -812,7 +812,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 ### Other Hardware
 
 * [MotionKit ★977](https://github.com/MHaroonBaig/MotionKit) - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple.
-* [DarkLightning ★197](https://github.com/jensmeder/DarkLightning) - Simply the fastest way to transmit data between iOS/tvOS and macOS.
+* [DarkLightning ★197 ⏳1Y](https://github.com/jensmeder/DarkLightning) - Simply the fastest way to transmit data between iOS/tvOS and macOS.
 * [Deviice ★24](https://github.com/andrealufino/Deviice) - Simply library to detect the device on which the app is running (and some properties)
 * [DeviceKit ★1974](https://github.com/dennisweissmann/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
 * [Luminous ★210](https://github.com/andrealufino/Luminous) - Luminous is a big framework which can give you a lot of information (more than 50) about the current system.
@@ -889,7 +889,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [BartyCrouch ★425](https://github.com/Flinesoft/BartyCrouch) - Incrementally update/translate your Strings files from Code and Storyboards/XIBs.
 * [LocalizationKit ★992](https://github.com/willpowell8/LocalizationKit_iOS) - Localization management in realtime from a web portal. Easily manage your texts and translations without redeploy and resubmission.
 * [Localize-Swift ★1816](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching
-* [LocalizedView ★8 ⏳1Y](https://github.com/darkcl/LocalizedView) - Setting up application specific localized string within Xib file.
+* [LocalizedView ★8 ⏳2Y](https://github.com/darkcl/LocalizedView) - Setting up application specific localized string within Xib file.
 * [transai ★52](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
 * [lokalise](https://lokalise.co/en ) - Translation platform for software developers. Free for open source projects
 * [Strsync ★107](https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
@@ -1479,6 +1479,7 @@ Most of these are paid services, some have free tiers.
 * [RxAnimated ★382](https://github.com/RxSwiftCommunity/RxAnimated) - Animated RxCocoa bindings
 * [BindKit ★4](https://github.com/electricbolt/bindkit) - Two-way data binding framework for iOS. Only one API to learn.
 * [STDevRxExt ★2](https://github.com/stdevteam/STDevRxExt) - STDevRxExt contains some extension functions for RxSwift and RxCocoa which makes our live easy.
+* [RxReduce ★17](https://github.com/RxSwiftCommunity/RxReduce) - Lightweight framework that ease the implementation of a state container pattern in a Reactive Programming compliant way.
 
 ### React-Like
 * [Render ★1823](https://github.com/alexdrone/Render) - Swift and UIKit a la React.
@@ -1664,7 +1665,7 @@ Most of these are paid services, some have free tiers.
 * [MMMarkdown ★1157](https://github.com/mdiep/MMMarkdown) - An Objective-C static library for converting Markdown to HTML.
 * [DTCoreText ★5415](https://github.com/Cocoanetics/DTCoreText) - Methods to allow using HTML code with CoreText.
 * [DTRichTextEditor ★303](https://github.com/Cocoanetics/DTRichTextEditor) - A rich-text editor for iOS.
-* [NBEmojiSearchView ★83 ⏳2Y](https://github.com/neerajbaid/NBEmojiSearchView) - A searchable emoji dropdown view.
+* [NBEmojiSearchView ★83 ⏳3Y](https://github.com/neerajbaid/NBEmojiSearchView) - A searchable emoji dropdown view.
 * [Pluralize.swift ★143](https://github.com/joshualat/Pluralize.swift) - Great Swift String Pluralize Extension
 * [RichEditorView ★1115](https://github.com/cjwirth/RichEditorView) - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
 * [Money ★879](https://github.com/danthorpe/Money) - Swift value types for working with money & currency
@@ -2173,7 +2174,7 @@ Most of these are paid services, some have free tiers.
 * [gbkui-button-progress-view ★528 ⏳2Y](https://github.com/Guidebook/gbkui-button-progress-view) - Inspired by Apple’s download progress buttons in the App Store.
 * [ZFRippleButton ★1346](https://github.com/zoonooz/ZFRippleButton) - Custom UIButton effect inspired by Google Material Design
 * [JOEmojiableBtn ★245](https://github.com/lojals/JOEmojiableBtn) - Emoji selector like Facebook Reactions.
-* [EMEmojiableBtn ★75 ⏳1Y](https://github.com/Eke/EMEmojiableBtn) - Option selector that works similar to Reactions by fb. Objective-c version.
+* [EMEmojiableBtn ★75 ⏳2Y](https://github.com/Eke/EMEmojiableBtn) - Option selector that works similar to Reactions by fb. Objective-c version.
 * [WYMaterialButton ★72 ⏳1Y](https://github.com/Yu-w/WYMaterialButton) - Interactive and fully animated Material Design button for iOS developers.
 * [DynamicButton ★918](https://github.com/yannickl/DynamicButton) - Yet another animated flat buttons in Swift
 * [OnOffButton ★435 ⏳1Y](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift. By Creativedash
@@ -2434,7 +2435,7 @@ Most of these are paid services, some have free tiers.
 * [ScrollingFollowView ★149 ⏳1Y](https://github.com/ktanaka117/ScrollingFollowView) - ScrollingFollowView is a simple view which follows UIScrollView scrolling.
 * [UIScrollView-InfiniteScroll ★828](https://github.com/pronebird/UIScrollView-InfiniteScroll) - UIScrollView infinite scroll category.
 * [GoAutoSlideView ★49](https://github.com/zjmdp/GoAutoSlideView) - GoAutoSlideView extends UIScrollView by featuring infinitely and automatically slide.
-* [AppStoreStyleHorizontalScrollView ★609](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
+* [AppStoreStyleHorizontalScrollView ★609 ⏳1Y](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
 * [PullToDismiss ★261](https://github.com/sgr-ksmt/PullToDismiss) - You can dismiss modal viewcontroller by pulling scrollview or navigationbar in Swift.
 * [SpreadsheetView ★2480](https://github.com/kishikawakatsumi/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.
 *  [VegaScroll ★1737](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9
@@ -2822,7 +2823,7 @@ CollectionView, make Instagram Discover within minutes.
 * [chairs ★234 ⏳3Y](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents
 * [SwiftPlate ★1509](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line.
 * [xclint ★100](https://github.com/xcodeswift/xclint) - Validate the state of your Xcode projects.
-* [xcproj ★644](https://github.com/xcodeswift/xcproj) - Read and update Xcode projects.
+* [xcproj](https://github.com/xcode-project-manager/xcproj) - Read and update Xcode projects.
 
 
 ## Dependency / Package Manager
@@ -3065,7 +3066,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Tutorials Point](https://www.tutorialspoint.com/ios/index.htm)
 * [Code with Chris](https://codewithchris.com/)
 * [Cocoa with Love](http://www.cocoawithlove.com/)
-* [Code School - Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
+* [Code School - Try Objective-C](https://www.pluralsight.com/courses/try-objective-c)
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
 * [RAYWENDERLICH](https://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
 * [Mike Ash](https://www.mikeash.com/pyblog/)
@@ -3150,7 +3151,6 @@ CollectionView, make Instagram Discover within minutes.
 
 ## Books
 * [The Swift Programming Language by Apple](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
-* [Using Swift with Cocoa and Objective C by Apple](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 * [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](https://www.bignerdranch.com/books/ios-programming/)
 * [Programming in Objective-C by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
 * [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)

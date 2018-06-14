@@ -95,7 +95,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [TDDSwiftPlayground ★42 ⏳1Y](https://github.com/sshrpe/TDDSwiftPlayground) - Demonstration of using Swift Playgrounds in Test Driven Development with XCTest.
 * [Concurrency on iOS ★33 ⏳1Y](https://github.com/sammyd/2017AtSwift_Concurrency) - Concurrency and Parallelism in iOS.
 * [Modern Core Data ★18](https://github.com/dfreniche/modern-core-data-playground) - An introduction to Core Data.
-* [Swift DSL Example ★16](https://github.com/cfdrake/swift-dsl-example) - Implementation of a DSL in Swift.
+* [Swift DSL Example ★16 ⏳1Y](https://github.com/cfdrake/swift-dsl-example) - Implementation of a DSL in Swift.
 * [Katan ★14 ⏳1Y](https://github.com/marciok/katan) - A micro web server that replies "Hello world!" to every request, an example of how to use sockets in Swift.
 * [Swift Regular Expressions ★3](https://github.com/ogulcan/SwiftRegEx) - A playground to learn regular expressions with Swift.
 * [Network Stack ★3](https://github.com/AndrejKolar/NetworkStack) - Clean & simple Swift networking stack playground.

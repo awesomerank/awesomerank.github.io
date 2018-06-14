@@ -144,7 +144,7 @@ Spawn a namespace container for debugging, testing and building. Part of [system
 The main goal of Porto is to create a convenient, reliable interface over several Linux kernel mechanism such as cgroups, namespaces, mounts, networking etc.
 * [udocker ★305](https://github.com/indigo-dc/udocker)  
 A basic user tool to execute simple containers in batch or interactive systems without root privileges.
-* [Let Me Contain That For You ★3133 ⏳2Y](https://github.com/google/lmctfy)  
+* [Let Me Contain That For You ★3133 ⏳3Y](https://github.com/google/lmctfy)  
 LMCTFY is the open source version of Google’s container stack, which provides Linux application containers.
 * [cc-oci-runtime](https://github.com/01org/cc-oci-runtime)  
 Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.
@@ -205,11 +205,15 @@ Work with remote images registries - retrieving information, images, signing con
 Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 * [dgr ★235](https://github.com/blablacar/dgr)  
 Command line utility designed to build and to configure at runtime App Containers Images (ACI) and App Container Pods (POD) based on convention over configuration.
+* [Whaler ★305](https://github.com/P3GLEG/Whaler)  
+Whaler is designed to reverse engineer a Docker Image into the Dockerfile that created it.
 
 ## Dashboard
 
 * [LXC-Web-Panel](https://lxc-webpanel.github.io/)  
 Web panel for LXC on Ubuntu.
+* [Liman ★118](https://github.com/salihciftci/liman)  
+Basic docker monitoring web application.
 
 ## Best practices
 
@@ -240,6 +244,8 @@ Quick and Easy server testing/validation.
 A proxy for docker.sock that enforces access control and isolated privileges.
 * [gvisor ★6030](https://github.com/google/gvisor)  
 gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
+* [docker-explorer ★163](https://github.com/google/docker-explorer)  
+A tool to help forensicate offline docker acquisitions.
 
 
 ### Links

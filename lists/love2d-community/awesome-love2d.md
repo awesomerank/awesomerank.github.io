@@ -277,7 +277,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love2d-assets-loader ★27 ⏳2Y](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
 * [love-pe ★3](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself
 * [Lily ★39](https://github.com/MikuAuahDark/lily) - Async Asset Loader
-* [Luvent ★44 ⏳2Y](https://github.com/ejmr/Luvent) - Simple event-driven programming
+* [Luvent ★44 ⏳3Y](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [splashy ★14](https://github.com/videah/splashy) - Splash Screen Library
 * [tick ★23 ⏳1Y](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop
 

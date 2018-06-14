@@ -1544,7 +1544,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [AWS IAM manager ★36](https://github.com/netguru/aws-iam-manager) - AWS IAM Manager as code.
 - [SendToSlack ★5 ⏳1Y](https://github.com/optimizely/serverless-sendToSlack) - Send messages to a Slack channel.
 - [Slack Time Tracking Bot with Google Sheets ★2](https://github.com/ersel/time-tracker-slack-gsheets) - A Node.js application to help you keep track of time spent on manual tasks in a standardized way.
-- [Kinesis Streams fan-out ★60](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework).
+- [Kinesis Streams fan-out ★60 ⏳1Y](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework).
 - [X-Ray ★2 ⏳1Y](https://github.com/e-r-w/serverless-xray-test) - Example service to test the AWS X-Ray integration.
 - [Faultline ★72](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
 - [Dev dependencies ★3](https://github.com/cjelger/serverless-dev-dependencies) - Dummy project to show exclusion of dev dependencies when packaging with the Serverless Framework.
@@ -2011,6 +2011,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Emerging Technology Advisors](https://www.emergingtechnologyadvisors.com) - Consultancy.
 - [OneSpeed](https://onespeed.io) - Agency.
 - [Seraro](http://www.seraro.com) - Agency.
+- [Superluminar](https://superluminar.io) - Agency.
 
 ## Content Management Systems
 

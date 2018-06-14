@@ -360,7 +360,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [any_hash.cr ★12](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
  * [atomic_write.cr ★3](https://github.com/chris-huxtable/atomic_write.cr) - Library for writing or apppending files atomically
  * [burocracia.cr ★10](https://github.com/vnbrs/burocracia.cr) - burocracia.cr the dependecyless shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP
- * [circuit_breaker ★15](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
+ * [circuit_breaker ★15 ⏳1Y](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
  * [crystal-binary_parser ★6](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-futures ★45 ⏳1Y](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crz ★27](https://github.com/dhruvrajvanshi/crz) - Functional programming library

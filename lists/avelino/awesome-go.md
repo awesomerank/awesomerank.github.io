@@ -842,6 +842,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [conv ★317 ⏳1Y](https://github.com/cstockton/go-conv) - Package conv provides fast and intuitive conversions across Go types.
 * [datacounter ★21](https://github.com/miolini/datacounter) - Go counters for readers/writer/http.ResponseWriter.
 * [errors ★3029](https://github.com/pkg/errors) - Package that provides simple error handling primitives.
+* [ghorg ★9](https://github.com/gabrie30/ghorg) - Clone all repos from a GitHub org into a single directory.
 * [go-chat-bot ★327](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go.
 * [go-commons-pool ★495](https://github.com/jolestar/go-commons-pool) - Generic object pool for Golang.
 * [go-multierror ★454](https://github.com/hashicorp/go-multierror) - Go (golang) package for representing a list of errors as a single error.
@@ -888,7 +889,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-i18n ★622](https://github.com/nicksnyder/go-i18n) - Package and an accompanying tool to work with localized text.
 * [go-mystem ★15 ⏳1Y](https://github.com/dveselov/mystem) - CGo bindings to Yandex.Mystem - russian morphology analyzer.
 * [go-nlp ★73 ⏳6Y](https://github.com/nuance/go-nlp) - Utilities for working with discrete probability distributions and other tools useful for doing NLP work.
-* [go-stem ★44 ⏳2Y](https://github.com/agonopol/go-stem) - Implementation of the porter stemming algorithm.
+* [go-stem ★44 ⏳3Y](https://github.com/agonopol/go-stem) - Implementation of the porter stemming algorithm.
 * [go-unidecode ★24 ⏳1Y](https://github.com/mozillazg/go-unidecode) - ASCII transliterations of Unicode text.
 * [go2vec ★28 ⏳1Y](https://github.com/danieldk/go2vec) - Reader and utility functions for word2vec embeddings.
 * [gojieba](https://github.com/yanyiwu/gojieba) - This is a Go implementation of [jieba ★13571](https://github.com/fxsjy/jieba) which a Chinese word splitting algorithm.
@@ -1376,7 +1377,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-sitemap-generator ★74](https://github.com/ikeikeikeike/go-sitemap-generator) - XML Sitemap generator written in Go.
 * [go-torch ★2923](https://github.com/uber/go-torch) - Stochastic flame graph profiler for Go programs.
 * [go-trigger ★134 ⏳1Y](https://github.com/sadlil/go-trigger) - Go-lang global event triggerer, Register Events with an id and trigger the event from anywhere from your project.
-* [go-underscore ★955 ⏳2Y](https://github.com/tobyhede/go-underscore) - Useful collection of helpfully functional Go collection utilities.
+* [go-underscore ★955 ⏳3Y](https://github.com/tobyhede/go-underscore) - Useful collection of helpfully functional Go collection utilities.
 * [goback ★37](https://github.com/carlescere/goback) - Go simple exponential backoff package.
 * [godaemon ★358 ⏳2Y](https://github.com/VividCortex/godaemon) - Utility to write daemons.
 * [godropbox ★3548](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications from Dropbox.
@@ -1805,6 +1806,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [GopherCon](http://www.gophercon.com/) - Denver, USA
 * [GopherCon Brazil](https://gopherconbr.org) - Florianópolis, BR
 * [GopherCon Europe](https://gophercon.is/) - Reykjavik, Iceland
+* [GopherCon India](https://www.gophercon.in/) - Pune, India
 * [GopherCon Russia](https://www.gophercon-russia.ru) - Moscow, Russia
 * [GopherCon Singapore](https://gophercon.sg) - Mapletree Business City, Singapore
 * [GothamGo](http://gothamgo.com/) - New York City, USA

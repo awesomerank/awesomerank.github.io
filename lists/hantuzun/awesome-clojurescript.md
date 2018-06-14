@@ -100,7 +100,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [Freactive ★370 ⏳2Y](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 - [Hiccups ★156](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
 - [Hickory ★342](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
-- [json-html ★117](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.
+- [json-html ★117 ⏳1Y](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.
 - [Kioo ★402](https://github.com/ckirkendall/kioo) – DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
 - [Sablono ★598](https://github.com/r0man/sablono) – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
