@@ -484,6 +484,9 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Vue Design System ★907](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
 - [Vue Bulma Demo ★9](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
 - [Starter application ready for production with TypeScript, vuex, vue-router, HMR and more ★3](https://github.com/kadro/vue-boilerplate)
+- [vue.js与laravel结合的前后端分离开发模板 ★195](https://github.com/wmhello/laravel_template_with_vue)- A template website to laravel passport / Vue.JS & Element UI.
+
+
 
 ### Books
 
@@ -892,6 +895,8 @@ title: Awesome Rank for vuejs/awesome-vue
  - [vue-awesome-notifications ★19](https://github.com/f3oall/vue-awesome-notifications) - Lightweight Vue.js notification library with advanced async support.
  - [vue-izitoast ★14](https://github.com/arthurvasconcelos/vue-izitoast) - A Vue.js 2 wrapper around IziToast.
  - [vue-toastr-2](https://github.com/saivarunk/vue-toastr-2) - Simple toast notifications for Vue.js built on [toastr ★8232](https://github.com/CodeSeven/toastr)
+ - [vue-snack ★1](https://github.com/zerodois/vue-snack) - A Vue.JS plugin for Snackbars based on Google Material.
+
 
 ### Loader
 
@@ -961,6 +966,8 @@ Tooltips / popovers
 - [vue-cute-modal ★2](https://github.com/dillonchanis/vue-cute-modal) - A simple and easy to use Modal component for Vue applications.
 - [v-dialogs ★13](https://github.com/TerryZ/v-dialogs) - A simple and powerful dialog, including Modal, Alert, Mask and Toast modes, based on Vue2.x
 - [vue-gallery-slideshow ★10](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
+- [vue-a11y-dialog](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog` ★1098](https://github.com/edenspiekermann/a11y-dialog).
+- [vue-slideout-panel ★2](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
 
 ### Parallax
 
@@ -1023,7 +1030,7 @@ Tooltips / popovers
  - [vue-echarts-v3 ★681](https://github.com/xlsdg/vue-echarts-v3) - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
  - [vue-chartist ★26](https://github.com/lakb248/vue-chartist) - Vue.js 2.0 component wrap for Chartist.
  - [g2-vue ★38](https://github.com/fireyy/g2-vue) - Factory wrapper for using G2 easily in a Vue Component.
- - [vuebars ★119](https://github.com/DeviaVir/vue-bar) - Simple, elegant spark bars for Vue.js.
+ - [vuebars ★119 ⏳1Y](https://github.com/DeviaVir/vue-bar) - Simple, elegant spark bars for Vue.js.
  - [vue-d3-network ★131](https://github.com/emiliorizzo/vue-d3-network) - Vue component to graph networks using d3-force
  - [vue2vis ★60](https://github.com/alexcode/vue2vis) - Vue2 wrapper for [Visjs](http://visjs.org).
  - [vue-c3 ★32](https://github.com/chryb/vue-c3) - A reusable vue component for c3 charts
@@ -1060,10 +1067,11 @@ Tooltips / popovers
  - [vue-full-calendar](https://github.com/CroudSupport/vue-fullcalendar) - A complete [fullcalendar.io](fullcalendar.io) wrapper for both Vue 1 and 2
  - [v-calendar ★579](https://github.com/nathanreyes/v-calendar) - Animated calendar/datepicker that displays regions, indicators and day popovers for simple & recurring dates.
  - [vue-infinite-calendar ★4](https://github.com/laleshii/vue-infinite-calendar) - A simple infinite calendar implementation for Vue 2
- - [vue-calendar ★16](https://github.com/kylin-z/vue-calendar) - A simple calendar components for Vue 2.1.5+ ,support custom content. No dependencies.
+ - [vue-calendar ★16](https://github.com/kylin-z/vue-calendar) - A simple calendar components for Vue 2.1.5+, support custom content. No dependencies.
  - [vue2-event-calendar ★11](https://github.com/kitwon/vue2-event-calendar) - An events calendar for Vue2, support customize event items and calendar header.
- - [vue2-datePicker-infinite ★1](https://github.com/leepyng/vue-datepicker-infinite) - An infinite datePicker for Vue2,easy to use and no dependencies.
+ - [vue2-datePicker-infinite ★1](https://github.com/leepyng/vue-datepicker-infinite) - An infinite datePicker for Vue2, easy to use and no dependencies.
  - [vue2-slot-calendar ★345](https://github.com/icai/vue2-calendar) - A vue 2 calendar, datepicker component which supported lunar or date event, bootstrap style.
+ - [quasar-calendar ★34](https://github.com/stormseed/quasar-calendar) - A vue.js calendar using the Quasar framework that implements monthly, multi-day and agenda views.
 
 ### Map
 
@@ -1214,6 +1222,7 @@ Tooltips / popovers
  - [vue2-hammer ★37](https://github.com/bsdfzzzy/vue2-hammer) Hammer.js wrapper for Vue 2.x to support mobile touch..
  - [vue-countable ★1](https://github.com/johndatserakis/vue-countable) - Vue binding for countable.js. Provides real-time paragraph, sentence, word, and character counting.
  - [v-show-slide ★1](https://github.com/phegman/v-show-slide) - A Vue.js directive for animating an element to and from height: auto in a sliding motion.
+ - [vue-swipe-actions ★2](https://github.com/eCollect/vue-swipe-actions) - iOS style swipe actions for Vue.js
 
 ### Tabs
 
@@ -1236,7 +1245,7 @@ Tooltips / popovers
 #### Generator
 
  - [vue-json-schema ★306](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
- - [vue-awesome-form ★4](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor 
+ - [vue-awesome-form ★4](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
 
 ##### Date Picker
 
@@ -1748,6 +1757,7 @@ Tooltips / popovers
  - [vue-parent-change-transition ★6](https://github.com/inamori/vue-parent-change-transition) Enable a child components to animate when it changes the parent.
  - [vue-smooth-height ★20](https://github.com/guanzo/vue-smooth-height) Transition an elements height in response to data changes.
  - [VueTween ★3](https://github.com/SeregPie/VueTween) Allows components to tween their properties.
+ - [vue-slide-up-down ★30](https://github.com/danieldiekmeier/vue-slide-up-down) Like jQuery's `slideUp` / `slideDown`, but for Vue!
 
 ### Meta Tags
 
@@ -1867,6 +1877,7 @@ A Vue 2.x component of easy-to-config page visibility api.
 the amazing Vue.js.
  - [vue-simple-i18n ★28](https://github.com/ClassicOldSong/vue-simple-i18n) - Probably the thinnest library to end all Vue i18n solutions within 1kb
  - [template-string-i18n ★1](https://github.com/cutsin/template-string-i18n) - I18n using template strings with auto save/load translate documents.
+ - [vue-translations ★1](https://github.com/owl1n/vue-translations) - Translate your vuejs application easy with it.
 
 ### Custom Events
 
@@ -1956,6 +1967,7 @@ the amazing Vue.js.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
  - [vuex-map-fields ★144](https://github.com/maoberlehner/vuex-map-fields) - Enable two-way data binding for form fields.
  - [vuex-search ★8](https://github.com/AlbertLucianto/vuex-search) - Vuex binding for client-side search with indexers and Web Workers.
+ - [vuex-dry ★10](https://github.com/eunjae-lee/vuex-dry) - helps keep your vuex codes DRY.
 
 ###### Sync Between Tabs
 
@@ -2099,6 +2111,7 @@ Payment utilities.
  - [amazon-cognito-vuex-module ★18](https://github.com/Botre/amazon-cognito-vuex-module) - Vuex module for Amazon Cognito.
  - [vue-web3 ★4](https://github.com/morrislaptop/vue-web3) - Web3 blockchain bindings for Vue.js (inspired by Vuefire and Drizzle)
   - [sbt-vuefy ★0](https://github.com/GIVESocialMovement/sbt-vuefy) - Vue.js integration for Playframework
+  - [loopback-vue-starter ★0](https://github.com/ivandov/loopback-vue-starter) - LoopBack and Vue starter template with easy plugin management through `vue-cli` and `vue ui`.
 
 ###### Google Analytics
 
@@ -2272,7 +2285,7 @@ Payment utilities.
  - [vue-multiple-pages ★696](https://github.com/Plortinus/vue-multiple-pages) - A modern Vue.js multiple pages starter which uses Vue 2, Webpack2, and Element-UI
  - [vue-typescript-boilerplate ★40](https://github.com/twcapps/vue-typescript-boilerplate) - A Vue.js typescript SPA starter with Vue 2, Vue Typed, Vuex, Vue Router and localization
  - [vue-tachyons-template ★9 ⏳1Y](https://github.com/colorful-tones/vue-tachyons-template) - A Vue 2 project starter template w/ Tachyons, Webpack, and ESLint
- - [Vuets ★19](https://github.com/AkiraLaine/Vuets) - A Vue, TypeScript ready boilerplate using class-style components, vue plugin options, webpack & vue-cli.
+ - [Vuets ★19 ⏳1Y](https://github.com/AkiraLaine/Vuets) - A Vue, TypeScript ready boilerplate using class-style components, vue plugin options, webpack & vue-cli.
  - [MMF-FE/vue-typescript ★65](https://github.com/MMF-FE/vue-typescript) - A vue2.x typescript template.
  - [Friendly Vue Starter ★26](https://github.com/mcongy/friendly-vue-starter) - A full featured Vue.js starter project with GraphQL support via Apollo-client (Vuex, Vue-router, Vue-i18n, Webpack 3, Eslint, Prettier, ...)
  - [vue-webpack-typescript ★600](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue 2.2 Webpack 2 and Typescript 2 setup with hot reload, unit testing, code coverage, sass and bundling/minification.

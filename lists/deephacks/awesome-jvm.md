@@ -162,7 +162,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [stream-lib ★1806](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
 * [streamvbyte ★131](https://github.com/lemire/streamvbyte) - Fast integer compression in C using the StreamVByte codec.
 * [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
-* [transducers-java ★100 ⏳2Y](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
+* [transducers-java ★100 ⏳3Y](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
 * [VarInt](https://github.com/bazelbuild/bazel/blob/master/src/main/java/com/google/devtools/build/lib/util/VarInt.java) - No-deps variable int implementation without deps (by Bazel).
 * [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
 * [wire ★2366](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.

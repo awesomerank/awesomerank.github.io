@@ -266,7 +266,7 @@ Here awesome badge for your project:
 * [pakoito/Komprehensions ★61](https://github.com/pakoito/Komprehensions) - Do comprehensions for Kotlin and 3rd party libraries.
 * [h0tk3y/kotlin-monads ★71 ⏳1Y](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
 * [poetix/klenses ★21 ⏳2Y](https://github.com/poetix/klenses) - Lenses for Kotlin.
-* [reactor/reactor-kotlin-extensions ★48](https://github.com/reactor/reactor-kotlin-extensions) - Kotlin extensions for Reactor.
+* [reactor/reactor-kotlin-extensions ★48 ⏳1Y](https://github.com/reactor/reactor-kotlin-extensions) - Kotlin extensions for Reactor.
 * [UrbanCompass/Snail-Kotlin ★31](https://github.com/UrbanCompass/Snail-Kotlin) - An observables framework for Kotlin.
 
 ### <a name="libraries-frameworks-json"></a>JSON <sup>[Back ⇈](#libraries-frameworks-json-subcategory)</sup>

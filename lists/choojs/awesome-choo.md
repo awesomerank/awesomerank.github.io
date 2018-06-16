@@ -113,7 +113,7 @@ Other CLI templates
 ### Projects using choo
 
 - [boxcar ★9](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor.
-- [choo-sortable ★2 ⏳1Y](https://github.com/willkessler/choo-sortable) - Building sortable code with choo.
+- [choo-sortable ★2 ⏳2Y](https://github.com/willkessler/choo-sortable) - Building sortable code with choo.
 - [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo.
 - [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review).
 - [minidocs ★126 ⏳1Y](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo.

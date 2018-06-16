@@ -222,7 +222,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [configure ★36](https://github.com/paked/configure) - Provides configuration through multiple sources, including JSON, flags and environment variables.
 * [confita ★43](https://github.com/heetch/confita) - Load configuration in cascade from multiple backends into a struct.
 * [env ★482](https://github.com/caarlos0/env) - Parse environment variables to Go structs (with defaults).
-* [envcfg ★87](https://github.com/tomazk/envcfg) - Un-marshaling environment variables to Go structs.
+* [envcfg ★87 ⏳1Y](https://github.com/tomazk/envcfg) - Un-marshaling environment variables to Go structs.
 * [envconf ★6 ⏳3Y](https://github.com/ian-kent/envconf) - Configuration from environment.
 * [envconfig ★116](https://github.com/vrischmann/envconfig) - Read your configuration from environment variables.
 * [envh ★85](https://github.com/antham/envh) - Helpers to manage environment variables.
@@ -268,7 +268,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [bit ★20](https://github.com/yourbasic/bit) - Golang set data structure with bonus bit-twiddling functions.
 * [bitset ★368](https://github.com/willf/bitset) - Go package implementing bitsets.
 * [bloom](https://github.com/zhenjl/bloom) - Bloom filters implemented in Go.
-* [bloom ★5](https://github.com/yourbasic/bloom) - Golang Bloom filter implementation.
+* [bloom ★5 ⏳1Y](https://github.com/yourbasic/bloom) - Golang Bloom filter implementation.
 * [boomfilters ★936](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams.
 * [concurrent-writer ★5](https://github.com/free/concurrent-writer) - Highly concurrent drop-in replacement for `bufio.Writer`.
 * [conjungo ★32](https://github.com/InVisionApp/conjungo) - A small, powerful and flexible merge library.
@@ -867,12 +867,14 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [margelet ★47 ⏳1Y](https://github.com/zhulik/margelet) - Framework for building Telegram bots.
 * [pdfgen ★8](https://github.com/hyperboloide/pdfgen) - HTTP service to generate PDF from Json requests.
 * [persian ★9](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
+* [sandid ★1](https://github.com/sheng/sandid) - Every grain of sand on earth has its own ID.
 * [secdl](https://github.com/xor-gate/secdl) - Lighttpd ModSecDownload algorithm ported to go to secure download urls.
 * [shellwords ★1](https://github.com/Wing924/shellwords) - A Golang library to manipulate strings according to the word parsing rules of the UNIX Bourne shell.
 * [shortid ★262](https://github.com/teris-io/shortid) - Distributed generation of super short, unique, non-sequential, URL friendly IDs.
 * [slacker ★181](https://github.com/shomali11/slacker) - Easy to use framework to create Slack bots.
 * [stats ★97 ⏳1Y](https://github.com/go-playground/stats) - Monitors Go MemStats + System stats such as Memory, Swap and CPU and sends via UDP anywhere you want for logging etc...
 * [turtle ★42](https://github.com/hackebrot/turtle) - Emojis for Go.
+* [url-shortener ★3](https://github.com/pantrif/url-shortener) - A modern, powerful, and robust URL shortener microservice with mysql support.
 * [uuid ★4](https://github.com/agext/uuid) - Generate, encode, and decode UUIDs v1 with fast or cryptographic-quality random node identifier.
 * [VarHandler](https://github.com/azr/generators/tree/master/varhandler) - Generate boilerplate http input and ouput handling.
 * [werr ★5 ⏳2Y](https://github.com/txgruppi/werr) - Error Wrapper creates an wrapper for the error type in Go which captures the File, Line and Stack of where it was called.
@@ -942,6 +944,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [gotcp ★331 ⏳1Y](https://github.com/gansidui/gotcp) - Go package for quickly writing tcp applications.
 * [grab ★322](https://github.com/cavaliercoder/grab) - Go package for managing file downloads.
 * [graval ★18](https://github.com/koofr/graval) - Experimental FTP server framework.
+* [HTTPLab ★3048](https://github.com/gchaincl/httplab) - HTTPLabs let you inspect HTTP requests and forge responses.
 * [jazigo ★81](https://github.com/udhos/jazigo) - Jazigo is a tool written in Go for retrieving configuration for multiple network devices.
 * [kcp-go ★1226](https://github.com/xtaci/kcp-go) - KCP - Fast and Reliable ARQ Protocol.
 * [kcptun ★8068](https://github.com/xtaci/kcptun) - Extremely simple & fast udp tunnel based on KCP protocol.
@@ -1026,6 +1029,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [graphql](https://github.com/neelance/graphql-go) - GraphQL server with a focus on ease of use.
 * [graphql-go ★3051](https://github.com/graphql-go/graphql) - Implementation of GraphQL for Go.
 * [jsonql ★150](https://github.com/elgs/jsonql) - JSON query expression library in Golang.
+* [rql ★48](https://github.com/a8m/rql) - Resource Query Language for REST API.
 
 ## Resource Embedding
 
@@ -1510,6 +1514,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-relax ★146](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
 * [go-rest ★106 ⏳1Y](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
 * [goa](https://github.com/raphael/goa) - Framework for developing microservices based on the design of Ruby's Praxis.
+* [Golax ★60](https://github.com/fulldump/golax) - A non Sinatra fast HTTP framework with support for Google custom methods, deep interceptors, recursion and more.
 * [Golf ★219 ⏳1Y](https://github.com/dinever/golf) - Golf is a fast, simple and lightweight micro-web framework for Go. It comes with powerful features and has no dependencies other than the Go Standard Library.
 * [Gondola ★311 ⏳1Y](https://github.com/rainycape/gondola) - The web framework for writing faster sites, faster.
 * [gongular ★391](https://github.com/mustafaakin/gongular) - Fast Go web framework with input mapping/validation and (DI) Dependency Injection.
@@ -1684,7 +1689,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [dogo ★178 ⏳1Y](https://github.com/liudng/dogo) - Monitoring changes in the source file and automatically compile and run (restart).
 * [drone-jenkins ★13](https://github.com/appleboy/drone-jenkins) - Trigger downstream Jenkins jobs using a binary, docker or Drone CI.
 * [drone-scp ★30](https://github.com/appleboy/drone-scp) - Copy files and artifacts via SSH using a binary, docker or Drone CI.
-* [Dropship ★40 ⏳1Y](https://github.com/chrismckenzie/dropship) - Tool for deploying code via cdn.
+* [Dropship ★40 ⏳2Y](https://github.com/chrismckenzie/dropship) - Tool for deploying code via cdn.
 * [easyssh-proxy ★44](https://github.com/appleboy/easyssh-proxy) - Golang package for easy remote execution through SSH and SCP downloading via `ProxyCommand`.
 * [fac ★1428](https://github.com/mkchoi212/fac) - Command-line user interface to fix git merge conflicts
 * [Gitea ★6955](https://github.com/go-gitea/gitea) - Fork of Gogs, entirely community driven.

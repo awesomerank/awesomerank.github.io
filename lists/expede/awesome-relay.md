@@ -83,7 +83,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [`relay-local-schema` ★206](https://github.com/relay-tools/relay-local-schema) - Use a local schema; no need for a remote GraphQL server.
 - [`react-native-relay` ★74 ⏳2Y](https://github.com/lenaten/react-native-relay) - Use Relay with React Native.
   - May be supported [out of the box](https://github.com/facebook/relay/issues/26) in the future.
-- [`relay-sink` ★128](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
+- [`relay-sink` ★128 ⏳1Y](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
 - [`babel-plugin-flow-relay-query` ★39](https://github.com/guymers/babel-plugin-flow-relay-query) - Convert [Flow](http://flowtype.org) types into Relay fragments.
 - [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) - Make Relay compatible with [`sequelize` ★14438](https://github.com/sequelize/sequelize).
 - [`relay-mongodb-connection` ★39](https://github.com/mikberg/relay-mongodb-connection) - Create Relay connections from MongoDB cursors.

@@ -96,7 +96,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 These provide a wide range of functionality - from dealing with compiler flags to using tools. Some also contain modules.
 
 * [cotire ★777](https://github.com/sakra/cotire) - Cotire (compile time reducer) is a CMake module that speeds up the build process of CMake based build systems by fully automating techniques as precompiled headers and unity builds for C and C++. [```[MIT]```][MIT]
-* [ucm ★99](https://github.com/onqtam/ucm) - For managing compiler/linker flags, collecting sources, precompiled headers, unity builds and others. [```[MIT]```][MIT]
+* [ucm ★99 ⏳1Y](https://github.com/onqtam/ucm) - For managing compiler/linker flags, collecting sources, precompiled headers, unity builds and others. [```[MIT]```][MIT]
 * [cmakepp ★279](https://github.com/toeb/cmakepp) - Enhancement Suite for the CMake Build System. [```[MIT]```][MIT]
 * [sugar ★78](https://github.com/ruslo/sugar) - CMake tools and examples: collecting source files, warnings suppression, etc. [```[BSD2]```][BSD-2-Clause]
 * [DownloadProject ★205 ⏳1Y](https://github.com/Crascit/DownloadProject) - CMake module for downloading an external project's source at configure time. [```[MIT]```][MIT]

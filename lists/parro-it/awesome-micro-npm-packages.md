@@ -95,7 +95,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [get-value ★77](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object.
 * [has-value ★18](https://github.com/jonschlinkert/has-value) - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (`'a.b.c'`) paths.
 * [has-key-deep ★1 ⏳1Y](https://github.com/ryanaghdam/has-key-deep) - Deep-search objects for keys. Keys can be searched by providing an array of keys, or using a dot-notiation.
-* [flatkeys ★3 ⏳4Y](https://github.com/ricardobeat/flatkeys) - Flatten object key hierarchies into a list of strings using a custom separator.
+* [flatkeys ★3 ⏳5Y](https://github.com/ricardobeat/flatkeys) - Flatten object key hierarchies into a list of strings using a custom separator.
 * [flatten-obj ★12](https://github.com/watson/flatten-obj) - Converts an object literal with deeply nested nodes to a simple key/value object.
 * [is-empty-object ★10](https://github.com/gummesson/is-empty-object) - Check if an object is empty.
 * [stringify-object ★163](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.

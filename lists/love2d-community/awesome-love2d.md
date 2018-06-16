@@ -224,7 +224,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Shaders
 *GLSL related Libraries*
 
-* [LoveShaderConverter ★34 ⏳1Y](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes
+* [LoveShaderConverter ★34 ⏳2Y](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes
 * [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
 * [Moonshine ★239](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 

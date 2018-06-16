@@ -175,7 +175,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [paratize ★23](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
 * [parex ★59 ⏳2Y](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
 * [qex ★5](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
-* [ratio ★9](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
+* [ratio ★9 ⏳1Y](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
 * [red_black_tree ★26 ⏳1Y](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
 * [remodel ★114](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
 * [rendezvous ★7](https://github.com/timdeputter/Rendezvous) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
@@ -269,7 +269,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ueberauth_google ★52](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
 * [ueberauth_identity ★52 ⏳1Y](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
 * [ueberauth_line ★2](https://github.com/alexfilatov/ueberauth_line) - LINE Strategy for Überauth.
-* [ueberauth_microsoft ★6](https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
+* [ueberauth_microsoft ★6 ⏳1Y](https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
 * [ueberauth_slack ★14](https://github.com/ueberauth/ueberauth_slack) - A Slack strategy for Überauth.
 * [ueberauth_twitter ★23](https://github.com/ueberauth/ueberauth_twitter) - Twitter Strategy for Überauth.
 * [ueberauth_vk ★12](https://github.com/sobolevn/ueberauth_vk) - [vk.com](https://vk.com) Strategy for Überauth.
@@ -810,7 +810,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [raxx ★202](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 * [river ★71](https://github.com/peburrows/river) - An HTTP/2 client that is lightweight and lightning fast.
 * [scrape ★230](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
-* [spell ★57](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
+* [spell ★57 ⏳1Y](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
 * [tesla ★681](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
 * [Tube ★7 ⏳1Y](https://github.com/narrowtux/Tube) - Pure Elixir WebSocket client library.
 * [uri_query ★5 ⏳1Y](https://github.com/shhavel/uri_query) - URI encode nested GET parameters and array values in Elixir.
@@ -1188,7 +1188,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [heapq ★5 ⏳2Y](https://github.com/takscape/elixir-heapq) - A Heap-based Priority Queue Implementation in Elixir.
 * [honeydew ★255](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 * [hulaaki ★102](https://github.com/suvash/hulaaki) - An MQTT 3.1.1 client library written in Elixir.
-* [kafka_consumer ★19](https://github.com/anoskov/kafka-consumer) - Consumer for Kafka using kafka_ex.
+* [kafka_consumer ★19 ⏳1Y](https://github.com/anoskov/kafka-consumer) - Consumer for Kafka using kafka_ex.
 * [kafka_ex ★263](https://github.com/kafkaex/kafka_ex) - Kafka client library for Elixir.
 * [mqs ★27 ⏳2Y](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
 * [opq ★108](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.

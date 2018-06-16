@@ -187,6 +187,8 @@ drm/kms.
 *  [satellite-oem ★33](https://github.com/world8th/satellite-oem) - Vulkan API (>=1.1) based ray tracing engine for geeks, enthusiasts and developers, is not final production for end users
 *  [rostkatze ★48](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈[Apache License 2.0]
 *  [Fossilize ★23](https://github.com/Themaister/Fossilize) - serialization format for various persistent Vulkan object types. [MIT]
+*  [VulkanSceneGraph ★31](https://github.com/openscenegraph/VulkanSceneGraph) - next-gen OpenSceneGraph.
+*  [clspv ★127](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. [Apache License 2.0]
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.

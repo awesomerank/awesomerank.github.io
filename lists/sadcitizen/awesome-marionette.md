@@ -97,7 +97,7 @@ title: Awesome Rank for sadcitizen/awesome-marionette
 - [Marionette Require Boilerplate ★257 ⏳2Y](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate)
 - [Marionette Contact Manager ★22 ⏳4Y](https://github.com/dmytroyarmak/marionette-contact-manager) - Continuation of development "Backbone Contact Manager" but using Marionette.js
 - [Marionette, Require, and Gulp.js Boilerplate ★18 ⏳3Y](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off "Marionette Require Boilerplate", with Gulp.js integration instead of Grunt.js
-- [MarionetteJS + RequireJS + Twitter Bootstrap ★65 ⏳3Y](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
+- [MarionetteJS + RequireJS + Twitter Bootstrap ★65 ⏳4Y](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
 - [Marionette Gentle Introduction ★359 ⏳2Y](https://github.com/davidsulc/marionette-gentle-introduction)
 - [Marionette Wires](https://github.com/thejameskyle/marionette-wires)
 - [Marionette Cookbook ★106 ⏳3Y](https://github.com/MarionetteLabs/marionette-cookbook)

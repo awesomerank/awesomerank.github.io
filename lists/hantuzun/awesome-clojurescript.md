@@ -167,7 +167,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 ### Routing
 - [Bidi ★784](https://github.com/juxt/bidi) – A Clojure(script) data driven routing library.
 - [Router ★73 ⏳1Y](https://github.com/darkleaf/router) – Bidirectional Ring router for Clojure/Script. REST oriented.
-- [Secretary ★667](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
+- [Secretary ★667 ⏳1Y](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
 - [Silk ★214 ⏳1Y](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
 
 

@@ -46,7 +46,7 @@ List of libraries and components which can be used in your application
 - [wicket-console ★7](https://github.com/PhantomYdn/wicket-console) - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side.
 - [wicket-dnd ★16](https://github.com/svenmeier/wicket-dnd) - Generic Drag&Drop framework for Wicket.
 - [wicket-extjs-integration ★1 ⏳1Y](https://github.com/onehippo/wicket-extjs-integration) - Integration of Wicket with ExtJS with event handling and a focus on making the Java-API as close to the JS-API as possible.
-- [wicket-fullcalendar ★25](https://github.com/42Lines/wicket-fullcalendar) - Integration of [FullCalendar](http://fullcalendar.io/) javascript lib with Wicket.
+- [wicket-fullcalendar ★25 ⏳1Y](https://github.com/42Lines/wicket-fullcalendar) - Integration of [FullCalendar](http://fullcalendar.io/) javascript lib with Wicket.
 - [wicket-jquery-selectors ★12](https://github.com/l0rdn1kk0n/wicket-jquery-selectors) - Library for working with JQuery and Wicket.
 - [wicket-jquery-ui](http://www.7thweb.net/wicket-jquery-ui/) - JQuery UI integration in Wicket 1.5.x, Wicket 6.x & Wicket7.x.
 - [wicket-modelfactory](http://wicketeer.org/wicket-modelfactory/) - Wicket-modelfactory is an API to create Wicket PropertyModels in a typesafe and refactoring-safe way.

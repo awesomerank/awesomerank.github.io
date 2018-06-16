@@ -415,7 +415,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Console ★455](https://github.com/Seldaek/php-console) - A web debugging console.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHPBench ★711](https://github.com/phpbench/phpbench) - A benchmarking Framework.
-* [Tideways.io](https://tideways.io/) - Monitoring and profiling tool
+* [Tideways.io](https://tideways.com/) - Monitoring and profiling tool
 * [Tracy ★927](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 * [xDebug ★1414](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf ★2146](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
@@ -522,7 +522,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Baum ★1770](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Cake ORM ★126](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
 * [Doctrine Extensions ★2194](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
-* [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
+* [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Eloquent ★1471](https://github.com/illuminate/database) - A simple ORM (L5).
 * [LazyRecord ★3 ⏳1Y](https://github.com/corneltek/LazyRecord) - A fast ORM designed for simplicity, extendability and performance.
 * [Pomm ★157 ⏳1Y](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
@@ -534,7 +534,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Migrations
 Libraries to help manage database schemas and migrations.
 
-* [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
+* [Doctrine Migrations](https://www.doctrine-project.org/projects/migrations.html) - A migration library for Doctrine.
 * [Migrations ★35 ⏳1Y](https://github.com/icomefromthenet/Migrations) - A migration management library.
 * [Phinx ★3421](https://github.com/cakephp/phinx) - Another database migration library.
 * [PHPMig ★466](https://github.com/davedevelopment/phpmig) - Another migration management library.
@@ -602,7 +602,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for working with markup.*
 
 * [Cebe Markdown ★761](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
-* [CommonMark PHP ★969](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](http://spec.commonmark.org/).
+* [CommonMark PHP ★969](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](https://spec.commonmark.org/).
 * [Decoda ★175](https://github.com/milesj/decoda) - A lightweight markup parser library.
 * [Emoji ★39 ⏳1Y](https://github.com/heyupdate/Emoji) - A library that converts unicode characters and names into emoji images.
 * [HTML to Markdown ★773](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
@@ -741,7 +741,7 @@ Libraries to help manage database schemas and migrations.
 * [Graphviz ★54 ⏳1Y](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 * [Hprose-PHP ★1237](https://github.com/hprose/hprose-php) - A very newbility RPC Library, support 25+ languages now.
 * [JSON Lint ★427](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
-* [JSONPCallbackValidator ★276](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
+* [JSONPCallbackValidator ★276 ⏳1Y](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
 * [Metrics ★247](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [noCAPTCHA ★212](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Nmap ★95](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
@@ -789,7 +789,7 @@ Libraries to help manage database schemas and migrations.
 ### Virtual Machines
 *Alternative PHP virtual machines.*
 
-* [Hack](http://hacklang.org/) - A programming language for HHVM that interoperates seamlessly with PHP.
+* [Hack](https://hacklang.org/) - A programming language for HHVM that interoperates seamlessly with PHP.
 * [HHVM ★15346](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 
 ### Text Editors and IDEs
@@ -819,7 +819,7 @@ Libraries to help manage database schemas and migrations.
 ### Infrastructure
 *Infrastructure for providing PHP applications and services.*
 
-* [appserver.io](https://appserver.io/) - A multithreaded application server for PHP, written in PHP.
+* [appserver.io ★848](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
 * [php-pm ★5022](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 
 # Resources
@@ -877,7 +877,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/index.html) - A guide to working with Elasticsearch by Clinton Gormley and Zachary Tong.
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
-* [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp/) - A book that expains software design patterns.
+* [Head First Design Patterns](https://www.safaribooksonline.com/library/view/head-first-design/0596007124/) - A book that expains software design patterns.
 * [Pro Git](https://git-scm.com/book/en/v2) - A book about Git by Scott Chacon and Ben Straub.
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 * [The Tangled Web — Securing Web Applications](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.

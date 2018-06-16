@@ -116,7 +116,7 @@ Made with Electron.
 - [Google Play Music Desktop Player ★6354](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
 - [Chrome DevTools ★1465](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app.
 - [Yeobara ★9 ⏳2Y](https://github.com/yeobara/yeobara-desktop) - Meetup check-in with beacon.
-- [Proton ★128](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+- [Proton ★128 ⏳1Y](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 - [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests.
 - [DTCP ★41](https://github.com/alchen/DTCP) - Twitter client.
 - [Inbox ★262](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.

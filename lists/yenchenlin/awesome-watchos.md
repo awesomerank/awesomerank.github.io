@@ -9,7 +9,10 @@ title: Awesome Rank for yenchenlin/awesome-watchos
 ---
 <img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/title.png" width="500">
 =========================
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+
+# Deprecated! This list will no longer be updated due to my focus shift.
+
+=========================
 [![Build Status](https://travis-ci.org/yenchenlin1994/awesome-watchos.svg?branch=master)](https://travis-ci.org/yenchenlin1994/awesome-watchos)
 
 A curated list of awesome watchOS frameworks, libraries, sample apps.

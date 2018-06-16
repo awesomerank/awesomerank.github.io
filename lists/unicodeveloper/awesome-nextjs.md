@@ -86,7 +86,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 * [Next News ★435](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
 * [Password ★84](https://github.com/dotcypress/password) - One password, right way.
-* [Next Todos ★94](https://github.com/lipp/next-todos) - Todo list written in Next.js.
+* [Next Todos ★94 ⏳1Y](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 * [Hacker News ★34 ⏳1Y](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
 * [Jet Chat ★3 ⏳1Y](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 * [Nextgram ★12](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.

@@ -148,7 +148,7 @@ title: Awesome Rank for sindresorhus/awesome-nodejs
 - [XO ★3767](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
-- [dev-time ★152 ⏳1Y](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+- [dev-time ★152 ⏳2Y](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 - [David ★812](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [http-server ★6858](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server.
 - [Live Server ★2141](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
@@ -526,7 +526,7 @@ title: Awesome Rank for sindresorhus/awesome-nodejs
 - [x-ray](https://github.com/lapwinglabs/x-ray) - Web scraping utility.
 - [nearley](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parsing for JavaScript.
 - [binary-extract ★141](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
-- [Stylecow ★125](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
+- [Stylecow ★125 ⏳1Y](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 - [js-yaml ★2992](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 - [xml2js ★3172](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 - [Jison ★3066](https://github.com/zaach/jison) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.

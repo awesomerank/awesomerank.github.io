@@ -81,6 +81,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Muppeteer](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer ★33208](https://github.com/GoogleChrome/puppeteer).
 - [ember-visual-test ★17](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
 - [AET ★45](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
+- [Wendigo ★16](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer. 
 
 ## Online services
 

@@ -700,7 +700,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## Tips
 
-* [tipsy ★2062](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
+* [tipsy ★2062 ⏳1Y](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
 * [opentip ★1261](https://github.com/enyo/opentip) - An open source javascript tooltip based on the prototype framework.
 * [qTip2 ★2005](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 * [tooltipster ★2511](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.

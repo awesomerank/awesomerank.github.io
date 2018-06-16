@@ -95,7 +95,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [oak ★5](https://github.com/obsidian/oak) - A flexible Radix Tree implementation
  * [radix ★48](https://github.com/luislavena/radix) - Radix Tree implementation
  * [ternary_search_tree ★1](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree
- * [text ★14](https://github.com/johnjansen/text) - A collection of text algorithms
+ * [text ★14 ⏳1Y](https://github.com/johnjansen/text) - A collection of text algorithms
 
 ## Api Builders
  * [kemal-rest-api ★25](https://github.com/blocknotes/kemal-rest-api) - A library to create RESTful API with Kemal

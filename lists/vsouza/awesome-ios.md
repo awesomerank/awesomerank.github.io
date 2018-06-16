@@ -2297,7 +2297,7 @@ Most of these are paid services, some have free tiers.
 * [RESideMenu ★7163](https://github.com/romaonthego/RESideMenu) - iOS 7/8 style side menu with parallax effect inspired by Dribbble shots.
 * [SSASideMenu ★600 ⏳1Y](https://github.com/SSA111/SSASideMenu) - A Swift implementation of RESideMenu. A iOS 7/8 style side menu with parallax effect.
 * [PagingMenuController ★2241](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift.
-* [RadialMenu ★294](https://github.com/bradjasper/radialmenu) - RadialMenu is a custom control for providing a touch context menu (like iMessage recording in iOS 8) built with Swift & POP
+* [RadialMenu ★294 ⏳1Y](https://github.com/bradjasper/radialmenu) - RadialMenu is a custom control for providing a touch context menu (like iMessage recording in iOS 8) built with Swift & POP
 * [cariocamenu ★632](https://github.com/arn00s/cariocamenu) - The fastest zero-tap iOS menu.
 * [VLDContextSheet ★170 ⏳2Y](https://github.com/vangelov/VLDContextSheet) - Context menu similar to the one in the Pinterest iOS app
 * [GuillotineMenu ★2649](https://github.com/Yalantis/GuillotineMenu) - Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.
@@ -3000,7 +3000,7 @@ CollectionView, make Instagram Discover within minutes.
 
 * [awesome-xcode-scripts ★50](https://github.com/aashishtamsya/awesome-xcode-scripts) - A curated list of useful xcode scripts 📝.
 * [Synx ★5761](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
-* [dsnip ★12 ⏳2Y](https://github.com/Tintenklecks/IBDelegateCodesippets) - Tool to generate (native) Xcode code snippets from all protocols/delegate methods of UIKit (UITableView, ...)
+* [dsnip ★12 ⏳3Y](https://github.com/Tintenklecks/IBDelegateCodesippets) - Tool to generate (native) Xcode code snippets from all protocols/delegate methods of UIKit (UITableView, ...)
 * [SBShortcutMenuSimulator ★1800 ⏳1Y](https://github.com/DeskConnect/SBShortcutMenuSimulator) - 3D Touch shortcuts in the Simulator
 * [awesome-gitignore-templates ★14 ⏳1Y](https://github.com/aashishtamsya/awesome-gitignore-templates) - A collection of swift, objective-c, android and many more langugages .gitignore templates 📝.
 * [swift-project-template ★45](https://github.com/artemnovichkov/swift-project-template) - Template for iOS Swift project generation.

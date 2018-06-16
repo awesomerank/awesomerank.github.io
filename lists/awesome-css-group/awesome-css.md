@@ -89,7 +89,7 @@ The CSS Working Group defines CSS specifications which move through the their pr
 * [ParserLib ★269](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
 * [PostCSS ★18508](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
 * [Rework ★2774](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
-* [Stylecow ★125](https://github.com/stylecow/stylecow) - Modern CSS to all browsers.
+* [Stylecow ★125 ⏳1Y](https://github.com/stylecow/stylecow) - Modern CSS to all browsers.
 
 <sub>[⇧ back to top](#contents)</sub>
 

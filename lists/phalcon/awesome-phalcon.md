@@ -94,7 +94,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Solid Layer ★73 ⏳1Y](https://github.com/solid-layer/solid-layer) - A framework/large wrapper built under Phalcon PHP Framework
 * [Vökuró ★316](https://github.com/phalcon/vokuro) - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
 * [Webird ★88](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
-* [phalconMvc ★5 ⏳1Y](https://github.com/kcloze/phalconMvc) - a simple Phalcon skeleton with sub controller,cli,mvc +service
+* [phalconMvc ★5 ⏳2Y](https://github.com/kcloze/phalconMvc) - a simple Phalcon skeleton with sub controller,cli,mvc +service
 
 
 

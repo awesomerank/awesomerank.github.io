@@ -1100,6 +1100,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Best event source for doing pub-sub](https://theburningmonk.com/2018/04/what-is-the-best-event-source-for-doing-pub-sub-with-aws-lambda/) - Post which shows different pub-sub architectures to use with AWS Lambda.
 - [Building a serverless GeoSearch GraphQL API](https://serverless.com/blog/build-geosearch-graphql-api-aws-appsync-elasticsearch/) - How to build a serverless GeoSearch GraphQL API using AWS AppSync & Elasticsearch.
 - [6 things I've learned using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526) - Post about the lessons learned using serverless technologies 6 months in.
+- [Solving Event Sourcing at Go-JEK](https://blog.gojekengineering.com/a-tale-of-two-lambdas-solving-event-sourcing-at-go-jek-149884d898a1) - Post on how the "Team Lambda" at Go-JEK solved Event Sourcing.
 
 ## Screencasts
 
@@ -1315,6 +1316,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [A scaffold for serverless apps](https://www.slideshare.net/shentonfreude/scaffolding-for-serverless-lightning-talk-for-aws-arlington-meetup) - Talk about a sophisticated serverless project scaffolding.
 - [The serverless and event-driven future](https://www.youtube.com/watch?v=TZPPjAv12KU) - How the Event Gateway enables a new way to build event-driven applications.
 - [Serverless, Not So FaaS](https://www.youtube.com/watch?v=_1-5YFfJCqM) - CloudNativeCon 2018 Keynote by Kelsey Hightower, Kubernetes Community Member, Google.
+- [Bringing serverless to Rock 'n Roll](http://www.thecloudcast.net/2018/05/the-cloudcast-348-bringing-serverless.html) - Podcast on how Fender utilizes serverless technologies for their digital learning platform.
 
 ## Amazon AWS resources
 
@@ -1556,7 +1558,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Screenshot get ★10](https://github.com/amv/serverless-screenshot-get) - AWS API for returning PNG data of a fresh web page screenshot.
 - [Coinboss ★73](https://github.com/nicka/coinboss) - Serverless Coinbase tradingbot.
 - [Example ★2](https://github.com/nafetswirth/serverless-example) - Another serverless example service.
-- [2514 ★2](https://github.com/justinm/serverless-2514) - Reproduction service of [serverless/serverless#2514](https://github.com/serverless/serverless/issues/2514).
+- [2514 ★2 ⏳1Y](https://github.com/justinm/serverless-2514) - Reproduction service of [serverless/serverless#2514](https://github.com/serverless/serverless/issues/2514).
 - [3965 ★2](https://github.com/indieisaconcept/serverless-issue-3965) - Reproduction service of [serverless/serverless#3965](https://github.com/serverless/serverless/issues/3965).
 - [Chromeless](https://github.com/graphcool/chromeless) - Runs Chrome automation locally or headless on AWS Lambda.
 - [Slack invite ★5 ⏳1Y](https://github.com/serverless-london/serverless-slack-invite) - Serverless Slack invite service.
