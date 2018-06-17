@@ -372,7 +372,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-uwp - React Components that Implement Microsoft's UWP Design & Fluent Design. ★615](https://github.com/myxvisual/react-uwp)
 * [react-touch - React photo viewer for mobile ★439 ⏳2Y](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
-* [react-grid - Data grid for React ★73 ⏳2Y](https://github.com/prometheusresearch/react-grid)
+* [react-grid - Data grid for React ★73 ⏳3Y](https://github.com/prometheusresearch/react-grid)
 * [React-iCheck - iCheck components built with React. Highly customizable checkboxes and radio buttons ★169](https://github.com/luqin/react-icheck)
 * [react-absolute-grid - An absolutely positioned, animated, filterable, sortable, drag and droppable, ES6 grid for React ★787](https://github.com/jrowny/react-absolute-grid)
 * [react-async - Async rendering for React components ★464 ⏳1Y](https://github.com/andreypopp/react-async)

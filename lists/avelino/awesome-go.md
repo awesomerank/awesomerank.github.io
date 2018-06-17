@@ -193,7 +193,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [aurora ★297](https://github.com/logrusorgru/aurora) - ANSI terminal colors that supports fmt.Printf/Sprintf.
 * [cfmt ★39](https://github.com/mingrammer/cfmt) - Contextual fmt inspired by bootstrap color classes.
-* [chalk ★252 ⏳1Y](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output.
+* [chalk ★252 ⏳2Y](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output.
 * [color ★2393](https://github.com/fatih/color) - Versatile package for colored terminal output.
 * [colourize ★12 ⏳2Y](https://github.com/TreyBastian/colourize) - Go library for ANSI colour text in terminals.
 * [go-ataman ★5](https://github.com/workanator/go-ataman) - Go library for rendering ANSI colored text templates in terminals.
@@ -875,7 +875,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [stats ★97 ⏳1Y](https://github.com/go-playground/stats) - Monitors Go MemStats + System stats such as Memory, Swap and CPU and sends via UDP anywhere you want for logging etc...
 * [turtle ★42](https://github.com/hackebrot/turtle) - Emojis for Go.
 * [url-shortener ★3](https://github.com/pantrif/url-shortener) - A modern, powerful, and robust URL shortener microservice with mysql support.
-* [uuid ★4](https://github.com/agext/uuid) - Generate, encode, and decode UUIDs v1 with fast or cryptographic-quality random node identifier.
+* [uuid ★4 ⏳1Y](https://github.com/agext/uuid) - Generate, encode, and decode UUIDs v1 with fast or cryptographic-quality random node identifier.
 * [VarHandler](https://github.com/azr/generators/tree/master/varhandler) - Generate boilerplate http input and ouput handling.
 * [werr ★5 ⏳2Y](https://github.com/txgruppi/werr) - Error Wrapper creates an wrapper for the error type in Go which captures the File, Line and Stack of where it was called.
 * [wuid ★160](https://github.com/edwingeng/wuid) - An extremely fast unique number generator, 10-135 times faster than UUID.

@@ -1351,7 +1351,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Zanon IO Demo ★22 ⏳1Y](https://github.com/zanon-io/aws-serverless-demo) - Demo project.
 - [Cortex ★0 ⏳2Y](https://github.com/namastereid/cortex) - Cortex project.
 - [Protocol service ★1 ⏳2Y](https://github.com/Backfeed/protocol-service) - Protocol service.
-- [Cat facts ★13](https://github.com/ryansb/serverless-cat-facts) - Example how to use Serverless with Python.
+- [Cat facts ★13 ⏳1Y](https://github.com/ryansb/serverless-cat-facts) - Example how to use Serverless with Python.
 - [Notes](https://github.com/JustServerless/notes) - Note taking application written for the ["Learn Serverless"](http://learnserverless.club) book.
 - [Aquest ★0](https://github.com/dherault/Aquest) - Demo application.
 - [Hello world ★1 ⏳2Y](https://github.com/bart-blommaerts/serverless_helloworld) - Hello World application.

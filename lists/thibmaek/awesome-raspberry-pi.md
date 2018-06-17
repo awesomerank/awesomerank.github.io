@@ -138,7 +138,7 @@ The complete collection of Raspberry Pi models consist of:
 - [PiScan](http://denis.papathanasiou.org/posts/2015.05.30.post.html) - Makeshift Amazon Dash orders using a Raspberry PI + EAN scanner.
 - [PiE-Ink](http://www.htxt.co.za/2017/02/07/pie-ink-is-a-raspberry-pi-name-tag-that-uses-an-e-ink-display/) - E-ink nametag display running on a Pi Zero. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-0.png)
 - [Whispering Mirror](http://whisperingwallproject.com/whisperingmirror/) - Interactive soundart installation using the Hifiberry DAC.
-- [clockOS ★21](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
+- [clockOS ★21 ⏳1Y](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
 - [Zelda Home Automation](https://www.raspberrypi.org/blog/zelda-home-automation/) - Home automation based on sound recognition from notes played on an ocarina.
 - [Looper/synth/drum thing ★506 ⏳1Y](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
 - [Waves ★13](https://github.com/euniceylee/waves) - Transforming the transience of the spoken word into something concrete and physical through a microphone, waveform and thermal printer.

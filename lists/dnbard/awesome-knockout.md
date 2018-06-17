@@ -25,7 +25,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Meteor ★68 ⏳5Y](https://github.com/steveluscher/knockout.meteor) - A Knockout-to-Meteor bridge
 
 ## Plugins and libraries
-- [Mapping ★550](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS
+- [Mapping ★550 ⏳1Y](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS
 - [Validation ★1007](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS
 - [Sortable ★524](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
 - [Grid ★283 ⏳3Y](https://github.com/Knockout-Contrib/KoGrid) - A data grid plugin for Knockout

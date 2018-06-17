@@ -373,7 +373,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [inflector.cr ★28](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
  * [lirith ★19](https://github.com/lirith-engine/lirith) - Graphics engine
  * [m3u8 ★3](https://github.com/akiicat/m3u8) - Generate and parse m3u8 playlists for HTTP Live Streaming
- * [manual-generator ★0](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
+ * [manual-generator ★0 ⏳1Y](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
  * [raytracer ★26](https://github.com/l3kn/raytracer) - CPU Raytracer with examples
  * [syscall.cr ★14 ⏳1Y](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [tren ★83 ⏳1Y](https://github.com/sdogruyol/tren) - Give your SQL some love

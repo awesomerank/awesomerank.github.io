@@ -173,7 +173,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [navigation_tree ★1 ⏳2Y](https://github.com/gutschilla/elixir-navigation-tree) - A navigation tree representation with helpers to generate HTML out of it.
 * [parallel_stream ★58](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
 * [paratize ★23](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
-* [parex ★59 ⏳2Y](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
+* [parex ★59 ⏳3Y](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
 * [qex ★5](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 * [ratio ★9 ⏳1Y](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
 * [red_black_tree ★26 ⏳1Y](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
