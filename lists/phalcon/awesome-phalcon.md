@@ -321,7 +321,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Conferences, Chats, Forums, etc..*
 
-* [phalcon-chat ★7 ⏳3Y](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
+* [phalcon-chat ★7 ⏳4Y](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
 * [phalcon-tip ★22 ⏳1Y](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website
 * [Phanbook ★286](https://github.com/phanbook/phanbook) - The source for code phanbook.com website
 * [Phosphorum ★317](https://github.com/phalcon/forum) - The source for official Phalcon Forum

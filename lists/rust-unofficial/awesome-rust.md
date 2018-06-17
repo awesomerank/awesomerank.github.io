@@ -893,7 +893,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 
 ### Image processing
 
-* [abonander/img_hash ★64](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
+* [abonander/img_hash ★64 ⏳1Y](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
 * [chyh1990/imageproc ★76 ⏳2Y](https://github.com/chyh1990/imageproc) — An advanced image processing library for Rust. [![Build Status](https://api.travis-ci.org/chyh1990/imageproc.svg?branch=master)](https://travis-ci.org/chyh1990/imageproc)
 * [PistonDevelopers/image ★704](https://github.com/PistonDevelopers/image) — Basic imaging processing functions and methods for converting to and from image formats [<img src="https://api.travis-ci.org/PistonDevelopers/image.svg?branch=master">](https://travis-ci.org/PistonDevelopers/image)
 * [kali/opencv-rust ★122](https://github.com/kali/opencv-rust) — Rust bindings for OpenCV [<img src="https://api.travis-ci.org/kali/opencv-rust.svg?branch=cv2">](https://travis-ci.org/kali/opencv-rust)
