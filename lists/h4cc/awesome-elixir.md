@@ -793,7 +793,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [elli ★673](https://github.com/knutin/elli) - Elli is a webserver you can run inside your Erlang application to expose an HTTP API.
 * [explode ★20](https://github.com/pkinney/explode) - An easy utility for responding with standard HTTP/JSON error payloads in Plug- and Phoenix-based applications.
 * [exvcr ★366](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
-* [fuzzyurl](https://github.com/gamache/fuzzyurl.ex) - An Elixir library for parsing, constructing, and wildcard-matching URLs. Also available for [Ruby](https://github.com/gamache/fuzzyurl.rb) and [JavaScript ★3 ⏳1Y](https://github.com/gamache/fuzzyurl.js).
+* [fuzzyurl](https://github.com/gamache/fuzzyurl.ex) - An Elixir library for parsing, constructing, and wildcard-matching URLs. Also available for [Ruby](https://github.com/gamache/fuzzyurl.rb) and [JavaScript ★3 ⏳2Y](https://github.com/gamache/fuzzyurl.js).
 * [gun ★428](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
 * [hackney ★829](https://github.com/benoitc/hackney) - Simple HTTP client written in Erlang.
 * [http ★11 ⏳3Y](https://github.com/slogsdon/http) - HTTP server for Elixir.

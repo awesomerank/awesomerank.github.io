@@ -2444,7 +2444,7 @@ Most of these are paid services, some have free tiers.
 
 ### Segmented Control
 * [BetterSegmentedControl ★998](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch.
-* [LUNSegmentedControl ★242](https://github.com/Stormotion-Mobile/LUNSegmentedControl) - Customizable segmented control with interactive animation.
+* [LUNSegmentedControl ★242 ⏳1Y](https://github.com/Stormotion-Mobile/LUNSegmentedControl) - Customizable segmented control with interactive animation.
 * [AKASegmentedControl ★399](https://github.com/alikaragoz/AKASegmentedControl) - :chocolate_bar: Fully customizable Segmented Control for iOS.
 * [TwicketSegmentedControl ★1331](https://github.com/twicketapp/TwicketSegmentedControl) - Custom UISegmentedControl replacement for iOS, written in Swift.
 * [SJFluidSegmentedControl ★741](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations. Written in Swift 3.0.

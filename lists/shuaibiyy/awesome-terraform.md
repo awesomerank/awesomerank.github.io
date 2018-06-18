@@ -77,7 +77,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tf_aws_ubuntu_ami ★55](https://github.com/terraform-community-modules/tf_aws_ubuntu_ami) - Easy way to lookup Ubuntu AMIs with Terraform.
 * [tf_aws_sg ★65](https://github.com/terraform-community-modules/tf_aws_sg) - Collection of common security group settings.
 * [tf_aws_coreos_ami ★14 ⏳1Y](https://github.com/terraform-community-modules/tf_aws_coreos_ami) - Easy way to lookup CoreOS AMIs with terraform.
-* [tf_aws_private_subnet_nat_gateway ★9](https://github.com/terraform-community-modules/tf_aws_private_subnet_nat_gateway) - Creates private subnets with NAT Gateway in AWS.
+* [tf_aws_private_subnet_nat_gateway ★9 ⏳1Y](https://github.com/terraform-community-modules/tf_aws_private_subnet_nat_gateway) - Creates private subnets with NAT Gateway in AWS.
 * [tf_aws_rds ★57](https://github.com/terraform-aws-modules/terraform-aws-rds) - Creates RDS resources on AWS.
 * [terraform-aws-postgresql-rds ★32](https://github.com/azavea/terraform-aws-postgresql-rds) - Creates PostgreSQL on RDS.
 * [tf_aws_vpc ★212](https://github.com/terraform-community-modules/tf_aws_vpc) - Provides VPCs in AWS.

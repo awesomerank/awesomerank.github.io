@@ -1550,7 +1550,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Kinesis Streams fan-out ★60 ⏳1Y](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework).
 - [X-Ray ★2 ⏳1Y](https://github.com/e-r-w/serverless-xray-test) - Example service to test the AWS X-Ray integration.
 - [Faultline ★72](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
-- [Dev dependencies ★3](https://github.com/cjelger/serverless-dev-dependencies) - Dummy project to show exclusion of dev dependencies when packaging with the Serverless Framework.
+- [Dev dependencies ★3 ⏳1Y](https://github.com/cjelger/serverless-dev-dependencies) - Dummy project to show exclusion of dev dependencies when packaging with the Serverless Framework.
 - [FaunaDB powered GraphQL blog ★14](https://github.com/fauna/serverless-graphql-blog) - Serverless blog leveraging GraphQL in combination with FaunaDB.
 - [Stripe backend ★30](https://github.com/yosriady/serverless-stripe-backend) - Backend application for `serverless-stripe-frontend` built on AWS Lambda & the Serverless Framework.
 - [FaunaDB CRUD ★21 ⏳1Y](https://github.com/fauna/serverless-crud) - CRUD service which uses FaunaDB for data persistence.

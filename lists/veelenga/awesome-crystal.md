@@ -144,7 +144,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [dl ★2](https://github.com/creadone/dl) - Simple utility for download files by URLs from list
  * [noteesh ★3](https://github.com/arandilopez/noteesh) - Notes and Todo list in command line
  * [progress ★99 ⏳1Y](https://github.com/askn/progress) - [==..] Progress bar
- * [progress_bar.cr ★3](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
+ * [progress_bar.cr ★3 ⏳1Y](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [spinner ★38](https://github.com/askn/spinner) - Terminal Spinner
  * [terminal_table.cr ★17 ⏳1Y](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
  * [todo ★2](https://github.com/Nephos/todo) - Todo list working in command line
@@ -262,6 +262,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cr-melon ★8 ⏳1Y](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
  * [Crystal-DI ★17](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
  * [crystal-mime ★19](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
+ * [device_detector ★3](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
  * [graphql-crystal ★104](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation
  * [kave ★20](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-auth-token ★19 ⏳1Y](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
@@ -561,6 +562,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Firegrid ★5](https://github.com/foliea/firegrid) - Click anywhere with only a few key strokes
  * [icr ★292](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
  * [JSON to Crystal](https://watzon.me/projects/json-to-crystal) - Paste in a JSON object and get Crystal mappings in response
+ * [mpngin ★7](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
  * [nes ★39](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
  * [soundmemes.cr](https://github.com/vladfaust/soundmemes.cr) - Telegram Bot built on top of tele.cr
