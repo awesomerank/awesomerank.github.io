@@ -679,7 +679,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 ## Functional Programming
 * [Forbind ★43 ⏳1Y](https://github.com/ulrikdamm/Forbind) - Functional chaining and promises in Swift.
 * [Funky ★12 ⏳2Y](https://github.com/brynbellomy/Funky) - Functional programming tools and experiments in Swift.
-* [LlamaKit ★628 ⏳2Y](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
+* [LlamaKit ★628 ⏳3Y](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [Oriole ★11 ⏳2Y](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift protocol extensions. [e]
 * [Prelude ★332 ⏳1Y](https://github.com/robrix/Prelude) - Swift µframework of simple functional programming tools.
 * [Swiftx ★199](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
@@ -2321,7 +2321,7 @@ Most of these are paid services, some have free tiers.
 * [EEJSelectMenu ★18 ⏳1Y](https://github.com/eejahromi/EEJSelectMenu) - Single selection menu with cool animations, responsive with all screen sizes.
 * [IGLDropDownMenu ★1157 ⏳1Y](https://github.com/bestwnh/IGLDropDownMenu) - An iOS drop down menu with pretty animation and easy to customize.
 * [Side-Menu.iOS ★2585](https://github.com/Yalantis/Side-Menu.iOS) - Animated side menu with customizable UI
-* [PopMenu ★847 ⏳1Y](https://github.com/xhzengAIB/PopMenu) - PopMenu is pop animation menu inspired by Sina weibo / NetEase app.
+* [PopMenu ★847 ⏳2Y](https://github.com/xhzengAIB/PopMenu) - PopMenu is pop animation menu inspired by Sina weibo / NetEase app.
 * [FlowingMenu ★791](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects in Swift
 * [Persei ★2995](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift
 * [DropDown ★1206](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS

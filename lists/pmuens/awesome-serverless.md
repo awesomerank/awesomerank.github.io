@@ -1335,7 +1335,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Official Serverless Examples ★2602](https://github.com/serverless/examples) - Examples from the Serverless Framework team and community.
 - [Serverless examples](https://github.com/serverless-examples) - GitHub organization with several Serverless example projects.
 - [React Serverless ★11 ⏳2Y](https://github.com/hiromoon/react-serverless) - Use React together with Serverless.
-- [Serverless test plugin ★24 ⏳1Y](https://github.com/arabold/serverless-test-plugin) - Test plugin.
+- [Serverless test plugin ★24 ⏳2Y](https://github.com/arabold/serverless-test-plugin) - Test plugin.
 - [Lang Adventure backend ★2 ⏳2Y](https://github.com/jonatasschagas/langadventurebackend) - Backend from Lang Adventure game.
 - [Serverless project written with ES2015 ★4](https://github.com/mpppk/serverless-project-written-in-es2015) - Project example written in ES2015.
 - [Serverless Telegram bot ★7 ⏳2Y](https://github.com/minibikini/serverless-telegram-bot) - Telegram bot implementation.
@@ -1610,7 +1610,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [DataFire ★180](https://github.com/DataFire/DataFire) - Open Integration Framework.
 - [AWS log parser ★7 ⏳1Y](https://github.com/rotemtam/serverless-aws-logs-parser) - Make sense of Lambda and API Gateway CloudWatch log files.
 - [IronFunctions ★2216](https://github.com/iron-io/functions) - The Serverless Microservices Platform.
-- [Dromedary Serverless ★31](https://github.com/stelligent/dromedary-serverless) - Project which deploys dromedary in AWS Lambda and also demonstrates the use of CodePipeline.
+- [Dromedary Serverless ★31 ⏳1Y](https://github.com/stelligent/dromedary-serverless) - Project which deploys dromedary in AWS Lambda and also demonstrates the use of CodePipeline.
 - [Building Scikit-Learn For AWS Lambda](https://serverlesscode.com/post/scikitlearn-with-amazon-linux-container) - Using The Amazon Linux Image To Build Lambda Packages.
 - [Fission](http://fission.io) - Fast serverless functions for Kubernetes.
 - [AWS profile manager ★34 ⏳1Y](https://github.com/DavidWells/aws-profile-manager) - GUI tool to manage your AWS profiles.

@@ -485,7 +485,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Vue Bulma Demo ★9](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
 - [Starter application ready for production with TypeScript, vuex, vue-router, HMR and more ★3](https://github.com/kadro/vue-boilerplate)
 - [vue.js与laravel结合的前后端分离开发模板 ★195](https://github.com/wmhello/laravel_template_with_vue)- A template website to laravel passport / Vue.JS & Element UI.
-
+- [Hands-On Web Development with Vue.js](https://www.packtpub.com/web-development/hands-web-development-vuejs-video) by Roman Kuba, Packt. (May 2018)
 
 
 ### Books
@@ -505,8 +505,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Fullstack Vue: The Complete Guide to Vue.js](https://www.fullstack.io/vue/) by Hassan Djirdeh, Nate Murray, & Ari Lerner. (March 2018)
 - [Vue.js 2 Design Patterns and Best Practices](https://www.amazon.com/dp/178883979X) by Paul Halliday, Packt. (March 2018)
 - [Vuex Quick Start Guide](https://www.amazon.com/dp/1788999932) by Andrea Koutifaris, Packt. (April 2018)
-
-
+- [Full-Stack Web Development with Vue.js and Node](https://www.amazon.com/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144) by Aneeta Sharma, Packt. (May 2018)
 
 
 
@@ -914,6 +913,7 @@ title: Awesome Rank for vuejs/awesome-vue
  - [vue-loaders](https://github.com/Hokid/vue-loaders) - vue wrappers for [loaders.css ★8679](https://github.com/ConnorAtherton/loaders.css)
  - [vue-promise-btn ★95](https://github.com/STUkh/vue-promise-btn) - Tiny and powerful tool for asynchronous buttons(or any other tag) lock with fancy built-in spinner
  - [vue-spinkit ★20](https://github.com/TonPC64/vue-spinkit) - 🌈 A collection of loading indicators animated with CSS for VueJS
+ - [vue2-form-loading ★0](https://github.com/hussam-m/vue2-form-loading) - A VueJS directive can be used with forms in order to disable submit button while the next page is loading
 
 #### Progress Bar
 
@@ -1133,6 +1133,8 @@ Tooltips / popovers
  - [plantain-00/tree-component ★73](https://github.com/plantain-00/tree-component) - A reactjs, angular and vuejs tree component.
  - [sl-vue-tree ★26](https://github.com/holiber/sl-vue-tree) - A simple customizable draggable tree component for Vue.js
  - [vue-draggable-nested-tree ★33](https://github.com/phphe/vue-draggable-nested-tree) - Customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
+ - [vuejs-tree ★9](https://github.com/scalia/vuejs-tree) - A highly customizable VueJs tree viewer
+
 
 ### Social Sharing
 
@@ -1822,8 +1824,8 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
 
 ### Page visibility
 
-- [vue-page-visibility-awesome ★5](https://github.com/stefanodotit/vue-page-visibility-awesome) -
-A Vue 2.x component of easy-to-config page visibility api.
+- [vue-page-visibility-awesome ★5](https://github.com/stefanodotit/vue-page-visibility-awesome) - A Vue 2.x component of easy-to-config page visibility api.
+- [vue-authplugin ★0](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
 
 
 ## Utilities

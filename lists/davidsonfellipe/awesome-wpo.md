@@ -155,7 +155,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Benchmark - CSS
 
-* [CSS-perf ★590](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
+* [CSS-perf ★590 ⏳1Y](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
 
 
 ## Benchmark - Javascript
@@ -168,7 +168,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Timing.js ★1383](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
 * [Stats.js ★5035](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance.
 * [PerfTests ★1 ⏳3Y](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
-* [Memory-stats.js ★1946 ⏳2Y](https://github.com/paulirish/memory-stats.js) - minimal monitor for JS Heap Size via performance memory.
+* [Memory-stats.js ★1946 ⏳3Y](https://github.com/paulirish/memory-stats.js) - minimal monitor for JS Heap Size via performance memory.
 
 
 ## Benchmark - PHP

@@ -177,7 +177,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [qex ★5](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 * [ratio ★9 ⏳1Y](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
 * [red_black_tree ★26 ⏳1Y](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
-* [remodel ★114](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
+* [remodel ★114 ⏳1Y](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
 * [rendezvous ★7](https://github.com/timdeputter/Rendezvous) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
 * [rock ★4](https://github.com/ayrat555/rock) - Elixir implementation of ROCK: A Robust Clustering Algorithm for Categorical Attributes.
 * [sfmt ★60](https://github.com/jj1bdx/sfmt-erlang) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
@@ -361,7 +361,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Guri ★17 ⏳2Y](https://github.com/elvio/guri) - Automate tasks using chat messages.
 * [hedwig ★460](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.
 * [kaguya ★61](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
-* [slacker ★75 ⏳1Y](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
+* [slacker ★75 ⏳2Y](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 * [yocingo ★35 ⏳1Y](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
 
 ## Cloud Infrastructure and Management
@@ -1206,7 +1206,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Release Management
 *Libraries and tools for release management.*
 
-* [changex ★27](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
+* [changex ★27 ⏳1Y](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
 * [distillery ★1795](https://github.com/bitwalker/distillery) - A pure Elixir implementation of release packaging functionality for the Erlang VM.
 * [eliver ★31](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
 * [exrm ★951](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
@@ -1411,7 +1411,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [anilixir](https://github.com/sotojuan/anilixir) - Elixir client for the Anilist API.
 * [apns ★64 ⏳1Y](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
 * [apostle](https://github.com/jamesotron/apostle-elixir) - Elixir client for Apostle.io.
-* [asanaficator ★2 ⏳2Y](https://github.com/trenpixster/asanaficator) - Simple Elixir wrapper for the Asana API. Based on Tentacat.
+* [asanaficator ★2 ⏳3Y](https://github.com/trenpixster/asanaficator) - Simple Elixir wrapper for the Asana API. Based on Tentacat.
 * [assembla_api ★0](https://github.com/Assembla/ex_assembla_api) - Assembla API client for Elixir.
 * [balalaika_bear](https://github.com/ayrat555/balalaika_bear) - Simple VK API client for Elixir.
 * [balanced ★2 ⏳3Y](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
@@ -1485,7 +1485,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [omise ★4 ⏳1Y](https://github.com/teerawat1992/omise-elixir) - Omise client library for Elixir.
 * [opbeat ★8 ⏳1Y](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.
 * [pagexduty](https://github.com/ride/pagexduty) - A Pagerduty client for Elixir.
-* [parse_client ★4 ⏳2Y](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
+* [parse_client ★4 ⏳3Y](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [parsex ★1 ⏳3Y](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 * [particle ★4](https://github.com/jeffutter/particle-elixir) - An Elixir client for the Particle IoT platform's HTTP API.
 * [pathway ★3 ⏳3Y](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.

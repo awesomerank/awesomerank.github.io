@@ -172,7 +172,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Vendor ★18 ⏳4Y](https://github.com/holgersindbaek/Vendor) - RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions.
 * [Motion-addressbook ★91](https://github.com/alexrothenberg/motion-addressbook) - RubyMotion wrapper around the iOS & macOS Address Book frameworks.
 * [Helu ★54 ⏳3Y](https://github.com/ivanacostarubio/helu) - RubyMotion wrapper for the Store Kit Framework.
-* [Motion-speech ★9 ⏳3Y](https://github.com/macfanatic/motion-speech) - Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7.
+* [Motion-speech ★9 ⏳4Y](https://github.com/macfanatic/motion-speech) - Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7.
 * [Motion-keychain ★35 ⏳2Y](https://github.com/IconoclastLabs/motion-keychain) - The motion-keychain gem is a simple wrapper for Keychain on iOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults.
 * [Motion-settings-bundle ★114](https://github.com/qrush/motion-settings-bundle) - Create a Settings.bundle for your RubyMotion app.
 * [Motion-Social ★12 ⏳3Y](https://github.com/ivanacostarubio/motion-social) - Wrapper around the Social Framework.

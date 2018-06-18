@@ -364,7 +364,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 # Server Applications
 
 * [ansible-phalcon-role ★0 ⏳3Y](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu
-* [ansible-phalcon ★0](https://github.com/HanXHX/ansible-phalcon) - Ansible Role to install Phalcon PHP Framework in Debian (provides PHP 5.6 and PHP 7.0 packages)
+* [ansible-phalcon ★0 ⏳1Y](https://github.com/HanXHX/ansible-phalcon) - Ansible Role to install Phalcon PHP Framework in Debian (provides PHP 5.6 and PHP 7.0 packages)
 * [Maker ★1](https://github.com/phalcon/maker) - The project that build the Phalcon Box development environment
 * [packagecloud ★21](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
 * [perfect-php-vagrant ★53 ⏳1Y](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt

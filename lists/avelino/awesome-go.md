@@ -1409,7 +1409,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [hub ★12889](https://github.com/github/hub) - wrap git commands with additional functionality to interact with github from the terminal.
 * [hystrix-go ★1097](https://github.com/afex/hystrix-go) - Implements Hystrix patterns of programmer-defined fallbacks aka circuit breaker.
 * [immortal ★485](https://github.com/immortal/immortal) - *nix cross-platform (OS agnostic) supervisor.
-* [intrinsic ★23](https://github.com/mengzhuo/intrinsic) - Use x86 SIMD without writing any assembly code.
+* [intrinsic ★23 ⏳1Y](https://github.com/mengzhuo/intrinsic) - Use x86 SIMD without writing any assembly code.
 * [JobRunner ★450 ⏳1Y](https://github.com/bamzi/jobrunner) - Smart and featureful cron job scheduler with job queuing and live monitoring built in.
 * [jsonapi-errors ★3 ⏳1Y](https://github.com/AmuzaTkts/jsonapi-errors) - Go bindings based on the JSON API errors reference.
 * [jsonf ★47 ⏳1Y](https://github.com/miolini/jsonf) - Console tool for highlighted formatting and struct query fetching JSON.
@@ -1435,7 +1435,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [pester ★252](https://github.com/sethgrid/pester) - Go HTTP client calls with retries, backoff, and concurrency.
 * [pm ★58](https://github.com/VividCortex/pm) - Process (i.e. goroutine) manager with an HTTP API.
 * [profile ★748 ⏳1Y](https://github.com/pkg/profile) - Simple profiling support package for Go.
-* [rclient ★19](https://github.com/zpatrick/rclient) - Readable, flexible, simple-to-use client for REST APIs.
+* [rclient ★19 ⏳1Y](https://github.com/zpatrick/rclient) - Readable, flexible, simple-to-use client for REST APIs.
 * [realize](https://github.com/tockins/realize) - Go build system with file watchers and live reload. Run, build and watch file changes with custom paths.
 * [repeat ★45](https://github.com/ssgreg/repeat) - Go implementation of different backoff strategies useful for retrying operations and heartbeating.
 * [request ★296](https://github.com/mozillazg/request) - Go HTTP Requests for Humans™.

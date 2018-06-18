@@ -523,7 +523,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Async
 
 * [EasyAS-Worker ★41 ⏳1Y](https://github.com/myflashlab/easyAS-Worker) - Simplified wrapper for AIR Workers.
-* [Worker-from-class ★78 ⏳5Y](https://github.com/bortsen/worker-from-class) - Create Workers from Class definitions.
+* [Worker-from-class ★78 ⏳6Y](https://github.com/bortsen/worker-from-class) - Create Workers from Class definitions.
 * [AS3Futures](https://github.com/brianheylin/AS3Futures) - Simplifies making a series of async function calls.
 
 #### Crypto

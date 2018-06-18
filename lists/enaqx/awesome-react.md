@@ -570,6 +570,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-dt - A data table component for React and Material-UI ★1](https://github.com/sonaye/react-dt)
 * [react-vertical-timeline-component - A vertical timeline for React.js ★72](https://github.com/stephane-monnot/react-vertical-timeline)
 * [react-handsontable - A React wrapper for the the Handsontable spreadsheet component. ★239](https://github.com/handsontable/react-handsontable)
+* [animated-number-react - Super easy way to animate numbers with React ★0](https://github.com/Leocardoso94/animated-number-react)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system ★584](https://github.com/LouisBarranqueiro/reapop)
@@ -600,7 +601,7 @@ A collection of awesome things regarding React ecosystem.
 * [compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React ★104](https://github.com/tvler/compose-state)
 
 ##### Integration
-* [ReactJS.NET](http://reactjs.net/)
+* [ReactJS.NET ★1421](https://github.com/reactjs/React.NET)
 * [React ASP.NET Boilerplate ★266](https://github.com/pauldotknopf/react-aspnet-boilerplate)
 * [React Bootstrap ★13167](https://github.com/react-bootstrap/react-bootstrap)
 * [React Bootstrap Components Playground](http://gcanti.github.io/resources/tcomb-react-bootstrap/playground/playground.html)
@@ -695,7 +696,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-typeahead-search by @tonyspiro ★14 ⏳2Y](https://github.com/tonyspiro/react-typeahead-search)
 * [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
 * [react-autosuggest by @moroshko - WAI-ARIA compliant React autosuggest component ★3462](https://github.com/moroshko/react-autosuggest)
-* [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS ★98 ⏳3Y](https://github.com/eliseumds/react-autocomplete)
+* [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS ★98 ⏳4Y](https://github.com/eliseumds/react-autocomplete)
 * [react-autocomplete by @prometheusresearch - Autocomplete widget based on React ★37 ⏳1Y](https://github.com/prometheusresearch/react-autocomplete)
 * [instatype by @gragland - Simple react autocomplete component ★44 ⏳1Y](https://github.com/gragland/instatype)
 * [downshift - 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components ★4435](https://github.com/paypal/downshift)
