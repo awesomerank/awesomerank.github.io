@@ -410,7 +410,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FBMemoryProfiler ★2959](https://github.com/facebook/FBMemoryProfiler) - iOS tool that helps with profiling iOS Memory usage.
 * [FBRetainCycleDetector ★2995](https://github.com/facebook/FBRetainCycleDetector) - iOS library to help detecting retain cycles in runtime.
 * [Buglife ★428](https://github.com/Buglife/Buglife-iOS) - Awesome bug reporting for iOS apps
-* [Warnings-xcconfig ★435 ⏳2Y](https://github.com/boredzo/Warnings-xcconfig) - An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.
+* [Warnings-xcconfig ★435 ⏳3Y](https://github.com/boredzo/Warnings-xcconfig) - An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.
 * [Aardvark ★213](https://github.com/square/Aardvark) - Aardvark is a library that makes it dead simple to create actionable bug reports.
 * [Stats ★155 ⏳1Y](https://github.com/shu223/Stats) - In-app memory usage monitoring.
 * [GlueKit ★357](https://github.com/attaswift/GlueKit) - A type-safe observer framework for Swift.
@@ -1073,7 +1073,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [CLImageViewPopup ★26 ⏳1Y](https://github.com/vinbhai4u/CLImageViewPopup) - A simple Image full screen pop up
 * [APKenBurnsView ★61](https://github.com/Alterplay/APKenBurnsView) - Ken Burns effect with face recognition!
 * [Moa ★274](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS. [e]
-* [JMCMarchingAnts ★128 ⏳1Y](https://github.com/izotx/JMCMarchingAnts) - Library that lets you add marching ants (animated) selection to the edges of the images.
+* [JMCMarchingAnts ★128 ⏳2Y](https://github.com/izotx/JMCMarchingAnts) - Library that lets you add marching ants (animated) selection to the edges of the images.
 * [ImageViewer ★1796](https://github.com/MailOnline/ImageViewer) - An image viewer à la Twitter
 * [FaceAware ★2407](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image when using AspectFill.
 * [SwiftyAvatar ★175](https://github.com/dkalaitzidis/SwiftyAvatar) - A UiimageView class for creating circular avatar images, IBDesignable to make all changes via storyboard
@@ -2228,6 +2228,7 @@ Most of these are paid services, some have free tiers.
 * [MMCardView ★450](https://github.com/MillmanY/MMCardView) - Custom CollectionView like Wallet App
 * [CardsLayout ★377](https://github.com/filletofish/CardsLayout) - Nice card-designed custom collection view layout.
 * [CardParts ★374](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit.
+* [VerticalCardSwiper ★25](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
 
 ### Form & Settings
 * [Form ★1634](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
@@ -2607,6 +2608,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Blueprints ★290](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 * [Stefan ★29](https://github.com/appunite/Stefan) - A guy that helps you manage collections and placeholders in easy way.
 * [Parade ★503](https://github.com/HelloElephant/Parade) - Parallax Scroll-Jacking Effects Engine for iOS / tvOS.
+* [MSPeekCollectionViewDelegateImplementation ★9](https://github.com/MaherKSantina/MSPeekCollectionViewDelegateImplementation) - A custom paging behavior that peeks the previous and next items in a collection view.
 
 #### Expandable Cell
 

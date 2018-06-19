@@ -116,7 +116,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * [nicohman/eidolon ★39](https://github.com/nicohman/eidolon) — a steam and drm-free game registry and launcher for linux and macosx [<img src="https://api.travis-ci.org/nicohman/eidolon.svg?branch=master">](https://travis-ci.org/nicohman/eidolon)
 * [notty ★1714 ⏳1Y](https://github.com/withoutboats/notty) — A new kind of terminal
 * [Pijul](https://pijul.org) — a patch-based distributed version control system
-* [qmx/limonite ★27](https://github.com/qmx/limonite) — static blog/website generator [<img src="https://api.travis-ci.org/qmx/limonite.svg?branch=master">](https://travis-ci.org/qmx/limonite)
+* [qmx/limonite ★27 ⏳1Y](https://github.com/qmx/limonite) — static blog/website generator [<img src="https://api.travis-ci.org/qmx/limonite.svg?branch=master">](https://travis-ci.org/qmx/limonite)
 * [Sandstorm Collections App ★12 ⏳1Y](https://github.com/sandstorm-io/collections-app)
 * [Servo ★11750](https://github.com/servo/servo) — a prototype web browser engine
 * [Weld ★54](https://github.com/serayuzgur/weld) — Full fake REST API generator [<img src="https://api.travis-ci.org/serayuzgur/weld.svg">](https://travis-ci.org/serayuzgur/weld)

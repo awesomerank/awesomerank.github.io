@@ -48,7 +48,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [curry ★73 ⏳1Y](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
 * [compose-function ★33 ⏳1Y](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
 * [functionize ★42 ⏳3Y](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
-* [lambdajs ★131 ⏳3Y](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
+* [lambdajs ★131 ⏳4Y](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
 * [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
 * [trifl ★34 ⏳1Y](https://github.com/algesten/trifl) – A functional user interface library with unidirectional dataflow and a virtual dom.
 * [funcy ★226](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. _Experimental_  :triangular_flag_on_post:

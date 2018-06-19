@@ -113,7 +113,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [percolate:migrations ★223](https://github.com/percolatestudio/meteor-migrations) - Simple migration system for Meteor
 * [meteorhacks:fast-render ★583](https://github.com/kadirahq/fast-render) - Render you app even before the DDP connection is live
 * [meteorhacks:cluster ★646 ⏳1Y](https://github.com/meteorhacks/cluster) - Clustering solution for Meteor with load balancing and service discovery
-* [yogiben:admin ★844](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution
+* [yogiben:admin ★844 ⏳1Y](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) - Converts a Meteor app into a "standard" Node.js application
 * [houston:admin ★828 ⏳1Y](https://github.com/gterrono/houston) - A zero-config, Django Admin-like admin for Meteor
 * [pm2-meteor ★143](https://github.com/andruschka/pm2-meteor) - Simplest way to deploy, scale and run Meteor Apps with PM2.

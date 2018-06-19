@@ -654,7 +654,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [EmailValidationPascal ★10](https://github.com/Xor-el/EmailValidationPascal). Simple Class for Validating Email Address Syntax in Pascal/Delphi.
 
-* [FastMath ★39](https://github.com/neslib/FastMath). Delphi math library that is optimized for fast performance (sometimes at the cost of not performing error checking or losing a little accuracy). It uses hand-optimized assembly code to achieve much better performance then the equivalent functions provided by the Delphi RTL.
+* [FastMath ★39 ⏳1Y](https://github.com/neslib/FastMath). Delphi math library that is optimized for fast performance (sometimes at the cost of not performing error checking or losing a little accuracy). It uses hand-optimized assembly code to achieve much better performance then the equivalent functions provided by the Delphi RTL.
 // *Floating-point, vector, matrix operations.*
 
 * [MPArith](http://www.wolfgang-ehrhardt.de/misc_en.html#mparith). Multi precision integer, rational, real, and complex arithmetic.

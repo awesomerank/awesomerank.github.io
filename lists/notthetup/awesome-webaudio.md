@@ -53,7 +53,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [virtual-audio-graph ★212](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
 - [javascript-karplus-strong ★206 ⏳2Y](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
 - [XSound.js ★17](https://github.com/Korilakkuma/XSound) - Full stack library.
-- [osc-msg ★14](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance.
+- [osc-msg ★14 ⏳1Y](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance.
 - [Meyda ★414](https://github.com/meyda/meyda) - Audio feature extraction library including a variety of widely used audio features.
 - [Pizzicato ★631](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser.
 - [Mooog ★21](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.

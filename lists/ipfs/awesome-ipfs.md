@@ -50,7 +50,7 @@ place to ask about it might be in [ipfs/apps ★47 ⏳1Y](https://github.com/ipf
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 * [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
 * [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance)
-* [git-ipfs-rehost ★98 ⏳1Y](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
+* [git-ipfs-rehost ★98 ⏳2Y](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
 * [HydrusNetwork ★355](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
 * [InterPlanetary Wayback ★134](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.

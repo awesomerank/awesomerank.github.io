@@ -43,7 +43,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 ### 3D
 
 - [Cheese Hunter ★7 ⏳2Y](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
-- [MouseBoat ★28 ⏳1Y](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish.
+- [MouseBoat ★28 ⏳2Y](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish.
 - [Veraball ★30 ⏳2Y](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level.
 
 ## Demos

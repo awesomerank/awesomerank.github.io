@@ -1647,7 +1647,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [GoSublime ★2902](https://github.com/DisposaBoy/GoSublime) - Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features.
 * [theia-go-extension ★5](https://github.com/theia-ide/theia-go-extension) - Go language support for the Theia IDE.
 * [velour ★14 ⏳1Y](https://github.com/velour/velour) - IRC client for the acme editor.
-* [vim-compiler-go ★76 ⏳1Y](https://github.com/rjohnsondev/vim-compiler-go) - Vim plugin to highlight syntax errors on save.
+* [vim-compiler-go ★76 ⏳2Y](https://github.com/rjohnsondev/vim-compiler-go) - Vim plugin to highlight syntax errors on save.
 * [vim-go ★8540](https://github.com/fatih/vim-go) - Go development plugin for Vim.
 * [vscode-go ★3535](https://github.com/Microsoft/vscode-go) - Extension for Visual Studio Code (VS Code) which provides support for the Go language.
 * [Watch ★145](https://github.com/eaburns/Watch) - Runs a command in an acme win on file changes.

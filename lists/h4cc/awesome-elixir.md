@@ -348,6 +348,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [jc ★15](https://github.com/jr0senblum/jc) - In-memory, distributable cache with pub/sub, JSON-query and consistency support.
 * [locker ★136](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 * [lru_cache ★21](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
+* [nebulex ★204](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 * [stash](https://github.com/zackehh/stash) - A straightforward, fast, and user-friendly key/value store.
 
 ## Chatting
@@ -978,7 +979,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exprint ★25 ⏳1Y](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
 * [exquisite ★56 ⏳1Y](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [exsync ★49](https://github.com/falood/exsync) - Yet another Elixir reloader.
-* [funnel ★32 ⏳1Y](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
+* [funnel ★32 ⏳2Y](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 * [gen_task ★14](https://github.com/Nebo15/gen_task) - Generic Task behavior that helps to encapsulate worker errors and recover from them in classic GenStage's.
 * [gimei_ex ★5 ⏳2Y](https://github.com/ma2gedev/gimei_ex) - Elixir port of gimei library.
 * [growl ★2](https://github.com/zachallett/growl) - Simple wrapper for growl, the notification system for OSX.
@@ -1417,6 +1418,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [balanced ★2 ⏳3Y](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
 * [bandwidth](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
 * [bing_translator ★7](https://github.com/ikeikeikeike/bing_translator) - A simple Elixir interface to Bing's translation API.
+* [bitmex ★0](https://github.com/nobrick/bitmex) - BitMEX client library for Elixir.
 * [bitpay ★23 ⏳2Y](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
 * [cashier ★26](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
 * [cleverbot ★3 ⏳1Y](https://github.com/BlakeWilliams/Elixir-Cleverbot) - Simple implementation of the Cleverbot API in Elixir.
@@ -1532,7 +1534,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exkanji ★9](https://github.com/ikeikeikeike/exkanji) - A Elixir library for translating between hiragana, katakana, romaji and kanji. It uses Mecab.
 * [exromaji ★5](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
 * [getatrex ★2](https://github.com/alexfilatov/getatrex) - Automatic translation tool of Gettext locales with Google Translate for Elixir/Phoenix projects.
-* [linguist ★124 ⏳1Y](https://github.com/chrismccord/linguist) - Elixir Internationalization library.
+* [linguist ★124 ⏳2Y](https://github.com/chrismccord/linguist) - Elixir Internationalization library.
 * [parabaikElixirConverter ★1 ⏳3Y](https://github.com/Arkar-Aung/ParabaikElixirConverter) - ParabaikElixirConverter is just a Elixir version of Parabaik converter. It can convert from Unicode to Zawgyi-One and Zawgyi-One to Unicode vice versa.
 * [trans ★92](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
 

@@ -150,6 +150,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [bhf](http://antpaw.github.io/bhf/) - A simple to use Rails-Engine-Gem that offers an admin interface for trusted user.
 * [Faalis](http://faalis.io) - A Rails engine which provides a robust platform to develop web applications. It contains a very simple yet powerful admin/dashboard interface too.
 * [RailsAdmin ★6812](https://github.com/sferik/rails_admin) - A Rails engine that provides an easy-to-use interface for managing your data.
+* [Trestle ★761](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
 * [Typus ★1138](https://github.com/typus/typus) - Ruby on Rails control panel to allow trusted users edit structured content.
 
 ## Analytics
