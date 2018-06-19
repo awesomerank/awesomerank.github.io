@@ -398,7 +398,7 @@ Here awesome badge for your project:
 * [kotlin-graphics/ovr ★2](https://github.com/kotlin-graphics/ovr) - Oculus binding
 * [kotlin-graphics/openvr ★8](https://github.com/kotlin-graphics/openvr) - OpenVR binding
 * [kotlin-graphics/assimp ★29](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
-* [GlimpseFramework/glimpse-framework ★12](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+* [GlimpseFramework/glimpse-framework ★12 ⏳1Y](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
 * [java-opengl-labs/modern-jogl-examples](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
 * [java-opengl-labs/learn-OpenGL](https://github.com/java-opengl-labs/learn-OpenGL) - port of https://learnopengl.com/ tutorial (lwjgl)
 * [kotlin-graphics/imgui ★100](https://github.com/kotlin-graphics/imgui) - jvm port of imgui

@@ -1731,7 +1731,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 ### Other Software
 * [borg](https://github.com/crufter/borg) - Terminal based search engine for bash snippets.
 * [boxed ★67 ⏳2Y](https://github.com/tejo/boxed) - Dropbox based blog engine.
-* [Cherry ★160](https://github.com/rafael-santiago/cherry) - Tiny webchat server in Go.
+* [Cherry ★160 ⏳1Y](https://github.com/rafael-santiago/cherry) - Tiny webchat server in Go.
 * [Circuit ★1644 ⏳1Y](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 * [Comcast ★5495](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 * [confd ★5054](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
