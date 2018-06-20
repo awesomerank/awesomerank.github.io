@@ -485,7 +485,7 @@ Angle Regression
 * [lineprof ★93 ⏳2Y](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
 * [packrat ★259](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 * [installr ★145](https://github.com/talgalili/installr) - Functions for installing softwares from within R (for Windows).
-* [import ★84](https://github.com/smbache/import) - An import mechanism for R.
+* [import ★84 ⏳1Y](https://github.com/smbache/import) - An import mechanism for R.
 * [modules ★141](https://github.com/klmr/modules) - An alternative (Python style) module system for R.
 * [Rocker <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rocker-org) - R configurations for [Docker](https://www.docker.com/).
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) - List of RStudio addins.

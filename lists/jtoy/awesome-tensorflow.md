@@ -41,6 +41,7 @@ More info [here](http://tensorflow.org).
 
 * [TensorFlow Tutorial 1 ★4933](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
 * [TensorFlow Tutorial 2 ★5433](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
+* [TensorFlow Tutorial 3 ★4498](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
 * [TensorFlow Examples ★22803](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
 * [Sungjoon's TensorFlow-101 ★1638](https://github.com/sjchoi86/Tensorflow-101) - TensorFlow tutorials written in Python with Jupyter Notebook
 * [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) - Re-create the codes from other TensorFlow examples
@@ -112,6 +113,7 @@ More info [here](http://tensorflow.org).
 * [Holographic Embeddings for Graph Completion and Link Prediction ★0](https://github.com/laxatives/TensorFlow-TransX) - Implementation of [Holographic Embeddings of Knowledge Graphs](http://arxiv.org/abs/1510.04935)
 * [Unsupervised Object Counting ★28](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
 * [Tensorflow FastText ★142](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
+* [Kubeflow ★3898](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
 
 <a name="github-powered-by" />
 

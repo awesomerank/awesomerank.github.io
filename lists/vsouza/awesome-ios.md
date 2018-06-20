@@ -208,10 +208,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Udacity - Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
 * [Udemy - ARKit - Beginner to Professional in Swift 4 and iOS 11](https://www.udemy.com/arkit-beginner-to-professional/?couponCode=CREATORS)
 
-### Other free courses
-
- * [Codeschool - Exploring Google Maps for iOS](https://www.pluralsight.com/courses/exploring-google-maps-for-ios)
-
 ## Analytics
 
  *Analytics platforms, SDK's, error tracking and real-time answers about your app*
@@ -883,7 +879,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 *Tools to manage strings files, translate and enable localization in your apps.*
 
-* [Hodor ★519](https://github.com/Aufree/Hodor) - Simple solution to localize your iOS App.
+* [Hodor ★519 ⏳1Y](https://github.com/Aufree/Hodor) - Simple solution to localize your iOS App.
 * [Swifternalization ★557](https://github.com/tomkowz/Swifternalization) - Localize iOS apps in a smarter way using JSON files. Swift framework.
 * [Rubustrings ★63](https://github.com/dcordero/Rubustrings) - Check the format and consistency of Localizable.strings files
 * [BartyCrouch ★425](https://github.com/Flinesoft/BartyCrouch) - Incrementally update/translate your Strings files from Code and Storyboards/XIBs.
@@ -1074,7 +1070,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [APKenBurnsView ★61](https://github.com/Alterplay/APKenBurnsView) - Ken Burns effect with face recognition!
 * [Moa ★274](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS. [e]
 * [JMCMarchingAnts ★128 ⏳2Y](https://github.com/izotx/JMCMarchingAnts) - Library that lets you add marching ants (animated) selection to the edges of the images.
-* [ImageViewer ★1796](https://github.com/MailOnline/ImageViewer) - An image viewer à la Twitter
+* [ImageViewer ★1816](https://github.com/Krisiacik/ImageViewer) - An image viewer à la Twitter
 * [FaceAware ★2407](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image when using AspectFill.
 * [SwiftyAvatar ★175](https://github.com/dkalaitzidis/SwiftyAvatar) - A UiimageView class for creating circular avatar images, IBDesignable to make all changes via storyboard
 * [ShinpuruImage ★67 ⏳2Y](https://github.com/FlexMonkey/ShinpuruImage) - Syntactic Sugar for Accelerate/vImage and Core Image Filters
@@ -2825,7 +2821,7 @@ CollectionView, make Instagram Discover within minutes.
 * [chairs ★234 ⏳3Y](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents
 * [SwiftPlate ★1509](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line.
 * [xclint ★100](https://github.com/xcodeswift/xclint) - Validate the state of your Xcode projects.
-* [xcproj](https://github.com/xcode-project-manager/xcproj) - Read and update Xcode projects.
+* [xcproj ★659](https://github.com/xcode-project-manager/xcodeproj) - Read and update Xcode projects.
 
 
 ## Dependency / Package Manager
@@ -2928,7 +2924,7 @@ CollectionView, make Instagram Discover within minutes.
 * [dyci ★1077 ⏳1Y](https://github.com/DyCI/dyci-main) - Code injection tool.
 * [injectionforxcode ★5296](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
 * [Swinject ★2453](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift
-* [Reliant ★55 ⏳1Y](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
+* [Reliant ★55 ⏳2Y](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
 * [Kraken ★1 ⏳1Y](https://github.com/sabirvirtuoso/Kraken) - A Dependency Injection Container for Swift with easy-to-use syntax.
 * [Cleanse ★1055](https://github.com/square/Cleanse) - Lightweight Swift Dependency Injection Framework by Square.
 * [Typhoon ★2408](https://github.com/appsquickly/Typhoon) - Powerful dependency injection (Objective-C & Swift).
@@ -3038,7 +3034,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Lifehacker](https://lifehacker.com/tag/ios)
 * [NSHipster](http://nshipster.com)
 * [Objc.io](https://www.objc.io/)
-* [ASCIIwwdc](http://asciiwwdc.com)
+* [ASCIIwwdc](https://asciiwwdc.com/)
 * [Natasha The Robot](https://www.natashatherobot.com/)
 * [Apple's Swift Blog](https://developer.apple.com/swift/blog/)
 * [iOS Programming Subreddit](https://www.reddit.com/r/iOSProgramming/)
@@ -3068,7 +3064,6 @@ CollectionView, make Instagram Discover within minutes.
 * [Tutorials Point](https://www.tutorialspoint.com/ios/index.htm)
 * [Code with Chris](https://codewithchris.com/)
 * [Cocoa with Love](http://www.cocoawithlove.com/)
-* [Code School - Try Objective-C](https://www.pluralsight.com/courses/try-objective-c)
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
 * [RAYWENDERLICH](https://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
 * [Mike Ash](https://www.mikeash.com/pyblog/)

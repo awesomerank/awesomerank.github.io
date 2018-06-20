@@ -218,7 +218,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Metal
 
 * [Metalbrot ★71](https://github.com/jtbandes/metalbrot-playground) - Interactive playground that draws the Mandelbrot fractal with Metal. 🌟
-* [METAL Playground ★48 ⏳3Y](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground. 🌟 ⏳
+* [METAL Playground ★48 ⏳4Y](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground. 🌟 ⏳
 
 ### Animations
 

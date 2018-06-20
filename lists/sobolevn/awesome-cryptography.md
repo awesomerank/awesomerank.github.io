@@ -241,7 +241,7 @@ A curated list of cryptography resources and links.
 - [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
 - [cryptico ★864](https://github.com/wwwtyro/cryptico) - Easy-to-use encryption system utilizing RSA and AES for javascript.
 - [crypto-js ★4417](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-- [cryptojs ★254 ⏳5Y](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS.
+- [cryptojs ★254 ⏳6Y](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS.
 - [forge ★2510](https://github.com/digitalbazaar/forge) - Native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps.
 - [javascript-crypto-library ★245 ⏳2Y](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
 - [js-nacl ★407 ⏳1Y](https://github.com/tonyg/js-nacl) - Pure-Javascript High-level API to Emscripten-compiled libsodium routines.

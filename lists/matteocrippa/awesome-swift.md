@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) |  :penguin: | 836 | June 16, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) |  :penguin: | 838 | June 20, 2018
 
 ### Contents
 
@@ -389,6 +389,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [Chatto ★3332](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications.
 * [MessageKit ★2016](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
+* [MessengerKit ★271](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
 
 ### Colors
 *Interesting snippets related to color management and utility.* [back to top](#readme) 
@@ -1453,6 +1454,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Solar ★177](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
 * [SpriteKit+Spring ★179](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 * [Sugar ★919](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
+* [swift-protobuf ★1848](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
 * [SwifterSwift ★5343](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift 3 extensions to boost your productivity. 
 * [SwiftGen-Storyboard ★4530](https://github.com/SwiftGen/SwiftGen#uistoryboard) - A tool to auto-generate `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.
 * [SwiftLinkPreview ★819](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.

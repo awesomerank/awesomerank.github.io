@@ -393,7 +393,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [moment ★37095](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 * [moment-timezone ★2659](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
 * [jquery-timeago ★3744](https://github.com/rmm5t/jquery-timeago) - A jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago").
-* [timezone-js ★810](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
+* [timezone-js ★810 ⏳1Y](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
 * [date ★1317](https://github.com/MatthewMueller/date) - Date() for humans.
 * [ms.js](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 * [countdown.js ★385 ⏳4Y](https://github.com/gumroad/countdown.js) - Super simple countdowns.

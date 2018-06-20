@@ -112,7 +112,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [id3v2 ★62](https://github.com/bogem/id3v2) - Fast and stable ID3 parsing and writing library for Go.
 * [malgo ★26](https://github.com/gen2brain/malgo) - Mini audio library.
 * [minimp3 ★8](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library.
-* [mix ★80](https://github.com/go-mix/mix) - Sequence-based Go-native audio mixer for music apps.
+* [mix ★80 ⏳1Y](https://github.com/go-mix/mix) - Sequence-based Go-native audio mixer for music apps.
 * [mp3 ★67 ⏳1Y](https://github.com/tcolgate/mp3) - Native Go MP3 decoder.
 * [music-theory ★197 ⏳2Y](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
 * [PortAudio ★193](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
@@ -584,7 +584,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *Tools to enhance the language with features like generics via code generation.*
 
 * [efaceconv ★32](https://github.com/t0pep0/efaceconv) - Code generation tool for high performance conversion from interface{} to immutable type without allocations.
-* [gen ★885](https://github.com/clipperhouse/gen) - Code generation tool for ‘generics’-like functionality.
+* [gen ★885 ⏳1Y](https://github.com/clipperhouse/gen) - Code generation tool for ‘generics’-like functionality.
 * [go-enum ★45](https://github.com/abice/go-enum) - Code generation for enums from code comments.
 * [go-linq](https://github.com/ahmetalpbalkan/go-linq) - .NET LINQ-like query methods for Go.
 * [goderive ★567](https://github.com/awalterschulze/goderive) - Derives functions from input types.

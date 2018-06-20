@@ -414,7 +414,7 @@ the underlying language.
 
 - [fuzzy_match ★531 ⏳1Y](https://github.com/seamusabshere/fuzzy_match) -
   Fuzzy string comparison with Distance measures and Regular Expression.
-- [fuzzy-string-match ★222](https://github.com/kiyoka/fuzzy-string-match) -
+- [fuzzy-string-match ★222 ⏳1Y](https://github.com/kiyoka/fuzzy-string-match) -
   Fuzzy string matching library for Ruby.
 - [active_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) -
   RoR `ActiveSupport` gem has various string extensions that can handle case.

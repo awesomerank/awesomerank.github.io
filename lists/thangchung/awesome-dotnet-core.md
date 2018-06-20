@@ -531,7 +531,9 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Edi.Net ★104](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS format.
 * [ExtendedXmlSerializer ★67](https://github.com/wojtpl2/ExtendedXmlSerializer) - Extended Xml Serializer for .NET.
 * [Jil ★1732](https://github.com/kevin-montrose/Jil) - Fast .NET JSON (De)Serializer, Built On Sigil.
-* [msgpack-cli ★580](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
+* MessagePack 
+  * [msgpack-cli ★580](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
+  * [MessagePack-CSharp ★1119](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
 * [Newtonsoft.Json ★5650](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET.
 * [protobuf-net ★1918](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET.
 * [Schema.NET ★126](https://github.com/RehanSaeed/Schema.NET) - Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.

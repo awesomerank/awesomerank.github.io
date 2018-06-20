@@ -1427,7 +1427,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Coca Cola Session ★27 ⏳1Y](https://github.com/C0k3/session) - Serverless API example: create and manage user sessions via OAuth tokens.
 - [Parking reminder ★3](https://github.com/worldsoup/serverless-parking-reminder) - Simple serverless service to send a text reminder for street sweeping.
 - [Boilerplate ★8 ⏳1Y](https://github.com/s0enke/serverless-boilerplate) - Serverless boilerplate with frontend and backend.
-- [Cognito demo ★27](https://github.com/johnf/serverless-cognito-demo) - Serverless Cognito Demo.
+- [Cognito demo ★27 ⏳1Y](https://github.com/johnf/serverless-cognito-demo) - Serverless Cognito Demo.
 - [Developer portal ★32](https://github.com/keboola/developer-portal) - An example for a complex Serverless service.
 - [Generator Serverless](https://github.com/exaprint/generator-serverless) - Yeoman generator for a Serverless project.
 - [Bigdatr Startr ★5](https://github.com/bigdatr/bigdatr-startr) - Yeoman generator for quick-start apps.

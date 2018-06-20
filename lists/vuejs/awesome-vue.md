@@ -380,6 +380,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Build a design feedback app using Vue.js](https://pusher.com/tutorials/design-feedback-vuejs)
 - [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/developing-a-single-page-app-with-flask-and-vuejs)
 - [Accepting Payments with Stripe, Vue.js, and Flask](https://testdriven.io/accepting-payments-with-stripe-vuejs-and-flask)
+- [API Driven Development With Laravel and VueJS (Free Course)](https://serversideup.net/courses/api-driven-development-laravel-vuejs/) on serversideup.net
 
 ### Examples
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
@@ -427,7 +428,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [**vue-calculator** ★44 ⏳1Y](https://github.com/CaiYiLiang/simply-calculator-vuejs) a simply calculator built with Vue 2.0, vue-cli(webpack-simple). by [CaiYiLiang](https://github.com/CaiYiLiang)
   - [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) A simple wikipedia-viewer page built with vue2.x ,vue-router,vue-cli(webpack-simple) and ajax(jsonp). by [CaiYiLiang](https://github.com/CaiYiLiang)
   - [**vue2.x-douban** ★645](https://github.com/superman66/vue2.x-douban) A simple of douban movie build with vue2.x,vue-router and axios(豆瓣电影). by [Superman](https://github.com/superman66)
-  - [**vue-laravel-example** ★156](https://github.com/jcc/vue-laravel-example) Vue - Laravel - Example is a simple example to set Vue with Laravel. by [Jiajian Chan](https://github.com/jcc)
+  - [**vue-laravel-example** ★156 ⏳1Y](https://github.com/jcc/vue-laravel-example) Vue - Laravel - Example is a simple example to set Vue with Laravel. by [Jiajian Chan](https://github.com/jcc)
   - [**vue-foundation**](https://github.com/hal0gen/vue-foundation) A demo app integrating VueJS with [**Zurb Foundation** ★27366](https://github.com/zurb/foundation-sites), built using the webpack vue-cli f
   - [aspnetcore-Vue-starter ★547](https://github.com/MarkPieszak/aspnetcore-Vue-starter) A VueJS 2 starter template as part of an asp.net MVC dotnetcore project. This template includes the VueJS client app and a backend API controller.
   - [**vue-reddit-app** ★41 ⏳1Y](https://github.com/yujiahaol68/reddit-app) A Reddit SPA [_**demo**_](https://yujiahaol68.github.io/reddit-app/) built with **Vue 2.X** , **Vue Router 2** , **Vuex** and **axios**. Using Muse-UI and vue-cli webpack template by [@yujiahaol68](https://github.com/yujiahaol68)
@@ -599,7 +600,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [vue-storefront ★1428](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
 - [fd-vue ★7](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
 - [wildfire ★116](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
-- [Uber Run](https://github.com/break-enter/uberrun) - Simple automation desktop app to download and organize your tax invoices from Uber.
+- [Ride Receipts ★44](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
 - [vue-chrome-extension-boilerplate ★22](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack
 - [TimeMark ★7](https://github.com/MarsZone/TimeMark) - A Time manager which will can record your time and some more function will be developed.
 - [Laravel Enso ★382](https://github.com/laravel-enso/enso) - SPA Admin Panel built with Bulma, VueJS and Laravel, packing lots of features out of the box.
@@ -624,12 +625,14 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Socialhome ★177](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 - [GenVue ★6](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
 - [vue-array ★9](https://github.com/BlackHole1/vue-array) - Array object operation under Vue, Array object operation under Vue Use this package to manipulate the array. Vue can monitor the changes in the array
- - [Laqu-l ★10](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
- - [Protovue ★127](https://github.com/v1Labs/protovue) - A prototyping component library that helps designers and developers quicky scaffold an abstracted app layout.
+- [Laqu-l ★10](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
+- [Protovue ★127](https://github.com/v1Labs/protovue) - A prototyping component library that helps designers and developers quicky scaffold an abstracted app layout.
 - [Chattier ★0](https://github.com/raniesantos/chattier) - SPA social network built with Laravel 5.6, Vue.js 2, and Bulma (Buefy components + Bulmaswatch themes). Also uses JWT authentication.
 - [chrome-ribbon-reminder ★3](https://github.com/johndatserakis/chrome-ribbon-reminder) - A Chrome extension written using Vue and Async/Await. Uses a popup display and changes badge counts.
 - [Faviator](https://www.faviator.xyz/) - A simple easy favicon generator.
 - [Laravel Genealogy ★15](https://github.com/laravel-genealogy/genealogy) - Genealogy / family tree management system using Laravel 5.6, Vue.js 2 and various components. Work in progress.
+- [Minimal Notes ★21](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
+- [Roast ★69](https://github.com/serversideup/roastandbrew) an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
 
 ### Commercial Products
 
@@ -730,7 +733,6 @@ title: Awesome Rank for vuejs/awesome-vue
   - [TR-101](https://inverted3.gitlab.io/drum-machine/) - A drum synth / sequencer.
   - [Bazaar](https://bazaar.co) - Media sharing platform.
   - [WynnStats](https://maple3142.github.io/wynn/) - A unofficial WynnCraft statistics.
-  - [Save Coins](https://savecoins.me) - Save Coins helps Nintendo Switch owners to save money on Nintendo eShop.
   - [Vectr](https://vectr.com/new) - A free vector graphics software
   - [brain bits ★66](https://github.com/dashersw/brain-bits) - A P300 online spelling mechanism for Emotiv headsets
   - [Coin Dashboard](https://www.coin-dashboard.com) - The fully client-side cryptocurrency asset dashboard.
@@ -775,6 +777,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [SPK](https://www.spk.rocks/) The website of SPK Ecosystem
   - [IDDEF](https://www.iddef.org/) ☪️ The Federation of the Associations that Value Humanity's webpage, CMS, CRM and Donation and all e-commerce pages are designed with Vue.js, Vuex and pure JavaScript 🙏
   - [Configuration File Management](http://www.configapp.com/) - A simple way to manage your configuration files
+  - [Roast](https://roastandbrew.coffee/) an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
 
 ### Interactive Experiences
 
@@ -1533,6 +1536,8 @@ Tooltips / popovers
  - [vuesax ★918](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
  - [vuecidity](https://bitbucket.org/acidmartin/vuecidity) - UI component framework for Vue.js 2.0
  - [vue-antd-ui ★596](https://github.com/vueComponent/ant-design) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
+ - [heyui ★348](https://github.com/heyui/heyui) - (https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
+ - [Carvue.js ★29](https://github.com/nicholaslee119/carbon-components-vue) - IBM's Carbon Design System for Vue.js
 
 ### Mobile
 
@@ -1561,7 +1566,6 @@ Tooltips / popovers
  - [office-ui-fabric-vue ★122](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js
  - [vuestic-admin ★4026](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dasboard with collection of custom components. Built with Vue 2 and Bootstrap 4
  - [Semantic UI Vue ★402](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) - Semantic UI integration for Vue
- - [Carvue.js ★29](https://github.com/nicholaslee119/carbon-components-vue) - IBM's Carbon Design System for Vue.js
  - [vuesax ★918](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
 
 ### Mobile
@@ -1760,6 +1764,7 @@ Tooltips / popovers
  - [vue-smooth-height ★20](https://github.com/guanzo/vue-smooth-height) Transition an elements height in response to data changes.
  - [VueTween ★3](https://github.com/SeregPie/VueTween) Allows components to tween their properties.
  - [vue-slide-up-down ★30](https://github.com/danieldiekmeier/vue-slide-up-down) Like jQuery's `slideUp` / `slideDown`, but for Vue!
+ - [vue-animejs ★0](https://github.com/BenAHammond/vue-anime) Simple `anime.js` directives for Vue.
 
 ### Meta Tags
 
@@ -2066,6 +2071,7 @@ the amazing Vue.js.
  - [vue-echo ★171 ⏳1Y](https://github.com/happyDemon/vue-echo) - Integrates Laravel Echo into Vue, allows for easy registration of socket events.
  - [vue-socket-cluster ★8](https://github.com/nigeltiany/vue-socket-cluster) - Web Sockets for vue with uws(Micro web sockets) through socket cluster
  - [vue-native-websocket ★181](https://github.com/nathantsoi/vue-native-websocket) - Native websocket implementation for Vuejs 2 and Vuex
+ - [vue-socket.io-extended ★36](https://github.com/probil/vue-socket.io-extended) - Socket.io bindings for Vue.js and Vuex
 
 ### Payment
 

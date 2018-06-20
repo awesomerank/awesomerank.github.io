@@ -107,6 +107,8 @@ title: Awesome Rank for sindresorhus/awesome
 - [RubyMotion ★63](lists/motion-open-source/awesome-rubymotion.md) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV ★94](lists/vitalets/awesome-smart-tv.md) - Create apps for different TV platforms.
 - [GNOME ★202](lists/Kazhnuz/awesome-gnome.md) - Simple and distraction-free desktop environment for Linux.
+- [.NET ★6769](lists/quozd/awesome-dotnet.md)
+	- [Core ★5088](lists/thangchung/awesome-dotnet-core.md)
 
 
 ## Programming Languages
@@ -159,8 +161,6 @@ title: Awesome Rank for sindresorhus/awesome
 - [OCaml ★1319](lists/rizo/awesome-ocaml.md)
 - [ColdFusion ★57 ⏳1Y](lists/seancoyne/awesome-coldfusion.md)
 - [Fortran ★155 ⏳1Y](lists/rabbiabram/awesome-fortran.md)
-- [.NET ★6769](lists/quozd/awesome-dotnet.md)
-	- [Core ★5088](lists/thangchung/awesome-dotnet-core.md)
 - [PHP ★18804](lists/ziadoz/awesome-php.md)
 	- [Composer ★317](lists/jakoch/awesome-composer.md) - Package manager.
 - [Delphi ★485](lists/Fr0sT-Brutal/awesome-delphi.md)

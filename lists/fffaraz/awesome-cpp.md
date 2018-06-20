@@ -362,6 +362,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Graphics
 
 * [bgfx ★4754](https://github.com/bkaradzic/bgfx) - A cross-platform rendering library. [BSD]
+* [bs::framework ★710](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications. [MIT]
 * [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices. [LGPL2 or Mozilla MPL]
 * [Diligent Engine ★159](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. [Apache2]
 * [DirectXTK ★996](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. [MIT]
