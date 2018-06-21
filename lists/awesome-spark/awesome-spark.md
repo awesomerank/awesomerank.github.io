@@ -113,6 +113,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [ModelDB](https://mitdbg.github.io/modeldb) - A system to manage machine learning models for `spark.ml` and [`scikit-learn` ★28642](https://github.com/scikit-learn/scikit-learn).
 * [Sparkling Water ★636](https://github.com/h2oai/sparkling-water) -  [H2O](http://www.h2o.ai/) interoperability layer.
 * [BigDL ★2508](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library.
+* [MLeap ★468](https://github.com/combust/mleap) - Execution engine and serialization format which supports deployment of `o.a.s.ml` models without dependency on `SparkSession`.
 
 ### Middleware
 

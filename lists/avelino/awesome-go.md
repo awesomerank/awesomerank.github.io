@@ -1455,7 +1455,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [structs ★5](https://github.com/PumpkinSeed/structs) - Implement simple functions to manipulate structs.
 * [Task ★874](https://github.com/go-task/task) - simple "Make" alternative.
 * [toolbox ★24](https://github.com/viant/toolbox) - Slice, map, multimap, struct, function, data conversion utilities. Service router, macro evaluator, tokenizer.
-* [ugo ★16 ⏳1Y](https://github.com/alxrm/ugo) - ugo is slice toolbox with concise syntax for Go.
+* [ugo ★16 ⏳2Y](https://github.com/alxrm/ugo) - ugo is slice toolbox with concise syntax for Go.
 * [UNIS ★64 ⏳1Y](https://github.com/esemplastic/unis) - Common Architecture™ for String Utilities in Go.
 * [usql](https://github.com/knq/usql) - usql is a universal command-line interface for SQL databases.
 * [util ★64](https://github.com/shomali11/util) - Collection of useful utility functions. (strings, concurrency, manipulations, ...).

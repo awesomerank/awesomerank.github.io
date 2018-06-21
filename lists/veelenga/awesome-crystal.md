@@ -70,6 +70,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
 * [Community](#community)
+  * [Unofficial](#unofficial)
 * [Resources](#resources)
   * [Official Documentation Translations](#official-documentation-translations)
 * [Services and Apps](#services-and-apps)
@@ -266,7 +267,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [graphql-crystal ★104](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation
  * [kave ★20](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-auth-token ★19 ⏳1Y](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
- * [kemal-monetdb ★0 ⏳1Y](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
+ * [kemal-monetdb ★0 ⏳2Y](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
  * [kemal-session ★27](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
  * [mime-types.cr ★7](https://github.com/jwaldrip/mime-types.cr) - A port of the Ruby MIME-types library
  * [multi-auth ★36](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
@@ -537,6 +538,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Metaruby](https://metaruby.com/c/crystal-forum) - Crystal Forum on Metaruby
  * [Reddit](https://www.reddit.com/r/crystal_programming/)
  * [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
+
+## Unofficial
+ * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро пожаловать, товарищ!
 
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - free book to bootstrap your Crystal journey

@@ -135,6 +135,7 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 * [Go Meta Linter ★2674](https://github.com/alecthomas/gometalinter) - Concurrently run Go lint tools and normalise their output.
 * [go tool vet --shadow](https://golang.org/cmd/vet/#hdr-Shadowed_variables) - Reports variables that may have been unintentionally shadowed.
 * [go vet](https://golang.org/cmd/vet/) - Examines Go source code and reports suspicious.
+* [go-critic ★53](https://github.com/go-critic/go-critic) - Go source code linter that maintains checks which are currently not implemented in other linters.
 * [go-staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - go vet on steroids, similar to ReSharper for C#.
 * [go/ast](https://golang.org/pkg/go/ast/) - Package ast declares the types used to represent syntax trees for Go packages.
 * [goconst ★100](https://github.com/jgautheron/goconst) - Finds repeated strings that could be replaced by a constant.
@@ -309,6 +310,10 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 
 * [lintr ★458](https://github.com/jimhester/lintr) :copyright: - Static Code Analysis for R
 
+## RPG
+
+* [SourceMeter](https://www.sourcemeter.com/resources/rpg/) :copyright: - Static Code Analysis for RPG III and RPG IV versions (including free-form)
+
 ## Ruby
 
 * [brakeman ★4815](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
@@ -354,6 +359,8 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 
 * [sqlcheck ★1569](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 * [sqlint ★187](https://github.com/purcell/sqlint) - Simple SQL linter
+* [tsqllint ★36](https://github.com/tsqllint/tsqllint) - T-SQL-specific linter
+* [TSqlRules ★4 ⏳1Y](https://github.com/ashleyglee/TSqlRules) - TSQL Static Code Analysis Rules for SQL Server
 
 ## Swift
 

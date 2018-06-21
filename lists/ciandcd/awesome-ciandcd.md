@@ -280,7 +280,7 @@ Other amazingly awesome lists can be found in
 * [awesome ★85445](https://github.com/sindresorhus/awesome)  
 * [awesome-awesome ★1125](https://github.com/emijrp/awesome-awesome)  
 * [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness)  
-* [sysadmin ★11](https://github.com/itech001/awesome-sysadmin)  
+* [sysadmin ★11 ⏳1Y](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
 * [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services)

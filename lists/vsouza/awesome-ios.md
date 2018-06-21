@@ -1992,7 +1992,7 @@ Most of these are paid services, some have free tiers.
 * [Pop By Example ★182 ⏳2Y](https://github.com/hossamghareeb/Facebook-POP-Tutorial) - A project tutorial in how to use Pop animation framework by example.
 * [AppAnimations](http://www.appanimations.com) - Collection of iOS animations to inspire your next project
 * [EasyAnimation ★2582](https://github.com/icanzilb/EasyAnimation) - A Swift library to take the power of UIView.animateWithDuration() to a whole new level - layers, springs, chain-able animations, and mixing view/layer animations together.
-* [Animo ★198](https://github.com/eure/Animo) - SpriteKit-like animation builders for CALayers.
+* [Animo ★198 ⏳1Y](https://github.com/eure/Animo) - SpriteKit-like animation builders for CALayers.
 * [CurryFire ★92](https://github.com/devinross/curry-fire) - A framework for creating unique animations.
 * [IBAnimatable ★7379](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [CKWaveCollectionViewTransition ★1641 ⏳1Y](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool wave like transition between two or more UICollectionView

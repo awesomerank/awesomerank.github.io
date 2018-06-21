@@ -511,10 +511,10 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Artificial Intelligence
 
-* [FiniteStateMachine ★3 ⏳5Y](https://github.com/pzUH/FiniteStateMachine) - Finite State Machine for AI bot/agent.
+* [FiniteStateMachine ★3 ⏳6Y](https://github.com/pzUH/FiniteStateMachine) - Finite State Machine for AI bot/agent.
 * [N-GramPredictor ★2 ⏳5Y](https://github.com/pzUH/N-GramPredictor) - n-Gram predictor for AI bot/agent.
 * [Naive-BayesPredictor ★2 ⏳6Y](https://github.com/pzUH/Naive-BayesPredictor) - Naive-Bayes predictor for AI bot/agent.
-* [HierarchicalStateMachine ★2 ⏳5Y](https://github.com/pzUH/HierarchicalStateMachine) - Hierarchical State Machine for AI bot/agent.
+* [HierarchicalStateMachine ★2 ⏳6Y](https://github.com/pzUH/HierarchicalStateMachine) - Hierarchical State Machine for AI bot/agent.
 * [Godmode-as3 ★28 ⏳4Y](https://github.com/tconkling/godmode-as3) - Behavior tree implementation (artificial intelligence).
 * [DecisionTree ★3 ⏳6Y](https://github.com/pzUH/DecisionTree) - Binary decision tree for AI bot/agent.
 * [FuzzyStateMachine ★2 ⏳5Y](https://github.com/pzUH/FuzzyStateMachine) - Fuzzy State Machine (FuSM) for AI bot/agent.

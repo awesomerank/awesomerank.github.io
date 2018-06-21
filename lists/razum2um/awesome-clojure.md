@@ -314,7 +314,7 @@ anylysis and visualization.*
   * [Infer ★171 ⏳2Y](https://github.com/aria42/infer)
   * [k9 ★98 ⏳3Y](https://github.com/gigasquid/k9)
   * [lambda-ml ★46](https://github.com/cloudkj/lambda-ml)
-  * [Statistiker ★53 ⏳2Y](https://github.com/clojurewerkz/statistiker)
+  * [Statistiker ★53 ⏳3Y](https://github.com/clojurewerkz/statistiker)
   * [Synaptic ★87 ⏳2Y](https://github.com/japonophile/synaptic)
 
 ## Computer Vision

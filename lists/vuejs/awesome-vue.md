@@ -111,6 +111,7 @@ title: Awesome Rank for vuejs/awesome-vue
     - [Miscellaneous](#miscellaneous-2)
     - [WebGL](#webgl)
     - [Page Visibility](#page-visibility)
+    - [Printing](#printing)
   - [Utilities](#utilities)
     - [Typescript](#typescript)
     - [HTTP Requests](#http-requests)
@@ -1469,7 +1470,7 @@ Tooltips / popovers
  - [vue-easeljs](http://github.com/dankuck/vue-easeljs) - Data-driven control over an HTML5 canvas element.
  - [vue-canvas-effect ★24](https://github.com/chenxuan0000/vue-canvas-effect) - A simple, canvas effect collection for Vue.js.
  - [vue-konva ★122](https://github.com/rafaesc/vue-konva) - Vue & Canvas - JavaScript library for drawing complex canvas graphics using Vue.
-
+ - [vue-html2canvas ★0](https://github.com/mycure-inc/vue-html2canvas) - Vue mixin to capture html and convert it to an image using Html2Canvas.
 
 ### Link Preview
 
@@ -1831,6 +1832,10 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
 
 - [vue-page-visibility-awesome ★5](https://github.com/stefanodotit/vue-page-visibility-awesome) - A Vue 2.x component of easy-to-config page visibility api.
 - [vue-authplugin ★0](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
+
+### Printing
+
+- [vue-html-to-paper](https://mycure-inc.github.io/vue-html-to-paper/) - Vue mixin for paper printing html elements to paper.
 
 
 ## Utilities

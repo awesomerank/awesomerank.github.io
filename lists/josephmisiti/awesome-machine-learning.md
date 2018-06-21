@@ -268,7 +268,7 @@ Further resources:
 * [DL4CLJ](https://github.com/engagor/dl4clj/) - Clojure wrapper for Deeplearning4j.
 * [Encog ★137 ⏳2Y](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets).
 * [Fungp ★99 ⏳4Y](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure.
-* [Statistiker ★53 ⏳2Y](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure.
+* [Statistiker ★53 ⏳3Y](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure.
 * [clortex ★166 ⏳2Y](https://github.com/htm-community/clortex) - General Machine Learning library using Numenta’s Cortical Learning Algorithm.
 * [comportex ★135 ⏳1Y](https://github.com/htm-community/comportex) - Functionally composable Machine Learning library using Numenta’s Cortical Learning Algorithm.
 * [cortex](https://github.com/thinktopic/cortex) - Neural networks, regression and feature learning in Clojure.

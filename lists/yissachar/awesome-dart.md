@@ -46,7 +46,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 * [AngularDart](https://angulardart.org/) - AngularDart is a development platform for building mobile and desktop web applications
 * [Flutter](https://flutter.io/) - Flutter is a development platform for building mobile applications.
-* [uix ★80](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React.
+* [uix ★80 ⏳1Y](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React.
 * [MDL/Dart](http://www.material-design-lite.pub/) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 * [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
 

@@ -274,7 +274,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [ManuelCarlos's Playgrouds ★5](https://github.com/manuelCarlos/Swift-Playgrounds) - Various playgrounds.
 * [Mgrebenets's Playgrounds ★7](https://github.com/mgrebenets/playgrounds) - Various playgrounds.c 🌟
 * [Cocoa With Love Playgrounds ★76](https://github.com/mattgallagher/CocoaWithLovePlaygrounds) - Playground versions of select articles from Cocoa with Love.  🌟 
-* [Sketchytech's Playgrounds ★9 ⏳2Y](https://github.com/sketchytech/SwiftPlaygrounds) - Various Playgrounds. 🌟 ⏳
+* [Sketchytech's Playgrounds ★9 ⏳3Y](https://github.com/sketchytech/SwiftPlaygrounds) - Various Playgrounds. 🌟 ⏳
 * [Swift fun playgrounds ★7 ⏳3Y](https://github.com/madbat/Swift-fun-playgrounds) - A few playgrounds to showcase Swift peculiar features. ⏳
 * [BradLarson's Playgrounds ★19 ⏳3Y](https://github.com/BradLarson/PersonalSwiftPlaygrounds) - Various playgrounds. ⏳
 * [Dmikusa's Playgrounds ★14 ⏳2Y](https://github.com/dmikusa/swift_playgrounds) - Playgrounds that show basic Swift, JSON parsing, sending HTTP requests and basic file IO. ⏳

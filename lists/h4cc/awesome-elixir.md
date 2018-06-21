@@ -1160,7 +1160,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Special protocol and format libraries.*
 
 * [elixir_radius ★8 ⏳2Y](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
-* [ex_hl7 ★20](https://github.com/jcomellas/ex_hl7) - Health Level 7 (HL7) is a protocol designed to model and transfer health-related data electronically.
+* [ex_hl7 ★20 ⏳1Y](https://github.com/jcomellas/ex_hl7) - Health Level 7 (HL7) is a protocol designed to model and transfer health-related data electronically.
 * [ex_marshal ★29](https://github.com/gaynetdinov/ex_marshal) - Ruby Marshal format implemented in Elixir.
 * [exprotobuf ★334](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir, made easy.
 * [grpc-elixir ★330](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
@@ -1194,7 +1194,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mqs ★27 ⏳2Y](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
 * [opq ★108](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
 * [pqueue ★104](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
-* [que ★275](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+* [que ★275 ⏳1Y](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 * [queuex ★9 ⏳1Y](https://github.com/falood/queuex) - Priority Queue with multiple backends.
 * [RBMQ ★18](https://github.com/Nebo15/rbmq) - Simple API for spawning RabbitMQ Producers and Consumers.
 * [stream_weaver](https://hex.pm/packages/stream_weaver) - Library for working with streams.
