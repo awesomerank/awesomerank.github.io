@@ -131,7 +131,7 @@ Inspired by [awesome-php ★18804](https://github.com/ziadoz/awesome-php).
 * [PyPattyrn ★501](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
 * [python-patterns ★15562](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
 * [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) - Fast, pure-Python implementation of SortedList, SortedDict, and SortedSet types.
-* [SCOOP ★300](https://github.com/soravux/scoop) - Scalable Concurrent Operations in Python.
+* [SCOOP ★300 ⏳1Y](https://github.com/soravux/scoop) - Scalable Concurrent Operations in Python.
 
 ## Anti-spam
 

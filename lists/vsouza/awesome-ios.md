@@ -1184,6 +1184,7 @@ Also see [push notifications](#push-notifications)
 * [chat-sdk-ios ★503](https://github.com/chat-sdk/chat-sdk-ios) - Chat SDK iOS - Open Source Mobile Messenger.
 * [AsyncMessagesViewController ★250](https://github.com/nguyenhuy/AsyncMessagesViewController) - A smooth, responsive and flexible messages UI library for iOS.
 * [MessageViewController ★1310](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement written in Swift for the iPhone X.
+* [SwiftyMessenger ★5](https://github.com/abdullahselek/SwiftyMessenger) - Swift toolkit for passing messages between iOS apps and extensions.
 
 ## Networking
 * [AFNetworking ★31111](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and macOS networking framework.
@@ -2082,6 +2083,7 @@ Most of these are paid services, some have free tiers.
 * [DeckTransition ★1771](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition
 * [TransitionableTab ★493](https://github.com/Interactive-Studio/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab
 * [AlertTransition ★452](https://github.com/loopeer/AlertTransition) - AlertTransition is a extensible library for making view controller transitions, especially for alert transitions.
+* [SemiModalViewController ★7](https://github.com/muyexi/SemiModalViewController) - Present view / view controller as bottom-half modal.
 
 ### Alert & Action Sheet
 

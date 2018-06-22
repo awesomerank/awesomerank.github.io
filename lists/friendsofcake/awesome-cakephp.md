@@ -228,7 +228,7 @@ Additional lists you might find useful:
 ## Markup
 *Plugins for working with markup.*
 
-- [Gourmet/CommonMark plugin ★7 ⏳2Y](https://github.com/gourmet/common-mark) - Adds [CommonMark](http://commonmark.org/) Markdown parsing.
+- [Gourmet/CommonMark plugin ★7 ⏳3Y](https://github.com/gourmet/common-mark) - Adds [CommonMark](http://commonmark.org/) Markdown parsing.
 - [Markup plugin ★1](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
 
 ## Migration
@@ -377,7 +377,7 @@ Additional lists you might find useful:
 - [BootstrapUI plugin ★249](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
 - [CakeExcel plugin ★22](https://github.com/dakota/CakeExcel) - An Excel view to generate XLSX files.
 - [Chocolate plugin ★6 ⏳2Y](https://github.com/commercial-hippie/chocolate) - Front-End framework FormHelper extensions.
-- [CommonMark plugin ★7 ⏳2Y](https://github.com/gourmet/common-mark) - Adds [CommonMark](http://commonmark.org) (markdown) support to models and views.
+- [CommonMark plugin ★7 ⏳3Y](https://github.com/gourmet/common-mark) - Adds [CommonMark](http://commonmark.org) (markdown) support to models and views.
 - [CsvView plugin ★134](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 - [Feed plugin ★9](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 - [InlineCss plugin ★7 ⏳1Y](https://github.com/drmonkeyninja/cakephp-inline-css) - A plugin to convert HTML style blocks to inline CSS on a View template (intended for use with email templates).

@@ -222,7 +222,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [CameraDetection ★34 ⏳5Y](https://github.com/cataclysmicrewind/CameraDetection) - Camera detection.
 * [Fluocam ★11 ⏳4Y](https://github.com/Fluocode/Fluocam) - Virtual camera for Starling applications.
 * [WebcamRecorder ★22 ⏳6Y](https://github.com/Stupeflix/WebcamRecorder) - Chromeless video/audio/still image recording from webcams.
-* [FlashyWrappers ★16](https://github.com/rainbowcreatures/FlashyWrappers) - Recording video from AIR apps on Windows/Android/iOS/OSX.
+* [FlashyWrappers ★16 ⏳1Y](https://github.com/rainbowcreatures/FlashyWrappers) - Recording video from AIR apps on Windows/Android/iOS/OSX.
 
 #### Image
 

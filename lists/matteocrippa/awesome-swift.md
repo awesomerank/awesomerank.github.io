@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) |  :penguin: | 839 | June 21, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) |  :penguin: | 842 | June 22, 2018
 
 ### Contents
 
@@ -201,7 +201,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 ## Boilerplates
 
 * [Swift 3 VIPER Module Template ★315](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode template for VIPER Architecture.
-* [Swift 4 Module Template ★170](https://github.com/fulldecent/swift4-module-template) - An opinionated starting point for awesome, reusable modules.
+* [Swift Module Template ★170](https://github.com/fulldecent/swift4-module-template) - An opinionated starting point for awesome, reusable modules.
 
 ## REPL
 
@@ -349,6 +349,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [ARKit-Navigation ★141](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 * [ARVideoKit ★675](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos, photos, Live Photos, and GIFs
 * [ARVoxelKit ★41](https://github.com/VoxxxelAR/ARVoxelKit) - Voxel graphic framework using ARKit
+* [Poly ★9](https://github.com/piemonte/Poly) - Unofficial Google Poly SDK – explore the world of 3D
 
 ### Authentication
 *Easy way to manage auth in your apps.* [back to top](#readme) 
@@ -466,7 +467,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Freddy ★1127](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON.
 * [Genome ★787](https://github.com/LoganWright/Genome) - A simple, type safe, failure driven mapping library for serializing JSON to models.
 * [Gloss ★1625](https://github.com/hkellaway/Gloss) :penguin: - Shiny JSON parsing library.
-* [HandyJSON ★2031](https://github.com/alibaba/handyjson) - A handy swift JSON-object serialization/deserialization library.
+* [HandyJSON ★2031](https://github.com/alibaba/handyjson) - A handy Swift JSON-object serialization/deserialization library.
 * [Himotoki ★705](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library.
 * [JASON ★1010](https://github.com/delba/JASON) - JSON parsing with outstanding performances and convenient operators.
 * [JSONCodable ★613](https://github.com/matthewcheok/JSONCodable) - Hassle-free JSON encoding and decoding.
@@ -1264,6 +1265,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 [back to top](#readme) 
 
 * [ActiveLabel ★2342](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://).
+* [AnimatedMaskLabel ★184](https://github.com/imjog/AnimatedMaskLabel) - A nice gradient animated label that make easy to add a shimmering effect to any view.
 * [CountdownLabel ★429](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
 * [FloatLabelFields ★1099](https://github.com/FahimF/FloatLabelFields) - Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
 * [GlitchLabel ★724](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS.
@@ -1391,7 +1393,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [ShelfView-iOS ★216](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
 * [SwiftSpreadsheet ★434](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
 * [TagCellLayout ★151](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
-* [VegaScroll ★1737](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView completely written in Swift 4.
+* [VegaScroll ★1737](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView completely written in Swift.
 
 #### UITableView
 [back to top](#readme) 
@@ -1456,7 +1458,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SpriteKit+Spring ★179](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 * [Sugar ★919](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
 * [swift-protobuf ★1848](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
-* [SwifterSwift ★5343](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift 3 extensions to boost your productivity. 
+* [SwifterSwift ★5343](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity. 
 * [SwiftGen-Storyboard ★4530](https://github.com/SwiftGen/SwiftGen#uistoryboard) - A tool to auto-generate `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.
 * [SwiftLinkPreview ★819](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
 * [SwiftRandom ★507](https://github.com/thellimist/SwiftRandom) - A tiny generator of random data.
@@ -1479,6 +1481,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [FormValidatorSwift ★464](https://github.com/ustwo/formvalidator-swift) - Allows you to validate inputs of text fields and text views in a convenient way.
 * [Input Mask ★198](https://github.com/RedMadRobot/input-mask-ios) - Pattern-based user input formatter, parser and validator for iOS.
+* [RxValidator ★97](https://github.com/vbmania/RxValidator) - Simple, Extensible, Flexible Validation Checker
 * [SwiftValidator ★1050](https://github.com/SwiftValidatorCommunity/SwiftValidator) - A rule-based validation library.
 * [SwiftValidators ★144](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS (inspired by validator.js).
 * [Validator ★1063](https://github.com/adamwaite/Validator) - Drop in user input validation for your iOS apps.

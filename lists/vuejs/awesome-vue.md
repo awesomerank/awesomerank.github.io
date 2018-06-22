@@ -1336,7 +1336,7 @@ Tooltips / popovers
  - [vue-input-tag ★301](https://github.com/matiastucci/vue-input-tag) - Vue.js 2.0 Input Tag Component.
  - [v-distpicker ★408](https://github.com/jcc/v-distpicker) A flexible, highly available district picker for picking provinces, cities and districts of China for Vue.js 2.x.
  - [vue-img-inputer ★307](https://github.com/waynecz/vue-img-inputer) A graceful, highly customizable img type input for Vue 2
- - [vue-img-preview ★9](https://github.com/dameety/vue-image-preview) An image input preview component in vue 2
+ - [vue-img-preview ★9 ⏳1Y](https://github.com/dameety/vue-image-preview) An image input preview component in vue 2
  - [v-image ★9](https://github.com/vinayakkulkarni/v-image) :camera: Tiny little component for input type=file (< 1kb, gzipped)
  - [@voerro/vue-tagsinput](https://github.com/AlexMordred/vue-tagsinput) A simple tags input Vue.js 2 component with typeahead/autocomplete
 
@@ -2037,7 +2037,7 @@ the amazing Vue.js.
 
  - [vue-navigation ★303](https://github.com/zack24q/vue-navigation) - A page navigation library, record routes and cache pages, like native app navigation. 一个页面导航库，记录路由并缓存页面，像原生APP导航一样。
  - [vue-acl ★214](https://github.com/leonardovilarinho/vue-acl) - Access Control List for VueJS 2.
- - [vue-breadcrumbs ★95](https://github.com/samturrell/vue-breadcrumbs) - Implements simple breadcrumb functionality with vue-router for both Vue 1.x and Vue 2.x.
+ - [vue-breadcrumbs ★95 ⏳1Y](https://github.com/samturrell/vue-breadcrumbs) - Implements simple breadcrumb functionality with vue-router for both Vue 1.x and Vue 2.x.
  - [vue-2-breadcrumbs](https://github.com/GitScrum/vue-2-breadcrumbs) - breadcrumb together with vue-router for Vue 2.x. and Bootstrap 4
  - [vs-crumbs](https://github.com/NxtChg/pieces/tree/master/js/vue/vs-crumbs) - Vue breadcrumbs in 40 lines of code that allows nested paths without child views.
  - [vue-nav ★22](https://github.com/nearspears/vue-nav) - Page navigation manager, support all navigation function of native mobile app. 页面导航管理器，支持手机原生应用的所有导航功能。

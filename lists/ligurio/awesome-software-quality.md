@@ -391,6 +391,7 @@ create a similar list with books, courses and podcasts about software quality.
 - [Visual regression testing ★497](https://github.com/mojoaxel/awesome-regression-testing)
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems ★406](https://github.com/asatarin/testing-distributed-systems)
+- [A curated list of useful resources for AutoIt ★230](https://github.com/J2TEAM/awesome-AutoIt)
 
 ### License
 

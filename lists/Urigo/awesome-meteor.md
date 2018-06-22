@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Debugging Tools*
 
 * [msavin:mongol](https://github.com/msavin/Mongol/) - Visual Editing Tool for Meteor for MongoDB Collections.
-* [msavin:jetsetter ★188 ⏳2Y](https://github.com/msavin/JetSetter) - Visual Get/Set Tool for Meteor Session Variables.
+* [msavin:jetsetter ★188 ⏳3Y](https://github.com/msavin/JetSetter) - Visual Get/Set Tool for Meteor Session Variables.
 * [meteorhacks:kadira-debug ★158 ⏳2Y](https://github.com/kadirahq/meteor-debug) - Full Stack Debugging Solution for Meteor.
 * [babrahams:constellation ★33](https://github.com/JackAdams/constellation-distro) - An extensible dev console for Meteor.
 * [Meteor DDP Monitor](https://github.com/thebakeryio/meteor-ddp-monitor) - Chrome Dev tools extension for monitoring Meteor DDP traffic
@@ -270,7 +270,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [ostrio:neo4jdriver ★53 ⏳1Y](https://github.com/VeliovGroup/ostrio-neo4jdriver) - Neo4j Driver for Meteor, with support of GrapheneDB
 * [numtel:pg ★305 ⏳2Y](https://github.com/numtel/meteor-pg) - Reactive PostgreSQL for Meteor
 * [numtel:mysql ★344 ⏳1Y](https://github.com/numtel/meteor-mysql) - Reactive MySQL for Meteor
-* [simple:rethink ★312 ⏳1Y](https://github.com/Slava/meteor-rethinkdb) - RethinkDB integration for Meteor
+* [simple:rethink ★312 ⏳2Y](https://github.com/Slava/meteor-rethinkdb) - RethinkDB integration for Meteor
 
 # Resources
 

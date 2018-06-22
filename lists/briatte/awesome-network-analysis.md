@@ -531,7 +531,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ### Algorithms
 
 > Network placement and community detection algorithms that do not fit in any of the next subsections.  
-> See also the [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) and [Awesome Algorithm Visualization ★866](https://github.com/enjalot/algovis) lists for more algorithmic awesomess.
+> See also the [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) and [Awesome Algorithm Visualization ★866 ⏳1Y](https://github.com/enjalot/algovis) lists for more algorithmic awesomess.
 
 -   [algo.graph ★15](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
 -   [CONGA and CONGO](http://gregory.org/research/networks/software/conga.html) - Algorithms to detect overlapping communities in networks, written in Java.

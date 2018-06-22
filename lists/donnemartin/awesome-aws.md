@@ -627,7 +627,7 @@ AWS Repos:
 * [ecs-demo-php-simple-app](https://github.com/awslabs/ecs-demo-php-simple-app) - Simple PHP app.
 * [ecs-mesos-scheduler-driver :fire: ★168 ⏳3Y](https://github.com/awslabs/ecs-mesos-scheduler-driver) - Integrates Apache Mesos.
 * [ecs-refarch-continuous-deployment :fire::fire: ★431](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline.
-* [ecs-task-kite ★48](https://github.com/awslabs/ecs-task-kite) - Simple ambassador container for inter-task communication.
+* [ecs-task-kite ★48 ⏳1Y](https://github.com/awslabs/ecs-task-kite) - Simple ambassador container for inter-task communication.
 * [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS.
 * [py-flask-signup-docker](https://github.com/awslabs/py-flask-signup-docker) - Python sample app.
 * [service-discovery-ecs-consul ★96 ⏳2Y](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS.

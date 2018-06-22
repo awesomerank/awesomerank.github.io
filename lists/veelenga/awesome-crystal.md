@@ -135,6 +135,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Cli Builders
  * [admiral ★64](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
  * [cli ★59](https://github.com/mosop/cli) - Library for building command-line interface applications
+ * [clicr ★7](https://github.com/j8r/clicr) -  A simple declarative command line interface builder
  * [clim ★33](https://github.com/at-grandpa/clim) - Slim command line interface builder
  * [commander ★70](https://github.com/mrrooijen/commander) - Command-line interface builder
  * [completion ★49 ⏳1Y](https://github.com/f/completion) - Easy command line completion engine
@@ -160,6 +161,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Converters
  * [human_file_size.cr ★0](https://github.com/johnjansen/human_file_size.cr) - JSON & YAML mapping converter for human file sizes in serialized data
+ * [money](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney ★1962](https://github.com/RubyMoney/money))
  * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (inspired by [RubyMoney ★1962](https://github.com/RubyMoney/money))
  * [ms ★13 ⏳1Y](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
  * [sass.cr](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass ★3799](https://github.com/sass/libsass) binding)
@@ -172,7 +174,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crinder ★13](https://github.com/c910335/crinder) - Class based json renderer
  * [crystal-toml ★29](https://github.com/manastech/crystal-toml) - TOML parser
  * [CSV](https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (Crystal stdlib)
- * [dockerfile.cr ★1 ⏳1Y](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
+ * [dockerfile.cr ★1 ⏳2Y](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
  * [front_matter.cr ★0](https://github.com/chris-huxtable/front_matter.cr) - Separates a files front matter from its content
  * [Gzip](https://crystal-lang.org/api/Gzip.html) - readers and writers of gzip format (Crystal stdlib)
  * [INI](https://crystal-lang.org/api/INI.html) - INI file parser (Crystal stdlib)
@@ -347,7 +349,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ai4cr ★8](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on https://github.com/SergioFierens/ai4r)
  * [crystal-fann ★67](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
  * [crystal-learn ★32](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
- * [grey_matter ★8](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library
+ * [grey_matter ★8 ⏳1Y](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library
  * [shainet ★62](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
  * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow ★100987](https://github.com/tensorflow/tensorflow)
 

@@ -628,7 +628,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Git Tools
 
 * [ginatra ★503 ⏳2Y](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
-* [git-auto-bisect ★78 ⏳2Y](https://github.com/grosser/git-autobisect) - Find the commit that broke master.
+* [git-auto-bisect ★78 ⏳3Y](https://github.com/grosser/git-autobisect) - Find the commit that broke master.
 * [git_reflow ★1399](https://github.com/reenhanced/gitreflow) - An automated quality control workflow for Agile teams.
 * [git-spelunk ★40 ⏳1Y](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
 * [git-up ★2714](https://github.com/aanand/git-up) - Fetch and rebase all locally-tracked remote branches.

@@ -94,7 +94,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * Java
     * [by @jpa99 ★29](https://github.com/jpa99/Algorithms)
     * [by @phishman3579 ★2107](https://github.com/phishman3579/java-algorithms-implementation)
-    * [by @asmolich ★10 ⏳3Y](https://github.com/asmolich/algorithms)
+    * [by @asmolich ★10 ⏳4Y](https://github.com/asmolich/algorithms)
     * [by @psjava ★43](https://github.com/psjava/psjava)
     * [by @jeandersonbc ★16](https://github.com/jeandersonbc/algorithms-and-ds)
     * [by @pedrovgs ★2357](https://github.com/pedrovgs/Algorithms)

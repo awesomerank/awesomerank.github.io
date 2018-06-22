@@ -309,7 +309,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Papers We Love ★30182](lists/papers-we-love/papers-we-love.md)
 - [Talks ★2189](lists/JanVanRyswyck/awesome-talks.md)
 - [Algorithms ★4734](lists/tayllan/awesome-algorithms.md)
-- [Algorithm Visualizations ★866](lists/enjalot/algovis.md)
+- [Algorithm Visualizations ★866 ⏳1Y](lists/enjalot/algovis.md)
 - [Artificial Intelligence ★3812](lists/owainlewis/awesome-artificial-intelligence.md)
 - [Search Engine Optimization ★767](lists/marcobiedermann/search-engine-optimization.md)
 - [Competitive Programming ★2912](lists/lnishan/awesome-competitive-programming.md)

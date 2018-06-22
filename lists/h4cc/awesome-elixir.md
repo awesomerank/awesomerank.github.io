@@ -435,7 +435,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [cipher ★44](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
 * [cloak ★214](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 * [comeonin ★806](https://github.com/riverrun/comeonin) - Password hashing (argon2, bcrypt, pbkdf2_sha512) library for Elixir.
-* [crypto_rsassa_pss ★6](https://github.com/potatosalad/erlang-crypto_rsassa_pss) - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
+* [crypto_rsassa_pss ★6 ⏳1Y](https://github.com/potatosalad/erlang-crypto_rsassa_pss) - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
 * [elixir_tea ★1 ⏳3Y](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
 * [ex_bcrypt ★3 ⏳2Y](https://github.com/manelli/ex_bcrypt) - Elixir wrapper for the OpenBSD bcrypt password hashing algorithm.
 * [ex_crypto ★62](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
@@ -629,7 +629,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [arc ★772](https://github.com/stavro/arc) - Flexible file upload and attachment library for Elixir.
 * [cassius](https://github.com/jquadrin/cassius) - Monitor Linux file system events.
 * [dir_walker ★25](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
-* [elixgrep ★26](https://github.com/bbense/elixgrep) - A framework for doing Hadoop style Map/Reduce operations on collections of files.
+* [elixgrep ★26 ⏳1Y](https://github.com/bbense/elixgrep) - A framework for doing Hadoop style Map/Reduce operations on collections of files.
 * [ex_guard ★57](https://github.com/slashmili/ex_guard) - ExGuard is a mix command to handle events on file system modifications.
 * [ex_minimatch ★8 ⏳3Y](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.
 * [exfile ★74](https://github.com/keichan34/exfile) - File upload handling, persistence, and processing in Elixir and Plug.
@@ -1378,7 +1378,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [money ★178](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 * [mt940 ★7 ⏳1Y](https://github.com/my-flow/mt940) - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.
 * [nanoid ★57](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
-* [neotomex ★47](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) implementation with a pleasant Elixir DSL.
+* [neotomex ★47 ⏳1Y](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) implementation with a pleasant Elixir DSL.
 * [number ★105](https://github.com/danielberkompas/number) - Number is a pretentiously-named Elixir library which provides functions to convert numbers into a variety of different formats.
 * [numero ★4](https://github.com/alisinabh/numero) - A micro library for converting non-english utf-8 digits in elixir.
 * [palette ★2 ⏳3Y](https://github.com/lpil/palette) - A handy library for colouring strings in Elixir.

@@ -68,7 +68,7 @@ title: Awesome Rank for Granze/awesome-polymer
 * [Level up Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-)
 
 ## Boilerplates
-* [Polymer boilerplate ★375 ⏳2Y](https://github.com/webcomponents/polymer-boilerplate)
+* [Polymer boilerplate ★375 ⏳3Y](https://github.com/webcomponents/polymer-boilerplate)
 * [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
 * [Seed element](https://github.com/polymerlabs/seed-element)
 * [Polymer Admin ★310 ⏳1Y](https://github.com/akveo/polymer-admin) Responsive admin dashboard created using Polymer 1.0 and Polymer Starter Kit

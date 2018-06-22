@@ -824,7 +824,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Native Boilerplates
 * [Create React Native App - Create a React Native app on any OS with no build config, with or without Expo ★9989](https://github.com/react-community/create-react-native-app)
-* [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage) ★4154](https://github.com/bartonhammond/snowflake)
+* [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage) ★4154 ⏳1Y](https://github.com/bartonhammond/snowflake)
 * [Ignite - The hottest CLI for React Native, boilerplates, plugins, generators, and more! ★8005](https://github.com/infinitered/ignite)
 
 #### React Native Awesome Components

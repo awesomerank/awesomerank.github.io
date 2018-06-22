@@ -45,7 +45,7 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [discovery-swarm](https://github.com/mafintosh/discovery-swarm) – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find peers. Also check [webrtc-swarm ★223](https://github.com/mafintosh/webrtc-swarm).
 * [dns-packet](https://github.com/mafintosh/dns-packet) – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket ★64](https://github.com/mafintosh/dns-socket).
 * [etcdjs ★55](https://github.com/mafintosh/etcdjs) – Low level etcd v2 client written in Javascript with failover support.
-* [geocode-wifi ★25 ⏳2Y](https://github.com/watson/geocode-wifi) – Get yours latitude/longitude based on your wifi access point.
+* [geocode-wifi ★25 ⏳3Y](https://github.com/watson/geocode-wifi) – Get yours latitude/longitude based on your wifi access point.
 * [hash-to-port ★24 ⏳2Y](https://github.com/mafintosh/hash-to-port) – Hash a value to a valid port.
 * [hyperdb ★423](https://github.com/mafintosh/hyperdb) – Distributed scalable database.
 * [ip-packet ★26 ⏳2Y](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.

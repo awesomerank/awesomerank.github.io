@@ -180,7 +180,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 
 ## Boilerplates
 
-* [Polymer Boilerplate ★375 ⏳2Y](https://github.com/webcomponents/polymer-boilerplate) A bare minimum custom element starter-kit using Polymer.
+* [Polymer Boilerplate ★375 ⏳3Y](https://github.com/webcomponents/polymer-boilerplate) A bare minimum custom element starter-kit using Polymer.
 * [X-Tag Boilerplate ★52 ⏳3Y](https://github.com/webcomponents/xtag-boilerplate) A bare minimum custom element starter-kit using X-Tag.
 * [VanillaJS Boilerplate ★228 ⏳1Y](https://github.com/webcomponents/element-boilerplate) A bare minimum custom element starter-kit using VanillaJS.
 

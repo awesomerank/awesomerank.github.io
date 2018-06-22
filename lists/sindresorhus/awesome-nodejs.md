@@ -265,7 +265,7 @@ title: Awesome Rank for sindresorhus/awesome-nodejs
 - [blessed ★7417](https://github.com/chjj/blessed) - Curses-like library.
 - [Inquirer.js ★7090](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 - [yn ★105](https://github.com/sindresorhus/yn) - Parse yes/no like values.
-- [cli-table ★1572](https://github.com/Automattic/cli-table) - Pretty unicode tables.
+- [cli-table3 ★7](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 - [drawille ★733](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
 - [update-notifier ★967](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app.
 - [ascii-charts ★220 ⏳1Y](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.

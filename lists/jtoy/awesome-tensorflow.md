@@ -107,7 +107,7 @@ More info [here](http://tensorflow.org).
 * [VGAN Tensorflow ★6](https://github.com/Singularity42/VGAN-Tensorflow) - Tensorflow implementation for MIT ["Generating Videos with Scene Dynamics"](http://carlvondrick.com/tinyvideo/) by Vondrick et al.
 * [3D Convolutional Neural Networks in TensorFlow ★316](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
 * [U-Net ★121](https://github.com/zsdonghao/u-net-brain-tumor) - For Brain Tumor Segmentation
-* [Spatial Transformer Networks ★18](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function 
+* [Spatial Transformer Networks ★18 ⏳1Y](https://github.com/zsdonghao/Spatial-Transformer-Nets) - Learn the Transformation Function 
 * [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow ★371](https://github.com/astorfi/lip-reading-deeplearning) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
 * [Attentive Object Tracking ★101](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
 * [Holographic Embeddings for Graph Completion and Link Prediction ★0](https://github.com/laxatives/TensorFlow-TransX) - Implementation of [Holographic Embeddings of Knowledge Graphs](http://arxiv.org/abs/1510.04935)

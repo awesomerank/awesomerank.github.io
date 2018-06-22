@@ -63,7 +63,7 @@ Apps that help you manage your extensions.
 - [unzip-crx ★12 ⏳1Y](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files.
 - [chrome-store-api ★10 ⏳1Y](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 - [Chrome extension source viewer ★273](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
-- [@wext/shipit ★6](https://github.com/LinusU/wext-shipit) - Tool to automatically publish to Goole Webstore, Mozilla Addons and Opera Addons.
+- [@wext/shipit ★6](https://github.com/LinusU/wext-shipit) - Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons.
 
 ## Testing
 

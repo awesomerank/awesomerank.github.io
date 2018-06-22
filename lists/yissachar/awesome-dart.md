@@ -45,7 +45,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 ## Client Web App Frameworks
 
 * [AngularDart](https://angulardart.org/) - AngularDart is a development platform for building mobile and desktop web applications
-* [Flutter](https://flutter.io/) - Flutter is a development platform for building mobile applications.
+* [Flutter](https://flutter.io/) - Flutter is a framework to build high-performance, cross-platform mobile apps, allowing applications to be written for Android and iOS.
 * [uix ★80 ⏳1Y](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React.
 * [MDL/Dart](http://www.material-design-lite.pub/) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 * [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
@@ -145,7 +145,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript
 * [js2dart ★18 ⏳3Y](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
 * [Stagehand](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
-* [Crossdart](http://crossdart.info) - Cross-referenced source code of the packages from Pub.
+* [Crossdart](https://crossdart.info) - Cross-referenced source code of the packages from Pub.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).
 * [gulp-dart ★3 ⏳2Y](https://github.com/agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 * [dev_compiler](https://github.com/dart-lang/dev_compiler) - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
@@ -162,7 +162,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [Dartlang SubReddit](https://www.reddit.com/r/dartlang/)
 * [Gitter Chat Channel](https://gitter.im/dart-lang/home)
 * [Google Group](https://groups.google.com/a/dartlang.org/d/forum/misc)
-* [Stack Overflow](http://stackoverflow.com/tags/dart)
+* [Stack Overflow](https://stackoverflow.com/tags/dart)
 * [Facebook Group (pt-BR)](https://www.facebook.com/groups/dartlangbr)
 
 ## IDEs, Editors, and Plugins
@@ -182,7 +182,7 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/yissachar/awesome-dart">yissachar/awesome-dart</a> with ranks

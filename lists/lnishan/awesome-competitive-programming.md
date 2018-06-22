@@ -398,7 +398,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Java Books | [What are the best books to learn Java? - Quora](https://www.quora.com/What-are-the-best-books-to-learn-Java) |
 | Advanced Java Books | [What is the best book for advanced Java programming? - Quora](https://www.quora.com/What-is-the-best-book-for-advanced-Java-programming) |
 | Algorithms | [tayllan/awesome-algorithms ★4734](https://github.com/tayllan/awesome-algorithms) |
-| Algorithm Visualization | [enjalot/algovis ★866](https://github.com/enjalot/algovis) |
+| Algorithm Visualization | [enjalot/algovis ★866 ⏳1Y](https://github.com/enjalot/algovis) |
 | Math | [rossant/awesome-math ★1591](https://github.com/rossant/awesome-math) |
 | C++ | [fffaraz/awesome-cpp ★13465](https://github.com/fffaraz/awesome-cpp) |
 | Java | [akullpp/awesome-java ★16771](https://github.com/akullpp/awesome-java) |

@@ -87,7 +87,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Encoding-Decoding
 *Libraries for encoding and decoding data with Fortran language.*
 
-* [BeFoR64 ★12](https://github.com/szaghi/BeFoR64) - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
+* [BeFoR64 ★12 ⏳1Y](https://github.com/szaghi/BeFoR64) - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
 
 ## Portability enabling
 *Libraries for enabling codes portability.*

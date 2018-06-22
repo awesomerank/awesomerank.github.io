@@ -281,7 +281,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [go-ef ★5](https://github.com/amallia/go-ef) - A Go implementation of the Elias-Fano encoding.
 * [go-geoindex ★278](https://github.com/hailocab/go-geoindex) - In-memory geo index.
 * [go-mcache ★7](https://github.com/OrlovEvgeny/go-mcache) - Fast in-memory key:value store/cache library. Pointer caches.
-* [go-rquad ★77](https://github.com/aurelien-rainone/go-rquad) - Region quadtrees with efficient point location and neighbour finding.
+* [go-rquad ★77 ⏳1Y](https://github.com/aurelien-rainone/go-rquad) - Region quadtrees with efficient point location and neighbour finding.
 * [gods ★4153](https://github.com/emirpasic/gods) - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
 * [golang-set ★751](https://github.com/deckarep/golang-set) - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
 * [goset ★6](https://github.com/zoumo/goset) - A useful Set collection implementation for Go.
@@ -912,7 +912,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [segment ★38 ⏳1Y](https://github.com/blevesearch/segment) - Go library for performing Unicode Text Segmentation as described in [Unicode Standard Annex #29](http://www.unicode.org/reports/tr29/)
 * [sentences ★233](https://github.com/neurosnap/sentences) - Sentence tokenizer:  converts text into a list of sentences.
 * [shamoji ★6](https://github.com/osamingo/shamoji) - The shamoji is word filtering package written in Go.
-* [snowball ★19](https://github.com/goodsign/snowball) - Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/).
+* [snowball ★19 ⏳1Y](https://github.com/goodsign/snowball) - Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/).
 * [stemmer ★40 ⏳1Y](https://github.com/dchest/stemmer) - Stemmer packages for Go programming language. Includes English and German stemmers.
 * [textcat ★56 ⏳1Y](https://github.com/pebbe/textcat) - Go package for n-gram based text categorization, with support for utf-8 and raw text.
 * [whatlanggo ★277](https://github.com/abadojack/whatlanggo) - Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc).
