@@ -7,7 +7,7 @@ title: Awesome Rank for mojoaxel/awesome-regression-testing
 	This list is a copy of <a href="https://github.com/mojoaxel/awesome-regression-testing">mojoaxel/awesome-regression-testing</a> with ranks
 </p>
 ---
-# Awesome Visual Regression Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Visual Regression Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 > Curated list of awesome visual regression testing resources.
 
 Regression testing is a type of software testing which verifies that software which was previously developed and tested still performs the same way after it was changed or interfaced with other software. The purpose of regression testing is to ensure that changes to the software have not introduced new faults.
@@ -42,7 +42,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [SlimerJS ★2702](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
 - [trifleJS ★758 ⏳1Y](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer.
 - [CasperJS ★7190](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS.
-- [Webdriver.io ★3995](https://github.com/webdriverio/webdriverio) - Node.js bindings implementation for the W3C WebDriver protocol.
+- [Webdriver.io ★4062](https://github.com/webdriverio/webdriverio) - Node.js bindings implementation for the W3C WebDriver protocol.
 - [Navalia ★891](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL.
 - [Chromeless](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
@@ -63,7 +63,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium ★10783](https://github.com/SeleniumHQ/selenium).
 - [Look-alike ★15 ⏳2Y](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
 - [Hardy ★330 ⏳3Y](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
-- [TestCafe ★4699](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
+- [TestCafe ★4888](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 - [Needle ★511 ⏳1Y](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
 - [dpxdt [Depicted] ★1403 ⏳1Y](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 - [gatling ★52 ⏳4Y](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).

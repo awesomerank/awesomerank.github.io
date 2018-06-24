@@ -7,7 +7,7 @@ title: Awesome Rank for faroit/awesome-python-scientific-audio
 	This list is a copy of <a href="https://github.com/faroit/awesome-python-scientific-audio">faroit/awesome-python-scientific-audio</a> with ranks
 </p>
 ---
-# Python for Scientific Audio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Python for Scientific Audio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/faroit/awesome-python-scientific-audio.svg?branch=master)](https://travis-ci.org/faroit/awesome-python-scientific-audio)
 
 The aim of this repository is to create a comprehensive, curated list of python software/tools related and used for scientific research in audio/music applications.
@@ -142,11 +142,11 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 #### Audio related APIs and Datasets
 
-* [beets](http://beets.io/) [:octocat: ★7926](https://github.com/beetbox/beets) [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
+* [beets](http://beets.io/) [:octocat: ★8150](https://github.com/beetbox/beets) [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
 * [dsdtools](http://dsdtools.readthedocs.io) [:octocat: ★22](https://github.com/faroit/dsdtools) [:package:](https://pypi.python.org/pypi/dsdtools) - Parse and process the [demixing secrets dataset](http://sisec17.audiolabs-erlangen.de/#/dataset).
 * [medleydb](http://medleydb.readthedocs.io) [:octocat: ★49](https://github.com/marl/medleydb) - Parse [medleydb](http://medleydb.weebly.com/) audio + annotations.
 * [Soundcloud API](https://github.com/soundcloud/soundcloud-python) [:octocat: ★474](https://github.com/soundcloud/soundcloud-python) [:package:](https://pypi.python.org/pypi/soundcloud) - Wrapper for [Soundcloud API](https://developers.soundcloud.com/).
-* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: ★37142](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
+* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: ★37991](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
 
 #### Wrappers for Audio Plugins
 

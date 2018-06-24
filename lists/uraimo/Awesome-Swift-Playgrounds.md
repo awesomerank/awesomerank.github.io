@@ -7,7 +7,7 @@ title: Awesome Rank for uraimo/Awesome-Swift-Playgrounds
 	This list is a copy of <a href="https://github.com/uraimo/Awesome-Swift-Playgrounds">uraimo/Awesome-Swift-Playgrounds</a> with ranks
 </p>
 ---
-# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)  ![147 playgrounds](https://img.shields.io/badge/Playgrounds:-147-orange.svg) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20List%20of%20more%20than%20150%20Awesome%20Swift%20Playgrounds&url=https://github.com/uraimo/Awesome-Swift-Playgrounds&via=uraimo)
+# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)  ![147 playgrounds](https://img.shields.io/badge/Playgrounds:-147-orange.svg) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20List%20of%20more%20than%20150%20Awesome%20Swift%20Playgrounds&url=https://github.com/uraimo/Awesome-Swift-Playgrounds&via=uraimo)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -65,7 +65,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Tree Trouble Playbook ★15 ⏳1Y](https://github.com/joelrorseth/Tree-Trouble) - An interactive Swift Playground Book about Binary Search Trees.
 * [Auto Pong ★2 ⏳1Y](https://github.com/cardoso/AutoPong) - A tutorial to implement a pong based on a simple AI.
-* [Neural Network Playground ★358](https://github.com/hetelek/Neural-Network-Playground) - A neural network Swift playground, with no third party dependencies.
+* [Neural Network Playground ★358 ⏳1Y](https://github.com/hetelek/Neural-Network-Playground) - A neural network Swift playground, with no third party dependencies.
 * [Window Manager Playground ★35 ⏳1Y](https://github.com/steventroughtonsmith/windowmanager-playgroundbook) - Playground for an experimental window manager.
 * [AudioKit Playground Book ★67 ⏳1Y](https://github.com/audiokit/AudioKitPlaygroundBook) - A set of playgrounds using AudioKit designed for the iOS10 Playgrounds app.
 * [Numsw ★106](https://github.com/sonsongithub/numsw) - A swift playground book that mimics some of the features of numpy and jupyter notebook.
@@ -81,11 +81,11 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [The Swift Programming Language Playgrounds ★165](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
 * [Swift Hack Pack ★10 ⏳1Y](https://github.com/GuildSA/swift-hack-pack) - Collection of playgrounds that teaches Swift.
-* [The Swift Summary Book ★1659](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language. 🌟
+* [The Swift Summary Book ★1661](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language. 🌟
 * [Swifter Tips ★105 ⏳1Y](https://github.com/swifter-tips/Playground) - Examples for every feature of the Swift language.
 * [About Swift ★35](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language.
 * [MPCS51032 UChicago iOS Course ★4](https://github.com/uchicago-mobi/mcps51032-2017-spring-playground) - Playgrounds from the 2017 Spring iOS course of the University of Chicago.
-* [What's new in Swift 4 ★1906](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟 
+* [What's new in Swift 4 ★1931](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟 
 * [Codable Playground ★7](https://github.com/filip-zielinski/CodablePlayground) - Playground that demonstrates advanced uses of Codable 🍁
 
 ## Learning Swift: Advanced Topics
@@ -161,7 +161,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Algorithms and Data Structures
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club ★17207](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift with explanations. 🌟
+* [Swift Algorithm Club ★17520](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift with explanations. 🌟
 * [Sorting Experiments ★5 ⏳1Y](https://github.com/adrfer/Sort) - Alluring experiments with sorting algorithms in Swift, sort of.
 * [Visual Binary Trees ★44 ⏳1Y](https://github.com/akpw/VisualBinaryTrees) - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
 * [Julia Fractal Playground ★203](https://github.com/gongzhang/julia-set-playground#julia-set-playground) - A Swift playground that generates beautiful Julia set fractal images. 

@@ -9,7 +9,7 @@ title: Awesome Rank for EbookFoundation/free-programming-books
 ---
 This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
-# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 [View the English list](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books.md)
 

@@ -7,7 +7,7 @@ title: Awesome Rank for youngwookim/awesome-hadoop
 	This list is a copy of <a href="https://github.com/youngwookim/awesome-hadoop">youngwookim/awesome-hadoop</a> with ranks
 </p>
 ---
-# Awesome Hadoop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Hadoop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php), [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Sysadmin ★17190](https://github.com/kahun/awesome-sysadmin)
 
@@ -45,7 +45,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
 * [Elasticsearch Hadoop ★1262](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
 * [hadoopy ★245 ⏳2Y](https://github.com/bwhite/hadoopy) - Python MapReduce library written in Cython. 
-* [mrjob ★2230](https://github.com/Yelp/mrjob) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
+* [mrjob ★2257](https://github.com/Yelp/mrjob) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
 * [hdfs-du ★181 ⏳1Y](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. 
 * [White Elephant ★188 ⏳4Y](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard
@@ -329,7 +329,7 @@ Various resources, such as books, websites and articles.
 * [Spark Summit](https://databricks.com/sparkaisummit)
 
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and [awesome ★85445](https://github.com/sindresorhus/awesome) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and [awesome ★87749](https://github.com/sindresorhus/awesome) list.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/youngwookim/awesome-hadoop">youngwookim/awesome-hadoop</a> with ranks

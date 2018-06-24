@@ -7,7 +7,7 @@ title: Awesome Rank for josephmisiti/awesome-machine-learning
 	This list is a copy of <a href="https://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a> with ranks
 </p>
 ---
-# Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
 
@@ -424,7 +424,7 @@ Further resources:
 * [rapaio ★39](https://github.com/padreati/rapaio) - statistics, data mining and machine learning toolbox in Java.
 * [RapidMiner](https://rapidminer.com) - RapidMiner integration into Java code.
 * [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
-* [SmileMiner ★3805](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine.
+* [SmileMiner ★3840](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine.
 * [SystemML](https://github.com/apache/incubator-systemml) - flexible, scalable machine learning (ML) language.
 * [WalnutiQ ★306](https://github.com/WalnutiQ/wAlnut) - object oriented model of the human brain.
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks.
@@ -456,8 +456,8 @@ Further resources:
 <a name="javascript-nlp"></a>
 #### Natural Language Processing
 
-* [Twitter-text ★1931](https://github.com/twitter/twitter-text) - A JavaScript implementation of Twitter's text processing library.
-* [natural ★7764](https://github.com/NaturalNode/natural) - General natural language facilities for node.
+* [Twitter-text ★1943](https://github.com/twitter/twitter-text) - A JavaScript implementation of Twitter's text processing library.
+* [natural ★7874](https://github.com/NaturalNode/natural) - General natural language facilities for node.
 * [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS.
 * [Retext](https://github.com/wooorm/retext) - Extensible system for analyzing and manipulating natural language.
 * [NLP Compromise](https://github.com/nlp-compromise/compromise) - Natural Language processing in the browser.
@@ -1003,7 +1003,7 @@ be
 * [PyDexter ★30](https://github.com/D3xterjs/pydexter) - Simple plotting for Python. Wrapper for D3xterjs; easily render charts in-browser.
 * [ggplot ★3306](https://github.com/yhat/ggpy) - Same API as ggplot2 for R.
 * [ggfortify ★350](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
-* [Kartograph.py ★946](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
+* [Kartograph.py ★946 ⏳1Y](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 * [pygal](http://pygal.org/en/stable/) - A Python SVG Charts Creator.
 * [PyQtGraph ★1114](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 * [pycascading ★222 ⏳4Y](https://github.com/twitter/pycascading)
@@ -1034,13 +1034,13 @@ be
 * [Map/Reduce implementations of common ML algorithms ★30](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark. 
 * [BioPy ★17 ⏳2Y](https://github.com/jaredthecoder/BioPy) - Biologically-Inspired and Machine Learning Algorithms in Python.
 * [pattern_classification ★3189](https://github.com/rasbt/pattern_classification)
-* [thinking stats 2 ★5 ⏳3Y](https://github.com/Wavelets/ThinkStats2)
+* [thinking stats 2 ★5 ⏳4Y](https://github.com/Wavelets/ThinkStats2)
 * [hyperopt ★609](https://github.com/hyperopt/hyperopt-sklearn)
 * [numpic ★5588](https://github.com/numenta/nupic)
 * [2012-paper-diginorm ★6 ⏳3Y](https://github.com/dib-lab/2012-paper-diginorm)
 * [A gallery of interesting IPython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [ipython-notebooks ★461](https://github.com/ogrisel/notebooks)
-* [data-science-ipython-notebooks ★12632](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
+* [data-science-ipython-notebooks ★12907](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
 * [decision-weights ★25 ⏳3Y](https://github.com/CamDavidsonPilon/decision-weights)
 * [Sarah Palin LDA ★9 ⏳7Y](https://github.com/Wavelets/sarah-palin-lda) - Topic Modeling the Sarah Palin emails.
 * [Diffusion Segmentation ★2 ⏳7Y](https://github.com/Wavelets/diffusion-segmentation) - A collection of image segmentation algorithms based on diffusion methods.
@@ -1182,7 +1182,7 @@ be
 * [caret](http://caret.r-forge.r-project.org/) - Classification and Regression Training: Unified interface to ~150 ML algorithms in R.
 * [caretEnsemble](http://cran.r-project.org/web/packages/caretEnsemble/index.html) - caretEnsemble: Framework for fitting multiple caret models as well as creating ensembles of such models.
 * [CatBoost ★2867](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
-* [Clever Algorithms For Machine Learning ★244](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
+* [Clever Algorithms For Machine Learning ★244 ⏳1Y](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 * [CORElearn](http://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation.
 * [CoxBoost](http://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks
 * [Cubist](http://cran.r-project.org/web/packages/Cubist/index.html) - Cubist: Rule- and Instance-Based Regression Modeling.
@@ -1355,19 +1355,19 @@ be
 <a name="swift-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [Bender ★1513](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
+* [Bender ★1525](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
 * [Swift AI](https://github.com/collinhundley/Swift-AI) - Highly optimized artificial intelligence and machine learning library written in Swift.
 * [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework.
 * [swix ★544 ⏳1Y](https://github.com/stsievert/swix) - A bare bones library that
   includes a general matrix language and wraps some OpenCV for iOS development.
 * [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS.
   It currently allows using deep convolutional neural network models trained in Caffe on Apple operating systems.
-* [AIToolbox ★677 ⏳1Y](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift:  Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
+* [AIToolbox ★680 ⏳1Y](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift:  Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
 * [MLKit ★102](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
-* [Swift Brain ★311 ⏳1Y](https://github.com/vlall/Swift-Brain) - The first neural network / machine learning library written in Swift. This is a project for AI algorithms in Swift for iOS and OS X development. This project includes algorithms focused on Bayes theorem, neural networks, SVMs, Matrices, etc...
+* [Swift Brain ★312 ⏳1Y](https://github.com/vlall/Swift-Brain) - The first neural network / machine learning library written in Swift. This is a project for AI algorithms in Swift for iOS and OS X development. This project includes algorithms focused on Bayes theorem, neural networks, SVMs, Matrices, etc...
 * [Perfect TensorFlow ★141](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
 * [Awesome CoreML](https://github.com/NilStack/awesome-CoreML-models) - A curated list of pretrained CoreML models.
-* [Awesome Core ML Models ★2833](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
+* [Awesome Core ML Models ★3044](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
 
 <a name="tensor"></a>
 ## TensorFlow

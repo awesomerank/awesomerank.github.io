@@ -9,7 +9,7 @@ title: Awesome Rank for robinrodricks/awesome-actionscript3
 ---
 [<img src="https://rawgit.com/hgupta9/awesome-actionscript3/master/AS3_AIR.png" align="right" width="150">](https://www.adobe.com/products/air.html)
 
-# Awesome ActionScript 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome ActionScript 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 
@@ -546,7 +546,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3geometry ★77 ⏳6Y](https://github.com/alecmce/as3geometry) - Primitives, Polygons, Intersections, etc.
 * [AS3GeomAlgo ★40 ⏳4Y](https://github.com/azrafe7/as3GeomAlgo) - Collection of geometry algorithms. Port of hxGeomAlgo.
 * [Coral ★45 ⏳1Y](https://github.com/richardlord/Coral) - High-performance classes for 3D mathematics (Point, Vector, Matrix, Quaternion).
-* [Csg.as ★8 ⏳5Y](https://github.com/timknip/csg.as) - Constructive Solid Geometry on 3D meshes.
+* [Csg.as ★8 ⏳6Y](https://github.com/timknip/csg.as) - Constructive Solid Geometry on 3D meshes.
 * [PathUtils ★3 ⏳6Y](https://github.com/alinakipoglu/Actionscript-PathUtils) - Working with quadratic, bezier and line sequences.
 * [Hilbert ★1 ⏳7Y](https://github.com/nodename/Hilbert) - Port of Hilbert curve from cortesi/scurve.
 * [AS3AStar ★23 ⏳7Y](https://github.com/tomnewton/AS3AStar) - Fast A-Star pathfinding algorithm.
@@ -557,7 +557,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [AS3Units ★1 ⏳5Y](https://github.com/erussell/AS3Units) - Port of NGUnits. Parsing, formatting, and converting between units of measure.
 * [AS3LinAlg ★13 ⏳5Y](https://github.com/inspirit/AS3LinAlg) - Linear Algebra library (Jacobi SVD, Eigen Vectors/Values, Cholesky LU, etc).
-* [Performance Primitives ★23 ⏳5Y](https://github.com/martinkallman/performance-as3) - High-performance math modeled on the Intel Performance Primitives.
+* [Performance Primitives ★23 ⏳6Y](https://github.com/martinkallman/performance-as3) - High-performance math modeled on the Intel Performance Primitives.
 * [Zexpression ★9 ⏳4Y](https://github.com/Xorcerer/zexpression) - Parse and evalate math expressions with functions and variables.
 * [FlexibleMatrix ★2 ⏳7Y](https://github.com/Lukx/FlexibleMatrix) - A multi purpose Matrix class.
 * [AS3eval](http://eval.hurlant.com/) - Packages the Tamarin ESC compiler to work within Flash Player. ([alternate ★12 ⏳6Y](https://github.com/SimonRichardson/as3-eval)).
@@ -650,7 +650,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Analytics ANE
 * [Admob ★6](https://github.com/myflashlab/Admob-ANE) - Admob ANE.
 * [GameServices ★3](https://github.com/myflashlab/GameServices-ANE) - Google Game Services for Android+iOS.
-* [MoPub ★27](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising.
+* [MoPub ★27 ⏳1Y](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising.
 * [UMAnalytics ★11 ⏳3Y](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (iOS and Android).
 * [Localytics ★10 ⏳6Y](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android).
 * [Testflight ★26 ⏳5Y](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.

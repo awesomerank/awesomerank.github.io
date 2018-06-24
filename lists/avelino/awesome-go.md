@@ -9,7 +9,7 @@ title: Awesome Rank for avelino/awesome-go
 ---
 # Awesome Go
 
-[![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) [![Slack Widget](https://camo.githubusercontent.com/984828c0b020357921853f59eaaa65aaee755542/68747470733a2f2f73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f6e6774756e612f6a6f696e2d75732d6f6e2d736c61636b2e706e67)](http://gophers.slack.com/messages/awesome)
+[![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome) [![Slack Widget](https://camo.githubusercontent.com/984828c0b020357921853f59eaaa65aaee755542/68747470733a2f2f73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f6e6774756e612f6a6f696e2d75732d6f6e2d736c61636b2e706e67)](http://gophers.slack.com/messages/awesome)
 
 A curated list of awesome Go frameworks, libraries and software. Inspired by [awesome-python ★50412](https://github.com/vinta/awesome-python).
 
@@ -1103,7 +1103,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 
 * [asn1](https://github.com/PromonLogicalis/asn1) - Asn.1 BER and DER encoding library for golang.
 * [bambam ★58 ⏳1Y](https://github.com/glycerine/bambam) - generator for Cap'n Proto schemas from go.
-* [colfer ★367](https://github.com/pascaldekloe/colfer) - Code generation for the Colfer binary format.
+* [colfer ★374](https://github.com/pascaldekloe/colfer) - Code generation for the Colfer binary format.
 * [csvutil ★213](https://github.com/jszwec/csvutil) - High Performance, idiomatic CSV record encoding and decoding to native Go structures.
 * [fwencoder ★3](https://github.com/o1egl/fwencoder) - Fixed width file parser (encoding and decoding library) for Go.
 * [go-capnproto ★261 ⏳1Y](https://github.com/glycerine/go-capnproto) - Cap'n Proto library and parser for go.
@@ -1126,7 +1126,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [Fider ★304](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
 * [Flagr ★353](https://github.com/checkr/flagr) - Flagr is an open-source feature flagging and A/B testing service.
 * [jackal ★424](https://github.com/ortuman/jackal) - An XMPP server written in Go.
-* [minio ★11472](https://github.com/minio/minio) - Minio is a distributed object storage server.
+* [minio ★11833](https://github.com/minio/minio) - Minio is a distributed object storage server.
 * [nsq](http://nsq.io/) - A realtime distributed messaging platform.
 * [yakvs ★23](https://github.com/sci4me/yakvs) - Small, networked, in-memory key-value store.
 
@@ -1267,7 +1267,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 
 * [amazon-product-advertising-api ★29](https://github.com/ngs/go-amazon-product-advertising-api) - Go Client Library for [Amazon Product Advertising API](https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html).
 * [anaconda ★891](https://github.com/ChimeraCoder/anaconda) - Go client library for the Twitter 1.1 API.
-* [aws-sdk-go ★3980](https://github.com/aws/aws-sdk-go) - The official AWS SDK for the Go programming language.
+* [aws-sdk-go ★4025](https://github.com/aws/aws-sdk-go) - The official AWS SDK for the Go programming language.
 * [brewerydb ★13 ⏳3Y](https://github.com/naegelejd/brewerydb) - Go library for accessing the BreweryDB API.
 * [cachet ★50](https://github.com/andygrunwald/cachet) - Go client library for [Cachet (open source status page system)](https://cachethq.io/).
 * [circleci ★24](https://github.com/jszwedko/go-circleci) - Go client library for interacting with CircleCI's API.
@@ -1375,7 +1375,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-excel ★22](https://github.com/szyhf/go-excel) - A simple and light reader to read a relate-db-like excel as a table.
 * [go-funk ★401](https://github.com/thoas/go-funk) - Modern Go utility library which provides helpers (map, find, contains, filter, chunk, reverse, ...).
 * [go-health ★50](https://github.com/Talento90/go-health) - Health package simplifies the way you add health check to your services.
-* [go-httpheader ★12](https://github.com/mozillazg/go-httpheader) - Go library for encoding structs into Header fields.
+* [go-httpheader ★12 ⏳1Y](https://github.com/mozillazg/go-httpheader) - Go library for encoding structs into Header fields.
 * [go-rate ★258](https://github.com/beefsack/go-rate) - Timed rate limiter for Go.
 * [go-respond ★8](https://github.com/nicklaw5/go-respond) - Go package for handling common HTTP JSON responses.
 * [go-sitemap-generator ★74](https://github.com/ikeikeikeike/go-sitemap-generator) - XML Sitemap generator written in Go.
@@ -1417,7 +1417,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [jsonhal ★6](https://github.com/RichardKnop/jsonhal) - Simple Go package to make custom structs marshal into HAL compatible JSON responses.
 * [kazaam ★79](https://github.com/Qntfy/kazaam) - API for arbitrary transformation of JSON documents.
 * [lrserver ★92](https://github.com/jaschaephraim/lrserver) - LiveReload server for Go.
-* [mc ★748](https://github.com/minio/mc) - Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems.
+* [mc ★760](https://github.com/minio/mc) - Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems.
 * [mergo ★488](https://github.com/imdario/mergo) - Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements.
 * [minify ★1445](https://github.com/tdewolff/minify) - Fast minifiers for HTML, CSS, JS, XML, JSON and SVG file formats.
 * [minquery ★32 ⏳1Y](https://github.com/icza/minquery) - MongoDB / mgo.v2 query that supports efficient pagination (cursors to continue listing documents where we left off).
@@ -1711,13 +1711,13 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 * [lstags ★173](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 * [lwc ★3](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 * [manssh ★161](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
-* [Moby ★49003](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.
+* [Moby ★49330](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.
 * [Mora ★247 ⏳1Y](https://github.com/emicklei/mora) - REST server for accessing MongoDB documents and meta data.
 * [ostent ★152](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB.
 * [Packer](https://github.com/mitchellh/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 * [Pewpew ★151](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester.
 * [Rodent ★31 ⏳1Y](https://github.com/alouche/rodent) - Rodent helps you manage Go versions, projects and track dependencies.
-* [s3gof3r ★914](https://github.com/rlmcpherson/s3gof3r) - Small utility/library optimized for high speed transfer of large objects into and out of Amazon S3.
+* [s3gof3r ★929](https://github.com/rlmcpherson/s3gof3r) - Small utility/library optimized for high speed transfer of large objects into and out of Amazon S3.
 * [Scaleway-cli ★431](https://github.com/scaleway/scaleway-cli) - Manage BareMetal Servers from Command Line (as easily as with Docker).
 * [sg ★2 ⏳1Y](https://github.com/ChristopherRabotin/sg) - Benchmarks a set of HTTP endpoints (like ab), with possibility to use the reponse code and data between each call for specific server stress based on its previous response.
 * [skm ★401](https://github.com/TimothyYe/skm) - SKM is a simple and powerful SSH Keys Manager, it helps you to manage your multiple SSH keys easily!
@@ -1897,7 +1897,7 @@ See [go-hardware ★684](https://github.com/rakyll/go-hardware) for a comprehens
 
 * [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
 * [Awesome Remote Job ★11824](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
-* [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
+* [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
 * [Go Blog](http://blog.golang.org) - The official Go blog.
 * [Go Challenge](http://golang-challenge.org/) - Learn Go by solving problems and getting feedback from Go experts.
 * [Go Forum](https://forum.golangbridge.org) - Forum to discuss Go.

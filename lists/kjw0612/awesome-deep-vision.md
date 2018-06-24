@@ -7,7 +7,7 @@ title: Awesome Rank for kjw0612/awesome-deep-vision
 	This list is a copy of <a href="https://github.com/kjw0612/awesome-deep-vision">kjw0612/awesome-deep-vision</a> with ranks
 </p>
 ---
-# Awesome Deep Vision [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Deep Vision [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision ★8064](https://github.com/jbhuang0604/awesome-computer-vision).
 

@@ -7,7 +7,7 @@ title: Awesome Rank for sitepoint-editors/awesome-symfony
 	This list is a copy of <a href="https://github.com/sitepoint-editors/awesome-symfony">sitepoint-editors/awesome-symfony</a> with ranks
 </p>
 ---
-# Awesome Symfony [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Symfony [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 A list of awesome [Symfony](http://symfony.com) bundles, utilities and resources.
 
 Table of contents:
@@ -107,7 +107,7 @@ Table of contents:
 * [TwigReflectionBundle ★16 ⏳5Y](https://github.com/arnaud-lb/TwigReflectionBundle) - Displays what's in Twig.
 * [WebfactoryExceptionsBundle ★62 ⏳2Y](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
 * [WebProfilerExtraBundle ★269](https://github.com/Elao/WebProfilerExtraBundle) - Adding routing, container, assetic & twig information in the web profiler.
-* [XhprofBundle ★208 ⏳1Y](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle.
+* [XhprofBundle ★208 ⏳2Y](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle.
 
 ## Distributions
 

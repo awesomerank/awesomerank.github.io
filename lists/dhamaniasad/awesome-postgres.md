@@ -7,7 +7,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 	This list is a copy of <a href="https://github.com/dhamaniasad/awesome-postgres">dhamaniasad/awesome-postgres</a> with ranks
 </p>
 ---
-# Awesome Postgres [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Postgres [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 [<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right"  width="100">](https://www.postgresql.org/)
 
@@ -46,7 +46,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * [repmgr ★936](https://github.com/2ndQuadrant/repmgr) - Open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers.
 * [Slony-I](http://slony.info) - "Master to multiple slaves" replication system with cascading and failover.
 * [PAF ★1](https://github.com/dalibo/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
-* [SkyTools ★244](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
+* [SkyTools ★244 ⏳1Y](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 
 ### Backups
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
@@ -172,7 +172,7 @@ For Database Management
 * Go: [pgx ★1378](https://github.com/jackc/pgx)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net/.Net Core: [Npgsql ★1262](https://github.com/npgsql/npgsql)
-* Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise ★1788](https://github.com/vitaly-t/pg-promise)
+* Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise ★1827](https://github.com/vitaly-t/pg-promise)
 * Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
 * PHP: [Pomm](http://www.pomm-project.org), [pecl/pq ★17](https://github.com/m6w6/ext-pq)
 * Python: [psycopg2](https://pypi.python.org/pypi/psycopg2)

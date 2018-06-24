@@ -11,7 +11,7 @@ title: Awesome Rank for sindresorhus/awesome-npm
 
 > Awesome [npm](https://www.npmjs.com) resources and tips
 
-You might also like [awesome-nodejs ★23974](https://github.com/sindresorhus/awesome-nodejs).
+You might also like [awesome-nodejs ★24539](https://github.com/sindresorhus/awesome-nodejs).
 
 *Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-npm/blob/master/contributing.md) before contributing.*
 
@@ -83,7 +83,7 @@ You might also like [awesome-nodejs ★23974](https://github.com/sindresorhus/aw
 
 ### Publishing
 
-- [np ★3171](https://github.com/sindresorhus/np) - A better `npm publish`.
+- [np ★3241](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [publish-please ★722](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
 - [pkgfiles ★67 ⏳1Y](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
@@ -107,14 +107,14 @@ You might also like [awesome-nodejs ★23974](https://github.com/sindresorhus/aw
 
 ### Other
 
-- [npm-home ★134](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+- [npm-home ★135](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - [gh-home ★94 ⏳1Y](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
-- [david ★812](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
+- [david ★819](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
 - [npm-check ★4141](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
 - [npm-upgrade ★120](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 - [npm-shrinkwrap ★792](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 - [npm-windows-upgrade ★1473](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-- [generator-nm ★545](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
+- [generator-nm ★554](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
 - [pkg-up ★46 ⏳1Y](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
 - [read-pkg-up ★85](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
 - [normalize-package-data ★93](https://github.com/npm/normalize-package-data) - Normalize package metadata.
@@ -362,7 +362,7 @@ Bentley
 
 ### Run commands with different Node.js versions
 
-With `npx` (Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave), or [`n` ★9171](https://github.com/tj/n).
+With `npx` (Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave), or [`n` ★9370](https://github.com/tj/n).
 
 ```
 $ npx --package=node-bin@6.11.0 -- node --version

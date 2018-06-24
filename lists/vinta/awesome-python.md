@@ -7,7 +7,7 @@ title: Awesome Rank for vinta/awesome-python
 	This list is a copy of <a href="https://github.com/vinta/awesome-python">vinta/awesome-python</a> with ranks
 </p>
 ---
-# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Python frameworks, libraries, software and resources.
 
@@ -283,7 +283,7 @@ Inspired by [awesome-php ★18804](https://github.com/ziadoz/awesome-php).
     * [Python-Fire ★9307](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
     * [python-prompt-toolkit ★4433](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines.
 * Productivity Tools
-    * [aws-cli ★6449](https://github.com/aws/aws-cli) - A universal command-line interface for Amazon Web Services.
+    * [aws-cli ★6574](https://github.com/aws/aws-cli) - A universal command-line interface for Amazon Web Services.
     * [cookiecutter ★7131](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
     * [doitlive ★2128](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
     * [howdoi ★6371](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
@@ -293,8 +293,8 @@ Inspired by [awesome-php ★18804](https://github.com/ziadoz/awesome-php).
     * [PathPicker ★3813](https://github.com/facebook/PathPicker) - Select files out of bash output.
     * [percol ★2536](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
     * [pgcli ★6784](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
-    * [SAWS ★3610](https://github.com/donnemartin/saws) - A Supercharged AWS CLI.
-    * [thefuck ★35488](https://github.com/nvbn/thefuck) - Correcting your previous console command.
+    * [SAWS ★3638](https://github.com/donnemartin/saws) - A Supercharged AWS CLI.
+    * [thefuck ★35911](https://github.com/nvbn/thefuck) - Correcting your previous console command.
     * [tmuxp](https://github.com/tony/tmuxp) - A [tmux ★10330](https://github.com/tmux/tmux) session manager.
     * [try ★425](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
 
@@ -512,8 +512,8 @@ Inspired by [awesome-php ★18804](https://github.com/ziadoz/awesome-php).
 
 *Libraries for downloading.*
 
-* [s3cmd ★2669](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
-* [s4cmd ★710](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
+* [s3cmd ★2695](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
+* [s4cmd ★723](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
 * [you-get](http://you-get.org/) - A YouTube/Youku/Niconico video downloader written in Python 3.
 * [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
 
@@ -790,7 +790,7 @@ Inspired by [awesome-php ★18804](https://github.com/ziadoz/awesome-php).
 
 * [PySpark](https://pypi.python.org/pypi/pyspark/) - Apache Spark Python API.
 * [luigi ★9316](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
-* [mrjob ★2230](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services.
+* [mrjob ★2257](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services.
 * [streamparse ★1287](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data. Integrates with [Apache Storm](http://storm.apache.org/).
 * [dask](https://dask.pydata.org/en/latest/) - A flexible parallel computing library for analytic computing.
 
@@ -1019,9 +1019,9 @@ Inspired by [awesome-php ★18804](https://github.com/ziadoz/awesome-php).
 
 *Frameworks for developing serverless Python code.*
 
-* [apex ★7002](https://github.com/apex/apex) - Build, deploy, and manage [AWS Lambda](https://aws.amazon.com/lambda/) functions with ease.
-* [python-lambda ★708](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying Python code in AWS Lambda.
-* [Zappa ★7064](https://github.com/Miserlou/Zappa) - A tool for deploying WSGI applications on AWS Lambda and API Gateway.
+* [apex ★7100](https://github.com/apex/apex) - Build, deploy, and manage [AWS Lambda](https://aws.amazon.com/lambda/) functions with ease.
+* [python-lambda ★727](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying Python code in AWS Lambda.
+* [Zappa ★7256](https://github.com/Miserlou/Zappa) - A tool for deploying WSGI applications on AWS Lambda and API Gateway.
 
 ## Specific Formats Processing
 
@@ -1159,7 +1159,7 @@ Inspired by [awesome-php ★18804](https://github.com/ziadoz/awesome-php).
 *Libraries for accessing third party services APIs. See: [List of Python API Wrappers and Libraries ★1123](https://github.com/realpython/list-of-python-api-wrappers).*
 
 * [apache-libcloud](https://libcloud.apache.org/) - One Python library for all clouds.
-* [boto3 ★3357](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
+* [boto3 ★3440](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
 * [django-wordpress ★264](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 * [facebook-sdk ★2273](https://github.com/mobolic/facebook-sdk) - Facebook Platform Python SDK.
 * [facepy ★757](https://github.com/jgorset/facepy) - Facepy makes it really easy to interact with Facebook's Graph API
@@ -1330,7 +1330,7 @@ Where to discover new Python libraries.
 List of lists.
 
 * Monty
-    * [awesome ★85445](https://github.com/sindresorhus/awesome)
+    * [awesome ★87749](https://github.com/sindresorhus/awesome)
     * [awesomo ★5699](https://github.com/lk-geimfari/awesomo)
     * [lists ★4980](https://github.com/jnv/lists)
 * Python

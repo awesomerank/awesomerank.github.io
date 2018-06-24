@@ -7,7 +7,7 @@ title: Awesome Rank for busterc/awesome-cordova
 	This list is a copy of <a href="https://github.com/busterc/awesome-cordova">busterc/awesome-cordova</a> with ranks
 </p>
 ---
-# Awesome Cordova [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/busterc/awesome-cordova.svg?branch=master)](https://travis-ci.org/busterc/awesome-cordova)
+# Awesome Cordova [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/busterc/awesome-cordova.svg?branch=master)](https://travis-ci.org/busterc/awesome-cordova)
 
 A curated list of amazingly awesome Cordova libraries, resources and shiny things.
 
@@ -24,7 +24,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 ## Learning
 
 * [Create your first Cordova app](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
-* [Create React App Tutorial ★22](https://github.com/johnkmzhou/cordova-create-react-app)
+* [Create React App Tutorial ★35](https://github.com/johnkmzhou/cordova-create-react-app)
 
 ## Plugins
 
@@ -37,8 +37,8 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [Framework7 React](https://framework7.io/react/)
   * [Framework7 Vue](https://framework7.io/vue/)
 * [Ionic Framework](https://ionicframework.com/)
-  * [Alexintosh/Awesome-Ionic ★985](https://github.com/Alexintosh/Awesome-Ionic)
-  * [candelibas/awesome-ionic ★685](https://github.com/candelibas/awesome-ionic)
+  * [Alexintosh/Awesome-Ionic ★1010](https://github.com/Alexintosh/Awesome-Ionic)
+  * [candelibas/awesome-ionic ★692](https://github.com/candelibas/awesome-ionic)
 * [jQuery Mobile](http://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
 * [Onsen UI](https://onsen.io/)
@@ -73,14 +73,14 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [cordova-res-builder ★0 ⏳3Y](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators ★35 ⏳2Y](https://github.com/busterc/cordova-resource-generators)
   * Icons
-    * [cordova-icon ★600](https://github.com/AlexDisler/cordova-icon)
+    * [cordova-icon ★609](https://github.com/AlexDisler/cordova-icon)
     * [cordova-icon-gm ★5](https://github.com/disusered/cordova-icon-gm)
     * [cordova-res-builder ★0 ⏳3Y](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators ★35 ⏳2Y](https://github.com/busterc/cordova-resource-generators)
   * Splash Screens
     * [cordova-res-builder ★0 ⏳3Y](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators ★35 ⏳2Y](https://github.com/busterc/cordova-resource-generators)
-    * [cordova-splash ★380](https://github.com/AlexDisler/cordova-splash)
+    * [cordova-splash ★387](https://github.com/AlexDisler/cordova-splash)
     * [cordova-splash-gm ★7](https://github.com/disusered/cordova-splash-gm)
   * Plugin
     * [generator-cordova-plugin ★13 ⏳1Y](https://github.com/lholmquist/generator-cordova-plugin)
@@ -93,11 +93,11 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [cordova-xml ★5 ⏳1Y](https://github.com/mifi/cordova-xml)
   * [cordova-auto-patch ★1 ⏳2Y](https://github.com/shevaroller/cordova-auto-patch)
 * Logging
-  * [Bugfender ★2](https://github.com/bugfender/cordova-plugin-bugfender)
+  * [Bugfender ★3](https://github.com/bugfender/cordova-plugin-bugfender)
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 

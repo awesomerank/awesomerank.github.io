@@ -9,7 +9,7 @@ title: Awesome Rank for qinwf/awesome-R
 ---
 # Awesome R
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome R packages and tools. Inspired by [awesome-machine-learning ★33352](https://github.com/josephmisiti/awesome-machine-learning).
 
@@ -283,7 +283,7 @@ cases)
 * [CausalImpact <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20"> ★800](https://github.com/google/CausalImpact) - Causal inference using Bayesian structural time-series models.
 * [C50](http://cran.r-project.org/web/packages/C50/index.html) - C5.0 Decision Trees and Rule-Based Models
 * [caret <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/caret/index.html) - Classification and Regression Training
-* [Clever Algorithms For Machine Learning ★244](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
+* [Clever Algorithms For Machine Learning ★244 ⏳1Y](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 * [CORElearn](http://cran.r-project.org/web/packages/CORElearn/index.html) - Classification, regression, feature evaluation and ordinal
 evaluation
 * [CoxBoost](http://cran.r-project.org/web/packages/CoxBoost/index.html) - Cox models by likelihood based boosting for a single survival
@@ -614,7 +614,7 @@ Where to discover new R-esources.
 
 # Other Awesome Lists
 
-* [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness)
+* [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness)
 * [lists ★4980](https://github.com/jnv/lists)
 * [awesome-rshiny ★150](https://github.com/grabear/awesome-rshiny)
 

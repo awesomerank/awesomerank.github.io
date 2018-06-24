@@ -7,7 +7,7 @@ title: Awesome Rank for kdabir/awesome-groovy
 	This list is a copy of <a href="https://github.com/kdabir/awesome-groovy">kdabir/awesome-groovy</a> with ranks
 </p>
 ---
-Awesome Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+Awesome Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 ==============
 
 Curated list of awesome groovy libraries, frameworks and resources. Inspired by many other awesome-* repositories. This awesome collection is also available on [Groovy.ZEEF.com](https://groovy.zeef.com/kunal.dabir).
@@ -197,7 +197,7 @@ If you are lazy to download the repo, an easy way is:
 
 # Credits
 
-To all the awesome-* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) and [this ★21454](https://github.com/bayandin/awesome-awesomeness).
+To all the awesome-* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) and [this ★21639](https://github.com/bayandin/awesome-awesomeness).
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/kdabir/awesome-groovy">kdabir/awesome-groovy</a> with ranks

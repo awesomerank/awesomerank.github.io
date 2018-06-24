@@ -11,7 +11,7 @@ title: Awesome Rank for jdrgomes/awesome-postcss
   <img src="https://rawgit.com/jdrgomes/awesome-postcss/master/media/awesome_postcss.svg" alt="Awesome PostCSS">
 </p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/jdrgomes/awesome-postcss.svg?branch=master)](https://travis-ci.org/jdrgomes/awesome-postcss)
 
 > An selected list of PostCSS resources and other things related.

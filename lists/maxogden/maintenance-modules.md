@@ -7,7 +7,7 @@ title: Awesome Rank for maxogden/maintenance-modules
 	This list is a copy of <a href="https://github.com/maxogden/maintenance-modules">maxogden/maintenance-modules</a> with ranks
 </p>
 ---
-# maintenance-modules [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# maintenance-modules [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 [![NPM](https://nodei.co/npm/maintenance-modules.png)](https://www.npmjs.com/package/maintenance-modules)
 
@@ -159,7 +159,7 @@ JavaScript happiness style linter. Enforce strict code style. No decision-making
 npm i xo -g
 ```
 
-### [np ★3171](https://github.com/sindresorhus/np) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
+### [np ★3241](https://github.com/sindresorhus/np) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
 
 A better `npm publish`. Runs your tests before publishing, bumps version, pushes git commits/tags, and more.
 

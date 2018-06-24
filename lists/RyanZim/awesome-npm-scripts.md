@@ -13,7 +13,7 @@ title: Awesome Rank for RyanZim/awesome-npm-scripts
 
 > Everything awesome for using npm as a build tool.
 
-You might also like [awesome-npm ★2916](https://github.com/sindresorhus/awesome-npm).
+You might also like [awesome-npm ★2944](https://github.com/sindresorhus/awesome-npm).
 
 **Notice: I'm currently too busy to actively expand this list; therefore, I've decided to make this an [OPEN Open Source Project](http://openopensource.org). Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit.**
 
@@ -68,15 +68,15 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-- [http-server ★6858](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server.
-- [live-server ★2141](https://github.com/tapio/live-server) - Simple development http server with live reload capability.
+- [http-server ★7018](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server.
+- [live-server ★2205](https://github.com/tapio/live-server) - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
 
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
-- [rimraf ★2468](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`.
-- [del-cli ★92](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion.
+- [rimraf ★2528](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`.
+- [del-cli ★92 ⏳1Y](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion.
 - [mkdirp ★1772](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`.
 - [cpr ★55](https://github.com/davglass/cpr) - `cp -r` for Nodejs
 - [cpy-cli ★75](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming.
@@ -84,7 +84,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 - [sync-files ★27](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode.
 - [echo-cli ★3 ⏳2Y](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support.
 - [clear-cli ★33 ⏳2Y](https://github.com/sindresorhus/clear-cli) - Clear the terminal.
-- [cross-env ★2563](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style.
+- [cross-env ★2689](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style.
 - [cross-os ★4](https://github.com/milewski/cross-os) - Run platform-specific npm scripts.
 - [ntee ★17 ⏳1Y](https://github.com/stefanmaric/ntee) - Utility that reads from standard input and writes to standard output and files; like Unix `tee`.
 - [catw ★109 ⏳3Y](https://github.com/substack/catw) - Print a file to stdout, with optional watch mode; sorta like Unix `cat`.

@@ -7,11 +7,11 @@ title: Awesome Rank for thangchung/awesome-dotnet-core
 	This list is a copy of <a href="https://github.com/thangchung/awesome-dotnet-core">thangchung/awesome-dotnet-core</a> with ranks
 </p>
 ---
-# Awesome .NET Core [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome .NET Core [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > A collection of awesome [.NET Core](#frameworks-libraries-and-tools) frameworks, libraries, tools, resources and software.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks ★24195](https://github.com/dypsilon/frontend-dev-bookmarks).
+Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks ★24378](https://github.com/dypsilon/frontend-dev-bookmarks).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/thangchung/awesome-dotnet-core/blob/master/contributing.md) pages first. We accept proprietary and commercial software too.
 
@@ -112,7 +112,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [refit](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET.
 * [RESTClient .NET](https://bitbucket.org/MelbourneDeveloper/restclient-.net) - Simple REST Client for all .NET platforms.
 * [RestEase ★318](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable.
-* [RestLess ★48](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+* [RestLess ★55](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [Restsharp ★5391](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 * [Swashbuckle ★1483](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Seamlessly adds a swagger to WebApi projects.
 * [WebAPIContrib for ASP.NET CORE ★288](https://github.com/WebApiContrib/WebAPIContrib.Core) - Community Contributions for ASP.NET Core.
@@ -178,6 +178,8 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Bot
 * [NadekoBot ★794](https://github.com/Kwoth/NadekoBot) - Open source, general-purpose Discord chat bot written in C#.
+* [NetTelegramBotApi ★50](https://github.com/justdmitry/NetTelegramBotApi) - C# <a href="https://core.telegram.org/bots/api">Telegram Bot API</a> library.
+* [Funogram ★16](https://github.com/Dolfik1/Funogram) - F# <a href="https://core.telegram.org/bots/api">Telegram Bot API</a> library. <a href="https://medium.com/@worldbeater/funogram-writing-telegram-bots-in-f-f27a873fa548">Getting started</a>.
 
 ### Build Automation
 * [cake-build ★1771](https://github.com/cake-build/cake) - Cross platform build automation system. [http://cakebuild.net](http://cakebuild.net).
@@ -346,7 +348,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [rider](https://www.jetbrains.com/rider/) - Cross-platform C# IDE based on the IntelliJ platform and ReSharper.
 * [Omnisharp](http://www.omnisharp.net/) - Family of Open Source projects, each with one goal: To enable a great .NET experience in YOUR editor of choice.
 * [SharpDevelop ★1259](https://github.com/icsharpcode/SharpDevelop) - SharpDevelop is a free Integrated Development Environment (IDE) for C#, VB.NET, Boo, IronPython, IronRuby and F# projects on Microsoft's .NET platform. It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
-* [Visual Studio Code ★50685](https://github.com/Microsoft/vscode) - New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
+* [Visual Studio Code ★53786](https://github.com/Microsoft/vscode) - New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 * [Visual Studio Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) - Free editor for individual developers, open source projects, academic research, education, and small professional teams.
 
 ### Internationalization
@@ -483,6 +485,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Scheduler and Job
 * [Chroniton.NetCore ★121 ⏳1Y](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules.
+* [Coravel ★139](https://github.com/jamesmh/coravel) - .Net Core meets Laravel: Scheduling, Queuing, etc.
 * [FluentScheduler ★1296](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
 * [HangfireIO ★3660](https://github.com/HangfireIO/Hangfire) - Easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
 * [LiquidState ★100 ⏳1Y](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
@@ -490,7 +493,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [stateless ★2171](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
 
 ### SDKs
-* [AWS SDK ★884](https://github.com/aws/aws-sdk-net) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.
+* [AWS SDK ★903](https://github.com/aws/aws-sdk-net) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.
 * [azure-event-hubs-dotnet ★55](https://github.com/azure/azure-event-hubs-dotnet) - .NET Standard client library for Azure Event Hubs.
 * Blockchain clients
   * [Bittrex.Net ★96](https://github.com/JKorf/Bittrex.Net) - C# .Net wrapper for the Bittrex web API including all features easily accessible and usable.
@@ -501,7 +504,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Docker.DotNet ★550](https://github.com/Microsoft/Docker.DotNet) - .NET (C#) Client Library for Docker API.
 * [google-cloud-dotnet ★269](https://github.com/GoogleCloudPlatform/google-cloud-dotnet) - Google Cloud Client Libraries for .NET.
 * [Microphone ★436](https://github.com/rogeralsing/Microphone) - Lightweight framework to run self hosting REST services using Web Api or NancyFx ontop of a Consul or ETCD cluster.
-* [NetTelegramBotApi ★50](https://github.com/justdmitry/NetTelegramBotApi) - C# client library for building Telegram bot [https://core.telegram.org/bots/api](https://core.telegram.org/bots/api).
 * [octokit.net ★1472](https://github.com/octokit/octokit.net) - GitHub API client library for .NET.
 * [Open-XML-SDK ★1661](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
 * [PreStorm ★13](https://github.com/jshirota/PreStorm) - Parallel REST Client for ArcGIS Server.
@@ -593,7 +595,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [NugetVisualizer ★10](https://github.com/sepharg/NugetVisualizer) - Visualize all of the nuget packages and their corresponding versions for a set of given git repositories or folders.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
 * [posh-dotnet](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI ★2754](https://github.com/dotnet/cli).
-* [ShareX ★7880](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from. [https://getsharex.com](https://getsharex.com)
+* [ShareX ★8055](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from. [https://getsharex.com](https://getsharex.com)
 * [SharpLab ★285](https://github.com/ashmind/SharpLab) - .NET code playground that shows intermediate steps and results of code compilation. [https://sharplab.io](https://sharplab.io)
 * [X.Web.Sitemap ★27](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
 * [X.Web.RSS ★12](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core

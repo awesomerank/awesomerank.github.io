@@ -286,11 +286,11 @@ Here awesome badge for your project:
 * [square/sqldelight ★1700](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 * [x2bool/kuery ★82](https://github.com/x2bool/kuery) - Typesafe SQL with Kotlin.
 * [Litote/kmongo ★93](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
-* [requery/requery ★2490](https://github.com/requery/requery) - Modern SQL based query & persistence for Java/Kotlin/Android.
+* [requery/requery ★2512](https://github.com/requery/requery) - Modern SQL based query & persistence for Java/Kotlin/Android.
 * [consoleau/kotlin-jpa-specification-dsl ★117](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications.
 * [s4kibs4mi/PultusORM ★96](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library for kotlin on top of sqlite jdbc driver.
 * [Ganet/rxaerospike ★6 ⏳1Y](https://github.com/Ganet/rxaerospike) - RxJava2 wrapper for aerospike-client-java.
-* [Raizlabs/DBFlow ★4204](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
+* [Raizlabs/DBFlow ★4270](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
 * [KotlinPorts/kt-postgresql-async](https://github.com/KotlinPorts/kt-postgresql-async) - Kotlin/Gradle port of mauricio's async driver for postgres/mysql.
 * [shyiko/levelkt ★8](https://github.com/shyiko/levelkt) - LevelDB client for Kotlin and/or Java 8+.
 * [SubiyaCryolite/jds ★5](https://github.com/SubiyaCryolite/jds) - Jenesis Data Store: a dynamic, cross platform, high performance, ORM data-mapper. Designed to assist in rapid development and data mining.
@@ -483,13 +483,13 @@ Here awesome badge for your project:
 
 ## <a name="android"></a>Android <sup>[Back ⇈](#android-category)</sup>
 ### <a name="android-libraries"></a>Libraries <sup>[Back ⇈](#android-libraries-subcategory)</sup>
-* [Kotlin/anko ★11106](https://github.com/Kotlin/anko) - Pleasant Android application development.
-* [JakeWharton/kotterknife ★1973](https://github.com/JakeWharton/kotterknife) - View injection library for Android.
-* [MarcinMoskala/ActivityStarter ★298](https://github.com/MarcinMoskala/ActivityStarter) - Activity starter generator and arguments injection library for Android.
+* [Kotlin/anko ★11411](https://github.com/Kotlin/anko) - Pleasant Android application development.
+* [JakeWharton/kotterknife ★2010](https://github.com/JakeWharton/kotterknife) - View injection library for Android.
+* [MarcinMoskala/ActivityStarter ★306](https://github.com/MarcinMoskala/ActivityStarter) - Activity starter generator and arguments injection library for Android.
 * [MarcinMoskala/KotlinPreferences ★34](https://github.com/MarcinMoskala/KotlinPreferences) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun.
 * [MarcinMoskala/PreferenceHolder ★100](https://github.com/MarcinMoskala/PreferenceHolder) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun using object with fields binded to SharedPreferences.
 * [nsk-mironov/kotlin-jetpack ★156](https://github.com/nsk-mironov/kotlin-jetpack) - A collection of useful extension methods for Android.
-* [pawegio/KAndroid ★738](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code.
+* [pawegio/KAndroid ★746](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code.
 * [chibatching/Kotpref ★281](https://github.com/chibatching/Kotpref) - Android SharedPreference delegation for Kotlin.
 * [TouK/bubble ★75 ⏳2Y](https://github.com/TouK/bubble) - Library for obtaining screen orientation when orientation is blocked in AndroidManifest.
 * [ragunathjawahar/kaffeine ★141](https://github.com/ragunathjawahar/kaffeine) - Kaffeine is a Kotlin-flavored Android library for accelerating development.
@@ -503,7 +503,7 @@ Here awesome badge for your project:
 * [denisidoro/krouter ★82](https://github.com/denisidoro/krouter) - A lightweight Android activity router.
 * [metalabdesign/AsyncAwait ★364](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
 * [jupf/staticlog ★23](https://github.com/jupf/staticlog) - StaticLog - super lightweight static logging for Kotlin, Java and Android.
-* [zserge/anvil ★1235](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React.
+* [zserge/anvil ★1242](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React.
 * [DanielMartinus/Stepper-Touch ★339](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin.
 * [GlimpseFramework/glimpse-framework-android ★3 ⏳1Y](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 * [infotech-group/android-drawable-dsl ★119](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
@@ -533,7 +533,7 @@ Here awesome badge for your project:
 * [MakinGiants/banjen ★6](https://github.com/MakinGiants/banjen) - Android app to help to tune a banjo.
 * [inaka/kotlillon ★24 ⏳2Y](https://github.com/inaka/kotlillon) - Android Kotlin Examples.
 * [MakinGiants/todayhistory ★16](https://github.com/MakinGiants/todayhistory) - App that shows what happened today in history.
-* [RxKotlin/Pocket ★19 ⏳1Y](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
+* [RxKotlin/Pocket ★20 ⏳2Y](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 * [SidneyXu/AndroidDemoIn4Languages ★193 ⏳1Y](https://github.com/SidneyXu/AndroidDemoIn4Languages) - Comparison between Java, Groovy, Scala, Kotlin in Android Development.
 * [inorichi/tachiyomi ★1623](https://github.com/inorichi/tachiyomi) -  Free and open source manga reader for Android.
 * [ziggy42/Blum-kotlin](https://github.com/ziggy42/Blum-kotlin) - A simple android Twitter client written in Kotlin
@@ -544,7 +544,7 @@ Here awesome badge for your project:
 * [SimpleMobileTools/Simple-File-Manager ★211](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
 * [SimpleMobileTools/Simple-Gallery ★455](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads.
 * [SimpleMobileTools/Simple-Notes ★122](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
-* [ahong222/happy21 ★4](https://github.com/ahong222/happy21) - A simple game of Black-Jack write with kotlin
+* [ahong222/happy21 ★4 ⏳1Y](https://github.com/ahong222/happy21) - A simple game of Black-Jack write with kotlin
 * [AllanWang/KAU ★75](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
 * [hanjoongcho/aaf-easyphotomap ★13](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
 * [Karumi/KataScreenshotKotlin ★51](https://github.com/Karumi/KataScreenshotKotlin) - An full exercise to learn how to create screenshot tests for Android

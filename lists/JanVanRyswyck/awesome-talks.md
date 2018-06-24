@@ -8,7 +8,7 @@ title: Awesome Rank for JanVanRyswyck/awesome-talks
 </p>
 ---
 # Awesome talks
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 There are a lot of screencasts, recordings of user group gatherings and conference talks available online. I try to commit myself watching at least two new talks every week, and I've been doing this for quite some time now. I created this list of online talks that I really enjoyed watching. I'll also be updating this list whenever I've watched another *awesome* talk that is worthy enough. Suggestions are always appreciated through a pull request. So without further ado ..
 
@@ -128,6 +128,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Test-Driven Development - Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by **Evan Dorn** [30:54]
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) by **Sandi Metz** [32:22]
 * [How To Stop Hating Your Tests](https://vimeo.com/145917204) by **Justin Searls** [43:39]
+* [Why You Don't Get Mock Objects](https://www.youtube.com/watch?v=R9FOchgTtLM) by **Gregory Moeck** [44:42]
 
 #### Methodologies
 

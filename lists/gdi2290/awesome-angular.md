@@ -13,7 +13,7 @@ title: Awesome Rank for gdi2290/awesome-angular
   </a>
 </p>
 
-# Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular)
+# Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular)
 
 Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://angularclass.github.io/awesome-angular/)
 
@@ -655,7 +655,7 @@ Http is available as an injectable class, with methods to perform http requests.
 ##### Ionic 2 General Resources
 
 * [Ionic 2 Repository (GitHub)](https://github.com//ionic-team/ionic)
-* [Ionic 2 Awesome ★685](https://github.com/candelibas/awesome-ionic)
+* [Ionic 2 Awesome ★692](https://github.com/candelibas/awesome-ionic)
 
 ---
 
@@ -860,7 +860,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ##### Bit Resources
 
-* [Bit ★1842](https://github.com/teambit/bit)
+* [Bit ★2097](https://github.com/teambit/bit)
 * [Bit-Javascript ★14](https://github.com/teambit/bit-javascript)
 * [bitsrc](https://bitsrc.io/) - Free community hub for sharing, managing and finding open source components.
 

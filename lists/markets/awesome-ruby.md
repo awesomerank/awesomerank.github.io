@@ -278,7 +278,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Cloud
 
-* [AWS SDK for Ruby ★2662](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
+* [AWS SDK for Ruby ★2686](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
 * [browse-everything](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
 * [Fog ★4126](https://github.com/fog/fog) - The Ruby cloud services library.
 
@@ -555,7 +555,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [RbNaCl](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 * [Sym ★66](https://github.com/kigster/sym) - A time-saving symmetric encryption gem based on OpenSSL that uses 256bit (password-encrypted) keys. Read the key from STDIN, a file, ENV or, on a Mac: OS-X Keychain.
 * [Symmetric Encryption](http://rocketjob.github.io/symmetric-encryption/) - Transparently encrypt ActiveRecord, Mongoid, and MongoMapper attributes. Encrypt passwords in configuration files. Encrypt entire files at rest.
-* [Themis ★522](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms.
+* [Themis ★536](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms.
 
 ## Environment Management
 
@@ -741,7 +741,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Mobile Development
 
 * [dryrun ★3249](https://github.com/cesarferreira/dryrun) - Try any Android library on your smartphone directly from the command line.
-* [fastlane ★21872](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
+* [fastlane ★22234](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 * [Ruboto ★2007](https://github.com/ruboto/ruboto) - A platform for developing full stand-alone apps for Android using the Ruby language and libraries.
 * [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test full-fledged native iOS and OS X applications for iPhone, iPad, Mac and Android.
 * [Ruby Push Notifications ★364](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
@@ -756,7 +756,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Music and Sound
 
 * [Coltrane ★192](https://github.com/pedrozath/coltrane) -  A music theory library with a command-line interface.
-* [Sonic Pi ★3499](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
+* [Sonic Pi ★3750](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 * [play ►](https://github.com/play/play) - Your company's dj.
 
 ## Natural Language Processing
@@ -933,7 +933,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Resque ★8217](https://github.com/resque/resque) - A Redis-backed Ruby library for creating background jobs.
 * [Que ★1262](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 * [RocketJob](http://rocketjob.io) - Enterprise Batch Processing System focused on performance, scalability, reliability, and visibility of every job in the system. Outgrown existing solutions? Or, start small and scale up later.
-* [Shoryuken ★1220](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
+* [Shoryuken ★1232](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
 * [Sidekiq](http://sidekiq.org) - A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 * [Sneakers ★1678](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ.
 * [Sucker Punch ★2225](https://github.com/brandonhilkert/sucker_punch) - A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
@@ -1074,7 +1074,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Middleman](http://middlemanapp.com) - A static site generator using all the shortcuts and tools in modern web development.
 * [Nanoc](http://nanoc.ws/) - A static site generator, fit for building anything from a small personal blog to a large corporate web site.
 * [Octopress ★1636](https://github.com/octopress/octopress) - Octopress is an obsessively designed toolkit for writing and deploying Jekyll blogs.
-* [Photish ★128 ⏳1Y](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
+* [Photish ★128 ⏳2Y](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
 * [webgen](http://webgen.gettalong.org) - webgen is a fast, powerful and extensible static website generator.
 
 ## Template Engine

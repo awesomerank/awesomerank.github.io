@@ -7,7 +7,7 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 	This list is a copy of <a href="https://github.com/humiaozuzu/awesome-flask">humiaozuzu/awesome-flask</a> with ranks
 </p>
 ---
-# Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Flask resources and plugins
 
@@ -51,7 +51,7 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 - [Flask-RESTful ★3698](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
 - [Flask-RestPlus ★973](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation.
 - [Flask-Potion ★417](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
-- [Zappa ★7064](https://github.com/Miserlou/Zappa) - Build and deploy server-less Flask applications on AWS Lambda and API Gateway
+- [Zappa ★7256](https://github.com/Miserlou/Zappa) - Build and deploy server-less Flask applications on AWS Lambda and API Gateway
 
 ## Admin interface
 
@@ -233,7 +233,7 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 - [airflow ★8345](https://github.com/apache/incubator-airflow) - Airflow is a system to programmatically author, schedule and monitor data pipelines.
 - [timesketch ★860](https://github.com/google/timesketch) - Collaborative forensics timeline analysis
 - [changes ★768 ⏳1Y](https://github.com/dropbox/changes) - A dashboard for your code. A build system.
-- [security_monkey ★2668](https://github.com/Netflix/security_monkey) - monitors policy changes and alerts on insecure configurations in an AWS account.
+- [security_monkey ★2738](https://github.com/Netflix/security_monkey) - monitors policy changes and alerts on insecure configurations in an AWS account.
 - [securedrop ★2423](https://github.com/freedomofpress/securedrop)- an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
 - [sync_engine ★3442](https://github.com/nylas/sync-engine) - IMAP/SMTP sync system with modern APIs
 - [cleansweep ★32](https://github.com/AamAadmiParty/cleansweep) - Volunteer & Campaign Management System

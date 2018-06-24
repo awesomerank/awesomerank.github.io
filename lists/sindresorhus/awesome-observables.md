@@ -11,7 +11,7 @@ title: Awesome Rank for sindresorhus/awesome-observables
 
 > An [Observable](https://github.com/zenparsing/es-observable) is a collection that arrives over time. Observables can be used to model push-based data sources such as events, timer intervals, asynchronous requests, and animations. Observables can be transformed, combined, and consumed using array-like methods.
 
-You might also like [awesome-nodejs ★23974](https://github.com/sindresorhus/awesome-nodejs).
+You might also like [awesome-nodejs ★24539](https://github.com/sindresorhus/awesome-nodejs).
 
 *Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-observables/blob/master/contributing.md) before contributing.*
 
@@ -33,8 +33,8 @@ You might also like [awesome-nodejs ★23974](https://github.com/sindresorhus/aw
 
 ## Implementations
 
-- [zen-observable ★376](https://github.com/zenparsing/zen-observable)
-- [RxJS ★12620](https://github.com/ReactiveX/RxJS)
+- [zen-observable ★389](https://github.com/zenparsing/zen-observable)
+- [RxJS ★13323](https://github.com/ReactiveX/RxJS)
 
 
 ## Packages

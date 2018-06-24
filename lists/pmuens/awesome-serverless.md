@@ -7,13 +7,13 @@ title: Awesome Rank for pmuens/awesome-serverless
 	This list is a copy of <a href="https://github.com/pmuens/awesome-serverless">pmuens/awesome-serverless</a> with ranks
 </p>
 ---
-# Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/justserverless/awesome-serverless/master/logo-serverless.jpg" align="right" width="100">](http://serverless.com)
 
 > A curated list of resources regarding the [Serverless Framework](https://serverless.com) (formerly JAWS) and the serverless architecture.
 
-*Inspired by the [awesome ★85445](https://github.com/sindresorhus/awesome) list project.*
+*Inspired by the [awesome ★87749](https://github.com/sindresorhus/awesome) list project.*
 
 **Say *hello* on [Twitter](https://twitter.com/pmmuens).**
 
@@ -188,7 +188,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Building a serverless screenshot service](http://svdgraaf.nl/2016/09/28/Serverless-Screenshot-Service-With-Lambda.html) - Building a serverless screenshot service.
 - [Essential guide to serverless technologies](http://techbeacon.com/essential-guide-serverless-technologies-architectures) - Guide which goes into detail about the serverless technology / architecture.
 - [Guide to serverless backend technologies](http://thenewstack.io/guide-serverless-technologies-functions-backends-service/) - A compilation of the best of FaaS and BaaS.
-- [MoonMail technology stack](https://blog.moonmail.io/what-is-the-technology-stack-and-architecture-behind-moonmail-4d7d6a113ed6#.r2i0cxph6) - Post about the architecture of the [MoonMail ★1190](https://github.com/microapps/MoonMail) open source project.
+- [MoonMail technology stack](https://blog.moonmail.io/what-is-the-technology-stack-and-architecture-behind-moonmail-4d7d6a113ed6#.r2i0cxph6) - Post about the architecture of the [MoonMail ★1202](https://github.com/microapps/MoonMail) open source project.
 - [Why enterprises should care about serverless computing](http://www.forbes.com/sites/janakirammsv/2016/10/12/why-enterprises-should-care-about-serverless-computing) - Post which outlines the future of serverless computing and enterprises.
 - [Serverless v1 and fundraising](https://serverless.com/blog/releasing-serverless-framework-v1-and-fundraising/) - Blog post which announces Serverless v1 and the fundraising behind Serverless, Inc.
 - [Serverless raises $3M to help developers go serverless](https://techcrunch.com/2016/10/12/serverless-raises-3m-to-help-developers-go-serverless/) - TechCrunch article about the fundraising and future of Serverless, Inc.
@@ -819,7 +819,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [How to deploy multiple micro-services under one API](https://serverless.com/blog/api-gateway-multiple-services/) - Post on how to deploy multiple micro-services under one API domain with the Serverless Framework.
 - [Serverless monitoring - the good, the bad and the ugly](https://serverless.com/blog/serverless-monitoring-the-good-the-bad-and-the-ugly/) - How to setup and operate a monitoring and logging system for serverless applications.
 - [What's next for the serverless platform?](https://thenewstack.io/whats-next-serverless-platform/) - Post by Austen Collins about the future of serverless computing and the road ahead for Serverless, inc.
-- [Introducing live debugging in AWS Lambda](https://www.trek10.com/blog/aws-lambda-debugger/) - Post which introduces and explains the [AWS Lambda debugger ★227](https://github.com/trek10inc/aws-lambda-debugger) project.
+- [Introducing live debugging in AWS Lambda](https://www.trek10.com/blog/aws-lambda-debugger/) - Post which introduces and explains the [AWS Lambda debugger ★231](https://github.com/trek10inc/aws-lambda-debugger) project.
 - [Processing 100,000 events per second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/) - Post about an example event processing pipeline built with Azure Functions.
 - [Enable API Gateway caching on request parameters](https://medium.com/@theburningmonk/serverless-1-x-enable-api-gateway-caching-on-request-parameters-894b31762068) - How to enable API Gateway caching on request parameters for Serverless v1.x.
 - [Versioning in AWS Lambda](https://medium.com/aaptiv-engineering/https-medium-com-aaptiv-engineering-getting-started-with-versioning-in-aws-lambda-92c617e2f5f1) - How to properly use AWS Lambda versioning.
@@ -1318,6 +1318,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [The serverless and event-driven future](https://www.youtube.com/watch?v=TZPPjAv12KU) - How the Event Gateway enables a new way to build event-driven applications.
 - [Serverless, Not So FaaS](https://www.youtube.com/watch?v=_1-5YFfJCqM) - CloudNativeCon 2018 Keynote by Kelsey Hightower, Kubernetes Community Member, Google.
 - [Bringing serverless to Rock 'n Roll](http://www.thecloudcast.net/2018/05/the-cloudcast-348-bringing-serverless.html) - Podcast on how Fender utilizes serverless technologies for their digital learning platform.
+- [Using the Event Gateway to build serverless multi-cloud applications](https://www.youtube.com/watch?v=h1PIqbi93eE) - How the Event Gateway can be used to build multi-cloud applications.
 
 ## Amazon AWS resources
 
@@ -1361,7 +1362,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Lambda-React-SSR ★74 ⏳2Y](https://github.com/dherault/Lambda-React-SSR) - Server-side rendering with React on Lambda.
 - [Authentication boilerplate ★382](https://github.com/laardee/serverless-authentication-boilerplate) - Authentication boilerplate for Serverless.
 - [Blog ★4 ⏳2Y](https://github.com/charltones/serverless_blog) - Blog example using Serverless.
-- [MoonMail ★1190](https://github.com/microapps/MoonMail) - Serverless newsletter service.
+- [MoonMail ★1202](https://github.com/microapps/MoonMail) - Serverless newsletter service.
 - [Serverless GraphQL boilerplate ★1365](https://github.com/serverless/serverless-graphql) - Official Serverless GraphQL boilerplate.
 - [SC5 boilerplate](https://github.com/SC5/sc5-serverless-boilerplate) - Serverless boilerplate by [SC5](https://sc5.io/).
 - [Facebook messenger chatbot](https://github.com/JustServerless/serverless-facebook-messenger-chatbot) - Facebook messenger chatbot who searches for GitHub repositories.
@@ -1471,7 +1472,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Boilerplate Azure Functions ★1 ⏳1Y](https://github.com/pragnagopa/boilerplate-azurefunctions) - Boilerplate which helps to use the Azure Functions provider plugin.
 - [URL shortener ★51 ⏳1Y](https://github.com/aletheia/serverless-url-shortener) - A simple url-shortener, using Serverless Framework.
 - [Falke ★1 ⏳1Y](https://github.com/sbstjn/falke) - Alexa skill to check when a Tatort is broadcasted.
-- [LambdaAuth ★1209 ⏳1Y](https://github.com/danilop/LambdAuth) - Serverless authentication service.
+- [LambdaAuth ★1218 ⏳1Y](https://github.com/danilop/LambdAuth) - Serverless authentication service.
 - [Elasticpypi ★145](https://github.com/khornberg/elasticpypi) - Serverless PyPI service.
 - [Lambda coding round evaluator ★25 ⏳1Y](https://github.com/shekhargulati/lambda-coding-round-evaluator) - Services which help to implement a code evaluator that organizations can use to automate coding round interviews.
 - [TDD service ★3 ⏳1Y](https://github.com/laardee/my-tdd-service) - TDD example service.
@@ -1604,6 +1605,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Event Gateway Getting Started ★27](https://github.com/serverless/event-gateway-getting-started) - Walkthrough application for using the Event Gateway.
 - [Utils ★6](https://github.com/serverless/utils) - General Serverless utilities.
 - [CloudWatch public metrics ★20](https://github.com/RafalWilinski/cloudwatch-public-metrics) - Expose AWS CloudWatch metrics as a public HTML page.
+- [Invoicely ★4](https://github.com/EwanValentine/invoicely) - Invoice automation tool.
 
 ## Related projects
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
@@ -1690,7 +1692,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Containerless](https://containerless.cool) - Simple Docker deployments for AWS using the Serverless Framework.
 - [PureSec](https://www.puresec.io) - Security, built for serverless architectures.
 - [Pwned passwords ★96](https://github.com/jthomas/serverless-pwned-passwords) - Checking passwords against an enormous corpus of passwords leaked from security breaches.
-- [Zappa ★7064](https://github.com/Miserlou/Zappa) - Serverless Python web services.
+- [Zappa ★7256](https://github.com/Miserlou/Zappa) - Serverless Python web services.
 - [Serverless guide ★330](https://github.com/serverless/guide) - The "definitive guide" to serverless architectures.
 - [Seed](https://seed.run) - CI / CD solution for serverless applications.
 - [Slspress ★16](https://github.com/withreason/slspress) - Library for rapidly developing serverless applications.
@@ -1705,7 +1707,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Derek ★266](https://github.com/alexellis/derek) - A serverless bot to manage PRs and issues.
 - [Serverless By Design ★131](https://github.com/danilop/ServerlessByDesign) - Visual tool to create serverless architectures.
 - [Serverless Blog](https://serverlessblog.com) - Run your blog on AWS Lambda using [Flask-Blogging ★415](https://github.com/gouthambs/Flask-Blogging).
-- [AWS Lambda debugger ★227](https://github.com/trek10inc/aws-lambda-debugger) - Debugging support for AWS Lambda Node 6.10.
+- [AWS Lambda debugger ★231](https://github.com/trek10inc/aws-lambda-debugger) - Debugging support for AWS Lambda Node 6.10.
 - [Pyroclast](http://pyroclast.io) - Turn event streams into (micro)services.
 - [Serverless Atom dashboard ★34](https://github.com/horike37/serverless-dashboard-for-atom) - Atom plugin which implements a dashboard for Serverless Framework applications.
 - [ReadMe Build](https://readme.build) - Build flexible, powerful APIs in seconds.
@@ -1741,8 +1743,8 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Riff](https://projectriff.io) - Function service designed to run on Kubernetes ([GitHub project ★443](https://github.com/projectriff/riff)).
 - [HTTP Func ★4](https://github.com/mthenw/httpfunc) - AWS Lambda function that does HTTP requests.
 - [Dispatch ★428](https://github.com/vmware/dispatch) - A framework for deploying and managing serverless style applications.
-- [LambStatus](https://lambstatus.github.io) - Serverless status page system ([GitHub project ★953](https://github.com/ks888/LambStatus)).
-- [AWS Lambda Go ★1322](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
+- [LambStatus](https://lambstatus.github.io) - Serverless status page system ([GitHub project ★972](https://github.com/ks888/LambStatus)).
+- [AWS Lambda Go ★1355](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [URL Shortener ★34](https://github.com/danielireson/serverless-url-shortener) - URL shortener for AWS Lambda and S3.
 - [Lambda transport ★9](https://github.com/ewindisch/lambda-transport) - C library and language bindings for AWS Lambda.
 - [Step Functions local ★29](https://github.com/airware/stepfunctions-local) - Execute AWS Step Functions locally.

@@ -238,7 +238,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Colony ★85](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. [zLib] [website](http://www.plflib.org/colony.htm)
 * [Hashmaps ★149 ⏳2Y](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. [MIT]
 * [Hopscotch map ★169](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. [MIT]
-* [LSHBOX ★157](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]
+* [LSHBOX ★157 ⏳1Y](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]
 * [plf::list ★35](https://github.com/mattreecebentley/plf_list) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. [zLib] [website](http://www.plflib.org/list.htm)
 * [plf::stack ★11](https://github.com/mattreecebentley/plf_stack) - A replacement container for the std::stack container adaptor, with better performance than any std container in a stack context. [zLib] [website](http://www.plflib.org/stack.htm)
 * [ring_span lite ★23](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring_span implementation ie. a circular buffer view. [MIT]
@@ -263,9 +263,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - A low-level cryptographic library. [LGPL]
 * [OpenSSL ★7315](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache] [website](http://www.openssl.org/)
 * [retter ★24 ⏳1Y](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
-* [s2n ★3119](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols. [Apache]
+* [s2n ★3127](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols. [Apache]
 * [Tiny AES in C ★1030](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. [PublicDomain]
-* [Themis ★522](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. [Apache2]
+* [Themis ★536](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. [Apache2]
 
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
@@ -469,7 +469,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Machine Learning
 
 * [Caffe ★24270](https://github.com/BVLC/caffe) - A fast framework for neural networks. [BSD]
-* [Caffe2 ★7969](https://github.com/caffe2/caffe2) - A lightweight, modular, and scalable deep learning framework. [Apache2] [website](https://caffe2.ai/)
+* [Caffe2 ★8083](https://github.com/caffe2/caffe2) - A lightweight, modular, and scalable deep learning framework. [Apache2] [website](https://caffe2.ai/)
 * [CCV ★6208](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
 * [Fido ★361](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. [MIT] [website](http://fidoproject.github.io/)
 * [MeTA ★434](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. [MIT] [website](https://meta-toolkit.org/)
@@ -514,7 +514,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/) - Multimedia streaming library using open standard protocols (RTP/RTCP, RTSP, SIP). [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework. [GPL]
 * [MediaInfoLib ★124](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. [BSD]
-* [QtAv ★1558](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
+* [QtAv ★1596](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
 * [SDL](http://www.libsdl.org/) :zap: - Simple DirectMedia Layer. [zlib]
 * [SFML ★4323](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. [zlib] [website](http://www.sfml-dev.org/)
 
@@ -604,7 +604,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Cython ★3173](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. [Apache] [website](http://cython.org/)
 * [djinni ★1957](https://github.com/dropbox/djinni) - A tool for generating cross-language type declarations and interface bindings. [Apache2]
 * [Duktape ★3257](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. [MIT] [website](http://duktape.org)
-* [JavaCpp ★2400](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. [Apache2]
+* [JavaCpp ★2433](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. [Apache2]
 * [libffi ★1013](https://github.com/libffi/libffi) - A portable foreign-function interface library. [MIT] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting. [MIT]
 * [luacxx ★97](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
@@ -624,7 +624,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [MessagePack ★1311](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. [Apache2] [website](http://msgpack.org/)
 * [protobuf ★26343](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format. [BSD]
 * [protobuf-c ★908](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
-* [SimpleBinaryEncoding ★1347](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
+* [SimpleBinaryEncoding ★1363](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 
 ## Sorting
 
@@ -650,7 +650,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Civetweb ★863](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. [MIT]
 * [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS). [LGPLv3]
 * [Crow ★4211](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask). [BSD]
-* [Cutelyst ★385](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. [LGPLv2.1+] [website](https://cutelyst.org/)
+* [Cutelyst ★393](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. [LGPLv2.1+] [website](https://cutelyst.org/)
 * [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. [ISC]
 * [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. [LGPLv3]
 * [lwan ★4199](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. [GPL2]
@@ -713,7 +713,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [value-category-cheatsheet ★334](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. [Jank copyleft]
 * [VarTypes](https://code.google.com/p/vartypes/) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. [LGPL]
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
-* [ZXing ★18636](https://github.com/zxing/zxing) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
+* [ZXing ★18990](https://github.com/zxing/zxing) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
 
 # Software
 *Software for creating a development environment.*
@@ -813,8 +813,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
 * [cpp-dependencies ★384](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). [Apache]
 * [include-what-you-use ★1033](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
-* [Infer ★8429](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. [BSD]
-* [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source ★2641](https://github.com/oclint/oclint)
+* [Infer ★8598](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. [BSD]
+* [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source ★2666](https://github.com/oclint/oclint)
 * [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - A source code analysis tool that finds bugs in C, C++, and Objective-C programs.
 * [Linticator](http://linticator.com) - Eclipse CDT integration of Pc-/FlexeLint.
 * [List of tools for static code analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
@@ -922,13 +922,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Other amazingly awesome lists*
 
 * [lists ★4980](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
-* [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-* [awesome ★85445](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+* [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
+* [awesome ★87749](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 * [C++ links ★1349](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 * [Awesome C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.
 * [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
 * [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-* [Awesome C ★1237](https://github.com/aleksandar-todorovic/awesome-c) 2
+* [Awesome C ★1289](https://github.com/aleksandar-todorovic/awesome-c) 2
 * [AwesomePerfCpp ★1252](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
 * [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 * [Inqlude](http://inqlude.org/) - The Qt library archive.

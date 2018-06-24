@@ -10,7 +10,7 @@ title: Awesome Rank for afonsopacifer/awesome-flexbox
 [![awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox/blob/master/awesome-flexbox.jpg) ★841](https://github.com/afonsopacifer/awesome-flexbox)
 
 [![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-flexbox)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > A curated list of CSS Flexible Box Layout Module or only Flexbox.
 Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-svg ★3591](https://github.com/willianjusten/awesome-svg).
@@ -187,7 +187,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flexbox Patterns](http://www.flexboxpatterns.com/) - Examples and source code that will teach you how to build UI components with CSS flexbox! What’s flexbox?
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
 * [Flexbox tester](http://madebymike.com.au/demos/flexbox-tester/) - Understand how to calculate the width of flex items.
-* [Flexbox layout ★11472](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
+* [Flexbox layout ★11747](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 * [FlexLayout for iOS](https://github.com/lucdion/FlexLayout) - FlexLayout brings flexbox to iOS using Swift. Concise, intuitive & chainable syntax.
 * [grid-styled ★1349](https://github.com/jxnblk/grid-styled) - Flexbox based responsive ReactJS grid system built with styled-components
 * [iron-flex-layout](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout) - Style mixins for cross-platform flex-box layouts

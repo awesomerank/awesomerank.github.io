@@ -7,7 +7,7 @@ title: Awesome Rank for sobolevn/awesome-cryptography
 	This list is a copy of <a href="https://github.com/sobolevn/awesome-cryptography">sobolevn/awesome-cryptography</a> with ranks
 </p>
 ---
-# Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 <p align="center">
   <img src="https://github.com/sobolevn/awesome-cryptography/blob/master/awesome-crypto.png?raw=true" alt="Awesome Cryptography">
@@ -129,7 +129,7 @@ A curated list of cryptography resources and links.
 - [Bcrypt](http://bcrypt.sourceforge.net/) - Cross-platform file encryption utility.
 - [blackbox ★4244](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
 - [certbot ★22338](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
-- [cryptomator ★2167](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
+- [cryptomator ★2220](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 - [gpg](https://www.gnupg.org/) - Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
 - [ironssh ★49 ⏳1Y](https://github.com/IronCoreLabs/ironssh) - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
 - [Nipe ★320](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
@@ -154,7 +154,7 @@ A curated list of cryptography resources and links.
 - [OpenSSL ★7315](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
 - [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
 - [RHash ★180](https://github.com/rhash/RHash) - Great utility for computing hash sums.
-- [themis ★522](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
+- [themis ★536](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
 - [wolfSSL ★399](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 - [xxHash ★2008](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
@@ -165,7 +165,7 @@ A curated list of cryptography resources and links.
 - [cryptopp ★1167](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 - [HElib ★1614](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
 - [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
-- [s2n ★3119](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
+- [s2n ★3127](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
 
 ### C-sharp
 
@@ -289,7 +289,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [CocoaSecurity ★960 ⏳1Y](https://github.com/kelp404/CocoaSecurity) - AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex.
 - [ObjC Themis](https://github.com/cossacklabs/themis/wiki/Objective-C-Howto) - ObjC wrapper on Themis for iOS and MacOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [ObjectivePGP ★414](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
-- [RNCryptor ★2869](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac.
+- [RNCryptor ★2880](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac.
 
 
 ### PHP
@@ -343,12 +343,12 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 ### Swift
 
-- [CryptoSwift ★5576](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
-- [IDZSwiftCommonCrypto ★376](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
+- [CryptoSwift ★5688](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
+- [IDZSwiftCommonCrypto ★379](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
 - [OpenSSL](https://github.com/Zewo/OpenSSL) - Swift OpenSSL for OS X and Linux.
-- [SweetHMAC ★34 ⏳1Y](https://github.com/jancassio/SweetHMAC) - Tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
-- [Swift-Sodium ★232](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and OS X.
-- [SwiftSSL ★187 ⏳2Y](https://github.com/SwiftP2P/SwiftSSL) - Elegant crypto toolkit in Swift.
+- [SweetHMAC ★36 ⏳1Y](https://github.com/jancassio/SweetHMAC) - Tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
+- [Swift-Sodium ★245](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and OS X.
+- [SwiftSSL ★188 ⏳2Y](https://github.com/SwiftP2P/SwiftSSL) - Elegant crypto toolkit in Swift.
 - [SwiftThemis](https://github.com/cossacklabs/themis/wiki/Swift-Howto) - Swift wrapper on Themis for iOS and MacOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ## Resources

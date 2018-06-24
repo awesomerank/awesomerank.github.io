@@ -11,7 +11,7 @@ title: Awesome Rank for CodyReichert/awesome-cl
   <img src="http://i.imgur.com/jLVXhpc.png">
 </div>
 
-# Awesome Common Lisp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) [![Assertible status](https://assertible.com/apis/102e334d-f9a8-4565-9353-7572de775cae/status?api_token=8b55a286830323effb)](https://assertible.com/docs/guide/deployments)
+# Awesome Common Lisp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome) [![Assertible status](https://assertible.com/apis/102e334d-f9a8-4565-9353-7572de775cae/status?api_token=8b55a286830323effb)](https://assertible.com/docs/guide/deployments)
 
 A curated list of _awesome_ Common Lisp libraries.
 
@@ -541,7 +541,7 @@ Javascript
 * [JSCL ★444](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
 * [Wuwei](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT][200]. See also [this fork](https://github.com/fare-patches/wuwei) for [these improvements](https://github.com/mtravers/wuwei/pull/16).
-* [SmackJack ★9](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT][200].
+* [SmackJack ★9 ⏳1Y](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT][200].
 * [Panic ★22 ⏳1Y](https://github.com/michaeljforster/panic), a Parenscript library for React. Not in Quicklisp. [MIT][200]. Its [TodoMVC example](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
 
 Websockets
@@ -753,7 +753,7 @@ Unit Testing
 * [Parachute ★10](https://github.com/Shinmera/parachute) - An extensible
   and cross-compatible testing framework. With test dependencies,
   conditions, fixtures and restarts. [Artistic License 2.0][51].
-* [Mockingbird ★8](https://github.com/Chream/mockingbird) - A small
+* [Mockingbird ★8 ⏳1Y](https://github.com/Chream/mockingbird) - A small
   stubbing and mocking library for Common Lisp. Can also check wether
   a stubbed function was called, how many times and with which
   arguments. [MIT][200].
@@ -846,7 +846,7 @@ Linting
 Logging
 -------
 
-* [log4cl ★72](https://github.com/7max/log4cl) - Logging framework modelled after Log4J. [Apache2.0][89]. Advanced integration with Slime.
+* [log4cl ★16](https://github.com/sharplispers/log4cl) - Logging framework modelled after Log4J. [Apache2.0][89]. Advanced integration with Slime.
 
 To third parties:
 

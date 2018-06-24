@@ -7,7 +7,7 @@ title: Awesome Rank for rizo/awesome-ocaml
 	This list is a copy of <a href="https://github.com/rizo/awesome-ocaml">rizo/awesome-ocaml</a> with ranks
 </p>
 ---
-Awesome OCaml [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+Awesome OCaml [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 =============
 
 <img src="colour-logo.png" width="70%" />
@@ -116,7 +116,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
 - [pfff ★2226 ⏳1Y](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
-- [infer ★8429](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C
+- [infer ★8598](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C
 - [flow ★16682](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
 - [Ocamllint ★61](https://github.com/cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code
 - [BetterErrors](https://github.com/npm-ml/BetterErrors) - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
@@ -516,7 +516,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 
 * * *
 
-_Inspired by awesome projects line. Discover [more awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness) :sparkles:._
+_Inspired by awesome projects line. Discover [more awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness) :sparkles:._
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/rizo/awesome-ocaml">rizo/awesome-ocaml</a> with ranks

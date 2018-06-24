@@ -7,7 +7,7 @@ title: Awesome Rank for addyosmani/critical-path-css-tools
 	This list is a copy of <a href="https://github.com/addyosmani/critical-path-css-tools">addyosmani/critical-path-css-tools</a> with ranks
 </p>
 ---
-Critical-path (Above-the-fold) CSS Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+Critical-path (Above-the-fold) CSS Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 ==========================================
 
 > Tools to help prioritize above-the-fold CSS

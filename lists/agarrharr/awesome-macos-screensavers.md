@@ -7,11 +7,11 @@ title: Awesome Rank for agarrharr/awesome-macos-screensavers
 	This list is a copy of <a href="https://github.com/agarrharr/awesome-macos-screensavers">agarrharr/awesome-macos-screensavers</a> with ranks
 </p>
 ---
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome ★85445](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★87749](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -63,19 +63,19 @@ Inspired by the [awesome ★85445](https://github.com/sindresorhus/awesome) list
 
 > Unix Time (epoch) flip clock.
 
-[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/epochFlipClock.png) ★70](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver)
+[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/epochFlipClock.png) ★72](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver)
 
 ### Grid Clock
 
 > Twelve hour time in words.
 
-[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/gridClock.png) ★76](https://github.com/chrstphrknwtn/grid-clock-screensaver)
+[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/gridClock.png) ★84](https://github.com/chrstphrknwtn/grid-clock-screensaver)
 
 ### Word Clock
 
 > A super simple word clock, like your computer is typing the time for you.
 
-[![](screenshots/wordClock2.gif) ★6](https://github.com/chrstphrknwtn/word-clock-screensaver)
+[![](screenshots/wordClock2.gif) ★8](https://github.com/chrstphrknwtn/word-clock-screensaver)
 
 ## iOS (and Apple TV) Inspired
 
@@ -83,7 +83,7 @@ Inspired by the [awesome ★85445](https://github.com/sindresorhus/awesome) list
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/aerial.png) ★11088](https://github.com/JohnCoates/Aerial)
+[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/aerial.png) ★11282](https://github.com/JohnCoates/Aerial)
 
 ### Apple Watch
 
@@ -119,7 +119,7 @@ $0.99
 
 > The latest commits from GitHub visualized in a Matrix-style animation.
 
-[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/githubMatrix.png) ★212](https://github.com/winterbe/github-matrix-screensaver)
+[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/githubMatrix.png) ★222](https://github.com/winterbe/github-matrix-screensaver)
 
 ### StarWarsScroll
 
@@ -133,7 +133,7 @@ $0.99
 
 > Plays videos of people completing speed runs of games.
 
-[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/speedS@ver.png) ★83 ⏳5Y](https://github.com/orta/SpeedS-ver)
+[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/speedS@ver.png) ★103 ⏳5Y](https://github.com/orta/SpeedS-ver)
 
 ## Aquarium
 
@@ -149,7 +149,7 @@ $0.99
 
 > A macOS Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com) (unofficial).
 
-[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/developerExcuses.png) ★134](https://github.com/kimar/DeveloperExcuses)
+[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/developerExcuses.png) ★139](https://github.com/kimar/DeveloperExcuses)
 
 ### MacOS Kernel Panic
 
@@ -165,7 +165,7 @@ Free
 
 Free
 
-[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/kernelPanic.png) ★51](https://github.com/dessibelle/Blue-Screen-Saver)
+[![](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/screenshots/kernelPanic.png) ★59](https://github.com/dessibelle/Blue-Screen-Saver)
 
 ## Graphics
 

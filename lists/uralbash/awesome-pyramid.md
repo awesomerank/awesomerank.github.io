@@ -8,7 +8,7 @@ title: Awesome Rank for uralbash/awesome-pyramid
 </p>
 ---
 # Awesome Pyramid
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
@@ -68,7 +68,7 @@ based on [awesome-python ★50412](https://github.com/vinta/awesome-python).
   built on the resources and mechanism traversal, allows to use it in various cases.
     * [ps_alchemy ★6 ⏳1Y](https://github.com/sacrud/ps_alchemy) - extension for pyramid_sacrud
       which provides SQLAlchemy models.
-    * [ps_tree ★2 ⏳2Y](https://github.com/sacrud/ps_tree) - extension for
+    * [ps_tree ★2 ⏳3Y](https://github.com/sacrud/ps_tree) - extension for
       [pyramid_sacrud ★46 ⏳1Y](https://github.com/sacrud/pyramid_sacrud) which displays
       a list of records as tree. This works fine with models from
       [sqlalchemy_mptt ★116](https://github.com/uralbash/sqlalchemy_mptt).
@@ -334,7 +334,7 @@ provide new storage backends.*
 
 *Packages help with the task of translating projects.*
 
-* [lingua ★41](https://github.com/wichert/lingua) - Lingua is a package with tools
+* [lingua ★41 ⏳1Y](https://github.com/wichert/lingua) - Lingua is a package with tools
   to extract translatable texts from your code, and to check existing
   translations. It replaces the use of the xgettext command from gettext, or
   pybabel from Babel.
@@ -374,7 +374,7 @@ provide new storage backends.*
 * [tomb_routes ★1 ⏳3Y](https://github.com/sontek/tomb_routes) - Simple utility library
   around pyramid routing
 * [pyramid_extdirect ★11 ⏳2Y](https://github.com/jenner/pyramid_extdirect) - This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS. ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate. 
-* [pyramid_retry ★4](https://github.com/Pylons/pyramid_retry) - pyramid_retry is an execution policy for Pyramid that wraps requests and can retry them a configurable number of times under certain "retryable" error conditions before indicating a failure to the client.
+* [pyramid_retry ★4 ⏳1Y](https://github.com/Pylons/pyramid_retry) - pyramid_retry is an execution policy for Pyramid that wraps requests and can retry them a configurable number of times under certain "retryable" error conditions before indicating a failure to the client.
 
 # Projects
 

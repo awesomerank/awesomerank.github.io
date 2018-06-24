@@ -141,7 +141,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/stv
 
 ## Awesome!
 
-Check out more [awesome projects ★85445](https://github.com/sindresorhus/awesome).
+Check out more [awesome projects ★87749](https://github.com/sindresorhus/awesome).
 
 ## License
 

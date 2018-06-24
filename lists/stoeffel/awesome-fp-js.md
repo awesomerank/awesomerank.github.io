@@ -7,7 +7,7 @@ title: Awesome Rank for stoeffel/awesome-fp-js
 	This list is a copy of <a href="https://github.com/stoeffel/awesome-fp-js">stoeffel/awesome-fp-js</a> with ranks
 </p>
 ---
-# Awesome FP JS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome FP JS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 This is a curated list of awesome [functional programming](https://en.wikipedia.org/wiki/Functional_programming) code and learning resources for JavaScript. As a multi-paradigm programming language, JavaScript can be written in many styles. With these resources we want to help you to make better use of JavaScript’s support for writing programs in a _functional_ way.
 
@@ -31,7 +31,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 
 ## Libraries
 
-* [Ramda ★12102](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data.
+* [Ramda ★12750](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data.
 * [Ramda Adjunct ★179](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
 * [Ramda-extension ★45](https://github.com/tommmyy/ramda-extension) is set of utility point-free functions composed only from Ramda functions.
 * [Folktale](http://folktale.origamitower.com/) – A standard library for functional programming in JavaScript.
@@ -70,12 +70,12 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 Write performant functional code by using the right data structures for the task.
 
 * [Icepick ★342](https://github.com/aearly/icepick) Utilities for treating frozen JavaScript objects as persistent immutable collections
-* [Immutable.js ★23736](https://github.com/facebook/immutable-js) – Immutable persistent data collections.
+* [Immutable.js ★24085](https://github.com/facebook/immutable-js) – Immutable persistent data collections.
 * [Mori ★2946 ⏳1Y](https://github.com/swannodette/mori) – ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [Baobab ★2835](https://github.com/Yomguithereal/baobab) – persistent and optionally immutable data tree with cursors.
 * [immutable-sequence.js](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees ★39 ⏳1Y](https://github.com/qiao/fingertree.js).
 * [Timm](http://guigrpa.github.io/timm/) – Immutability helpers with fast reads and acceptable writes.
-* [Lazy.js ★4690](https://github.com/dtao/lazy.js) – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
+* [Lazy.js ★4983](https://github.com/dtao/lazy.js) – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
 * [DerivableJS ★478](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related.
 * [imlazy ★63](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
 * [collectable ★154](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications.
@@ -88,7 +88,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 * [Fantasy Land ★5514](https://github.com/fantasyland/fantasy-land) – Not a library, but a specification of the Monad laws for libraries to follow.
 * [Static Land ★444](https://github.com/rpominov/static-land) – Specification similar to Fantasy Land but based on static methods rather than instance methods.
-* [immutable-ext](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js ★23736](https://github.com/facebook/immutable-js).
+* [immutable-ext](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js ★24085](https://github.com/facebook/immutable-js).
 * [daggy](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
 * [Sanctuary](https://github.com/plaid/sanctuary) – Sanctuary makes it possible to write safe code without null checks.
 * [monet.js](http://cwmyers.github.io/monet.js/) – A library that assists functional programming by providing a rich set of Monads and other useful functions.

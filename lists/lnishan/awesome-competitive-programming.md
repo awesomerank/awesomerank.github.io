@@ -7,7 +7,7 @@ title: Awesome Rank for lnishan/awesome-competitive-programming
 	This list is a copy of <a href="https://github.com/lnishan/awesome-competitive-programming">lnishan/awesome-competitive-programming</a> with ranks
 </p>
 ---
-# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Structure` resources.
 
@@ -400,8 +400,8 @@ Learn helpful tips, tutorials and insights from these people :)
 | Algorithms | [tayllan/awesome-algorithms ★4734](https://github.com/tayllan/awesome-algorithms) |
 | Algorithm Visualization | [enjalot/algovis ★866 ⏳1Y](https://github.com/enjalot/algovis) |
 | Math | [rossant/awesome-math ★1591](https://github.com/rossant/awesome-math) |
-| C++ | [fffaraz/awesome-cpp ★13465](https://github.com/fffaraz/awesome-cpp) |
-| Java | [akullpp/awesome-java ★16771](https://github.com/akullpp/awesome-java) |
+| C++ | [fffaraz/awesome-cpp ★13988](https://github.com/fffaraz/awesome-cpp) |
+| Java | [akullpp/awesome-java ★17071](https://github.com/akullpp/awesome-java) |
 | Courses | [prakhar1989/awesome-courses ★24494](https://github.com/prakhar1989/awesome-courses) |
 | Free Programming Books | [vhf/free-programming-books ★106196](https://github.com/EbookFoundation/free-programming-books) |
 | Community-curated C++ Resources | [Hackr.io](https://hackr.io/tutorials/learn-c-plus-plus) |

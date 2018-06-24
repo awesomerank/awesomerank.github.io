@@ -7,7 +7,7 @@ title: Awesome Rank for sfischer13/awesome-eta
 	This list is a copy of <a href="https://github.com/sfischer13/awesome-eta">sfischer13/awesome-eta</a> with ranks
 </p>
 ---
-# Awesome Eta [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Eta [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > Useful resources for the [Eta](https://eta-lang.org/) programming language
 

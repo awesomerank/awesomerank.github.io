@@ -7,7 +7,7 @@ title: Awesome Rank for friendsofcake/awesome-cakephp
 	This list is a copy of <a href="https://github.com/friendsofcake/awesome-cakephp">friendsofcake/awesome-cakephp</a> with ranks
 </p>
 ---
-# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome **CakePHP 3.x** plugins, resources and shiny things.
 
 If you are looking for CakePHP 2.x resources please visit:
@@ -17,7 +17,7 @@ If you are looking for CakePHP 2.x resources please visit:
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
 - [Awesome PHP ★18804](https://github.com/ziadoz/awesome-php)
-- [Awesome Awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness)
+- [Awesome Awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular

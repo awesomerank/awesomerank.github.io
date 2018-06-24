@@ -9,7 +9,7 @@ title: Awesome Rank for Kickball/awesome-selfhosted
 ---
 # Awesome-Selfhosted
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 
@@ -128,7 +128,7 @@ _Web Analytics_
 _Business Intelligence_
 
 - [Metabase](http://www.metabase.com/) - Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code ★10007](https://github.com/metabase/metabase)) `AGPL-3.0` `Clojure`
-- [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code ★9203](https://github.com/getredash/redash)) `BSD-2-Clause` `Python`
+- [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code ★9404](https://github.com/getredash/redash)) `BSD-2-Clause` `Python`
 - [Superset](http://superset.apache.org/) - Modern, enterprise-ready business intelligence web application. ([Source Code ★19463](https://github.com/apache/incubator-superset)) `Apache-2.0` `Python`
 
 ## Archiving and Digital Preservation (DP)
@@ -191,8 +191,8 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 - [Chyrp Lite](http://chyrplite.net) - Extra-awesome, extra-lightweight blog engine. ([Source Code ★62](https://github.com/xenocrat/chyrp-lite)) `BSD-3-Clause` `PHP`
 - [Dotclear](http://dotclear.org/) - Take control over your blog. ([Source Code](https://hg.dotclear.org/dotclear)) `GPL-2.0` `PHP`
 - [Formtools](https://formtools.org/) - Powerful, flexible, free and open source PHP/MySQL script to manage your forms and data. ([Source Code](https://github.com/formtools)) `GPL-2.0` `PHP`
-- [Ghost](https://ghost.org/) - Just a blogging platform. ([Source Code ★25767](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
-- [Hexo](https://hexo.io/) - Fast, simple and powerful blog framework, powered by Node.js. ([Source Code ★22169](https://github.com/hexojs/hexo)) `MIT` `Nodejs`
+- [Ghost](https://ghost.org/) - Just a blogging platform. ([Source Code ★25956](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
+- [Hexo](https://hexo.io/) - Fast, simple and powerful blog framework, powered by Node.js. ([Source Code ★22551](https://github.com/hexojs/hexo)) `MIT` `Nodejs`
 - [Hotglue](https://hotglue.me/) - Freehand CMS which allows to construct websites directly in a web-browser. It uses flat files for storage and provides an intuitive GUI. ([Demo](https://hotglue.me/demo/), [Source Code ★81](https://github.com/k0a1a/hotglue2)) `GPL-3.0` `PHP`
 - [htmly](https://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog). ([Demo](https://www.htmly.com/demo/), [Source Code ★574](https://github.com/danpros/htmly)) `GPL-2.0` `PHP`
 - [Known](https://withknown.com/) - Single website for all your content. ([Source Code](https://github.com/idno/idno)) `Apache-2.0` `PHP`
@@ -260,7 +260,7 @@ _CalDAV or CardDAV clients._
 - [Centrifugo](https://github.com/centrifugal/centrifugo) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo ★2691](https://github.com/centrifugal/centrifugo#demo)) `MIT` `Go`
 - [Cherry ★160 ⏳1Y](https://github.com/rafael-santiago/cherry) - Tiny webchat server. `GPL-2.0` `Go`
 - [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums. ([Source Code ★417](https://github.com/freenet/fred)) `GPL-2.0` `Java`
-- [Friends](http://moose-team.github.io/friends/) - P2P chat powered by the web. ([Source Code ★2909](https://github.com/moose-team/friends)) `MIT` `Nodejs`
+- [Friends](http://moose-team.github.io/friends/) - P2P chat powered by the web. ([Source Code ★2922](https://github.com/moose-team/friends)) `MIT` `Nodejs`
 - [GNUnet](https://gnunet.org/) - Free software framework for decentralized, peer-to-peer networking. ([Source Code](https://gnunet.org/git/)) `GPL-3.0` `C`
 - [Hawkpost](https://hawkpost.co) - HawkPost is a web app that lets you create unique links that you can share with a person that desires to send you important information but doesn't know how to encrypt it. The message is encrypted in their browser and sent to your email address. ([Source Code ★755](https://github.com/whitesmith/hawkpost)) `MIT` `Python`
 - [Hubl.in](https://hubl.in/) - WebRTC powered video conference, chat and collaborative editor. ([Source Code ★1432](https://github.com/linagora/hublin)) `AGPL-3.0` `Nodejs`
@@ -285,7 +285,7 @@ _CalDAV or CardDAV clients._
 - [Spreed](https://www.spreed.me/) - WebRTC audio/video calls, conferencing server, and web client. ([Source Code ★706](https://github.com/strukturag/spreed-webrtc)) `AGPL-3.0` `Go`
 - [Synapse](http://matrix.org/docs/projects/server/synapse.html) - Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code ★3006](https://github.com/matrix-org/synapse)) `Apache-2.0` `Python`
   - [Matrix Console Web](http://matrix.org/docs/projects/client/matrix-console.html) - Web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard. ([Source Code ★24 ⏳1Y](https://github.com/matrix-org/matrix-angular-sdk)) `Apache-2.0` `Javascript`
-  - [RIOT](http://riot.im) - Glossy Matrix web client with an emphasis on performance and usability. ([Source Code ★1898](https://github.com/vector-im/riot-web)) `Apache-2.0` `Javascript`
+  - [RIOT](http://riot.im) - Glossy Matrix web client with an emphasis on performance and usability. ([Source Code ★1943](https://github.com/vector-im/riot-web)) `Apache-2.0` `Javascript`
 - [Syndie](https://www.syndie.de) - Syndie is a libre system for operating distributed forums. `CC0-1.0` `Java`
 - [TextBelt ★1560](https://github.com/typpo/textbelt) `⚠` - Outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. `MIT` `Javascript`
 - [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video chat capabilities. ([Source Code ★8389](https://github.com/irungentoo/toxcore)) `GPL-3.0` `C`
@@ -387,6 +387,7 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony soft
 - [Homer](https://www.sipcapture.org/) - Troubleshooting and monitoring VoIP calls. ([Source Code ★337](https://github.com/sipcapture/homer)) `AGPL-3.0` `Angular/C`
 - [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc). ([Source Code ★688](https://github.com/kamailio/kamailio)) `GPL-2.0` `C`
 - [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption. `GPL-3.0` `Ruby`
+- [Tapir](http://www.sip3.io/) - Troubleshooting and real-time monitoring of VoIP-based systems. ([Source Code ★30](https://github.com/sip3io/tapir)) `Apache-2.0` `Java/Kotlin`
 
 ### IPBX
 
@@ -426,7 +427,7 @@ _[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
 - [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([Source Code ★13657](https://github.com/tootsuite/mastodon)) `AGPL-3.0` `Ruby`
 - [MyBB](http://www.mybb.com/) - Free, extensible forum software package. ([Source Code ★482](https://github.com/mybb/mybb)) `LGPL-3.0` `PHP`
 - [Newebe](http://newebe.org/) - Distributed Social Network. ([Source Code ★104 ⏳1Y](https://github.com/gelnior/newebe)) `AGPL-3.0` `Python`
-- [NodeBB](https://nodebb.org/) - Node.js based forum software built for the modern web. ([Source Code ★8734](https://github.com/NodeBB/NodeBB)) `GPL-3.0` `Nodejs`
+- [NodeBB](https://nodebb.org/) - Node.js based forum software built for the modern web. ([Source Code ★8837](https://github.com/NodeBB/NodeBB)) `GPL-3.0` `Nodejs`
 - [Pleroma](https://pleroma.social) - Federated microblogging server, Mastodon, GNU social, & ActivityPub compatible.([Source Code](https://git.pleroma.social/pleroma/pleroma)) `AGPL-3.0` `Elixir`
 - [orangeforum](http://www.goodoldweb.com/) - Orange Forum is an easy to deploy forum that has minimal dependencies and uses very little javascript. ([Demo](https://groups.goodoldweb.com/), [Source Code ★349](https://github.com/s-gv/orangeforum)) `BSD-3-Clause` `Go`
 - [OSSN](https://www.opensource-socialnetwork.org/) - Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. ([Source Code ★318](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `GPL-2.0` `PHP`
@@ -613,7 +614,6 @@ See https://github.com/n1trux/awesome-sysadmin#identity-management
 **[`^        back to top        ^`](#)**
 
 - [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Source Code ★1539](https://github.com/Athou/commafeed)) `Apache-2.0` `Java`
-- [Creaky Coot](http://bugs.derivoile.fr/Creaky-Coot/dashboard) - Minimalist and responsive RSS reader and links saver. ([Source Code ★8 ⏳4Y](https://github.com/piero-la-lune/Creaky-Coot)) `MIT` `PHP`
 - [Feedbin](https://feedbin.com/) - Simple, fast and nice looking RSS reader. ([Source Code ★2026](https://github.com/feedbin/feedbin)) `MIT` `Ruby`
 - [FeedHQ](https://feedhq.org/) - FeedHQ is a web-based feed reader. ([Source Code ★432](https://github.com/feedhq/feedhq)) `BSD-3-Clause` `Python`
 - [FreshRSS](http://freshrss.org/) - Self-hostable RSS feed aggregator. ([Demo](http://demo.freshrss.org/i/), [Source Code](https://github.com/FreshRSS/FreshRSS), [Mobile app ★49](https://github.com/Alkarex/EasyRSS)) `AGPL-3.0` `PHP`
@@ -621,7 +621,7 @@ See https://github.com/n1trux/awesome-sysadmin#identity-management
 - [Kriss Feed](http://tontof.net/kriss/feed/) - Simple and smart (or stupid) feed reader. ([Demo](http://tontof.net/feed/), [Source Code ★235](https://github.com/tontof/kriss_feed)) `CC0-1.0` `PHP`
 - [Leed](http://leed.idleman.fr) - Leed (for Light Feed) is a Free and minimalist RSS aggregator. ([Source Code](https://github.com/ldleman/Leed)) `AGPL-3.0` `PHP`
 - [Leselys](https://github.com/socketubs/leselys) - Your very elegant RSS reader. `AGPL-3.0` `Python`
-- [Lite-Reader](http://cubny.com/lite-reader/) - Read your feeds on your own machine with a simple and lite application. ([Source Code ★17](https://github.com/cubny/lite-reader)) `BSD-3-Clause` `PHP`
+- [Lite-Reader ★17](https://github.com/cubny/lite-reader) - Read your feeds on your own machine with a simple and lite application. ([Demo](http://cubny.com/lite-reader/)) `BSD-3-Clause` `PHP`
 - [Moonmoon](http://moonmoon.org/) - simple feed agregator (planet like): it only aggregates feeds and spits them out in one single page. ([Source Code](https://github.com/mauricesvay/moonmoon)) `BSD` `PHP`
 - [Miniflux](https://miniflux.net/) - Miniflux 2 is a minimalist and open source news reader, written in Go and PostgreSQL. ([Source Code ★508](https://github.com/miniflux/miniflux)) `Apache-2.0` `Go`
 - [RSSPBRRY](http://jasoncomely.com/rss-tastemaker/) - Fresh new RSS feed reader. ([Source Code](https://github.com/rsspbrry/rsspbrry)) `AGPL-3.0` `PHP`
@@ -632,14 +632,14 @@ See https://github.com/n1trux/awesome-sysadmin#identity-management
 - [RSS Monster ★207](https://github.com/pietheinstrengholt/rssmonster) - RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader. `MIT` `PHP`
 - [Screaming Liquid Tiger ★107](https://github.com/herrbischoff/screaming-liquid-tiger) - Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder. `MIT` `PHP`
 - [Selfoss](http://selfoss.aditu.de/) - New multipurpose rss reader, live stream, mashup, aggregation web application. ([Source Code ★1581](https://github.com/SSilence/selfoss)) `AGPL-3.0` `PHP`
-- [Sismics Reader ★277](https://github.com/sismics/reader) - Free and open source feeds reader, including all major Google Reader features. `GPL-2.0` `Java`
+- [Sismics Reader](http://sismics.com/reader/) - Free and open source feeds reader, including all major Google Reader features. ([Demo](https://www.sismics.com/reader/#!/demo), [Source Code ★277](https://github.com/sismics/reader)) `GPL-2.0` `Java`
 - [Stringer ★2862](https://github.com/swanson/stringer) - Work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
 - [Temboz ★12](https://github.com/fazalmajid/temboz) - Two-column feed reader emphasizing filtering capabilities to manage information overload. `MIT` `Python`
 - [Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://framanews.org/)) `GPL-3.0` `PHP`
   - [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS. ([Source Code ★38 ⏳1Y](https://github.com/nhoening/gritttt-rss)) `BSD-2-Clause` `Python`
   - [ttrss-mobile ★181 ⏳2Y](https://github.com/mboinet/ttrss-mobile) - Mobile webapp for Tiny Tiny RSS. `AGPL-3.0` `Javascript`
   - [ttrss-reader ★31](https://github.com/kucrut/ttrss-reader) - Light and responsive client for TTRSS. `GPL-2.0` `Javascript`
-- [Winds ★5334](https://github.com/GetStream/Winds) `⚠` - Open source and beautiful RSS reader built using React/Redux/Sails/Node and Stream. It showcases personalized feeds powered by the Stream API. ([Demo](https://winds.getstream.io/)) `BSD-3-Clause` `Nodejs`
+- [Winds](https://getstream.io/winds/) `⚠` - Open source and beautiful RSS reader built using React/Redux/Sails/Node and Stream. It showcases personalized feeds powered by the Stream API. ([Demo](https://winds.getstream.io/), [Source Code ★5334](https://github.com/GetStream/Winds)) `BSD-3-Clause` `Nodejs`
 
 ## File Sharing and Synchronization
 
@@ -659,7 +659,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 - [Kinto](https://kinto.readthedocs.org) - Kinto is a minimalist JSON storage service with synchronisation and sharing abilities. ([Source Code](https://github.com/Kinto)) `Apache-2.0` `Python`
 - [Nextcloud](https://nextcloud.com/) - Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. ([Demo](https://demo.nextcloud.com/), [Source Code ★4536](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP`
 - [OpenSSH/SFTP](http://www.openssh.com/) - Secure File Transfer Program. ([Source Code](http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh)) `BSD` `C`
-- [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code ★6042](https://github.com/owncloud/core)) `AGPL-3.0` `PHP`
+- [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code ★6042](https://github.com/owncloud/core), [Clients](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP`
 - [Pydio](https://pydio.com/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers. ([Source Code ★802](https://github.com/pydio/pydio-core)) `AGPL-3.0` `PHP`
 - [Samba](https://www.samba.org/) - Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. ([Source Code](https://git.samba.org/samba.git/)) `GPL-3.0` `C`
 - [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Demo](https://seacloud.cc/demo), [Source Code ★5921](https://github.com/haiwen/seafile)) `GPL-2.0` `C`
@@ -683,11 +683,11 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 - [qBittorrent](https://www.qbittorrent.org/) - Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code ★4471](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`
 - [rartracker ★143 ⏳1Y](https://github.com/swetorrentking/rartracker) - Complete private bittorrent tracker. `WTFPL` `PHP`
 - [Reep](https://reep.io) - In-browser peer-to-peer file transfer and streaming made easy. ([Source Code ★557](https://github.com/KodeKraftwerk/reepio)) `GPL-2.0` `Nodejs`
-- [Transmission](https://transmissionbt.com/) - Fast, easy, Free Bittorrent client. ([Source Code ★1898](https://github.com/transmission/transmission)) `GPL-3.0` `C`
+- [Transmission](https://transmissionbt.com/) - Fast, easy, Free Bittorrent client. ([Source Code ★1963](https://github.com/transmission/transmission)) `GPL-3.0` `C`
 
 #### Object storage/file servers
 
-- [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code ★11472](https://github.com/minio/minio)) `Apache-2.0` `Go`
+- [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code ★11833](https://github.com/minio/minio)) `Apache-2.0` `Go`
 - [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source Node.js implementation of a server handling the Amazon S3 protocol. ([Source Code ★704](https://github.com/scality/S3)) `Apache-2.0` `Nodejs`
 
 #### Single-click/drag-n-drop upload
@@ -841,7 +841,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 ### Audio Streaming
 
 - [Ampache](http://ampache.org/) - Web based audio/video streaming application. ([Demo](http://play.dogmazic.net/), [Source Code ★1894](https://github.com/ampache/ampache)) `AGPL-3.0` `PHP`
-- [Beets](http://beets.io/) - Music library manager and MusicBrainz tagger (command-line and Web interface). ([Source code ★7926](https://github.com/beetbox/beets)) `MIT` `Python`
+- [Beets](http://beets.io/) - Music library manager and MusicBrainz tagger (command-line and Web interface). ([Source code ★8150](https://github.com/beetbox/beets)) `MIT` `Python`
 - [CherryMusic](http://www.fomori.org/cherrymusic/) - Minimalistic Web-Mediaplayer. ([Source Code ★944](https://github.com/devsnd/cherrymusic)) `GPL-3.0` `Python`
 - [cloudtunes](https://github.com/jkbrzt/cloudtunes) `⚠` - Web-based music player for the cloud. `MIT` `Python`
 - [Compactd ★39](https://github.com/compactd/compactd) - Remote music player that supports adding content. `MIT` `Nodejs`
@@ -927,7 +927,7 @@ See also https://github.com/n1trux/awesome-sysadmin#it-asset-management
 - [Benedetto ★286 ⏳2Y](https://github.com/arecker/bennedetto) - Bennedetto is a simple, turn-based budget management app. `GPL-3.0` `Python`
 - [Budget App](https://www.budgetapp.io/) - Budget App is an open source personal budgeting application. ([Demo](https://demo.budgetapp.io/), [Source Code ★196](https://github.com/paukiatwee/budgetapp)) `Apache-2.0` `Java`
 - [Dot Ledger](https://www.dotledger.com/) - Web-based personal finance management tool. ([Demo](https://demo.dotledger.com/), [Source Code ★154](https://github.com/dotledger/dotledger)) `Apache-2.0` `Ruby`
-- [Economizzer](http://www.economizzer.org/) - Economizzer is a simple and open source personal finance manager system, available in English, Portuguese (PT|BR) and Russian. ([Source Code ★258](https://github.com/gugoan/economizzer)) `MIT` `PHP`
+- [Economizzer](http://www.economizzer.org/) - An easy and secure system for you to manage your personal money and achieve your goals, and can be accessed by computer, tablet or smartphone. ([Demo](https://github.com/gugoan/economizzer#live-demo), [Source Code ★258](https://github.com/gugoan/economizzer)) `MIT` `PHP`
 - [ExMoney ★90](https://github.com/gaynetdinov/ex_money) - Self-hosted personal finance app. `ISC` `Elixir`
 - [Firefly III](https://firefly-iii.org/) - Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, shared household accounts, and savings accounts. It's powered by Laravel and requires PHP7.1. ([Demo](https://demo.firefly-iii.org/), [Source Code ★934](https://github.com/firefly-iii/firefly-iii)) `GPL-3.0` `PHP`
 - [Galette](http://galette.eu/dc/) - Galette is a membership management web application towards non profit organizations. ([Source Code](http://git.tuxfamily.org/galette/galette.git/)) `GPL-3.0` `PHP`
@@ -936,7 +936,7 @@ See also https://github.com/n1trux/awesome-sysadmin#it-asset-management
 - [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code ★164](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
 - [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code ★3587](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`
 - [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. ([Demo](https://demo.invoiceplane.com), [Source Code ★1161](https://github.com/InvoicePlane/InvoicePlane)) `MIT` `PHP`
-- [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. ([Source Code ★170](https://github.com/spiral-project/ihatemoney)) `BSD` `Python`
+- [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code ★170](https://github.com/spiral-project/ihatemoney)) `BSD` `Python`
 - [PartKeepr](https://www.partkeepr.org) - PartKeepr is an electronic part inventory management software. It helps you to keep track of your available parts and assist you with re-ordering parts. ([Demo](https://demo.partkeepr.org/), [Source Code ★433](https://github.com/partkeepr/PartKeepr)) `GPL-3.0` `PHP`
 - [SilverStrike](https://silverstrike.tk/) - Personal finance management made easy. ([Demo](https://demo.silverstrike.tk/), [Source Code ★53](https://github.com/agstrike/silverstrike)) `MIT` `Python/Django`
 - [StockazNG](https://dev.sigpipe.me/dashie/StockazNG) - Asset Management System. `MIT` `Python`
@@ -954,7 +954,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 *See also [Wikis](#wikis)*
 
 - [BulletNotes](https://bulletnotes.io/) - Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality. Organize everything. ([Source Code ★51](https://github.com/NickBusey/BulletNotes)) `MIT` `Nodejs`
-- [Boostnote](https://boostnote.io/) - The note-taking app for programmers that focuses on markdown, snippets, and customizability. ([Source Code ★7876](https://github.com/BoostIO/Boostnote)) `GPL-3.0` `JavaScript`
+- [Boostnote](https://boostnote.io/) - The note-taking app for programmers that focuses on markdown, snippets, and customizability. ([Source Code ★8212](https://github.com/BoostIO/Boostnote)) `GPL-3.0` `JavaScript`
 - [dillinger](http://dillinger.io/) - The last Markdown editor, ever. ([Source Code ★5965](https://github.com/joemccann/dillinger)) `MIT` `Nodejs`
 - [draw.io](https://draw.io) - Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Source Code ★6084](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript`
 - [HackMD](https://www.hackmd.io) - Realtime collaborative markdown notes on all platforms. ([Source Code ★3694](https://github.com/hackmdio/hackmd)) `AGPL-3.0` `Node.js`
@@ -991,7 +991,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 **[`^        back to top        ^`](#)**
 
 - [Bitwarden](https://bitwarden.com/) - Password manager with webapp, browser extension, and mobile app. ([Source Code ★1502](https://github.com/bitwarden/core)) `AGPL-3.0` `C#`
-- [keeweb](https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source Code ★6390](https://github.com/keeweb/keeweb)) `MIT` `HTML5`
+- [keeweb](https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source Code ★6460](https://github.com/keeweb/keeweb)) `MIT` `HTML5`
 - [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code ★894](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`
 - [sysPass](http://www.syspass.org/) - Multiuser password management system. ([Demo](http://demo.syspass.org/), [Source Code ★341](https://github.com/nuxsmin/sysPass)) `GPL-3.0` `PHP`
 - [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source Code ★829](https://github.com/nilsteampassnet/TeamPass)) `GPL-3.0` `PHP`
@@ -1340,7 +1340,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
 - [1Backend](https://1backend.com) - Self-host web apps, microservices and lambdas on your server. Advanced features enable service reuse and composition. ([Source Code ★1690](https://github.com/1backend/1backend)) `AGPL-3.0` `Go`
 - [Cloudron](https://cloudron.io) - Effortlessly self-host web apps on your server. ([Source Code](https://git.cloudron.io/groups/cloudron)) `AGPL-3.0` `Nodejs/Docker`
-- [DietPi](http://dietpi.com/) - Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home. ([Source Code ★855](https://github.com/Fourdee/DietPi)) `GPL-2.0` `Shell`
+- [DietPi](http://dietpi.com/) - Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home. ([Source Code ★895](https://github.com/Fourdee/DietPi)) `GPL-2.0` `Shell`
 - [DPlatform](https://dfabric.github.io/DPlatform-ShellCore/) - Deploy self-hosted apps easily: simple, bloat-free, independent installation. ([Source Code](https://github.com/j8r/DPlatform)) `MIT` `Shell`
 - [FreedomBone](https://freedombone.net/) - Home server configuration based on Debian. ([Source Code](https://github.com/bashrc/freedombone)) `AGPL-3.0` `Shell`
 - [FreedomBox](https://wiki.debian.org/FreedomBox) - Community project to develop, design and promote personal servers running free software for private, personal, communications. `GPL-3.0` `Python/Other`
@@ -1411,6 +1411,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 **[`^        back to top        ^`](#)**
 
 - [Awesome Big Data ★6212](https://github.com/onurakpolat/awesome-bigdata) - Curated list of awesome big data frameworks, resources and other awesomeness.
+- [Awesome Public Datasets ★25868](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
 - [Awesome Sysadmin ★6727](https://github.com/n1trux/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 - Lists of software aimed at privacy and decentralization in some form: [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/), [Libre Projects](http://libreprojects.net/)
 - Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)

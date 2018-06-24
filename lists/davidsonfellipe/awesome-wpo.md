@@ -7,7 +7,7 @@ title: Awesome Rank for davidsonfellipe/awesome-wpo
 	This list is a copy of <a href="https://github.com/davidsonfellipe/awesome-wpo">davidsonfellipe/awesome-wpo</a> with ranks
 </p>
 ---
-# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 [![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors)
 [![MIT license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://davidsonfellipe.mit-license.org/)
 
@@ -164,7 +164,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [JSPerf](http://jsperf.com/) - jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
 * [Benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 * [JSlitmus ★167 ⏳7Y](https://github.com/broofa/jslitmus) - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.
-* [Matcha ★478](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
+* [Matcha ★484](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
 * [Timing.js ★1383](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
 * [Stats.js ★5035](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance.
 * [PerfTests ★1 ⏳3Y](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
@@ -229,9 +229,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-smushit ★90 ⏳2Y](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
 * [Gulp-smushit ★26](https://github.com/heldr/gulp-smushit) - Gulp plugin to optimize PNG and JPG using Yahoo Smushit. Made on top of smosh.
 * [Smush.it](http://www.smushit.com/ysmush.it/) - Smush.it uses optimization techniques specific to image format to remove unnecessary bytes from image files. It is a "lossless" tool, which means it optimizes the images without changing their look or visual quality.
-* [Imagemin ★2165](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
-* [Sharp ★8308](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
-* [Gm ★4974](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
+* [Imagemin ★2211](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
+* [Sharp ★8623](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
+* [Gm ★5045](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
 * [Exexif ★8063](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
 * [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.
 * [Grunt-contrib-imagemin ★1205](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
@@ -304,19 +304,19 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [HTML_press ★36 ⏳2Y](https://github.com/stereobooster/html_press) - Ruby gem for compressing html, that removes all whitespace junk, and leaves only HTML.
 * [Koa HTML Minifier ★22](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
 * [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator).
-* [Minimize ★139](https://github.com/Swaagie/minimize) - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usuable server side. Client side minification will be added in a future release.
+* [Minimize ★140](https://github.com/Swaagie/minimize) - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usuable server side. Client side minification will be added in a future release.
 * [Html-minifier ★101](https://github.com/deanhume/html-minifier) - A simple Windows command line tool to minify your HTML, Razor views & Web Forms views
 
 
 ## Minifiers - JS & CSS
 
 * [YUI Compressor ★2610](https://github.com/yui/yuicompressor) - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%.
-* [UglifyJS2 ★8648](https://github.com/mishoo/UglifyJS2) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit,  written in JavaScript.
+* [UglifyJS2 ★8783](https://github.com/mishoo/UglifyJS2) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit,  written in JavaScript.
 * [CSSO ★2670](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
 * [CSSmin.js](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) - cssmin.js is a JavaScript port of YUICompressor's CSS minifier.
 * [Grunt-contrib-concat ★819](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 * [Grunt-contrib-uglify ★1436](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify Javascript files.
-* [Clean-css ★2921](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
+* [Clean-css ★2934](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
 * [Django-compressor ★2036](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 * [Django-pipeline](https://github.com/cyberdelia/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
 * [JShrink ★531](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
@@ -421,8 +421,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 # Other Awesome Lists
 
-* [bayandin/awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness).
-* [sindresorhus/awesome ★85445](https://github.com/sindresorhus/awesome).
+* [bayandin/awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness).
+* [sindresorhus/awesome ★87749](https://github.com/sindresorhus/awesome).
 
 
 # Contributing

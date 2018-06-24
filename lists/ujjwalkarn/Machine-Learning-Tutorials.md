@@ -7,9 +7,9 @@ title: Awesome Rank for ujjwalkarn/Machine-Learning-Tutorials
 	This list is a copy of <a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">ujjwalkarn/Machine-Learning-Tutorials</a> with ranks
 </p>
 ---
-# Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
-- This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list ★85445](https://github.com/sindresorhus/awesome).
+- This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list ★87749](https://github.com/sindresorhus/awesome).
 
 - If you want to contribute to this list, please read [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md).
 
@@ -273,7 +273,7 @@ title: Awesome Rank for ujjwalkarn/Machine-Learning-Tutorials
 - [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf),
 [Source](http://www.wzchen.com/probability-cheatsheet/)
 
-- [Machine Learning Cheat Sheet ★2210](https://github.com/soulmachine/machine-learning-cheat-sheet)
+- [Machine Learning Cheat Sheet ★2210 ⏳1Y](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 <a name="classification" />
 

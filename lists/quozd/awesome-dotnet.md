@@ -9,7 +9,7 @@ title: Awesome Rank for quozd/awesome-dotnet
 ---
 # Awesome .NET!
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome) 
 [![Build Status](https://api.travis-ci.org/quozd/awesome-dotnet.svg)](https://travis-ci.org/quozd/awesome-dotnet)
 [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quozd/awesome-dotnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -452,7 +452,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Git Tools
 
 * [Bonobo Git Server ★1294](https://github.com/jakubgarfield/Bonobo-Git-Server) - Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your Git repositories. https://bonobogitserver.com/
-* [GitExtensions ★2826](https://github.com/gitextensions/gitextensions) - GitExtensions is a shell extension, a Visual Studio 2008/2010/2012/2013 plugin and a standalone Git repository tool. http://gitextensions.github.io/
+* [GitExtensions ★2884](https://github.com/gitextensions/gitextensions) - GitExtensions is a shell extension, a Visual Studio 2008/2010/2012/2013 plugin and a standalone Git repository tool. http://gitextensions.github.io/
 * [GitLink ★434](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
 * [GitVersion ★945](https://github.com/GitTools/GitVersion) - Generate a Semantic Version Number based on the state of your Git repository
 * [LibGit2Sharp ★1466](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .NET and Mono.
@@ -473,7 +473,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## GUI
 
-* [QtSharp ★427](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
+* [QtSharp ★428](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 * [MahApps.Metro ★4802](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro-styled WPF apps
 * [Callisto ★347 ⏳3Y](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
 * [ObjectListView](http://objectlistview.sourceforge.net/cs/index.html) - ObjectListView is a C# wrapper around a .NET ListView. It makes the ListView much easier to use and teaches it some new tricks
@@ -516,7 +516,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [EasyHttp ★620](https://github.com/EasyHttp/EasyHttp) - HTTP library for C#
 * [Refit ★2496](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
 * [RestEase ★318](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
-* [RestLess ★48](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+* [RestLess ★55](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [HttpClientGoodies ★27](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 
 ## IDE
@@ -815,7 +815,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## SDK and API Clients
 
-* [AWS SDK ★884](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
+* [AWS SDK ★903](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
 * [Azure PowerShell ★1027](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 * [Countly SDK for Windows ★15](https://github.com/Countly/countly-sdk-windows) - Windows SDK for Countly analytics and marketing platform for product and marketing managers
 * [Octokit.NET ★1472](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
@@ -860,7 +860,7 @@ metadata in media files, including video, audio, and photo formats
 ## Static Site Generators
 * [FsBlog ★110](https://github.com/fsprojects/FsBlog) - Blog aware, static site generation using F#
 * [Pretzel ★552](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
-* [Sandra.Snow ★229 ⏳2Y](https://github.com/Sandra/Sandra.Snow) - Jekyll-inspired static site generation for .NET
+* [Sandra.Snow ★229 ⏳3Y](https://github.com/Sandra/Sandra.Snow) - Jekyll-inspired static site generation for .NET
 * [Wyam](https://wyam.io/) - A simple to use, highly modular, and extremely configurable static content generator
 
 ## Style Guide
@@ -907,7 +907,7 @@ metadata in media files, including video, audio, and photo formats
 * [Fiddler](https://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform
 * [Open Live Writer ★2128](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog. For more information see http://openlivewriter.org .
 * [CodeHub ★15476](https://github.com/CodeHubApp/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
-* [ShareX ★7880](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+* [ShareX ★8055](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 * [Myrtille ★407](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 * [Opserver ★3418](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
 * [CatLight](https://catlight.io) - Build status notifications for TFS/Jenkins/Travis/Appveyor. Cross-platform desktop app based on .NET Core and Electron. **[Free][Proprietary]**
@@ -995,7 +995,7 @@ metadata in media files, including video, audio, and photo formats
 * [Awesome .NET Performance ★932](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 * [awesome-ddd ★2831](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 * [Awesome Unity ★2036](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
-* [Awesome Xamarin ★841](https://github.com/benoitjadinon/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
+* [Awesome Xamarin ★873](https://github.com/benoitjadinon/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 * [Awesome Roslyn ★102](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
 # Resources

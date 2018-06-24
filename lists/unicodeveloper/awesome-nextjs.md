@@ -7,13 +7,13 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 	This list is a copy of <a href="https://github.com/unicodeveloper/awesome-nextjs">unicodeveloper/awesome-nextjs</a> with ranks
 </p>
 ---
-# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
+# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-[<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250"> ★25523](https://github.com/zeit/next.js)
+[<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250"> ★26529](https://github.com/zeit/next.js)
 
 > Curated list of resources: books, videos, articles about using Next.js.
 
-[Next.js ★25523](https://github.com/zeit/next.js) is a minimalistic framework for server-rendered React applications.
+[Next.js ★26529](https://github.com/zeit/next.js) is a minimalistic framework for server-rendered React applications.
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd ★253](https://github.com/unicodeveloper/awesome-tdd).*
 
@@ -29,7 +29,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 
 ## Community
 * [Slack](https://zeit.chat)
-* [GitHub ★25523](https://github.com/zeit/next.js)
+* [GitHub ★26529](https://github.com/zeit/next.js)
 * [Spectrum](https://spectrum.chat/next-js)
 
 ## Essentials
@@ -74,7 +74,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 
 ## Extensions
 * [Next Routes ★841](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
-* [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg ★9907](https://github.com/zeit/pkg) support.
+* [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg ★10172](https://github.com/zeit/pkg) support.
 * [Next Plugins ★401](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js
 * [Next Plugin Graphql ★11](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
 * [Next With Apollo ★31](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js

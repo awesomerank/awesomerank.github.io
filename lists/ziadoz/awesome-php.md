@@ -713,7 +713,7 @@ Libraries to help manage database schemas and migrations.
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
 
-* [Amazon Web Service SDK ★3142](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
+* [Amazon Web Service SDK ★3205](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [Campaign Monitor](http://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
 * [Dropbox SDK ★223 ⏳1Y](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 * [Github ★1330](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.

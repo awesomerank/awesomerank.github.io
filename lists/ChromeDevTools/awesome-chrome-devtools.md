@@ -15,7 +15,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
 
 #### DevTools as an IDE
-- [Chrome DevTools App ★1465](https://github.com/auchenberg/chrome-devtools-app) - Standalone app which can inspect various targets.
+- [Chrome DevTools App ★1467](https://github.com/auchenberg/chrome-devtools-app) - Standalone app which can inspect various targets.
 - [DevTools Remote ★559 ⏳1Y](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
 - [DevTools Snippets ★1376](https://github.com/bahmutov/code-snippets) - Collection of snippets.
 
@@ -96,7 +96,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 ### Using DevTools frontend with other targets/platforms
 
 ##### Android
-- [Facebook Stetho ★9731](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools
+- [Facebook Stetho ★9875](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools
 
 ##### ClosureScript
 - [Dirac ★561](https://github.com/binaryage/dirac) - Debugging of ClojsureScript
@@ -105,14 +105,14 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - [Mare ★222](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools
 
 #### iOS
-- [PonyDebugger ★5589 ⏳1Y](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools
+- [PonyDebugger ★5603 ⏳1Y](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools
 
 ##### Go
 - [go-debugger-devtools](https://github.com/allada/go-debugger-devtools)
 
 ##### Node.js
 - [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - Guide on using the full debugging and profiling support in Node v6.3+
-- [devtool ★3788 ⏳1Y](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron).
+- [devtool ★3784](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron).
 - [buggerJS ★153 ⏳1Y](https://github.com/buggerjs/bugger) - Provides Chrome DevTools bindings for node.
 
 

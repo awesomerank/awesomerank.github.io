@@ -7,9 +7,9 @@ title: Awesome Rank for manuzhang/awesome-streaming
 	This list is a copy of <a href="https://github.com/manuzhang/awesome-streaming">manuzhang/awesome-streaming</a> with ranks
 </p>
 ---
-## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/manuzhang/awesome-streaming.svg?branch=master)](https://travis-ci.org/manuzhang/awesome-streaming)
+## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/manuzhang/awesome-streaming.svg?branch=master)](https://travis-ci.org/manuzhang/awesome-streaming)
 
-A curated list of awesome [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) frameworks, applications, readings and other resources. Inspired by [other awesome projects ★85445](https://github.com/sindresorhus/awesome). 
+A curated list of awesome [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) frameworks, applications, readings and other resources. Inspired by [other awesome projects ★87749](https://github.com/sindresorhus/awesome). 
 
 ## Table of Contents
 
@@ -124,7 +124,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 
 * [akka](http://akka.io/) [Scala] - toolkit and runtime for building highly concurrent, distributed, and resilient message-driven application on the JVM.
 * [pulsar](http://quantmind.github.io/pulsar/index.html#) [Python] - Actor based event driven concurrent framework for Python.
-* [aeron ★3384](https://github.com/real-logic/Aeron) [Java/C++] - efficient reliable unicast and multicast message transport.
+* [aeron ★3432](https://github.com/real-logic/Aeron) [Java/C++] - efficient reliable unicast and multicast message transport.
 * [StreamFlow ★226 ⏳2Y](https://github.com/lmco/streamflow) [Java] - stream processing tool designed to help build and monitor processing workflows.
 * [samza-luwak ★88 ⏳3Y](https://github.com/romseygeek/samza-luwak) [Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
 * [Turbine ★653](https://github.com/Netflix/Turbine) [Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.

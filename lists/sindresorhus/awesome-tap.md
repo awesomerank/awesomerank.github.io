@@ -60,7 +60,7 @@ Things that produce TAP output.
 
 - [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap`
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js.
-- [tape ★4601](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers.
+- [tape ★4639](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers.
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap ★73 ⏳1Y](https://github.com/twada/qunit-tap) - TAP output for QUnit.

@@ -7,7 +7,7 @@ title: Awesome Rank for fukuball/Awesome-Laravel-Education
 	This list is a copy of <a href="https://github.com/fukuball/Awesome-Laravel-Education">fukuball/Awesome-Laravel-Education</a> with ranks
 </p>
 ---
-# [Awesome Laravel Education](https://fukuball.github.io/Awesome-Laravel-Education/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# [Awesome Laravel Education](https://fukuball.github.io/Awesome-Laravel-Education/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for learning about the Laravel PHP Framework, to help you beginner, intermediate or advanced developer.
 

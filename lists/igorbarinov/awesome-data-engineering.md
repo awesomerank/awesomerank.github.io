@@ -10,7 +10,7 @@ title: Awesome Rank for igorbarinov/awesome-data-engineering
 Awesome Data Engineering
 ==========================
 
-A curated list of data engineering tools for software developers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+A curated list of data engineering tools for software developers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 List of content
 
@@ -122,7 +122,7 @@ List of content
 * [Tachyon](http://tachyon-project.org/) Tachyon is a memory-centric distributed storage system enabling reliable data sharing at memory-speed across cluster frameworks, such as Spark and MapReduce
 * [CEPH](http://ceph.com/) Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability
 * [OrangeFS](http://www.orangefs.org/) Orange File System is a branch of the Parallel Virtual File System
-* [SnackFS ★13 ⏳2Y](https://github.com/tuplejump/snackfs-release) SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra
+* [SnackFS ★13 ⏳3Y](https://github.com/tuplejump/snackfs-release) SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra
 * [GlusterFS](http://www.gluster.org/) Gluster Filesystem
 * [XtreemFS](http://www.xtreemfs.org/) fault-tolerant distributed file system for all storage needs
 * [SeaweedFS ★5392](https://github.com/chrislusf/seaweedfs) Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
@@ -158,7 +158,7 @@ multi-processor, multi-core machines
 * [Hadoop MapReduce](http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) Hadoop MapReduce is a software framework for easily writing applications which process vast amounts of data (multi-terabyte data-sets) in-parallel on large clusters (thousands of nodes) of commodity hardware in a reliable, fault-tolerant manner
 * [Spark](https://spark.apache.org/)
 	* [Spark Packages](http://spark-packages.org) A community index of packages for Apache Spark
-	* [Deep Spark ★195 ⏳1Y](https://github.com/Stratio/deep-spark) Connecting Apache Spark with different data stores 
+	* [Deep Spark ★195 ⏳2Y](https://github.com/Stratio/deep-spark) Connecting Apache Spark with different data stores 
 	* [Spark RDD API Examples](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html) by Zhen He
 	* [Livy](https://github.com/cloudera/hue/tree/master/apps/spark/java#welcome-to-livy-the-rest-spark-server) Livy, the REST Spark Server
 * [AWS EMR](http://aws.amazon.com/elasticmapreduce/) A web service that makes it easy to quickly and cost-effectively process vast amounts of data.
@@ -255,7 +255,7 @@ multi-processor, multi-core machines
 
 Cheers to [The Data Engineering Ecosystem: An Interactive Map](http://xyz.insightdataengineering.com/blog/pipeline_map.html)
 
-Inspired by the [awesome ★85445](https://github.com/sindresorhus/awesome) list. Created by [Insight Data Engineering](http://insightdataengineering.com) fellows.
+Inspired by the [awesome ★87749](https://github.com/sindresorhus/awesome) list. Created by [Insight Data Engineering](http://insightdataengineering.com) fellows.
 
 ## License
 

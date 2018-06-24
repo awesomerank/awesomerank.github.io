@@ -9,7 +9,7 @@ title: Awesome Rank for awesome-spark/awesome-spark
 ---
 [<img src="https://cdn.rawgit.com/awesome-spark/awesome-spark/f78a16db/spark-logo-trademark.svg" align="right">](https://spark.apache.org/)
 
-# Awesome Spark [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Spark [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and resources.
 
@@ -215,7 +215,7 @@ Apache Spark, Spark, Apache, and the Spark logo are <a href="https://www.apache.
   <a href="http://www.apache.org">The Apache Software Foundation</a>. This compilation is not endorsed by The Apache Software Foundation.
 
 
-Inspired by [sindresorhus/awesome ★85445](https://github.com/sindresorhus/awesome).
+Inspired by [sindresorhus/awesome ★87749](https://github.com/sindresorhus/awesome).
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/awesome-spark/awesome-spark">awesome-spark/awesome-spark</a> with ranks

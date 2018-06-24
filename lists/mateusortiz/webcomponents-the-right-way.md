@@ -9,7 +9,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 ---
 # Web Components the Right Way
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > This is a guide intended to introduce to Web Components. Everyone can contribute here!
 
@@ -153,7 +153,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 * [Bosonic](http://bosonic.github.io/) Bosonic is a set of tools that enable you to build Web Components as the spec currently describes, and supporting not-so-modern browsers like IE9.
 * [Polymer Dart](https://www.dartlang.org/polymer/) Polymer.dart is a Dart port of Polymer. Build Web Components with Dart, and interoperate with Web Components built with JavaScript.
 * [Skate ★2635](https://github.com/skatejs/skatejs) Skate is a web component library that is focused on being a tiny, performant, syntactic-sugar for binding behaviour to custom and existing elements without ever having to worry about when your element is inserted into the DOM.
-* [Bit](https://www.bitsrc.io) Bit lets you easily [create reusable web components ★1842](https://github.com/teambit/bit) from any context. You can store and organize your components together and still find, modify, test and use them individually in any application. 
+* [Bit](https://www.bitsrc.io) Bit lets you easily [create reusable web components ★2097](https://github.com/teambit/bit) from any context. You can store and organize your components together and still find, modify, test and use them individually in any application. 
 
 
 ## Screencasts

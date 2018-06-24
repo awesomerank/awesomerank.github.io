@@ -132,13 +132,13 @@ Run `brew cask install qlvideo` or [download manually](https://github.com/Margin
 
 *These are not included in [Install all](#install-all).*
 
-### [ProvisionQL ★977](https://github.com/ealeksandrov/ProvisionQL)
+### [ProvisionQL ★1006](https://github.com/ealeksandrov/ProvisionQL)
 
 > Preview iOS / macOS app and provision information
 
 Run `brew cask install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/ProvisionQL.png) ★977](https://github.com/ealeksandrov/ProvisionQL)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/ProvisionQL.png) ★1006](https://github.com/ealeksandrov/ProvisionQL)
 
 
 ### [QuickLookAPK ★70](https://github.com/hezi/QuickLookAPK)

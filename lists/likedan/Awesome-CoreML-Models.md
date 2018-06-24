@@ -27,7 +27,7 @@ If you've converted a Core ML model, feel free to submit an [issue](https://gith
 
 Recently, we've included visualization tools. And here's one [Netron](https://lutzroeder.github.io/Netron).
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 # Models
@@ -119,7 +119,7 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * [CTPN ★634](https://github.com/tianzhi0549/CTPN) Detecting text in natural image.
 * [Image Analogy ★892](https://github.com/msracver/Deep-Image-Analogy) Find semantically-meaningful dense correspondences between two input images.
 * [iLID ★41 ⏳1Y](https://github.com/twerkmeister/iLID) Automatic spoken language identification.
-* [Fashion Detection ★209](https://github.com/liuziwei7/fashion-detection) Cloth detection from images.
+* [Fashion Detection ★209 ⏳1Y](https://github.com/liuziwei7/fashion-detection) Cloth detection from images.
 * [Saliency ★138 ⏳1Y](https://github.com/imatge-upc/saliency-2016-cvpr) The prediction of salient areas in images has been traditionally addressed with hand-crafted features.
 * [Face Detection ★14 ⏳1Y](https://github.com/DolotovEvgeniy/DeepPyramid) Detect face from image.
 * [mtcnn ★270](https://github.com/CongWeilin/mtcnn-caffe) Joint Face Detection and Alignment.

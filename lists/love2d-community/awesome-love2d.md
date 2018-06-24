@@ -7,7 +7,7 @@ title: Awesome Rank for love2d-community/awesome-love2d
 	This list is a copy of <a href="https://github.com/love2d-community/awesome-love2d">love2d-community/awesome-love2d</a> with ranks
 </p>
 ---
-# ![Awesome Löve](https://github.com/love2d-community/awesome-love2d/blob/master/logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# ![Awesome Löve](https://github.com/love2d-community/awesome-love2d/blob/master/logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 A categorized community-driven collection of high-quality, awesome [LÖVE](http://love2d.org) libraries, projects, and resources.
 
 ## Table of contents
@@ -337,7 +337,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 * [awesome-love-shaders ★38 ⏳2Y](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE
 * [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more
 
-Other awesome lists can be found in the [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness) list.
+Other awesome lists can be found in the [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness) list.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/love2d-community/awesome-love2d">love2d-community/awesome-love2d</a> with ranks

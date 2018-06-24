@@ -9,7 +9,7 @@ title: Awesome Rank for phalcon/awesome-phalcon
 ---
 # Awesome Phalcon
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/phalcon/awesome-phalcon.svg?branch=master)](https://travis-ci.org/phalcon/awesome-phalcon)
 
 
@@ -166,7 +166,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Libraries for doc generate & management.*
 
 * [kolibri ★8 ⏳2Y](https://github.com/philippgerard/kolibri) - A Phalcon based wiki software with simplicity in mind
-* [phaldoc ★3 ⏳2Y](https://github.com/Riu/phaldoc) - Create, translate and control changes in documentation for Phalcon & others projects
+* [phaldoc ★3 ⏳3Y](https://github.com/Riu/phaldoc) - Create, translate and control changes in documentation for Phalcon & others projects
 
 
 ## Events
@@ -247,7 +247,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Libraries that implement Object-Relational Mapping or datamapping techniques.*
 
 * [phalcon-boundmodels ★1 ⏳2Y](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
-* [phalcon-mssql ★19 ⏳2Y](https://github.com/fishjerky/phalcon-mssql) - A Phalcon PHP Framework MSSQL PDO db adapter
+* [phalcon-mssql ★19 ⏳3Y](https://github.com/fishjerky/phalcon-mssql) - A Phalcon PHP Framework MSSQL PDO db adapter
+* [phalcon-repositories ★9](https://github.com/micheleangioni/phalcon-repositories) - Easy Repository pattern for Phalcon
 * [phalcon-seeder ★8 ⏳2Y](https://github.com/SidRoberts/phalcon-seeder) - Database seeder component for Phalcon
 
 ## ODM

@@ -7,7 +7,7 @@ title: Awesome Rank for sfischer13/awesome-frege
 	This list is a copy of <a href="https://github.com/sfischer13/awesome-frege">sfischer13/awesome-frege</a> with ranks
 </p>
 ---
-# Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > Useful resources for the [Frege](https://en.wikipedia.org/wiki/Frege_(programming_language)) programming language
 
@@ -63,7 +63,7 @@ You might also like [awesome-haskell ★1464](https://github.com/krispo/awesome-
 
 ### Overview
 
-- [Frege ★3048](https://github.com/Frege/frege) - Official website.
+- [Frege ★3065](https://github.com/Frege/frege) - Official website.
 - [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps

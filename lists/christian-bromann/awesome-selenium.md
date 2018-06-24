@@ -7,11 +7,11 @@ title: Awesome Rank for christian-bromann/awesome-selenium
 	This list is a copy of <a href="https://github.com/christian-bromann/awesome-selenium">christian-bromann/awesome-selenium</a> with ranks
 </p>
 ---
-# Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/christian-bromann/awesome-selenium.svg?branch=master)](https://travis-ci.org/christian-bromann/awesome-selenium)
+# Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/christian-bromann/awesome-selenium.svg?branch=master)](https://travis-ci.org/christian-bromann/awesome-selenium)
 
 > A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
 
-Inspired by the [awesome ★85445](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★87749](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 

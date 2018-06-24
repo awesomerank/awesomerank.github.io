@@ -10,7 +10,7 @@ title: Awesome Rank for tayllan/awesome-algorithms
 # Awesome Algorithms
 
 A curated list of awesome places to learn and/or practice algorithms.
-Inspired by [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
+Inspired by [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
 
 If you want to contribute, please read the [contribution guidelines](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
@@ -110,7 +110,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @trekhleb ★20806](https://github.com/trekhleb/javascript-algorithms)
     * [by @ManrajGrover ★21](https://github.com/ManrajGrover/algorithms-js)
 * Objective-C
-    * [by @ EvgenyKarkan ★2330](https://github.com/EvgenyKarkan/EKAlgorithms)
+    * [by @ EvgenyKarkan ★2331](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
     * [by @nryoung ★2850](https://github.com/nryoung/algorithms)
     * [by @prakhar1989 ★2075](https://github.com/prakhar1989/Algorithms)
@@ -124,7 +124,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Scala ★1045](https://github.com/vkostyukov/scalacaster)
 * Swift
     * [by @kingreza ★33 ⏳1Y](https://github.com/kingreza/Swift-Algorithms-Strings-)
-    * [by @waynewbishop ★1870](https://github.com/waynewbishop/SwiftStructures)
+    * [by @waynewbishop ★1875](https://github.com/waynewbishop/SwiftStructures)
     * [by @hollance](https://github.com/hollance/swift-algorithm-club)
 * Language agnostic
     * [by @kennyledet ★2017](https://github.com/kennyledet/Algorithm-Implementations)

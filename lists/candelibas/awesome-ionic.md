@@ -7,7 +7,7 @@ title: Awesome Rank for candelibas/awesome-ionic
 	This list is a copy of <a href="https://github.com/candelibas/awesome-ionic">candelibas/awesome-ionic</a> with ranks
 </p>
 ---
-# Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 An "awesome" list of the Ionic resources 
 

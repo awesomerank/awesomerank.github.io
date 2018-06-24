@@ -7,7 +7,7 @@ title: Awesome Rank for sachin1092/awesome-material
 	This list is a copy of <a href="https://github.com/sachin1092/awesome-material">sachin1092/awesome-material</a> with ranks
 </p>
 ---
-# Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 A curated list of Google's [material design](http://www.google.com/design/spec) based libraries, resources and awesome things.
 
@@ -93,7 +93,7 @@ Other
   - [Paper Polymer Elements](https://elements.polymer-project.org/browse?package=paper-elements) — Paper elements are a set of visual elements that implement Google's Material Design.
   
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness) list.
 
 ## Contributing
 

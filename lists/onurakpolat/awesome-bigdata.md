@@ -9,7 +9,7 @@ title: Awesome Rank for onurakpolat/awesome-bigdata
 ---
 # Awesome Big Data
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome big data frameworks, resources and other awesomeness. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [awesome-ruby ★1036](https://github.com/Sdogruyol/awesome-ruby), [hadoopecosystemtable](http://hadoopecosystemtable.github.io/) & [big-data](http://usefulstuff.io/big-data/).
 
@@ -491,7 +491,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Qubole](https://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
 * [Sense](https://sense.io/) - Cloud Platform for Data Science and Big Data Analytics.
 * [SnappyData ★730](https://github.com/SnappyDataInc/snappydata) - a distributed in-memory data store for real-time operational analytics, delivering stream analytics, OLTP (online transaction processing) and OLAP (online analytical processing) built on Spark in a single integrated cluster.
-* [Snowplow ★4048](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
+* [Snowplow ★4125](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 * [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
 * [Splunk](https://www.splunk.com/) - analyzer for machine-generated data.
 * [Sumo Logic](https://www.sumologic.com/) - cloud based analyzer for machine-generated data.
@@ -594,7 +594,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Chart.js](http://www.chartjs.org/) - open source HTML5 Charts visualizations.
 * [Chartist.js ★10743](https://github.com/gionkunz/chartist-js) - another open source HTML5 Charts visualization.
 * [Crossfilter](http://square.github.io/crossfilter/) -  JavaScript library for exploring large multivariate datasets in the browser. Works well with dc.js and d3.js.
-* [Cubism ★4669](https://github.com/square/cubism) - JavaScript library for time series visualization.
+* [Cubism ★4669 ⏳1Y](https://github.com/square/cubism) - JavaScript library for time series visualization.
 * [Cytoscape](http://cytoscape.github.io/) - JavaScript library for visualizing complex networks.
 * [DC.js](http://dc-js.github.io/dc.js/) - Dimensional charting built to work natively with crossfilter rendered using d3.js. Excellent for connecting charts/additional metadata to hover events in D3.
 * [D3](https://d3js.org/) - javaScript library for manipulating documents.
@@ -619,7 +619,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Plot.ly](https://plot.ly/) - Easy-to-use web service that allows for rapid creation of complex charts, from heatmaps to histograms. Upload data to create and style charts with Plotly's online spreadsheet. Fork others' plots.
 * [Plotly.js ★8356](https://github.com/plotly/plotly.js) The open source javascript graphing library that powers plotly.
 * [Recline ★1974](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
-* [Redash ★9203](https://github.com/getredash/redash) - open-source platform to query and visualize data.
+* [Redash ★9404](https://github.com/getredash/redash) - open-source platform to query and visualize data.
 * [ReCharts](http://recharts.org/) - A composable charting library built on React components
 * [Shiny](http://shiny.rstudio.com/) - a web application framework for R.
 * [Sigma.js ★7955](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
@@ -730,8 +730,8 @@ for Data Analytics at Twitter.
 
 
 # Other Awesome Lists
-- Other awesome lists [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness).
-- Even more lists [awesome ★85445](https://github.com/sindresorhus/awesome).
+- Other awesome lists [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness).
+- Even more lists [awesome ★87749](https://github.com/sindresorhus/awesome).
 - Another list? [list ★4980](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome ★1091 ⏳1Y](https://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-analytics ★1058](https://github.com/onurakpolat/awesome-analytics).

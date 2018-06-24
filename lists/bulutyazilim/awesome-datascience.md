@@ -7,7 +7,7 @@ title: Awesome Rank for bulutyazilim/awesome-datascience
 	This list is a copy of <a href="https://github.com/bulutyazilim/awesome-datascience">bulutyazilim/awesome-datascience</a> with ranks
 </p>
 ---
-# Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 
 *An open source Data Science repository to learn and apply towards solving real world problems.*
@@ -516,12 +516,12 @@ Quick Start
 
 ## Other Awesome Lists
 
- - Other amazingly awesome lists can be found in the [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness) list.
+ - Other amazingly awesome lists can be found in the [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness) list.
  - [Awesome Machine Learning ★33352](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
  - [lists ★4980](https://github.com/jnv/lists)
  - [awesome-dataviz ★1665](https://github.com/fasouto/awesome-dataviz)
  - [awesome-python ★50412](https://github.com/vinta/awesome-python)
- - [Data Science IPython Notebooks. ★12632](https://github.com/donnemartin/data-science-ipython-notebooks)
+ - [Data Science IPython Notebooks. ★12907](https://github.com/donnemartin/data-science-ipython-notebooks)
  - [awesome-r ★2978](https://github.com/qinwf/awesome-R)
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)

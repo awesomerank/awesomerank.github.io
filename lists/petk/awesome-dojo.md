@@ -210,7 +210,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [awesome-javascript ★14350](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list
 * [awesome-javascript-books ★92 ⏳3Y](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books
 * awesome lists:
-    * [awesome ★85445](https://github.com/sindresorhus/awesome) - awesome list
+    * [awesome ★87749](https://github.com/sindresorhus/awesome) - awesome list
     * [awesome-awesome ★1125](https://github.com/emijrp/awesome-awesome) - awesome list
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
     * [lists ★4980](https://github.com/jnv/lists) - awesome lists

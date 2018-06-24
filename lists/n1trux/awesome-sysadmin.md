@@ -13,7 +13,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   Author: n1trux
   -->
 
-# Awesome Sysadmin [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Sysadmin [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 **A curated list of amazingly awesome open source sysadmin resources.** Please read [CONTRIBUTING](./.github/CONTRIBUTING.md) if you wish to add software and consider [donating ★10 ⏳3Y](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
 
@@ -334,7 +334,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
 * [Light Table](http://lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 * [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows.
-* [TextMate ★11606](https://github.com/textmate/textmate) - A graphical text editor for OS X.
+* [TextMate ★11677](https://github.com/textmate/textmate) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 * [Visual Studio Code](https://code.visualstudio.com/) - An open source cross-platform extensible code editor from Microsoft
 * [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
@@ -592,7 +592,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 * [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping.
-* [perf-tools ★4290](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
+* [perf-tools ★4358](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 * [Dripcap ★1546](https://github.com/dripcap/dripcap) - Caffeinated Packet Analyzer.
 * [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.

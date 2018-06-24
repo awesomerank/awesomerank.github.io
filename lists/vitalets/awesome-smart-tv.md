@@ -7,7 +7,7 @@ title: Awesome Rank for vitalets/awesome-smart-tv
 	This list is a copy of <a href="https://github.com/vitalets/awesome-smart-tv">vitalets/awesome-smart-tv</a> with ranks
 </p>
 ---
-# Awesome Smart TV [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Smart TV [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for building [Smart TV](https://en.wikipedia.org/wiki/Smart_TV) apps
 
@@ -41,9 +41,9 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 * [vscode-extension-tizentv](https://marketplace.visualstudio.com/items?itemName=tizensdk.tizentv) - A Visual Studio Code extension that provides a lightweight IDE for Tizen application developers.
 
 #### Third-party remote control libraries
-* [samsungctl ★184](https://github.com/Ape/samsungctl) - Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python).
-* [samsung-tv-remote ★7 ⏳1Y](https://github.com/Badisi/samsung-tv-remote) - Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript).
-* [homebridge-samsungtv2016](https://github.com/kyleaa/homebridge-samsungtv2016) - Plugin for [Homebridge ★8866](https://github.com/nfarina/homebridge) that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).
+* [samsungctl ★197](https://github.com/Ape/samsungctl) - Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python).
+* [samsung-tv-remote ★10 ⏳1Y](https://github.com/Badisi/samsung-tv-remote) - Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript).
+* [homebridge-samsungtv2016](https://github.com/kyleaa/homebridge-samsungtv2016) - Plugin for [Homebridge ★9091](https://github.com/nfarina/homebridge) that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).
 
 #### Other
 * [Identification of Samsung TV models 2008-2017](http://en.tab-tv.com/?page_id=7123) - How to get screen size, matrix type, year of development, series and ohter parameters from Samsung TV model name.
@@ -56,13 +56,13 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 * [webOS TV Developers Forum](http://developer.lge.com/community/forums/RetrieveForumList.dev?prodTypeCode=TV) - Ask questions, share information and learn about Smart TV app development with other developers.
 
 #### Third-party remote control libraries
-* [lgtv2 ★102](https://github.com/hobbyquaker/lgtv2) - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
+* [lgtv2 ★105](https://github.com/hobbyquaker/lgtv2) - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
 * [node-red-contrib-lgtv ★12](https://github.com/hobbyquaker/node-red-contrib-lgtv) - Module for [Node-RED](https://nodered.org) allowing  remote control of LG webOS Smart TVs (JavaScript).
 * [node-webos ★25](https://github.com/WeeJeWel/node-webos) - Node.js module to discover and control webOS TVs (JavaScript).
-* [lgtv2mqtt ★30](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT (JavaScript).
+* [lgtv2mqtt ★31](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT (JavaScript).
 * [ares-webos-sdk](https://github.com/stevenvong/ares-webos-sdk) - webOS [CLI](http://webostv.developer.lge.com/sdk/using-webos-tv-cli/) as separate NPM module (JavaScript).
-* [pylgtv ★20](https://github.com/TheRealLink/pylgtv) - Library to control webOS based LG Tv devices (Python).
-* [LGWebOSRemote ★47](https://github.com/klattimer/LGWebOSRemote) - Command line tool for webOS remote control of LG TVs (Python).
+* [pylgtv ★22](https://github.com/TheRealLink/pylgtv) - Library to control webOS based LG Tv devices (Python).
+* [LGWebOSRemote ★50](https://github.com/klattimer/LGWebOSRemote) - Command line tool for webOS remote control of LG TVs (Python).
 
 #### Articles
 * [LG webOS communication protocol](https://mym.hackpad.com/ep/pad/static/rLlshKkzdNj) - Unofficial but detailed description of communication endpoints of webOS TV.
@@ -88,10 +88,10 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 * [TVs with Chromecast built-in](https://www.google.com/chromecast/built-in/tv/) - List of vendors supporting built-in Chromecast and advantages over traditional TV remote controller.
 
 ## Cross-platform tools
-* [react-tv ★1450](https://github.com/raphamorim/react-tv) - React development for TV: renderer for low memory applications and Packager for WebOS, Tizen, Orsay.
+* [react-tv ★1547](https://github.com/raphamorim/react-tv) - React development for TV: renderer for low memory applications and Packager for WebOS, Tizen, Orsay.
 * [TOAST](http://developer.samsung.com/tv/develop/extension-libraries/toast/) - Samsung open-source framework for multi-platform TV apps developemnt.
 * [Enyo](http://enyojs.com) - LG framework for development apps for all major platforms, from phones and tablets to PCs and TVs.
-* [Smartbox ★186 ⏳2Y](https://github.com/immosmart/smartbox) - Smart TV universal library for Samsung, LG, Philips, SmartTV Aliance, STB Mag app development.
+* [Smartbox ★188 ⏳2Y](https://github.com/immosmart/smartbox) - Smart TV universal library for Samsung, LG, Philips, SmartTV Aliance, STB Mag app development.
 * [Mautilus Smart TV SDK ★54 ⏳1Y](https://github.com/mautilus/sdk) - A platform-agnostic framework for developing TV Apps. Supports Samsung, LG, Philips, Sony, Panasonic and VESTEL Smart TVs. 
 
 ## Remote control protocols
@@ -103,8 +103,8 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 ## Misc
 * [LIRC](http://lirc.org) - A package that allows you to decode and send infra-red signals of many (but not all) commonly used remote controls.
 * [smart-tv-app-dev-guidelines ★96](https://github.com/ruiposse/smart-tv-app-dev-guidelines) - A Smart TV App Development examples, tutorials, best-practices and documentation. Last updated on 2015.
-* [awesome-smarttv ★33](https://github.com/linuxenko/awesome-smarttv) - Another list of Smart TV resources. Discovered after this one was already done :roll_eyes:.
-* [lrud ★23](https://github.com/stuart-williams/lrud) - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.
+* [awesome-smarttv ★36](https://github.com/linuxenko/awesome-smarttv) - Another list of Smart TV resources. Discovered after this one was already done :roll_eyes:.
+* [lrud ★25](https://github.com/stuart-williams/lrud) - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.
 
 ## Community
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/smart-tv)

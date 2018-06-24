@@ -7,7 +7,7 @@ title: Awesome Rank for ciandcd/awesome-ciandcd
 	This list is a copy of <a href="https://github.com/ciandcd/awesome-ciandcd">ciandcd/awesome-ciandcd</a> with ranks
 </p>
 ---
-# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 **Continuous Integration and Continuous Delivery**
 
@@ -277,9 +277,9 @@ Conference and submit
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
-* [awesome ★85445](https://github.com/sindresorhus/awesome)  
+* [awesome ★87749](https://github.com/sindresorhus/awesome)  
 * [awesome-awesome ★1125](https://github.com/emijrp/awesome-awesome)  
-* [awesome-awesomeness ★21454](https://github.com/bayandin/awesome-awesomeness)  
+* [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness)  
 * [sysadmin ★11 ⏳1Y](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)

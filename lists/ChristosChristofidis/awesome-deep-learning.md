@@ -7,7 +7,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 	This list is a copy of <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">ChristosChristofidis/awesome-deep-learning</a> with ranks
 </p>
 ---
-# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
 
@@ -495,7 +495,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 45.  [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration ★16226](https://github.com/pytorch/pytorch)
 46.  [CNTK - Microsoft Cognitive Toolkit ★14591](https://github.com/Microsoft/CNTK)
 47.  [Serpent.AI - Game agent framework: Use any video game as a deep learning sandbox ★4248](https://github.com/SerpentAI/SerpentAI)
-48.  [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework ★7969](https://github.com/caffe2/caffe2)
+48.  [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework ★8083](https://github.com/caffe2/caffe2)
 49.  [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web](https://github.com/PAIR-code/deeplearnjs)
 
 ### Miscellaneous

@@ -13,7 +13,7 @@ title: Awesome Rank for arbox/machine-learning-with-ruby
  [RubyDataScience ★411](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop ★6](https://github.com/arbox/ruby-interoperability)]
 
-# Awesome Machine Learning with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Machine Learning with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 [<img src="ruby.jpg" align="right" width="100px" height="100px" />][ruby]
 
@@ -113,12 +113,12 @@ programming languages with appropriate bindings for Ruby.
 - [scoruby ★33](https://github.com/asafschers/scoruby) -
   Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
 - [rblearn ★0 ⏳1Y](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
-- [data_modeler ★1](https://github.com/giuse/data_modeler) -
+- [data_modeler ★1 ⏳1Y](https://github.com/giuse/data_modeler) -
   Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
 - [shogun ★2136](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature
   machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby)
   and enormous [documentation](http://www.shogun-toolbox.org/examples/latest/examples/regression/random_forest_regression.html).
-- [aws-sdk-machinelearning ★2662](https://github.com/aws/aws-sdk-ruby) -
+- [aws-sdk-machinelearning ★2686](https://github.com/aws/aws-sdk-ruby) -
   Machine Learning API of the Amazon Web Services.
 - [azure_mgmt_machine_learning ★199](https://github.com/Azure/azure-sdk-for-ruby) -
   Machine Learning API of the Microsoft Azure.

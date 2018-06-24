@@ -14,7 +14,7 @@ title: Awesome Rank for vuejs/awesome-vue
   <br>
 </p>
 
-## Awesome Vue.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+## Awesome Vue.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to Vue.js
 
@@ -519,7 +519,7 @@ title: Awesome Rank for vuejs/awesome-vue
  - [npmcharts.com ★53](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
  - [Koel ★9132](https://github.com/phanan/koel) - A personal music streaming server that works.
  - [RSS Reader ★499](https://github.com/mrgodhani/rss-reader) - Simple RSS Reader made using atom electron and vue.js.
- - [Gokotta ★468](https://github.com/Zhangdroid/Gokotta) - A simple music player built by electron and vue.
+ - [Gokotta ★477](https://github.com/Zhangdroid/Gokotta) - A simple music player built by electron and vue.
  - [CoPilot ★2034](https://github.com/misterGF/CoPilot) - An admin portal based on AdminLTE with vue.js integration.
  - [Retrospectify ★46](https://github.com/pepf/retrospectify) - A simple tool for doing collaborative retrospectives in agile teams.
  - [jade-press ★31 ⏳1Y](https://github.com/jade-press/jade-press) - Cms based on mongodb, nodejs, koa, vue and more.
@@ -544,9 +544,9 @@ title: Awesome Rank for vuejs/awesome-vue
  - [Lulumi-browser](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
  - [vue-wordpress-pwa ★450](https://github.com/bstavroulakis/vue-wordpress-pwa)
  - [OpenAPI 3 viewer ★47](https://github.com/koumoul-dev/openapi-viewer) - Browse and test a REST API described with the OpenAPI 3.0 Specification
-  - [Stacer ★3294](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
+  - [Stacer ★3370](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
   - [Distrochooser.de](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
-  - [Buka ★409](https://github.com/oguzhaninan/Buka) - EBook Management
+  - [Buka ★459](https://github.com/oguzhaninan/Buka) - EBook Management
   - [Docute ★1875](https://github.com/egoist/docute) - A framework for writing documentation without build process
   - [pm86 ★90](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites
   - [vms ★820](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
@@ -606,7 +606,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [TimeMark ★7](https://github.com/MarsZone/TimeMark) - A Time manager which will can record your time and some more function will be developed.
 - [Laravel Enso ★382](https://github.com/laravel-enso/enso) - SPA Admin Panel built with Bulma, VueJS and Laravel, packing lots of features out of the box.
 - [Code Notes ★230](https://github.com/lauthieb/code-notes) - A simple code snippet manager for developers built with Electron & Vue.js.
-- [Pomotroid ★88](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
+- [Pomotroid ★112](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
 - [XMR Miner ★402](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
 - [XMR Paper ★0](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
 - [JoyProxy ★2](https://github.com/sh0cked/joy-proxy) - Chrome extension for handling proxy settings
@@ -1471,6 +1471,7 @@ Tooltips / popovers
  - [vue-canvas-effect ★24](https://github.com/chenxuan0000/vue-canvas-effect) - A simple, canvas effect collection for Vue.js.
  - [vue-konva ★122](https://github.com/rafaesc/vue-konva) - Vue & Canvas - JavaScript library for drawing complex canvas graphics using Vue.
  - [vue-html2canvas ★0](https://github.com/mycure-inc/vue-html2canvas) - Vue mixin to capture html and convert it to an image using Html2Canvas.
+ - [vue-canvas-nest ★6](https://github.com/ZYSzys/vue-canvas-nest) - A Vue.js component for canvas-nest.
 
 ### Link Preview
 
@@ -1589,7 +1590,7 @@ Tooltips / popovers
 
 ### Server-side rendering
 
- - [Nuxt.js ★12436](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
+ - [Nuxt.js ★13104](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
  - [Ream ★688](https://github.com/ream/ream) - A minimalistic framework for building server-rendered and static websites.
 
 ### Static website generator
@@ -1693,7 +1694,7 @@ Tooltips / popovers
 - [vue-scrollactive ★139](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
 - [vue-intersect ★101](https://github.com/heavyy/vue-intersect) - A Vue component to add intersection-observer to a Vue component or HTML element.
 - [vue-scrollmonitor ★20](https://github.com/AlexandreBonaventure/vue-scrollmonitor) - A Vue plugin to watch visibility state of elements inside viewport with a wide range of browsers supported (use provide/inject so compat vue@2.2.x)
-- [vue-stroll ★98](https://github.com/xiaoluoboding/vue-stroll) - An Awesome CSS3 list scroll effects component for Vue.js 2.x.
+- [vue-stroll ★98 ⏳1Y](https://github.com/xiaoluoboding/vue-stroll) - An Awesome CSS3 list scroll effects component for Vue.js 2.x.
 - [navscroll-js ★25](https://github.com/nash403/navscroll-js) - Highlights menu items as you scroll, and also scrolls to a section when a menu item clicked. Use as a vue component, a vue directive or with vanilla js.
 - [vue-scrollwatch ★13](https://github.com/Desdesdesgo/vue-scrollwatch) - A light plugin detecting scroll event,customize callback when element enter viewport,expose 'scrollTo' api to scroll to specific  element .Using vue directive.
 - [vue-check-view ★2](https://github.com/vtimofeev/vue-check-view) - A plugin that checks if element is in viewport. Fast, small, has no dependencies, live demo.
@@ -1870,7 +1871,7 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
  - [vue-async-properties](https://github.com/blainehansen/vue-async-properties) - An `asyncData` and `asyncComputed` plugin with support for debouncing, transforming results, error handlers, loading/pending flags, lazy/eager requests.
  - [vue-axios-plugin ★25](https://github.com/yugasun/vue-axios-plugin) - A plugin that combines axios with Vuejs, making http request more easier.
  - [vuex-api ★59](https://github.com/vouill/vuex-api) - A vuex plugin for effortlessly handle api calls.
- - [zipkin-instrumentation-vue-resource](https://github.com/elgris/zipkin-instrumentation-vue-resource) - An interceptor for [vue-resource](https://github.com/pagekit/vue-resource) that instruments outgoing HTTP requests with [Zipkin ★8481](https://github.com/openzipkin/zipkin)
+ - [zipkin-instrumentation-vue-resource](https://github.com/elgris/zipkin-instrumentation-vue-resource) - An interceptor for [vue-resource](https://github.com/pagekit/vue-resource) that instruments outgoing HTTP requests with [Zipkin ★8701](https://github.com/openzipkin/zipkin)
 
 ### i18n
 
@@ -2150,7 +2151,7 @@ Payment utilities.
  - [Storybook](https://storybook.js.org) - The UI Development Environment. works with v3.2+ later.
  - [Font Awesome Finder](https://chrome.google.com/webstore/detail/font-awesome-icon-finder/kjejboahkcobalmgldloeinebmbomgog) - Chrome extension to search, preview and choose Font Awesome icons and copy the selected icon HTML code & Unicode to clipboard.
  - [vue-dummy ★19](https://github.com/paulcollett/vue-dummy) - Placeholder Text and Dummy Images as a simple `v-dummy` directive.
- - [Bit ★1842](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate ans share components from any projec without chagning its source code, organize curated collections and install in different projects.
+ - [Bit ★2097](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate ans share components from any projec without chagning its source code, organize curated collections and install in different projects.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
 
 ### Inspect
@@ -2184,6 +2185,7 @@ Payment utilities.
  - [jsdoc-vue-component ★5](https://github.com/ccqgithub/jsdoc-vue-component) - A jsodc3 plugin that extract vue SFC info(name, props, events...) to document.
  - [jsdoc-vuedoc ★4](https://github.com/ccqgithub/jsdoc-vuedoc) - A jsdoc3 plugin use `@vuedoc/md`.
  - [vue-storybook](https://github.com/mattrothenberg/vue-storybook) –  Add `<story>` blocks to your Vue single file components for tighter integration of Vue + [Storybook ★24644](https://github.com/storybooks/storybook)
+ - [vue-patterns ★177](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
 
 ### Test
 
@@ -2193,6 +2195,7 @@ Payment utilities.
  - [vue-unit ★222](https://github.com/wrseward/vue-unit) - A library for Vue.js that makes it easier to create and unit test components.
  - [vue-a2b ★28](https://github.com/fromAtoB/vue-a2b) - A library for Split Testing with Vue.js. Highly configurable and tiny (1.2k gzipped).
  - [vue-test-utils ★1550](https://github.com/vuejs/vue-test-utils) - Official utilities for testing Vue components.
+ - [vue-test-actions ★1](https://github.com/biigpongsatorn/vue-test-actions) - Unit testing Vuex actions with Jest mocks.
 
 ###### Browser-less require
 
@@ -2333,7 +2336,7 @@ Payment utilities.
 
 ### Electron
 
- - [Electron Vue ★5870](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+ - [Electron Vue ★6351](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
  - [VuePack ★2276](https://github.com/egoist/vuepack) - A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron).
  - [vue-flexible-link ★13](https://github.com/saintplay/vue-flexible-link) - Tiny Vue component for Electron to open links in a browser. Ideal for cross environment apps (Web & Native)
  - [vuelectron ★0](https://github.com/rachmanzz/vuelectron) - electronjs starter kits for vue.

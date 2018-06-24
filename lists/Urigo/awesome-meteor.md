@@ -7,7 +7,7 @@ title: Awesome Rank for Urigo/awesome-meteor
 	This list is a copy of <a href="https://github.com/Urigo/awesome-meteor">Urigo/awesome-meteor</a> with ranks
 </p>
 ---
-# Awesome Meteor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Meteor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Meteor Packages, libraries and software.
 
@@ -111,7 +111,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [meteor-up](https://github.com/arunoda/meteor-up) – Meteor Deployments.
 * [davidyaha:collection2-migrations ★37 ⏳2Y](https://github.com/davidyaha/meteor-collection2-migrations) - Auto DB migrations with collection2 and simple schema on Meteor
 * [percolate:migrations ★223](https://github.com/percolatestudio/meteor-migrations) - Simple migration system for Meteor
-* [meteorhacks:fast-render ★583](https://github.com/kadirahq/fast-render) - Render you app even before the DDP connection is live
+* [meteorhacks:fast-render ★583 ⏳1Y](https://github.com/kadirahq/fast-render) - Render you app even before the DDP connection is live
 * [meteorhacks:cluster ★646 ⏳1Y](https://github.com/meteorhacks/cluster) - Clustering solution for Meteor with load balancing and service discovery
 * [yogiben:admin ★844 ⏳1Y](https://github.com/yogiben/meteor-admin) - A complete admin dashboard solution
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) - Converts a Meteor app into a "standard" Node.js application
@@ -266,7 +266,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Alternative Databases for MongoDB*
 
-* [meteor-pg ★21](https://github.com/Richie765/meteor-pg) - New and improved PostgreSQL support for Meteor
+* [meteor-pg ★21 ⏳1Y](https://github.com/Richie765/meteor-pg) - New and improved PostgreSQL support for Meteor
 * [ostrio:neo4jdriver ★53 ⏳1Y](https://github.com/VeliovGroup/ostrio-neo4jdriver) - Neo4j Driver for Meteor, with support of GrapheneDB
 * [numtel:pg ★305 ⏳2Y](https://github.com/numtel/meteor-pg) - Reactive PostgreSQL for Meteor
 * [numtel:mysql ★344 ⏳1Y](https://github.com/numtel/meteor-mysql) - Reactive MySQL for Meteor

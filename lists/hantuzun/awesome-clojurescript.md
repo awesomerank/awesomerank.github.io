@@ -196,7 +196,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [atw-om ★39 ⏳3Y](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
 - [Chestnut ★1184](https://github.com/plexus/chestnut) – An Application template for ClojureScript/Om with live reloading.
 - [Clops ★156](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
-- [descjop ★349](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
+- [descjop ★354](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
 - [electron-template ★99 ⏳2Y](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 - [Fulcro](http://fulcrologic.github.io/fulcro) - A library for development of single-page full-stack web applications in clj/cljs.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.

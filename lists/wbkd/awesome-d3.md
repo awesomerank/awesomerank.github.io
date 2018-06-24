@@ -7,7 +7,7 @@ title: Awesome Rank for wbkd/awesome-d3
 	This list is a copy of <a href="https://github.com/wbkd/awesome-d3">wbkd/awesome-d3</a> with ranks
 </p>
 ---
-# Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities.
 <br />We decided not to list tutorials, resources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials)** out there you can check out and contribute to.
@@ -22,7 +22,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [billboard.js ★2603](https://github.com/naver/billboard.js) - Re-usable chart library [bar, line, area, donut, pie, step, spline]
 - [britecharts ★3324](https://github.com/eventbrite/britecharts) - Client-side reusable charting library [bar, line, donut, sparkline, step]
 - [cirrusjs ★93 ⏳2Y](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library [area, line, stacked]
-- [cubism ★4669](https://github.com/square/cubism) - Time series visualization
+- [cubism ★4669 ⏳1Y](https://github.com/square/cubism) - Time series visualization
 - [WebCola ★1155](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration
 - [c3 ★7720](https://github.com/c3js/c3) - Reusable chart library [line, spline, step, area, stacked, bar, pie, donut]
 - [dagre-d3 ★1324](https://github.com/dagrejs/dagre-d3) - Layout directed graphs on the client-side

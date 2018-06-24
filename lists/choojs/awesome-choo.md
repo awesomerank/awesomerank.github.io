@@ -7,7 +7,7 @@ title: Awesome Rank for choojs/awesome-choo
 	This list is a copy of <a href="https://github.com/choojs/awesome-choo">choojs/awesome-choo</a> with ranks
 </p>
 ---
-# Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
+# Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
 
 > [choo](https://choo.io/) is a `4kb` framework for creating
 > sturdy frontend applications

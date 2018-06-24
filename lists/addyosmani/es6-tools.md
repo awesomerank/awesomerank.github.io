@@ -7,7 +7,7 @@ title: Awesome Rank for addyosmani/es6-tools
 	This list is a copy of <a href="https://github.com/addyosmani/es6-tools">addyosmani/es6-tools</a> with ranks
 </p>
 ---
-# <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> ECMAScript 6 Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> ECMAScript 6 Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 ## Transpilers
 
@@ -43,7 +43,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * Traceur: [grunt-traceur](https://github.com/aaronfrost/grunt-traceur) ES6 > ES5 transpilation, [grunt-traceur-build ★8 ⏳2Y](https://github.com/tarruda/grunt-traceur-build)
 * ES6 Module Transpiler: [grunt-es6-module-transpiler ★86 ⏳2Y](https://github.com/joefiorini/grunt-es6-module-transpiler)
 * Regenerator: [grunt-regenerator ★20 ⏳1Y](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
-* [grunt-microlib ★29 ⏳4Y](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (sample [Gruntfile](https://github.com/jakearchibald/es6-promise/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js))
+* [grunt-microlib ★29 ⏳5Y](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (sample [Gruntfile](https://github.com/jakearchibald/es6-promise/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js))
 * [grunt-defs ★5](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3
 * es6-transpiler: [grunt-es6-transpiler ★11 ⏳2Y](https://github.com/sindresorhus/grunt-es6-transpiler) - ES6 → ES5
 * TypeScript: [grunt-ts ★280](https://github.com/TypeStrong/grunt-ts) - ES6+ > ES5/ES3 transpilation

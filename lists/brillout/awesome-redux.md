@@ -7,7 +7,7 @@ title: Awesome Rank for brillout/awesome-redux
 	This list is a copy of <a href="https://github.com/brillout/awesome-redux">brillout/awesome-redux</a> with ranks
 </p>
 ---
-# Redux Libraries & Learning Material [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Redux Libraries & Learning Material [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" align="right" width="110">](http://redux.js.org/)
 
@@ -180,7 +180,7 @@ title: Awesome Rank for brillout/awesome-redux
 
  - [redux-cli ★864](https://github.com/SpencerCDixon/redux-cli) - Opinionated CLI for building Redux/React apps quicker.
  - [reactuate ★496 ⏳1Y](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
- - [react-chrome-extension-boilerplate ★1026](https://github.com/jhen0409/react-chrome-extension-boilerplate) - Boilerplate for Chrome Extension React.js project.
+ - [react-chrome-extension-boilerplate ★1060](https://github.com/jhen0409/react-chrome-extension-boilerplate) - Boilerplate for Chrome Extension React.js project.
  - [universal-redux ★473](https://github.com/bdefore/universal-redux) - Npm package that lets you jump right into coding React and Redux with universal (isomorphic) rendering. Only manage Express setups or Webpack configurations if you want to.
  - [generator-react-aspnet-boilerplate ★266](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
  - [generator-redux ★252 ⏳2Y](https://github.com/banderson/generator-redux) - CLI tools for Redux: next-gen functional Flux/React with devtools.

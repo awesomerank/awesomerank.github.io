@@ -7,7 +7,7 @@ title: Awesome Rank for sjfricke/awesome-webgl
 	This list is a copy of <a href="https://github.com/sjfricke/awesome-webgl">sjfricke/awesome-webgl</a> with ranks
 </p>
 ---
-# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 [<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
 
@@ -329,8 +329,8 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome ★85445](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-* [awesome-opengl ★823](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+* [awesome ★87749](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+* [awesome-opengl ★842](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [awesome-vulkan ★858](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
 * [gamedev ★4946](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 * [glTF ★2229](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.

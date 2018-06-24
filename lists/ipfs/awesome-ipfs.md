@@ -7,7 +7,7 @@ title: Awesome Rank for ipfs/awesome-ipfs
 	This list is a copy of <a href="https://github.com/ipfs/awesome-ipfs">ipfs/awesome-ipfs</a> with ranks
 </p>
 ---
-# Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
@@ -20,7 +20,7 @@ are totally_ **awesome**_. This is for products which are already awesome - if
 you have plans for cool stuff to do with IPFS, you should build it, and then
 link it here. If you have an idea for an awesome thing to do with IPFS, a good
 place to ask about it might be in [ipfs/apps ★47 ⏳1Y](https://github.com/ipfs/apps) or
-[ipfs/notes ★170](https://github.com/ipfs/notes)._
+[ipfs/notes ★173](https://github.com/ipfs/notes)._
 
 ## Table of Contents
 
@@ -41,26 +41,26 @@ place to ask about it might be in [ipfs/apps ★47 ⏳1Y](https://github.com/ipf
 * [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
 * [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
 * [Arbore](http://arbo.re) - A friend-to-friend file-sharing app build on top of IPFS.
-* [beets ★7926](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
+* [beets ★8150](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
-* [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub ★167](https://github.com/fazo96/ipfs-boards)
+* [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub ★171](https://github.com/fazo96/ipfs-boards)
 * [Cohort ★18 ⏳2Y](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 * [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
 * [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 * [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
 * [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance)
-* [git-ipfs-rehost ★98 ⏳2Y](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
+* [git-ipfs-rehost ★100 ⏳2Y](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
-* [HydrusNetwork ★355](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
-* [InterPlanetary Wayback ★134](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
-* [Interplanetary Wiki ★57 ⏳2Y](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
+* [HydrusNetwork ★371](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
+* [InterPlanetary Wayback ★139](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
+* [Interplanetary Wiki ★59 ⏳2Y](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 * [IPFS Event Drop ★5 ⏳3Y](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events.
-* [IPFS Drive](http://ipfs-drive.ydns.eu) - In browser file manager for IPFS. [GitHub ★16](https://github.com/fazo96/ipfs-drive)
-* [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub ★49](https://github.com/kpcyrd/ipfs.ink)
+* [IPFS Drive](http://ipfs-drive.ydns.eu) - In browser file manager for IPFS. [GitHub ★20](https://github.com/fazo96/ipfs-drive)
+* [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub ★50](https://github.com/kpcyrd/ipfs.ink)
 * [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS.
 * [ipfs-share ★32 ⏳3Y](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
-* [ipfs.pics ★924](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
+* [ipfs.pics ★930](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
 * [IPFSBin ★98 ⏳2Y](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
 * [IPFSStore](https://ipfsstore.it) - Pinning paid with Bitcoin
 * [markup.rocks ★16 ⏳2Y](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
@@ -88,30 +88,30 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
   https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here
 )
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
-- [Hardbin ★109](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
+- [Hardbin ★111](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/) - IPFS based code bin. (Read only for now)
-- [Gorilla REPL viewer ★7 ⏳2Y](https://github.com/keorn/ipfs-gorilla-repl) - [example](https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j)
+- [Gorilla REPL viewer ★8 ⏳2Y](https://github.com/keorn/ipfs-gorilla-repl) - [example](https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j)
 
 ## Tools
 
 * [cachewarmer ★40](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
-* [git-remote-ipfs ★116](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
+* [git-remote-ipfs ★125](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
 * [http2ipfs ★22 ⏳1Y](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
 * [ipcat ★8 ⏳2Y](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
 * [ipfs-chrome-station ★47 ⏳1Y](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
 * [ipfs-chrome-extension ★57 ⏳2Y](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
 * [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway
-* [ipfs-gui ★24](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
-* [ipfs-linux-service ★42 ⏳3Y](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
+* [ipfs-gui ★27](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
+* [ipfs-linux-service ★43 ⏳3Y](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
 * [ipfs-paste ★19 ⏳2Y](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
-* [ipfs-screencap ★28 ⏳1Y](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
-* [ipfscrape ★148 ⏳2Y](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
-* [ipget ★85](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
+* [ipfs-screencap ★31 ⏳1Y](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
+* [ipfscrape ★150 ⏳2Y](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
+* [ipget ★87](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
 * [IPRedirect ★1 ⏳1Y](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
-* [ipscend ★193](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
+* [ipscend ★207](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
 * [pinbot ★18](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
-* [ipfs-mount ★34](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows
-* [ipfs-add-from-url ★10 ⏳1Y](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
+* [ipfs-mount ★40](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows
+* [ipfs-add-from-url ★11 ⏳1Y](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
 
 ## Videos
 

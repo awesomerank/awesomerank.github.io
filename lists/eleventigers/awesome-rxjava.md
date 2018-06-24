@@ -7,20 +7,20 @@ title: Awesome Rank for eleventigers/awesome-rxjava
 	This list is a copy of <a href="https://github.com/eleventigers/awesome-rxjava">eleventigers/awesome-rxjava</a> with ranks
 </p>
 ---
-# Awesome RxJava [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome RxJava [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
 
-> Useful resources for working with [RxJava ★33172](https://github.com/ReactiveX/RxJava)
+> Useful resources for working with [RxJava ★33831](https://github.com/ReactiveX/RxJava)
 
-*Inspired by the [awesome ★85445](https://github.com/sindresorhus/awesome) list thing.*
+*Inspired by the [awesome ★87749](https://github.com/sindresorhus/awesome) list thing.*
 
 ## Bindings
 
 * [RxAndroid ★16065](https://github.com/ReactiveX/RxAndroid) - Android specific bindings for RxJava.
-* [RxBinding ★7468](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android UI widgets from the platform and support libraries.
+* [RxBinding ★7602](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android UI widgets from the platform and support libraries.
 * [rx-preferences ★1358](https://github.com/f2prateek/rx-preferences) - Reactive `SharedPreferences` for Android.
-* [RxPermissions ★6273](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava.
+* [RxPermissions ★6488](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava.
 * [SQLBrite ★4628](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries.
 * [Android-ReactiveLocation ★1995](https://github.com/mcharmas/Android-ReactiveLocation) - Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
 * [ReactiveNetwork ★1835](https://github.com/pwittchen/ReactiveNetwork) - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.

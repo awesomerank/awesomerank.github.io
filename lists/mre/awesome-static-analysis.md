@@ -182,7 +182,7 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 * [Checker Framework ★379](https://github.com/typetools/checker-framework) - Pluggable type-checking for Java http://checkerframework.org/
 * [checkstyle ★3708](https://github.com/checkstyle/checkstyle) - checking Java source code for adherence to a Code Standard or set of validation rules (best practices)
 * [ckjm](http://www.spinellis.gr/sw/ckjm/) - calculates Chidamber and Kemerer object-oriented metrics by processing the bytecode of compiled Java files
-* [Error-prone ★3710](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
+* [Error-prone ★3744](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 * [fb-contrib ★72](https://github.com/mebigfatguy/fb-contrib) - A plugin for FindBugs with additional bug detectors
 * [Find Security Bugs](https://find-sec-bugs.github.io/) - IDE/SonarQube plugin for security audits of Java web applications.
 * [Hopper ★40 ⏳2Y](https://github.com/cuplv/hopper) - A static analysis tool written in scala for languages that run on JVM
@@ -349,7 +349,7 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 
 ## Shell
 
-* [shellcheck ★11181](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts
+* [shellcheck ★11463](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts
 
 ## Solidity
 
@@ -364,9 +364,9 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 
 ## Swift
 
-* [SwiftFormat ★2001](https://github.com/nicklockwood/SwiftFormat) - A library and command-line formatting tool for reformatting Swift code
-* [SwiftLint ★9428](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions
-* [Tailor ★1199](https://github.com/sleekbyte/tailor) - A static analysis and lint tool for source code written in Apple's Swift programming language.
+* [SwiftFormat ★2044](https://github.com/nicklockwood/SwiftFormat) - A library and command-line formatting tool for reformatting Swift code
+* [SwiftLint ★9610](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions
+* [Tailor ★1210](https://github.com/sleekbyte/tailor) - A static analysis and lint tool for source code written in Apple's Swift programming language.
 
 ## TypeScript
 
@@ -398,10 +398,10 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 * [graudit ★293](https://github.com/wireghoul/graudit) - Grep rough audit - source code auditing tool - C/C++, PHP, ASP, C#, Java, Perl, Python, Ruby
 * [Hound CI](https://houndci.com/) - Comments on style violations in GitHub pull requests. Supports Coffeescript, Go, HAML, JavaScript, Ruby, SCSS and Swift.
 * [imhotep ★205](https://github.com/justinabrahms/imhotep) - Comment on commits coming into your repository and check for syntactic errors and general lint warnings.
-* [Infer ★8429](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C
+* [Infer ★8598](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C
 * [Klocwork](http://www.klocwork.com/products-services/klocwork) :copyright: - Quality and Security Static analysis for  C/C++, Java and C#
 * [Kiuwan](https://www.kiuwan.com/code-security-sast/) :copyright: - Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamlessly integration in your SDLC. Python, C\C++, Java, C#, PHP and more
-* [oclint ★2641](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
+* [oclint ★2666](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
 * [pfff ★2226 ⏳1Y](https://github.com/facebook/pfff) - Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages
 * [PMD](https://pmd.github.io/) - A source code analyzer for Java, Javascript, PLSQL, XML, XSL and others
 * [pre-commit ★1981](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.

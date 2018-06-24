@@ -24,14 +24,14 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [hypervision ★338](https://github.com/mafintosh/hypervision) – P2P Television.
 * [instant.io ★1886](https://github.com/webtorrent/instant.io) – Streaming file transfer over WebTorrent.
 * [ipp-printer ★320](https://github.com/watson/ipp-printer) – Create a printer on your network.
-* [peercast ★376](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
-* [peerflix ★4768](https://github.com/mafintosh/peerflix) – Streaming torrent client.
+* [peercast ★382](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
+* [peerflix ★4801](https://github.com/mafintosh/peerflix) – Streaming torrent client.
 * [peervisionary ★39 ⏳2Y](https://github.com/mafintosh/peervisionary) – Stream p2p content over your local network.
-* [peerwiki ★277](https://github.com/mafintosh/peerwiki) – browse all of wikipedia using bittorrent.
-* [screencat ★2144 ⏳2Y](https://github.com/maxogden/screencat) – WebRTC screensharing app.
+* [peerwiki ★276](https://github.com/mafintosh/peerwiki) – browse all of wikipedia using bittorrent.
+* [screencat ★2159 ⏳2Y](https://github.com/maxogden/screencat) – WebRTC screensharing app.
 * [signalhub ★389](https://github.com/mafintosh/signalhub) – Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
 * [torrent-mount ★1123 ⏳3Y](https://github.com/mafintosh/torrent-mount) – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.
-* [webcat ★369 ⏳1Y](https://github.com/mafintosh/webcat) – pipe across the web using WebRTC.
+* [webcat ★373 ⏳1Y](https://github.com/mafintosh/webcat) – pipe across the web using WebRTC.
 * [websocketd ★9449](https://github.com/joewalnes/websocketd) – Turn any program that uses stdin/stdout into a WebSocket server.
 * [webtorrent ★16769](https://github.com/webtorrent/webtorrent) – BitTorrent over WebRTC.
 * [wifi-triangulate ★58 ⏳2Y](https://github.com/watson/wifi-triangulate) – Finds your current position on planet earth using the wifi access point.

@@ -7,7 +7,7 @@ title: Awesome Rank for MaximAbramchuck/awesome-interview-questions
 	This list is a copy of <a href="https://github.com/MaximAbramchuck/awesome-interview-questions">MaximAbramchuck/awesome-interview-questions</a> with ranks
 </p>
 ---
-# Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > A curated list of lists of technical interview questions.
 
@@ -452,7 +452,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 
 * [A great list of Java interview questions](http://java2novice.com/java-interview-programs/)
 * [Algorithms playground for common interview questions written in Ruby ★2982](https://github.com/sagivo/algorithms)
-* [EKAlgorithms contains some well known CS algorithms & data structures ★2330](https://github.com/EvgenyKarkan/EKAlgorithms)
+* [EKAlgorithms contains some well known CS algorithms & data structures ★2331](https://github.com/EvgenyKarkan/EKAlgorithms)
 * [Five programming problems every Software Engineer should be able to solve in less than 1 hour](http://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour)
 * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 * [Top 15 Data Structures and Algorithm Interview Questions for Java programmer](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)

@@ -10,7 +10,7 @@ title: Awesome Rank for mailtoharshit/awesome-salesforce
  
 <img src="https://cdn-images-1.medium.com/max/400/0*btue0hbdFixR5ccW." align="right" width="320" height="400">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 [![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -18,7 +18,7 @@ title: Awesome Rank for mailtoharshit/awesome-salesforce
 
 > Useful resources for creating apps with [Salesforce](https://login.salesforce.com/)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list ★85445](https://github.com/sindresorhus/awesome).*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list ★87749](https://github.com/sindresorhus/awesome).*
 
 
 ## What is Awesome Salesforce ?
@@ -31,7 +31,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
    * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
    * [Awesome Articles ★4 ⏳2Y](https://github.com/mailtoharshit/awesome-salesforce-articles)
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
-   * [Awesome Heroku ★1 ⏳1Y](https://github.com/mailtoharshit/awesome-heroku)
+   * [Awesome Heroku ★2 ⏳1Y](https://github.com/mailtoharshit/awesome-heroku)
 
 
 ## Table of Contents  
@@ -75,13 +75,13 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Mavensmate Plugin for Sublime](https://mavensmate.com/Plugins/Sublime_Text/Installation) - Widely popular, 3rd party plugin package for Sublime Text Editor
 * [Atom Plugin ★134](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
 * Visual Studio Code
-  * [ForceCode ★87](https://github.com/celador/ForceCode) is a Visual Studio Code extension for Salesforce development
+  * [ForceCode ★95](https://github.com/celador/ForceCode) is a Visual Studio Code extension for Salesforce development
   * [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate) Mavensmate extension for VS code.  Very close in feature parity to Sublime version.
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
 * [ApexMate ★22 ⏳1Y](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
-* [HaoIDE ★150](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com
+* [HaoIDE ★153](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) - Force.com integration for IntelliJ IDEA
 
 
@@ -95,24 +95,24 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 ### Packages and Libraries supporting salesforce
 
-* [Apex mocks ★117](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito  
+* [Apex mocks ★120](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito  
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
 
-* [Apex Commons ★253](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more!
-    Must deploy [ApexMocks ★117](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
+* [Apex Commons ★255](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more!
+    Must deploy [ApexMocks ★120](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 
 * [Apex Commons Sample Code ★63](https://github.com/financialforcedev/fflib-apex-common-samplecode) - Samples application illustrating the Apex Enterprise Patterns library
-    Must deploy [Apex Common  ★253](https://github.com/financialforcedev/fflib-apex-common) before deploying this library<br/>
+    Must deploy [Apex Common  ★255](https://github.com/financialforcedev/fflib-apex-common) before deploying this library<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Metadata API ★330](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/>
+* [Apex Metadata API ★334](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
@@ -137,15 +137,15 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)
 
 * [Salesforce to Github  ★3 ⏳2Y](https://github.com/SalesforceFoundation/sfdo-github) - Github API client in Apex for Force.com <br/>
-* [Apex UML Digram Maker ★41 ⏳3Y](https://github.com/afawcett/apex-umlcanvas) - Create UML diagrams from Apex code using the Tooling API <br/>
+* [Apex UML Digram Maker ★42 ⏳3Y](https://github.com/afawcett/apex-umlcanvas) - Create UML diagrams from Apex code using the Tooling API <br/>
 * [SfApexDoc](http://force-code.com/category/sfapexdoc/) - A full-featured Apex documentation generator, similar to JavaDoc.
 
 * [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists </br>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Up2Go&repo=visualforce-table-grid)
 
-* [Force.com ESAPI ★47](https://github.com/forcedotcom/force-dot-com-esapi) - Enterprise Security API for the Apex language on the Force.com platform. This library consists of three modules - Validation, Output Encoding and Access Control(CRUD, FLS and Sharing).
+* [Force.com ESAPI ★48](https://github.com/forcedotcom/force-dot-com-esapi) - Enterprise Security API for the Apex language on the Force.com platform. This library consists of three modules - Validation, Output Encoding and Access Control(CRUD, FLS and Sharing).
 
-* [R.apex ★5](https://github.com/Click-to-Cloud/R.apex) - Functional library for Apex. This library, inspired by Ramda.js, offers a bunch of utility functions to manipulate Apex collections, as well as extensive support for functional programming.
+* [R.apex ★8](https://github.com/Click-to-Cloud/R.apex) - Functional library for Apex. This library, inspired by Ramda.js, offers a bunch of utility functions to manipulate Apex collections, as well as extensive support for functional programming.
 
 ### Developer Utilities
 
@@ -162,7 +162,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [Salesforce1-Dev-Guide-Setup-Package ★38](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
 
-* [Analytics-Cloud-Dataset-Utils ★87](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils)- Utility to load external data into Analytics Cloud datasets, and transform existing datasets.
+* [Analytics-Cloud-Dataset-Utils ★88](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils)- Utility to load external data into Analytics Cloud datasets, and transform existing datasets.
 
 * [Workbench](https://github.com/ryanbrainard/forceworkbench)- Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.
 
@@ -170,9 +170,9 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [CassaCloud](http://cassacloud.com/nice-salesforce-debug/)- Nice salesforce debug helps you to understand logs from Salesforce developer console. For example if you have Map of map with lists, it is hard to find value where it exactly is.
 
-* [SoqlXplorer ★151](https://github.com/superfell/SoqlX)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
+* [SoqlXplorer ★154](https://github.com/superfell/SoqlX)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
 
-* [force-dev-tool ★70](https://github.com/amtrack/force-dev-tool) - Command line tool supporting the Force.com development lifecycle.
+* [force-dev-tool ★77](https://github.com/amtrack/force-dev-tool) - Command line tool supporting the Force.com development lifecycle.
 
 * [JSON to Apex](https://www.adminbooster.com/tool/json2apex)- Generate an Apex class from a JSON string.
 
@@ -184,7 +184,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
 
-* [GitIgnore for Salesforce  ★21 ⏳1Y](https://github.com/mailtoharshit/gitignore)- Reusable .gitIgnore file for Salesforce or Force.com Projects
+* [GitIgnore for Salesforce  ★20 ⏳1Y](https://github.com/mailtoharshit/gitignore)- Reusable .gitIgnore file for Salesforce or Force.com Projects
 
 ### Open Source Projects Repositories from Salesforce
 
@@ -234,22 +234,22 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 * [Jitterbit](http://www.jitterbit.com/) - Commercial software integration product that facilitates transport between legacy, enterprise, and on-demand computing applications.
 * [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
 * [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
-* Some other solutions from [awesome-etl list ★1054](https://github.com/pawl/awesome-etl).
+* Some other solutions from [awesome-etl list ★1097](https://github.com/pawl/awesome-etl).
 
 ## Salesforce Lighting
 * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
 
 ## Salesforce Browser Extensions
-* [Awesome Salesforce Browser Extensions ★16](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
+* [Awesome Salesforce Browser Extensions ★17](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
 
 ## Mobile Development with Salesforce
 
 ### Mobile SDK
-* [Salesfoce MobileSDK for iOS ★378](https://github.com/forcedotcom/SalesforceMobileSDK-iOS)-If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.
+* [Salesfoce MobileSDK for iOS ★379](https://github.com/forcedotcom/SalesforceMobileSDK-iOS)-If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.
 
 * [Salesfoce MobileSDK for Windows ★11 ⏳1Y](https://github.com/forcedotcom/SalesforceMobileSDK-Windows)-Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core, Salesforce.SDK.Store (for windows projects) or Salesforce.SDK.Phone for phone projects.
 
-* [Salesfoce MobileSDK for Andriod ★233](https://github.com/forcedotcom/SalesforceMobileSDK-Android)- Source repository for the Salesforce Mobile SDK for Android.
+* [Salesfoce MobileSDK for Andriod ★234](https://github.com/forcedotcom/SalesforceMobileSDK-Android)- Source repository for the Salesforce Mobile SDK for Android.
 
 
 ## Salesforce Mobile Packs with Javascript Libraries [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365281769/ypqq9g8at1y1yqoo8h6g.png" align="right" width="300">](https://developer.salesforce.com/mobile/services/mobile-packs)

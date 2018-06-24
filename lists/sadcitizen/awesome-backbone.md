@@ -7,7 +7,7 @@ title: Awesome Rank for sadcitizen/awesome-backbone
 	This list is a copy of <a href="https://github.com/sadcitizen/awesome-backbone">sadcitizen/awesome-backbone</a> with ranks
 </p>
 ---
-# Awesome Backbone.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Backbone.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > A list of resources for backbone.js
 

@@ -11,11 +11,11 @@ title: Awesome Rank for wbinnssmith/awesome-promises
     <img src="https://promisesaplus.com/assets/logo-small.png" alt="Promises/A+ logo" align="right" />
 </a>
 
-# Awesome Promises [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Promises [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome ★85445](https://github.com/sindresorhus/awesome) list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome ★87749](https://github.com/sindresorhus/awesome) list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -69,7 +69,7 @@ These implement no more or less than the es6 spec. They make great polyfills and
 ### Implementations with extras
 All of these provide more features than the language yet remain compatible. Node + Browsers for all.
 
-* [bluebird ★16824](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
+* [bluebird ★16957](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
 * [creed ★234](https://github.com/briancavalier/creed) - Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec.
 * [rsvp.js ★3474](https://github.com/tildeio/rsvp.js) - Lightweight with a few extras. Compatible down to IE6!
 * [Q ★14193](https://github.com/kriskowal/q) - One of the original implementations. Long stack traces and other goodies.
@@ -86,9 +86,9 @@ All of these provide more features than the language yet remain compatible. Node
 Native and strictly spec-compliant promises are awesome for compatibility, future-proofness, library authors, and browsers. However, libraries like bluebird patch goodies onto the `Promise` constructor and prototype. Solution? tiny modules of course!
 
 ### sindresorhus's many Promise utilities ([see notes ★1693](https://github.com/sindresorhus/promise-fun))
-* [delay ★223](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
-* [pify ★945](https://github.com/sindresorhus/pify) - Promisify ("denodify") a callback-style function.
-* [loud-rejection ★208](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
+* [delay ★232](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+* [pify ★968](https://github.com/sindresorhus/pify) - Promisify ("denodify") a callback-style function.
+* [loud-rejection ★213](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
 * [hard-rejection ★57 ⏳1Y](https://github.com/sindresorhus/hard-rejection) - Make unhandled promise rejections fail hard right away instead of the default silent fail
 * [p-queue ★316](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 * [p-break ★9](https://github.com/sindresorhus/p-break) - Break out of a promise chain
@@ -96,7 +96,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-defer ★18 ⏳1Y](https://github.com/sindresorhus/p-defer) - Create a deferred promise
 * [p-if ★40 ⏳1Y](https://github.com/sindresorhus/p-if) - Conditional promise chains
 * [p-tap ★35](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
-* [p-map ★263](https://github.com/sindresorhus/p-map) - Map over promises concurrently
+* [p-map ★272](https://github.com/sindresorhus/p-map) - Map over promises concurrently
 * [p-all ★60 ⏳1Y](https://github.com/sindresorhus/p-all) - Run promise-returning & async functions concurrently with optional limited concurrency
 * [p-limit ★104](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
 * [p-times ★16 ⏳1Y](https://github.com/sindresorhus/p-times) - Run promise-returning & async functions a specific number of times concurrently

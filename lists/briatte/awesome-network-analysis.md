@@ -7,9 +7,9 @@ title: Awesome Rank for briatte/awesome-network-analysis
 	This list is a copy of <a href="https://github.com/briatte/awesome-network-analysis">briatte/awesome-network-analysis</a> with ranks
 </p>
 ---
-# Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/15478/briatte/awesome-network-analysis.svg)](https://zenodo.org/badge/latestdoi/15478/briatte/awesome-network-analysis)
+# Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/15478/briatte/awesome-network-analysis.svg)](https://zenodo.org/badge/latestdoi/15478/briatte/awesome-network-analysis)
 
-An [awesome list ★85445](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
+An [awesome list ★87749](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
 
 Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math ★1591](https://github.com/rossant/awesome-math) and others.
 
@@ -544,7 +544,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### C / C++
 
-> For more awesome C / C++ content, see the [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) and [Awesome C / C++ ★13465](https://github.com/fffaraz/awesome-cpp) lists.
+> For more awesome C / C++ content, see the [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) and [Awesome C / C++ ★13988](https://github.com/fffaraz/awesome-cpp) lists.
 
 -   [Benchmark Graphs to Test Community Detection Algorithms](https://sites.google.com/site/santofortunato/inthepress2) - C++ code to generate weighted and unweighted graphs.
 -   [BGL - Boost Graph Library](http://www.boost.org/doc/libs/1_60_0/libs/graph/doc/) - C++ library that provides a generic interface to access graph structures.

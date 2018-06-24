@@ -7,7 +7,7 @@ title: Awesome Rank for dav009/awesome-spanish-nlp
 	This list is a copy of <a href="https://github.com/dav009/awesome-spanish-nlp">dav009/awesome-spanish-nlp</a> with ranks
 </p>
 ---
-# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 
 
 Curated list of Linguistic Resources for doing Spanish NLP & CL.

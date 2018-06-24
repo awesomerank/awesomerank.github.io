@@ -7,7 +7,7 @@ title: Awesome Rank for h4cc/awesome-elixir
 	This list is a copy of <a href="https://github.com/h4cc/awesome-elixir">h4cc/awesome-elixir</a> with ranks
 </p>
 ---
-# Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★85445](https://github.com/sindresorhus/awesome)
+# Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome Elixir libraries, resources, and shiny things inspired by [awesome-php ★18804](https://github.com/ziadoz/awesome-php).
 
 If you think a package should be added, please add a :+1: (`:+1:`) at the according issue or create a new one.
@@ -1421,7 +1421,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [bitmex ★0](https://github.com/nobrick/bitmex) - BitMEX client library for Elixir.
 * [bitpay ★23 ⏳2Y](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
 * [cashier ★26](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
-* [cleverbot ★3 ⏳1Y](https://github.com/BlakeWilliams/Elixir-Cleverbot) - Simple implementation of the Cleverbot API in Elixir.
+* [cleverbot ★3 ⏳2Y](https://github.com/BlakeWilliams/Elixir-Cleverbot) - Simple implementation of the Cleverbot API in Elixir.
 * [coinbase ★8 ⏳2Y](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
 * [commerce_billing ★137 ⏳1Y](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
 * [currently ★4 ⏳2Y](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
@@ -1548,7 +1548,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [dot-notes](https://github.com/zackehh/dot-notes-elixir) - Simple dot/bracket notation parsing/conversion for Maps/Lists.
 * [dress ★43](https://github.com/veelenga/dress) - Cli app that makes your stdout fancy.
 * [erlang-history ★480](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
-* [erlsh ★50](https://github.com/proger/erlsh) - Family of functions and ports involving interacting with the system shell, paths and external programs.
+* [erlsh ★50 ⏳1Y](https://github.com/proger/erlsh) - Family of functions and ports involving interacting with the system shell, paths and external programs.
 * [erlware_commons ★175](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 * [exjprop ★0](https://github.com/stocks29/exjprop) - Elixir library for reading Java properties files from various sources.
 * [fitex ★1 ⏳2Y](https://github.com/timdeputter/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.

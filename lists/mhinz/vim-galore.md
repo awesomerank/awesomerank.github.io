@@ -158,7 +158,7 @@ Discussions and user questions are best done on the
 [vim_use](https://groups.google.com/forum/#!forum/vim_use) mailing list or using
 IRC ([Freenode](https://freenode.net)) in the `#vim` channel.
 
-Development happens on [GitHub ★12873](https://github.com/vim/vim), discussions on the
+Development happens on [GitHub ★13094](https://github.com/vim/vim), discussions on the
 [vim_dev](https://groups.google.com/forum/#!forum/vim_dev) mailing list.
 
 Read [Why, oh WHY, do those #?@! nutheads use
