@@ -47,6 +47,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 - [Babel ★2100](https://github.com/babel/babel-eslint) - Use Babel's parser for linting all Babel features
 - [TypeScript ★624](https://github.com/eslint/typescript-eslint-parser) - A TypeScript parser that produces output compatible with ESLint
+- [BrightScript ★22](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules
 
 ## Plugins
 

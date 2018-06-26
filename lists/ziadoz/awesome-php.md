@@ -577,7 +577,7 @@ Libraries to help manage database schemas and migrations.
 * [Commando ★706](https://github.com/nategood/commando) - Another simple command line opt parser.
 * [Cron Expression ★2833](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 * [GetOpt ★196](https://github.com/getopt-php/getopt-php) - A command line opt parser.
-* [GetOptionKit ★113](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
+* [GetOptionKit ★113 ⏳1Y](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
 * [Hoa Console ★265](https://github.com/hoaproject/Console) - Another command line library.
 * [PsySH ★5127](https://github.com/bobthecow/psysh) - Another PHP REPL.
 * [ShellWrap ★700](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.

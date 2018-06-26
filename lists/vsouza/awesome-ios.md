@@ -7,17 +7,16 @@ title: Awesome Rank for vsouza/awesome-ios
 	This list is a copy of <a href="https://github.com/vsouza/awesome-ios">vsouza/awesome-ios</a> with ranks
 </p>
 ---
-<img src="https://github.com/vsouza/awesome-ios/blob/master/header.png?raw=true">
+<img src="https://github.com/vsouza/awesome-ios/blob/master/header.png">
 
 <p align="center">
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   <a href="https://gitter.im/vsouza/awesome-ios"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
   <a href="https://travis-ci.org/vsouza/awesome-ios"><img alt="Build Status" src="https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master" /></a>
-  <img alt="pr-closed" src="https://img.shields.io/github/issues-pr-closed/vsouza/awesome-ios.svg" />
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
 
-[Subscribe on Awesome-iOS Weekly!! 🗞](https://goo.gl/UtS5qk)
+<a href="http://weekly.awesomeios.com"><img src="https://github.com/vsouza/awesome-ios/blob/master/newsletter.png"></a>
 
 ## About
 A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions and plugins, components and much more.
@@ -247,6 +246,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Linker ★123](https://github.com/MaksimKurpa/Linker) - Lightweight way to handle internal and external deeplinks for iOS.
 * [CoreNavigation ★46](https://github.com/aronbalog/CoreNavigation) - 📱📲 Navigate between view controllers with ease.
 * [DZURLRoute ★66](https://github.com/yishuiliunian/DZURLRoute) - Universal route engine for iOS app, it can handle URLScheme between applications and page route between UIViewController.
+* [Crossroad ★185](https://github.com/giginet/Crossroad) - Crossroad is an URL router focused on handling Custom URL Schemes. Using this, you can route multiple URL schemes and fetch arguments and parameters easily.
 
 
 ## Apple TV
@@ -318,7 +318,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 * [Web3.swift ★119](https://github.com/Boilertalk/Web3.swift) - Web3 library for interacting with the Ethereum blockchain.
 * [web3swift ★241](https://github.com/BANKEX/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
-* [EthereumKit ★193](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
+* [EthereumKit ★240](https://github.com/D-Technologies/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
 * [BitcoinKit ★428](https://github.com/kishikawakatsumi/BitcoinKit) - Bitcoin protocol toolkit for Swift, BitcoinKit implements Bitcoin protocol in Swift. It is an implementation of the Bitcoin SPV protocol written (almost) entirely in swift.
 
 ## Bridging
@@ -658,6 +658,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Promise ★469](https://github.com/khanlou/Promise) - A Promise library for Swift, based partially on Javascript's A+ spec.
 * [promises ★2081](https://github.com/google/promises) - Google provides a synchronization construct for Objective-C and Swift to facilitate writing asynchronous code.
 * [Continuum ★82](https://github.com/marty-suzuki/Continuum) - NotificationCenter based Lightweight UI / AnyObject binder.
+* [Futures ★27](https://github.com/formbound/Futures) - Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side Swift.
 
 ## Files
 * [FileKit ★1824](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
@@ -1593,7 +1594,7 @@ Most of these are paid services, some have free tiers.
 * [Virgil Security Objective-C/Swift SDK ★13](https://github.com/VirgilSecurity/virgil-sdk-x) - An SDK which allows developers to add full end-to-end security to their existing digital solutions to become HIPAA and GDPR compliant and more using Virgil API.
 
 ### Encryption
-* [AESCrypt-ObjC ★739 ⏳1Y](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
+* [AESCrypt-ObjC ★739 ⏳2Y](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
 * [IDZSwiftCommonCrypto ★379](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library written in Swift.
 * [Arcane ★225](https://github.com/onmyway133/Arcane) - 🔱 Lightweight wrapper around CommonCrypto in Swift
 * [SwiftMD5 ★11 ⏳1Y](https://github.com/mpurland/SwiftMD5) - A pure Swift implementation of MD5
@@ -2042,7 +2043,7 @@ Most of these are paid services, some have free tiers.
 * [Water ★338 ⏳1Y](https://github.com/KrisYu/Water) - Simple calculation to render cheap water effects.
 * [Pastel ★2606](https://github.com/cruisediary/Pastel) - Gradient animation effect like Instagram.
 * [YapAnimator ★1816](https://github.com/yapstudios/YapAnimator) - Your fast and friendly physics-based animation system.
-* [Bubble ★192](https://github.com/goldmoment/Bubble) - Fruit Animation
+* [Bubble ★192 ⏳1Y](https://github.com/goldmoment/Bubble) - Fruit Animation
 * [Gemini ★2397](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift
 * [WaterDrops ★235](https://github.com/LeFal/WaterDrops) - Simple water drops animation for iOS in Swift
 * [ViewAnimator ★4142](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line.
@@ -2094,7 +2095,7 @@ Most of these are paid services, some have free tiers.
 * [Swift-Prompts ★723](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from.
 * [BRYXBanner ★894](https://github.com/bryx-inc/BRYXBanner) - A lightweight dropdown notification for iOS 7+, in Swift.
 * [LNRSimpleNotifications ★180](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications. LNRSimpleNotifications is a simplified Swift port of TSMessages
-* [HDNotificationView ★257 ⏳1Y](https://github.com/nhdang103/HDNotificationView) - Emulates the native Notification Banner UI for any alert.
+* [HDNotificationView ★257 ⏳2Y](https://github.com/nhdang103/HDNotificationView) - Emulates the native Notification Banner UI for any alert.
 * [JDStatusBarNotification ★3540](https://github.com/calimarkus/JDStatusBarNotification) - Easy, customizable notifications displayed on top of the statusbar.
 * [Notie ★85 ⏳1Y](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
 * [EZAlertController ★295](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController
@@ -2194,7 +2195,7 @@ Most of these are paid services, some have free tiers.
 * [CVCalendar ★3006](https://github.com/CVCalendar/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0).
 * [RSDayFlow ★787](https://github.com/ruslanskorb/RSDayFlow) - iOS 7+ Calendar with Infinite Scrolling.
 * [NWCalendarView ★58 ⏳1Y](https://github.com/nbwar/NWCalendarView) - An availability calendar implementation for iOS
-* [GLCalendarView ★836](https://github.com/Glow-Inc/GLCalendarView) - A fully customizable calendar view acting as a date range picker
+* [GLCalendarView ★836 ⏳1Y](https://github.com/Glow-Inc/GLCalendarView) - A fully customizable calendar view acting as a date range picker
 * [JTCalendar ★2583](https://github.com/jonathantribouharet/JTCalendar) - A customizable calendar view for iOS.
 * [JTAppleCalendar ★4727](https://github.com/patchthecode/JTAppleCalendar) - The Unofficial Swift Apple Calendar Library. View. Control. for iOS & tvOS
 * [Daysquare ★658](https://github.com/unixzii/Daysquare) - An elegant calendar control for iOS.
@@ -2607,6 +2608,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Stefan ★30](https://github.com/appunite/Stefan) - A guy that helps you manage collections and placeholders in easy way.
 * [Parade ★585](https://github.com/HelloElephant/Parade) - Parallax Scroll-Jacking Effects Engine for iOS / tvOS.
 * [MSPeekCollectionViewDelegateImplementation ★9](https://github.com/MaherKSantina/MSPeekCollectionViewDelegateImplementation) - A custom paging behavior that peeks the previous and next items in a collection view.
+* [StaticTableViewController ★4](https://github.com/muyexi/StaticTableViewController) - Dynamically hide / show cells of static UITableViewController.
 
 #### Expandable Cell
 
@@ -3031,7 +3033,7 @@ CollectionView, make Instagram Discover within minutes.
 ## Good Websites
 
 ### News, Blogs and more
-* [BGR](http://bgr.com/ios-7/)
+* [BGR](https://bgr.com/ios-7/)
 * [iMore](https://www.imore.com/)
 * [Lifehacker](https://lifehacker.com/tag/ios)
 * [NSHipster](http://nshipster.com)

@@ -39,6 +39,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Powerflasher FDT](http://fdt.powerflasher.com/) - Commercial IDE built on the Eclipse platform for development of Adobe Flash/AIR content.
 * [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (with advanced debugging tools).
 * [Moonshine IDE](http://moonshine-ide.com/) - Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache FlexJS® and Feathers development with Cloud and Desktop support.
+* [IntelliJ IDEA](https://www.jetbrains.com/help/idea/building-actionscript-and-flex-applications.html) - Commercial IDE that supports many different languages including AS3
 
 #### Live Debuggers
 * [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced visual profiling and debugging tool for AIR apps & games (supports Stage3D).
@@ -214,7 +215,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [redada ★3 ⏳6Y](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files.
 * [Flextreemap ★20 ⏳3Y](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex.
 * [GraphVisualizer ★2 ⏳9Y](https://github.com/armisael/GraphVisualizer) - A Flex 3 + ActionScript 3 web software to draw dynamic graphcs.
-* [Weave ★365](https://github.com/WeaveTeam/Weave) - Web-based Analysis and Visualization Environment.
+* [Weave ★365 ⏳1Y](https://github.com/WeaveTeam/Weave) - Web-based Analysis and Visualization Environment.
 * [Social-grid ★23 ⏳4Y](https://github.com/Instrument/social-grid) - Abstract Grid Visualization for Social Media.
 
 #### Camera

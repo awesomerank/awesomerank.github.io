@@ -55,7 +55,7 @@ You might also like [awesome-npm ★2944](https://github.com/sindresorhus/awesom
 
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
-- [script-runner ★16](https://github.com/paulpflug/script-runner) - Simple task runner with a terse syntax.
+- [script-runner ★16 ⏳1Y](https://github.com/paulpflug/script-runner) - Simple task runner with a terse syntax.
 - [npm-run-all ★1857](https://github.com/mysticatea/npm-run-all) - Fully featured task runner.
 - [redrun ★58](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 

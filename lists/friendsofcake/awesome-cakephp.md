@@ -384,7 +384,7 @@ Additional lists you might find useful:
 - [JadeView plugin](https://github.com/clthck/cakephp-jade) - Jade template engine plugin.
 - [Liquid plugin ★3 ⏳2Y](https://github.com/gourmet/liquid) - A plugin to use the Liquid templating language for views.
 - [Meta plugin ★6](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
-- [SocialMeta plugin ★19 ⏳1Y](https://github.com/gourmet/social-meta) - Adds support for Facebook's OpenGraph and Twitter's Card meta tags.
+- [SocialMeta plugin ★19 ⏳2Y](https://github.com/gourmet/social-meta) - Adds support for Facebook's OpenGraph and Twitter's Card meta tags.
 - [TwigView plugin ★68](https://github.com/WyriHaximus/TwigView) - A plugin to use the Twig Templating Language for views.
 - [VideoEmbed plugin ★3](https://github.com/drmonkeyninja/cakephp-video-helper) - Helper for embedding YouTube, Vimeo and Dailymotion videos.
 

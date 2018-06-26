@@ -65,7 +65,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Peachy ★9](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE
 * [skeletor ★13 ⏳2Y](https://github.com/pelevesque/skeletor) - 2D skeletal animation system
 * [Walt ★35](https://github.com/davisdude/Walt) - Animation library
-* [Lump ★16 ⏳1Y](https://github.com/sixFingers/lump) - Adobe Flash animation runtime
+* [Lump ★16 ⏳2Y](https://github.com/sixFingers/lump) - Adobe Flash animation runtime
 
 ## Camera
 *Viewport & Camera Libraries*

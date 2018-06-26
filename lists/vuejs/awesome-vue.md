@@ -122,7 +122,6 @@ title: Awesome Rank for vuejs/awesome-vue
       - [Redux](#redux)
       - [Mobx](#mobx)
       - [Vuex Utilities](#vuex-utilities)
-    - [Parent-Child Component Communication](#parent-child-component-communication)
     - [GraphQL](#graphql)
     - [Concurrency Management](#concurrency-management)
     - [Code Style](#code-style)
@@ -548,7 +547,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [Distrochooser.de](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
   - [Buka ★459](https://github.com/oguzhaninan/Buka) - EBook Management
   - [Docute ★1875](https://github.com/egoist/docute) - A framework for writing documentation without build process
-  - [pm86 ★90](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites
+  - [pm86 ★90 ⏳1Y](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites
   - [vms ★820](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
   - [nativescript-vue](https://github.com/rigor789/nativescript-vue) - A Vue.js implementation of the NativeScript renderer.
   - [piper ★118](https://github.com/fireyy/piper) - A drag-and-drop mobile website builder base on Vue.
@@ -1068,7 +1067,7 @@ Tooltips / popovers
  - [vue-simple-calendar ★177](https://github.com/richardtallent/vue-simple-calendar) - Flexbox-based Vue month calendar compenent; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
  - [vue2-calendar ★28](https://github.com/Trekels/vue2-calendar) - A simple full calendar component aimed at beeing flexibile and lightweight.
  - [vue-jlunar-datepicker ★17](https://github.com/tuhe32/vue-jLunar-datePicker) - A Chinese lunar datepicker component with festivals and solar terms.
- - [vue-full-calendar](https://github.com/CroudSupport/vue-fullcalendar) - A complete [fullcalendar.io](fullcalendar.io) wrapper for both Vue 1 and 2
+ - [vue-full-calendar](https://github.com/CroudSupport/vue-fullcalendar) - A complete [fullcalendar.io](https://fullcalendar.io) wrapper for both Vue 1 and 2
  - [v-calendar ★579](https://github.com/nathanreyes/v-calendar) - Animated calendar/datepicker that displays regions, indicators and day popovers for simple & recurring dates.
  - [vue-infinite-calendar ★4](https://github.com/laleshii/vue-infinite-calendar) - A simple infinite calendar implementation for Vue 2
  - [vue-calendar ★16](https://github.com/kylin-z/vue-calendar) - A simple calendar components for Vue 2.1.5+, support custom content. No dependencies.
@@ -1138,6 +1137,7 @@ Tooltips / popovers
  - [sl-vue-tree ★26](https://github.com/holiber/sl-vue-tree) - A simple customizable draggable tree component for Vue.js
  - [vue-draggable-nested-tree ★33](https://github.com/phphe/vue-draggable-nested-tree) - Customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
  - [vuejs-tree ★9](https://github.com/scalia/vuejs-tree) - A highly customizable VueJs tree viewer
+ - [vue-jstree ★116](https://github.com/zdy1988/vue-jstree) - A Tree Plugin For Vue2 with beautiful icons and drag&drop
 
 
 ### Social Sharing
@@ -1646,7 +1646,8 @@ Tooltips / popovers
  - [vue-breakpoints ★74](https://github.com/apertureless/vue-breakpoints) - Vue 2 minimal components to show and hide elements based on breakpoints. Inspired by Airbnb.
   - [vue-mq ★86](https://github.com/AlexandreBonaventure/vue-mq) - Offer some useful tools to quickly setup responsive design with a semantic and mobile-first API (Vue 2.x)
  - [VueResizeSensor ★2](https://github.com/SeregPie/VueResizeSensor) - A container that supports resize event.
-
+ - [vue-breakpoint-component ★6](https://github.com/adi518/vue-breakpoint-component) - A render-less component for
+composing CSS breakpoint state.
 ### Form
 
  - [vue-formly ★150](https://github.com/formly-js/vue-formly) - JavaScript powered forms for Vue.js.
@@ -1792,6 +1793,7 @@ Tooltips / popovers
  - [vue-trans](https://github.com/Trekels/vue-trans) - A simple filter to provide a similar way of translating to the Symfony trans.
  - [vue-string-filter ★10](https://github.com/mazipan/vue-string-filter) - Lightweight Vue 2 String Manipulation Filter.
  - [vue-units ★3](https://github.com/ERPedersen/vue-units) - A collection of handy unit conversion filters for use in Vue 2.
+ - [vue-numeral-filter ★7](https://github.com/lloydjatkinson/vue-numeral-filter) - A collection of filters that allows Numeral.js to be used inline in the template section of a component.
 
 ### SVG
 
@@ -1987,10 +1989,6 @@ the amazing Vue.js.
  - [vuex-basement ★41](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
  - [vuex-shared-mutations ★220](https://github.com/xanf/vuex-shared-mutations) - Share vuex mutations between tabs/windows.
 
-### Parent-Child Component Communication
-
- - [vue-messenger ★1](https://github.com/fjc0k/vue-messenger) - A lightweight Vue mixin for communicating between Parent and Child components, with optional listeners and transformations.
-
 ### GraphQL
 
  - [vue-apollo ★2206](https://github.com/Akryum/vue-apollo) - Apollo/GraphQL integration for VueJS.
@@ -2056,6 +2054,7 @@ the amazing Vue.js.
 - [vue-lodash ★25](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
 - [vue-ramda ★7](https://github.com/choufeng/vue-ramda) - Vue Wrapper for [ramda](http://ramdajs.com/)
 - [vue-router-user-roles ★129](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
+ - [vue-messenger ★1](https://github.com/fjc0k/vue-messenger) - A series of useful enhancements to Vue component props: Transform, Enum-type, Numeric-type, Two-way data bindings.
 
 ### Web Workers
 - [vue-worker ★214](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.

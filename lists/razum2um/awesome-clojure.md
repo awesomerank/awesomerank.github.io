@@ -383,6 +383,7 @@ anylysis and visualization.*
 
 ## Debugging
 
+  * [tools.trace ★241 ⏳1Y](https://github.com/clojure/tools.trace)
   * [debugger ★200 ⏳2Y](https://github.com/razum2um/clj-debugger)
   * [debug-repl ★141 ⏳4Y](https://github.com/GeorgeJahad/debug-repl)
   * [ritz ★327 ⏳5Y](https://github.com/pallet/ritz)

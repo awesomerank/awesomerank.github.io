@@ -156,7 +156,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [OOP with Functions in Swift ★58](https://github.com/iamleeg/OOPInFPInSwift) - Object-Oriented Programming in Functional Programming in Swift. 🍁
 * [Learn about transducers ★79 ⏳3Y](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers. ⏳ 
 * [Swift Functors, Applicatives, and Monads in Pictures ★56 ⏳1Y](https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground) - Companion to the article: Swift Functors, Applicatves, and Monads in Pictures. ⏳ 
-* [Functors in Swift ★7 ⏳2Y](https://github.com/mokagio/Swift-Functor-Introduction-Playground) - A playground to introduce Functors in Swift, and their practical usage. ⏳ 
+* [Functors in Swift ★7 ⏳3Y](https://github.com/mokagio/Swift-Functor-Introduction-Playground) - A playground to introduce Functors in Swift, and their practical usage. ⏳ 
 
 ### Algorithms and Data Structures
 *Algorithms and data structures implemented in Swift*

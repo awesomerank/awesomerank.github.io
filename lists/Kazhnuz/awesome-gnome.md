@@ -22,6 +22,7 @@ title: Awesome Rank for Kazhnuz/awesome-gnome
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Internet](#internet)
+  - [Editor](#editor)
   - [Documents](#documents)
   - [Multimedia](#multimedia)
   - [Graphics](#graphics)
@@ -69,7 +70,7 @@ title: Awesome Rank for Kazhnuz/awesome-gnome
 ### Internet
 
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
-- [Eolie](https://gitlab.gnome.org/gnumdk/eolie) - Web browser that uses vertical tabs.
+- [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client for GNOME, created originally by Yorba.
 - [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
 - [Corebird](http://corebird.baedert.org/) - Twitter client.
@@ -80,10 +81,14 @@ title: Awesome Rank for Kazhnuz/awesome-gnome
 - [Transmission Remote GNOME ★10](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.
 - [Fragments](https://github.com/FragmentsApp/Fragments/) - GTK3 BitTorrent client
 
+### Editor
+
+- [UberWriter ★69](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor for GNU/Linux made with GTK+
+
 ### Documents
 
 - [NFO Viewer ★47](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
-- [Paperwork ★2366](https://github.com/openpaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
+- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Easy Ebook Viewer ★305](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files.
 - [Bookworm ★248](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME.
 - [Showdown ★39](https://github.com/craigbarnes/showdown) - Simple markdown viewer.
@@ -95,7 +100,7 @@ title: Awesome Rank for Kazhnuz/awesome-gnome
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal ★163](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [GNOME MPV ★200](https://github.com/gnome-mpv/gnome-mpv) - GUI for the MPV media player for GNOME.
-- [Lollypop](https://gitlab.gnome.org/gnumdk/lollypop) - Beautiful music application.
+- [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
 - [GRadio ★279](https://github.com/haecker-felix/gradio) - Client for web-based radio.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect ★480](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.

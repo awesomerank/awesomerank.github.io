@@ -390,7 +390,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [PHP-httperf ★5 ⏳4Y](https://github.com/jmervine/php-httperf) - PHP Port of HTTPerf.rb.
 * [HTTPerf.js ★24 ⏳4Y](https://github.com/jmervine/httperfjs) - JS Port of HTTPerf.rb.
 * [HTTPerf.py ★11 ⏳3Y](https://github.com/jmervine/httperfpy) - Python Port of HTTPerf.rb.
-* [Gohttperf ★5 ⏳2Y](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
+* [Gohttperf ★5 ⏳3Y](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
 * [wrk ★16280](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
   processing, and custom reporting)
 * [beeswithmachineguns ★5081](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).

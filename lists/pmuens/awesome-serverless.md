@@ -1556,7 +1556,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Stripe backend ★30](https://github.com/yosriady/serverless-stripe-backend) - Backend application for `serverless-stripe-frontend` built on AWS Lambda & the Serverless Framework.
 - [FaunaDB CRUD ★21 ⏳1Y](https://github.com/fauna/serverless-crud) - CRUD service which uses FaunaDB for data persistence.
 - [Comic Relief Grants API service ★10](https://github.com/comicrelief/grants-api-serverless) - Consumer and frontend for the Comic Relief Grants API.
-- [Foo ★2](https://github.com/skewart/foo-service) - Simple example service.
+- [Foo ★2 ⏳1Y](https://github.com/skewart/foo-service) - Simple example service.
 - [Screenshot get ★10](https://github.com/amv/serverless-screenshot-get) - AWS API for returning PNG data of a fresh web page screenshot.
 - [Coinboss ★73](https://github.com/nicka/coinboss) - Serverless Coinbase tradingbot.
 - [Example ★2](https://github.com/nafetswirth/serverless-example) - Another serverless example service.
@@ -1761,6 +1761,8 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Pulumi](https://pulumi.com) - Build cloud applications and infrastructure in your favorite language.
 - [Serverless Compose ★15](https://github.com/horike37/serverless-compose) - Orchestrator for multiple serverless services.
 - [Serverless DynamoDB Client ★31](https://github.com/99xt/serverless-dynamodb-client) - Automatically switch between AWS and local instances.
+- [Titanium Lambda ★50](https://github.com/JimTheMan/Titanium-Lambda) - Easy to maintain, blazingly fast and thoroughly tested Lambda functions in Node.Js.
+- [Gofn ★77](https://github.com/gofn/gofn) - Function process via Docker provider (serverless minimalist).
 
 ## Plugins
 

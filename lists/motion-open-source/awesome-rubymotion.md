@@ -285,7 +285,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### Icons
-* [Ion_in_Motion ★4 ⏳2Y](https://github.com/Brian-Egan/ion_in_motion) - Ridiculously easy use of IonIcons in UILabels, UIButtons, UIImages and more. IonIcons: http://ionicons.com/.
+* [Ion_in_Motion ★4 ⏳3Y](https://github.com/Brian-Egan/ion_in_motion) - Ridiculously easy use of IonIcons in UILabels, UIButtons, UIImages and more. IonIcons: http://ionicons.com/.
 * [Moticons ★16 ⏳1Y](https://github.com/andrewhavens/moticons) - The easiest way to add icons to your RubyMotion app.
 
 

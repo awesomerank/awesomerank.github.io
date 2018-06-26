@@ -101,6 +101,8 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tfenv ★300](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv.
 * [terraform-landscape ★300](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand.
 * [Blast Radius ★197](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs.
+* [tflint ★405](https://github.com/wata727/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
+* [tgf ★17](https://github.com/coveo/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
 
 
 ## Talks
@@ -117,6 +119,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [Production ChaosMonkey with Terraform](https://www.youtube.com/watch?v=CPI6W3LK0-g) - How DigitalOcean uses Terraform to run production integration tests.
 * [Terraform w/ Lee Trout](https://www.youtube.com/watch?v=p2ESyuqPw1A) - Focuses on development patterns and how to effectively structure Terraform code.
 * [Webinar: Multi-Cloud, One Command with Terraform](https://www.youtube.com/watch?v=adzqsywrJKk) - Provisioning hybrid cloud infrastructure using Terraform.
+* [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ) - Yevgeniy Brikman talks about how to write Terraform code so that it is reusable, composable and testable. The presentation focuses on Terraform modules, but also provides a brief and clear explanation of what problem Terraform was created to solve and a short demo of Terraform basics (~39 min, October 2017)
 
 ## Editor Plugins
 
@@ -124,6 +127,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [Vim-Terraform-Completion ★119](https://github.com/juliosueiras/vim-terraform-completion)
 * [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
 * [Emacs terraform-mode ★69 ⏳1Y](https://github.com/syohex/emacs-terraform-mode)
+* [VS Code](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
 
 ## License
 

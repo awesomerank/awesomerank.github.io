@@ -514,6 +514,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-avatar ★82](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
 * [ngx-qrcode2 ★72](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes
 * [ng2-permission](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission` ★1144](https://github.com/Narzerus/angular-permission).
+* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL ★539](https://github.com/stalniy/casl) with Angular2+
 * [ng-s-resource ★6](https://github.com/hiyali/ng-s-resource) - Simplify RESTful http resource generator for Angular 4+.
 * [ng-data-picker ★6](https://github.com/hiyali/ng-data-picker) - 🏄🏼 A data picker based on Angular 4+ (like iOS native datetime picker)
 * [ngx-siema ★42](https://github.com/lexzhukov/ngx-siema) - Lightweight and simple carousel with no dependencies.

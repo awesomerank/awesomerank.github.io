@@ -118,7 +118,7 @@ title: Awesome Rank for sindresorhus/awesome-nodejs
 - [turf ★3679](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 - [webcat ★373 ⏳1Y](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 - [NodeOS ★5423](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
-- [limdu ★898](https://github.com/erelsgl/limdu) - Machine-learning framework.
+- [Brain.js ★5403](https://github.com/BrainJS/brain.js) - Machine-learning framework.
 - [Cytoscape.js ★4392](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
 - [Kadence](https://kadence.github.io/) - Kademlia distributed hash table.
 - [seedshot](https://github.com/twobucks/seedshot) - Temporary P2P screenshot sharing from your browser.

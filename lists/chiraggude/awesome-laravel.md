@@ -186,7 +186,7 @@ Inspired by [ziadoz/awesome-php ★18804](https://github.com/ziadoz/awesome-php)
 * [Algolia Search ★234](https://github.com/algolia/algoliasearch-laravel) - Integrates the Algolia Search API to the Laravel Eloquent ORM
 * [Elasticquent ★712](https://github.com/elasticquent/Elasticquent) - Elasticsearch for Eloquent models
 * [Plastic ★404](https://github.com/sleimanx2/plastic) - Fluently mapping and searching Elasticsearch
-* [Laravel Search ★299](https://github.com/mmanos/laravel-search) - Unified API for Elasticsearch, Algolia, and ZendSearch
+* [Laravel Search ★299 ⏳1Y](https://github.com/mmanos/laravel-search) - Unified API for Elasticsearch, Algolia, and ZendSearch
 * [SearchIndex ★357](https://github.com/spatie/searchindex) - Store and retrieve objects from Algolia or Elasticsearch
 * [Searchable ★1308](https://github.com/nicolaslopezj/searchable) - Trait that adds a simple search function to Eloquent models
 * [TNTSearch ★1416](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP

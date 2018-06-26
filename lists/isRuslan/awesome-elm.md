@@ -50,7 +50,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [TodoMVC ★954](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
 * [TodoMVC with JSON API ★95](https://github.com/andrewsuzuki/elm-todo-rest-api) - Bare-bones, modular, heavily-documented todo app with JSON API persistence.
 * [TodoMVC/Firebase](https://github.com/ThomasWeiser/todomvc-elmfire) - Fork of TodoMVC demonstrating start-app, [The Elm Architecture ★3730](https://github.com/evancz/elm-architecture-tutorial) and Firebase as backend.
-* [\<elm-ement\> ★44](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
+* [\<elm-ement\> ★44 ⏳1Y](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
 * [Elm Playground](http://elm-playground.maciejsmolinski.com/) - Tiny Elm projects implemented for the sake of learning by example.
 * [TodoMVC in Electron ★85](https://github.com/nirgn975/Elmctron) -  Documented and tested implementation of the Elm TodoMVC app in Electron.
 * [Gipher ★221 ⏳1Y](https://github.com/matthieu-beteille/gipher) - A Tinder-like application for gifs built with elm and firebase!

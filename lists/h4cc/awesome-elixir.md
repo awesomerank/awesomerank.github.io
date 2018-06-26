@@ -1017,7 +1017,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [gibran](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted ★122 ⏳1Y](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
 * [Paasaa ★43](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
-* [Petrovich ★16](https://github.com/petrovich/petrovich_elixir) - Elixir library to inflect Russian first, last, and middle names.
+* [Petrovich ★16 ⏳1Y](https://github.com/petrovich/petrovich_elixir) - Elixir library to inflect Russian first, last, and middle names.
 * [Woolly ★29 ⏳1Y](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
 
 ## Networking
@@ -1659,7 +1659,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [intellij_elixir ★0](https://github.com/KronicDeth/intellij_elixir) - Elixir helpers for intellj-elixir, the Elixir plugin for JetBrains IDEs.
 * [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
 * [Notepad++ ★4 ⏳3Y](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
-* [nvim ★16](https://github.com/dm1try/nvim) - Neovim host for writing plugins in Elixir.
+* [nvim ★16 ⏳1Y](https://github.com/dm1try/nvim) - Neovim host for writing plugins in Elixir.
 * [phoenix-snippets ★5 ⏳2Y](https://github.com/phoenixframework-Brazil/phoenix-snippets) - Phoenix Snippets for Atom.
 * [TextMate](https://github.com/elixir-lang/elixir-tmbundle) - Elixir syntax highlighting for TextMate.
 * [vim-elixir](https://github.com/elixir-lang/vim-elixir) - Vim configuration files for Elixir.

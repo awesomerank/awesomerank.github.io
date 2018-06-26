@@ -370,7 +370,7 @@ Name | License | Demo
 --- | --- | ---
 [Swipecards ★2025](https://github.com/Diolor/Swipecards) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Swipecards.gif" width="49%">
 [Android-Bootstrap ★6672](https://github.com/Bearded-Hen/Android-Bootstrap) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/Android-Bootstrap.png" width="49%">
-[Android PDFView ★2368 ⏳1Y](https://github.com/JoanZapata/android-pdfview) | [GPL V3](https://opensource.org/licenses/GPL-3.0) | <img src="/art/android-pdfview.png" width="100%">
+[Android PDFView ★2368 ⏳2Y](https://github.com/JoanZapata/android-pdfview) | [GPL V3](https://opensource.org/licenses/GPL-3.0) | <img src="/art/android-pdfview.png" width="100%">
 [Dspec ★572 ⏳1Y](https://github.com/lucasr/dspec) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/dspec.png" width="100%">
 [LolliPin ★1403](https://github.com/omadahealth/LolliPin) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LolliPin.gif" width="49%">
 [DrawableView ★504](https://github.com/PaNaVTEC/DrawableView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/DrawableView.gif" width="49%">

@@ -546,6 +546,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Eli Bendersky http://eli.thegreenplace.net/
 * Eric Elliot https://medium.com/javascript-scene/
 * Eric Lippert https://ericlippert.com/
+* Erik Runyon https://erikrunyon.com/
 * Evan Dempsey https://www.smallsurething.com/
 * Evan Hahn http://evanhahn.com/
 * Evan Jones http://www.evanjones.ca/chronological.html
@@ -602,6 +603,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Joel Spolsky https://www.joelonsoftware.com/
 * John Resig https://johnresig.com/category/blog/
 * John Wittenauer http://www.johnwittenauer.net/
+* Jon Kensy http://www.jonkensy.com/
 * Jon Skeet https://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar http://www.born2data.com/
 * Jonathan Snook https://snook.ca/
@@ -626,6 +628,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Lea Verou http://lea.verou.me/
 * Lerner Consulting Blog http://blog.lerner.co.il/
 * Life Plus Linux http://lifepluslinux.blogspot.in/
+* LiveOverflow https://liveoverflow.com/blog/index.html
 * Luciano Mammino https://loige.co/
 
 #### M individuals

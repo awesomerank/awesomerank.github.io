@@ -11,7 +11,7 @@ title: Awesome Rank for dok/awesome-text-editing
 A curated collection of text editing libraries, services, and resources for the web.
 
 ## Rich-text editors using contenteditable
-
+* [Slate ★7585](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable
 * [Trix ★8679](https://github.com/basecamp/trix) - Basecamp's rich text editor
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
 * [Squire ★3816](https://github.com/neilj/Squire) - HTML5 rich text editor
