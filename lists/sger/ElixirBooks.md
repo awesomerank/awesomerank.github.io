@@ -205,7 +205,7 @@ This book covers the basics of the Phoenix web framework, showing you how to bui
 * [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
-* [Awesome Elixir ★8063](https://github.com/h4cc/awesome-elixir)
+* [Awesome Elixir ★8188](https://github.com/h4cc/awesome-elixir)
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
 * [Elixir School](http://elixirschool.com/)
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)

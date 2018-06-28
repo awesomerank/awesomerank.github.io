@@ -107,7 +107,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 ### Example macOS Apps
 * [MacOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
-* [Mctv-mac-osx ★4 ⏳4Y](https://github.com/Motioncasts/mctv-mac-osx) - Demo Pomodoro Technique Timer App.
+* [Mctv-mac-osx ★4 ⏳5Y](https://github.com/Motioncasts/mctv-mac-osx) - Demo Pomodoro Technique Timer App.
 * [Motion-osx-ib ★4 ⏳5Y](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a macOS RubyMotion 2.0 application.
 * [Motion-treeview-coredata ★5 ⏳4Y](https://github.com/mipmip/motion-treeview-coredata) - Port of the example from Connecting NSOutlineView to Core Data in 10.6 Part 1: Ordered Trees to RubyMotion.
 * [Rm-osx-kartta ★1 ⏳4Y](https://github.com/masal/rm-osx-kartta) - RubyMotion / macOS map viewer for Finnish topographical maps.
@@ -188,7 +188,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Database
-* [Motion-firebase ★46](https://github.com/colinta/motion-firebase) - RubyMotion wrapper for the Firebase SDK.
+* [Motion-firebase ★46 ⏳1Y](https://github.com/colinta/motion-firebase) - RubyMotion wrapper for the Firebase SDK.
 * [Yapper ★29 ⏳2Y](https://github.com/kareemk/yapper) - ORM for YapDatabase which is schemaless, very fast (thanks to YapDatabase's architecture), has chainable criteria, one-many relationships, on-the-fly reindexing and is thread-safe.
 * [Couchmotion ★18 ⏳2Y](https://github.com/jannishuebl/couchmotion) - API for using Couchbase(CouchDB) a schemaless database with Rubymotion for Android and iOS.
 * [Motion-sqlite3 ★33 ⏳2Y](https://github.com/mattgreen/motion-sqlite3) - Minimal wrapper over the SQLite 3 C API for RubyMotion.
@@ -311,7 +311,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Models & Core Data
 * [MotionModel ★198 ⏳2Y](https://github.com/sxross/MotionModel) - Simple Model, Validation, and Input Mixins for RubyMotion.
-* [NanoStoreInMotion ★107 ⏳4Y](https://github.com/siuying/NanoStoreInMotion) - Wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite.
+* [NanoStoreInMotion ★107 ⏳5Y](https://github.com/siuying/NanoStoreInMotion) - Wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite.
 * [MotionDataWrapper ★67 ⏳4Y](https://github.com/macfanatic/motion_data_wrapper) - Intuitive querying and persistence of Core Data models, using Xcode to define entities, validations, relationships and migrations.
 * [Core Data Query - CDQ ★177 ⏳1Y](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode.
 * [Motion-bindable ★11 ⏳4Y](https://github.com/nathankot/motion-bindable) - Create two-way bindings between your models and view objects (or any other object.)

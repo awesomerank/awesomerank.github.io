@@ -704,7 +704,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Traceur General Resources
 
-* [Traceur Repository (GitHub) ★7658](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
+* [Traceur Repository (GitHub) ★7677](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
 
 #### Traceur Seed Projects
 
@@ -721,7 +721,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 * [Babel](https://babeljs.io/) Official Website for Babel
 * [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
-* [Babel Repository (GitHub) ★27767](https://github.com/babel/babel) Official GitHub Repo for Babel
+* [Babel Repository (GitHub) ★28272](https://github.com/babel/babel) Official GitHub Repo for Babel
 
 #### Babel Angular 2 Online Playground
 

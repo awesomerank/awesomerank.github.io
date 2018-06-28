@@ -85,7 +85,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
 * [Bazel](http://www.bazel.io/) - Google's build system.
 * [GNU Make](http://www.gnu.org/software/make/) - The most popular automation build tool for many purposes.
 * [Gradle](http://gradle.org/) - Another build automation system.
-* [Rake ★1286](https://github.com/ruby/rake) - Build automation tool similar to Make, written in and extensible in Ruby.
+* [Rake ★1313](https://github.com/ruby/rake) - Build automation tool similar to Make, written in and extensible in Ruby.
 
 ## Backups
 
@@ -172,7 +172,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
 * [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 * [Genesis ★39](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 * [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
-* [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code ★36887](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache` `Go`
+* [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code ★38089](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache` `Go`
 * [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
@@ -231,7 +231,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
 * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
 * [CapsuleCD ★51](https://github.com/AnalogJ/capsulecd) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc).
 * [concourse](http://concourse.ci/) - A modern tool to gain visibility on the CI/CD pipeline.  The flexible, declarative DSL is easy to learn and powerful to use.
-* [Drone ★14390](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
+* [Drone ★14753](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
 * [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
 * [Go](http://www.go.cd/) - Continuous delivery server.
 * [Jenkins](http://jenkins-ci.org/) - An extendable continuous integration server.
@@ -274,7 +274,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
 * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
 * [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
 * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
-* [sup ★1716](https://github.com/pressly/sup) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
+* [sup ★1744](https://github.com/pressly/sup) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 * [Vlad the Deployer ★346 ⏳2Y](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
 
 ## Distributed Filesystems
@@ -406,7 +406,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
 * [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
 * [Bloonix](https://bloonix.org) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPLv3` `Perl`
 * [bolo](http://bolo.niftylogic.com/) - A Do-it-Yourself monitoring framework built to gather metrics, mine data and report on the systems in your network.
-* [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code ★2540](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
+* [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code ★2558](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code ★7473](https://github.com/google/cadvisor)) `Apache` `Go`
@@ -513,7 +513,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
   * [Neo4j](http://neo4j.com/) - Graph database.
 * Key-Value
-  * [LevelDB ★13816](https://github.com/google/leveldb) - Google's high performance key/value database.
+  * [LevelDB ★14117](https://github.com/google/leveldb) - Google's high performance key/value database.
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
   * [Riak](http://docs.basho.com/) - Another fault-tolerant key-value NoSQL database.
 
@@ -521,7 +521,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Packaging
 
-* [fpm ★8482](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
+* [fpm ★8558](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
 * [omnibus-ruby ★981](https://github.com/chef/omnibus) - Full stack, cross distro packaging software (Ruby).
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 * [tito ★265](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
@@ -564,7 +564,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 * [Doozerd ★2995 ⏳2Y](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
-* [etcd ★18520](https://github.com/coreos/etcd) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
+* [etcd ★18952](https://github.com/coreos/etcd) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
 * [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 
 ## Software Containers

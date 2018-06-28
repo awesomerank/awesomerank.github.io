@@ -10,7 +10,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 # Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
 ---
 
-  A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python ★50412](https://github.com/vinta/awesome-python).
+  A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python ★51865](https://github.com/vinta/awesome-python).
   
   I created this list so that when I needed something in the future, it would be easy to find. Most of the documents and links are collected from the [D forum](http://forum.dlang.org), the [D wiki](http://wiki.dlang.org), and the [D package repository](http://code.dlang.org). Exploring GitHub also helps as many of the libs are hosted there.
   
@@ -310,7 +310,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 * [tkD ★88 ⏳1Y](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
 * [dqml ★29](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui ★7026](https://github.com/andlabs/libui)
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui ★7365](https://github.com/andlabs/libui)
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 

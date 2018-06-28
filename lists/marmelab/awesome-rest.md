@@ -89,17 +89,17 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Ruby Clients
 
-* [RESTClient ★4379](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
-* [Spyke ★509](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
-* [excon ★887](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
-* [httparty ★4515](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
+* [RESTClient ★4402](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
+* [Spyke ★514](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+* [excon ★890](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
+* [httparty ★4548](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
 * [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
 * [raml-ruby-client-generator ★1 ⏳2Y](https://github.com/zlx/raml-ruby-client-generator) - Auto generate API client from a RAML file.
 
 ### Go Clients
 
-* [gopencils ★409](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
-* [resty ★883](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
+* [gopencils ★410](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
+* [resty ★921](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
 ## Servers
 
@@ -152,13 +152,13 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [flask-restful](http://flask-restful.readthedocs.org/) - Extension for Flask that adds support for quickly building REST APIs.
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) - Flask extension for generating ReSTful APIs for database models defined with SQLAlchemy (or Flask-SQLAlchemy).
 * [hug](http://www.hug.rest/) - Lightweight and fast API Framework.
-* [sandman ★2300 ⏳2Y](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
+* [sandman ★2298 ⏳2Y](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
 * [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
 * [savory-pie](https://github.com/RueLaLa/savory-pie/) - REST API building library (django, and others).
 * [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
 * [Ramses](https://ramses.readthedocs.org/en/stable/) - Makes RAML files executable by generating production-ready APIs from them at runtime.
 * [Flask-Potion ★417](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
-* [apistar ★4114](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3. 
+* [apistar ★4298](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3. 
 
 ### Ruby
 
@@ -168,11 +168,11 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Go
 
 * [gocrud ★283 ⏳2Y](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
-* [go-json-rest ★3110](https://github.com/ant0ine/go-json-rest) - Thin layer on top of `net/http` that helps building RESTful APIs easily.
+* [go-json-rest ★3123](https://github.com/ant0ine/go-json-rest) - Thin layer on top of `net/http` that helps building RESTful APIs easily.
 * [sleepy ★670](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go.
 * [restit](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test.
 * [go-relax ★146](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
-* [go-rest ★106 ⏳1Y](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
+* [go-rest ★107 ⏳1Y](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
 * [go-restful ★2732](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
 * [Goat ★162](https://github.com/bahlo/goat) - Minimalistic REST API server in Go.
 * [Resoursea ★29 ⏳3Y](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
@@ -209,7 +209,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Mocky.io](http://www.mocky.io/) - Free online service to create fake HTTP responses.
 * [Swagger API Mock ★19 ⏳2Y](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
 * [Request Baskets ★37](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
-* [DuckRails ★1460](https://github.com/iridakos/duckrails) - Mock quickly & dynamically API endpoints.
+* [DuckRails ★1476](https://github.com/iridakos/duckrails) - Mock quickly & dynamically API endpoints.
 
 ### Public REST APIs To Use In Tests
 * [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.

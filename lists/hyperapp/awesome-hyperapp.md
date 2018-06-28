@@ -11,7 +11,7 @@ title: Awesome Rank for hyperapp/awesome-hyperapp
 
 > 1 kB JavaScript library for building web applications.
 
-A curated list of [Hyperapp ★13708](https://github.com/hyperapp/hyperapp) resources.
+A curated list of [Hyperapp ★14187](https://github.com/hyperapp/hyperapp) resources.
 
 <!-- TOC -->
 

@@ -142,6 +142,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Engine Yard https://blog.engineyard.com/
 * Entelo https://sourcecode.entelo.com/
 * Envato https://webuild.envato.com/
+* Envoy https://envoy.engineering/
 * Erlang Solutions https://www.erlang-solutions.com/blog.html
 * Etsy https://codeascraft.com/
 * Eventbrite https://www.eventbrite.com/engineering/
@@ -239,6 +240,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * King https://techblog.king.com/
 * Kinvolk https://kinvolk.io/blog/
 * Kogan.com https://devblog.kogan.com/
+* Kolosek https://kolosek.com/blog/
 
 #### L companies
 * Laterooms http://engineering.laterooms.com/
@@ -481,6 +483,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Allison Kaptur http://akaptur.com/
 * Amit Merchant https://www.amitmerchant.com/
 * Anders Aarvik http://aarvik.dk/
+* Andreas Schuster https://computer.forensikblog.de/en/
 * Andrew Bancroft http://www.andrewcbancroft.com/
 * Andrew Brampton https://blog.bramp.net/
 * Andrew Ray https://blog.andrewray.me/
@@ -568,6 +571,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Guilherme Rodrigues https://firstdoit.com/
 
 #### H individuals
+* Hayden James https://haydenjames.io/
 * Henrik Warne https://henrikwarne.com/
 * High Scalability http://highscalability.com/
 * Huon Wilson http://huonw.github.io/
@@ -601,10 +605,12 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Joe Armstrong https://joearms.github.io/
 * Joe Nelson https://begriffs.com/
 * Joel Spolsky https://www.joelonsoftware.com/
+* Johannes Brodwall http://johannesbrodwall.com/
 * John Resig https://johnresig.com/category/blog/
 * John Wittenauer http://www.johnwittenauer.net/
 * Jon Kensy http://www.jonkensy.com/
 * Jon Skeet https://codeblog.jonskeet.uk/
+* Jonas Plum https://blog.cugu.eu/
 * Jonathan Dekhtiar http://www.born2data.com/
 * Jonathan Snook https://snook.ca/
 * Josh Haberman http://blog.reverberate.org/

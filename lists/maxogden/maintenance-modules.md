@@ -15,7 +15,7 @@ There is no code in this module, the only thing is this README file.
 
 This is a list of modules that are useful for maintaining or developing modules (in no particular order).
 
-### [fixpack ★284](https://github.com/henrikjoreteg/fixpack) by [henrikjoreteg](https://www.npmjs.com/~henrikjoreteg)
+### [fixpack ★286](https://github.com/henrikjoreteg/fixpack) by [henrikjoreteg](https://www.npmjs.com/~henrikjoreteg)
 
 A package.json file scrubber for the truly insane. Cleans up your package.json in a deterministic way to ensure high quality, handcrafted, artisinal JSON.
 
@@ -55,7 +55,7 @@ A command line module for travis, especially targeted for managing tests for nod
 npm i travisjs --save-dev
 ```
 
-### [gh-pages-deploy ★195](https://github.com/meandavejustice/gh-pages-deploy) by [meandave](https://www.npmjs.com/~meandave)
+### [gh-pages-deploy ★197](https://github.com/meandavejustice/gh-pages-deploy) by [meandave](https://www.npmjs.com/~meandave)
 
 Deploy to gh-pages with one command. Lets you add static build settings into your package.json and then automatically build, deploy and push to gh-pages from master using this module.
 
@@ -71,7 +71,7 @@ Tiny tool for releasing npm modules. Bumps, commits, tags, pushes and publishes.
 npm i npm-release --save-dev
 ```
 
-### [npm-check-updates ★3854](https://github.com/tjunnone/npm-check-updates) by [tjunnone](https://www.npmjs.com/~tjunnone)
+### [npm-check-updates ★3906](https://github.com/tjunnone/npm-check-updates) by [tjunnone](https://www.npmjs.com/~tjunnone)
 
 Find newer versions of dependencies than what your package.json allows.
 
@@ -79,7 +79,7 @@ Find newer versions of dependencies than what your package.json allows.
 npm i npm-check-updates --save-dev
 ```
 
-### [npe ★40 ⏳1Y](https://github.com/zeke/npe) by [zeke](https://www.npmjs.com/~zeke)
+### [npe ★41 ⏳1Y](https://github.com/zeke/npe) by [zeke](https://www.npmjs.com/~zeke)
 
 Node Package Editor: a CLI for one-off inspection and editing of properties in package.json files. Lets you avoid having to hand-edit JSON.
 
@@ -87,7 +87,7 @@ Node Package Editor: a CLI for one-off inspection and editing of properties in p
 npm i npe -g
 ```
 
-### [package-json-to-readme ★249](https://github.com/zeke/package-json-to-readme) by [zeke](https://npmjs.org/~zeke)
+### [package-json-to-readme ★252](https://github.com/zeke/package-json-to-readme) by [zeke](https://npmjs.org/~zeke)
 
 Generate a README.md from package.json contents. With npm modules, lots of info can be gleaned from properties in the package.json file: name, description, scripts.test, preferGlobal, etc. That's why package-json-to-readme exists. Use it to generate a decent boilerplate README, then iterate from there. 
 
@@ -111,7 +111,7 @@ Release manager for npm, bower, component, PyPI, git tags, and any plugin you ca
 npm i foundry --save-dev
 ```
 
-### [semantic-release ★4334](https://github.com/semantic-release/semantic-release) by [boennemann](https://www.npmjs.com/~boennemann)
+### [semantic-release ★4553](https://github.com/semantic-release/semantic-release) by [boennemann](https://www.npmjs.com/~boennemann)
 
 Fully automate your package's releases. This will determine not only which version to release, but also when – all without you having to care about it ever again. The goal of this package is to remove humans from version numbers and releases. Check out the readme for more info!
 
@@ -119,7 +119,7 @@ Fully automate your package's releases. This will determine not only which versi
 npm i semantic-release --save-dev
 ```
 
-### [collaborator ★46 ⏳1Y](https://github.com/maxogden/collaborator) by [maxogden](https://www.npmjs.com/~maxogden)
+### [collaborator ★47 ⏳1Y](https://github.com/maxogden/collaborator) by [maxogden](https://www.npmjs.com/~maxogden)
 
 Easily add new collaborators to your github repos + npm packages from the CLI, and then generate a `collaborators.md` file with the newly updated list of collaborators. Use this to add new maintainers to your projects.
 

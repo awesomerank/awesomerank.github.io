@@ -239,12 +239,12 @@ title: Awesome Rank for Kazhnuz/awesome-gnome
 
 ### Skeumorphic
 
-- [Elementary XFCE ★133](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+- [Elementary XFCE ★134](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Cursors
  - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (regular, slim and opaque).
- - [Bibata ★50](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
- - [Capitaine Cursors ★244](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+ - [Bibata ★52](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+ - [Capitaine Cursors ★253](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## Community
 
@@ -273,7 +273,7 @@ title: Awesome Rank for Kazhnuz/awesome-gnome
 
 ### Examples
 
-- [Hello ★41](https://github.com/chergert/hello) - Set of Hello World examples for GNOME in different languages.
+- [Hello](https://github.com/chergert/hello) - Set of Hello World examples for GNOME in different languages.
 
 ### Documentations
 

@@ -16,7 +16,7 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP ★18804](https://github.com/ziadoz/awesome-php)
+- [Awesome PHP ★19087](https://github.com/ziadoz/awesome-php)
 - [Awesome Awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting

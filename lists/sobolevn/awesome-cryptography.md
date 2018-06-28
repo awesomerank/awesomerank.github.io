@@ -147,7 +147,7 @@ A curated list of cryptography resources and links.
 
 - [crypto-algorithms ★589](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
-- [libsodium ★5686](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
+- [libsodium ★5760](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
 - [libtomcrypt ★694](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
 - [monocypher](http://loup-vaillant.fr/projects/monocypher/) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
 - [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
@@ -196,14 +196,14 @@ A curated list of cryptography resources and links.
 
 ### Elixir
 
-- [cipher ★44](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-- [cloak ★214](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
+- [cipher ★47](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+- [cloak ★216](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 - [comeonin](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
 - [elixir-rsa ★18](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
 - [elixir_tea ★1 ⏳3Y](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
-- [ex_crypto ★62](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
+- [ex_crypto ★63](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
 - [exgpg ★12 ⏳2Y](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-- [pot ★84](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+- [pot ★87](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 - [siphash-elixir](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
 
 ### Erlang
@@ -306,12 +306,12 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [charm ★221](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
 - [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
 - [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implmentation of cryptographic algorithms and applications.
-- [hashids ★756](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
+- [hashids ★767](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
 - [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
 - [Privy ★200](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
 - [pycryptodome ★481](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
 - [PyElliptic ★102 ⏳1Y](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
-- [pynacl ★480](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+- [pynacl ★490](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 - [pythemis](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### R
@@ -328,13 +328,13 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 - [octavo ★123](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
 - [proteus ★305](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
-- [ring ★859](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
-- [rust-crypto ★725](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
-- [rust-openssl ★372](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
-- [rustls ★707](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
+- [ring ★904](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
+- [rust-crypto ★734](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
+- [rust-openssl ★383](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
+- [rustls ★725](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
 - [sodiumoxide](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
-- [suruga ★121 ⏳2Y](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
-- [webpki ★121](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
+- [suruga ★120 ⏳2Y](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
+- [webpki ★125](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
 ### Scala
 

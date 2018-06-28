@@ -260,7 +260,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Apache Thrift](https://thrift.apache.org) - Data interchange format that originated at Facebook.
 - [Big Queue ★302](https://github.com/bulldog2011/bigqueue) - A big, fast and persistent queue based on memory-mapped files.
 - [Persistent Collection](https://pcollections.org) - Persistent and immutable analogue of the Java Collections Framework.
-- [Protobuf ★26343](https://github.com/google/protobuf) - Google's data interchange format.
+- [Protobuf ★27173](https://github.com/google/protobuf) - Google's data interchange format.
 - [SBE ★1363](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding, one of the fastest message formats around.
 - [Tape ★2079](https://github.com/square/tape) - A lightning-fast, transactional, file-based FIFO.
 - [Wire ★2415](https://github.com/square/wire) - Clean, lightweight protocol buffers.
@@ -421,7 +421,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Libraries that assist with creating HTTP requests and/or binding responses.*
 
-- [Async Http Client ★4423](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous HTTP and WebSocket client library.
+- [Async Http Client ★4482](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous HTTP and WebSocket client library.
 - [Feign](https://github.com/Netflix/feign) - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
 - [OkHttp](https://square.github.io/okhttp) - HTTP+SPDY client.
 - [restQL-core ★84](https://github.com/B2W-BIT/restQL-core) - Microservice query language that fetches information from multiple services.
@@ -631,7 +631,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 - [Comsat ★480](https://github.com/puniverse/comsat) - Integrates standard Java web-related APIs with Quasar fibers and actors.
 - [Dubbo](https://github.com/alibaba/dubbo) - High-performance RPC framework.
-- [Finagle ★6489](https://github.com/twitter/finagle) - Extensible RPC system for constructing high-concurrency servers. It implements uniform client and server APIs for several protocols, and is protocol-agnostic to simplify implementation of new protocols.
+- [Finagle ★6536](https://github.com/twitter/finagle) - Extensible RPC system for constructing high-concurrency servers. It implements uniform client and server APIs for several protocols, and is protocol-agnostic to simplify implementation of new protocols.
 - [Grizzly](https://javaee.github.io/grizzly) - NIO framework. Used as a network layer in Glassfish.
 - [gRPC ★4376](https://github.com/grpc/grpc-java) - RPC framework based on protobuf and HTTP/2.
 - [KryoNet ★1268](https://github.com/EsotericSoftware/kryonet) - Provides a clean and simple API for efficient TCP and UDP client/server network communication using NIO and Kryo.

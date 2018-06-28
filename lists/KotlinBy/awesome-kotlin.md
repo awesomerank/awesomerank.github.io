@@ -325,8 +325,8 @@ Here awesome badge for your project:
 * [mathiasfrohlich/vscode-kotlin ★77](https://github.com/mathiasfrohlich/vscode-kotlin) - Kotlin language support for VS Code.
 
 ### <a name="libraries-frameworks-syntax-highlighters"></a>Syntax Highlighters <sup>[Back ⇈](#libraries-frameworks-syntax-highlighters-subcategory)</sup>
-* [jneen/rouge ★2263](https://github.com/jneen/rouge) - A pure-ruby code highlighter that is compatible with pygments. (wip)
-* [isagalaev/highlight.js ★12268](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter. (out-of-date)
+* [jneen/rouge ★2291](https://github.com/jneen/rouge) - A pure-ruby code highlighter that is compatible with pygments. (wip)
+* [isagalaev/highlight.js ★12472](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter. (out-of-date)
 * [github/linguist ★5816](https://github.com/github/linguist) - For Ruby/Github, uses Sublime package
 * [birkenfeld/pygments-main](https://bitbucket.org/birkenfeld/pygments-main) - Python syntax highlighter.
 * [cansik/kotlin-latex-listing ★25](https://github.com/cansik/kotlin-latex-listing) - A syntax highlighting template for the Kotlin language in LaTeX listings.
@@ -477,7 +477,7 @@ Here awesome badge for your project:
 
 ### <a name="projects-idea-plugins"></a>Idea Plugins <sup>[Back ⇈](#projects-idea-plugins-subcategory)</sup>
 * [Vektah/CodeGlance ★798](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
-* [intellij-rust/intellij-rust ★1818](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform.
+* [intellij-rust/intellij-rust ★1854](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform.
 * [dkandalov/activity-tracker ★37](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity.
 
 
@@ -568,7 +568,7 @@ Here awesome badge for your project:
 
 ## <a name="kotlin-javascript"></a>Kotlin JavaScript <sup>[Back ⇈](#kotlin-javascript-category)</sup>
 ### <a name="kotlin-javascript-javascript"></a>JavaScript <sup>[Back ⇈](#kotlin-javascript-javascript-subcategory)</sup>
-* [andrewoma/reakt ★269](https://github.com/andrewoma/reakt) - Reakt is a Kotlin wrapper for facebook's React library.
+* [andrewoma/reakt ★269 ⏳1Y](https://github.com/andrewoma/reakt) - Reakt is a Kotlin wrapper for facebook's React library.
 * [pixijs/pixi-native ★44 ⏳1Y](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
 * [shafirov/klogging ★21](https://github.com/shafirov/klogging) - Kotlin logging, both js and jvm.
 * [stangls/kotlin-js-jquery ★12 ⏳1Y](https://github.com/stangls/kotlin-js-jquery) - A small framework for writing client -side web -applications in Kotlin.

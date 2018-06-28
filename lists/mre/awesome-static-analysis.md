@@ -108,8 +108,7 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 
 ## Elixir
 
-* [credo ★2447](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching.
-* [Dogma ★467](https://github.com/lpil/dogma) - A code style enforcer for Elixir
+* [credo ★2499](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching.
 * [sobelow ★515](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework
 
 ## Erlang
@@ -128,11 +127,11 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 
 * [deadcode ★25](https://github.com/tsenart/deadcode) - Finds unused code.
 * [dingo-hunter ★200](https://github.com/nickng/dingo-hunter) - Static analyser for finding deadlocks in Go.
-* [dupl ★106](https://github.com/mibk/dupl) - Reports potentially duplicated code.
-* [errcheck ★1030](https://github.com/kisielk/errcheck) - Check that error return values are used.
+* [dupl ★108](https://github.com/mibk/dupl) - Reports potentially duplicated code.
+* [errcheck ★1057](https://github.com/kisielk/errcheck) - Check that error return values are used.
 * [flen ★41](https://github.com/lafolle/flen) - Get info on length of functions in a Go package.
 * [gas ★874](https://github.com/GoASTScanner/gas) - Inspects source code for security problems by scanning the Go AST.
-* [Go Meta Linter ★2674](https://github.com/alecthomas/gometalinter) - Concurrently run Go lint tools and normalise their output.
+* [Go Meta Linter ★2762](https://github.com/alecthomas/gometalinter) - Concurrently run Go lint tools and normalise their output.
 * [go tool vet --shadow](https://golang.org/cmd/vet/#hdr-Shadowed_variables) - Reports variables that may have been unintentionally shadowed.
 * [go vet](https://golang.org/cmd/vet/) - Examines Go source code and reports suspicious.
 * [go-critic ★53](https://github.com/go-critic/go-critic) - Go source code linter that maintains checks which are currently not implemented in other linters.
@@ -142,13 +141,13 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 * [gocyclo ★400](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 * [gofmt -s](https://golang.org/cmd/gofmt/) - Checks if the code is properly formatted and could not be further simplified.
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - Checks missing or unreferenced package imports.
-* [golint ★2530](https://github.com/golang/lint) - Prints out coding style mistakes in Go source code.
+* [golint ★2561](https://github.com/golang/lint) - Prints out coding style mistakes in Go source code.
 * [goreporter](https://github.com/wgliang/goreporter) - concurrently runs many linters and normalises their output to a report.
 * [goroutine-inspect ★196](https://github.com/linuxerwang/goroutine-inspect) - An interactive tool to analyze Golang goroutine dump.
 * [gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) - Report simplifications in code.
 * [gotype](https://golang.org/x/tools/cmd/gotype) - Syntactic and semantic analysis similar to the Go compiler.
 * [ineffassign ★162](https://github.com/gordonklaus/ineffassign) - Detect ineffectual assignments in Go code
-* [interfacer ★701](https://github.com/mvdan/interfacer) - Suggest narrower interfaces that can be used.
+* [interfacer ★707](https://github.com/mvdan/interfacer) - Suggest narrower interfaces that can be used.
 * [lll ★18](https://github.com/walle/lll) - Report long lines.
 * [maligned ★151](https://github.com/mdempsky/maligned) -  Detect structs that would take less memory if their fields were sorted.
 * [megacheck](https://github.com/dominikh/go-tools/tree/master/cmd/megacheck) - Run staticcheck, gosimple and unused, sharing work.
@@ -158,8 +157,8 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 * [safesql ★360](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections.
 * [structcheck ★212](https://github.com/opennota/check) - Find unused struct fields.
 * [test](http://golang.org/pkg/testing/) - Show location of test failures from the stdlib testing module.
-* [testify ★5047](https://github.com/stretchr/testify) - Show location of failed testify assertions.
-* [unconvert ★211](https://github.com/mdempsky/unconvert) - Detect redundant type conversions.
+* [testify ★5221](https://github.com/stretchr/testify) - Show location of failed testify assertions.
+* [unconvert ★214](https://github.com/mdempsky/unconvert) - Detect redundant type conversions.
 * [unimport ★52](https://github.com/alexkohler/unimport) - Finds unnecessary import aliases
 * [unparam ★208](https://github.com/mvdan/unparam) - Find unused function parameters.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - Find unused variables.
@@ -202,15 +201,15 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 * [complexity-report](https://github.com/jared-stilwell/complexity-report) - Software complexity analysis for JavaScript projects
 * [DeepScan](https://deepscan.io) :copyright: - An analyzer for JavaScript which targets runtime errors and quality issues rather than coding conventions.
 * [escomplex](https://github.com/jared-stilwell/escomplex) - Software complexity analysis of JavaScript-family abstract syntax trees.
-* [eslint ★11458](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
+* [eslint ★11721](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
 * [Esprima ★4526](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 * [flow](https://flow.org/) - A static type checker for JavaScript.
-* [jshint ★7935](https://github.com/jshint/jshint) - detect errors and potential problems in JavaScript code and enforce your team's coding conventions
-* [JSLint ★3152](https://github.com/douglascrockford/JSLint) :copyright: - The JavaScript Code Quality Tool
+* [jshint ★7945](https://github.com/jshint/jshint) - detect errors and potential problems in JavaScript code and enforce your team's coding conventions
+* [JSLint ★3168](https://github.com/douglascrockford/JSLint) :copyright: - The JavaScript Code Quality Tool
 * [JSPrime ★402 ⏳3Y](https://github.com/dpnishant/jsprime) - static security analysis tool
 * [NodeJSScan ★329](https://github.com/ajinabraham/NodeJsScan) - NodeJsScan is a static security code scanner for Node.js applications.
 * [plato ★4232](https://github.com/es-analysis/plato) - Visualize JavaScript source complexity
-* [Prettier ★24763](https://github.com/prettier/prettier) - An opinionated code formatter.
+* [Prettier ★25686](https://github.com/prettier/prettier) - An opinionated code formatter.
 * [quality](https://github.com/jden/quality) - zero configuration code and module linting
 * [retire.js ★1707](https://github.com/RetireJS/retire.js) - Scanner detecting the use of JavaScript libraries with known vulnerabilities
 * [standard](http://standardjs.com/) - An npm module that checks for Javascript Styleguide issues
@@ -284,16 +283,16 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 ## Python
 
 * [bandit ★148](https://github.com/PyCQA/bandit) - a tool to find common security issues in Python code
-* [jedi ★3285](https://github.com/davidhalter/jedi) - autocompletion/static analysis library for Python
+* [jedi ★3331](https://github.com/davidhalter/jedi) - autocompletion/static analysis library for Python
 * [linty fresh ★158](https://github.com/lyft/linty_fresh) - parse lint errors and report them to Github as comments on a pull request
 * [mccabe ★162](https://github.com/PyCQA/mccabe) - check McCabe complexity
-* [mypy](https://github.com/python/mypy) - a static type checker that aims to combine the benefits of duck typing and static typing, frequently used with [MonkeyType ★1616](https://github.com/Instagram/MonkeyType)
+* [mypy](https://github.com/python/mypy) - a static type checker that aims to combine the benefits of duck typing and static typing, frequently used with [MonkeyType ★1673](https://github.com/Instagram/MonkeyType)
 * [py-find-injection ★58](https://github.com/uber/py-find-injection) - find SQL injection vulnerabilities in Python code
 * [pycodestyle ★3314](https://github.com/PyCQA/pycodestyle) - (formerly `pep8`) check Python code against some of the style conventions in PEP 8
 * [pydocstyle ★427](https://github.com/PyCQA/pydocstyle) - check compliance with Python docstring conventions
 * [pyflakes](https://github.com/pyflakes/pyflakes/) - check Python source files for errors
 * [pylint ★1247](https://github.com/PyCQA/pylint) - looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes `pyreverse` (an UML diagram generator) and `symilar` (a similarities checker).
-* [pyre-check ★1533](https://github.com/facebook/pyre-check) - A fast, scalable type checker for large Python codebases
+* [pyre-check ★1658](https://github.com/facebook/pyre-check) - A fast, scalable type checker for large Python codebases
 * [pyroma ★45](https://github.com/regebro/pyroma) - rate how well a Python project complies with the best practices of the Python packaging ecosystem, and list issues that could be improved
 * [PyT - Python Taint ★1408](https://github.com/python-security/pyt) - A static analysis tool for detecting security vulnerabilities in Python web applications.
 * [radon ★806](https://github.com/rubik/radon) - a Python tool that computes various metrics from the source code
@@ -316,19 +315,19 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 
 ## Ruby
 
-* [brakeman ★4815](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
+* [brakeman ★4845](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
 * [cane ★1331](https://github.com/square/cane) - Code quality threshold checking as part of your build
 * [dawnscanner ★528](https://github.com/thesp0nge/dawnscanner) - a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
-* [flay ★531](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities.
-* [flog ★606](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
+* [flay ★534](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities.
+* [flog ★610](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 * [laser ★389 ⏳6Y](https://github.com/michaeledgar/laser) - Static analysis and style linter for Ruby code.
 * [pelusa ★448 ⏳3Y](https://github.com/codegram/pelusa) - Static analysis Lint-type tool to improve your OO Ruby code
 * [quality ★134](https://github.com/apiology/quality) - Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
-* [reek ★2726](https://github.com/troessner/reek) - Code smell detector for Ruby
-* [rubocop ★9060](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
+* [reek ★2753](https://github.com/troessner/reek) - Code smell detector for Ruby
+* [rubocop](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
 * [Rubrowser](https://github.com/blazeeboy/rubrowser) - Ruby classes interactive dependency graph generator.
 * [ruby-lint ★730 ⏳1Y](https://github.com/YorickPeterse/ruby-lint) - Static code analysis for Ruby
-* [rubycritic ★2077](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter
+* [rubycritic ★2100](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter
 * [SandiMeter ★713](https://github.com/makaroni4/sandi_meter) - Static analysis tool for checking Ruby code for Sandi Metz' rules.
 
 ## Rust
@@ -337,7 +336,7 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 * [electrolysis ★162 ⏳1Y](https://github.com/Kha/electrolysis) - A tool for formally verifying Rust programs by transpiling them into definitions in the Lean theorem prover.
 * [herbie ★138 ⏳1Y](https://github.com/mcarton/rust-herbie-lint) - Adds warnings or errors to your crate when using a numerically unstable floating point expression.
 * [linter-rust ★38](https://github.com/AtomLinter/linter-rust) - Linting your Rust-files in Atom, using rustc and cargo
-* [Rust Language Server ★1527](https://github.com/rust-lang-nursery/rls) - Supports functionality such as 'goto definition', symbol search, reformatting, and code completion, and enables renaming and refactorings.
+* [Rust Language Server ★1590](https://github.com/rust-lang-nursery/rls) - Supports functionality such as 'goto definition', symbol search, reformatting, and code completion, and enables renaming and refactorings.
 * [rustfix ★0](https://github.com/killercup/rustfix) - read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
 
 ## Scala

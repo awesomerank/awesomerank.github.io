@@ -104,7 +104,7 @@ title: Awesome Rank for brillout/awesome-redux
 
 ## React Integration
 
- - [redux-test-recorder ★449 ⏳1Y](https://github.com/conorhastings/redux-test-recorder) - Redux middleware to automatically generate tests for reducers through ui interaction.
+ - [redux-test-recorder ★450 ⏳1Y](https://github.com/conorhastings/redux-test-recorder) - Redux middleware to automatically generate tests for reducers through ui interaction.
  - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
  - [react-easy-universal ★209 ⏳2Y](https://github.com/keystonejs/react-easy-universal) - Universal Routing &amp; Rendering with React &amp; Redux was too hard. Now it&#39;s easy.
  - [redux-form-material-ui ★673](https://github.com/erikras/redux-form-material-ui) - Set of wrapper components to facilitate using Material UI with Redux Form.

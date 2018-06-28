@@ -175,7 +175,7 @@ title: Awesome Rank for vuejs/awesome-vue
 
 - [Official Guide](http://vuejs.org/guide/)
 - [API Reference](http://vuejs.org/api/)
-- [GitHub Repo ★95552](https://github.com/vuejs/vue)
+- [GitHub Repo ★105343](https://github.com/vuejs/vue)
 - [Release Notes](https://github.com/vuejs/vue/releases)
 - [Style Guide](https://vuejs.org/v2/style-guide/)
 - [Vue.js News](https://news.vuejs.org/)
@@ -778,6 +778,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [IDDEF](https://www.iddef.org/) ☪️ The Federation of the Associations that Value Humanity's webpage, CMS, CRM and Donation and all e-commerce pages are designed with Vue.js, Vuex and pure JavaScript 🙏
   - [Configuration File Management](http://www.configapp.com/) - A simple way to manage your configuration files
   - [Roast](https://roastandbrew.coffee/) an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
+  - [YBR](https://yangonbusreport.org) - Centralized YBS Public eComplaint Management System. (Full SPA) 
 
 ### Interactive Experiences
 
@@ -896,7 +897,7 @@ title: Awesome Rank for vuejs/awesome-vue
  - [@voerro/vue-notifications ★25](https://github.com/keen-on-design/vue-flash-message) - Simple Vue.js 2 notifications plugin with HTML and styling support.
  - [vue-awesome-notifications ★19](https://github.com/f3oall/vue-awesome-notifications) - Lightweight Vue.js notification library with advanced async support.
  - [vue-izitoast ★14](https://github.com/arthurvasconcelos/vue-izitoast) - A Vue.js 2 wrapper around IziToast.
- - [vue-toastr-2](https://github.com/saivarunk/vue-toastr-2) - Simple toast notifications for Vue.js built on [toastr ★8232](https://github.com/CodeSeven/toastr)
+ - [vue-toastr-2](https://github.com/saivarunk/vue-toastr-2) - Simple toast notifications for Vue.js built on [toastr ★8348](https://github.com/CodeSeven/toastr)
  - [vue-snack ★1](https://github.com/zerodois/vue-snack) - A Vue.JS plugin for Snackbars based on Google Material.
 
 
@@ -1075,6 +1076,7 @@ Tooltips / popovers
  - [vue2-datePicker-infinite ★1](https://github.com/leepyng/vue-datepicker-infinite) - An infinite datePicker for Vue2, easy to use and no dependencies.
  - [vue2-slot-calendar ★345](https://github.com/icai/vue2-calendar) - A vue 2 calendar, datepicker component which supported lunar or date event, bootstrap style.
  - [quasar-calendar ★34](https://github.com/stormseed/quasar-calendar) - A vue.js calendar using the Quasar framework that implements monthly, multi-day and agenda views.
+ - [vue2-datepicker ★131](https://github.com/mengxiong10/vue2-datepicker) - A beautiful datepicker / datetimepicker component for Vue2 
 
 ### Map
 
@@ -1450,6 +1452,7 @@ Tooltips / popovers
  - [vue-stars](https://www.tallent.us/vue-stars/) - Highly customizable rating control (using stars or other characters)
  - [vue-confirmation-button ★21](https://github.com/imRohan/vue-confirmation-button) - Customizable confirmation button that requires users to read messages before performing an action
  - [vue-poll ★15](https://github.com/ppietris/vue-poll) - A Vue.js component for voting
+ - [vue-diagrams ★20](https://github.com/gwenaelp/vue-diagrams) - Diagram component for vue.js, inspired by react-diagrams
 
 #### Wizard
 
@@ -1587,6 +1590,7 @@ Tooltips / popovers
   - [element Vue Admin ★37](https://github.com/TonyLuo/element-vue-admin) - element Vue Admin / An admin portal template based on Element UI 2.x
   - [vue-element-admin ★14156](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x
   - [d2admin ★654](https://github.com/FairyEver/d2admin-vue-element) - An elegant backstage template build by vue
+  - [rest-admin ★101](https://github.com/wxs77577/rest-admin) - Restful Admin Panel Based on Vue and Boostrap 4 [Online Demo](http://rest-admin.genyii.com)
 
 ### Server-side rendering
 
@@ -2005,7 +2009,7 @@ the amazing Vue.js.
 
  - [vue-types ★132](https://github.com/dwightjack/vue-types) - Vue Prop Types definitions.
  - [vue-factory ★21](https://github.com/ye-will/vue-factory) - A simple factory/provider extension for Vue.js, like services in Angular.
- - [eslint-plugin-vue ★1378](https://github.com/vuejs/eslint-plugin-vue) - Eslint plugin for Vue.js projects.
+ - [eslint-plugin-vue ★1484](https://github.com/vuejs/eslint-plugin-vue) - Eslint plugin for Vue.js projects.
  - [vue-decorators ★25 ⏳1Y](https://github.com/partyka95/vue-decorators) - Decorators for Vue.js (beta).
  - [vue-computed-helpers ★219](https://github.com/michalsnik/vue-computed-helpers) - Computed helpers for Vue.js apps
 

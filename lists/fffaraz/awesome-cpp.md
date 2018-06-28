@@ -119,7 +119,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]
 * [frugally-deep ★214](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. [MIT]
 * [Recast/Detour ★1972](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. [zlib]
-* [TensorFlow ★100987](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs [Apache]
+* [TensorFlow ★103699](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs [Apache]
 * [CNTK ★14591](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. [Boost]
 * [tiny-dnn ★4158](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. [BSD]
 * [Veles ★858 ⏳1Y](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. [Apache]
@@ -179,7 +179,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [PDCurses ★226](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
  * [replxx ★125](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. [BSD]
  * [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. [MIT]
- * [termbox ★1255](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [BSD]
+ * [termbox ★1261](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [BSD]
 
 ## Compression
 *Compression and Archiving Libraries*
@@ -257,7 +257,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Libgcrypt](http://www.gnu.org/software/libgcrypt/) - A general purpose cryptographic library originally based on code from GnuPG. [LGPLv2.1+]
 * [libhydrogen ★236](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library for constrained environments. [ISC]
 * [LibreSSL](http://www.libressl.org/) - A free version of the SSL/TLS protocol forked from OpenSSL in 2014. [?]
-* [libsodium ★5686](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
+* [libsodium ★5760](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
 * [LibTomCrypt ★694](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. [WTFPL]
 * [mbedTLS ★1411](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. [Apache2] [website](https://tls.mbed.org/)
 * [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - A low-level cryptographic library. [LGPL]
@@ -272,7 +272,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [hiberlite ★411](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
 * [Hiredis ★3085](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
-* [LevelDB ★13816](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. [BSD]
+* [LevelDB ★14117](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. [BSD]
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics. [OpenLDAP]
 * [LMDB++ ★157](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. [PublicDomain]
 * [MongoDB C Driver ★411](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. [Apache2]
@@ -346,13 +346,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [GacUI ★1263](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. [Ms-PL]
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. [LGPL]
-* [imgui ★10988](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
+* [imgui ★11251](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
 * [libRocket](http://librocket.com/) - libRocket is a C++ HTML/CSS game interface middleware. [MIT]
-* [libui ★7026](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. [MIT]
+* [libui ★7365](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. [MIT]
 * [MyGUI](http://mygui.info/) - Fast, flexible and simple GUI. [MIT]
 * [nana](http://nanapro.org/en-us/) - Nana is a cross-platform library for GUI programming in modern C++ style. [Boost]
 * [NanoGui ★2073](https://github.com/wjakob/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. [BSD]
-* [nuklear ★10241](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library. [PublicDomain]
+* [nuklear ★10355](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library. [PublicDomain]
 * [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. [GPLv3]
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. [Own based on LGPL]
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
@@ -468,7 +468,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Machine Learning
 
-* [Caffe ★24270](https://github.com/BVLC/caffe) - A fast framework for neural networks. [BSD]
+* [Caffe ★24656](https://github.com/BVLC/caffe) - A fast framework for neural networks. [BSD]
 * [Caffe2 ★8083](https://github.com/caffe2/caffe2) - A lightweight, modular, and scalable deep learning framework. [Apache2] [website](https://caffe2.ai/)
 * [CCV ★6208](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
 * [Fido ★361](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. [MIT] [website](http://fidoproject.github.io/)
@@ -481,7 +481,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SHOGUN ★2136](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox. [GPLv3]
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning. [Apache2]
 * [VLFeat ★1042](https://github.com/vlfeat/vlfeat) - The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. [BSD-2-Clause] [website](http://www.vlfeat.org/)
-* [xgboost ★12145](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. [Apache2]
+* [xgboost ★12521](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. [Apache2]
 
 ## Math
 
@@ -622,7 +622,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cppcodec ★148](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. [MIT]
 * [FlatBuffers ★9497](https://github.com/google/flatbuffers) - A Memory efficient serialization library. [Apache2]
 * [MessagePack ★1311](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. [Apache2] [website](http://msgpack.org/)
-* [protobuf ★26343](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format. [BSD]
+* [protobuf ★27173](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format. [BSD]
 * [protobuf-c ★908](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
 * [SimpleBinaryEncoding ★1363](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 
@@ -642,7 +642,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Virtual Machines
 
 * [CarpVM ★939 ⏳2Y](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes. [GPLv3]
-* [MicroPython ★6568](https://github.com/micropython/micropython) - Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
+* [MicroPython ★6689](https://github.com/micropython/micropython) - Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
 * [TinyVM ★2412](https://github.com/jakogut/tinyvm) - A small, fast, lightweight virtual machine written in pure ANSI C. [MIT]
 
 ## Web Application Framework
@@ -921,7 +921,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 # Other Awesome Lists
 *Other amazingly awesome lists*
 
-* [lists ★4980](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
+* [lists ★5050](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 * [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 * [awesome ★87749](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 * [C++ links ★1349](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.

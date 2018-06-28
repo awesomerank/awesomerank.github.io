@@ -11,7 +11,7 @@ title: Awesome Rank for chiraggude/awesome-laravel
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 
-Inspired by [ziadoz/awesome-php ★18804](https://github.com/ziadoz/awesome-php)
+Inspired by [ziadoz/awesome-php ★19087](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
 

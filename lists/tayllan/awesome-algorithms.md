@@ -89,7 +89,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @xtaci ★2252](https://github.com/xtaci/algorithms)
     * [by @PetarV- ★184](https://github.com/PetarV-/Algorithms)
     * [by @faheel ★167](https://github.com/faheel/Algos)
-* [Erlang ★95](https://github.com/aggelgian/erlang-algorithms)
+* [Erlang ★96](https://github.com/aggelgian/erlang-algorithms)
 * [Go ★1372](https://github.com/arnauddri/algorithms)
 * Java
     * [by @jpa99 ★29](https://github.com/jpa99/Algorithms)
@@ -112,13 +112,13 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * Objective-C
     * [by @ EvgenyKarkan ★2331](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
-    * [by @nryoung ★2850](https://github.com/nryoung/algorithms)
+    * [by @nryoung ★2862](https://github.com/nryoung/algorithms)
     * [by @prakhar1989 ★2075](https://github.com/prakhar1989/Algorithms)
     * [by @laurentluce ★231 ⏳1Y](https://github.com/laurentluce/python-algorithms)
     * [by @nbro ★28](https://github.com/nbro/ands)
     * [by @keon ★11781](https://github.com/keon/algorithms)
 * Ruby
-    * [by @kanwei ★2254](https://github.com/kanwei/algorithms)
+    * [by @kanwei ★2259](https://github.com/kanwei/algorithms)
     * [by @sagivo ★2982](https://github.com/sagivo/algorithms)
     * [by @kumar91gopi ★132 ⏳1Y](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 * [Scala ★1045](https://github.com/vkostyukov/scalacaster)

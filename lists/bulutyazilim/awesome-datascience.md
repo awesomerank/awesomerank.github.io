@@ -426,7 +426,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook that enables data-driven, 
 interactive data analytics and collaborative documents with SQL, Scala and more
 * [Featuretools ★1347](https://github.com/featuretools/featuretools) - An open source framework for automated feature engineering written in python
-* [Optimus ★244](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend. 
+* [Optimus ★259](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend. 
 
 Quick Start
 
@@ -518,9 +518,9 @@ Quick Start
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness) list.
  - [Awesome Machine Learning ★33352](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
- - [lists ★4980](https://github.com/jnv/lists)
+ - [lists ★5050](https://github.com/jnv/lists)
  - [awesome-dataviz ★1665](https://github.com/fasouto/awesome-dataviz)
- - [awesome-python ★50412](https://github.com/vinta/awesome-python)
+ - [awesome-python ★51865](https://github.com/vinta/awesome-python)
  - [Data Science IPython Notebooks. ★12907](https://github.com/donnemartin/data-science-ipython-notebooks)
  - [awesome-r ★2978](https://github.com/qinwf/awesome-R)
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains

@@ -565,7 +565,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### JavaScript
 
-> For more awesome JavaScript libraries, see the [Awesome JavaScript ★14350](https://github.com/sorrycc/awesome-javascript) list.
+> For more awesome JavaScript libraries, see the [Awesome JavaScript ★14660](https://github.com/sorrycc/awesome-javascript) list.
 
 -   [Cytoscape.js](http://js.cytoscape.org/) - Network analysis and visualization library.
 -   [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).

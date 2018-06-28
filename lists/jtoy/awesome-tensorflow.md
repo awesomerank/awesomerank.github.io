@@ -248,7 +248,7 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 
 ## Credits
 
-* Some of the python libraries were cut-and-pasted from [vinta ★50412](https://github.com/vinta/awesome-python)
+* Some of the python libraries were cut-and-pasted from [vinta ★51865](https://github.com/vinta/awesome-python)
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
 ---

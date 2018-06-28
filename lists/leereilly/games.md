@@ -212,7 +212,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Branching Out ★62 ⏳5Y](https://github.com/thehen/game-off-2012) - Minimalist game about leaving home. [Play it now!](http://henryhoffman.com/branchingout/)
 * [Clone Man ★20 ⏳5Y](https://github.com/adhicl/game-off-2012) - Puzzle, memory, retro game with simple graphics. [Play it now!](http://www.kongregate.com/games/Sorobaid/clone-man)
 * [Couch 2048 ★16 ⏳1Y](https://github.com/mvasilkov/glitch2016) - A physics-based puzzle, loosely related to the original 2048 game. [Play it now!](http://js13kgames.com/games/couch-2048/index.html)
-* [cube-composer ★1259](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming. [Play it now!](http://david-peter.de/cube-composer)
+* [cube-composer ★1265](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming. [Play it now!](http://david-peter.de/cube-composer)
 * [Drunken Viking ★38](https://github.com/cxong/DrunkenViking) - Retrace your drunken rampage in reverse time. [Play it now!](http://congusbongus.itch.io/drunken-viking)
 * [Ending](http://robotacid.com/flash/ending) - Roguelike puzzle game. [Play it now!](http://robotacid.com/flash/ending/)
 * [Follow me! A Simon Clone ★2 ⏳2Y](https://github.com/gamedolphin/follow_me_javascript_simon_clone) - Fully commented version of the famous game - [*Simon*](http://en.wikipedia.org/wiki/Simon_%28game%29) - in JavaScript, built using Phaser game engine.
@@ -488,7 +488,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Allegro 5](https://github.com/liballeg/allegro5) - C++ libraries to make 2D games(graphics, sound, etc.).
 * [ammo.js ★1474](https://github.com/kripken/ammo.js) - Direct port of the Bullet Physics engine to JavaScript using Emscripten.
 * [Atomic Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) - features 2D and 3D rendering, standards compliant JavaScript, full Player and Editor source on GitHub, Windows & Mac Editors, with deployment to Windows, Mac, WebGL, Android, and iOS from the editor.
-* [Babylon.js ★6844](https://github.com/BabylonJS/Babylon.js) - Complete JavaScript framework for building 3D games with HTML 5 and WebGL.
+* [Babylon.js ★7024](https://github.com/BabylonJS/Babylon.js) - Complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 * [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - Cross-platform rendering library.
 * [Chilli Works](https://github.com/ChilliWorks/ChilliSource) - An open source, cross-platform game engine designed for indie developers.
 * [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) - Simple, lightweight, fast and portable 2D rigid body physics library written in C.
@@ -542,7 +542,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Starling ★2189](https://github.com/Gamua/Starling-Framework) - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (iOS, Android), the desktop (Windows, OS X), and to the browser (via the Flash plugin).
 * [Superpowers](https://github.com/superpowers) - TypeScript & ThreeJS powered game engine and framework (2D & 3D with WebGL)
 * [Tesseract](https://github.com/lsalzman/tesseract) - Make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
-* [three.js ★42069](https://github.com/mrdoob/three.js) - JavaScript 3D library used in many browser games.
+* [three.js ★42806](https://github.com/mrdoob/three.js) - JavaScript 3D library used in many browser games.
 * [tiled ★5510](https://github.com/bjorn/tiled) - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
 * [Torque 2D ★1392](https://github.com/GarageGames/Torque2D) - MIT Licensed version of Torque 2D from GarageGames.
 * [Torque 3D ★2807](https://github.com/GarageGames/Torque3D) - MIT Licensed version of Torque 3D from GarageGames.

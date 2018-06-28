@@ -11,9 +11,9 @@ title: Awesome Rank for ooade/awesome-preact
 
 [<img src="https://rawgit.com/ooade/awesome-preact/master/preact-logo.svg" align="right" width="100">](https://preactjs.com)
 
-> A curated list of amazingly awesome things regarding [Preact ★18872](https://github.com/developit/preact) ecosystem :star2:
+> A curated list of amazingly awesome things regarding [Preact ★19243](https://github.com/developit/preact) ecosystem :star2:
 
-[Preact ★18872](https://github.com/developit/preact) is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+[Preact ★19243](https://github.com/developit/preact) is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## Contents
 - [Community](#community)
@@ -32,7 +32,7 @@ title: Awesome Rank for ooade/awesome-preact
 ### Community
 - [Slack](https://preact-slack.now.sh) (Discussion Forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-- [Github ★18872](https://github.com/developit/preact)
+- [Github ★19243](https://github.com/developit/preact)
 - [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits

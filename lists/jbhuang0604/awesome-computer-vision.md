@@ -9,7 +9,7 @@ title: Awesome Rank for jbhuang0604/awesome-computer-vision
 ---
 
 # Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★87749](https://github.com/sindresorhus/awesome)
-A curated list of awesome computer vision resources, inspired by [awesome-php ★18804](https://github.com/ziadoz/awesome-php).
+A curated list of awesome computer vision resources, inspired by [awesome-php ★19087](https://github.com/ziadoz/awesome-php).
 
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
@@ -407,7 +407,7 @@ Non-uniform Deblurring
  * [SEEDS](http://www.mvdblive.org/seeds/)
  * [SEEDS Revised ★33 ⏳1Y](https://github.com/davidstutz/seeds-revised)
  * [Multiscale Combinatorial Grouping](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
- * [Fast Edge Detection Using Structured Forests ★458 ⏳1Y](https://github.com/pdollar/edges)
+ * [Fast Edge Detection Using Structured Forests ★458 ⏳2Y](https://github.com/pdollar/edges)
 
 #### Interactive Image Segmentation
  * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
@@ -474,7 +474,7 @@ Non-uniform Deblurring
  * [R-CNN: Regions with Convolutional Neural Network Features ★1498 ⏳1Y](https://github.com/rbgirshick/rcnn)
  * [SPP-Net ★297 ⏳1Y](https://github.com/ShaoqingRen/SPP_net)
  * [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
- * [Edge Boxes ★458 ⏳1Y](https://github.com/pdollar/edges)
+ * [Edge Boxes ★458 ⏳2Y](https://github.com/pdollar/edges)
  * [ReInspect ★383 ⏳1Y](https://github.com/Russell91/ReInspect)
 
 #### Nearest Neighbor Search
@@ -727,7 +727,7 @@ Non-uniform Deblurring
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-* [awesome-deep-learning ★8940](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [awesome-deep-learning ★9190](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [awesome-machine-learning ★33352](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)

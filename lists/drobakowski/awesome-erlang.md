@@ -8,7 +8,7 @@ title: Awesome Rank for drobakowski/awesome-erlang
 </p>
 ---
 # Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Analytics](https://ga-beacon.appspot.com/UA-82766782-1/awesome-erlang?flat&useReferer) ★869](https://github.com/drobakowski/awesome-erlang)
-A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir ★8063](https://github.com/h4cc/awesome-elixir).
+A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir ★8188](https://github.com/h4cc/awesome-elixir).
 
 - [Awesome Erlang](#awesome-Erlang)
     - [Package Management](#package-management)
@@ -58,7 +58,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Release Management
 *Libraries and tools for release management.*
 
-* [relx ★505](https://github.com/erlware/relx) - A release assembler for Erlang.
+* [relx ★510](https://github.com/erlware/relx) - A release assembler for Erlang.
 
 ## Configuration Management
 *Libraries and tools related to configuration management.*
@@ -77,8 +77,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [ChicagoBoss ★1726](https://github.com/ChicagoBoss/ChicagoBoss) - A server framework inspired by Rails and written in Erlang.
 * [cowboy ★4998](https://github.com/ninenines/cowboy) - A simple HTTP server.
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy ★4998](https://github.com/ninenines/cowboy).
-* [MochiWeb ★1605](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers.
-* [N2O ★1097](https://github.com/synrc/n2o) - WebSocket Application Server.
+* [MochiWeb ★1606](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers.
+* [N2O ★1104](https://github.com/synrc/n2o) - WebSocket Application Server.
 * [Nitrogen ★838](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang.
 * [Zotonic ★559](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system.
 
@@ -94,8 +94,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with HTTP and scraping websites.*
 
 * [bullet ★295 ⏳1Y](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy.
-* [gun ★428](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
-* [hackney ★829](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang.
+* [gun ★435](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
+* [hackney ★837](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang.
 * [ibrowse ★476](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client.
 * [lhttpc ★121 ⏳1Y](https://github.com/esl/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 * [shotgun ★121](https://github.com/inaka/shotgun) - For the times you need more than just a gun.
@@ -120,8 +120,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for gathering metrics and monitoring.*
 
 * [entop ★245](https://github.com/mazenharake/entop) - A top-like Erlang node monitoring tool.
-* [eper ★421](https://github.com/massemanet/eper) - A loose collection of Erlang Performance related tools.
-* [Exometer ★444](https://github.com/Feuerlabs/exometer) - An Erlang instrumentation package.
+* [eper ★420](https://github.com/massemanet/eper) - A loose collection of Erlang Performance related tools.
+* [Exometer ★446](https://github.com/Feuerlabs/exometer) - An Erlang instrumentation package.
 * [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics ★429 ⏳1Y](https://github.com/codahale/metrics).
 * [statsderl ★82](https://github.com/lpgauth/statsderl) - A statsd Erlang client.
 * [vmstats ★182](https://github.com/ferd/vmstats) - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs.
@@ -140,7 +140,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
 * [Concuerror ★157](https://github.com/parapluu/Concuerror) - Concuerror is a systematic testing tool for concurrent Erlang programs.
-* [eflame ★264](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang.
+* [eflame ★268](https://github.com/proger/eflame) - A Flame Graph profiler for Erlang.
 
 ## Build Tools
 *Project build and automation tools.*
@@ -164,7 +164,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Actors
 *Libraries and tools for working with actors and such.*
 
-* [poolboy ★1043](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
+* [poolboy ★1059](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
 
 ## Date and Time
 *Libraries for working with dates and times.*
@@ -198,7 +198,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [eql ★76](https://github.com/artemeff/eql) - Erlang with SQL or not.
 * [jiffy ★662](https://github.com/davisp/jiffy) - JSON NIFs for Erlang.
-* [jsx ★566](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json.
+* [jsx ★568](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json.
 * [miffy ★2](https://github.com/expelledboy/miffy) - Jiffy wrapper which returns pretty maps.
 * [qsp ★15 ⏳1Y](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang.
 * [rec2json ★33](https://github.com/lordnull/rec2json) - Generate JSON encoder/decoder from record specs.

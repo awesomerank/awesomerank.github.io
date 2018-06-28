@@ -100,7 +100,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 <a name="librairies-and-implementations" />
 
 ### Librairies and Implementations
-- [TensorFlow's GitHub repository ★100987](https://github.com/tensorflow/tensorflow) - Most known deep learning framework, both high-level and low-level while staying flexible.
+- [TensorFlow's GitHub repository ★103699](https://github.com/tensorflow/tensorflow) - Most known deep learning framework, both high-level and low-level while staying flexible.
 - [skflow ★3175 ⏳1Y](https://github.com/tensorflow/skflow) - TensorFlow wrapper à la scikit-learn.
 - [Keras](https://keras.io/) - Keras is another intersting deep learning framework like TensorFlow, it is mostly high-level.
 - [carpedm20's repositories](https://github.com/carpedm20) - Many interesting neural network architectures are implemented by the Korean guy Taehoon Kim, A.K.A. carpedm20.

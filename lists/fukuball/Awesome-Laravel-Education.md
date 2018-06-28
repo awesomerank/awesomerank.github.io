@@ -83,7 +83,7 @@ These guys below contributed with content, translations and more. What are you w
 ## Quick References
 
 - [Awesome Laravel ★6183](https://github.com/chiraggude/awesome-laravel)
-- [Awesome PHP ★18804](https://github.com/ziadoz/awesome-php)
+- [Awesome PHP ★19087](https://github.com/ziadoz/awesome-php)
 - [Laravel API](http://laravel.com/api/5.4/) \#5.4
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
 - [bestmomo/laravel5-3-example ★222](https://github.com/bestmomo/laravel5-3-example) - A good example of how to use Laravel 5.3 to build an web application.

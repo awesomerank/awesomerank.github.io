@@ -32,26 +32,26 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 ### Array
 
-* [is-sorted ★11](https://github.com/dcousens/is-sorted) - A small module to check if an Array is sorted.
+* [is-sorted ★12](https://github.com/dcousens/is-sorted) - A small module to check if an Array is sorted.
 * [array-first ★6](https://github.com/jonschlinkert/array-first) - Get the first element or first n elements of an array.
-* [array-last ★13](https://github.com/jonschlinkert/array-last) - Return the last element in an array.
-* [arr-flatten ★37](https://github.com/jonschlinkert/arr-flatten) - Recursively flatten an array or arrays.
+* [array-last ★14](https://github.com/jonschlinkert/array-last) - Return the last element in an array.
+* [arr-flatten ★38](https://github.com/jonschlinkert/arr-flatten) - Recursively flatten an array or arrays.
 * [dedupe ★15](https://github.com/seriousManual/dedupe) - Remove duplicates from an array.
 * [array-range ★18 ⏳3Y](https://github.com/mattdesl/array-range) - Creates a new array with given range.
-* [arr-diff ★24](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
+* [arr-diff ★25](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
 * [filled-array ★27 ⏳2Y](https://github.com/sindresorhus/filled-array) - Returns an array filled with the specified input
 * [map-array ★3](https://github.com/parro-it/map-array) - Map object keys and values into an array.
 * [in-array ★16 ⏳2Y](https://github.com/jonschlinkert/in-array) - Return true if any of passed values exists in array - faster than using indexOf.
-* [unordered-array-remove ★103 ⏳1Y](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
+* [unordered-array-remove ★107 ⏳1Y](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
 * [array-swap ★4 ⏳2Y](https://github.com/michaelzoidl/swap-array) - Swap position of two items in an array.
 * [mirrarray ★2](https://github.com/johnwquarles/mirrarray) - Creates a keymirror object from an array of valid keys.
-* [group-array ★22 ⏳1Y](https://github.com/doowb/group-array) - Group array of objects into lists.
+* [group-array ★23 ⏳1Y](https://github.com/doowb/group-array) - Group array of objects into lists.
 * [array.chunk ★5 ⏳2Y](https://github.com/zhiyelee/array.chunk) - Split array/TypedArray to chunks of given size.
 
 ### String
 
-* [decamelize ★97](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow.
-* [pad-left ★32 ⏳1Y](https://github.com/jonschlinkert/pad-left) - Left pad a string with zeros or a specified string.
+* [decamelize ★99](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow.
+* [pad-left ★33 ⏳1Y](https://github.com/jonschlinkert/pad-left) - Left pad a string with zeros or a specified string.
 * [to-camel-case ★23 ⏳1Y](https://github.com/ianstormtaylor/to-camel-case) - Convert a string to a camel case.
 * [to-capital-case ★6 ⏳2Y](https://github.com/ianstormtaylor/to-capital-case) - Convert a string to a capital case.
 * [to-constant-case ★0 ⏳2Y](https://github.com/ianstormtaylor/to-constant-case) - Convert a string to a constant case.
@@ -62,24 +62,24 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [to-snake-case ★17 ⏳2Y](https://github.com/ianstormtaylor/to-snake-case) - Convert a string to a snake case.
 * [to-space-case ★1 ⏳2Y](https://github.com/ianstormtaylor/to-space-case) - Convert a string to a space case.
 * [to-title-case ★12 ⏳2Y](https://github.com/ianstormtaylor/to-title-case) - Convert a string to a title case.
-* [node-slug ★961](https://github.com/dodo/node-slug) - slugifies even utf-8 chars.
+* [node-slug ★978](https://github.com/dodo/node-slug) - slugifies even utf-8 chars.
 * [rtrim ★0 ⏳1Y](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
 * [slice.js ★21](https://github.com/hustcc/slice.js) - Javascript library to engance String.substring / Array.slice with python slice style.
-* [strip-ansi ★136](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
-* [striptags ★259](https://github.com/ericnorris/striptags) - An implementation of PHP's strip_tags in Node.js.
+* [strip-ansi ★139](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
+* [striptags ★263](https://github.com/ericnorris/striptags) - An implementation of PHP's strip_tags in Node.js.
 * [parse-next-json-value ★1](https://github.com/ErikOnBike/parse-next-json-value) - Parse next JSON value from string allowing extraneous characters after value.
 
 ### Date & Time
 
 * [pretty-ms ★297](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
-* [hirestime ★6](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
-* [periods ★2 ⏳3Y](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds.
-* [fecha ★1461](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing.
+* [hirestime ★7](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
+* [periods ★3 ⏳3Y](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds.
+* [fecha ★1481](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing.
 * [akamai-time-reference ★1 ⏳2Y](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
-* [timeago.js ★3172](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement.
+* [timeago.js ★3236](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement.
 * [count-days-in-month ★1 ⏳1Y](https://github.com/shinnn/count-days-in-month) - Get the number of days in a given month.
-* [time-stamp ★47](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
-* [twas ★124](https://github.com/vutran/twas) - Generate a relative time string (Example: "3 seconds ago")
+* [time-stamp ★56](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
+* [twas ★125](https://github.com/vutran/twas) - Generate a relative time string (Example: "3 seconds ago")
 
 ### Object
 
@@ -88,77 +88,77 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [object-values ★17](https://github.com/sindresorhus/object-values) - Get the values of an object.
 * [object-pairs ★2 ⏳3Y](https://github.com/eush77/object-pairs) - Turn an object into list of [key, value] pairs for mapping, iterating or other purposes.
 * [zipmap ★4 ⏳3Y](https://github.com/landau/zipmap) - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs.
-* [just-pluck ★5 ⏳2Y](https://github.com/jarofghosts/just-pluck) - Pluck without the madness.
-* [deep-equal ★308](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module.
+* [just-pluck ★6 ⏳2Y](https://github.com/jarofghosts/just-pluck) - Pluck without the madness.
+* [deep-equal ★317](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module.
 * [deep-assign ★242](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign().
-* [set-value ★53](https://github.com/jonschlinkert/set-value) - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
-* [get-value ★77](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object.
+* [set-value ★57](https://github.com/jonschlinkert/set-value) - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
+* [get-value ★78](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object.
 * [has-value ★18](https://github.com/jonschlinkert/has-value) - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (`'a.b.c'`) paths.
 * [has-key-deep ★1 ⏳1Y](https://github.com/ryanaghdam/has-key-deep) - Deep-search objects for keys. Keys can be searched by providing an array of keys, or using a dot-notiation.
 * [flatkeys ★3 ⏳5Y](https://github.com/ricardobeat/flatkeys) - Flatten object key hierarchies into a list of strings using a custom separator.
-* [flatten-obj ★12](https://github.com/watson/flatten-obj) - Converts an object literal with deeply nested nodes to a simple key/value object.
+* [flatten-obj ★13](https://github.com/watson/flatten-obj) - Converts an object literal with deeply nested nodes to a simple key/value object.
 * [is-empty-object ★10](https://github.com/gummesson/is-empty-object) - Check if an object is empty.
-* [stringify-object ★163](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
+* [stringify-object ★168](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 * [sorted-object ★24](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted.
 * [static-props ★2](https://github.com/fibo/static-props) - Defines static object attributes using `Object.defineProperties`
 * [missing-deep-keys ★0 ⏳1Y](https://github.com/vladgolubev/missing-deep-keys) - Returns an array of keys from first object that are missing in second.
 * [has-own-property ★2 ⏳1Y](https://github.com/LinusU/has-own-property) - Check if an object has a local property. 
 * [merge-objects ★2 ⏳2Y](https://github.com/shevaroller/node-merge-objects) - Deep-merge two objects. Arrays that are values of the same object key get concatenated.
-* [deep-object-diff ★146](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
+* [deep-object-diff ★156](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
 
 ### Function
 
-* [compose-function ★33 ⏳1Y](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x))`.
-* [curry ★290 ⏳2Y](https://github.com/dominictarr/curry) - A curry function without anything too clever.
-* [once ★151 ⏳1Y](https://github.com/isaacs/once) - Run a function exactly one time.
+* [compose-function ★35 ⏳1Y](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x))`.
+* [curry ★291 ⏳2Y](https://github.com/dominictarr/curry) - A curry function without anything too clever.
+* [once ★153 ⏳1Y](https://github.com/isaacs/once) - Run a function exactly one time.
 * [deep-bind ★7 ⏳2Y](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions.
 * [identity-function ★6 ⏳2Y](https://github.com/substack/identity-function) - Always return the input argument. 
 * [mem ★358](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
-* [throttle-debounce ★189](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
+* [throttle-debounce ★218](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
 
 ### Math
 
-* [is-number ★92](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
+* [is-number ★98](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
 
 ### Stream
 * [through2 ★1376](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
-* [through2-filter ★27 ⏳3Y](https://github.com/brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams.
+* [through2-filter ★27](https://github.com/brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams.
 * [through2-map ★61 ⏳1Y](https://github.com/brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams.
 * [stream-spigot ★15 ⏳1Y](https://github.com/brycebaril/node-stream-spigot) - A readable stream generator, useful for testing or converting simple functions into Readable streams.
-* [concat-stream ★463](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result.
+* [concat-stream ★466](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result.
 * [JSONStream ★1507](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify
 * [through2-map-promise ★1](https://github.com/RangerMauve/through2-map-promise) - A small promise-based wrapper for through2.
-* [pump ★555](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes.
-* [split ★310](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk.
+* [pump ★568](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes.
+* [split ★314](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk.
 * [is-stream ★53 ⏳1Y](https://github.com/sindresorhus/is-stream) - Check if something is a Node.js stream.
-* [syncthrough ★77 ⏳1Y](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
+* [syncthrough ★80 ⏳1Y](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
 
 
 ### Promise
 
 * [pify ★968](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
 * [promise-all-props ★7](https://github.com/Siilwyn/promise-all-props) - Like `Promise.all` but for object properties.
-* [sleep-promise ★30](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
-* [is-promise ★63](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise.
+* [sleep-promise ★32](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
+* [is-promise ★64](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise.
 
 ### File System
 
 * [rimraf ★2528](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf).
-* [mkdirp ★1772](https://github.com/substack/node-mkdirp) - Recursively mkdir, like mkdir -p.
+* [mkdirp ★1810](https://github.com/substack/node-mkdirp) - Recursively mkdir, like mkdir -p.
 * [du](https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb.
-* [file-size ★203 ⏳3Y](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies.
-* [tmp ★390](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js.
-* [fs-promise ★172 ⏳1Y](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
+* [file-size ★204 ⏳3Y](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies.
+* [tmp ★396](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js.
+* [fs-promise ★171 ⏳1Y](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
 
 ### Browser
 
-* [delegate ★111](https://github.com/zenorocha/delegate) - Lightweight event delegation.
-* [insert-css ★190 ⏳1Y](https://github.com/substack/insert-css) - Insert a string of css into the head
+* [delegate ★116](https://github.com/zenorocha/delegate) - Lightweight event delegation.
+* [insert-css ★191 ⏳1Y](https://github.com/substack/insert-css) - Insert a string of css into the head
 * [dom-element-value ★4 ⏳1Y](https://github.com/crysalead-js/dom-element-value) - DOM element value getter/setter.
-* [image-promise ★53](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
+* [image-promise ★55](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
 * [get-media-size ★7 ⏳1Y](https://github.com/bfred-it/get-media-size) - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
 * [document-ready ★38 ⏳1Y](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
-* [copee ★15](https://github.com/styfle/copee) - Copy text from browser to clipboard...natively!
+* [copee ★25](https://github.com/styfle/copee) - Copy text from browser to clipboard...natively!
 
 ### Semver
 
@@ -170,16 +170,16 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 ### CLI
 
-* [abbrev ★122](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
-* [glob ★4639](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
+* [abbrev ★123](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
+* [glob ★4725](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
 * [username ★74](https://github.com/sindresorhus/username) - Get the username of the current user.
-* [minimist ★2941](https://github.com/substack/minimist) - Parse argument options.
+* [minimist ★3017](https://github.com/substack/minimist) - Parse argument options.
 * [png-to-ico ★32](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
 * [help-version ★1 ⏳2Y](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application
 
 ### Module management
 
-* [pkg-conf ★79](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+* [pkg-conf ★81](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 * [normalize-pkg ★12 ⏳1Y](https://github.com/jonschlinkert/normalize-pkg) - Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.
 
 ### Generators
@@ -188,8 +188,8 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 ### Other
 
-* [uuid ★5802](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
-* [node-mime ★1174](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
+* [uuid ★5936](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
+* [node-mime ★1194](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
 * [not-defined ★1](https://github.com/fibo/not-defined) - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object.
 * [is-fqdn ★13](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name.
 

@@ -333,7 +333,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
 
-* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ★5686](https://github.com/jedisct1/libsodium).
+* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ★5760](https://github.com/jedisct1/libsodium).
 * [HTML Purifier ★1264](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [IniScan ★1306](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [Optimus ★801](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.

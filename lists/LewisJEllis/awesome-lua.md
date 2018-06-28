@@ -74,8 +74,8 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [MoonSharp ★534](https://github.com/xanathar/moonsharp) - A Lua interpreter written entirely in C# for the .NET, Mono and Unity platforms.
 - [UniLua ★919 ⏳1Y](https://github.com/xebecnan/UniLua) - A pure C# implementation of Lua 5.2, focused on compatibility with the Unity game engine.
 - [lupa ★432](https://github.com/scoder/lupa) - Python bindings to LuaJIT2.
-- [golua ★393](https://github.com/aarzilli/golua) - Golang bindings to the Lua C API.
-- [GopherLua ★2142](https://github.com/yuin/gopher-lua) - Lua 5.1 VM and compiler implemented in Go with Go APIs.
+- [golua ★395](https://github.com/aarzilli/golua) - Golang bindings to the Lua C API.
+- [GopherLua ★2184](https://github.com/yuin/gopher-lua) - Lua 5.1 VM and compiler implemented in Go with Go APIs.
 - [LuaBridge ★612](https://github.com/vinniefalco/LuaBridge) - A lightweight library for mapping data, functions, and classes back and forth between C++ and Lua.
 
 Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees performance drop by roughly a factor of 6 with each hop.

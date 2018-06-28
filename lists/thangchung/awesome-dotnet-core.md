@@ -225,7 +225,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 
 ### Code Analysis and Metrics
-* [awesome-static-analysis ★3086](https://github.com/mre/awesome-static-analysis) - Curated list of static analysis tools, linters and code quality checkers for various programming languages.
+* [awesome-static-analysis ★3367](https://github.com/mre/awesome-static-analysis) - Curated list of static analysis tools, linters and code quality checkers for various programming languages.
 * Code Analysis
   * [DevSkim ★188](https://github.com/Microsoft/DevSkim) - A set of IDE plugins and rules that provide security "linting" capabilities.
   * [RefactoringEssentials ★567](https://github.com/icsharpcode/RefactoringEssentials) - Refactoring Essentials for Visual Studio.
@@ -384,6 +384,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [TensorFlowSharp ★1844](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages.
 
 ### Mail
+* [FluentEmail ★358](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET and .NET Core
 * [MailBody ★81](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
 * [MailKit ★1968](https://github.com/jstedfast/MailKit) - Cross-platform .NET library for IMAP, POP3, and SMTP.
 * [MailMergeLib ★50](https://github.com/axuno/MailMergeLib) - SMTP mail client library which provides comfortable mail merge capabilities for text, inline images and attachments, as well as good throughput and fault tolerance for sending mail messages.
@@ -428,6 +429,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * Stocks
   * [Trady ★142](https://github.com/lppkarl/Trady) - Handy library for computing technical indicators, and it targets to be an automated trading system that provides stock data feeding, indicator computing, strategy building and automatic trading.
 * [System.Linq.Dynamic.Core ★243](https://github.com/StefH/System.Linq.Dynamic.Core) - The .NET Standard (.NET Core) version from the System Linq Dynamic functionality.
+* [UnitsNet ★280](https://github.com/angularsen/UnitsNet) - Units.NET gives you all the common units of measurement and the conversions between them.
 * Validation
   * [FluentValidation ★3312](https://github.com/JeremySkinner/FluentValidation) - Small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
   * [Valit ★157](https://github.com/valit-stack/Valit) - A dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!

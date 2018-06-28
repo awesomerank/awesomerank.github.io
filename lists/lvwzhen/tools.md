@@ -104,7 +104,7 @@ title: Awesome Rank for lvwzhen/tools
 * [flatuicolors](http://flatuicolors.com/)
 * [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 * [color-hex](http://www.color-hex.com/)
-* [colors ★8191](https://github.com/mrmrs/colors)
+* [colors ★8205](https://github.com/mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 * [randomColor](https://randomcolor.llllll.li/)
 * [colourco.de](http://colourco.de)

@@ -161,7 +161,7 @@ drm/kms.
 *  [PowerVR SDK ★259](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
 *  [glfw ★3720](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  [[LICENSE](https://github.com/glfw/glfw/blob/master/COPYING.txt)]
 *  [MoltenVK ★1090](https://github.com/KhronosGroup/MoltenVK) - run Vulkan on iOS and macOS. [Apache-2.0]
-*  [imgui ★10988](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
+*  [imgui ★11251](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
 *  [vuh ★2](https://github.com/Glavnokoman/vuh) - Vulkan-based C++ GPGPU computing framework. [MIT]
 *  [libvc ★86 ⏳2Y](https://github.com/alexhultman/libvc) - Vulkan Compute for C++.  [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
 *  [AMD's Anvil ★360](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) - cross-platform framework for Vulkan. [[LICENSE](https://github.com/GPUOpen-LibrariesAndSDKs/OutOfOrderRasterization/blob/master/LICENSE.txt)]
@@ -183,7 +183,7 @@ drm/kms.
 *  [Falcor ★422](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting DX12 and Vulkan. [BSD 3-clause]
 *  [The-Forge ★477](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
 *  [VK9 ★572](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
-*  [gfx-rs ★1672](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API for Rust. [Apache License 2.0]
+*  [gfx-rs ★1782](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API for Rust. [Apache License 2.0]
 *  [satellite-oem ★33](https://github.com/world8th/satellite-oem) - Vulkan API (>=1.1) based ray tracing engine for geeks, enthusiasts and developers, is not final production for end users
 *  [rostkatze ★48](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈[Apache License 2.0]
 *  [Fossilize ★23](https://github.com/Themaister/Fossilize) - serialization format for various persistent Vulkan object types. [MIT]
@@ -197,7 +197,7 @@ drm/kms.
 *  [Haskell bindings for Vulkan ★53](https://github.com/expipiplus1/vulkan) - [[LICENSE](https://github.com/expipiplus1/vulkan/blob/master/LICENSE)]
 *  [Vulkan-hpp ★1010](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 *  [VulkanSharp ★212](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. [MIT]
-*  [Vulkano ★1232](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API. [MIT]
+*  [Vulkano ★1273](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API. [MIT]
 *  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. [BSD]
 *  [SharpVk ★49](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk). [MIT]
 *  [vulkan ★80](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. [Apache Licence 2.0]

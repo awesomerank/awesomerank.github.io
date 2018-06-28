@@ -43,7 +43,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Live Debuggers
 * [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced visual profiling and debugging tool for AIR apps & games (supports Stage3D).
-* [De-Monster Debugger ★5 ⏳5Y](https://github.com/MrTact/monsterdebugger) - Advanced tool to debug graphics and data from a live AIR application.
+* [De-Monster Debugger ★5 ⏳6Y](https://github.com/MrTact/monsterdebugger) - Advanced tool to debug graphics and data from a live AIR application.
 * [De-Monster Debugger (Starling) ★48 ⏳1Y](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of De-Monster Debugger with support for Starling Framework.
 
 #### Asset Creators
@@ -344,7 +344,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### CSS
 
-* [AS3csslib ★1 ⏳2Y](https://github.com/heyfrench/as3csslib) - CSS3 parser, selector and style engine for ActionScript 3.0.
+* [AS3csslib ★1 ⏳3Y](https://github.com/heyfrench/as3csslib) - CSS3 parser, selector and style engine for ActionScript 3.0.
 * [Fcss ★86 ⏳7Y](https://github.com/theflashbum/fcss) - Flash Cascading StyleSheet Library.
 * [Stylekit-as3 ★43 ⏳6Y](https://github.com/videojuicer/stylekit-as3) -  Skinnable user interfaces using CSS3.
 * [Sass4as ★4 ⏳7Y](https://github.com/jeremyruppel/sass4as) - Syntactically Awesome Stylesheets for ActionScript 3.
@@ -440,7 +440,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Hardware
 
-* [AS3midilib ★4 ⏳2Y](https://github.com/heyfrench/as3midilib) - Work with MIDI files and MIDI input/output devices.
+* [AS3midilib ★4 ⏳3Y](https://github.com/heyfrench/as3midilib) - Work with MIDI files and MIDI input/output devices.
 * [AS3glue](https://code.google.com/archive/p/as3glue/) - Communication for Arduino boards.
 * [AS3-arduino ★34 ⏳3Y](https://github.com/quetwo/as3-arduino-connector) - Connecting Arduino Prototyping board to Adobe AIR.
 * [AIRkinect](https://github.com/AS3NUI/airkinect-2-core) - ANE for integrating with Microsoft Kinect. ([examples ★48 ⏳5Y](https://github.com/AS3NUI/airkinect-2-examples)).
@@ -552,7 +552,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Hilbert ★1 ⏳7Y](https://github.com/nodename/Hilbert) - Port of Hilbert curve from cortesi/scurve.
 * [AS3AStar ★23 ⏳7Y](https://github.com/tomnewton/AS3AStar) - Fast A-Star pathfinding algorithm.
 * [A-star_pathfinder ★3 ⏳7Y](https://github.com/kevhiggins/a-star_pathfinder) - A-Star pathfinding interface for tile based maps.
-* [As3Pathfinder ★14](https://github.com/azakhary/As3Pathfinder) - Grid Path finding Library written using Dijkstra's algorithm.
+* [As3Pathfinder ★14 ⏳1Y](https://github.com/azakhary/As3Pathfinder) - Grid Path finding Library written using Dijkstra's algorithm.
 
 #### Math
 
@@ -625,7 +625,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [GPS ★13](https://github.com/myflashlab/GPS-ANE) - Get current device GPS location as fast as possible by automatically checking the best available provider.
 * [GoogleVR ★14](https://github.com/myflashlab/GoogleVR-ANE) - Google Virtual Reality SDK available to AIR developers.
 * [Joystick-ANE ★21 ⏳5Y](https://github.com/StackAndHeap/joystick-ane) - ANE Joystick Library.
-* [AIRControl ★18 ⏳4Y](https://github.com/AlexanderOMara/AIRControl) - Adobe AIR Game Controller ANE.
+* [AIRControl ★18 ⏳5Y](https://github.com/AlexanderOMara/AIRControl) - Adobe AIR Game Controller ANE.
 * [AIROUYAController ★22 ⏳5Y](https://github.com/gaslightgames/AIROUYAController) - ANE for the OUYA Controller.
 * [AIRKinectv2 ★40 ⏳3Y](https://github.com/Tastenkunst/AIRKinectv2) - ANE for Microsoft Kinect v2 for Windows SDK.
 * [Serial/MIDI/DMX ★41 ⏳1Y](https://github.com/benkuper/AIR-NativeExtensions) - AIRBonjour, NativeSerial, NativeDMXController, NativeMIDI, VirtualMIDI, ExtendedMouse.

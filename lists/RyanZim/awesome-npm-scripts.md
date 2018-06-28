@@ -56,15 +56,15 @@ You might also like [awesome-npm ★2944](https://github.com/sindresorhus/awesom
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 - [script-runner ★16 ⏳1Y](https://github.com/paulpflug/script-runner) - Simple task runner with a terse syntax.
-- [npm-run-all ★1857](https://github.com/mysticatea/npm-run-all) - Fully featured task runner.
-- [redrun ★58](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+- [npm-run-all ★1935](https://github.com/mysticatea/npm-run-all) - Fully featured task runner.
+- [redrun ★61](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 
 ## File Watchers
 
 Tools to watch your source files and run a build command whenever any of the files change.
 
-- [onchange ★379](https://github.com/Qard/onchange) - `onchange <glob> -- <command>`.
-- [watch ★1047](https://github.com/mikeal/watch) - `watch <command> <directory>`.
+- [onchange ★393](https://github.com/Qard/onchange) - `onchange <glob> -- <command>`.
+- [watch ★1055](https://github.com/mikeal/watch) - `watch <command> <directory>`.
 
 ## Dev Servers
 
@@ -76,40 +76,40 @@ Tools to watch your source files and run a build command whenever any of the fil
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
 - [rimraf ★2528](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`.
-- [del-cli ★92 ⏳1Y](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion.
-- [mkdirp ★1772](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`.
+- [del-cli ★94 ⏳1Y](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion.
+- [mkdirp ★1810](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`.
 - [cpr ★55](https://github.com/davglass/cpr) - `cp -r` for Nodejs
-- [cpy-cli ★75](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming.
-- [copyfiles ★91](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory.
-- [sync-files ★27](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode.
+- [cpy-cli ★78](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming.
+- [copyfiles ★92](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory.
+- [sync-files ★29](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode.
 - [echo-cli ★3 ⏳2Y](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support.
-- [clear-cli ★33 ⏳2Y](https://github.com/sindresorhus/clear-cli) - Clear the terminal.
+- [clear-cli ★34 ⏳2Y](https://github.com/sindresorhus/clear-cli) - Clear the terminal.
 - [cross-env ★2689](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style.
-- [cross-os ★4](https://github.com/milewski/cross-os) - Run platform-specific npm scripts.
+- [cross-os ★7](https://github.com/milewski/cross-os) - Run platform-specific npm scripts.
 - [ntee ★17 ⏳1Y](https://github.com/stefanmaric/ntee) - Utility that reads from standard input and writes to standard output and files; like Unix `tee`.
-- [catw ★109 ⏳3Y](https://github.com/substack/catw) - Print a file to stdout, with optional watch mode; sorta like Unix `cat`.
+- [catw ★112 ⏳3Y](https://github.com/substack/catw) - Print a file to stdout, with optional watch mode; sorta like Unix `cat`.
 
 ### Utility Packs
 
-- [shx ★491](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
+- [shx ★512](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
 ## Other Utilities
 
-- [hashmark ★184](https://github.com/keithamus/hashmark) -  Take contents of a file and output as new file with a hash in the name.
+- [hashmark ★186](https://github.com/keithamus/hashmark) -  Take contents of a file and output as new file with a hash in the name.
 - [gzip-size-cli ★101](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
-- [opn-cli ★158 ⏳2Y](https://github.com/sindresorhus/opn-cli) - Open websites, files, executables, etc. with the user's preferred application.
+- [opn-cli ★160 ⏳2Y](https://github.com/sindresorhus/opn-cli) - Open websites, files, executables, etc. with the user's preferred application.
 - [headr ★0 ⏳1Y](https://github.com/heldr/headr) - Add header / banner info to a file.
 - [Bower files CLI ★3 ⏳1Y](https://github.com/thompsonemerson/bower-files-cli) - Get main bower files on the command line
-- [cli-error-notifier ★33](https://github.com/micromata/cli-error-notifier) - Send native desktop notifications when npm scripts fail.
+- [cli-error-notifier ★38](https://github.com/micromata/cli-error-notifier) - Send native desktop notifications when npm scripts fail.
 
 ## Miscellaneous
 
-- [screwy ★95 ⏳1Y](https://github.com/samueleaton/screwy) - The npm scripts GUI.
-- [Forrest ★268 ⏳1Y](https://github.com/stefanjudis/forrest) - npm scripts desktop client.
+- [screwy ★96 ⏳1Y](https://github.com/samueleaton/screwy) - The npm scripts GUI.
+- [Forrest ★272 ⏳1Y](https://github.com/stefanjudis/forrest) - npm scripts desktop client.
 - [run-npm ★167](https://github.com/timoxley/npm-run) - Run locally-installed node module executables. Useful for debugging npm scripts.
-- [npm-quick-run ★69](https://github.com/bahmutov/npm-quick-run) - Quickly run npm scripts by prefix without typing the full name.
+- [npm-quick-run ★75](https://github.com/bahmutov/npm-quick-run) - Quickly run npm scripts by prefix without typing the full name.
 - [edit-script ★5](https://github.com/RyanZim/edit-script) - Edit npm scripts from the command line without worrying about JSON escaping.
-- [ntl ★488](https://github.com/ruyadorno/ntl) - Interactive cli menu to list and run npm scripts.
+- [ntl ★506](https://github.com/ruyadorno/ntl) - Interactive cli menu to list and run npm scripts.
 
 ## Cross-platform Shell Reference
 

@@ -2087,7 +2087,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Sentry ★71](https://github.com/arabold/serverless-sentry-plugin) - Sentry integration for Serverless.
 - [Autoprune ★11 ⏳2Y](https://github.com/arabold/serverless-autoprune-plugin) - Delete old lambdas.
 - [Secrets ★117](https://github.com/trek10inc/serverless-secrets) - Secret management.
-- [Vandium ★7 ⏳1Y](https://github.com/vandium-io/vandium-serverless) - Vandium PlugIn for Serverless.
+- [Vandium ★7 ⏳2Y](https://github.com/vandium-io/vandium-serverless) - Vandium PlugIn for Serverless.
 - [Command line event args ★12 ⏳1Y](https://github.com/horike37/serverless-command-line-event-args) - Pass JSON to serverless via the command line.
 - [Unit test boilerplate ★5 ⏳2Y](https://github.com/horike37/serverless-unittest-boilerplate) - Boilerplate for unit testing with Serverless.
 - [Dependency install ★6](https://github.com/99xt/serverless-dependency-install) - Serverless plugin for managing dependencies.

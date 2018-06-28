@@ -127,7 +127,7 @@ _Web Analytics_
 
 _Business Intelligence_
 
-- [Metabase](http://www.metabase.com/) - Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code ★10007](https://github.com/metabase/metabase)) `AGPL-3.0` `Clojure`
+- [Metabase](http://www.metabase.com/) - Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code ★10348](https://github.com/metabase/metabase)) `AGPL-3.0` `Clojure`
 - [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code ★9404](https://github.com/getredash/redash)) `BSD-2-Clause` `Python`
 - [Superset](http://superset.apache.org/) - Modern, enterprise-ready business intelligence web application. ([Source Code ★19463](https://github.com/apache/incubator-superset)) `Apache-2.0` `Python`
 
@@ -258,7 +258,7 @@ _CalDAV or CardDAV clients._
 
 - [Broid](https://broid.ai) - Broid enables rich conversations on all messaging channels within a single schema integration using W3C standards. ([Demo](https://www.broid.ai), [Source Code ★699](https://github.com/broidHQ/integrations)) `AGPL-3.0` `Nodejs`
 - [Centrifugo](https://github.com/centrifugal/centrifugo) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo ★2691](https://github.com/centrifugal/centrifugo#demo)) `MIT` `Go`
-- [Cherry ★160 ⏳1Y](https://github.com/rafael-santiago/cherry) - Tiny webchat server. `GPL-2.0` `Go`
+- [Cherry ★161 ⏳1Y](https://github.com/rafael-santiago/cherry) - Tiny webchat server. `GPL-2.0` `Go`
 - [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums. ([Source Code ★417](https://github.com/freenet/fred)) `GPL-2.0` `Java`
 - [Friends](http://moose-team.github.io/friends/) - P2P chat powered by the web. ([Source Code ★2922](https://github.com/moose-team/friends)) `MIT` `Nodejs`
 - [GNUnet](https://gnunet.org/) - Free software framework for decentralized, peer-to-peer networking. ([Source Code](https://gnunet.org/git/)) `GPL-3.0` `C`
@@ -322,7 +322,7 @@ _MTAs / SMTP servers_
 - [Haraka](http://haraka.github.io/) - High-performance, pluginable SMTP server written in Javascript. ([Source Code ★2933](https://github.com/haraka/Haraka)) `MIT` `Javascript`
 - [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. ([Source Code ★4328](https://github.com/sj26/mailcatcher)) `MIT` `Ruby`
 - [Maildrop ★661](https://github.com/m242/maildrop) - Disposable email SMTP server, also useful for development. `MIT` `Scala`
-- [MailHog ★3454](https://github.com/mailhog/MailHog) - Small Golang executable which runs an SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. `MIT` `Go`
+- [MailHog ★3560](https://github.com/mailhog/MailHog) - Small Golang executable which runs an SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. `MIT` `Go`
 - [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project. ([Source Code](http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/)) `ISC` `C`
 - [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement. `IPL-1.0` `C`
 - [Qmail](http://www.qmail.org/top.html) - Secure Sendmail replacement. ([Source Code](https://sources.debian.net/src/netqmail/1.06-5/)) `CC0-1.0` `C`
@@ -411,8 +411,8 @@ _[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
 - [Buddycloud](http://buddycloud.com/) - Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. ([Source Code](https://github.com/buddycloud)) `Apache-2.0` `Java`
 - [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code](https://buddypress.svn.wordpress.org/trunk/)) `GPL-2.0` `PHP`
 - [cartulary ★117](https://github.com/daveajones/cartulary) - RSS reader, readability tool, article archiver, microblogger, social graph manager and reading list manager. `CDDL-1.0` `PHP`
-- [diaspora*](https://diasporafoundation.org/) - Distributed social networking server. ([Demo](https://podupti.me/go.php), [Source Code ★11874](https://github.com/diaspora/diaspora)) `AGPL-3.0` `Ruby`
-- [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS. ([Demo](https://try.discourse.org/), [Source Code ★25131](https://github.com/discourse/discourse)) `GPL-2.0` `Ruby`
+- [diaspora*](https://diasporafoundation.org/) - Distributed social networking server. ([Demo](https://podupti.me/go.php), [Source Code ★11870](https://github.com/diaspora/diaspora)) `AGPL-3.0` `Ruby`
+- [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS. ([Demo](https://try.discourse.org/), [Source Code ★25376](https://github.com/discourse/discourse)) `GPL-2.0` `Ruby`
 - [dyu/comments ★41](https://github.com/dyu/comments) - Real-time, markdown-enabled comment engine powered by leveldb. ([Demo](https://dyu.github.io/comments/real-time/)) `Apache-2.0` `Java`
 - [Elgg](https://elgg.org/) - Powerful open source social networking engine. ([Source Code ★1189](https://github.com/Elgg/Elgg)) `GPL-2.0` `PHP`
 - [Flarum](http://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code ★7778](https://github.com/flarum/flarum)) `MIT` `PHP`
@@ -501,7 +501,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 - [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management System. Ever. ([Source Code ★267](https://github.com/GetSimpleCMS/GetSimpleCMS)) `GPL-3.0` `PHP`
 - [ImpressPages CMS](https://www.impresspages.org/) - Easy code meets easy admin. ([Demo](https://www.impresspages.org/demo), [Source Code ★476](https://github.com/impresspages/ImpressPages)) `GPL-3.0/MIT` `PHP`
 - [Joomla!](https://www.joomla.org/) - Advanced Content Management System (CMS). ([Source Code ★2760](https://github.com/joomla/joomla-cms)) `GPL-2.0` `PHP`
-- [KeystoneJS](http://keystonejs.com/) - CMS and Web Application Platform. ([Demo](http://demo.keystonejs.com/), [Source Code ★12705](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
+- [KeystoneJS](http://keystonejs.com/) - CMS and Web Application Platform. ([Demo](http://demo.keystonejs.com/), [Source Code ★12869](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
 - [MODX](http://modx.com/) - MODX is an advanced content management and publishing platform. The current version is called 'Revolution'. ([Source Code ★957](https://github.com/modxcms/revolution)) `GPL-2.0` `PHP`
 - [Neos](https://www.neos.io) - Neos or TYPO3 Neos (for version 1) is a modern, open source CMS. ([Source Code](https://git.typo3.org/Packages/TYPO3.Neos.git)) `GPL-3.0` `PHP`
 - [Noosfero](http://noosfero.org/) - Noosfero is a web platform for social and solidarity economy networks with blog, e-Portfolios, CMS, RSS, thematic discussion, events agenda and collective intelligence for solidarity economy in the same system. ([Source Code](https://gitlab.com/noosfero/noosfero)) `AGPL-3.0` `Ruby`
@@ -513,7 +513,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 - [Plone](https://plone.org/) - Powerful open-source CMS system. ([Source Code](https://github.com/plone)) `ZPL-2.0` `Python`
 - [ProcessWire](https://processwire.com/) - ProcessWire is an open source content management system (CMS) and web application framework aimed at the needs of designers, developers and their clients. ([Source Code ★752 ⏳1Y](https://github.com/ryancramerdesign/ProcessWire)) `MPL-2.0` `PHP`
 - [PropertyWebBuilder](http://propertywebbuilder.com) - The ultimate Ruby on Rails engine for creating real estate websites. ([Demo](https://propertywebbuilder.herokuapp.com), [Source Code ★245](https://github.com/etewiah/property_web_builder)) `MIT` `Ruby`
-- [Publify](http://publify.co/) - Simple but full featured web publishing software. ([Source Code ★1725](https://github.com/publify/publify)) `MIT` `Ruby`
+- [Publify](http://publify.co/) - Simple but full featured web publishing software. ([Source Code ★1724](https://github.com/publify/publify)) `MIT` `Ruby`
 - [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code ★177](https://github.com/redaxo/redaxo)) `MIT` `PHP`
 - [Redaxscript](https://redaxscript.com) - Ultra lightweight CMS for MySQL, SQLite and PostgreSQL. ([Demo](https://demo.redaxscript.com/demo/login), [Source Code](https://github.com/redaxmedia/redaxscript)) `GPL-3.0` `PHP`
 - [Roadiz](https://www.roadiz.io/) -  Modern CMS based on a node system which can handle many types of services. ([Source Code ★318](https://github.com/roadiz/roadiz)) `MIT` `PHP`
@@ -633,7 +633,7 @@ See https://github.com/n1trux/awesome-sysadmin#identity-management
 - [Screaming Liquid Tiger ★107](https://github.com/herrbischoff/screaming-liquid-tiger) - Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder. `MIT` `PHP`
 - [Selfoss](http://selfoss.aditu.de/) - New multipurpose rss reader, live stream, mashup, aggregation web application. ([Source Code ★1581](https://github.com/SSilence/selfoss)) `AGPL-3.0` `PHP`
 - [Sismics Reader](http://sismics.com/reader/) - Free and open source feeds reader, including all major Google Reader features. ([Demo](https://www.sismics.com/reader/#!/demo), [Source Code ★277](https://github.com/sismics/reader)) `GPL-2.0` `Java`
-- [Stringer ★2862](https://github.com/swanson/stringer) - Work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
+- [Stringer ★2871](https://github.com/swanson/stringer) - Work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
 - [Temboz ★12](https://github.com/fazalmajid/temboz) - Two-column feed reader emphasizing filtering capabilities to manage information overload. `MIT` `Python`
 - [Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://framanews.org/)) `GPL-3.0` `PHP`
   - [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS. ([Source Code ★38 ⏳1Y](https://github.com/nhoening/gritttt-rss)) `BSD-2-Clause` `Python`
@@ -677,7 +677,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 - [FilePizza](http://file.pizza/) - Peer-to-peer file transfers in your browser. ([Source Code ★2029](https://github.com/kern/filepizza)) `BSD` `Nodejs`
 - [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent. ([Demo](https://instant.io)) `MIT` `Nodejs`
 - [Magnetico ★1692](https://github.com/boramalper/magnetico) - Magnetico is the first autonomous (self-hosted) BitTorrent DHT search engine suite that is designed for end-users. `AGPL-3.0` `Python`
-- [Magnetissimo ★2132](https://github.com/sergiotapia/magnetissimo) - Search engine that indexes all popular torrent sites. `MIT` `Elixir`
+- [Magnetissimo ★2147](https://github.com/sergiotapia/magnetissimo) - Search engine that indexes all popular torrent sites. `MIT` `Elixir`
 - [Opentracker](http://erdgeist.org/arts/software/opentracker/) - Open and free bittorrent tracker. It aims for minimal resource usage and is intended to run at your wlan router. ([Source Code](http://erdgeist.org/gitweb/opentracker/)) `Beerware` `C`
 - [peerflix-server ★773](https://github.com/asapach/peerflix-server) - Downloads torrent files and provides a direct link download or a direct link stream. `MIT` `Nodejs`
 - [qBittorrent](https://www.qbittorrent.org/) - Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code ★4471](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`
@@ -907,7 +907,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 - [My Mind ★1890](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
 - [nnmm](https://nnmm.nl/) - Super tiny pastebin/url minifier "microservice". ([Source Code ★30](https://github.com/Mechazawa/nnmm)) `Beerware` `PHP`
 - [Notica](https://notica.us) - Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required. ([Source Code ★69](https://github.com/tannercollin/Notica)) `MIT` `Nodejs`
-- [revealjs](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML ([Demo](https://revealjs.com/), [Source Code ★40692](https://github.com/hakimel/reveal.js)) `MIT` `JavaScript`
+- [revealjs](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML ([Demo](https://revealjs.com/), [Source Code ★41179](https://github.com/hakimel/reveal.js)) `MIT` `JavaScript`
 - [SANE Network Scanning](http://sane-project.org/) - Allow remote clients to access image acquisition devices (scanners) available on the local host. ([Source Code](http://www.sane-project.org/cvs.html)) `GPL-2.0` `C`
 - [Skygear](https://skygear.io) - Complete backend server for web, mobile and iOT applcations. ([Demo](https://portal.skygear.io), [Source Code ★279](https://github.com/SkygearIO/skygear-server)) `Apache-2.0` `Go`
 - [Trello Burndown ★14](https://github.com/swordbeta/trello-burndown) `⚠` - Easy to use SCRUM burndown chart for Trello boards. `MIT` `Go/Docker`
@@ -1074,7 +1074,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 - [Calagator](http://calagator.org/) - Event aggregator. ([Demo](http://calagator.org/), [Source code ★357](https://github.com/calagator/calagator)) `MIT` `Ruby`
 - [Clerk](https://github.com/chr15m/Clerk) - Simple event logger to keep track of periodic events, habits, etc. as they occur. `GPL-3.0` `PHP`
 - [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source code ★127](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
-- [Fider](http://getfider.com) - Open source alternative to UserVoice for customer feedback. ([Demo](https://demo.fider.io), [Source Code ★304](https://github.com/getfider/fider)) `MIT` `Go`
+- [Fider](http://getfider.com) - Open source alternative to UserVoice for customer feedback. ([Demo](https://demo.fider.io), [Source Code ★322](https://github.com/getfider/fider)) `MIT` `Go`
 - [Framadate](https://framadate.org/) - Online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://git.framasoft.org/framasoft/framadate)) `CECILL-B` `PHP`
 - [Kyélà](http://kyela.net/) - Participation polls for group events. ([Demo](http://kyela.net/55232734237c8/), [Source Code ★19](https://github.com/abienvenu/Kyela)) `AGPL-3.0` `PHP`
 - [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. ([Demo](https://demo.limesurvey.org), [Source code ★911](https://github.com/LimeSurvey/LimeSurvey)) `GPL-2.0` `PHP`
@@ -1099,7 +1099,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 - [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source Code](https://code.launchpad.net/squid)) `GPL-2.0` `C`
 - [Swiperproxy](https://swiperproxy.github.io/) - Lightning-fast, open source web proxy that is easy for you to run and customize. ([Source Code ★265](https://github.com/swiperproxy/swiperproxy)) `MIT` `Python`
 - [Tinyproxy](https://banu.com/tinyproxy/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code ★1055](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C`
-- [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. ([Source Code ★15437](https://github.com/containous/traefik)) `MIT` `Go`
+- [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. ([Source Code ★16029](https://github.com/containous/traefik)) `MIT` `Go`
 
 ## Read it Later Lists
 
@@ -1132,7 +1132,7 @@ _See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managemen
 - [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD` `C`
 - [Gitblit](http://gitblit.com/) - Pure Java stack for managing, viewing, and serving Git repositories. ([Source Code ★1467](https://github.com/gitblit/gitblit)) `Apache-2.0` `Java`
 - [gitbucket](https://gitbucket.github.io/gitbucket-news/) - The easily installable GitHub clone powered by Scala. ([Source Code ★7145](https://github.com/gitbucket/gitbucket)) `Apache-2.0` `Scala/Java`
-- [Gitea](https://gitea.io) - Community managed fork of Gogs, lightweight code hosting solution. ([Demo](https://try.gitea.io), [Source Code ★6955](https://github.com/go-gitea/gitea)) `MIT` `Go`
+- [Gitea](https://gitea.io) - Community managed fork of Gogs, lightweight code hosting solution. ([Demo](https://try.gitea.io), [Source Code ★8785](https://github.com/go-gitea/gitea)) `MIT` `Go`
 - [GitLab](http://gitlab.org/) - Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. ([Demo](https://gitlab.com/), [Source Code](https://gitlab.com/gitlab-org/gitlab-ce)) `MIT` `Ruby`
 - [Gitlist](http://gitlist.org/) - Web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source Code ★2600](https://github.com/klaussilveira/gitlist)) `BSD-3-Clause` `PHP`
 - [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features. ([Source Code ★7110](https://github.com/sitaramc/gitolite)) `GPL-2.0` `Perl`
@@ -1178,7 +1178,7 @@ See **[Ticketing](#ticketing)**
 ### Continuous Integration
 
 - [Concourse](https://concourse.ci/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse.ci/), [Source Code ★2845](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
-- [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code ★14390](https://github.com/drone/drone)) `Apache-2.0` `Go`
+- [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code ★14753](https://github.com/drone/drone)) `Apache-2.0` `Go`
 - [Factor](http://www.factor.io/) - It's like IFTTT (if-this-then-that) for Dev and DevOps. ([Source Code ★67 ⏳2Y](https://github.com/factor-io/factor)) `MIT` `Ruby`
 - [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code ★6](https://github.com/golangci/golangci)) `AGPL-3.0` `Go`
 - [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code ★10383](https://github.com/jenkinsci/jenkins)) `MIT` `Java`
@@ -1313,10 +1313,10 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 - [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/ssddanbrown/BookStack)) `MIT` `PHP`
 - [Cowyo ★427](https://github.com/schollz/cowyo) - Cowyo is a feature-rich wiki for minimalists. ([Demo](https://cowyo.com)) `MIT` `Go`
 - [django-wiki ★946](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django.wiki/)) `GPL-3.0` `Python`
-- [Documize](https://documize.com) - Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona. ([Source Code ★426](https://github.com/documize/community)) `AGPL-3.0` `Go`
+- [Documize](https://documize.com) - Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona. ([Source Code ★446](https://github.com/documize/community)) `AGPL-3.0` `Go`
 - [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. ([Source Code ★2161](https://github.com/splitbrain/dokuwiki)) `GPL-2.0` `PHP`
 - [Gitit ★1528](https://github.com/jgm/gitit) - Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. `GPL-2.0` `Haskell`
-- [Gollum ★9240](https://github.com/gollum/gollum) - Simple, Git-powered wiki with a sweet API and local frontend. `MIT` `Ruby`
+- [Gollum ★9291](https://github.com/gollum/gollum) - Simple, Git-powered wiki with a sweet API and local frontend. `MIT` `Ruby`
 - [jingo](https://github.com/claudioc/jingo) - Git based wiki engine written for node.js, with a decent design, a search capability and a good typography. ([Demo](http://jingo.cica.li:6067/wiki/home), [Source Code ★853](https://github.com/claudioc/jingo)) `MIT` `Nodejs`
 - [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - MediaWiki is a free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used by hundreds of millions of people each month. ([Source Code](https://phabricator.wikimedia.org/diffusion/MW/)) `GPL-2.0` `PHP`
 - [MoinMoin](https://moinmo.in/) - Advanced, easy to use and extensible WikiEngine with a large community of users. ([Source Code](http://hg.moinmo.in/moin)) `GPL-2.0` `Python`

@@ -66,7 +66,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - Python: [chromewhip ★42](https://github.com/chuckus/chromewhip) - Python 3 asyncio driver to manage concurrent requests to Google Chrome Devtools endpoints
 - Python: [pychrome ★196](https://github.com/fate0/pychrome) - A Python Package for the Google Chrome Dev Protocol
 - Go: [chromedp](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
-- Go: [cdp ★127](https://github.com/mafredri/cdp) - A Golang library for the protocol
+- Go: [cdp ★133](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd ★141](https://github.com/wirepair/gcd) - A different client library in Go
 - Go: [godet ★200](https://github.com/raff/godet) - Also different, also Go.
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.

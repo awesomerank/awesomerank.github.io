@@ -232,7 +232,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Imagemin ★2211](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
 * [Sharp ★8623](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
 * [Gm ★5045](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
-* [Exexif ★8063](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
+* [Exexif ★8188](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
 * [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.
 * [Grunt-contrib-imagemin ★1205](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
 * [Gulp-imagemin ★1518](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
@@ -247,7 +247,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Shrinkray](https://shrinkray.io) - One-click optimization for images in your Github repos
 * [mozjpeg ★3036](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 * [Jpegoptim ★694](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
-* [ZopfliPNG ★2209](https://github.com/google/zopfli) - A command line program to optimize PNG images.
+* [ZopfliPNG ★2233](https://github.com/google/zopfli) - A command line program to optimize PNG images.
 * [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress png files to get the smallest possible size.
 * [Leanify ★478](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 * [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
@@ -261,7 +261,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Loaders
 
-* [HeadJS ★4195 ⏳1Y](https://github.com/headjs/headjs)- The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
+* [HeadJS ★4197 ⏳1Y](https://github.com/headjs/headjs)- The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
 * [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
 * [Labjs](http://labjs.com/) - is an open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
 * [Defer.js ★68 ⏳5Y](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel.
@@ -317,7 +317,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-contrib-concat ★819](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 * [Grunt-contrib-uglify ★1436](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify Javascript files.
 * [Clean-css ★2934](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
-* [Django-compressor ★2036](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
+* [Django-compressor ★2052](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 * [Django-pipeline](https://github.com/cyberdelia/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
 * [JShrink ★531](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
 * [JSCompress](http://jscompress.com/) - The most minimalistic online JS Compress tool.

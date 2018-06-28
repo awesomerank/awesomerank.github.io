@@ -295,7 +295,7 @@ Made with Electron.
 - [electron-osx-appearance ★140 ⏳1Y](https://github.com/danhp/electron-osx-appearance) - Simplified API for accessing macOS's appearance settings.
 - [electron-store ★950](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 - [electron-context-menu ★476](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
-- [electron-require ★18 ⏳1Y](https://github.com/brrd/electron-require) - Simplified require.
+- [electron-require ★18 ⏳2Y](https://github.com/brrd/electron-require) - Simplified require.
 - [NeDB ★8423](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 - [electron-log ★258](https://github.com/megahertz/electron-log) - Simple logging.

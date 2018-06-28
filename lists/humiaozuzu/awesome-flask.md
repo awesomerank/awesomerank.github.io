@@ -46,16 +46,16 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 
 - [Connexion ★1281](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
 - [Flask-MongoRest ★425](https://github.com/closeio/flask-mongorest) - Restful API framework wrapped around MongoEngine
-- [Eve ★5015](https://github.com/pyeve/eve) - REST API framework powered by Flask, MongoDB and good intentions
-- [Flask-Restless ★885](https://github.com/jfinkels/flask-restless) - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models
-- [Flask-RESTful ★3698](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
+- [Eve ★5066](https://github.com/pyeve/eve) - REST API framework powered by Flask, MongoDB and good intentions
+- [Flask-Restless ★895](https://github.com/jfinkels/flask-restless) - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models
+- [Flask-RESTful ★3767](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
 - [Flask-RestPlus ★973](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation.
 - [Flask-Potion ★417](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
 - [Zappa ★7256](https://github.com/Miserlou/Zappa) - Build and deploy server-less Flask applications on AWS Lambda and API Gateway
 
 ## Admin interface
 
-- [Flask-Admin ★2918](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
+- [Flask-Admin ★2982](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
 
 ## Authentication
 
@@ -67,7 +67,7 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 ## Authorization
 
 - [Authlib ★488](https://github.com/lepture/authlib) - Authlib is an ambitious authentication library for OAuth 1, OAuth 2, OpenID clients, servers and more.
-- [Authomatic ★855](https://github.com/authomatic/authomatic) - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
+- [Authomatic ★867](https://github.com/authomatic/authomatic) - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
 - [Flask-Pundit](https://github.com/anurag90x/flask-pundit) - Extension based on Rails' [Pundit ★5891](https://github.com/varvet/pundit) gem that provides easy way to organize access control for your models
 
 ## Database
@@ -112,13 +112,13 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 ## Task Queue
 
 - [dramatiq ★802](https://github.com/Bogdanp/dramatiq) - A fast and reliable distributed task processing library for Python 3
-- [huey ★1755](https://github.com/coleifer/huey) - a little task queue for python
+- [huey ★1803](https://github.com/coleifer/huey) - a little task queue for python
 - [Flask-RQ ★160 ⏳1Y](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
 - [celery ★9648](https://github.com/celery/celery) - Distributed Task Queue
 
 ## Exception tracking
 
-- [Raven ★1424](https://github.com/getsentry/raven-python) - Raven is a Python client for [Sentry](https://sentry.io/welcome/).
+- [Raven ★1457](https://github.com/getsentry/raven-python) - Raven is a Python client for [Sentry](https://sentry.io/welcome/).
 - [airbrake-python ★37](https://github.com/airbrake/airbrake-python) - Python client for [Airbrake](https://airbrake.io/)
 
 ## Tracing
@@ -140,7 +140,7 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 ## Frontend
 
 - [Flask-CORS ★403](https://github.com/corydolphin/flask-cors) - A Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
-- [flask-assets ★344 ⏳1Y](https://github.com/miracle2k/flask-assets) - Flask webassets integration
+- [flask-assets ★349 ⏳1Y](https://github.com/miracle2k/flask-assets) - Flask webassets integration
 - [flask-s3 ★138](https://github.com/e-dard/flask-s3) - Seamlessly serve your static assets of your Flask app from Amazon S3
 - [Flask-SSLify ★434](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app
 - [Flask-HTMLmin ★37](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
@@ -151,7 +151,7 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 - [flask-apispec ★256](https://github.com/jmcarp/flask-apispec) - simple self-documenting APIs with flask
 - [flask2postman ★84](https://github.com/numberly/flask2postman) - Generate a Postman collection from your Flask application
 - [flask_profiler ★393](https://github.com/muatik/flask-profiler) - endpoint analyzer/profiler for Flask
-- [Flask-DebugToolbar ★639](https://github.com/mgood/flask-debugtoolbar) - A port of the django debug toolbar to flask
+- [Flask-DebugToolbar ★646](https://github.com/mgood/flask-debugtoolbar) - A port of the django debug toolbar to flask
 - [flask-debug-toolbar-mongo ★3 ⏳1Y](https://github.com/cenkalti/flask-debug-toolbar-mongo) - MongoDB panel for the Flask Debug Toolbar
 - [Flask-Testing ★367](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
 - [pytest-flask ★162 ⏳1Y](https://github.com/pytest-dev/pytest-flask) - A set of pytest fixtures to test Flask applications
@@ -162,7 +162,7 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 - [flask-marshmallow ★321](https://github.com/marshmallow-code/flask-marshmallow) Flask + marshmallow for beautiful APIs
 - [flask-jsonrpc ★136](https://github.com/cenobites/flask-jsonrpc) - A basic JSON-RPC implementation for your Flask-powered sites
 - [Flask-Bcrypt ★203](https://github.com/maxcountryman/flask-bcrypt) - Flask-Bcrypt is a Flask extension that provides bcrypt hashing utilities for your application
-- [Mixer ★505](https://github.com/klen/mixer) - Mixer is application to generate instances of Django or SQLAlchemy models
+- [Mixer ★510](https://github.com/klen/mixer) - Mixer is application to generate instances of Django or SQLAlchemy models
 - [Flask-FeatureFlags ★99](https://github.com/trustrachel/Flask-FeatureFlags) - A Flask extension that enables or disables features based on configuration
 - [Flask-Reggie ★42 ⏳5Y](https://github.com/rhyselsmore/flask-reggie) - Regex Converter for Flask URL Routes
 - [Flask-SocketIO ★2340](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications
@@ -220,7 +220,7 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 - [thenewsmeme.com ★73 ⏳7Y](https://github.com/danjac/newsmeme)
 - [overholt ★1400 ⏳2Y](https://github.com/mattupstate/overholt) - Example Flask application illustrating common practices
 - [pypress ★526 ⏳1Y](https://github.com/laoqiu/pypress) - flask team blog
-- [thepast.me ★755 ⏳2Y](https://github.com/laiwei/thepast)
+- [thepast.me ★755 ⏳3Y](https://github.com/laiwei/thepast)
 - [redispapa ★367 ⏳1Y](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
 - [flaskblog ★151 ⏳1Y](https://github.com/defshine/flaskblog) - a simple blog system based on flask
 - [cleanblog ★97 ⏳1Y](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
@@ -235,7 +235,7 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 - [changes ★768 ⏳1Y](https://github.com/dropbox/changes) - A dashboard for your code. A build system.
 - [security_monkey ★2738](https://github.com/Netflix/security_monkey) - monitors policy changes and alerts on insecure configurations in an AWS account.
 - [securedrop ★2423](https://github.com/freedomofpress/securedrop)- an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
-- [sync_engine ★3442](https://github.com/nylas/sync-engine) - IMAP/SMTP sync system with modern APIs
+- [sync_engine ★3446](https://github.com/nylas/sync-engine) - IMAP/SMTP sync system with modern APIs
 - [cleansweep ★32](https://github.com/AamAadmiParty/cleansweep) - Volunteer & Campaign Management System
 - [indico ★329](https://github.com/indico/indico) - a general-purpose event management web-based solution. It includes a full-blown conference organization workflow as well as tools for meeting management and room booking. It provides as well integration with video-conferencing solutions.
 - [flaskbb ★1284](https://github.com/flaskbb/flaskbb) - A classic Forum Software in Python using Flask.

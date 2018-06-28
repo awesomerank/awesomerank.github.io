@@ -30,7 +30,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo ★2430](https://github.com/idris-lang/Idris-dev)
+* [Official repo ★2464](https://github.com/idris-lang/Idris-dev)
 
 ### Articles
 
@@ -88,7 +88,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 * [idris-jvm ★254](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode backend for Idris.
 * [idris-llvm ★59](https://github.com/idris-hackers/idris-llvm) - LLVM backend.
-* [idris-erlang ★165](https://github.com/lenary/idris-erlang) - Erlang backend.
+* [idris-erlang ★165 ⏳1Y](https://github.com/lenary/idris-erlang) - Erlang backend.
 * [idris-malfunction ★64](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend.
 
 ### Community

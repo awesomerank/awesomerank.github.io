@@ -206,7 +206,7 @@ The tools for software package and installation
 * [NSIS](http://nsis.sourceforge.net/Main_Page)  NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution  
 * [rpm](http://rpm.org)  The RPM Package Manager (RPM) is a powerful command line driven package management system capable of installing, uninstalling, verifying, querying, and updating computer software packages  
 * [yum](http://yum.baseurl.org)  Yum is an automatic updater and package installer/remover for rpm systems  
-* [fpm ★8482](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.  
+* [fpm ★8558](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.  
 * [wix](http://wixtoolset.org/) The most powerful set of tools available to create your Windows installation experience.  
 * [packer](https://www.packer.io/)  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.  
 
@@ -246,7 +246,7 @@ Jetty provides a Web server and javax.servlet container, plus support for SPDY, 
 ## OS And Shell
 Linux shell, perl, python  
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
-* [awesome-python ★50412](https://github.com/vinta/awesome-python)  
+* [awesome-python ★51865](https://github.com/vinta/awesome-python)  
 * [awesome-perl ★403 ⏳1Y](https://github.com/hachiojipm/awesome-perl)  
 * [awesome-sysadmin ★17190](https://github.com/kahun/awesome-sysadmin)  
 
@@ -278,7 +278,7 @@ Conference and submit
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
 * [awesome ★87749](https://github.com/sindresorhus/awesome)  
-* [awesome-awesome ★1125](https://github.com/emijrp/awesome-awesome)  
+* [awesome-awesome ★1137](https://github.com/emijrp/awesome-awesome)  
 * [awesome-awesomeness ★21639](https://github.com/bayandin/awesome-awesomeness)  
 * [sysadmin ★11 ⏳1Y](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  

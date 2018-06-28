@@ -30,7 +30,7 @@ List of content
 - Relational
 	* [RQLite ★19](https://github.com/otoolep/rqlite) Replicated SQLite using the Raft consensus protocol
 	* [MySQL](http://www.mysql.com/) The world's most popular open source database.
-		* [TiDB ★13447](https://github.com/pingcap/tidb) TiDB is a distributed NewSQL database compatible with MySQL protocol 	
+		* [TiDB ★13846](https://github.com/pingcap/tidb) TiDB is a distributed NewSQL database compatible with MySQL protocol 	
 		* [Percona XtraBackup](https://www.percona.com/software/mysql-database/percona-xtrabackup) Percona XtraBackup is a free, open source, complete online backup solution for all versions of Percona Server, MySQL® and MariaDB®
 		* [mysql_utils ★808 ⏳1Y](https://github.com/pinterest/mysql_utils) Pinterest MySQL Management Tools
 	* [MariaDB](https://mariadb.org/) An enhanced, drop-in replacement for MySQL.
@@ -97,7 +97,7 @@ List of content
 	* [kafkat ★348](https://github.com/airbnb/kafkat) Simplified command-line administration for Kafka brokers
 	* [kafkacat ★1009](https://github.com/edenhill/kafkacat) Generic command line non-JVM Apache Kafka producer and consumer
 	* [pg-kafka ★86 ⏳3Y](https://github.com/xstevens/pg_kafka) A PostgreSQL extension to produce messages to Apache Kafka
-	* [librdkafka ★1912](https://github.com/edenhill/librdkafka) The Apache Kafka C/C++ library
+	* [librdkafka ★2002](https://github.com/edenhill/librdkafka) The Apache Kafka C/C++ library
 	* [kafka-docker ★1780](https://github.com/wurstmeister/kafka-docker) Kafka in Docker
 	* [kafka-manager ★5376](https://github.com/yahoo/kafka-manager) A tool for managing Apache Kafka
 	* [kafka-node ★1345](https://github.com/SOHU-Co/kafka-node) Node.js client for Apache Kafka 0.8
@@ -125,19 +125,19 @@ List of content
 * [SnackFS ★13 ⏳3Y](https://github.com/tuplejump/snackfs-release) SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra
 * [GlusterFS](http://www.gluster.org/) Gluster Filesystem
 * [XtreemFS](http://www.xtreemfs.org/) fault-tolerant distributed file system for all storage needs
-* [SeaweedFS ★5392](https://github.com/chrislusf/seaweedfs) Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
+* [SeaweedFS ★5483](https://github.com/chrislusf/seaweedfs) Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 * [S3QL](https://bitbucket.org/nikratio/s3ql) S3QL is a file system that stores all its data online using storage services like Google Storage, Amazon S3, or OpenStack.
 * [LizardFS](https://lizardfs.com/) LizardFS Software Defined Storage is a distributed, parallel, scalable, fault-tolerant, Geo-Redundant and highly available file system.
 
 # Serialization format
 * [Apache Avro](https://avro.apache.org) Apache Avro™ is a data serialization system
 * [Apache Parquet](https://parquet.apache.org) Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
-	* [Snappy ★2738](https://github.com/google/snappy) A fast compressor/decompressor. Used with Parquet
+	* [Snappy ★2806](https://github.com/google/snappy) A fast compressor/decompressor. Used with Parquet
 	* [PigZ](http://zlib.net/pigz/) A parallel implementation of gzip for modern
 multi-processor, multi-core machines
 * [Apache ORC](https://orc.apache.org/) The smallest, fastest columnar storage for Hadoop workloads 
 * [Apache Thrift](https://thrift.apache.org) The Apache Thrift software framework, for scalable cross-language services development
-* [ProtoBuf ★26343](https://github.com/google/protobuf) Protocol Buffers - Google's data interchange format
+* [ProtoBuf ★27173](https://github.com/google/protobuf) Protocol Buffers - Google's data interchange format
 * [SequenceFile](http://wiki.apache.org/hadoop/SequenceFile) SequenceFile is a flat file consisting of binary key/value pairs. It is extensively used in MapReduce as input/output formats
 * [Kryo ★3379](https://github.com/EsotericSoftware/kryo) Kryo is a fast and efficient object graph serialization framework for Java
 
@@ -191,11 +191,11 @@ multi-processor, multi-core machines
 * [Plotly ★5136](https://github.com/plotly/dash) Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python
 * [Apache Superset](https://github.com/airbnb/superset) Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 * [Redash](https://redash.io/) Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
-* [Metabase ★10007](https://github.com/metabase/metabase) Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
+* [Metabase ★10348](https://github.com/metabase/metabase) Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
 
 
 # Workflow
-* [Luigi ★9316](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs.
+* [Luigi ★9488](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs.
 	* [CronQ ★62](https://github.com/seatgeek/cronq) An application cron-like system. [Used](http://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/) w/Luige 
 * [Cascading](http://www.cascading.org/) Java based application development platform.
 * [Airflow](https://github.com/airbnb/airflow) Airflow is a system to programmaticaly author, schedule and monitor data pipelines.
@@ -238,7 +238,7 @@ multi-processor, multi-core machines
 # Monitoring
 
 ## Prometheus
-* [Prometheus.io ★16586](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
+* [Prometheus.io ★17189](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
 * [HAProxy Exporter ★186](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
 
 # Community

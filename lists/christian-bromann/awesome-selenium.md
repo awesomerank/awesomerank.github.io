@@ -50,7 +50,7 @@ Inspired by the [awesome ★87749](https://github.com/sindresorhus/awesome) list
 
 - [Selenium with Ruby](http://seleniumhq.github.io/selenium/docs/api/rb/index.html) - Selenium Ruby bindings
 - [Watir](http://watir.github.io) - Automated testing that doesn’t hurt
-- [Anemone ★1610 ⏳1Y](https://github.com/chriskite/anemone) - Anemone web-spider framework.
+- [Anemone ★1613 ⏳1Y](https://github.com/chriskite/anemone) - Anemone web-spider framework.
 - [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
 - [Spidr ★549](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
 - [cobweb](https://rubygems.org/gems/cobweb) - web crawler that can use resque to cluster crawls to quickly crawl extremely large sites.
@@ -99,7 +99,7 @@ Inspired by the [awesome ★87749](https://github.com/sindresorhus/awesome) list
 #### Docker
 
 - [elgalu/docker-selenium ★929](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
-- [Ggr ★138](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
+- [Ggr ★143](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
 - [SeleniumHQ/docker-selenium ★2417](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
 - [Selenoid ★623](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
 - [zalando/zalenium ★946](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure

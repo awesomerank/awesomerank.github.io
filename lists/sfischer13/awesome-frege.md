@@ -11,7 +11,7 @@ title: Awesome Rank for sfischer13/awesome-frege
 
 > Useful resources for the [Frege](https://en.wikipedia.org/wiki/Frege_(programming_language)) programming language
 
-You might also like [awesome-haskell ★1464](https://github.com/krispo/awesome-haskell).
+You might also like [awesome-haskell ★1494](https://github.com/krispo/awesome-haskell).
 
 *Please read the [contribution guidelines](https://github.com/sfischer13/awesome-frege/blob/master/contributing.md) before contributing.*
 

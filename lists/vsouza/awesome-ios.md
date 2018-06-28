@@ -143,6 +143,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Segmented Control](#segmented-control)
     - [Slider](#slider)
     - [Splash View](#splash-view)
+    - [Status Bar](#status-bar)
     - [Stepper](#stepper)
     - [Switch](#switch)
     - [Tab Bar](#tab-bar)
@@ -372,7 +373,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FlowerChart ★9](https://github.com/drinkius/flowerchart) - Flower-shaped chart with custom appearance animation, fully vector.
 * [Scrollable-GraphView ★4547](https://github.com/philackm/ScrollableGraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
 * [Dr-Charts ★76](https://github.com/Zomato/DR-charts) - Dr-Charts is a highly customisable, easy to use and interactive chart / graph framework in Objective-C.
-* [Graphs ★891](https://github.com/recruit-mtl/Graphs) - Light weight charts view generator for iOS.
+* [Graphs ★891 ⏳1Y](https://github.com/recruit-mtl/Graphs) - Light weight charts view generator for iOS.
 * [FSInteractiveMap ★491 ⏳1Y](https://github.com/ArthurGuibert/FSInteractiveMap) - A charting library to visualize and interact with a vector map on iOS. It's like Geochart but for iOS!
 * [JYRadarChart ★407 ⏳1Y](https://github.com/johnnywjy/JYRadarChart) - An iOS open source Radar Chart implementation.
 * [TKRadarChart ★149](https://github.com/TBXark/TKRadarChart) - A customizable radar chart in Swift
@@ -488,7 +489,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 *Core data Frameworks, wrappers, generators and boilerplates.*
 
-* [CWCoreData ★70 ⏳2Y](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
+* [CWCoreData ★70 ⏳3Y](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
 * [ObjectiveRecord ★1334 ⏳1Y](https://github.com/supermarin/ObjectiveRecord) - ActiveRecord for Objective-C.
 * [SSDataKit ★469 ⏳2Y](https://github.com/soffes/SSDataKit) - Eliminate your Core Data boilerplate code.
 * [ios-queryable ★237 ⏳2Y](https://github.com/martydill/ios-queryable) - ios-queryable is an implementation of IQueryable/IEnumerable for Core Data.
@@ -616,7 +617,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Solar ★185](https://github.com/ceeK/Solar) - A Swift micro library for generating Sunrise and Sunset times.
 * [TimePicker ★10](https://github.com/Endore8/TimePicker) - Configurable time picker component based on a pan gesture and its velocity.
 * [LFTimePicker ★54](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift
-* [NVDate ★122](https://github.com/novalagung/nvdate) - Swift4 Date extension library
+* [NVDate ★147](https://github.com/novalagung/nvdate) - Swift4 Date extension library
 
 ## Debugging
 
@@ -2404,7 +2405,7 @@ Most of these are paid services, some have free tiers.
 * [DGElasticPullToRefresh ★3171](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift
 * [PullToBounce ★1729](https://github.com/entotsu/PullToBounce) - Animated "Pull To Refresh" Library for UIScrollView.
 * [SVPullToRefresh ★4876 ⏳1Y](https://github.com/samvermette/SVPullToRefresh) - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. http://samvermette.com/314
-* [UzysAnimatedGifPullToRefresh ★1423 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - Add PullToRefresh using animated GIF to any scrollView with just simple code
+* [UzysAnimatedGifPullToRefresh ★1423 ⏳2Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - Add PullToRefresh using animated GIF to any scrollView with just simple code
 * [PullToRefreshCoreText ★315 ⏳1Y](https://github.com/cemolcay/PullToRefreshCoreText) - PullToRefresh extension for all UIScrollView type classes with animated text drawing style
 * [BOZPongRefreshControl ★900 ⏳3Y](https://github.com/boztalay/BOZPongRefreshControl) - A pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app
 * [CBStoreHouseRefreshControl ★3997 ⏳1Y](https://github.com/coolbeet/CBStoreHouseRefreshControl) - Fully customizable pull-to-refresh control inspired by Storehouse iOS app
@@ -2484,6 +2485,9 @@ Most of these are paid services, some have free tiers.
 * [CBZSplashView ★1467 ⏳1Y](https://github.com/callumboddy/CBZSplashView) - Twitter style Splash Screen View. Grows to reveal the Initial view behind.
 * [SKSplashView ★457 ⏳1Y](https://github.com/sachinkesiraju/SKSplashView) - Create custom animated splash views similar to the ones in the Twitter, Uber and Ping iOS app.
 * [RevealingSplashView ★916](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash
+
+### Status Bar
+* [Bartinter ★9](https://github.com/MaximKotliar/Bartinter) - Status bar tint depending on content behind, updates dynamically.
 
 ### Stepper
 * [PFStepper ★25 ⏳1Y](https://github.com/PerfectFreeze/PFStepper) - May be the most elegant stepper you have ever had!
@@ -2805,7 +2809,7 @@ CollectionView, make Instagram Discover within minutes.
 * [PVOnboardKit ★47](https://github.com/vpeschenkov/PVOnboardKit) - Framework that allows you to add your own walkthrough/intro/tutorial into your app.
 * [Minamo ★232](https://github.com/yukiasai/Minamo) - Simple coach mark library written in Swift.
 * [Material Showcase iOS ★126](https://github.com/aromajoin/material-showcase-ios) - An elegant and beautiful showcase for iOS apps.
-* [WhatsNewKit ★24](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
+* [WhatsNewKit ★633](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 
 ## WebSocket
 * [SocketRocket ★7822](https://github.com/facebook/SocketRocket) - A conforming Objective-C WebSocket client library.

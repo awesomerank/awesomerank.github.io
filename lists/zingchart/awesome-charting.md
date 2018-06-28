@@ -46,7 +46,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [Plotly ★8356](https://github.com/plotly/plotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
 * [Plottable ★2411](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts.
 * [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites.
-* [sigma.js ★7955](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
+* [sigma.js ★7998](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
 * [Smoothie Charts ★1790](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
 * [TauCharts](https://www.taucharts.com/) - Unique syntax that lets the developer describe the data using DSL. Has the ability to create facets.
 * [uvCharts ★239](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js

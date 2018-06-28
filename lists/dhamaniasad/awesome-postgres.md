@@ -71,7 +71,7 @@ For Database Management
 * [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgModeler](https://www.pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler.
-* [pgweb ★5048](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
+* [pgweb ★5111](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
 * [phpPgAdmin ★280](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
 * [Postbird ★317](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
 * [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
@@ -88,7 +88,7 @@ For Database Management
 * [PostgreSql.Binaries.Lite ★10](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
 
 ### CLI
-* [pgcli ★6784](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+* [pgcli ★6872](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv ★98 ⏳2Y](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
@@ -127,7 +127,7 @@ For Database Management
 * [HypoPG ★2](https://github.com/dalibo/hypopg) - HypoPG provides hypothetical/virtual indexes feature.
 
 ### Optimization
-* [PgHero ★3863](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
+* [PgHero ★3895](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgtune ★811 ⏳1Y](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 * [pgtune ★430](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
 * [pgconfig.org ★53](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
@@ -169,7 +169,7 @@ For Database Management
 ### Language bindings
 * Common Lisp: [Postmodern ★142](https://github.com/marijnh/Postmodern)
 * Elixir: [postgrex ★554](https://github.com/elixir-ecto/postgrex)
-* Go: [pgx ★1378](https://github.com/jackc/pgx)
+* Go: [pgx ★1414](https://github.com/jackc/pgx)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net/.Net Core: [Npgsql ★1262](https://github.com/npgsql/npgsql)
 * Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise ★1827](https://github.com/vitaly-t/pg-promise)
@@ -177,7 +177,7 @@ For Database Management
 * PHP: [Pomm](http://www.pomm-project.org), [pecl/pq ★17](https://github.com/m6w6/ext-pq)
 * Python: [psycopg2](https://pypi.python.org/pypi/psycopg2)
 * Ruby: [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
-* Rust: [rust-postgresql ★940](https://github.com/sfackler/rust-postgres)
+* Rust: [rust-postgresql ★970](https://github.com/sfackler/rust-postgres)
 * Lua: [luapgsql ★78](https://github.com/arcapos/luapgsql)
 
 ### Tutorials

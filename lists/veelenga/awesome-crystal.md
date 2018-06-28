@@ -80,7 +80,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Shell Plugins](#shell-plugins)
 
 ## Algorithms and Data structures
- * [aho_corasick ★1 ⏳1Y](https://github.com/chenkovsky/aho_corasick) - AhoCorasick algorithm
+ * [aho_corasick ★1 ⏳2Y](https://github.com/chenkovsky/aho_corasick) - AhoCorasick algorithm
  * [crystal-diff ★18 ⏳1Y](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
  * [crystal-linked-list ★6 ⏳1Y](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
  * [crystaledge ★10](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
@@ -121,7 +121,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [posix ★21 ⏳1Y](https://github.com/ysbaddaden/posix) - POSIX/C bindings
  * [soundfile ★2 ⏳1Y](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
  * [ssh2.cr ★29](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
- * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox ★1255](https://github.com/nsf/termbox) (terminal UI library)
+ * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox ★1261](https://github.com/nsf/termbox) (terminal UI library)
  * [x11-cr ★11](https://github.com/TamasSzekeres/x11-cr) - X11 bindings
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool` ★641](https://github.com/jordansissel/xdotool))
 
@@ -161,8 +161,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Converters
  * [human_file_size.cr ★0](https://github.com/johnjansen/human_file_size.cr) - JSON & YAML mapping converter for human file sizes in serialized data
- * [money](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney ★1962](https://github.com/RubyMoney/money))
- * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (inspired by [RubyMoney ★1962](https://github.com/RubyMoney/money))
+ * [money](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney ★1978](https://github.com/RubyMoney/money))
+ * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (inspired by [RubyMoney ★1978](https://github.com/RubyMoney/money))
  * [ms ★13 ⏳1Y](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
  * [sass.cr](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass ★3799](https://github.com/sass/libsass) binding)
  * [time_format.cr ★0](https://github.com/vladfaust/time_format.cr) - Convert time in human readable format with ease
@@ -289,7 +289,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## GUI library
  * [hedron ★17](https://github.com/Qwerp-Derp/hedron) - An extendable GUI library, with markup language capabilities
- * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui ★7026](https://github.com/andlabs/libui)
+ * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui ★7365](https://github.com/andlabs/libui)
  * [qt5.cr ★94](https://github.com/Papierkorb/qt5.cr) - Qt5 bindings for Crystal, based on Bindgen
 
 ## HTML/XML Parsing
@@ -351,7 +351,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-learn ★32](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
  * [grey_matter ★8 ⏳1Y](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library
  * [shainet ★62](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
- * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow ★100987](https://github.com/tensorflow/tensorflow)
+ * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow ★103699](https://github.com/tensorflow/tensorflow)
 
 ## Markdown/Text Processors
  * [html-pipeline ★5](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities
@@ -463,11 +463,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rcpu ★33 ⏳1Y](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Task management
- * [cake ★10](https://github.com/axvm/cake) - Production-ready Make-like utility tool
+ * [cake ★10 ⏳1Y](https://github.com/axvm/cake) - Production-ready Make-like utility tool
  * [sam ★27](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## Template Engine
- * [crikey](https://github.com/domgetter/crikey) - Templating engine inspired by [Hiccup ★1748](https://github.com/weavejester/hiccup)
+ * [crikey](https://github.com/domgetter/crikey) - Templating engine inspired by [Hiccup ★1758](https://github.com/weavejester/hiccup)
  * [crinja ★26](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
  * [crustache ★36](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
  * [ECR (Embedded Crystal)](https://crystal-lang.org/api/ECR.html) - compile time template language which uses plain crystal expressions (Crystal stdlib)
@@ -486,7 +486,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
  * [spec2-mocks ★7 ⏳1Y](https://github.com/waterlink/spec2-mocks.cr) - An adapter of mocks.cr for spec2.cr
  * [spec2.cr ★83](https://github.com/waterlink/spec2.cr) - Enhanced testing library
- * [timecop.cr](https://github.com/TobiasGSmollett/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem ★2615](https://github.com/travisjeffery/timecop)
+ * [timecop.cr](https://github.com/TobiasGSmollett/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem ★2637](https://github.com/travisjeffery/timecop)
  * [webmock.cr ★50](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Third-party APIs
@@ -569,7 +569,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [icr ★292](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
  * [JSON to Crystal](https://watzon.me/projects/json-to-crystal) - Paste in a JSON object and get Crystal mappings in response
  * [mpngin ★7](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
- * [nes ★39](https://github.com/romeroadrian/nes.cr) - A NES emulator
+ * [nes ★39 ⏳1Y](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
  * [soundmemes.cr](https://github.com/vladfaust/soundmemes.cr) - Telegram Bot built on top of tele.cr
  * [torrent ★30](https://github.com/Papierkorb/torrent) - A BitTorrent client

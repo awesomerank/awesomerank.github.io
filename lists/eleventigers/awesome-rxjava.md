@@ -34,7 +34,7 @@ title: Awesome Rank for eleventigers/awesome-rxjava
 ## Utilities
 * [RxJavaAsyncUtil ★119 ⏳1Y](https://github.com/ReactiveX/RxJavaAsyncUtil) - Async utilities for RxJava.
 * [RxJavaJoins ★91 ⏳3Y](https://github.com/ReactiveX/RxJavaJoins) - Joins operators for RxJava.
-* [RxJavaMath ★93 ⏳1Y](https://github.com/ReactiveX/RxJavaMath) - Math operators for RxJava.
+* [RxJavaMath ★93 ⏳2Y](https://github.com/ReactiveX/RxJavaMath) - Math operators for RxJava.
 * [RxJavaString ★119 ⏳1Y](https://github.com/ReactiveX/RxJavaString) - 
 String and Byte operators for RxJava.
 * [RxJavaComputationExpressions ★60 ⏳2Y](https://github.com/ReactiveX/RxJavaComputationExpressions) - Computation expressions for RxJava.

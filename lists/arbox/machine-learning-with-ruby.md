@@ -9,7 +9,7 @@ title: Awesome Rank for arbox/machine-learning-with-ruby
 ---
 <img src="header.png" align="center">
 
-[[RubyNLP ★758](https://github.com/arbox/nlp-with-ruby) |
+[[RubyNLP ★762](https://github.com/arbox/nlp-with-ruby) |
  [RubyDataScience ★411](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop ★6](https://github.com/arbox/ruby-interoperability)]
 
@@ -107,7 +107,7 @@ programming languages with appropriate bindings for Ruby.
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
 - [ai4r ★689](https://github.com/SergioFierens/ai4r) -
   Artificial Intelligence for Ruby.
-- [classifier-reborn ★408](https://github.com/jekyll/classifier-reborn) -
+- [classifier-reborn ★409](https://github.com/jekyll/classifier-reborn) -
   General classifier module to allow Bayesian and other types of classifications.
   <sup>[[dep: GLS](#gls)]</sup>
 - [scoruby ★33](https://github.com/asafschers/scoruby) -
@@ -134,9 +134,9 @@ programming languages with appropriate bindings for Ruby.
 
 ### Neural networks
 
-- [neural-net-ruby ★91](https://github.com/gbuesing/neural-net-ruby) -
+- [neural-net-ruby ★91 ⏳1Y](https://github.com/gbuesing/neural-net-ruby) -
   Neural network written in Ruby.
-- [ruby-fann ★367 ⏳2Y](https://github.com/tangledpath/ruby-fann) -
+- [ruby-fann ★368 ⏳2Y](https://github.com/tangledpath/ruby-fann) -
   Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 - [cerebrum ★33 ⏳1Y](https://github.com/irfansharif/cerebrum) -
   Experimental implementation for Artificial Neural Networks in Ruby.
@@ -154,7 +154,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Kernel methods
 
-- [rb-libsvm ★258](https://github.com/febeling/rb-libsvm) -
+- [rb-libsvm ★264](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby and the [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
   <sup>[[dep: bundled](#bundled)]</sup>
 
@@ -179,7 +179,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Decision trees
 
-- [decisiontree ★1029](https://github.com/igrigorik/decisiontree) -
+- [decisiontree ★1060](https://github.com/igrigorik/decisiontree) -
   Decision Tree ID3 Algorithm in pure Ruby.
   <sup>[[dep: GraphViz](#graphviz) |
         [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
@@ -389,7 +389,7 @@ on the code here.
 - [scikit-learn algorithm cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Awesome Ruby ★8802](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
-- [Ruby NLP ★1057](https://github.com/diasks2/ruby-nlp) -
+- [Ruby NLP ★1071](https://github.com/diasks2/ruby-nlp) -
   State-of-Art collection of Ruby libraries for NLP.
 - [Speech and Natural Language Processing ★1746](https://github.com/edobashira/speech-language-processing) -
   General List of NLP related resources (mostly not for Ruby programmers).
@@ -402,7 +402,7 @@ on the code here.
   Multitude of OCR (Optical Character Recognition) resources.
 - [Awesome TensorFlow ★11823](https://github.com/jtoy/awesome-tensorflow) -
   Machine Learning with TensorFlow libraries.
-- [rb-gsl ★76](https://github.com/SciRuby/rb-gsl) -
+- [rb-gsl ★75](https://github.com/SciRuby/rb-gsl) -
   Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.

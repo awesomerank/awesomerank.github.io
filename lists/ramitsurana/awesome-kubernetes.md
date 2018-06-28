@@ -189,7 +189,7 @@ Main Resources
 *Official resources from the Kubernetes team*
 
 * [Kubernetes Documentation](https://kubernetes.io/docs/home/)
-* [Kubernetes Source ★36887](https://github.com/kubernetes/kubernetes)
+* [Kubernetes Source ★38089](https://github.com/kubernetes/kubernetes)
 * [Kubernetes Troubleshooting](https://kubernetes.io/docs/tasks/debug-application-cluster/troubleshooting/)
 
 Release Notes
@@ -633,7 +633,7 @@ Projects
 
 * [click ★672](https://github.com/databricks/click) - A CLI focused REPL for quickly interacting with Kubernetes objects.
 * [kube-prompt ★601](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
-* [Kube-shell ★742](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
+* [Kube-shell ★786](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
 * [Kubebot ★82 ⏳2Y](https://github.com/harbur/kubebot)
 * [kubectx ★1357](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl
 * [kubens ★1357](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl

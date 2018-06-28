@@ -158,27 +158,27 @@ A curated list of Microservice Architecture related principles and technologies.
 #### Erlang
 
 - [Cowboy ★4998](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
-- [Mochiweb ★1605](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
+- [Mochiweb ★1606](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ### Go
 
 - [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
 - [Gizmo ★2244](https://github.com/nytimes/gizmo) - Microservices toolkit.
 - [Goa ★2833](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
-- [Gocraft ★1318](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
+- [Gocraft ★1321](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
 - [Goji](https://goji.io/) - Minimalistic and flexible request multiplexer for Go.
-- [Go kit ★10089](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+- [Go kit ★10390](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
 - [Go-micro ★3675](https://github.com/micro/go-micro) - A pluggable RPC microservice framework.
-- [Gopencils ★409](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
+- [Gopencils ★410](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
 - [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 - [Iris ★10592](https://github.com/kataras/iris) - Fast, simple and efficient micro web framework for Go.
 - [Kite ★1957](https://github.com/koding/kite) - Microservices framework in Go.
 - [Libchan ★2310](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
-- [Micro ★4462](https://github.com/micro/micro) - A microservices toolchain in Go.
+- [Micro ★4573](https://github.com/micro/micro) - A microservices toolchain in Go.
 - [Nano ★3 ⏳1Y](https://github.com/pasztorpisti/nano) - A minimalistic, transport-agnostic and testing-friendly microservice framework.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 - [Neutrino ★138 ⏳2Y](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
-- [RPCX ★2373](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
+- [RPCX ★2472](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 - [Sleepy ★670](https://github.com/dougblack/sleepy) - REST for go.
 - [Vamp-router ★88 ⏳1Y](https://github.com/magneticio/vamp-router) - Service routing, load balancing and filtering application.
 - [Zerver ★141 ⏳2Y](https://github.com/cosiner/zerver) - RESTful API framework.
@@ -193,12 +193,12 @@ A curated list of Microservice Architecture related principles and technologies.
 
 #### Clojure
 
-- [Compojure ★3401](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
+- [Compojure ★3417](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
 - [Duct](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
-- [Friboo ★113 ⏳1Y](https://github.com/zalando/friboo) - Utility library for writing microservices in Clojure, with support for Swagger and OAuth.
+- [Friboo ★114 ⏳1Y](https://github.com/zalando/friboo) - Utility library for writing microservices in Clojure, with support for Swagger and OAuth.
 - [Liberator](http://clojure-liberator.github.io/liberator/) - Library that helps you expose your data as resources while automatically complying with all the relevant requirements of the HTTP specification.
 - [Modularity](https://modularity.org/) - JUXT's Clojure-based modular system.
-- [System ★538](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
+- [System ★540](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
 - [Tesla ★179](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
 
 #### Java
@@ -272,7 +272,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [API Star](https://github.com/tomchristie/apistar) - A fast and expressive API framework, designed for Python 3.
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
-- [Sanic ★9384](https://github.com/channelcat/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
+- [Sanic ★9585](https://github.com/channelcat/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
 - [Twisted](https://twistedmatrix.com/trac/) - Event-driven network programming engine.
 - [Web.py ★4844](https://github.com/webpy/webpy) - Minimalist web framework for Python.
@@ -319,7 +319,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [ContainerPilot ★916](https://github.com/joyent/containerpilot) - Service for autodiscovery and configuration of applications running in containers.
 - [Denominator ★478 ⏳1Y](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
 - [Doozer ★2995 ⏳2Y](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
-- [Etcd ★18520](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
+- [Etcd ★18952](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 - [Microphone ★436](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
 - [Registrator ★3648](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, Etcd and SkyDNS 2.
@@ -346,7 +346,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Nomad](https://www.nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
-- [Onyx ★1741](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
+- [Onyx ★1754](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
 - [Ordasity ★346 ⏳3Y](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 - [Serf](https://www.serfdom.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
@@ -426,7 +426,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Saboteur ★343 ⏳2Y](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience.
 - [Semian ★567](https://github.com/Shopify/semian) - Resiliency toolkit for Ruby for failing fast.
 - [Simian Army ★6596](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
-- [Toxiproxy ★2752](https://github.com/shopify/toxiproxy) - TCP proxy to simulate network and system conditions for chaos and resiliency testing.
+- [Toxiproxy ★2826](https://github.com/shopify/toxiproxy) - TCP proxy to simulate network and system conditions for chaos and resiliency testing.
 
 ### Security
 
@@ -449,7 +449,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
 - [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
 - [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
-- [Cheshire ★1027](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
+- [Cheshire ★1032](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
 - [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
 - [Fastjson ★13849](https://github.com/alibaba/fastjson) - Fast JSON Processor.
 - [Ffjson ★2200](https://github.com/pquerna/ffjson) - Faster JSON serialization for Go.
@@ -497,7 +497,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
 - [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
 - [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/) - TDD to the level of software architecture.
-- [VCR ★3974](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
+- [VCR ★4009](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
 - [Wilma ★25](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
 - [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 

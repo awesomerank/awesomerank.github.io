@@ -173,7 +173,7 @@ _Source:_ [What is Docker](https://www.docker.com/what-docker)
 ### Deployment and Infrastructure
 
 - [blackfish](https://gitlab.com/blackfish/blackfish) - a CoreOS VM to build swarm clusters for Dev & Production by [@DataMC](http://datamc.io/)
-- [Centurion ★1707](https://github.com/newrelic/centurion) - Centurion is a mass deployment tool for Docker fleets. It takes containers from a Docker registry and runs them on a fleet of hosts with the correct environment variables, host volume mappings, and port mappings. By [@newrelic](https://github.com/newrelic)
+- [Centurion ★1706](https://github.com/newrelic/centurion) - Centurion is a mass deployment tool for Docker fleets. It takes containers from a Docker registry and runs them on a fleet of hosts with the correct environment variables, host volume mappings, and port mappings. By [@newrelic](https://github.com/newrelic)
 - [Clocker ★427](https://github.com/brooklyncentral/clocker) - Clocker creates and manages a Docker cloud infrastructure. Clocker supports single-click deployments and runtime management of multi-node applications that run as containers distributed across multiple hosts, on both Docker and Marathon. It leverages [Calico][calico] and [Weave][weave] for networking and [Brooklyn][brooklyn] for application blueprints. By [@brooklyncentral](https://github.com/brooklyncentral)
 - [Conduit ★99 ⏳1Y](https://github.com/ehazlett/conduit) - Experimental deployment system for Docker by [@ehazlett](https://github.com/ehazlett)
 - [depcon ★86](https://github.com/ContainX/depcon) - Depcon is written in Go and allows you to easily deploy Docker containers to Apache Mesos/Marathon, Amazon ECS and Kubernetes.  By [@ContainX][ContainX]
@@ -222,7 +222,7 @@ _Source:_ [What is Docker](https://www.docker.com/what-docker)
 - [Haven ★161](https://github.com/codeabovelab/haven-platform) - Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By [@codeabovelab](https://github.com/codeabovelab)
 - [Helios ★1923](https://github.com/spotify/helios) - A simple platform for deploying and managing containers across an entire fleet of servers by [@spotify](spotify)
 - [Kontena ★1355](https://github.com/kontena/kontena) - Application Containers for Masses [website](https://www.kontena.io/)
-- [Kubernetes ★36887](https://github.com/kubernetes/kubernetes) - Open source orchestration system for Docker containers by Google
+- [Kubernetes ★38089](https://github.com/kubernetes/kubernetes) - Open source orchestration system for Docker containers by Google
 - [ManageIQ ★662](https://github.com/ManageIQ/manageiq) - Discover, optimize and control your hybrid IT. By [ManageIQ](https://github.com/ManageIQ)
 - [Mantl ★3028](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [Marathon ★3674](https://github.com/mesosphere/marathon) - Marathon is a private PaaS built on Mesos. It automatically handles hardware or software failures and ensures that an app is "always on"
@@ -244,7 +244,7 @@ _Source:_ [What is Docker](https://www.docker.com/what-docker)
 - [Empire ★2411](https://github.com/remind101/empire) - A PaaS built on top of Amazon EC2 Container Service (ECS)
 - [Flynn ★6714](https://github.com/flynn/flynn) - A next generation open source platform as a service
 - [Jelastic](https://jelastic.com/) :heavy_dollar_sign: - An advanced PaaS for developers that simplifies clustering and complex cloud deployments with powerful web UI and usage-only pricing
-- [Nanobox ★1230](https://github.com/nanobox-io/nanobox) :heavy_dollar_sign: - An application development platform that creates local environments that can then be deployed and scaled in the cloud.
+- [Nanobox ★1241](https://github.com/nanobox-io/nanobox) :heavy_dollar_sign: - An application development platform that creates local environments that can then be deployed and scaled in the cloud.
 - [OpenShift][openshift] - An open source PaaS built on [Kubernetes][kubernetes] and optimized for Dockerized app development and deployment by [Red Hat](https://www.redhat.com/)
 - [Tsuru ★2789](https://github.com/tsuru/tsuru) - Tsuru is an extensible and open source Platform as a Service software
 - [Workflow ★1139](https://github.com/deis/workflow) - The open source PaaS for Kubernetes by [Deis](https://github.com/deis). Formerly Deis v1.
@@ -261,7 +261,7 @@ _Source:_ [What is Docker](https://www.docker.com/what-docker)
 - [nginx-proxy][nginxproxy] - Automated nginx proxy for Docker containers using docker-gen by [@jwilder][jwilder]
 - [Swarm Ingress Router ★172 ⏳1Y](https://github.com/tpbowden/swarm-ingress-router) - Route DNS names to Swarm services based on labels. By [@tpbowden](https://github.com/tpbowden/)
 - [Swarm Router ★15](https://github.com/flavioaiello/swarm-router) - A «zero config» service name based router for docker swarm mode with a fresh and more secure approach. By [@flavioaiello](https://twitter.com/flavioaiello)
-- [Træfɪk ★15437](https://github.com/containous/traefik) - Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By [@EmileVauge](https://github.com/emilevauge)
+- [Træfɪk ★16029](https://github.com/containous/traefik) - Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By [@EmileVauge](https://github.com/emilevauge)
 
 ### Security
 
@@ -284,7 +284,7 @@ _Source:_ [What is Docker](https://www.docker.com/what-docker)
 
 - [Docker Grand Ambassador ★193 ⏳3Y](https://github.com/cpuguy83/docker-grand-ambassador) :skull: - This is a fully dynamic docker link ambassador. + [Article](https://docs.docker.com/engine/admin/ambassador_pattern_linking/) by [@cpuguy83][cpuguy83]
 - [docker-consul ★1023](https://github.com/gliderlabs/docker-consul) by [@progrium][progrium]
-- [etcd ★18520](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery by [@coreOS][coreos]
+- [etcd ★18952](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery by [@coreOS][coreos]
 - [istio ★8548](https://github.com/istio/istio) - An open platform to connect, manage, and secure microservices by [@IstioMesh](istio)
 - [proxy ★49 ⏳3Y](https://github.com/factorish/proxy) :skull: - lightweight nginx based load balancer self using service discovery provided by registrator. by [@factorish](https://github.com/factorish)
 - [registrator ★3648](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker by [@gliderlabs][gliderlabs] and [@progrium][progrium]
@@ -317,7 +317,7 @@ Native desktop applications for managing and montoring docker hosts and clusters
 
 - [captain ★48](https://github.com/jenssegers/captain) - Easily start and stop docker compose projects from any directory. By [@jenssegers](https://github.com/jenssegers)
 - [ctop (1) ★373](https://github.com/yadutaf/ctop) - A command line / text based Linux Containers monitoring tool that works just like you expect (Python) by [@yadutaf](https://github.com/yadutaf)
-- [ctop (2) ★7004](https://github.com/bcicen/ctop) - Top-like interface for container metrics (Golang) by [@bcicen](https://github.com/bcicen/)
+- [ctop (2) ★7091](https://github.com/bcicen/ctop) - Top-like interface for container metrics (Golang) by [@bcicen](https://github.com/bcicen/)
 - [dext-docker-registry-plugin ★1 ⏳1Y](https://github.com/vutran/dext-docker-registry-plugin) - Search the Docker Registry with the Dext smart launcher.
 - [docker-ls ★240](https://github.com/mayflower/docker-ls) - CLI tools for browsing and manipulating docker registries by [@mayflower](https://github.com/mayflower)
 - [Docker-mon ★748 ⏳2Y](https://github.com/icecrime/docker-mon) :skull: - Console-based Docker monitoring by [@icecrime](https://github.com/icecrime)
@@ -369,7 +369,7 @@ Tools and applications that are either installed inside containers or designed t
 - [dockerize ★1890](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers by [@jwilder][jwilder]
 - [GoSu ★2208](https://github.com/tianon/gosu) - Run this specific application as this specific user and get out of the pipeline (entrypoint script tool) by [@tianon](https://github.com/tianon)
 - [is-docker ★52 ⏳1Y](https://github.com/sindresorhus/is-docker) - Check if the process is running inside a Docker container by [@sindresorhus][sindresorhus]
-- [lstags ★173](https://github.com/ivanilves/lstags) - sync Docker images across registries by [@ivanilves](https://github.com/ivanilves)
+- [lstags ★177](https://github.com/ivanilves/lstags) - sync Docker images across registries by [@ivanilves](https://github.com/ivanilves)
 - [NVIDIA-Docker ★5880](https://github.com/NVIDIA/nvidia-docker) - The NVIDIA Container Runtime for Docker by [@NVIDIA](https://github.com/NVIDIA)
 - [su-exec ★417](https://github.com/ncopa/su-exec) - This is a simple tool that will simply execute a program with different privileges. The program will be excuted directly and not run as a child, like su and sudo does, which avoids TTY and signal issues. Why reinvent gosu? This does more or less exactly the same thing as gosu but it is only 10kb instead of 1.8MB. By [ncopa](https://github.com/ncopa)
 - [supercronic ★410](https://github.com/aptible/supercronic) - crontab-compatible job runner, designed specifically to run in containers by [@aptible](https://github.com/aptible/)
@@ -481,7 +481,7 @@ Services to securely store your Docker images.
 - [Captain ★642](https://github.com/harbur/captain) - Convert your Git workflow to Docker containers ready for Continuous Delivery by [@harbur](https://github.com/harbur).
 - [Cyclone ★545](https://github.com/caicloud/cyclone) - A cloud native CI/CD platform built for container workflow by [@caicloud](https://github.com/caicloud).
 - [Docker plugin for Jenkins ★365](https://github.com/jenkinsci/docker-plugin) - The aim of the docker plugin is to be able to use a docker host to dynamically provision a slave, run a single build, then tear-down that slave.
-- [Drone ★14390](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
+- [Drone ★14753](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
 - [GitLab CI](https://about.gitlab.com/gitlab-ci/) - GitLab has integrated CI to test, build and deploy your code with the use of GitLab runners.
 - [GOCD-Docker ★98 ⏳1Y](https://github.com/gocd/gocd-docker)Go Server and Agent in docker containers to provision.
 - [Microservices Continuous Deployment ★122](https://github.com/francescou/docker-continuous-deployment) - Continuous deployment of a microservices application.

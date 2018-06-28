@@ -249,7 +249,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 - [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`).
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★3843](https://github.com/xojs/xo).
-- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★13869](https://github.com/avajs/ava).
+- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★14128](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier ★1308](https://github.com/prettier/prettier-vscode).
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
@@ -611,7 +611,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence ★57](https://github.com/flagello/Essence)
+- [Essence ★57 ⏳1Y](https://github.com/flagello/Essence)
 - [Pragmatic Essence ★54 ⏳1Y](https://github.com/orta/Essence)
 
 ## Syntax

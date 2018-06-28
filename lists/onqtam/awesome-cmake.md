@@ -160,7 +160,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cpp-boilerplate ★47](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [```[MIT]```][MIT]
 * [ci_helloworld ★142](https://github.com/ainfosec/ci_helloworld) - A simple example of how to setup a complete CI environment for C and C++. [```[MIT]```][MIT]
 * [how-to-export-cpp-library ★7](https://github.com/robotology/how-to-export-cpp-library) - An OS-agnostic C++ library template sporting ctest and CI support, written in plain CMake with line-by-line guiding comments. [```[MIT]```][MIT]
-* [ModernCppCI ★59](https://github.com/LearningByExample/ModernCppCI) - An example of doing a Modern C++ project with CI (although it uses non-modern CMake like ```include_directories()```). [```[MIT]```][MIT]
+* [ModernCppCI ★59 ⏳1Y](https://github.com/LearningByExample/ModernCppCI) - An example of doing a Modern C++ project with CI (although it uses non-modern CMake like ```include_directories()```). [```[MIT]```][MIT]
 * [modern-cmake-sample ★77](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. ```[NO LICENSE]```
 * [CMakeInstallExample ★9](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (Windows) with Cmake. ```[NO LICENSE]```
 * [cpp14-project-template ★10](https://github.com/arnavb/cpp14-project-template) - A C++14 template with CI, tests, code coverage, docs and static analysis integration. [```[CC0-1.0]```][CC0-1.0]

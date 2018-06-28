@@ -39,27 +39,27 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Browser automation
 
 - [Selenium ★10783](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
-- [SlimerJS ★2702](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
+- [SlimerJS ★2713](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
 - [trifleJS ★758 ⏳1Y](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer.
-- [CasperJS ★7190](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS.
+- [CasperJS ★7216](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS.
 - [Webdriver.io ★4062](https://github.com/webdriverio/webdriverio) - Node.js bindings implementation for the W3C WebDriver protocol.
 - [Navalia ★891](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL.
 - [Chromeless](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
-- [PhantomJS ★25494](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
+- [PhantomJS ★25669](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 
 ## Tools and frameworks
 
 - [Wraith ★4312](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
 - [BackstopJS ★3177](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
 - [Galen](https://github.com/galenframework/galen) - Java framework based on [Selenium ★10783](https://github.com/SeleniumHQ/selenium).
-- [Gemini](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium](https://github.com/SeleniumHQ/selenium) and  [CasperJS ★7190](https://github.com/casperjs/casperjs).
+- [Gemini](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium](https://github.com/SeleniumHQ/selenium) and  [CasperJS ★7216](https://github.com/casperjs/casperjs).
 - [Huxlay ★4113](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
 - [PhantomFlow](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
 - [CSSCritic ★429](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
 - [Spectre ★264](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
 - [Shoov ★32 ⏳1Y](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
-- [OcularJS](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS ★25494](https://github.com/ariya/phantomjs).
+- [OcularJS](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS ★25669](https://github.com/ariya/phantomjs).
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium ★10783](https://github.com/SeleniumHQ/selenium).
 - [Look-alike ★15 ⏳2Y](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
 - [Hardy ★330 ⏳3Y](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
@@ -128,7 +128,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 The following projects are no longer maintained actively but are still worth mentioning because of their user base.
 
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
-- [DalekJS ★722 ⏳1Y](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
+- [DalekJS ★721 ⏳1Y](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
 
 ## Miscellaneous
 

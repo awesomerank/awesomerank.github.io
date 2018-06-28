@@ -15,7 +15,7 @@ title: Awesome Rank for quozd/awesome-dotnet
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
 
-Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks ★1430](https://github.com/dreikanter/ruby-bookmarks).
+Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks ★1438](https://github.com/dreikanter/ruby-bookmarks).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) pages first. We accept proprietary and commercial software too.
 
@@ -563,7 +563,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [CppSharp ★1110](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
 * [Sharpen ★279 ⏳2Y](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
 * [CXXI ★178 ⏳6Y](https://github.com/mono/cxxi) - C++ interop framework
-* [pythonnet ★1153](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
+* [pythonnet ★1186](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
 * [LegacyWrapper ★16](https://github.com/CodefoundryDE/LegacyWrapper) - LegacyWrapper uses a wrapper process to call DLLs from a process of the opposing architecture (x86 or AMD64).
 
 ## IoC

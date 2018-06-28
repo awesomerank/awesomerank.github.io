@@ -316,7 +316,7 @@ Table of contents:
 * [TwigInflectionBundle ★3 ⏳2Y](https://github.com/EmanueleMinotto/TwigInflectionBundle) - Apply inflection via a Twig extension.
 * [TwigJackBundle ★24](https://github.com/boekkooi/TwigJackBundle) - Handy additional features for Twig.
 * [TwitalBundle ★17](https://github.com/goetas/twital-bundle) - An attribute template engine built on top of Twig and 100% compatible with all twig's features.
-* [UcoTwigExtensionsBundle ★6 ⏳5Y](https://github.com/sgomez/UcoTwigExtensionsBundle) - Provides some filters.
+* [UcoTwigExtensionsBundle ★6 ⏳6Y](https://github.com/sgomez/UcoTwigExtensionsBundle) - Provides some filters.
 
 ## Third Party APIs
 

@@ -70,7 +70,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [CSSHórus ★73 ⏳4Y](https://github.com/firminoweb/csshorus) - 	Library for development of responsive and mobile websites.
 - [Flat UI Free](http://designmodo.github.io/Flat-UI/) - Theme and framework for Bootstrap.
 - [JBST](http://jbst.eu/) - Theme framework that can be used as a standalone website builder or to create WordPress themes.
-- [Less Rails ★348](https://github.com/metaskills/less-rails) - Less for Rails.
+- [Less Rails ★346](https://github.com/metaskills/less-rails) - Less for Rails.
 - [Material Design for Bootstrap ★19296](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.
 - [Metro UI CSS](http://metroui.org.ua/) - Set of styles to create a site with an interface similar to Windows 8.
 - [Schema](http://danmalarkey.github.io/schema/) - 	Light, responsive, and lean frontend UI framework.

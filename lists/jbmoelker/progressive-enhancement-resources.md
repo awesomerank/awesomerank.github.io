@@ -145,7 +145,7 @@ With progressive enhancement you support different experiences in different envi
 Asynchronously fetch and transition between static pages using ajax and `history.pushState`:
 
 * [Barba.js](http://barbajs.org/) - Add page transitions with event hooks, cache and prefetch support.
-* [SmoothState.js ★4223](https://github.com/miguel-perez/smoothState.js) - Add page transitions with event hooks, cache and prefetch support. (requires jQuery).
+* [SmoothState.js ★4227](https://github.com/miguel-perez/smoothState.js) - Add page transitions with event hooks, cache and prefetch support. (requires jQuery).
 * [jquery-pjax ★15925](https://github.com/defunkt/jquery-pjax) - Add page transitions with support for multiple containers / content slots (requires jQuery).
 * [MoOx/pjax ★597](https://github.com/MoOx/pjax) - Similar tot jquery-pjax, but without the jQuery dependency.
 * [Turbolinks ★6468](https://github.com/turbolinks/turbolinks) - Add page transitions with event hooks and cache support. Has adapters to bind to native navigation controls on iOS and Android.

@@ -13,7 +13,7 @@ title: Awesome Rank for phalcon/awesome-phalcon
 [![Build Status](https://api.travis-ci.org/phalcon/awesome-phalcon.svg?branch=master)](https://travis-ci.org/phalcon/awesome-phalcon)
 
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go ★31168](https://github.com/avelino/awesome-go).
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go ★32213](https://github.com/avelino/awesome-go).
 
 
 ### Contributing

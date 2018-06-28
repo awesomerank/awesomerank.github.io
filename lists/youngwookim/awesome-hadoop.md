@@ -65,7 +65,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache HBase](http://hbase.apache.org) - Apache HBase
 * [Apache Phoenix](http://phoenix.apache.org/) - A SQL skin over HBase supporting secondary indices
-* [happybase ★397](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase.
+* [happybase ★405](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase.
 * [Hannibal ★160](https://github.com/sentric/hannibal) - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
 * [Haeinsa ★142 ⏳1Y](https://github.com/VCNC/haeinsa) - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase
 * [hindex ★492 ⏳1Y](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase
@@ -268,7 +268,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
   * [Stratio Ingestion ★142 ⏳1Y](https://github.com/Stratio/Ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
   * [Flume Custom Serializers ★5 ⏳5Y](https://github.com/relistan/flume-serializers)
   * [Real-time analytics in Apache Flume ★45 ⏳2Y](https://github.com/jrkinley/flume-interceptor-analytics)
-  * [.Net FlumeNG Clients ★16 ⏳3Y](https://github.com/marksl/DotNetFlumeNG.Clients)
+  * [.Net FlumeNG Clients ★16 ⏳4Y](https://github.com/marksl/DotNetFlumeNG.Clients)
 
 # Resources
 Various resources, such as books, websites and articles.
