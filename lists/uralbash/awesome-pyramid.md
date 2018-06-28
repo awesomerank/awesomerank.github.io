@@ -217,7 +217,7 @@ based on [awesome-python ★51865](https://github.com/vinta/awesome-python).
 
 ## Media-Management
 
-* [pyramid_elfinder ★1 ⏳2Y](https://github.com/uralbash/pyramid_elfinder) - This is
+* [pyramid_elfinder ★1 ⏳3Y](https://github.com/uralbash/pyramid_elfinder) - This is
   conector for elfinder file manager, written for pyramid framework.
 * [pyramid_storage ★9 ⏳1Y](https://github.com/danjac/pyramid_storage) - This is a package for handling file uploads in your Pyramid framework application.
 
