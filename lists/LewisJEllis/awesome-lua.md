@@ -341,7 +341,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 - [LuaInspect ★142 ⏳2Y](https://github.com/davidm/lua-inspect) - Lua's most powerful code analysis and linting tool, built on Metalua. Used by ZeroBraneStudio, among others.
 - [LuaMinify ★132 ⏳2Y](https://github.com/stravant/LuaMinify) - Minifier which also brings its own static analysis tools, lexer, and parser.
 - [Typed Lua ★358](https://github.com/andremm/typedlua) - A typed superset of Lua that compiles to plain Lua.
-- [lua-parser ★94](https://github.com/andremm/lua-parser) - A Lua 5.3 parser written using LPegLabel, with improved error messages.
+- [lua-parser ★94 ⏳1Y](https://github.com/andremm/lua-parser) - A Lua 5.3 parser written using LPegLabel, with improved error messages.
 
 
 ### Experimental, etc

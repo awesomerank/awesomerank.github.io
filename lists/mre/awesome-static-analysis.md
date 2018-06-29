@@ -122,7 +122,7 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 
 ## Fortran
 
-* [i-Code CNES ★17](https://github.com/lequal/i-CodeCNES) - A static code analysis tool for Fortran 77, Fortran 90 and Shell.
+* [i-Code CNES for Fortran ★17](https://github.com/lequal/i-CodeCNES) - An open source static code analysis tool for Fortran 77, Fortran 90 and Shell.
 
 ## Go
 
@@ -138,7 +138,7 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 * [go-critic ★53](https://github.com/go-critic/go-critic) - Go source code linter that maintains checks which are currently not implemented in other linters.
 * [go-staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - go vet on steroids, similar to ReSharper for C#.
 * [go/ast](https://golang.org/pkg/go/ast/) - Package ast declares the types used to represent syntax trees for Go packages.
-* [goconst ★100](https://github.com/jgautheron/goconst) - Finds repeated strings that could be replaced by a constant.
+* [goconst ★100 ⏳1Y](https://github.com/jgautheron/goconst) - Finds repeated strings that could be replaced by a constant.
 * [gocyclo ★400](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code.
 * [gofmt -s](https://golang.org/cmd/gofmt/) - Checks if the code is properly formatted and could not be further simplified.
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - Checks missing or unreferenced package imports.
@@ -349,6 +349,7 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 
 ## Shell
 
+* [i-Code CNES for Shell ★17](https://github.com/lequal/i-CodeCNES) - An open source static code analysis tool for Shell and Fortran (77 and 90).
 * [shellcheck ★11463](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts
 
 ## Solidity

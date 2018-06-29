@@ -83,7 +83,7 @@ Please help us to fill out this section! :smiley:
   <sup>[[code ★2 ⏳1Y](https://github.com/daugaard/example-linear-regression)]</sup>
 - [How to implement classification using logistic regression in Ruby](https://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/)
 - [How to implement simple binary classification using a Neural Network in Ruby](https://www.practicalai.io/implementing-simple-classification-using-neural-network-in-ruby/)
-  <sup>[[code ★10](https://github.com/daugaard/example-neural-network)]</sup>
+  <sup>[[code ★10 ⏳1Y](https://github.com/daugaard/example-neural-network)]</sup>
 - [How to implement classification using a SVM in Ruby](https://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/)
   <sup>[[code ★3](https://github.com/daugaard/example-svm)]</sup>
 - [Unsupervised learning using k-means clustering in Ruby](https://www.practicalai.io/unsupervised-learning-using-k-means-clustering-in-ruby/)

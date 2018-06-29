@@ -1375,6 +1375,7 @@ Tooltips / popovers
 - [vue-r-mask ★5](https://github.com/raidan00/vue-r-mask) - Directive with template similar to javascript regular expression.
 - [vue-input-code ★38](https://github.com/zhouyuexie/vue-input-code) - Base on Vue.js 2.0+ verification code input component.
 - [label-edit ★4](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
+- [vue-jquery-mask](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin ★3217](https://github.com/igorescobar/jQuery-Mask-Plugin)
 
 #### Rich Text Editing
 
@@ -1709,8 +1710,6 @@ composing CSS breakpoint state.
 
 - [vue-scroll-behavior ★75](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
 - [vue-scroll-stop ★13](https://github.com/voxtobox/vue-scroll-stop) - Stops propagation scroll when edge reached.
-
-.
 
 *Seamless scrolling*
 

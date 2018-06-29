@@ -318,7 +318,7 @@ Where to discover new Meteor things.
 * [Meetups](http://meteor.meetup.com/)
 * [Reddit](https://www.reddit.com/r/meteor)
 * [YouTube](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw) videos from meetups around the world
-* [Unofficial Meteor FAQ ★1004 ⏳2Y](https://github.com/oortcloud/unofficial-meteor-faq)
+* [Unofficial Meteor FAQ ★1004 ⏳3Y](https://github.com/oortcloud/unofficial-meteor-faq)
 * [The Meteor Chef](https://themeteorchef.com)
 
 ### Q&A

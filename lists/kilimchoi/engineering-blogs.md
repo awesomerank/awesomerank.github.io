@@ -572,6 +572,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 
 #### H individuals
 * Hayden James https://haydenjames.io/
+* Henrik Lau Eriksson https://conductofcode.io/
 * Henrik Warne https://henrikwarne.com/
 * High Scalability http://highscalability.com/
 * Huon Wilson http://huonw.github.io/

@@ -168,7 +168,7 @@ Database
 * [cl-mongo ★115](https://github.com/fons/cl-mongo) - MongoDB client. [Expat][14].
 * [cl-redis ★126](https://github.com/vseloved/cl-redis) - Redis client. [Expat][14].
 * [cl-disque ★12](https://github.com/CodyReichert/cl-disque) - Disque client. [3-clause BSD][15].
-* [cl-rethinkdb ★42 ⏳1Y](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB client. [Expat][14].
+* [cl-rethinkdb ★42 ⏳2Y](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB client. [Expat][14].
 * [cl-sqlite ★33 ⏳7Y](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
 * [clsql](http://www.cliki.net/CLSQL) - An SQL database with a Common Lisp interface. [LLGPL][8].
 * [clouchdb](https://common-lisp.net/project/clouchdb/) - Library for interacting with CouchDB. [FreeBSD][39].

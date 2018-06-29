@@ -292,7 +292,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [F4player ★114 ⏳3Y](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player.
 * [dashas ★102 ⏳2Y](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript.
 * [hlsplayer ★63 ⏳5Y](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework.
-* [vgaplayer ★22 ⏳3Y](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP).
+* [vgaplayer ★22 ⏳4Y](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP).
 
 ## Database
 
@@ -423,7 +423,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [XMLSerializer ★2 ⏳4Y](https://github.com/vapesolius/XMLSerializer) - Library which allows data serialisation from ActionScript to XML and from XML to ActionScript.
 * [DynamicXMLParser ★2 ⏳7Y](https://github.com/lmgerhard/DynamicXMLParser) - Dynamic parse xml content into predefined data classes (actionscript 3).
-* [Nudge ★1 ⏳6Y](https://github.com/pluglimited/Nudge) - Framework to serialize/deserialize objects as XML.
+* [Nudge ★1 ⏳7Y](https://github.com/pluglimited/Nudge) - Framework to serialize/deserialize objects as XML.
 * [AStream ★10 ⏳3Y](https://github.com/kokorin/AStream) - XML to Object (and vice versa) mapping library written in AS3. Compatible with XStream.
 
 #### XLSX
@@ -499,9 +499,9 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [XMPP ★9 ⏳8Y](https://github.com/lyokato/as3xmppclient) - Client-side implementation of XMPP library.
 * [XMPP ★2 ⏳8Y](https://github.com/bluef/kuching) - Lightweight implementation of XMPP library.
 * [AMQP ★44 ⏳2Y](https://github.com/0x6e6562/as3-amqp) - Client-side implementation of the 0-8 version of AMQP.
-* [NTP ★5 ⏳4Y](https://github.com/charlespalen/AS3-NTP-Implementation) - Client-side implementation of NTP Client (Network Time Protocol).
+* [NTP ★5 ⏳5Y](https://github.com/charlespalen/AS3-NTP-Implementation) - Client-side implementation of NTP Client (Network Time Protocol).
 * [FUDI ★1 ⏳8Y](https://github.com/matthiasbreuer/FUDI-as3) - Client-side implementation of the Puredata FUDI protocol.
-* [BDD Cucumber ★29 ⏳1Y](https://github.com/flashquartermaster/Cuke4AS3) - A BDD Cucumber wire protocol implementation for Flash ActionScript.
+* [BDD Cucumber ★29 ⏳2Y](https://github.com/flashquartermaster/Cuke4AS3) - A BDD Cucumber wire protocol implementation for Flash ActionScript.
 
 #### Email
 

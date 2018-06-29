@@ -237,7 +237,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [chuck-norris-holy-quotes ★4](https://github.com/codenoid/chuck-norris-holy-quotes) - Chuck Norris holy quotes
  * [clamp ★1](https://github.com/johnjansen/clamp) - Clamp any Comparable
  * [crsfml-examples ★37](https://github.com/oprypin/crsfml-examples) - Simple games made with CrSFML
- * [crystal-benchmarks-game ★60](https://github.com/kostya/crystal-benchmarks-game) - The Computer Language Benchmarks Game
+ * [crystal-benchmarks-game ★60 ⏳1Y](https://github.com/kostya/crystal-benchmarks-game) - The Computer Language Benchmarks Game
  * [crystal-by-example ★322](https://github.com/askn/crystal-by-example) - Crystal By Example
  * [Crystal-Maze](https://github.com/Demonstrandum/Crystal-Maze) - A* Path finding for PNG mazes
  * [crystal-mysql-crud-example ★0](https://github.com/codenoid/crystal-mysql-crud-example) - Crystal MySQL CRUD example
@@ -480,6 +480,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [coverage ★14](https://github.com/anykeyh/crystal-coverage) – Generate cover report for your crystal code
  * [crotest ★19 ⏳1Y](https://github.com/emancu/crotest) - A tiny and simple test framework
  * [LuckyFlow ★23](https://github.com/luckyframework/lucky_flow) - Automated browser tests similar to Capybara
+ * [mass-spec ★3](https://github.com/c910335/mass-spec) - Web API testing library
  * [microtest ★15](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
  * [minitest.cr ★74](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
  * [mocks.cr ★26 ⏳1Y](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal

@@ -404,7 +404,7 @@ title: Awesome Rank for sindresorhus/awesome-nodejs
 ### Streams
 
 - [through2 ★1376](https://github.com/rvagg/through2) - Tiny wrapper around streams2 Transform to avoid explicit subclassing noise.
-- [from2 ★95](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
+- [from2 ★95 ⏳1Y](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
 - [get-stream ★113 ⏳1Y](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 - [into-stream ★64](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
 - [duplexify ★131](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.

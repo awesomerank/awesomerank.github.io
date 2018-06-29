@@ -74,6 +74,7 @@ Further resources:
     - [Data Analysis / Data Visualization](#javascript-data-analysis)
     - [General-Purpose Machine Learning](#javascript-general-purpose)
     - [Misc](#javascript-misc)
+    - [Demos and Scripts](#javascript-demos)
 - [Julia](#julia)
     - [General-Purpose Machine Learning](#julia-general-purpose)
     - [Natural Language Processing](#julia-nlp)
@@ -200,6 +201,7 @@ Further resources:
 * [MLDB](https://mldb.ai) - The Machine Learning Database is a database designed for machine learning. Send it commands over a RESTful API to store data, explore it using SQL, then train machine learning models and expose them as APIs.
 * [mlpack](http://www.mlpack.org/) - A scalable C++ machine learning library.
 * [proNet-core ★59](https://github.com/cnclabs/proNet-core) - A general-purpose network embedding framework: pair-wise representations optimization Network Edit.
+* [PyCUDA](https://mathema.tician.de/software/pycuda/) - Python interface to CUDA
 * [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 * [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.
 * [Shogun ★2136](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
@@ -531,8 +533,13 @@ Further resources:
 * [simple-statistics ★1799](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
 * [regression-js ★465](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
 * [Lyric ★43 ⏳4Y](https://github.com/flurry/Lyric) - Linear Regression library.
-* [GreatCircle ★54](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
+* [GreatCircle ★54 ⏳1Y](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
 * [MLPleaseHelp ★4](https://github.com/jgreenemi/MLPleaseHelp) - MLPleaseHelp is a simple ML resource search engine. You can use this search engine right now at [https://jgreenemi.github.io/MLPleaseHelp/](https://jgreenemi.github.io/MLPleaseHelp/), provided via Github Pages.
+
+<a name="javascript-demos"></a>
+#### Demos and Scripts
+* [The Bot](https://github.com/sta-ger/TheBot) - Example of how the neural network learns to predict the angle between two points created with [Synaptic ★6166](https://github.com/cazala/synaptic).
+* [Half Beer](https://github.com/sta-ger/HalfBeer) - Beer glass classifier created with [Synaptic ★6166](https://github.com/cazala/synaptic).
 
 <a name="julia"></a>
 ## Julia
@@ -628,7 +635,7 @@ Further resources:
   * [dp ★354 ⏳1Y](https://github.com/nicholas-leonard/dp) - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns.
   * [optim ★186](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
   * [unsup ★87 ⏳1Y](https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA).
-  * [manifold ★107](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds.
+  * [manifold ★107 ⏳1Y](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds.
   * [svm ★40 ⏳2Y](https://github.com/koraykv/torch-svm) - Torch-SVM library.
   * [lbfgs ★2 ⏳5Y](https://github.com/clementfarabet/lbfgs) - FFI Wrapper for liblbfgs.
   * [vowpalwabbit ★1 ⏳6Y](https://github.com/clementfarabet/vowpal_wabbit) - An old vowpalwabbit interface to torch.
@@ -1062,7 +1069,7 @@ be
 * [Allen Downey’s Think Complexity Code](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
 * [Allen Downey’s Think OS Code](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
 * [Python Programming for the Humanities](http://www.karsdorp.io/python-course/) - Course for Python programming for the Humanities, assuming no prior knowledge. Heavy focus on text processing / NLP.
-* [GreatCircle ★54](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
+* [GreatCircle ★54 ⏳1Y](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
 * [Optunity examples](http://optunity.readthedocs.io/en/latest/notebooks/index.html) - Examples demonstrating how to use Optunity in synergy with machine learning libraries.
 * [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn ★8273](https://github.com/hangtwenty/dive-into-machine-learning) - "I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
 * [TDB ★1296 ⏳1Y](https://github.com/ericjang/tdb) - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.

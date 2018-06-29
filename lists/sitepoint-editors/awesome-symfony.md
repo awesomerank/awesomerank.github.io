@@ -138,7 +138,7 @@ Table of contents:
 * [CaptchaBundle ★208](https://github.com/Gregwar/CaptchaBundle) - Bundle implementing a "captcha" form type.
 * [ContactBundle ★26](https://github.com/mremi/ContactBundle) - Provides a contact form for a Symfony2 project.
 * [CraueFormFlowBundle ★533](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms.
-* [FilterFormBundle ★6 ⏳4Y](https://github.com/IDCI-Consulting/FilterFormBundle) - Filter form bundle.
+* [FilterFormBundle ★6 ⏳5Y](https://github.com/IDCI-Consulting/FilterFormBundle) - Filter form bundle.
 * [FormBundle ★64](https://github.com/Gregwar/FormBundle) - Provides the "entity_id" type.
 * [InfiniteFormBundle ★137](https://github.com/infinite-networks/InfiniteFormBundle) - A collection of useful form types and extensions.
 * [IvoryCKEditorBundle ★310](https://github.com/egeloen/IvoryCKEditorBundle) - CKEditor integration in Symfony.

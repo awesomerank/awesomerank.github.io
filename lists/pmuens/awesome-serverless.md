@@ -1559,7 +1559,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Foo ★2 ⏳1Y](https://github.com/skewart/foo-service) - Simple example service.
 - [Screenshot get ★10](https://github.com/amv/serverless-screenshot-get) - AWS API for returning PNG data of a fresh web page screenshot.
 - [Coinboss ★73](https://github.com/nicka/coinboss) - Serverless Coinbase tradingbot.
-- [Example ★2](https://github.com/nafetswirth/serverless-example) - Another serverless example service.
+- [Example ★2 ⏳1Y](https://github.com/nafetswirth/serverless-example) - Another serverless example service.
 - [2514 ★2 ⏳1Y](https://github.com/justinm/serverless-2514) - Reproduction service of [serverless/serverless#2514](https://github.com/serverless/serverless/issues/2514).
 - [3965 ★2](https://github.com/indieisaconcept/serverless-issue-3965) - Reproduction service of [serverless/serverless#3965](https://github.com/serverless/serverless/issues/3965).
 - [Chromeless](https://github.com/graphcool/chromeless) - Runs Chrome automation locally or headless on AWS Lambda.

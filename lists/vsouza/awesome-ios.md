@@ -646,7 +646,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [When ★150](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises in Swift.
 * [then🎬 ★648](https://github.com/freshOS/then) - Elegant Async code in Swift.
 * [Bolts-Swift ★1110](https://github.com/BoltsFramework/Bolts-Swift) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier.
-* [RWPromiseKit ★102](https://github.com/deput/RWPromiseKit) - A light-weighted Promise library for Objective-C
+* [RWPromiseKit ★102 ⏳1Y](https://github.com/deput/RWPromiseKit) - A light-weighted Promise library for Objective-C
 * [FutureLib ★37 ⏳1Y](https://github.com/couchdeveloper/FutureLib) - FutureLib is a pure Swift 2 library implementing Futures & Promises inspired by Scala.
 * [SwiftNotificationCenter ★501](https://github.com/100mango/SwiftNotificationCenter) - A Protocol-Oriented NotificationCenter which is type safe, thread safe and with memory safety
 * [FutureKit ★706](https://github.com/FutureKit/FutureKit) - A Swift based Future/Promises Library for iOS and macOS.
@@ -1045,7 +1045,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [RSKImageCropper ★2054](https://github.com/ruslanskorb/RSKImageCropper) - An image cropper for iOS like in the Contacts app with support for landscape orientation.
 * [Silo ★12 ⏳2Y](https://github.com/josejuanqm/Silo) - Image loading framework with loaders.
 * [Ody ★43 ⏳1Y](https://github.com/josejuanqm/Ody) - Ody is an easy to use random image generator built with Swift, Perfect for placeholders.
-* [Banana ★15 ⏳1Y](https://github.com/gauravkatoch007/banana) - Image slider with very simple interface.
+* [Banana ★15 ⏳2Y](https://github.com/gauravkatoch007/banana) - Image slider with very simple interface.
 * [JDSwiftAvatarProgress ★85 ⏳1Y](https://github.com/JellyDevelopment/JDSwiftAvatarProgress) - Easy customizable avatar image asynchronously with progress bar animated
 * [Kingfisher ★12010](https://github.com/onevcat/Kingfisher) - A lightweight and pure Swift implemented library for downloading and caching image from the web.
 * [EBPhotoPages ★1647](https://github.com/EddyBorja/EBPhotoPages) - A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.
@@ -1740,6 +1740,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftIcons ★503](https://github.com/ranesr/SwiftIcons) - A library for using different font icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather. It supports UIImage, UIImageView, UILabel, UIButton, UISegmentedControl, UITabBarItem, UISlider, UIBarButtonItem, UIViewController, UITextfield, UIStepper.
 * [Font-Awesome-Swift ★697](https://github.com/Vaberer/Font-Awesome-Swift) - Font Awesome swift library for iOS.
 * [JQSwiftIcon ★5 ⏳1Y](https://github.com/josejuanqm/JQSwiftIcon) - Icon Fonts on iOS using string interpolation written in Swift.
+* [Money ★203](https://github.com/Flight-School/Money) - A precise, type-safe representation of a monetary amount in a given currency.
 
 ## Testing
 
@@ -2613,6 +2614,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Parade ★585](https://github.com/HelloElephant/Parade) - Parallax Scroll-Jacking Effects Engine for iOS / tvOS.
 * [MSPeekCollectionViewDelegateImplementation ★9](https://github.com/MaherKSantina/MSPeekCollectionViewDelegateImplementation) - A custom paging behavior that peeks the previous and next items in a collection view.
 * [StaticTableViewController ★4](https://github.com/muyexi/StaticTableViewController) - Dynamically hide / show cells of static UITableViewController.
+* [SimpleSource ★16](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views in Swift.
 
 #### Expandable Cell
 
@@ -2889,7 +2891,7 @@ CollectionView, make Instagram Discover within minutes.
 * [playgroundbook ★242](https://github.com/playgroundbooks/playgroundbook) - Tool for Swift Playground books
 * [Ecno ★75](https://github.com/xmartlabs/Ecno) - Ecno is a task state manager built on top of UserDefaults in pure Swift 3.
 * [ipanema ★5 ⏳1Y](https://github.com/toshi0383/ipanema) - ipanema analyzes and prints useful information from *.ipa file.
-* [pxctest ★799](https://github.com/plu/pxctest) - Parallel XCTest - Execute XCTest suites in parallel on multiple iOS Simulators.
+* [pxctest ★799 ⏳1Y](https://github.com/plu/pxctest) - Parallel XCTest - Execute XCTest suites in parallel on multiple iOS Simulators.
 * [IBM Swift Sandbox](https://swift.sandbox.bluemix.net) - The IBM Swift Sandbox is an interactive website that lets you write Swift code and execute it in a server environment – on top of Linux!
 * [FBSimulatorControl ★2213](https://github.com/facebook/FBSimulatorControl) - A macOS library for managing and manipulating iOS Simulators
 * [Nomad](http://nomad-cli.com) - Suite of command line utilities & libraries for sending APNs, create & distribute *.ipa*, verify In-App-Purchase receipt and more.

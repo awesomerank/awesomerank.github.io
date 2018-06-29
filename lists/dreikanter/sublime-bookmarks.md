@@ -184,7 +184,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [By Jon-Paul Lunney](https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon)
 - [By Chris Lee](https://dribbble.com/shots/382409-Sublime-Text-2-Icon)
-- [By Daniel Matarazzo ★540 ⏳4Y](https://github.com/dbmzzo/Sublime-Text-2-Icon)
+- [By Daniel Matarazzo ★540 ⏳5Y](https://github.com/dbmzzo/Sublime-Text-2-Icon)
 - [By Ernest Ojeh](https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme)
 - [By Shi Yan Hui ★5 ⏳4Y](https://github.com/shiyanhui/Sublime-Text-Icon)
 - [By Tomas Sykora ★11 ⏳4Y](https://github.com/syky27/Sublime-Text-Icon)

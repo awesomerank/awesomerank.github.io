@@ -132,7 +132,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [combination ★16](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
 * [count_buffer ★2 ⏳2Y](https://github.com/camshaft/count_buffer) - Buffer a large set of counters and flush periodically.
 * [cuckoo ★23](https://github.com/gmcabrita/cuckoo) - A pure Elixir implementation of [Cuckoo Filters](https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf).
-* [cuid ★27](https://github.com/duailibe/cuid) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance, written in Elixir.
+* [cuid ★27 ⏳1Y](https://github.com/duailibe/cuid) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance, written in Elixir.
 * [data_morph](https://hex.pm/packages/data_morph) - Create Elixir structs from data.
 * [dataframe ★28 ⏳1Y](https://github.com/JordiPolo/dataframe) - Package providing functionality similar to Python's Pandas or R's data.frame().
 * [datastructures ★179 ⏳1Y](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with data structures.
@@ -386,7 +386,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [oceanex](https://github.com/mustafaturan/oceanex) - Digital Ocean API client.
 * [sidejob ★82](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
 * [sidetask ★65 ⏳1Y](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
-* [skycluster ★9](https://github.com/Nebo15/skycluster) - Automatic Erlang cluster formation, messaging and management for Elixir/Erlang applications. Integrated with Kubernetes.
+* [skycluster ★9 ⏳1Y](https://github.com/Nebo15/skycluster) - Automatic Erlang cluster formation, messaging and management for Elixir/Erlang applications. Integrated with Kubernetes.
 
 ## Code Analysis
 *Libraries and tools for code base analysis, parsing, and manipulation.*
