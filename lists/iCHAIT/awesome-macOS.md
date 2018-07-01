@@ -260,7 +260,7 @@ title: Awesome Rank for iCHAIT/awesome-macOS
 - [gfxCardStatus](https://gfx.io/) - Menu bar app to monitor and switch between integrated and discrete GPUs on MacBook Pro. [![Open-Source Software][OSS Icon] ★1125](https://github.com/codykrieger/gfxCardStatus) ![Freeware][Freeware Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon] ★2993](https://github.com/JadenGeller/Helium) ![Freeware][Freeware Icon]
 - [InsomniaX](http://semaja2.net/projects/insomniaxinfo/) - Prevents macOS from automatically going to sleep (on lid closing or idle timeout). ![Freeware][Freeware Icon]
-- [Irvue](http://irvue.tumblr.com) - Thousands of stunning photos and wallpapers from Unsplash on your Mac. [![Open-Source Software][OSS Icon] ★142](https://github.com/leonspok/Irvue-Screensaver) ![Freeware][Freeware Icon]
+- [Irvue](http://irvue.tumblr.com) - Thousands of stunning photos and wallpapers from Unsplash on your Mac. [![Open-Source Software][OSS Icon] ★142 ⏳1Y](https://github.com/leonspok/Irvue-Screensaver) ![Freeware][Freeware Icon]
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/noraesae/kawa) ![Freeware][Freeware Icon]
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Menu bar utility that prevents Mac from going to sleep. [![Open-Source Software][OSS Icon] ★2487](https://github.com/newmarcel/KeepingYouAwake) ![Freeware][Freeware Icon]

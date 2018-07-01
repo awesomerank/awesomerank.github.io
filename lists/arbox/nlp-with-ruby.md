@@ -233,7 +233,7 @@ are often collected in dictionaries.
 
 ### Semantic Analysis
 
-- [amatch ★306](https://github.com/flori/amatch) -
+- [amatch ★306 ⏳1Y](https://github.com/flori/amatch) -
   Set of five distance types between strings (including Levenshtein, Sellers, Jaro-Winkler, 'pair distance').
 - [damerau-levenshtein ★77](https://github.com/GlobalNamesArchitecture/damerau-levenshtein) -
   Calculates edit distance using the Damerau-Levenshtein algorithm.

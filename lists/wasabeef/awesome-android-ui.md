@@ -172,7 +172,7 @@ ViewPager
 ======================
 Name | License | Demo
 --- | --- | ---
-[ParallaxPagerTransformer ★618 ⏳1Y](https://github.com/xgc1986/ParallaxPagerTransformer) | UnKnown | <img src="/art/ParallaxPagerTransformer.gif" width="49%">
+[ParallaxPagerTransformer ★618 ⏳2Y](https://github.com/xgc1986/ParallaxPagerTransformer) | UnKnown | <img src="/art/ParallaxPagerTransformer.gif" width="49%">
 [ViewPagerTransforms ★1918](https://github.com/ToxicBakery/ViewPagerTransforms) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ViewPagerTransforms.gif" width="49%">
 [CircleIndicator ★2968](https://github.com/ongakuer/CircleIndicator) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/CircleIndicator.gif" width="49%">
 [Android ViewPagerIndicator ★9800](https://github.com/JakeWharton/ViewPagerIndicator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-ViewPagerIndicator.png" width="100%">
@@ -231,7 +231,7 @@ Name | License | Demo
 [Scrolling Image View ★1412](https://github.com/Q42/AndroidScrollingImageView) | NONE | <img src="/art/AndroidScrollingImageView.gif" width="100%">
 [Pixelate Android ★581 ⏳1Y](https://github.com/DanielMartinus/Pixelate) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/android-pixelate.gif" width="49%">
 [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/SimpleCropView.gif" width="49%">
-[android-anyshape ★169 ⏳1Y](https://github.com/lankton/android-anyshape) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/android-anyshape.jpg" width="49%"> <img src="/art/android-anyshape2.jpg" width="49%">
+[android-anyshape ★169 ⏳2Y](https://github.com/lankton/android-anyshape) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/android-anyshape.jpg" width="49%"> <img src="/art/android-anyshape2.jpg" width="49%">
 [PanoramaImageView ★1892 ⏳1Y](https://github.com/gjiazhe/PanoramaImageView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/PanoramaImageView.gif" width="49%">
 
 SeekBar

@@ -22,7 +22,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [BlockPop ★13 ⏳2Y](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs ★12 ⏳1Y](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
 - [Breakable ★32](https://github.com/didier-v/breakable) - A breakout-like game. Compatible with Godot 3.0.
-- [Drone Commander ★10](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM.
+- [Drone Commander ★10 ⏳1Y](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM.
 - [Captain Holetooth ★37](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
 - [Dolphin Island 2 ★118 ⏳1Y](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam.
 - [DynaDungeons ★89](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.

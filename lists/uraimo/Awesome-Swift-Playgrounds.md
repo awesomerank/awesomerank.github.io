@@ -292,7 +292,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Tic Tac Toe ★5 ⏳1Y](https://github.com/aabosh/Tic-Tac-Toe) - Tic tac toe in a playground.
 * [Pixel Art Maker ★40](https://github.com/BenEmdon/PixelArtMaker) - A playground where you can make pixel art.
 * [SwiftCoin ★24](https://github.com/Thomvis/Swiftcoin) - A simplistic blockchain & cryptocurrency in a playground.
-* [SentimentlySwift ★5](https://github.com/benbahrenburg/SentimentlySwift) - Sentiment analysis in Swift. 
+* [SentimentlySwift ★5 ⏳1Y](https://github.com/benbahrenburg/SentimentlySwift) - Sentiment analysis in Swift. 
 * [Rubik's Cube ★8](https://github.com/codelynx/CoreRubiksCube) - Implementing basic model and behavior of Rubic's Cube in Swift. 🍁 
 * [Game Boards ★162](https://github.com/joalbright/Gameboard) - Chess, checkers, tic-tac-toe, sudoku and many others in playground. 🌟 ⏳
 * [StarWars Seals ★3](https://github.com/jeremyconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews. ⏳

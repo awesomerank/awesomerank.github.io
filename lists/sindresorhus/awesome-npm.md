@@ -97,7 +97,7 @@ You might also like [awesome-nodejs ★24539](https://github.com/sindresorhus/aw
 - [npm-keyword ★29](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
 - [npm-user ★43](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
 - [npm-email ★12](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
-- [npm-user-packages ★2](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
+- [npm-user-packages ★2 ⏳1Y](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
 - [dpn ★25](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
 - [npm-stats ★50 ⏳2Y](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
 - [npm-cli-login ★23](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.

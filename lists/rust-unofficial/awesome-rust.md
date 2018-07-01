@@ -273,7 +273,7 @@ See also [A comparison of operating systems written in Rust ★170](https://gith
 * [Rustup ★1836](https://github.com/rust-lang-nursery/rustup.rs) — the Rust toolchain installer [<img src="https://api.travis-ci.org/rust-lang-nursery/rustup.rs.svg?branch=master">](https://travis-ci.org/rust-lang-nursery/rustup.rs)
 * [Rust Language Server ★1590](https://github.com/rust-lang-nursery/rls) — a server that runs in the background, providing IDEs, editors, and other tools with information about Rust programs
 * [artifact ★336](https://github.com/vitiral/artifact) — the design doc tool made for developers [![Build Status](https://api.travis-ci.org/vitiral/artifact.svg?branch=master)](https://travis-ci.org/vitiral/artifact)
-* [semantic-rs ★108](https://github.com/semantic-rs/semantic-rs) — automatic crate publishing [<img src="https://api.travis-ci.org/semantic-rs/semantic-rs.svg?branch=master">](https://travis-ci.org/semantic-rs/semantic-rs)
+* [semantic-rs ★108 ⏳1Y](https://github.com/semantic-rs/semantic-rs) — automatic crate publishing [<img src="https://api.travis-ci.org/semantic-rs/semantic-rs.svg?branch=master">](https://travis-ci.org/semantic-rs/semantic-rs)
 
 ### Build system
 

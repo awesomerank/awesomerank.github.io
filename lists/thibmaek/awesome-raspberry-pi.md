@@ -106,6 +106,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Pieman ★25](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 - [iotwifi ★55](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-3.png)
 - [TorTiPi ★9](https://github.com/r0hi7/tortipi) - Shell script to automate the task of converting Raspberry Pi into a tor based wifi hotspot.
+- [Processing](https://pi.processing.org/get-started/) - Processing Development Environment running on Raspberry Pi.
 
 ## Projects
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
@@ -158,6 +159,7 @@ The complete collection of Raspberry Pi models consist of:
 - [ RPi Motor Library ★27](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
 - [Circle ★223](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi.
 - [Project MyHouse](https://maxoffsky.com/research-progress/project-myhouse-a-smart-dollhouse-with-gesture-recognition/) - Smart Doll House with Gesture Recognition, using Raspberry Pi 3 or Pi Zero and PSMove motion controller.
+- [Skate-o-Meter](http://www.instructables.com/id/Skate-o-Meter/) - Skateboard odometer and speedometer with RFID user system.
 
 ## Resources
 ### Articles

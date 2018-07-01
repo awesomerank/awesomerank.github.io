@@ -184,7 +184,7 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
 
 - [Gitlab-Composer ★140](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for Gitlab repositories.
 - [Satisfy ★228](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI.
-- [Satis Control Panel ★91](https://github.com/realshadow/satis-control-panel) - A simple web UI for managing your Satis Repository with optional CI integration.
+- [Satis Control Panel ★91 ⏳1Y](https://github.com/realshadow/satis-control-panel) - A simple web UI for managing your Satis Repository with optional CI integration.
 - [Satis Go ★58](https://github.com/benschw/satis-go) - A web server for managing Satis configuration and hosting the generated Composer repository.
 
 ### Toran Proxy

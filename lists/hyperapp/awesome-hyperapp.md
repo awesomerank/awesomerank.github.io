@@ -56,6 +56,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [marcusasplund/hyperapp-RxJS ★12](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker.
 * [marcusasplund/hyperapp-todo ★35](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp.
 * [jdh2550/hyperapp-responsive-admin ★3](https://github.com/jdh2550/hyperapp-responsive-admin) - Responsive app with simple login and GraphQL.
+* [joseluisq/hyperapp-starter ★1](https://github.com/joseluisq/hyperapp-starter) - Minimal Hyperapp, TypeScript and Parcel starter.
 
 
 ## Examples

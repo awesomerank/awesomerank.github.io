@@ -266,6 +266,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Crystal-DI ★17](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
  * [crystal-mime ★19](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [device_detector ★3](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
+ * [Exception Page ★12](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
  * [graphql-crystal ★104](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation
  * [kave ★20](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-auth-token ★19 ⏳1Y](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
@@ -373,7 +374,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [hoop ★183](https://github.com/0x73/hoop) - Building native OSX apps
  * [html_builder ★31](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [i18n.cr ★9](https://github.com/vladfaust/i18n.cr) - Internationalization shard
- * [immutable ★136](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
+ * [immutable ★136 ⏳1Y](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [inflector.cr ★28](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
  * [lirith ★19](https://github.com/lirith-engine/lirith) - Graphics engine
  * [m3u8 ★3](https://github.com/akiicat/m3u8) - Generate and parse m3u8 playlists for HTTP Live Streaming

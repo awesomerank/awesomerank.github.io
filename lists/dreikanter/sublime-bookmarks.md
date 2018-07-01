@@ -82,7 +82,7 @@ Helpful notes:
 
 - [Sublime Text setup ★748 ⏳2Y](https://github.com/mhartl/rails_tutorial_sublime_text) used in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 - [Setting up Sublime Text for Ruby development](http://zhuravel.biz/setting-up-sublime-text-for-ruby-development)
-- [ChangeQuotes ★113](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes.
+- [ChangeQuotes ★113 ⏳1Y](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes.
 
 Plugins:
 

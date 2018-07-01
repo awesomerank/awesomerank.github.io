@@ -58,7 +58,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [ServerlessConf](http://serverlessconf.io) - Serverless specialized conference.
 - [ServerlessConf YouTube](https://www.youtube.com/channel/UCqlcVgk8SkUmve4Kw4xSlgw) - ServerlessConf YouTube channel.
 - [Serverless Camp](https://serverless.camp) - Code camps to learn more about serverless.
-- [Serverless Heroes Resources ★150](https://github.com/ServerlessHeroes/serverless-resources) - Another great list with serverless related resources.
+- [Serverless Heroes Resources ★150 ⏳1Y](https://github.com/ServerlessHeroes/serverless-resources) - Another great list with serverless related resources.
 - [Serverless Stack](http://serverless-stack.com/) - A step-by-step guide to creating full-stack serverless apps.
 - [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/tools/serverless-framework) - The Serverless Framework on the ThoughtWorks Technology Radar.
 - [Serverless Weekly](https://serverless.email) - A weekly newsletter about serverless architectures and paradigms.
@@ -1102,6 +1102,8 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [6 things I've learned using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526) - Post about the lessons learned using serverless technologies 6 months in.
 - [Solving Event Sourcing at Go-JEK](https://blog.gojekengineering.com/a-tale-of-two-lambdas-solving-event-sourcing-at-go-jek-149884d898a1) - Post on how the "Team Lambda" at Go-JEK solved Event Sourcing.
 - [Building a serverless multi-region backend solution](https://read.acloud.guru/adding-support-for-vpc-build-a-serverless-multi-region-active-active-backend-solution-d80d25157688) - How to build a serverless multi-region backend solution within a VPC.
+- [Architect serverless framework](https://blog.reifyworks.com/architect-the-killer-serverless-framework-41565372811b) - Post about the Architect serverless framework.
+- [I just launched a serverless website in 15 minutes](https://hackernoon.com/i-just-launched-a-serverless-website-in-15-minutes-8e399c827fef) - How to create a serverless website with the help of the Serverless Framework.
 
 ## Screencasts
 
@@ -1369,7 +1371,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Facebook messenger bot ★34](https://github.com/michalsanger/serverless-facebook-messenger-bot) - Feature rich Facebook messenger chatbot.
 - [Discuss](https://github.com/JustServerless/discuss) - Forum software powered by Serverless, GraphQL, React and Redux.
 - [Elasticommerce search service ★4 ⏳2Y](https://github.com/amimoto-ami/serverless-elasticommerce-search-service) - Elasticsearch service for WooCommerce shops.
-- [Serverless starter Python ★35](https://github.com/alexcasalboni/serverless-starter-python) - Starter project for Python based project.
+- [Serverless starter Python ★35 ⏳1Y](https://github.com/alexcasalboni/serverless-starter-python) - Starter project for Python based project.
 - [Serverless (v1.0) Python Sample ★53](https://github.com/bennybauer/serverless-python-sample) - A simple Serverless Python sample with REST API endpoints and dependencies.
 - [Express to AWS Lambda](https://github.com/johncmckim/express-to-aws-lambda) - Code of the "Express to AWS Lambda" blog post series.
 - [Serverless HipChat connect](https://bitbucket.org/gorillastack/serverless-hipchat-connect) - Using Atlassian connect with Serverless.

@@ -171,6 +171,7 @@ A curated list of cryptography resources and links.
 
 - [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
 - [libsodium-net ★275](https://github.com/adamcaudill/libsodium-net) - Secure cryptographic library, port of libsodium for .NET.
+- [Microsoft .NET Framework Cryptography Model](https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model) - The .NET Framework implementations of many standard cryptographic algorithms.
 - [PCLCrypto ★181](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
 - [SecurityDriven.Inferno ★361](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
 - [StreamCryptor ★73 ⏳1Y](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
@@ -247,7 +248,7 @@ A curated list of cryptography resources and links.
 - [javascript-crypto-library ★245 ⏳2Y](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
 - [js-nacl ★407 ⏳1Y](https://github.com/tonyg/js-nacl) - Pure-Javascript High-level API to Emscripten-compiled libsodium routines.
 - [jsencrypt ★2328](https://github.com/travist/jsencrypt) - Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
-- [JShashes ★419](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
+- [JShashes ★419 ⏳1Y](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
 - [jsrsasign ★1556](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
 - [jsThemis](https://github.com/cossacklabs/themis/wiki/NodeJS-Howto) - Javascript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [libsodium.js ★354](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.

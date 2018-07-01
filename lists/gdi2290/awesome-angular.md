@@ -738,7 +738,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 #### Babel Demo, Samples, and Examples
 
 * [angular2-es6-todomvc ★138 ⏳1Y](https://github.com/blacksonic/angular2-esnext-todomvc) Angular 2 TodoMVC implementation with ES6.
-* [ng1-ng2-webpack-lazy-uirouter ★58](https://github.com/swimlane/ng1-ng4-webpack-lazy-uirouter) Hybrid lazy-loading Angular1 + Angular2 using UI-Router, Webpack2 and Babel.
+* [ng1-ng2-webpack-lazy-uirouter ★58 ⏳1Y](https://github.com/swimlane/ng1-ng4-webpack-lazy-uirouter) Hybrid lazy-loading Angular1 + Angular2 using UI-Router, Webpack2 and Babel.
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 #### Babel Plugins

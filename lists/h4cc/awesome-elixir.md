@@ -124,7 +124,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries and implementations of algorithms and data structures.*
 
 * [array ★21 ⏳1Y](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
-* [aruspex ★21 ⏳1Y](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
+* [aruspex ★21 ⏳2Y](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
 * [bitmap ★22](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
 * [blocking_queue ★37 ⏳1Y](https://github.com/joekain/BlockingQueue) - BlockingQueue is a simple queue implemented as a GenServer. It has a fixed maximum length established when it is created.
 * [bloomex ★45](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
@@ -147,7 +147,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exkad ★0 ⏳1Y](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
 * [exmatrix ★49](https://github.com/a115/exmatrix) - ExMatrix is a small library for working with matrices, originally developed for testing matrix multiplication in parallel.
 * [ezcryptex ★0 ⏳2Y](https://github.com/stocks29/ezcryptex) - Thin layer on top of Cryptex.
-* [fnv ★1](https://github.com/asaaki/fnv.ex) - Pure Elixir implementation of Fowler–Noll–Vo hash functions.
+* [fnv ★1 ⏳1Y](https://github.com/asaaki/fnv.ex) - Pure Elixir implementation of Fowler–Noll–Vo hash functions.
 * [fsm ★275](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
 * [fuse ★331](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
 * [gen_fsm ★33 ⏳2Y](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen_fsm.
@@ -391,7 +391,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Code Analysis
 *Libraries and tools for code base analysis, parsing, and manipulation.*
 
-* [belvedere ★15 ⏳2Y](https://github.com/nirvana/belvedere) - An example of CircleCI integration with Elixir.
+* [belvedere ★15 ⏳3Y](https://github.com/nirvana/belvedere) - An example of CircleCI integration with Elixir.
 * [coverex ★80](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
 * [credo ★2499](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching Elixir.
 * [dialyxir ★753](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.
@@ -1030,7 +1030,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ExPcap ★19 ⏳3Y](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
 * [mac ★2 ⏳1Y](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 * [pool ★6 ⏳2Y](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
-* [reagent ★86](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
+* [reagent ★86 ⏳1Y](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
 * [sockerl ★14](https://github.com/Pouriya-Jahanbakhsh/sockerl) - Sockerl is an advanced Erlang/Elixir socket library for TCP protocols and provides fast, useful and easy-to-use API for implementing servers, clients and client connection pools.
 * [socket ★544](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 * [sshex ★93](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
@@ -1112,7 +1112,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mongodb_ecto](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 * [mysql ★236](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [mysqlex ★5](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
-* [neo4j_sips ★71](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
+* [neo4j_sips ★71 ⏳1Y](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
 * [neo4j_sips_models ★4 ⏳2Y](https://github.com/florinpatrascu/neo4j_sips_models) - Minimalistic Model support for the Neo4j.Sips Elixir driver.
 * [paper_trail ★167](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 * [postgrex ★554](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
@@ -1321,7 +1321,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [power_assert ★158](https://github.com/ma2gedev/power_assert_ex) - Power Assert in Elixir. Shows evaluation results each expression.
 * [proper](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 * [setup_tag ★1 ⏳2Y](https://github.com/vic/setup_tag) - Easily mix and match functions marked with tags to setup your test context.
-* [shouldi ★130 ⏳1Y](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
+* [shouldi ★130 ⏳2Y](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 * [test_selector ★5](https://github.com/DefactoSoftware/test_selector) - A set of test helpers that make sure you always select the right elements in your Phoenix app.
 * [test_that_json ★8](https://github.com/facto/test_that_json) - JSON assertions and helpers for your Elixir testing needs.
 * [tuco_tuco ★59 ⏳1Y](https://github.com/stuart/tuco_tuco) - TucoTuco helps you test your web application by running a web browser and simulating user interaction with your application.

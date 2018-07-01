@@ -144,8 +144,8 @@ title: Awesome Rank for addyosmani/es6-tools
 * [`Object.assign` ★768](https://github.com/sindresorhus/object-assign)
 * [`Number.isFinite` ★11 ⏳1Y](https://github.com/sindresorhus/is-finite)
 * [`Math.sign` ★6 ⏳1Y](https://github.com/sindresorhus/math-sign)
-* [`RegExp.prototype.match` ★10 ⏳3Y](https://github.com/mathiasbynens/RegExp.prototype.match)
-* [`RegExp.prototype.search` ★7 ⏳3Y](https://github.com/mathiasbynens/RegExp.prototype.search)
+* [`RegExp.prototype.match` ★10 ⏳4Y](https://github.com/mathiasbynens/RegExp.prototype.match)
+* [`RegExp.prototype.search` ★7 ⏳4Y](https://github.com/mathiasbynens/RegExp.prototype.search)
 * [es6-promise](https://github.com/jakearchibald/es6-promise) - polyfill for Promises matching the ES6 API
 * [ES6 Map Shim ★21 ⏳3Y](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible.
 * [`Function.create` ★8 ⏳5Y](https://github.com/walling/Function.create.js)

@@ -1033,7 +1033,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [IDMPhotoBrowser ★2583](https://github.com/thiagoperes/IDMPhotoBrowser) - Photo Browser / Viewer.
 * [Concorde ★1348](https://github.com/contentful-labs/Concorde) - Download and decode progressive JPEGs.
 * [TOCropViewController ★2232](https://github.com/TimOliver/TOCropViewController) - A view controller that allows users to crop UIImage objects.
-* [YXTMotionView ★78 ⏳2Y](https://github.com/hanton/YXTMotionView) - A custom image view that implements device motion scrolling.
+* [YXTMotionView ★78 ⏳3Y](https://github.com/hanton/YXTMotionView) - A custom image view that implements device motion scrolling.
 * [PINRemoteImage ★3407](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher.
 * [SABlurImageView ★497](https://github.com/marty-suzuki/SABlurImageView) - Easily Adding Animated Blur/Unblur Effects To An Image.
 * [FastImageCache ★7840](https://github.com/path/FastImageCache) - iOS library for quickly displaying images while scrolling.
@@ -1311,7 +1311,7 @@ Most of these are paid services, some have free tiers.
 
 ## Optimization
 
-* [Unreachable ★92](https://github.com/nvzqz/Unreachable) - Unreachable code path optimization hint for Swift.
+* [Unreachable ★92 ⏳1Y](https://github.com/nvzqz/Unreachable) - Unreachable code path optimization hint for Swift.
 
 ## Parsing
 
@@ -1499,7 +1499,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftRegex ★117 ⏳1Y](https://github.com/kasei/SwiftRegex) - Perl-like Regex =~ operator for Swift
 * [PySwiftyRegex ★210](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way
 * [Regex ★236](https://github.com/crossroadlabs/Regex) - Regular expressions for swift
-* [Regex ★65](https://github.com/brynbellomy/Regex) - Regex class for Swift. Wraps NSRegularExpression.
+* [Regex ★65 ⏳1Y](https://github.com/brynbellomy/Regex) - Regex class for Swift. Wraps NSRegularExpression.
 
 ## SDK
 
@@ -2078,7 +2078,7 @@ Most of these are paid services, some have free tiers.
 * [Kaeru ★435 ⏳1Y](https://github.com/bannzai/Kaeru) - Switch viewcontroller like iOS task manager
 * [View2ViewTransition ★787](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view.
 * [AZTransitions ★376 ⏳1Y](https://github.com/azimin/AZTransitions) - API to make great custom transitions in one method.
-* [Hero ★14021](https://github.com/lkzhao/Hero) - Supercharged transition engine for iOS. Build your custom view transitions with no code at all. Inspired by Keynote's Magic Move.
+* [Hero ★14116](https://github.com/HeroTransitions/Hero) - Supercharged transition engine for iOS. Build your custom view transitions with no code at all. Inspired by Keynote's Magic Move.
 * [Motion ★1040](https://github.com/CosmicMind/Motion) - Seamless animations and transitions in Swift.
 * [PresenterKit ★415](https://github.com/jessesquires/PresenterKit) - Swifty view controller presentation for iOS
 * [Transition ★2011](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions.
@@ -2748,7 +2748,7 @@ CollectionView, make Instagram Discover within minutes.
  * [Cent ★180](https://github.com/ankurp/Cent) - Extensions for Swift Standard Types and Classes
  * [AssistantKit ★471](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
  * [SwiftLinkPreview ★834](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
- * [BundleInfos ★1 ⏳1Y](https://github.com/rollmind/BundleInfos) - Simple getter for Bundle informations. like short version from bundle.
+ * [BundleInfos ★1 ⏳2Y](https://github.com/rollmind/BundleInfos) - Simple getter for Bundle informations. like short version from bundle.
  * [YAML.framework ★197 ⏳1Y](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
  * [ReadabilityKit ★650](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
  * [MissionControl-iOS ★103 ⏳1Y](https://github.com/appculture/MissionControl-iOS) - Super powerful remote config utility written in Swift (iOS, watchOS, tvOS, macOS)
@@ -3042,7 +3042,7 @@ CollectionView, make Instagram Discover within minutes.
 * [BGR](https://bgr.com/ios-7/)
 * [iMore](https://www.imore.com/)
 * [Lifehacker](https://lifehacker.com/tag/ios)
-* [NSHipster](http://nshipster.com)
+* [NSHipster](https://nshipster.com)
 * [Objc.io](https://www.objc.io/)
 * [ASCIIwwdc](https://asciiwwdc.com/)
 * [Natasha The Robot](https://www.natashatherobot.com/)
@@ -3055,7 +3055,7 @@ CollectionView, make Instagram Discover within minutes.
 * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/)
 * [iOS Developer and Designer interview ★1460 ⏳1Y](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
 * [iOS9-day-by-day ★1436 ⏳2Y](https://github.com/shinobicontrols/iOS9-day-by-day)
-* [Code Facebook](https://code.facebook.com/ios/)
+* [Code Facebook](https://code.fb.com/category/ios/)
 * [iOS Cookies](https://ioscookies.com/) - A hand curated collection of iOS libraries written in Swift
 * [Feeds for iOS Developer ★81](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
 * [iOS10 day-by-day](https://www.shinobicontrols.com/blog/ios-10-day-by-day-index)

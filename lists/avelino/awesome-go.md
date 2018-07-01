@@ -699,7 +699,7 @@ See [go-hardware ★708](https://github.com/rakyll/go-hardware) for a comprehens
 *Libraries for programming devices of the IoT.*
 
 * [connectordb ★107](https://github.com/connectordb/connectordb) - Open-Source Platform for Quantified Self & IoT.
-* [devices ★204 ⏳1Y](https://github.com/goiot/devices) - Suite of libraries for IoT devices, experimental for x/exp/io.
+* [devices ★204 ⏳2Y](https://github.com/goiot/devices) - Suite of libraries for IoT devices, experimental for x/exp/io.
 * [eywa ★17 ⏳1Y](https://github.com/xcodersun/eywa) - Project Eywa is essentially a connection manager that keeps track of connected devices.
 * [flogo ★645](https://github.com/tibcosoftware/flogo) - Project Flogo is an Open Source Framework for IoT Edge Apps & Integration.
 * [gatt ★670](https://github.com/paypal/gatt) - Gatt is a Go package for building Bluetooth Low Energy peripherals.
@@ -795,7 +795,7 @@ See [go-hardware ★708](https://github.com/rakyll/go-hardware) for a comprehens
 * [emitter ★213](https://github.com/olebedev/emitter) - Emits events using Go way, with wildcard, predicates, cancellation possibilities and many other good wins.
 * [event ★13](https://github.com/agoalofalife/event) - Implementation of the pattern observer.
 * [EventBus ★379](https://github.com/asaskevich/EventBus) - The lightweight event bus with async compatibility.
-* [gaurun-client ★6](https://github.com/osamingo/gaurun-client) - Gaurun Client written in Go.
+* [gaurun-client ★6 ⏳1Y](https://github.com/osamingo/gaurun-client) - Gaurun Client written in Go.
 * [Glue ★283](https://github.com/desertbit/glue) - Robust Go and Javascript Socket Library (Alternative to Socket.io).
 * [go-notify ★34 ⏳2Y](https://github.com/TheCreeper/go-notify) - Native implementation of the freedesktop notification spec.
 * [go-nsq ★1104](https://github.com/nsqio/go-nsq) - the official Go package for NSQ.
@@ -1073,7 +1073,7 @@ See [go-hardware ★708](https://github.com/rakyll/go-hardware) for a comprehens
 * [PiHex ★3](https://github.com/claygod/PiHex) - Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi.
 * [sparse ★32](https://github.com/james-bowman/sparse) - Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries.
 * [stats ★895](https://github.com/montanaflynn/stats) - Statistics package with common functions missing from the Golang standard library.
-* [streamtools ★1307 ⏳2Y](https://github.com/nytlabs/streamtools) - general purpose, graphical tool for dealing with streams of data.
+* [streamtools ★1307 ⏳3Y](https://github.com/nytlabs/streamtools) - general purpose, graphical tool for dealing with streams of data.
 * [TextRank ★11](https://github.com/DavidBelicza/TextRank) - TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support.
 * [vectormath ★59 ⏳5Y](https://github.com/spate/vectormath) - Vectormath for Go, an adaptation of the scalar C functions from Sony's Vector Math library, as found in the Bullet-2.79 source code (currently inactive).
 

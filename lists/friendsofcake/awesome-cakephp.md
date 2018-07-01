@@ -332,7 +332,7 @@ Additional lists you might find useful:
 - [ElasticSearch plugin ★63](https://github.com/cakephp/elastic-search) - Alternative ORM using Elastic Search as its backend.
 - [PlumSearch plugin ★20](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - [FriendsOfCake/Search plugin ★106](https://github.com/FriendsOfCake/search) - Search provides a searching/filter module for CakePHP applications.
-- [SphinxSearch plugin ★3 ⏳1Y](https://github.com/voycey/cakephp-sphinxsearch) - Basic behaviour implementation for querying SphinxSearch indexes.
+- [SphinxSearch plugin ★3 ⏳2Y](https://github.com/voycey/cakephp-sphinxsearch) - Basic behaviour implementation for querying SphinxSearch indexes.
 - [Tags plugin ★3](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
 
 ## Security

@@ -340,7 +340,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Motion-tickspot ★2 ⏳3Y](https://github.com/codelation/motion-tickspot) - RubyMotion wrapper for the http://tickspot.com API that works on iOS and macOS.
 * [Motion-aws ★2 ⏳4Y](https://github.com/jamonholmgren/motion-aws) - Provides iOS and macOS connectivity to AWS services.
 * [Motion-ocean ★5 ⏳4Y](https://github.com/brianpattison/motion-ocean) - RubyMotion wrapper for the http://digitalocean.com API v2.0.
-* [Sox ★6 ⏳4Y](https://github.com/brilliantfantastic/sox) - RubyMotion wrapper for the Freshbooks API.
+* [Sox ★6 ⏳5Y](https://github.com/brilliantfantastic/sox) - RubyMotion wrapper for the Freshbooks API.
 * [Twittermotion ★42 ⏳4Y](https://github.com/clayallsopp/twittermotion) - RubyMotion wrapper for the iOS Twitter API.
 * [Under-os-image ★4 ⏳4Y](https://github.com/under-os/under-os-image) - The new simplified images processing API for the http://under-os.com/ project.
 * [Motion-giphy ★4 ⏳4Y](https://github.com/willrax/motion-giphy) - Nice wrapper around the http://giphy.com API.

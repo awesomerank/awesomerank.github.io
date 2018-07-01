@@ -159,10 +159,10 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [Sockets ★113](https://github.com/rdavisau/sockets-for-pcl) - An abstraction over the socket helper classes of .NET and WinRT
 
 ## Reactive
-* [Akavache ★1,323](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
+* [Akavache ★1,323](https://github.com/reactiveui/Akavache) - An Asynchronous Key-Value Store for Native Applications
 * [ReactiveUI ★2,780](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework 
 * [Sensors ★28](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows
-* [Refit ★1,092](https://github.com/paulcbetts/refit) - Refit is a library heavily inspired by Square's Retrofit library, and it turns your REST API into a live interface
+* [Refit ★1,092](https://github.com/reactiveui/refit) - Refit is a library heavily inspired by Square's Retrofit library, and it turns your REST API into a live interface
 * [ReactiveProperty ★305](https://github.com/runceel/ReactiveProperty) - Provides MVVM and asynchronous support features under Reactive Extensions
 * [RxFlow ★16](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions)
 
@@ -252,6 +252,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 
 * [Weekly Xamarin](http://weeklyxamarin.com) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
 * [Planet Xamarin](https://www.planetxamarin.com) - An aggregator of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed? If RSS isn't your thing, follow the [Twitter](https://twitter.com/PlanetXamarin) or [Facebook](https://www.facebook.com/planetxamarin/) accounts which are automatically updated with the latest content from the community.
+* [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) - a curated list of resources for learning Xamarin
 
 ## Contributors
 [<img alt="benoitjadinon" src="https://avatars3.githubusercontent.com/u/205116?v=4&s=117" width="117">](https://github.com/benoitjadinon) |[<img alt="interisti" src="https://avatars2.githubusercontent.com/u/4171351?v=4&s=117" width="117">](https://github.com/interisti) |[<img alt="JTOne123" src="https://avatars0.githubusercontent.com/u/3457140?v=4&s=117" width="117">](https://github.com/JTOne123) |[<img alt="alexsorokoletov" src="https://avatars1.githubusercontent.com/u/1788581?v=4&s=117" width="117">](https://github.com/alexsorokoletov) |[<img alt="andmos" src="https://avatars1.githubusercontent.com/u/1283556?v=4&s=117" width="117">](https://github.com/andmos) |[<img alt="andreinitescu" src="https://avatars2.githubusercontent.com/u/743918?v=4&s=117" width="117">](https://github.com/andreinitescu) |

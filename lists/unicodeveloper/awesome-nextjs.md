@@ -93,7 +93,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [Rauchg Blog ★275](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
 * [Next JPH ★24 ⏳1Y](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
 * [Mailto ★42](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
-* [Plate ★33](https://github.com/knipferrc/plate) - The task management app to rule them all.
+* [Plate ★33 ⏳1Y](https://github.com/knipferrc/plate) - The task management app to rule them all.
 * [Dashboard ★447](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 * [Snape ★116](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 * [Trello Resume ★5](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.

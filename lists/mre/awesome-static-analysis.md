@@ -325,7 +325,7 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 * [pelusa ★448 ⏳3Y](https://github.com/codegram/pelusa) - Static analysis Lint-type tool to improve your OO Ruby code
 * [quality ★134](https://github.com/apiology/quality) - Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 * [reek ★2753](https://github.com/troessner/reek) - Code smell detector for Ruby
-* [rubocop](https://github.com/bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
+* [RuboCop ★9164](https://github.com/rubocop-hq/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
 * [Rubrowser](https://github.com/blazeeboy/rubrowser) - Ruby classes interactive dependency graph generator.
 * [ruby-lint ★730 ⏳1Y](https://github.com/YorickPeterse/ruby-lint) - Static code analysis for Ruby
 * [rubycritic ★2100](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter
@@ -396,6 +396,7 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 * [cqc ★247](https://github.com/xcatliu/cqc) - Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
 * [DevSkim ★188](https://github.com/microsoft/devskim) - Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 * [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
+* [Goodcheck ★15](https://github.com/sideci/goodcheck) - Regexp based customizable linter 
 * [graudit ★293](https://github.com/wireghoul/graudit) - Grep rough audit - source code auditing tool - C/C++, PHP, ASP, C#, Java, Perl, Python, Ruby
 * [Hound CI](https://houndci.com/) - Comments on style violations in GitHub pull requests. Supports Coffeescript, Go, HAML, JavaScript, Ruby, SCSS and Swift.
 * [imhotep ★205](https://github.com/justinabrahms/imhotep) - Comment on commits coming into your repository and check for syntactic errors and general lint warnings.
@@ -550,7 +551,7 @@ Also check out the sister project, [awesome-dynamic-analysis ★27](https://gith
 * [QuantifiedCode](https://www.quantifiedcode.com/) - Automated code review & repair
 * [Scrutinizer](https://scrutinizer-ci.com/) :copyright: - A proprietery code quality checker that can be integrated with GitHub
 * [SensioLabs Insight](https://insight.sensiolabs.com/) :copyright: - Detect security risks, find bugs and provide actionable metrics for PHP projects
-* [SideCI](https://sideci.com) :copyright: - An automated code reviewing tool. Improving developers' productivity.
+* [Sider](https://sider.review) :copyright: - An automated code reviewing tool. Improving developers' productivity.
 * [Snyk](https://snyk.io/) :copyright: - Vulnerability scanner for dependencies of node.js apps (free for Open Source Projects)
 * [Teamscale](http://www.teamscale.com/) :copyright: - Static and dynamic analysis tool supporting more than 25 languages and direct IDE integration. Free hosting for Open Source projects available on request. Free academic licenses available.
 * [Upsource](https://www.jetbrains.com/upsource/) :copyright: - Code review tool with static code analysis and code-aware navigation for Java, PHP, JavaScript and Kotlin.

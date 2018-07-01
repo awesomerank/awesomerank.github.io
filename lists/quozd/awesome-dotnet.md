@@ -645,6 +645,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Media
 
+* [CSCore ★922](https://github.com/filoe/cscore) - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
 * [TagLib# ★494](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
 metadata in media files, including video, audio, and photo formats
 * [LibVLCSharp ★112](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.

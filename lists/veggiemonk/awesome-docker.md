@@ -211,7 +211,7 @@ _Source:_ [What is Docker](https://www.docker.com/what-docker)
 
 ### Orchestration
 
-- [athena ★67](https://github.com/athena-oss/athena) - An automation platform with a plugin architecture that allows you to easily create and share services.
+- [athena ★67 ⏳1Y](https://github.com/athena-oss/athena) - An automation platform with a plugin architecture that allows you to easily create and share services.
 - [blimp ★17 ⏳3Y](https://github.com/tubesandlube/blimp) :skull: - Uses Docker Machine to easily move a container from one Docker host to another, show containers running against all of your hosts, replicate a container across multiple hosts and more by [@defermat](https://github.com/defermat) and [@schvin](https://github.com/schvin)
 - [CloudSlang ★181](https://github.com/CloudSlang/cloud-slang) - CloudSlang is a workflow engine to create Docker process automation
 - [clusterdock ★20](https://github.com/clusterdock/clusterdock) - Docker container orchestration to enable the testing of long-running cluster deployments
@@ -399,6 +399,7 @@ Applications designed to help or simplify building **new** images
 - [portainer ★128 ⏳1Y](https://github.com/duedil-ltd/portainer) - Apache Mesos framework for building Docker images by [@duedil-ltd](https://github.com/duedil-ltd)
 - [runlike ★138](https://github.com/lavie/runlike) 🚧 - Generate `docker run`command and options from running containers by [@lavie](https://github.com/lavie)
 - [SkinnyWhale ★173](https://github.com/djosephsen/skinnywhale) :skull: - Skinnywhale helps you make smaller (as in megabytes) Docker containers.
+- [Whaler ★305](https://github.com/P3GLEG/Whaler) - Program to reverse Docker images into Dockerfiles by [@P3GLEG](https://github.com/P3GLEG/).
 - [Whales ★97](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications by [@icalialabs](https://github.com/IcaliaLabs).
 
 ### Dockerfile
@@ -549,7 +550,7 @@ Services to securely store your Docker images.
 - [dexec ★292 ⏳1Y](https://github.com/docker-exec/dexec) - Command line interface written in Go for running code with Docker Exec images.
 - [docker-do ★15 ⏳2Y](https://github.com/benzaita/docker-do) - hassle-free docker run, like `env` but for docker by [@benzaita](https://github.com/benzaita)
 - [Dray ★342 ⏳2Y](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows by [@CenturyLinkLabs][CenturyLinkLabs]
-- [FuGu ★140 ⏳1Y](https://github.com/mattes/fugu) - Docker run wrapper without orchestration by [@mattes](https://github.com/mattes)
+- [FuGu ★140 ⏳2Y](https://github.com/mattes/fugu) - Docker run wrapper without orchestration by [@mattes](https://github.com/mattes)
 - [SaltStack Docker module](https://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.dockerng.html#module-salt.modules.dockerng) - SaltStack Docker module
 - [Shutit](http://ianmiell.github.io/shutit/) - Tool for building and maintaining complex Docker deployments by [@ianmiell][ianmiell]
 - [subuser ★691](https://github.com/subuser-security/subuser) - Makes it easy to securely and portably run graphical desktop applications in Docker

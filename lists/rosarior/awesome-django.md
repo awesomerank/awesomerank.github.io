@@ -241,7 +241,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-drip ★572](https://github.com/zapier/django-drip) - Django Admin based management for drip email campaigns
 * [django-email-extras ★68](https://github.com/stephenmcd/django-email-extras) - Various email utilities: PGP encryption, multipart templates, web browser test backend.
 * [django-email-gateway ★19](https://github.com/MicroPyramid/django-email-gateway) - A django package which act as a gateway to send emails from SES. Receiving its' corresponding email replys, parsing reply email content with amazon SES.
-* [django-mailgun ★209 ⏳1Y](https://github.com/BradWhittington/django-mailgun) - A Django email backend for Mailgun.
+* [django-mailgun ★209 ⏳2Y](https://github.com/BradWhittington/django-mailgun) - A Django email backend for Mailgun.
 * [django-post_office ★409](https://github.com/ui/django-post_office) - A simple app to send and manage your emails in Django, supports templates and can be easily integrated with task queues.
 * [django-ses ★574](https://github.com/django-ses/django-ses) - A Django email backend for Amazon's Simple Email Service.
 * [django-spoolgore ★7 ⏳4Y](https://github.com/20tab/django-spoolgore) - A django email backed for the Spoolgore daemon.
@@ -437,7 +437,7 @@ phone numbers.
 *Packages for adding tags to Django models.*
 
 * [django-taggit ★1902](https://github.com/alex/django-taggit) - Simple tagging for Django.
-* [django-taggit-helpers ★23](https://github.com/mfcovington/django-taggit-helpers) - Django admin helper classes for django-taggit tags.
+* [django-taggit-helpers ★23 ⏳1Y](https://github.com/mfcovington/django-taggit-helpers) - Django admin helper classes for django-taggit tags.
 
 ## Task Queue
 

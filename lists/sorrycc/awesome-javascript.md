@@ -512,6 +512,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## API
 
+* [axios ★44132](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 * [bottleneck ★437](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 * [oauth-signature-js ★202](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 * [amygdala ★401 ⏳1Y](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
@@ -763,7 +764,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [Semantic UI](http://semantic-ui.com/) - UI Kit with lots of themes and elements
 * [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
-* [fluidity ★1128 ⏳1Y](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework
+* [fluidity ★1128 ⏳2Y](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework
 * [Ink ★1919 ⏳1Y](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping
 
 ## Boilerplates
@@ -842,6 +843,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [animatable ★2394 ⏳2Y](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
 * [shuffle-images ★190 ⏳2Y](https://github.com/peachananr/shuffle-images) -  The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html
 * [smoothState.js ★4227](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/
+* [particles.js ★15799](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 
 ## Image Processing
 

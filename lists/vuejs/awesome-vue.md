@@ -487,7 +487,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Starter application ready for production with TypeScript, vuex, vue-router, HMR and more ★3](https://github.com/kadro/vue-boilerplate)
 - [vue.js与laravel结合的前后端分离开发模板 ★195](https://github.com/wmhello/laravel_template_with_vue)- A template website to laravel passport / Vue.JS & Element UI.
 - [Hands-On Web Development with Vue.js](https://www.packtpub.com/web-development/hands-web-development-vuejs-video) by Roman Kuba, Packt. (May 2018)
-
+- [Vue Online Shopping Mall ★13](https://github.com/PowerDos/Mall-Vue) - A online shopping mall SPA demo, 基于VUE开发的前后端分离电子商城前端项目
 
 ### Books
 
@@ -644,6 +644,7 @@ title: Awesome Rank for vuejs/awesome-vue
  - [Teleo](https://www.teleo.co/?utm_source=AwesomeVue) - Team collab-app moving effortlessly between talking, planning & doing
  - [Cover](http://cover.20theme.com) - A high quality Component Library built on Vue.js
  - [EducationLink](https://geteducation.link/?utm_source=AwesomeVue) - CRM and sales automation for education agents and colleges.
+ - [Pragmatic](https://themeforest.net/item/pragmatic-vuejs-admin-template/21775201?ref=Linko91&utm_source=awesomevue) - Responsive and configurable admin template built with Vue.js and Element.
 
 ### Apps/Websites
 
@@ -833,14 +834,6 @@ title: Awesome Rank for vuejs/awesome-vue
 - [vue-focus-lock ★18](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
 - [vue-a11y-calendar ★227](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar.
 
-
-
-
-
-
-
-
-
 # Components & Libraries
 
 
@@ -874,6 +867,7 @@ title: Awesome Rank for vuejs/awesome-vue
  - [vue-cheetah-grid ★53](https://github.com/future-architect/cheetah-grid) - A high-performance grid engine that work on a canvas for Vue.js.
  - [vue-table-component](http://vue-table-component.spatie.be/) - A straight to the point Vue component to display tables.
  - [@lossendae/vue-table](https://lossendae.github.io/vue-table) - Simple table component for Vue.js 2.x with pagination and sortable columns.
+ - [el-data-table ★36](https://github.com/FEMessage/el-data-table) - base on element-ui, makes crud easily
 
 ### Notification
 
@@ -1254,6 +1248,7 @@ Tooltips / popovers
 
  - [vue-json-schema ★306](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
  - [vue-awesome-form ★4](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
+ - [vue-generator ★0](https://github.com/michaellyu/vue-generator) - Initial router and components for the Vue project.
 
 ##### Date Picker
 
@@ -1573,6 +1568,8 @@ Tooltips / popovers
  - [vuestic-admin ★4026](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dasboard with collection of custom components. Built with Vue 2 and Bootstrap 4
  - [Semantic UI Vue ★402](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) - Semantic UI integration for Vue
  - [vuesax ★918](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
+ - [Essential JS 2 for Vue](https://www.syncfusion.com/products/vue) - Full featured 45+ Vue.js components which includes Data Grid, Chart, Scheduler and Diagram components etc.
+ - [Banshee ★13](https://github.com/banshee-ui/banshee) - A mostly renderless Vue UI component and utility framework that ships with no CSS.
 
 ### Mobile
 
@@ -1686,6 +1683,7 @@ composing CSS breakpoint state.
  - [vue-chat-scroll ★207](https://github.com/theomessin/vue-chat-scroll) - Automatic scroll-to-bottom directive for Vue.js 2.0.
  - [vue-scrollto ★608](https://github.com/rigor789/vue-scrollTo) - Adds a directive that listens for click events and scrolls to elements.
 - [vue-next-level-scroll ★3](https://github.com/Developmint/vue-next-level-scroll) - A component based and SSR ready approach to smooth scrolling using the modern Scroll behavior API
+- [vue-scroll-sync ★0](https://github.com/metawin-m/vue-scroll-sync) - A component that syncronize containers scroll positions
 
 *Virtual scrollbar*
 

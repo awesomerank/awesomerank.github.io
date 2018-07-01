@@ -116,7 +116,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Animation
 
-* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github ★383 ⏳3Y](https://github.com/greensock/GreenSock-AS3)).
+* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github ★383 ⏳4Y](https://github.com/greensock/GreenSock-AS3)).
 * [GTween](http://gskinner.com/libraries/gtween/) - Small but robust library for programmatic tweening, animation, and transitions.
 * [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling, and tools to export animations from Flash Pro.
 * [FlashEff2](http://www.flasheff.com/) - Premiere programmatic animation library with 100+ transitions and text effects.
@@ -175,7 +175,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [TinyTLF ★9 ⏳8Y](https://github.com/joelhooks/tinytlf) - Versatile text layout framework built on top of the Flash Text Engine for Flash/Flex.
 * [TransformManager](https://greensock.com/TransformManager) - By Greensock. Interactive scaling/rotating/moving of DisplayObjects.
 * [TransformTool ★63 ⏳1Y](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space.
-* [Argilla-Mosaic ★3 ⏳3Y](https://github.com/folletto/Argilla-Mosaic) - Dynamic layout library.
+* [Argilla-Mosaic ★3 ⏳4Y](https://github.com/folletto/Argilla-Mosaic) - Dynamic layout library.
 * [xrope ★35 ⏳3Y](https://github.com/evan-liu/xrope) - Simple layout library for native AS3 display objects.
 * [miglayout-as ★15 ⏳5Y](https://github.com/develar/miglayout-as) - Port of MigLayout, a superbly versatile Flash/Flex/FlashCocoa (SWT/Swing/JavaFX) layout manager.
 
@@ -434,7 +434,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 ## Networking
 #### Data Loader
 
-* [GreenSock LoaderMax ★383 ⏳3Y](https://github.com/greensock/GreenSock-AS3) - Provides an easy and powerful way to load assets at runtime.
+* [GreenSock LoaderMax ★383 ⏳4Y](https://github.com/greensock/GreenSock-AS3) - Provides an easy and powerful way to load assets at runtime.
 * [BulkLoader ★279 ⏳2Y](https://github.com/arthur-debert/BulkLoader) - Bulk asset loading library for Actionscript.
 * [AssetLoader ★125 ⏳5Y](https://github.com/Matan/AssetLoader) - Multi-file/asset loader for AS3 built on AS3Signals.
 

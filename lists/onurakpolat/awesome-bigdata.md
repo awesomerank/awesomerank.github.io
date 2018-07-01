@@ -625,7 +625,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Sigma.js ★7998](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 * [Superset ★19463](https://github.com/apache/incubator-superset) - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
 * [Vega ★23 ⏳2Y](https://github.com/trifacta/vega) - a visualization grammar.
-* [Zeppelin ★421](https://github.com/ZEPL/zeppelin) - a notebook-style collaborative data analysis.
+* [Zeppelin ★421 ⏳1Y](https://github.com/ZEPL/zeppelin) - a notebook-style collaborative data analysis.
 * [Zing Charts](https://www.zingchart.com/) - JavaScript charting library for big data.
 
 

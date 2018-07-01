@@ -157,7 +157,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Music related libraries*
 
 * [denver ★38 ⏳2Y](https://github.com/superzazu/denver.lua) - A Löve custom waveform generation library
-* [lovebpm ★20 ⏳1Y](https://github.com/rxi/lovebpm) - A LÖVE library for syncing events to the BPM of an audio track 
+* [lovebpm ★20 ⏳2Y](https://github.com/rxi/lovebpm) - A LÖVE library for syncing events to the BPM of an audio track 
 * [wave ★55](https://github.com/Ulydev/wave) - A sound manager with audio parsing and rhythm functionalities
 
 ## Networking
@@ -243,7 +243,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tweening
 *Smoothing & Timer Libraries*
 
-* [Flux ★150 ⏳1Y](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
+* [Flux ★150 ⏳2Y](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
 * [hump.timer](http://hump.readthedocs.io/en/latest/timer.html) - Timer and tweening library with flexible tweening methods
 * [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
 * [tick ★28 ⏳3Y](https://github.com/rxi/tick) - Lua module for delaying function calls 

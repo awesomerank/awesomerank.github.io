@@ -211,7 +211,7 @@ Table of contents:
 * [MhorMediaInfoBundle ★6 ⏳1Y](https://github.com/mhor/MhorMediaInfoBundle) - Integrates php-mediainfo library into the Symfony2 full-stack framework.
 * [Mobile-Detect ★7901](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets).
 * [MobileDetectBundle ★340](https://github.com/suncat2000/MobileDetectBundle) - Bundle for detect mobile devices, manage mobile view and redirect to the mobile and tablet version.
-* [MultiParamBundle ★17 ⏳5Y](https://github.com/jaytaph/MultiParamBundle) - MultiParam Annotation Bundle.
+* [MultiParamBundle ★17 ⏳6Y](https://github.com/jaytaph/MultiParamBundle) - MultiParam Annotation Bundle.
 * [ObHighchartsBundle ★150](https://github.com/marcaube/ObHighchartsBundle) - Aims to ease the use of highcharts to display rich graph and charts.
 * [OneupUploaderBundle ★470](https://github.com/1up-lab/OneupUploaderBundle) - Provides server implementations for several multi file uploader.
 * [phone-number-bundle ★343](https://github.com/misd-service-development/phone-number-bundle) - Integrates libphonenumber.
@@ -314,7 +314,7 @@ Table of contents:
 * [TwigCacheBundle ★48](https://github.com/EmanueleMinotto/TwigCacheBundle) - Bundle for asm89/twig-cache-extension.
 * [TwigExtraBundle ★8 ⏳3Y](https://github.com/csanquer/TwigExtraBundle) - Twig Extra Tools Extensions.
 * [TwigInflectionBundle ★3 ⏳2Y](https://github.com/EmanueleMinotto/TwigInflectionBundle) - Apply inflection via a Twig extension.
-* [TwigJackBundle ★24](https://github.com/boekkooi/TwigJackBundle) - Handy additional features for Twig.
+* [TwigJackBundle ★24 ⏳1Y](https://github.com/boekkooi/TwigJackBundle) - Handy additional features for Twig.
 * [TwitalBundle ★17](https://github.com/goetas/twital-bundle) - An attribute template engine built on top of Twig and 100% compatible with all twig's features.
 * [UcoTwigExtensionsBundle ★6 ⏳6Y](https://github.com/sgomez/UcoTwigExtensionsBundle) - Provides some filters.
 
