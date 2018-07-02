@@ -1286,6 +1286,7 @@ Tooltips / popovers
  - [v-cascade ★7](https://github.com/zanseven007/v-cascade) - A lovely component of cascade selector with Vue 2.x (Support both of PC and Mobile)
  - [vue-multi-select ★33](https://github.com/IneoO/vue-multi-select) - A custom component to make select/multiselect for Vue2.
  - [v-region ★12](https://github.com/TerryZ/v-region) - A simple region selector, provide Chinese administrative division data.
+ - [v-selectpage ★5](https://github.com/TerryZ/v-selectpage) - A powerful selector for Vue2, list or table view of pagination, use tags for multiple selection, i18n and server side resources supports.
 
 #### Slider
 
@@ -2056,6 +2057,7 @@ the amazing Vue.js.
 - [vue-ramda ★7](https://github.com/choufeng/vue-ramda) - Vue Wrapper for [ramda](http://ramdajs.com/)
 - [vue-router-user-roles ★129](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
  - [vue-messenger ★1](https://github.com/fjc0k/vue-messenger) - A series of useful enhancements to Vue component props: Transform, Enum-type, Numeric-type, Two-way data bindings.
+ - [vue-uuid-v4](https://github.com/estudioliver/vue-uuid.git) - Plugin Vue2 to easy get UUIDv4
 
 ### Web Workers
 - [vue-worker ★214](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.

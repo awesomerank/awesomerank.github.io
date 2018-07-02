@@ -370,7 +370,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ANDLineChartView ★424 ⏳1Y](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView is easy to use view-based class for displaying animated line chart.
 * [TWRCharts ★368 ⏳4Y](https://github.com/chasseurmic/TWRCharts) - An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.
 * [SwiftCharts ★1687](https://github.com/i-schuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS.
-* [FlowerChart ★9](https://github.com/drinkius/flowerchart) - Flower-shaped chart with custom appearance animation, fully vector.
+* [FlowerChart ★9 ⏳1Y](https://github.com/drinkius/flowerchart) - Flower-shaped chart with custom appearance animation, fully vector.
 * [Scrollable-GraphView ★4547](https://github.com/philackm/ScrollableGraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
 * [Dr-Charts ★76](https://github.com/Zomato/DR-charts) - Dr-Charts is a highly customisable, easy to use and interactive chart / graph framework in Objective-C.
 * [Graphs ★891 ⏳1Y](https://github.com/recruit-mtl/Graphs) - Light weight charts view generator for iOS.
@@ -2279,7 +2279,7 @@ Most of these are paid services, some have free tiers.
 * [TOMSMorphingLabel ★1859 ⏳2Y](https://github.com/tomknig/TOMSMorphingLabel) - Configurable morphing transitions between text values of a label.
 * [THLabel ★568 ⏳1Y](https://github.com/tobihagemann/THLabel) - UILabel subclass, which additionally allows shadow blur, inner shadow, stroke text and fill gradient.
 * [RQShineLabel ★1769 ⏳1Y](https://github.com/zipme/RQShineLabel) - Secret app like text animation
-* [ZCAnimatedLabel ★1938 ⏳1Y](https://github.com/overboming/ZCAnimatedLabel) - UILabel replacement with fine-grain appear/disappear animation
+* [ZCAnimatedLabel ★1938 ⏳2Y](https://github.com/overboming/ZCAnimatedLabel) - UILabel replacement with fine-grain appear/disappear animation
 * [TriLabelView ★126](https://github.com/mukeshthawani/TriLabelView) - A triangle shaped corner label view for iOS written in Swift.
 * [Preloader.Ophiuchus ★835](https://github.com/Yalantis/Preloader.Ophiuchus) - Custom Label to apply animations on whole text or letters.
 * [MTLLinkLabel ★74](https://github.com/recruit-mtl/MTLLinkLabel) - MTLLinkLabel is linkable UILabel. Written in Swift.

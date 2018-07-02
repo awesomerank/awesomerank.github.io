@@ -207,7 +207,7 @@ Name | License | Demo
 [ExpandableTextView ★3025](https://github.com/Manabu-GT/ExpandableTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ExpandableTextView.gif" width="49%">
 [Float Labeled EditText ★1138 ⏳2Y](https://github.com/wrapp-archive/floatlabelededittext) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/floatlabelededittext.gif" width="49%">
 [SizeAdjustingTextView ★256 ⏳3Y](https://github.com/erchenger/SizeAdjustingTextView) | [GNU License](http://www.gnu.org/licenses/gpl-3.0.en.html) | NONE
-[ParkedTextView ★242](https://github.com/gotokatsuya/ParkedTextView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/ParkedTextView.gif" width="60%">
+[ParkedTextView ★242 ⏳1Y](https://github.com/gotokatsuya/ParkedTextView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/ParkedTextView.gif" width="60%">
 [Material Code input ★819](https://github.com/glomadrian/material-code-input) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-code-input.gif" width="60%"> <br><br> <img src="/art/material-code-input2.gif" width="60%">
 [TextSurface ★1836 ⏳2Y](https://github.com/elevenetc/TextSurface) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TextSurface.gif" width="100%">
 [EmailAutoCompleteTextView ★418 ⏳2Y](https://github.com/tasomaniac/EmailAutoCompleteTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EmailAutoCompleteTextView.gif" width="60%">

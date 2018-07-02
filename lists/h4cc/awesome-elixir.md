@@ -934,7 +934,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [named_args ★16](https://github.com/mgwidmann/named_args) - Allows named arg style arguments in Elixir.
 * [OK ★286](https://github.com/CrowdHailer/OK) - Macros for elegant happy path coding, maximizing power and readability.
 * [ok_jose ★71](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
-* [pattern_tap ★43](https://github.com/mgwidmann/elixir-pattern_tap) - Macro for tapping into a pattern match while using the pipe operator.
+* [pattern_tap ★43 ⏳1Y](https://github.com/mgwidmann/elixir-pattern_tap) - Macro for tapping into a pattern match while using the pipe operator.
 * [pipe_here ★22 ⏳1Y](https://github.com/vic/pipe_here) - Easily pipe values into any argument position.
 * [pipe_to ★41](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
 * [pipes ★301 ⏳1Y](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.

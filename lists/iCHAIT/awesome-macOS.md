@@ -315,7 +315,7 @@ title: Awesome Rank for iCHAIT/awesome-macOS
 - [Amethyst](http://ianyh.com/amethyst/) - Window manager (automatically keep windows sized in grids). [![Open-Source Software][OSS Icon] ★5029](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
 - [Divvy Window Manager](http://mizage.com/divvy/) - Window management for tiling your windows.
 - [Hammerspoon](http://www.hammerspoon.org/) - Extremely powerful scripting engine for macOS. [![Open-Source Software][OSS Icon] ★3811](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
-- [kwm](https://koekeishiya.github.io/kwm/) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon] ★3463](https://github.com/koekeishiya/kwm) ![Freeware][Freeware Icon]
+- [kwm](https://koekeishiya.github.io/kwm/) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon] ★3463 ⏳1Y](https://github.com/koekeishiya/kwm) ![Freeware][Freeware Icon]
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows, super light weight and customizable.
 - [Phoenix](https://github.com/kasper/phoenix) - A lightweight window and app manager scriptable with JavaScript. [![Open-Source Software][OSS Icon] ★3811](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 - [Spectacle](https://www.spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon] ★9658](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]

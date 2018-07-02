@@ -535,7 +535,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [ConvNetJS ★9154](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 * [DN2A ★456](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
 * [Brain.js ★8032](https://github.com/harthur/brain) - Neural networks in JavaScript.
-* [Mind.js ★1307](https://github.com/stevenmiller888/mind) - A flexible neural network library.
+* [Mind.js ★1307 ⏳1Y](https://github.com/stevenmiller888/mind) - A flexible neural network library.
 * [Synaptic.js ★6166](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
 * [deeplearn.js](https://deeplearnjs.org/) - A hardware-accelerated machine intelligence library for the web.
 

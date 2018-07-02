@@ -741,7 +741,7 @@ These are applications or bits of code that make development in Common Lisp easi
 * [quicksearch ★22 ⏳4Y](https://github.com/tkych/quicksearch) - Look up online libraries from the REPL. [Expat][14].
 * [SWIG](http://www.swig.org/) - A tool for generating FFI code from C/C++ header files. [GNU GPL3][2].
 * [cl-project ★104](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL][8].
-* [lake ★41](https://github.com/takagi/lake) - a GNU make like build utility. [MIT][200].
+* [lake ★41 ⏳1Y](https://github.com/takagi/lake) - a GNU make like build utility. [MIT][200].
 
 
 Unit Testing
