@@ -91,6 +91,7 @@ title: Awesome Rank for ooade/awesome-preact
 - [Preact Async Route ★105](https://github.com/prateekbh/preact-async-route) - Async route component for preact-router.
 - [MU Forms ★44](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for P(r)eact.
 - [Pimg ★56](https://github.com/ooade/pimg) - Progressive Image Component; Used for lazy loading images.
+- [Preact Component Console ★15](https://github.com/haensl/preact-component-console) - Console Emulator. Simulates typing via dynamic delays.
 
 ### Libraries
 - [Redux Zero ★1561](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.

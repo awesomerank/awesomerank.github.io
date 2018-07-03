@@ -134,7 +134,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * [`String.prototype.endsWith` ★22 ⏳3Y](https://github.com/mathiasbynens/String.prototype.endsWith)
 * [`String.prototype.at` ★41 ⏳3Y](https://github.com/mathiasbynens/String.prototype.at)
 * [`String.prototype.repeat` ★25 ⏳2Y](https://github.com/mathiasbynens/String.prototype.repeat)
-* [`String.prototype.includes` ★62 ⏳2Y](https://github.com/mathiasbynens/String.prototype.includes)
+* [`String.prototype.includes` ★62 ⏳3Y](https://github.com/mathiasbynens/String.prototype.includes)
 * [`String.prototype.codePointAt` ★38](https://github.com/mathiasbynens/String.prototype.codePointAt)
 * [`String.fromCodePoint` ★45 ⏳3Y](https://github.com/mathiasbynens/String.fromCodePoint)
 * [`Array.prototype.find` ★35 ⏳1Y](https://github.com/paulmillr/Array.prototype.find)

@@ -300,7 +300,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Bittorrent
 *Sharing is caring with Elixir*
 
-* [bento ★40](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+* [bento ★40 ⏳1Y](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 * [tracker_request ★9 ⏳3Y](https://github.com/alehander42/tracker_request) - Dealing with bittorrent tracker requests and responses.
 * [wire ★10 ⏳2Y](https://github.com/alehander42/wire) - Encode and decode bittorrent peer wire protocol messages with Elixir.
 
@@ -694,7 +694,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [plug_checkup ★43](https://github.com/ggpasqualino/plug_checkup) - Plug for adding simple health checks to your app.
 * [plug_cloudflare ★13](https://github.com/c-rack/plug_cloudflare) - Inspired by mod_cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote_ip field.
 * [plug_forward_peer](https://github.com/awetzel/plug_forwarded_peer) - Very simple plug which reads X-Forwarded-For or Forwarded header according to RFC7239 and fill conn.remote_ip with the root client ip.
-* [plug_fprof ★2 ⏳2Y](https://github.com/obmarg/plug_fprof) - A Plug that adds fprof tracing to requests, to allow for easy profiling.
+* [plug_fprof ★2 ⏳3Y](https://github.com/obmarg/plug_fprof) - A Plug that adds fprof tracing to requests, to allow for easy profiling.
 * [plug_graphql ★122 ⏳1Y](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
 * [plug_heartbeat ★15 ⏳2Y](https://github.com/whatyouhide/plug_heartbeat) - A plug for responding to heartbeat requests.
 * [plug_jwt ★34 ⏳2Y](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
@@ -1077,7 +1077,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ecto_mnesia ★118](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
 * [ecto_ordered ★27](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
 * [ecto_paging ★12](https://github.com/Nebo15/ecto_paging) - Cursor-based pagination for Ecto.
-* [ecto_rut ★75](https://github.com/sheharyarn/ecto_rut) - Simple and Powerful Ecto Shortcuts to simplify and speed up development.
+* [ecto_rut ★75 ⏳1Y](https://github.com/sheharyarn/ecto_rut) - Simple and Powerful Ecto Shortcuts to simplify and speed up development.
 * [ecto_shortcuts ★23 ⏳1Y](https://github.com/MishaConway/ecto_shortcuts) - Shortcuts for common operations in ecto.
 * [ecto_validation_case ★7 ⏳2Y](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
 * [ectophile ★32 ⏳2Y](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
@@ -1277,7 +1277,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Testing
 *Libraries for testing codebases and generating test data.*
 
-* [amrita ★205](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
+* [amrita ★205 ⏳1Y](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
 * [apocryphal ★13 ⏳1Y](https://github.com/coryodaniel/apocryphal) - Swagger based document driven development for ExUnit.
 * [blacksmith ★152 ⏳1Y](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 * [blitzy ★71](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
@@ -1494,7 +1494,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [pay ★20](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
 * [peatio_client](https://github.com/peatio/peatio-client-elixir) - Peatio exchange project compatible API for Elixir.
 * [pigeon ★289](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
-* [pocketex ★4 ⏳2Y](https://github.com/essenciary/pocketex) - Pocketex is an Elixir client for the Pocket read later service [getpocket.com](https://getpocket.com/).
+* [pocketex ★4 ⏳3Y](https://github.com/essenciary/pocketex) - Pocketex is an Elixir client for the Pocket read later service [getpocket.com](https://getpocket.com/).
 * [pusher ★10](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
 * [qiita_ex ★6 ⏳3Y](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
 * [qiniu ★56](https://github.com/tony612/qiniu) - Qiniu SDK for Elixir.

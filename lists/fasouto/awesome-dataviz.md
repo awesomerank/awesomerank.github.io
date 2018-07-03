@@ -31,6 +31,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 	- [Python tools](#python-tools)
 	- [R tools](#r-tools)
 	- [Ruby tools](#ruby-tools)
+	- [Markup-based tools](#markup-based-tools)
 	- [Other tools](#other-tools)
 - [Resources](#resources)
 	- [Books](#books)
@@ -50,6 +51,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [Dygraphs](http://dygraphs.com/) - Interactive line charts library that works with huge datasets.
 - [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper ★1297](https://github.com/hustcc/echarts-for-react)
 - [Epoch ★4938](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
+- [Highcharts ★7742](https://github.com/highcharts/highcharts) - Highcharts makes it easy for developers to set up interactive charts in their web pages.
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - Optimized for time-series data.
 - [NVD3 ★6548](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
 - [Plotly.js ★8356](https://github.com/plotly/plotly.js) - Powerful declarative library with support for 20 chart types.
@@ -66,7 +68,6 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [Cesium ★3270](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
 - [DataMaps ★2829](https://github.com/markmarkoh/datamaps) - Interactive SVG maps using D3.js.
 - [Leaflet](http://leafletjs.com) - JavaScript library for mobile-friendly interactive maps.
-- [Leaflet Data Visualization Framework ★542](https://github.com/humangeo/leaflet-dvf)  - A framework designed to simplify data visualization and thematic mapping using Leaflet.
 - [Mapael ★870](https://github.com/neveldo/jQuery-Mapael) - jQuery plugin based on raphael.js to display vector maps.
 
 
@@ -78,6 +79,8 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [Recharts ★9226](https://github.com/recharts/recharts) - Declarative react components to render D3 charts.
 - [Victory](https://formidable.com/open-source/victory/) - Composable components for building interactive data visualizations
 - [nivo ★2521](https://github.com/plouc/nivo) - Supercharged dataviz components for React with isomorphic ability, [demo](http://nivo.rocks).
+- [Number Picture](http://numberpicture.com/build) - Low-level building blocks for constructing animated visualizations with React & D3.
+- [React Svg Textures ★12](https://github.com/finnfiddle/react-svg-textures) - Textures.js ported to React. Fully isomorphic.
 
 ### Misc
 - [Piecon ★2351 ⏳2Y](https://github.com/lipka/piecon) - Pie charts in your favicon.
@@ -116,6 +119,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [ggplot ★3333](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
 - [glumpy ★429](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 - [holoviews](http://holoviews.org/) - Complex and declarative visualizations from annotated data.
+- [mayai](http://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
 - [matplotlib](http://matplotlib.org/) - 2D plotting library.
 - [missingno ★967](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
 - [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js ★8356](https://github.com/plotly/plotly.js)
@@ -124,6 +128,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [toyplot](http://toyplot.readthedocs.io/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.
 - [veusz](https://veusz.github.io/) - Python multiplatform GUI plotting tool and graphing library
 - [VisPy](http://vispy.org/) - High-performance scientific visualization based on OpenGL.
+- [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 
 ## R tools
 - [ggplot2](http://ggplot2.org/) - A plotting system based on the grammar of graphics.
@@ -138,6 +143,12 @@ A curated list of awesome data visualizations frameworks, libraries and software
 ## Ruby tools
 - [Chartkick ★4811](https://github.com/ankane/chartkick) - Create charts with one line of Ruby.
 
+## Markup-based tools
+- [mermaidjs](https://mermaidjs.github.io/mermaid-live-editor) - A simple markdown-like script language for generating charts from text via javascript
+- [viz-js.com](http://viz-js.com/) - A hack to put [Graphviz](http://www.graphviz.org/) on the web
+- [wavedrom.com](http://wavedrom.com/) - Draws your Timing Diagram or Waveform from simple textual description
+- [websequencediagrams.com](https://www.websequencediagrams.com/) - Sequence diagrams using simple markup
+
 ## Other tools
 Tools that are not tied to a particular platform or language.
 - [Charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file.
@@ -146,7 +157,6 @@ Tools that are not tied to a particular platform or language.
 - [Lightning](http://lightning-viz.org/) - A data-visualization server providing API-based access to reproducible, web-based, interactive visualizations.
 - [RAW](http://rawgraphs.io) - Create web visualizations from CSV or Excel files.
 - [Spark ★5061](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).
-- [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.  Some data visualization examples are available in the [Composition Gallery](https://vuo.org/composition/?f%5B0%5D=im_field_vuo_feature_component%3A149).
 
 # Resources
 

@@ -453,7 +453,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [stats ★14](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
 
 ## Search
- * [hermes ★14](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
+ * [hermes ★14 ⏳1Y](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
  * [query-builder ★36](https://github.com/izniburak/query-builder) - Sql Query Builder library
  * [query.cr ★10 ⏳1Y](https://github.com/waterlink/query.cr) - Query abstraction
  * [soegen ★15](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby

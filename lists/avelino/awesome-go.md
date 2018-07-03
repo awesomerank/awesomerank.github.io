@@ -855,7 +855,7 @@ See [go-hardware ★708](https://github.com/rakyll/go-hardware) for a comprehens
 * [goid ★12 ⏳1Y](https://github.com/jakehl/goid) - Generate and Parse RFC4122 compliant V4 UUIDs.
 * [gopsutil ★2706](https://github.com/shirou/gopsutil) - Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc).
 * [gosh ★7](https://github.com/osamingo/gosh) - Provide Go Statistics Handler, Struct, Measure Method.
-* [gosms ★1132](https://github.com/haxpax/gosms) - Your own local SMS gateway in Go that can be used to send SMS.
+* [gosms ★1132 ⏳1Y](https://github.com/haxpax/gosms) - Your own local SMS gateway in Go that can be used to send SMS.
 * [gountries ★166](https://github.com/pariz/gountries) - Package that exposes country and subdivision data.
 * [hanu ★58 ⏳1Y](https://github.com/sbstjn/hanu) - Framework for writing Slack bots.
 * [health ★292](https://github.com/dimiro1/health) - Easy to use, extensible health check library.

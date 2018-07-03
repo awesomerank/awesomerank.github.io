@@ -57,7 +57,7 @@ under the hood:
 - [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo ★39 ⏳1Y](https://github.com/shuhei/todomvc-choo))
 - [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - ([repo](https://github.com/mw222rs/choo-firebase))
 - [Grow](https://grow.static.land) - ([repo ★15 ⏳2Y](https://github.com/sethvincent/grow))
-- [Chatbot](http://chootbot.herokuapp.com) - ([repo ★1 ⏳1Y](https://github.com/plaey/chatbot))
+- [Chatbot](http://chootbot.herokuapp.com) - ([repo ★1 ⏳2Y](https://github.com/plaey/chatbot))
 - [chat-random ★4 ⏳1Y](https://github.com/akiva/chat-random)
 - [choo-leaflet-demo ★16 ⏳1Y](https://github.com/timwis/choo-leaflet-demo)
 - [choo-scriber](https://zhouhansen.github.io/choo-scriber) - ([repo ★4](https://github.com/ZhouHansen/choo-scriber))

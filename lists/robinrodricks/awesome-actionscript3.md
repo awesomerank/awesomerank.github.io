@@ -210,7 +210,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Degrafa](https://github.com/lancejpollard/degrafa) - Powerful declarative graphics framework for Flex.
 * [Axiis](https://github.com/hgupta9/AxiisCharts) - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts.
 * [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - Line charts, Area charts, Bar charts, Pie charts, Scatter charts.
-* [Flare ★306 ⏳5Y](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
+* [Flare ★306 ⏳6Y](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
 * [clearmaps ★64 ⏳8Y](https://github.com/sunlightlabs/clearmaps) - Mapping framework for data visualization.
 * [redada ★3 ⏳6Y](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files.
 * [Flextreemap ★20 ⏳3Y](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex.
@@ -478,7 +478,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [GroupP2P ★2 ⏳7Y](https://github.com/oohazard/GroupP2P) - P2P-based netgroup.
 * [HLS-P2P ★73 ⏳2Y](https://github.com/lava-tech/hls-p2p) - Flash OSMF based hybrid cdn&p2p hls solution.
 * [P2Pmessaging ★1 ⏳6Y](https://github.com/dreamsocket/actionscript-p2p_messaging) - Simple messaging framework for doing P2P in Flash.
-* [ArcusNode ★177](https://github.com/OpenRTMFP/ArcusNode) - RTMFP Rendevouz Service For Peer Assisted Networking With Adobe Flash on Node JS.
+* [ArcusNode ★177 ⏳1Y](https://github.com/OpenRTMFP/ArcusNode) - RTMFP Rendevouz Service For Peer Assisted Networking With Adobe Flash on Node JS.
 
 #### Sockets
 

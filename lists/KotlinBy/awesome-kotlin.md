@@ -385,7 +385,7 @@ Here awesome badge for your project:
 * [mariomac/kaconf ★30](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
 * [config4k/config4k ★39](https://github.com/config4k/config4k) - A Kotlin wrapper for Typesafe Config
 * [jdiazcano/cfg4k ★39](https://github.com/jdiazcano/cfg4k) - Flexible and easy to use config library written in kotlin.
-* [daviddenton/configur8 ★7](https://github.com/daviddenton/configur8) - A Kotlin port of Configur8 - A Type Safe Configuration API for Kotlin, extendable to user-defined types.
+* [daviddenton/configur8 ★7 ⏳1Y](https://github.com/daviddenton/configur8) - A Kotlin port of Configur8 - A Type Safe Configuration API for Kotlin, extendable to user-defined types.
 * [ufoscout/properlty ★8](https://github.com/ufoscout/properlty) - Simple configuration library with placeholders resolution and zero magic!
 * [uchuhimo/konf ★30](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
 

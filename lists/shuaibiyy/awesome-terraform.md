@@ -72,7 +72,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tf_aws_bastion_s3_keys ★106](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2.
 * [terraform-static-website-s3-cloudfront ★35 ⏳1Y](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables.
 * [tf_aws_vpc_only ★4](https://github.com/terraform-community-modules/tf_aws_vpc_only) - Provides only VPC (without subnets) in AWS.
-* [tf_aws_asg_elb ★24](https://github.com/terraform-community-modules/tf_aws_asg_elb) - Creates Auto-Scaling Groups and Launch Configurations for use with an Elastic Load Balancer.
+* [tf_aws_asg_elb ★24 ⏳1Y](https://github.com/terraform-community-modules/tf_aws_asg_elb) - Creates Auto-Scaling Groups and Launch Configurations for use with an Elastic Load Balancer.
 * [tf_aws_availability_zones_cfn ★4 ⏳1Y](https://github.com/terraform-community-modules/tf_aws_availability_zones_cfn) - Gets availability zones for your AWS region/account from Cloudformation.
 * [tf_aws_ubuntu_ami ★55 ⏳1Y](https://github.com/terraform-community-modules/tf_aws_ubuntu_ami) - Easy way to lookup Ubuntu AMIs with Terraform.
 * [tf_aws_sg ★65](https://github.com/terraform-community-modules/tf_aws_sg) - Collection of common security group settings.

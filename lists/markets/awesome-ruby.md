@@ -189,7 +189,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Autoprefixer ★1105](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
 * [Bourbon ★8633](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set.
 * [bower-rails ★1515 ⏳1Y](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
-* [Emoji ★423 ⏳1Y](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
+* [Emoji ★423 ⏳2Y](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 * [Less Rails ★346](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * [Less ★114 ⏳1Y](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
 * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
@@ -1100,7 +1100,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Cucumber ★1964](https://github.com/cucumber/cucumber) - BDD that talks to domain experts first and code second.
   * [Cutest ★145 ⏳1Y](https://github.com/djanowski/cutest) - Isolated tests in Ruby.
   * [Howitzer ★163](https://github.com/strongqa/howitzer) - Ruby based framework for acceptance testing
-  * [Konacha ★1076](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
+  * [Konacha ★1076 ⏳1Y](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
   * [minitest ★2433](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
   * [RR ★252](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax.
   * [shoulda-matchers ★2323](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.

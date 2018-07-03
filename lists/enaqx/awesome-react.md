@@ -1203,7 +1203,7 @@ A collection of awesome things regarding React ecosystem.
 ---
 ### Example Apps
 * [isomorphic500 - Isomorphic JS app built with React and Fluxible ★1351 ⏳2Y](https://github.com/gpbl/isomorphic500)
-* [fil -  A playground for in-browser interpreters (Redux) ★845](https://github.com/fatiherikli/fil)
+* [fil -  A playground for in-browser interpreters (Redux) ★845 ⏳1Y](https://github.com/fatiherikli/fil)
 * [sound-redux - A Soundcloud client built with React / Redux ★4235](https://github.com/andrewngu/sound-redux)
 * [react-pomodoro - A Pomodoro timer for developers ★286](https://github.com/afonsopacifer/react-pomodoro)
 * [Do - Notes management application built with React and Redux ★245 ⏳1Y](https://github.com/1ven/do)

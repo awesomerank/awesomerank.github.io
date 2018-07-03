@@ -41,7 +41,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [Wiki](https://cmake.org/Wiki/CMake)
 * [Webinars](https://cmake.org/webinars/)
 * [CGold ★114](https://github.com/ruslo/CGold) - The Hitchhiker’s [Guide](https://cgold.readthedocs.io) to the CMake. [```[BSD2]```][BSD-2-Clause]
-* [Modern CMake](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp ★279](https://github.com/toeb/cmakepp). [```[MIT]```][MIT]
+* [Modern CMake](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp ★279 ⏳1Y](https://github.com/toeb/cmakepp). [```[MIT]```][MIT]
 * [Article - Easily supporting CMake install and find_package()](http://foonathan.net/blog/2016/03/03/cmake-install.html).
 * [Article - Easy dependency management for C++ with CMake and Git](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html).
 * [Article - Opt-in header-only libraries with CMake](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/).
@@ -98,7 +98,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 
 * [cotire ★777](https://github.com/sakra/cotire) - Cotire (compile time reducer) is a CMake module that speeds up the build process of CMake based build systems by fully automating techniques as precompiled headers and unity builds for C and C++. [```[MIT]```][MIT]
 * [ucm ★99 ⏳1Y](https://github.com/onqtam/ucm) - For managing compiler/linker flags, collecting sources, precompiled headers, unity builds and others. [```[MIT]```][MIT]
-* [cmakepp ★279](https://github.com/toeb/cmakepp) - Enhancement Suite for the CMake Build System. [```[MIT]```][MIT]
+* [cmakepp ★279 ⏳1Y](https://github.com/toeb/cmakepp) - Enhancement Suite for the CMake Build System. [```[MIT]```][MIT]
 * [sugar ★78](https://github.com/ruslo/sugar) - CMake tools and examples: collecting source files, warnings suppression, etc. [```[BSD2]```][BSD-2-Clause]
 * [DownloadProject ★205 ⏳1Y](https://github.com/Crascit/DownloadProject) - CMake module for downloading an external project's source at configure time. [```[MIT]```][MIT]
 * [buildem ★25 ⏳1Y](https://github.com/janelia-flyem/buildem) - Modular CMake-based system that leverages ExternalProject to simplify builds. [```[LICENSE]```](https://github.com/janelia-flyem/buildem/blob/master/LICENSE.txt)

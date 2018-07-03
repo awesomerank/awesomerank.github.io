@@ -89,7 +89,7 @@ Table of contents:
 * [BeelabTestBundle ★10](https://github.com/Bee-Lab/BeelabTestBundle) - This bundle contains just an opinionated extension of Symfony WebTestCase.
 * [CacheAdministrationBundle ★18 ⏳1Y](https://github.com/yamiko-ninja/CacheAdministrationBundle) - This bundle includes a controller with actions to clear the various caches.
 * [ControllerExtraBundle ★160](https://github.com/mmoreram/ControllerExtraBundle) - Set of useful Controller annotations.
-* [DunglasActionBundle ★280](https://github.com/dunglas/DunglasActionBundle) - A replacement for the Symfony controller system based on the Action-Domain-Responder pattern.
+* [DunglasActionBundle ★280 ⏳1Y](https://github.com/dunglas/DunglasActionBundle) - A replacement for the Symfony controller system based on the Action-Domain-Responder pattern.
 * [http-bundle ★39](https://github.com/iltar/http-bundle) - Provides extra HTTP related functionality.
 * [JMSDebuggingBundle](http://jmsyst.com/bundles/JMSDebuggingBundle) - Provides advanced debugging tools.
 * [LadybugBundle ★340](https://github.com/raulfraile/LadybugBundle) - The Simple and Extensible PHP Dumper.
@@ -260,7 +260,7 @@ Table of contents:
 * [LeezyPheanstalkBundle ★110](https://github.com/armetiz/LeezyPheanstalkBundle) - Bundle for Pheanstalk, PHP client for beanstalkd queue.
 * [qpush-bundle](http://qpush-bundle.readthedocs.org/en/latest/) - The QPush Bundle relies on the Push Queue model of Message Queues to provide asynchronous processing in your application.
 * [RabbitMqBundle ★26](https://github.com/videlalvaro/RabbitMqBundle) - RabbitMQ bundle.
-* [RSQueueBundle ★53](https://github.com/mmoreram/RSQueueBundle) - Queues infrastructure based on Redis, with Producer-Consumer and Publisher-Subscriber
+* [RSQueueBundle ★53 ⏳1Y](https://github.com/mmoreram/RSQueueBundle) - Queues infrastructure based on Redis, with Producer-Consumer and Publisher-Subscriber
 
 ## Reading
 

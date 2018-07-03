@@ -381,6 +381,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/developing-a-single-page-app-with-flask-and-vuejs)
 - [Accepting Payments with Stripe, Vue.js, and Flask](https://testdriven.io/accepting-payments-with-stripe-vuejs-and-flask)
 - [API Driven Development With Laravel and VueJS (Free Course)](https://serversideup.net/courses/api-driven-development-laravel-vuejs/) on serversideup.net
+- [Managing State in Vue.js](https://medium.com/fullstackio/managing-state-in-vue-js-23a0352b1c87) by Hassan Djirdeh, [@djirdehh](https://twitter.com/djirdehh)
 
 ### Examples
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
@@ -1280,7 +1281,7 @@ Tooltips / popovers
  - [vue-multiselect](https://github.com/monterail/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js.
   - [stf-vue-select ★46](https://github.com/stfalcon-studio/stf-vue-select) - most flexible and customized select Vue2
  - [vue-select-image ★42](https://github.com/mazipan/vue-select-image) - Vue 2 Component for selecting image from list
- - [@riophae/vue-treeselect ★289](https://github.com/riophae/vue-treeselect) - A multi-select component with nested options for Vue.js
+ - [@riophae/vue-treeselect ★289](https://github.com/riophae/vue-treeselect) - A multi-select component with nested options support for Vue.js.
  - [@k186/pd-select ★63](https://github.com/k186/pd-select) - A mobile UI component like IOS picker for Vue 2.x,can be wheel pick what ever you defined.
  - [vue-dropdowns ★11](https://github.com/mikerodham/vue-dropdowns) - A minimalistic and adaptable way to display select boxes if using objects for vue2.x
  - [v-cascade ★7](https://github.com/zanseven007/v-cascade) - A lovely component of cascade selector with Vue 2.x (Support both of PC and Mobile)

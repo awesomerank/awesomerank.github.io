@@ -593,7 +593,7 @@ This is a list of useful programs to help you write and debug C code which are *
 * [address-sanitizer ★2511](https://github.com/google/sanitizers) - Fast memory error detector. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache2.0)
 * [biicode](https://biicode.github.io/biicode/) - Modern dependency manager for C. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [c ★1594](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go on the command line. Also has shebang support. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [c99sh ★54](https://github.com/RhysU/c99sh) - Run C files using hash-bang. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
+* [c99sh ★54 ⏳1Y](https://github.com/RhysU/c99sh) - Run C files using hash-bang. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [CBMC](http://www.cprover.org/cbmc/) - C Bounded Model Checker; a tool for verification of array bounds, pointer safety and user-specified assertions. [`Original BSD`](https://directory.fsf.org/wiki/License:BSD_4Clause)
 * [cdecl](https://cdecl.org/) - Online service to translate C declarations into English and vice versa. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 * [cinclude2dot](https://www.flourish.org/cinclude2dot/) - Graphs include dependencies in a C project using Graphviz. [`Any GNU GPL version (due to underspecification in the file)`](https://directory.fsf.org/wiki/Cinclude2dot#tab=Details)

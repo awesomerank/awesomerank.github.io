@@ -1019,7 +1019,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [pbnh ★9](https://github.com/bhanderson/pbnh) - Pastebin inspired from project pb and hastebin, with an API and a SQL-based backend. `MIT` `Python`
 - [Phaste](https://pste.pw) - Phalcon-based, MySQL pastebin application with privacy-respecting Piwik integration and syntax highlighting. ([Source Code ★6 ⏳2Y](https://github.com/FoxDev/Phaste)) `AGPL-3.0` `PHP`
 - [PrivateBin](https://privatebin.info/) - PrivateBin is a minimalist, opensource online pastebin/discussion board where the server has zero knowledge of hosted data. ([Demo](https://privatebin.net/), [Source Code ★888](https://github.com/PrivateBin/PrivateBin)) `Zlib` `PHP`
-- [SharpPaste ★17](https://github.com/phonicmouse/SharpPaste) - Cross-platform C# pastebin with client-side AES-256 encryption that just works. ([Demo](https://sharppaste.nl/)) `MIT` `C#/ASP.NET`
+- [SharpPaste ★17](https://github.com/phonicmouse/SharpPaste) - Cross-platform C# pastebin with client-side AES-256 encryption that just works. ([Demo](https://sharppaste.nl/)) `MIT` `C#/NancyFX`
 - [snipt](https://snipt.net/) - Long-term memory for coders. Share and store code snippets. ([Source Code ★277](https://github.com/nicksergeant/snipt)) `BSD` `Python`
 - [Stikked ★676](https://github.com/claudehohl/Stikked) - Advanced and beautiful pastebin. ([Demo](https://paste.scratchbook.ch/)) `GPL-3.0` `PHP`
 - [Sup3rS3cretMes5age ★175](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
@@ -1234,7 +1234,6 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 - [Crepido ★104 ⏳1Y](https://github.com/arshad/crepido) - Create (kanban) boards to track users and projects from flat markdown files. `MIT` `Nodejs`
 - [Kanboard](http://kanboard.net/) - Simple and open source visual task board. ([Source Code ★3541](https://github.com/kanboard/kanboard)) `MIT` `PHP`
-- [Wheatbin](http://wheatbin.com/) - Project management software that combines Kanban methodology with the Law of the Harvest. ([Source Code ★100 ⏳1Y](https://github.com/wheatbin/wheatbin)) `MIT` `PHP`
 - [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. ([Demo](http://www.mytinytodo.net/demo/), [Source Code](https://bitbucket.org/maxpozdeev/mytinytodo)) `GPL-2.0` `PHP`
 - [omgnata](https://github.com/chr15m/omgnata) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://chr15m.github.io/omgnata/)) `GPL-3.0` `ClojureScript`
 - [PHP Task/Todo list ★7 ⏳2Y](https://github.com/lgg/tasks.php) - Simple task/todo list that uses a JSON text file for the tasks. `MIT` `PHP`
@@ -1251,6 +1250,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 - [Tracks](http://www.getontracks.org/) - Web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology. ([Source Code ★871](https://github.com/TracksApp/tracks)) `GPL-2.0` `Ruby`
 - [Volition](https://www.usevolition.com) - Opinionated open-source task management. ([Demo](https://www.usevolition.com/today/new?guest=true), [Source Code ★3](https://github.com/garrettqmartin8/volition)) `MIT` `Ruby`
 - [Wekan](https://wekan.github.io/) - Open-source Trello-like kanban. ([Demo](https://oasis.sandstorm.io/appdemo/m86q05rdvj14yvn78ghaxynqz7u2svw6rnttptxx49g1785cdv1h), [Source Code ★12873](https://github.com/wekan/wekan)) `MIT` `Nodejs`
+- [Wheatbin](http://wheatbin.com/) - Project management software that combines Kanban methodology with the Law of the Harvest. ([Source Code ★100 ⏳1Y](https://github.com/wheatbin/wheatbin)) `MIT` `PHP`
 
 ## Ticketing
 

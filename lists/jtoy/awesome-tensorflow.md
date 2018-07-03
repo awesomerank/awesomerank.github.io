@@ -69,7 +69,7 @@ More info [here](http://tensorflow.org).
 * [Neural Style ★3875](https://github.com/anishathalye/neural-style) - An implementation of neural style
 * [AlexNet3D ★31](https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).
 * [TensorFlow White Paper Notes ★403](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
-* [NeuralArt ★421](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
+* [NeuralArt ★421 ⏳1Y](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
 * [Deep-Q learning Pong with TensorFlow and PyGame](http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html)
 * [Generative Handwriting Demo using TensorFlow ★540](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
 * [Neural Turing Machine in TensorFlow ★840 ⏳1Y](https://github.com/carpedm20/NTM-tensorflow) - implementation of Neural Turing Machine
