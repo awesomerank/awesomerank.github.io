@@ -1136,7 +1136,7 @@ Inspired by [awesome-php ★19087](https://github.com/ziadoz/awesome-php).
     * [pangu.py ★77](https://github.com/vinta/pangu.py) - Spacing texts for CJK and alphanumerics.
     * [pyfiglet ★288](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
     * [pypinyin ★1064](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi to pinyin.
-    * [shortuuid ★904](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
+    * [shortuuid ★904 ⏳1Y](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
     * [textdistance ★1189](https://github.com/orsinium/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
     * [unidecode](https://pypi.python.org/pypi/Unidecode) - ASCII transliterations of Unicode text.
     * [uniout ★146](https://github.com/moskytw/uniout) - Print readable chars instead of the escaped string.

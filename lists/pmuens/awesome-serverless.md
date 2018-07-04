@@ -1104,6 +1104,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Building a serverless multi-region backend solution](https://read.acloud.guru/adding-support-for-vpc-build-a-serverless-multi-region-active-active-backend-solution-d80d25157688) - How to build a serverless multi-region backend solution within a VPC.
 - [Architect serverless framework](https://blog.reifyworks.com/architect-the-killer-serverless-framework-41565372811b) - Post about the Architect serverless framework.
 - [I just launched a serverless website in 15 minutes](https://hackernoon.com/i-just-launched-a-serverless-website-in-15-minutes-8e399c827fef) - How to create a serverless website with the help of the Serverless Framework.
+- [How to manage RDS connections from AWS Lambda](https://www.jeremydaly.com/manage-rds-connections-aws-lambda/) - Strategies on how to manage RDS connections in serverless applications.
 
 ## Screencasts
 
@@ -1852,7 +1853,7 @@ title: Awesome Rank for pmuens/awesome-serverless
 - [Hooks ★12 ⏳1Y](https://github.com/uswitch/serverless-hooks-plugin) - Run arbitrary commands pre-deploy in Serverless.
 - [GS enable API logs](https://www.npmjs.com/package/serverless-gs-enable-api-logs) - Enables CoudWatch logging for API Gateway events.
 - [Enable API logs ★9](https://github.com/paulSambolin/serverless-enable-api-logs) - Enables CoudWatch logs for API Gateway events.
-- [Git variables ★22](https://github.com/jacob-meacham/serverless-plugin-git-variables) - Expose git variables to Serverless.
+- [Git variables ★22 ⏳1Y](https://github.com/jacob-meacham/serverless-plugin-git-variables) - Expose git variables to Serverless.
 - [Dynalite ★7](https://github.com/sdd/serverless-dynalite) - Run dynalite locally (no JVM, all JS) to simulate DynamoDB.
 - [TypeScript](https://github.com/graphcool/serverless-plugin-typescript) - Zero-config TypeScript support.
 - [APIG S3 ★22](https://github.com/sdd/serverless-apig-s3) - Automates the process of both configuring AWS to serve static front-end content and deploying your client-side bundle.

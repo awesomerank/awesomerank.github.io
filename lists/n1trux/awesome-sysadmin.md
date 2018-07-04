@@ -329,7 +329,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
 * [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
 * [ICEcoder](https://icecoder.net/) - Code editor awesomeness, built with common web languages.
-* [jotgit ★187 ⏳3Y](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
+* [jotgit ★187 ⏳4Y](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE.
 * [Light Table](http://lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text

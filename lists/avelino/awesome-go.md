@@ -1019,7 +1019,7 @@ See [go-hardware ★708](https://github.com/rakyll/go-hardware) for a comprehens
 * [gvt ★742](https://github.com/FiloSottile/gvt) - `gvt` is a simple vendoring tool made for Go native vendoring (aka GO15VENDOREXPERIMENT), based on gb-vendor.
 * [johnny-deps ★212 ⏳3Y](https://github.com/VividCortex/johnny-deps) - Minimal dependency version using Git.
 * [nut ★247 ⏳3Y](https://github.com/jingweno/nut) - Vendor Go dependencies.
-* [VenGO ★109 ⏳1Y](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments.
+* [VenGO ★109 ⏳2Y](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments.
 
 ## Query Language
 

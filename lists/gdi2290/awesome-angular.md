@@ -615,7 +615,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular Lab](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](http://www.typescriptlang.org), [Angular Flex Layout ★2756](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
 * [Angular2Go](https://github.com/johnpapa/angular-go) Angular 2 Go !
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
-* [Todo app with Firebase, OAuth, and Immutable ★495](https://github.com/r-park/todo-angular-firebase)
+* [Todo app with Firebase, OAuth, and Immutable ★495 ⏳1Y](https://github.com/r-park/todo-angular-firebase)
 * [Spring Boot and Angular2 tutorial ★153](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
 * [Angular 2 Goldilocks seed ★44 ⏳2Y](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
 * [Angular 2 Starter ★551](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI

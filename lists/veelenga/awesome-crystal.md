@@ -479,7 +479,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Testing
  * [coverage ★14](https://github.com/anykeyh/crystal-coverage) – Generate cover report for your crystal code
- * [crotest ★19 ⏳1Y](https://github.com/emancu/crotest) - A tiny and simple test framework
+ * [crotest ★19 ⏳2Y](https://github.com/emancu/crotest) - A tiny and simple test framework
  * [LuckyFlow ★23](https://github.com/luckyframework/lucky_flow) - Automated browser tests similar to Capybara
  * [mass-spec ★3](https://github.com/c910335/mass-spec) - Web API testing library
  * [microtest ★15](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts

@@ -114,7 +114,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Motion ★14](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.
 - [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.
 - [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
-- [Syncano ★5 ⏳1Y](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
+- [Syncano ★5 ⏳2Y](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
 - [UnityAds Sample ★8 ⏳1Y](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse.
 
 ## Plugins

@@ -292,7 +292,7 @@ Here awesome badge for your project:
 * [Ganet/rxaerospike ★6 ⏳1Y](https://github.com/Ganet/rxaerospike) - RxJava2 wrapper for aerospike-client-java.
 * [Raizlabs/DBFlow ★4270](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
 * [KotlinPorts/kt-postgresql-async](https://github.com/KotlinPorts/kt-postgresql-async) - Kotlin/Gradle port of mauricio's async driver for postgres/mysql.
-* [shyiko/levelkt ★8](https://github.com/shyiko/levelkt) - LevelDB client for Kotlin and/or Java 8+.
+* [shyiko/levelkt ★8 ⏳1Y](https://github.com/shyiko/levelkt) - LevelDB client for Kotlin and/or Java 8+.
 * [SubiyaCryolite/jds ★5](https://github.com/SubiyaCryolite/jds) - Jenesis Data Store: a dynamic, cross platform, high performance, ORM data-mapper. Designed to assist in rapid development and data mining.
 * [dizitart/potassium-nitrite](https://github.com/dizitart/nitrite-database/tree/master/potassium-nitrite) - Potassium Nitrite is a kotlin extension of nitrite database, an open source nosql embedded document store with mongodb like api.
 

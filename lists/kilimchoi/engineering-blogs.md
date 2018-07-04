@@ -94,7 +94,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Chartbeat http://engineering.chartbeat.com/
 * Chef https://blog.chef.io
 * Clever https://engineering.clever.com/
-* CleverTap https://blog.clevertap.com/category/engineering/
+* CleverTap https://clevertap.com/blog/tag/engineering/
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * CockroachDB https://www.cockroachlabs.com/blog/
@@ -142,7 +142,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Erlang Solutions https://www.erlang-solutions.com/blog.html
 * Etsy https://codeascraft.com/
 * Eventbrite https://www.eventbrite.com/engineering/
-* Evernote https://blog.evernote.com/tech/
+* Evernote https://evernote.com/blog/
 * Evil Martians https://evilmartians.com/chronicles/
 * Expedia https://techblog.expedia.com/
 
@@ -221,11 +221,11 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 
 #### J companies
 * Jane Street https://blogs.janestreet.com/category/ocaml/
+* Jet Technology https://tech.jet.com/
 * Jobandtalent https://jobandtalent.engineering/
 * JobTeaser https://medium.com/jobteaser-dev-team/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat https://tech.just-eat.com/
-* Jet Technology https://tech.jet.com/
 
 #### K companies
 * Khan Academy http://engineering.khanacademy.org

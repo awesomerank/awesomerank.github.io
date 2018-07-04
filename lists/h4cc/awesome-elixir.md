@@ -323,7 +323,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [reaxt](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 * [rebar3_abnfc_plugin ★1](https://github.com/surik/rebar3_abnfc_plugin) - Rebar3 abnfc compiler.
 * [rebar3_asn1_compiler ★0 ⏳2Y](https://github.com/pyykkis/rebar3_asn1_compiler) - Plugin for compiling ASN.1 modules with Rebar3.
-* [rebar3_auto ★32](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
+* [rebar3_auto ★32 ⏳1Y](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 * [rebar3_diameter_compiler ★1](https://github.com/carlosedp/rebar3_diameter_compiler) - Compile diameter .dia files in rebar3 projects.
 * [rebar3_eqc ★10 ⏳1Y](https://github.com/kellymclaughlin/rebar3-eqc-plugin) - A rebar3 plugin to enable the execution of Erlang QuickCheck properties.
 * [rebar3_exunit ★0 ⏳2Y](https://github.com/processone/rebar3_exunit) - A plugin to run Elixir ExUnit tests from rebar3 build tool.
@@ -837,7 +837,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [imagineer ★87](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
 * [imgex ★21](https://github.com/ianwalter/imgex) - Unofficial client library for generating imgix URLs in Elixir.
 * [mogrify ★256](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
-* [png ★16 ⏳2Y](https://github.com/yuce/png) - A pure Erlang library for creating PNG images. It can currently create 8 and 16 bit RGB, RGB with alpha, indexed, grayscale and grayscale with alpha images.
+* [png ★16 ⏳3Y](https://github.com/yuce/png) - A pure Erlang library for creating PNG images. It can currently create 8 and 16 bit RGB, RGB with alpha, indexed, grayscale and grayscale with alpha images.
 * [thumbnex ★20](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
 
 ## Instrumenting / Monitoring
@@ -1505,7 +1505,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [redtube ★7 ⏳3Y](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
 * [reporter ★4](https://github.com/KazuCocoa/simple_app_reporter_ex) - Reporter is simple reporting App reviews library. Support AppStore and GooglePlay.
 * [riemann ★44](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
-* [semver ★2 ⏳2Y](https://github.com/lee-dohm/semver) - Utilities for working with semver.org-compliant version strings.
+* [semver ★2 ⏳3Y](https://github.com/lee-dohm/semver) - Utilities for working with semver.org-compliant version strings.
 * [sendgrid ★38](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
 * [shopify ★24](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
 * [sift_ex ★13 ⏳1Y](https://github.com/C404/sift_ex) - A Siftscience API Library for Elixir.

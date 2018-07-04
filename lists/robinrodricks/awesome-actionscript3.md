@@ -513,7 +513,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Artificial Intelligence
 
 * [FiniteStateMachine ★3 ⏳6Y](https://github.com/pzUH/FiniteStateMachine) - Finite State Machine for AI bot/agent.
-* [N-GramPredictor ★2 ⏳5Y](https://github.com/pzUH/N-GramPredictor) - n-Gram predictor for AI bot/agent.
+* [N-GramPredictor ★2 ⏳6Y](https://github.com/pzUH/N-GramPredictor) - n-Gram predictor for AI bot/agent.
 * [Naive-BayesPredictor ★2 ⏳6Y](https://github.com/pzUH/Naive-BayesPredictor) - Naive-Bayes predictor for AI bot/agent.
 * [HierarchicalStateMachine ★2 ⏳6Y](https://github.com/pzUH/HierarchicalStateMachine) - Hierarchical State Machine for AI bot/agent.
 * [Godmode-as3 ★28 ⏳4Y](https://github.com/tconkling/godmode-as3) - Behavior tree implementation (artificial intelligence).
@@ -536,7 +536,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Nexuslib ★8](https://github.com/nexussays/nexuslib-as3) - Reflection, serialization, seeded random number generation, cryptography, networking, and more.
 * [Hashlib ★1 ⏳2Y](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions.
 * [XXTEA-AS3 ★5 ⏳2Y](https://github.com/xxtea/xxtea-as3) - XXTEA encryption algorithm library for ActionScript 3.
-* [Gibberish-AES ★2 ⏳4Y](https://github.com/NordMike/gibberish-aes-as3) - A fully OpenSSL compliant ActionScript 3 library for AES encryption.
+* [Gibberish-AES ★2 ⏳5Y](https://github.com/NordMike/gibberish-aes-as3) - A fully OpenSSL compliant ActionScript 3 library for AES encryption.
 
 #### Data
 
@@ -595,7 +595,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [SongPicker ★28 ⏳2Y](https://github.com/richpixel/SongPickerANE) - A song picker/player ANE for iOS and Android.
 * [SilentSwitch ★38 ⏳1Y](https://github.com/StickSports/ANE-Silent-Switch) - ANE for iOS to mute sounds if the hardware silent switch is on.
 * [VolumePro ★2](https://github.com/myflashlab/VolumePro-ANE) - Control native music stream volume and you can listen to the volume changes.
-* [SystemVolume ★59 ⏳5Y](https://github.com/nweber/SystemVolumeNativeExtension) - Interact with the system volume for iOS and Android devices.
+* [SystemVolume ★59 ⏳6Y](https://github.com/nweber/SystemVolumeNativeExtension) - Interact with the system volume for iOS and Android devices.
 
 #### Multimedia ANE
 * [WebView (Tuarua) ★104](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android.

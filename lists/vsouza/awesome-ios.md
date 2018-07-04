@@ -1606,7 +1606,7 @@ Most of these are paid services, some have free tiers.
 * [SwCrypt ★455](https://github.com/soyersoyer/SwCrypt) - RSA public/private key generation, RSA, AES encryption/decryption, RSA sign/verify in Swift with CommonCrypto in iOS and macOS
 * [SwiftSSL ★188 ⏳2Y](https://github.com/SwiftP2P/SwiftSSL) - An Elegant crypto toolkit in Swift.
 * [SwiftyRSA ★506](https://github.com/TakeScoop/SwiftyRSA) - RSA public/private key encryption in Swift
-* [EnigmaKit ★101](https://github.com/mikaoj/EnigmaKit) - Enigma encryption in Swift
+* [EnigmaKit ★101 ⏳1Y](https://github.com/mikaoj/EnigmaKit) - Enigma encryption in Swift
 * [Themis ★536](https://github.com/cossacklabs/themis) - High-level crypto library, providing basic asymmetric encryption, secure messaging with forward secrecy and secure data storage, supports iOS/macOS, Android and different server side platforms.
 * [Obfuscator-iOS ★459 ⏳1Y](https://github.com/pjebs/Obfuscator-iOS) - Secure your app by obfuscating all the hard-coded security-sensitive strings.
 * [swift-sodium ★245](https://github.com/jedisct1/swift-sodium) - Safe and easy to use crypto for iOS

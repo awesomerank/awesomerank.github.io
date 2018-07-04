@@ -90,7 +90,8 @@ title: Awesome Rank for nikgraf/awesome-draft-js
 * [Draft.js Typeahead ★103](https://github.com/dooly-ai/draft-js-typeahead) - Support for typeahead functionality.
 * [Draft Extend ★69](https://github.com/HubSpot/draft-extend) - Build extensible Draft.js editors with configurable plugins and integrated serialization.
 * [Draft.js Code ★81](https://github.com/SamyPesse/draft-js-code) - A collection of low-level utilities for nicer code editing
-* [Draft.js Annotatable ★7](https://github.com/cltk/annotations) - Out of the box annotation system for Draft.js with support for user-created annotations.  
+* [Draft.js Annotatable ★7](https://github.com/cltk/annotations) - Out of the box annotation system for Draft.js with support for user-created annotations.
+* [Draft.js Regex ★18](https://github.com/YozhikM/draft-regex) - The set of flexible helpers, like regex, blank lines preventing and pasted HTML clearing.
 
 ## Common Utilities
 

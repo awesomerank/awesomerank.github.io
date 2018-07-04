@@ -770,7 +770,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Boilerplates
 
  * [html5-boilerplate ★40836](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
- * [mobile-boilerplate ★4026 ⏳2Y](https://github.com/h5bp/mobile-boilerplate) - A front-end template that helps you build fast, modern mobile web apps.
+ * [mobile-boilerplate ★4026 ⏳3Y](https://github.com/h5bp/mobile-boilerplate) - A front-end template that helps you build fast, modern mobile web apps.
  * [webplate ★578](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
  * [Cerberus ★2972](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
  * [full-page-intro-and-navigation ★34 ⏳3Y](https://github.com/CodyHouse/full-page-intro-and-navigation) - An intro page with a full width background image, a bold animated menu and an iOS-like blurred effect behind the navigation

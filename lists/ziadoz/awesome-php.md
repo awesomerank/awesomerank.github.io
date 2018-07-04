@@ -768,8 +768,8 @@ Libraries to help manage database schemas and migrations.
 ### PHP Installation
 *Tools to help install and manage PHP on your computer.*
 
-* [HomeBrew PHP ★2740](https://github.com/Homebrew/homebrew-php) - A PHP tap for HomeBrew.
 * [HomeBrew](https://brew.sh/) - A package manager for OSX.
+* [Brew PHP Switcher ★435](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
 * [PHP Brew ★3511](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
 * [PHP Build ★756](https://github.com/php-build/php-build) - Another PHP version installer.
 * [PHP OSX](https://php-osx.liip.ch/) - A PHP installer for OSX.
