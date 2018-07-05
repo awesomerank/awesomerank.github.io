@@ -79,513 +79,513 @@ title: Awesome Rank for sindresorhus/awesome
 
 ## Platforms
 
-- [Node.js ★24539](lists/sindresorhus/awesome-nodejs.md) - JavaScript runtime built on Chrome's V8 JavaScript engine.
-- [Frontend Development ★24378](lists/dypsilon/frontend-dev-bookmarks.md)
-- [iOS ★26249](lists/vsouza/awesome-ios.md) - Mobile operating system for Apple phones and tablets.
-- [Android ★5584](lists/JStumpp/awesome-android.md)
-- [IoT & Hybrid Apps ★321](lists/weblancaster/awesome-IoT-hybrid.md)
-- [Electron ★14766](lists/sindresorhus/awesome-electron.md) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-- [Cordova ★235](lists/busterc/awesome-cordova.md) - JavaScript API for hybrid apps.
-- [React Native ★19971](lists/jondot/awesome-react-native.md)
-- [Xamarin ★873](lists/benoitjadinon/awesome-xamarin.md) - Mobile app development IDE, testing, and distribution.
-- [Linux ★1326](lists/aleksandar-todorovic/awesome-linux.md)
-	- [Containers ★555](lists/Friz-zy/awesome-linux-containers.md)
-- [macOS ★7800](lists/iCHAIT/awesome-macOS.md)
-	- [Command-Line ★19342](lists/herrbischoff/awesome-macos-command-line.md)
-	- [Screensavers ★1029](lists/agarrharr/awesome-macos-screensavers.md)
-- [watchOS ★346](lists/yenchenlin/awesome-watchos.md) - Operating system for the Apple Watch.
-- [JVM ★855](lists/deephacks/awesome-jvm.md)
-- [Salesforce ★247](lists/mailtoharshit/awesome-salesforce.md)
-- [Amazon Web Services ★5693](lists/donnemartin/awesome-aws.md)
-- [Windows ★4466](lists/Awesome-Windows/Awesome.md)
-- [IPFS ★1449](lists/ipfs/awesome-ipfs.md) - P2P hypermedia protocol.
-- [Fuse ★283](lists/vinkla/awesome-fuse.md) - Mobile development tools.
-- [Heroku ★115](lists/ianstormtaylor/awesome-heroku.md) - Cloud platform as a service.
-- [Raspberry Pi ★3902](lists/thibmaek/awesome-raspberry-pi.md) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-- [Qt ★229](lists/JesseTG/awesome-qt.md) - Cross-platform GUI app framework.
-- [WebExtensions ★255](lists/bfred-it/Awesome-WebExtensions.md) - Cross-browser extension system.
-- [RubyMotion ★65](lists/motion-open-source/awesome-rubymotion.md) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
-- [Smart TV ★105](lists/vitalets/awesome-smart-tv.md) - Create apps for different TV platforms.
-- [GNOME ★210](lists/Kazhnuz/awesome-gnome.md) - Simple and distraction-free desktop environment for Linux.
-- [.NET ★6769](lists/quozd/awesome-dotnet.md)
-	- [Core ★5088](lists/thangchung/awesome-dotnet-core.md)
+- [Node.js ★24753](lists/sindresorhus/awesome-nodejs#readme.md) - JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Frontend Development ★24427](lists/dypsilon/frontend-dev-bookmarks#readme.md)
+- [iOS ★26438](lists/vsouza/awesome-ios#readme.md) - Mobile operating system for Apple phones and tablets.
+- [Android ★5634](lists/JStumpp/awesome-android#readme.md)
+- [IoT & Hybrid Apps ★321](lists/weblancaster/awesome-IoT-hybrid#readme.md)
+- [Electron ★14879](lists/sindresorhus/awesome-electron#readme.md) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+- [Cordova ★238](lists/busterc/awesome-cordova#readme.md) - JavaScript API for hybrid apps.
+- [React Native ★20202](lists/jondot/awesome-react-native#readme.md)
+- [Xamarin ★878](lists/benoitjadinon/awesome-xamarin#readme.md) - Mobile app development IDE, testing, and distribution.
+- [Linux ★1339](lists/aleksandar-todorovic/awesome-linux#readme.md)
+	- [Containers ★558](lists/Friz-zy/awesome-linux-containers#readme.md)
+- [macOS ★7826](lists/iCHAIT/awesome-macOS#readme.md)
+	- [Command-Line ★19390](lists/herrbischoff/awesome-macos-command-line#readme.md)
+	- [Screensavers ★1041](lists/agarrharr/awesome-macos-screensavers#readme.md)
+- [watchOS ★347](lists/yenchenlin/awesome-watchos#readme.md) - Operating system for the Apple Watch.
+- [JVM ★869](lists/deephacks/awesome-jvm#readme.md)
+- [Salesforce ★251](lists/mailtoharshit/awesome-salesforce#readme.md)
+- [Amazon Web Services ★5731](lists/donnemartin/awesome-aws#readme.md)
+- [Windows ★4618](lists/Awesome-Windows/Awesome#readme.md)
+- [IPFS ★1466](lists/ipfs/awesome-ipfs#readme.md) - P2P hypermedia protocol.
+- [Fuse ★283](lists/vinkla/awesome-fuse#readme.md) - Mobile development tools.
+- [Heroku ★116](lists/ianstormtaylor/awesome-heroku#readme.md) - Cloud platform as a service.
+- [Raspberry Pi ★3945](lists/thibmaek/awesome-raspberry-pi#readme.md) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
+- [Qt ★242](lists/JesseTG/awesome-qt#readme.md) - Cross-platform GUI app framework.
+- [WebExtensions ★255](lists/bfred-it/Awesome-WebExtensions#readme.md) - Cross-browser extension system.
+- [RubyMotion ★65](lists/motion-open-source/awesome-rubymotion#readme.md) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
+- [Smart TV ★105](lists/vitalets/awesome-smart-tv#readme.md) - Create apps for different TV platforms.
+- [GNOME ★210](lists/Kazhnuz/awesome-gnome#readme.md) - Simple and distraction-free desktop environment for Linux.
+- [.NET ★7034](lists/quozd/awesome-dotnet#readme.md)
+	- [Core ★5345](lists/thangchung/awesome-dotnet-core#readme.md)
 
 
 ## Programming Languages
 
-- [JavaScript ★14660](lists/sorrycc/awesome-javascript.md)
-	- [Promises ★1105](lists/wbinnssmith/awesome-promises.md)
-	- [Standard Style ★218](lists/standard/awesome-standard.md) - Style guide and linter.
-	- [Must Watch Talks ★11667](lists/bolshchikov/js-must-watch.md)
-	- [Tips ★10806](lists/loverajoel/jstips.md)
-	- [Network Layer ★385](lists/Kikobeats/awesome-network-js.md)
-	- [Micro npm Packages ★2217](lists/parro-it/awesome-micro-npm-packages.md)
-	- [Mad Science npm Packages ★723](lists/feross/awesome-mad-science.md) - Impossible sounding projects that exist.
-	- [Maintenance Modules ★307 ⏳2Y](lists/maxogden/maintenance-modules.md) - For npm packages.
-	- [npm ★2944](lists/sindresorhus/awesome-npm.md) - Package manager.
-	- [AVA ★251](lists/avajs/awesome-ava.md) - Test runner.
-	- [ESLint ★1224](lists/dustinspecker/awesome-eslint.md) - Linter.
-	- [Functional Programming ★3092](lists/stoeffel/awesome-fp-js.md)
-	- [Observables ★224](lists/sindresorhus/awesome-observables.md)
-	- [npm scripts ★381](lists/RyanZim/awesome-npm-scripts.md) - Task runner.
-- [Swift ★14926](lists/matteocrippa/awesome-swift.md)
-	- [Education ★5344](lists/hsavit1/Awesome-Swift-Education.md)
-	- [Playgrounds ★2337](lists/uraimo/Awesome-Swift-Playgrounds.md)
-- [Python ★51865](lists/vinta/awesome-python.md)
-	- [Asyncio ★695](lists/timofurrer/awesome-asyncio.md) - Asynchronous I/O in Python 3.
-	- [Scientific Audio ★298](lists/faroit/awesome-python-scientific-audio.md) - Scientific research in audio/music.
-- [Rust ★7374](lists/rust-unofficial/awesome-rust.md)
-- [Haskell ★1494](lists/krispo/awesome-haskell.md)
-- [PureScript ★197](lists/passy/awesome-purescript.md)
-- [Go ★32213](lists/avelino/awesome-go.md)
-- [Scala ★6069](lists/lauris/awesome-scala.md)
-- [Ruby ★8874](lists/markets/awesome-ruby.md)
-- [Clojure ★1358](lists/razum2um/awesome-clojure.md)
-- [ClojureScript ★601](lists/hantuzun/awesome-clojurescript.md)
-- [Elixir ★8188](lists/h4cc/awesome-elixir.md)
-- [Elm ★2690](lists/isRuslan/awesome-elm.md)
-- [Erlang ★869](lists/drobakowski/awesome-erlang.md)
-- [Julia ★598](lists/svaksha/Julia.jl.md)
-- [Lua ★1706](lists/LewisJEllis/awesome-lua.md)
-- [C ★1289](lists/aleksandar-todorovic/awesome-c.md)
-- [C/C++ ★13988](lists/fffaraz/awesome-cpp.md)
-- [R ★2978](lists/qinwf/awesome-R.md)
-- [D ★313](lists/zhaopuming/awesome-d.md)
-- [Common Lisp ★694](lists/CodyReichert/awesome-cl.md)
-- [Perl ★403 ⏳1Y](lists/hachiojipm/awesome-perl.md)
-- [Groovy ★467](lists/kdabir/awesome-groovy.md)
-- [Dart ★478](lists/yissachar/awesome-dart.md)
-- [Java ★17071](lists/akullpp/awesome-java.md)
-	- [RxJava ★191](lists/eleventigers/awesome-rxjava.md)
-- [Kotlin ★4979](lists/KotlinBy/awesome-kotlin.md)
-- [OCaml ★1319](lists/rizo/awesome-ocaml.md)
-- [ColdFusion ★57 ⏳1Y](lists/seancoyne/awesome-coldfusion.md)
-- [Fortran ★155 ⏳1Y](lists/rabbiabram/awesome-fortran.md)
-- [PHP ★19087](lists/ziadoz/awesome-php.md)
-	- [Composer ★317](lists/jakoch/awesome-composer.md) - Package manager.
-- [Delphi ★485](lists/Fr0sT-Brutal/awesome-delphi.md)
-- [Assembler ★242](lists/jaspergould/awesome-asm.md)
-- [AutoHotkey ★726](lists/ahkscript/awesome-AutoHotkey.md)
-- [AutoIt ★224](lists/J2TeaM/awesome-AutoIt.md)
-- [Crystal ★1695](lists/veelenga/awesome-crystal.md)
-- [Frege ★19](lists/sfischer13/awesome-frege.md) - Haskell for the JVM.
-- [CMake ★1338](lists/onqtam/awesome-cmake.md) - Build, test, and package software.
-- [ActionScript 3 ★75](lists/robinrodricks/awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR.
-- [Eta ★38](lists/sfischer13/awesome-eta.md) - Functional programming language for the JVM.
-- [Idris ★85](lists/joaomilho/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [JavaScript ★14713](lists/sorrycc/awesome-javascript#readme.md)
+	- [Promises ★1106](lists/wbinnssmith/awesome-promises#readme.md)
+	- [Standard Style ★220](lists/standard/awesome-standard#readme.md) - Style guide and linter.
+	- [Must Watch Talks ★11675](lists/bolshchikov/js-must-watch#readme.md)
+	- [Tips ★10811](lists/loverajoel/jstips#readme.md)
+	- [Network Layer ★388](lists/Kikobeats/awesome-network-js#readme.md)
+	- [Micro npm Packages ★2236](lists/parro-it/awesome-micro-npm-packages#readme.md)
+	- [Mad Science npm Packages ★725](lists/feross/awesome-mad-science#readme.md) - Impossible sounding projects that exist.
+	- [Maintenance Modules ★307 ⏳2Y](lists/maxogden/maintenance-modules#readme.md) - For npm packages.
+	- [npm ★2951](lists/sindresorhus/awesome-npm#readme.md) - Package manager.
+	- [AVA ★252](lists/avajs/awesome-ava#readme.md) - Test runner.
+	- [ESLint ★1228](lists/dustinspecker/awesome-eslint#readme.md) - Linter.
+	- [Functional Programming ★3116](lists/stoeffel/awesome-fp-js#readme.md)
+	- [Observables ★226](lists/sindresorhus/awesome-observables#readme.md)
+	- [npm scripts ★385](lists/RyanZim/awesome-npm-scripts#readme.md) - Task runner.
+- [Swift ★15002](lists/matteocrippa/awesome-swift#readme.md)
+	- [Education ★5348](lists/hsavit1/Awesome-Swift-Education#readme.md)
+	- [Playgrounds ★2357](lists/uraimo/Awesome-Swift-Playgrounds#readme.md)
+- [Python ★52128](lists/vinta/awesome-python#readme.md)
+	- [Asyncio ★709](lists/timofurrer/awesome-asyncio#readme.md) - Asynchronous I/O in Python 3.
+	- [Scientific Audio ★302](lists/faroit/awesome-python-scientific-audio#readme.md) - Scientific research in audio/music.
+- [Rust ★7416](lists/rust-unofficial/awesome-rust#readme.md)
+- [Haskell ★1503](lists/krispo/awesome-haskell#readme.md)
+- [PureScript ★200](lists/passy/awesome-purescript#readme.md)
+- [Go ★32634](lists/avelino/awesome-go#readme.md)
+- [Scala ★6090](lists/lauris/awesome-scala#readme.md)
+- [Ruby ★8892](lists/markets/awesome-ruby#readme.md)
+- [Clojure ★1360](lists/razum2um/awesome-clojure#readme.md)
+- [ClojureScript ★603](lists/hantuzun/awesome-clojurescript#readme.md)
+- [Elixir ★8207](lists/h4cc/awesome-elixir#readme.md)
+- [Elm ★2715](lists/isRuslan/awesome-elm#readme.md)
+- [Erlang ★885](lists/drobakowski/awesome-erlang#readme.md)
+- [Julia ★607](lists/svaksha/Julia.jl#readme.md)
+- [Lua ★1733](lists/LewisJEllis/awesome-lua#readme.md)
+- [C ★1307](lists/aleksandar-todorovic/awesome-c#readme.md)
+- [C/C++ ★14179](lists/fffaraz/awesome-cpp#readme.md)
+- [R ★3030](lists/qinwf/awesome-R#readme.md)
+- [D ★320](lists/zhaopuming/awesome-d#readme.md)
+- [Common Lisp ★709](lists/CodyReichert/awesome-cl#readme.md)
+- [Perl ★406 ⏳1Y](lists/hachiojipm/awesome-perl#readme.md)
+- [Groovy ★474](lists/kdabir/awesome-groovy#readme.md)
+- [Dart ★516](lists/yissachar/awesome-dart#readme.md)
+- [Java ★17161](lists/akullpp/awesome-java#readme.md)
+	- [RxJava ★192](lists/eleventigers/awesome-rxjava#readme.md)
+- [Kotlin ★5116](lists/KotlinBy/awesome-kotlin#readme.md)
+- [OCaml ★1335](lists/rizo/awesome-ocaml#readme.md)
+- [ColdFusion ★59](lists/seancoyne/awesome-coldfusion#readme.md)
+- [Fortran ★157 ⏳1Y](lists/rabbiabram/awesome-fortran#readme.md)
+- [PHP ★19142](lists/ziadoz/awesome-php#readme.md)
+	- [Composer ★329](lists/jakoch/awesome-composer#readme.md) - Package manager.
+- [Delphi ★491](lists/Fr0sT-Brutal/awesome-delphi#readme.md)
+- [Assembler ★246](lists/jaspergould/awesome-asm#readme.md)
+- [AutoHotkey ★734](lists/ahkscript/awesome-AutoHotkey#readme.md)
+- [AutoIt ★233](lists/J2TeaM/awesome-AutoIt#readme.md)
+- [Crystal ★1761](lists/veelenga/awesome-crystal#readme.md)
+- [Frege ★19](lists/sfischer13/awesome-frege#readme.md) - Haskell for the JVM.
+- [CMake ★1358](lists/onqtam/awesome-cmake#readme.md) - Build, test, and package software.
+- [ActionScript 3 ★81](lists/robinrodricks/awesome-actionscript3#readme.md) - Object-oriented language targeting Adobe AIR.
+- [Eta ★38](lists/sfischer13/awesome-eta#readme.md) - Functional programming language for the JVM.
+- [Idris ★89](lists/joaomilho/awesome-idris#readme.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 
 
 ## Front-End Development
 
-- [ES6 Tools ★3604 ⏳1Y](lists/addyosmani/es6-tools.md)
-- [Web Performance Optimization ★6287](lists/davidsonfellipe/awesome-wpo.md)
-- [Web Tools ★356](lists/lvwzhen/tools.md)
-- [CSS ★1589](lists/awesome-css-group/awesome-css.md)
-	- [Critical-Path Tools ★969 ⏳2Y](lists/addyosmani/critical-path-css-tools.md)
-	- [Scalability ★1261 ⏳1Y](lists/davidtheclark/scalable-css-reading-list.md)
-	- [Must-Watch Talks ★3371](lists/AllThingsSmitty/must-watch-css.md)
-	- [Protips ★12519](lists/AllThingsSmitty/css-protips.md)
-- [React ★26305](lists/enaqx/awesome-react.md) - App framework.
-	- [Relay ★188](lists/expede/awesome-relay.md) - Framework for building data-driven React apps.
-- [Web Components ★1017](lists/mateusortiz/webcomponents-the-right-way.md)
-- [Polymer ★354](lists/Granze/awesome-polymer.md) - JavaScript library to develop Web Components.
-- [Angular ★5675](lists/gdi2290/awesome-angular.md) - App framework.
-- [Backbone ★379](lists/sadcitizen/awesome-backbone.md) - App framework.
-- [HTML5 ★910](lists/diegocard/awesome-html5.md) - Markup language used for websites & web apps.
-- [SVG ★3617](lists/willianjusten/awesome-svg.md) - XML-based vector image format.
-- [Canvas ★414](lists/raphamorim/awesome-canvas.md)
-- [KnockoutJS ★73](lists/dnbard/awesome-knockout.md)
-- [Dojo Toolkit ★62 ⏳1Y](lists/petk/awesome-dojo.md)
-- [Inspiration ★634](lists/NoahBuscher/Inspire.md)
-- [Ember ★267](lists/nmec/awesome-ember.md) - App framework.
-- [Android UI ★30497](lists/wasabeef/awesome-android-ui.md)
-- [iOS UI ★10299](lists/cjwirth/awesome-ios-ui.md)
-- [Meteor ★1250](lists/Urigo/awesome-meteor.md)
-- [BEM ★367](lists/sturobson/BEM-resources.md)
-- [Flexbox ★841](lists/afonsopacifer/awesome-flexbox.md)
-- [Web Typography ★322](lists/deanhume/typography.md)
-- [Web Accessibility ★760](lists/brunopulis/awesome-a11y.md)
-- [Material Design ★498](lists/sachin1092/awesome-material.md)
-- [D3 ★3784](lists/wbkd/awesome-d3.md) - Library for producing dynamic, interactive data visualizations.
-- [Emails ★558](lists/jonathandion/awesome-emails.md)
-- [jQuery ★575](lists/petk/awesome-jquery.md) - Easy to use JavaScript library for DOM manipulation.
-	- [Tips ★4059](lists/AllThingsSmitty/jquery-tips-everyone-should-know.md)
-- [Web Audio ★414](lists/notthetup/awesome-webaudio.md)
-- [Offline-First ★2405](lists/pazguille/offline-first.md)
-- [Static Website Services ★640](lists/agarrharr/awesome-static-website-services.md)
-- [A-Frame VR ★1261](lists/aframevr/awesome-aframe.md) - Virtual reality for web browsers.
-- [Cycle.js ★749](lists/cyclejs-community/awesome-cyclejs.md) - Functional and reactive JavaScript framework.
-- [Text Editing ★92 ⏳2Y](lists/dok/awesome-text-editing.md)
-- [Motion UI Design ★489](lists/fliptheweb/motion-ui-design.md)
-- [Vue.js ★33703](lists/vuejs/awesome-vue.md) - App framework.
-- [Marionette.js ★144 ⏳1Y](lists/sadcitizen/awesome-marionette.md) - App framework.
-- [Aurelia ★269](lists/behzad888/awesome-aurelia.md) - App framework.
-- [Charting ★990](lists/zingchart/awesome-charting.md)
-- [Ionic Framework 2 ★692](lists/candelibas/awesome-ionic.md)
-- [Chrome DevTools ★2865](lists/ChromeDevTools/awesome-chrome-devtools.md)
-- [PostCSS ★258](lists/jdrgomes/awesome-postcss.md) - CSS tool.
-- [Draft.js ★1486](lists/nikgraf/awesome-draft-js.md) - Rich text editor framework for React.
-- [Service Workers ★1297](lists/TalAter/awesome-service-workers.md)
-- [Progressive Web Apps ★1151](lists/TalAter/awesome-progressive-web-apps.md)
-- [choo ★158](lists/choojs/awesome-choo.md) - App framework.
-- [Redux ★231](lists/brillout/awesome-redux.md) - State container for JavaScript apps.
-- [webpack ★2517](lists/webpack-contrib/awesome-webpack.md) - Module bundler.
-- [Browserify ★65 ⏳1Y](lists/browserify/awesome-browserify.md) - Module bundler.
-- [Sass ★1172](lists/Famolus/awesome-sass.md) - CSS preprocessor.
-- [Ant Design ★1117](lists/websemantics/awesome-ant-design.md) - Enterprise-class UI design language.
-- [Less ★21 ⏳1Y](lists/LucasBassetti/awesome-less.md) - CSS preprocessor.
-- [WebGL ★295](lists/sjfricke/awesome-webgl.md) - JavaScript API for rendering 3D graphics.
-- [Preact ★192](lists/ooade/awesome-preact.md) - App framework.
-- [Progressive Enhancement ★46](lists/jbmoelker/progressive-enhancement-resources.md)
-- [Next.js ★1090](lists/unicodeveloper/awesome-nextjs.md) - Framework for server-rendered React apps.
-- [Hyperapp ★241](lists/hyperapp/awesome-hyperapp.md) - Tiny JavaScript library for building web apps.
+- [ES6 Tools ★3609 ⏳1Y](lists/addyosmani/es6-tools#readme.md)
+- [Web Performance Optimization ★6307](lists/davidsonfellipe/awesome-wpo#readme.md)
+- [Web Tools ★360](lists/lvwzhen/tools#readme.md)
+- [CSS ★1620](lists/awesome-css-group/awesome-css#readme.md)
+	- [Critical-Path Tools ★976 ⏳2Y](lists/addyosmani/critical-path-css-tools#readme.md)
+	- [Scalability ★1265 ⏳1Y](lists/davidtheclark/scalable-css-reading-list#readme.md)
+	- [Must-Watch Talks ★3386](lists/AllThingsSmitty/must-watch-css#readme.md)
+	- [Protips ★12685](lists/AllThingsSmitty/css-protips#readme.md)
+- [React ★26431](lists/enaqx/awesome-react#readme.md) - App framework.
+	- [Relay ★191](lists/expede/awesome-relay#readme.md) - Framework for building data-driven React apps.
+- [Web Components ★1028](lists/mateusortiz/webcomponents-the-right-way#readme.md)
+- [Polymer ★353](lists/Granze/awesome-polymer#readme.md) - JavaScript library to develop Web Components.
+- [Angular ★5764](lists/gdi2290/awesome-angular#readme.md) - App framework.
+- [Backbone ★379](lists/sadcitizen/awesome-backbone#readme.md) - App framework.
+- [HTML5 ★918](lists/diegocard/awesome-html5#readme.md) - Markup language used for websites & web apps.
+- [SVG ★3619](lists/willianjusten/awesome-svg#readme.md) - XML-based vector image format.
+- [Canvas ★424](lists/raphamorim/awesome-canvas#readme.md)
+- [KnockoutJS ★74](lists/dnbard/awesome-knockout#readme.md)
+- [Dojo Toolkit ★62 ⏳1Y](lists/petk/awesome-dojo#readme.md)
+- [Inspiration ★640](lists/NoahBuscher/Inspire#readme.md)
+- [Ember ★267](lists/nmec/awesome-ember#readme.md) - App framework.
+- [Android UI ★30863](lists/wasabeef/awesome-android-ui#readme.md)
+- [iOS UI ★10323](lists/cjwirth/awesome-ios-ui#readme.md)
+- [Meteor ★1252](lists/Urigo/awesome-meteor#readme.md)
+- [BEM ★369](lists/sturobson/BEM-resources#readme.md)
+- [Flexbox ★843](lists/afonsopacifer/awesome-flexbox#readme.md)
+- [Web Typography ★328](lists/deanhume/typography#readme.md)
+- [Web Accessibility ★767](lists/brunopulis/awesome-a11y#readme.md)
+- [Material Design ★499](lists/sachin1092/awesome-material#readme.md)
+- [D3 ★3818](lists/wbkd/awesome-d3#readme.md) - Library for producing dynamic, interactive data visualizations.
+- [Emails ★590](lists/jonathandion/awesome-emails#readme.md)
+- [jQuery ★588](lists/petk/awesome-jquery#readme.md) - Easy to use JavaScript library for DOM manipulation.
+	- [Tips ★4064](lists/AllThingsSmitty/jquery-tips-everyone-should-know#readme.md)
+- [Web Audio ★422](lists/notthetup/awesome-webaudio#readme.md)
+- [Offline-First ★2424](lists/pazguille/offline-first#readme.md)
+- [Static Website Services ★657](lists/agarrharr/awesome-static-website-services#readme.md)
+- [A-Frame VR ★1267](lists/aframevr/awesome-aframe#readme.md) - Virtual reality for web browsers.
+- [Cycle.js ★751](lists/cyclejs-community/awesome-cyclejs#readme.md) - Functional and reactive JavaScript framework.
+- [Text Editing ★92](lists/dok/awesome-text-editing#readme.md)
+- [Motion UI Design ★496](lists/fliptheweb/motion-ui-design#readme.md)
+- [Vue.js ★34776](lists/vuejs/awesome-vue#readme.md) - App framework.
+- [Marionette.js ★146 ⏳1Y](lists/sadcitizen/awesome-marionette#readme.md) - App framework.
+- [Aurelia](https://github.com/behzad888/awesome-aurelia#readme) - App framework.
+- [Charting ★1010](lists/zingchart/awesome-charting#readme.md)
+- [Ionic Framework 2 ★692](lists/candelibas/awesome-ionic#readme.md)
+- [Chrome DevTools ★2920](lists/ChromeDevTools/awesome-chrome-devtools#readme.md)
+- [PostCSS ★263](lists/jdrgomes/awesome-postcss#readme.md) - CSS tool.
+- [Draft.js ★1519](lists/nikgraf/awesome-draft-js#readme.md) - Rich text editor framework for React.
+- [Service Workers ★1313](lists/TalAter/awesome-service-workers#readme.md)
+- [Progressive Web Apps ★1171](lists/TalAter/awesome-progressive-web-apps#readme.md)
+- [choo ★159](lists/choojs/awesome-choo#readme.md) - App framework.
+- [Redux ★241](lists/brillout/awesome-redux#readme.md) - State container for JavaScript apps.
+- [webpack ★2581](lists/webpack-contrib/awesome-webpack#readme.md) - Module bundler.
+- [Browserify ★64 ⏳1Y](lists/browserify/awesome-browserify#readme.md) - Module bundler.
+- [Sass ★1189](lists/Famolus/awesome-sass#readme.md) - CSS preprocessor.
+- [Ant Design ★1162](lists/websemantics/awesome-ant-design#readme.md) - Enterprise-class UI design language.
+- [Less ★21 ⏳1Y](lists/LucasBassetti/awesome-less#readme.md) - CSS preprocessor.
+- [WebGL ★309](lists/sjfricke/awesome-webgl#readme.md) - JavaScript API for rendering 3D graphics.
+- [Preact ★195](lists/ooade/awesome-preact#readme.md) - App framework.
+- [Progressive Enhancement ★46](lists/jbmoelker/progressive-enhancement-resources#readme.md)
+- [Next.js ★1168](lists/unicodeveloper/awesome-nextjs#readme.md) - Framework for server-rendered React apps.
+- [Hyperapp ★256](lists/hyperapp/awesome-hyperapp#readme.md) - Tiny JavaScript library for building web apps.
 
 
 ## Back-End Development
 
-- [Django ★7678](lists/rosarior/awesome-django.md)
-- [Flask ★5609](lists/humiaozuzu/awesome-flask.md)
-- [Docker ★11471](lists/veggiemonk/awesome-docker.md)
-- [Vagrant ★340](lists/iJackUA/awesome-vagrant.md)
-- [Pyramid ★424](lists/uralbash/awesome-pyramid.md)
-- [Play1 Framework ★35 ⏳2Y](lists/PerfectCarl/awesome-play1.md)
-- [CakePHP ★655](lists/friendsofcake/awesome-cakephp.md) - PHP framework.
-- [Symfony ★1203](lists/sitepoint-editors/awesome-symfony.md)
-	- [Education ★244](lists/pehapkari/awesome-symfony-education.md)
-- [Laravel ★6183](lists/chiraggude/awesome-laravel.md) - PHP framework.
-	- [Education ★198](lists/fukuball/Awesome-Laravel-Education.md)
-- [Rails ★1844](lists/ekremkaraca/awesome-rails.md) - Web app framework for Ruby.
-	- [Gems ★2439](lists/hothero/awesome-rails-gem.md) - Packages.
-- [Phalcon ★450](lists/phalcon/awesome-phalcon.md)
-- [Useful `.htaccess` Snippets ★10479](lists/phanan/htaccess.md)
-- [nginx ★2195](lists/fcambus/nginx-resources.md) - Web server.
-- [Dropwizard ★61](lists/stve/awesome-dropwizard.md)
-- [Kubernetes ★2766](lists/ramitsurana/awesome-kubernetes.md)
-- [Lumen ★197](lists/unicodeveloper/awesome-lumen.md)
-- [Serverless Framework ★1416](lists/pmuens/awesome-serverless.md)
-- [Apache Wicket ★33 ⏳2Y](lists/PhantomYdn/awesome-wicket.md) - Java web app framework.
-- [Vert.x ★843](lists/vert-x3/vertx-awesome.md) - Toolkit for building reactive apps on the JVM.
-- [Terraform ★385](lists/shuaibiyy/awesome-terraform.md) - Tool for building, changing, and versioning infrastructure.
+- [Django ★7720](lists/rosarior/awesome-django#readme.md)
+- [Flask ★5646](lists/humiaozuzu/awesome-flask#readme.md)
+- [Docker ★11712](lists/veggiemonk/awesome-docker#readme.md)
+- [Vagrant ★348](lists/iJackUA/awesome-vagrant#readme.md)
+- [Pyramid ★424](lists/uralbash/awesome-pyramid#readme.md)
+- [Play1 Framework ★35 ⏳2Y](lists/PerfectCarl/awesome-play1#readme.md)
+- [CakePHP ★657](lists/friendsofcake/awesome-cakephp#readme.md) - PHP framework.
+- [Symfony ★1215](lists/sitepoint-editors/awesome-symfony#readme.md)
+	- [Education ★247](lists/pehapkari/awesome-symfony-education#readme.md)
+- [Laravel ★6325](lists/chiraggude/awesome-laravel#readme.md) - PHP framework.
+	- [Education ★209](lists/fukuball/Awesome-Laravel-Education#readme.md)
+- [Rails ★1854](lists/ekremkaraca/awesome-rails#readme.md) - Web app framework for Ruby.
+	- [Gems ★2451](lists/hothero/awesome-rails-gem#readme.md) - Packages.
+- [Phalcon ★457](lists/phalcon/awesome-phalcon#readme.md)
+- [Useful `.htaccess` Snippets ★10518](lists/phanan/htaccess#readme.md)
+- [nginx ★2220](lists/fcambus/nginx-resources#readme.md) - Web server.
+- [Dropwizard ★63](lists/stve/awesome-dropwizard#readme.md)
+- [Kubernetes ★2968](lists/ramitsurana/awesome-kubernetes#readme.md)
+- [Lumen ★203](lists/unicodeveloper/awesome-lumen#readme.md)
+- [Serverless Framework ★1443](lists/pmuens/awesome-serverless#readme.md)
+- [Apache Wicket ★36 ⏳2Y](lists/PhantomYdn/awesome-wicket#readme.md) - Java web app framework.
+- [Vert.x ★878](lists/vert-x3/vertx-awesome#readme.md) - Toolkit for building reactive apps on the JVM.
+- [Terraform ★418](lists/shuaibiyy/awesome-terraform#readme.md) - Tool for building, changing, and versioning infrastructure.
 
 
 ## Computer Science
 
-- [University Courses ★24494](lists/prakhar1989/awesome-courses.md)
-- [Data Science ★8055](lists/bulutyazilim/awesome-datascience.md)
-	- [Tutorials ★230](lists/siboehm/awesome-learn-datascience.md)
-- [Machine Learning ★33352](lists/josephmisiti/awesome-machine-learning.md)
-	- [Tutorials ★7486](lists/ujjwalkarn/Machine-Learning-Tutorials.md)
-	- [ML with Ruby ★1051](lists/arbox/machine-learning-with-ruby.md) - Learning, implementing, and applying Machine Learning using Ruby.
-	- [Core ML Models ★3044](lists/likedan/Awesome-CoreML-Models.md) - Models for Apple's machine learning framework.
-- [Speech and Natural Language Processing ★1746](lists/edobashira/speech-language-processing.md)
-	- [Spanish ★155](lists/dav009/awesome-spanish-nlp.md)
-	- [NLP with Ruby ★762](lists/arbox/nlp-with-ruby.md)
-- [Linguistics ★101 ⏳1Y](lists/theimpossibleastronaut/awesome-linguistics.md)
-- [Cryptography ★1187](lists/sobolevn/awesome-cryptography.md)
-- [Computer Vision ★8064](lists/jbhuang0604/awesome-computer-vision.md)
-- [Deep Learning ★9190](lists/ChristosChristofidis/awesome-deep-learning.md) - Neural networks.
-	- [TensorFlow ★11823](lists/jtoy/awesome-tensorflow.md) - Library for machine intelligence.
-	- [Papers ★15068](lists/terryum/awesome-deep-learning-papers.md) - The most cited deep learning papers.
-	- [Education ★858](lists/guillaume-chevalier/awesome-deep-learning-resources.md)
-- [Deep Vision ★6796](lists/kjw0612/awesome-deep-vision.md)
-- [Open Source Society University ★32702](lists/ossu/computer-science.md)
-- [Functional Programming ★386](lists/lucasviola/awesome-functional-programming.md)
-- [Static Analysis & Code Quality ★3367](lists/mre/awesome-static-analysis.md)
-- [Information Retrieval ★192](lists/harpribot/awesome-information-retrieval.md) - Learn to develop your own search engine.
+- [University Courses ★24816](lists/prakhar1989/awesome-courses#readme.md)
+- [Data Science ★8192](lists/bulutyazilim/awesome-datascience#readme.md)
+	- [Tutorials ★247](lists/siboehm/awesome-learn-datascience#readme.md)
+- [Machine Learning ★33826](lists/josephmisiti/awesome-machine-learning#readme.md)
+	- [Tutorials ★7626](lists/ujjwalkarn/Machine-Learning-Tutorials#readme.md)
+	- [ML with Ruby ★1056](lists/arbox/machine-learning-with-ruby#readme.md) - Learning, implementing, and applying Machine Learning using Ruby.
+	- [Core ML Models ★3083](lists/likedan/Awesome-CoreML-Models#readme.md) - Models for Apple's machine learning framework.
+- [Speech and Natural Language Processing ★1761](lists/edobashira/speech-language-processing#readme.md)
+	- [Spanish ★158](lists/dav009/awesome-spanish-nlp#readme.md)
+	- [NLP with Ruby ★763](lists/arbox/nlp-with-ruby#readme.md)
+- [Linguistics ★101 ⏳1Y](lists/theimpossibleastronaut/awesome-linguistics#readme.md)
+- [Cryptography ★1228](lists/sobolevn/awesome-cryptography#readme.md)
+- [Computer Vision ★8384](lists/jbhuang0604/awesome-computer-vision#readme.md)
+- [Deep Learning ★9232](lists/ChristosChristofidis/awesome-deep-learning#readme.md) - Neural networks.
+	- [TensorFlow ★12024](lists/jtoy/awesome-tensorflow#readme.md) - Library for machine intelligence.
+	- [Papers ★15306](lists/terryum/awesome-deep-learning-papers#readme.md) - The most cited deep learning papers.
+	- [Education ★875](lists/guillaume-chevalier/awesome-deep-learning-resources#readme.md)
+- [Deep Vision ★6930](lists/kjw0612/awesome-deep-vision#readme.md)
+- [Open Source Society University ★33183](lists/ossu/computer-science#readme.md)
+- [Functional Programming ★389](lists/lucasviola/awesome-functional-programming#readme.md)
+- [Static Analysis & Code Quality ★3408](lists/mre/awesome-static-analysis#readme.md)
+- [Information Retrieval ★205](lists/harpribot/awesome-information-retrieval#readme.md) - Learn to develop your own search engine.
 
 
 ## Big Data
 
-- [Big Data ★6212](lists/onurakpolat/awesome-bigdata.md)
-- [Public Datasets ★25868](lists/awesomedata/awesome-public-datasets.md)
-- [Hadoop ★654](lists/youngwookim/awesome-hadoop.md) - Framework for distributed storage and processing of very large data sets.
-- [Data Engineering ★1496](lists/igorbarinov/awesome-data-engineering.md)
-- [Streaming ★815](lists/manuzhang/awesome-streaming.md)
-- [Apache Spark ★493](lists/awesome-spark/awesome-spark.md) - Unified engine for large-scale data processing.
+- [Big Data ★6298](lists/onurakpolat/awesome-bigdata#readme.md)
+- [Public Datasets ★26486](lists/awesomedata/awesome-public-datasets#readme.md)
+- [Hadoop ★665](lists/youngwookim/awesome-hadoop#readme.md) - Framework for distributed storage and processing of very large data sets.
+- [Data Engineering ★1542](lists/igorbarinov/awesome-data-engineering#readme.md)
+- [Streaming ★847](lists/manuzhang/awesome-streaming#readme.md)
+- [Apache Spark ★513](lists/awesome-spark/awesome-spark#readme.md) - Unified engine for large-scale data processing.
 
 
 ## Theory
 
-- [Papers We Love ★30182](lists/papers-we-love/papers-we-love.md)
-- [Talks ★2189](lists/JanVanRyswyck/awesome-talks.md)
-- [Algorithms ★4734](lists/tayllan/awesome-algorithms.md)
-- [Algorithm Visualizations ★866 ⏳1Y](lists/enjalot/algovis.md)
-- [Artificial Intelligence ★3812](lists/owainlewis/awesome-artificial-intelligence.md)
-- [Search Engine Optimization ★767](lists/marcobiedermann/search-engine-optimization.md)
-- [Competitive Programming ★2912](lists/lnishan/awesome-competitive-programming.md)
-- [Math ★1591](lists/rossant/awesome-math.md)
-- [Recursion Schemes ★468](lists/passy/awesome-recursion-schemes.md) - Traversing nested data structures.
+- [Papers We Love ★30726](lists/papers-we-love/papers-we-love#readme.md)
+- [Talks ★2264](lists/JanVanRyswyck/awesome-talks#readme.md)
+- [Algorithms ★4895](lists/tayllan/awesome-algorithms#readme.md)
+- [Algorithm Visualizations ★906 ⏳1Y](lists/enjalot/algovis#readme.md)
+- [Artificial Intelligence ★3881](lists/owainlewis/awesome-artificial-intelligence#readme.md)
+- [Search Engine Optimization ★781](lists/marcobiedermann/search-engine-optimization#readme.md)
+- [Competitive Programming ★3016](lists/lnishan/awesome-competitive-programming#readme.md)
+- [Math ★1712](lists/rossant/awesome-math#readme.md)
+- [Recursion Schemes ★478](lists/passy/awesome-recursion-schemes#readme.md) - Traversing nested data structures.
 
 
 ## Books
 
-- [Free Programming Books ★106196](lists/EbookFoundation/free-programming-books.md)
-- [Free Software Testing Books ★1115](lists/ligurio/awesome-software-quality.md)
-- [Go Books ★5031](lists/dariubs/GoBooks.md)
-- [R Books ★96](lists/RomanTsegelskyi/rbooks.md)
-- [Mind Expanding Books ★3484](lists/hackerkid/Mind-Expanding-Books.md)
-- [Book Authoring ★102](lists/TalAter/awesome-book-authoring.md)
-- [Elixir Books ★576](lists/sger/ElixirBooks.md)
+- [Free Programming Books ★107707](lists/EbookFoundation/free-programming-books#readme.md)
+- [Free Software Testing Books ★1136](lists/ligurio/awesome-software-quality#readme.md)
+- [Go Books ★5052](lists/dariubs/GoBooks#readme.md)
+- [R Books ★96](lists/RomanTsegelskyi/rbooks#readme.md)
+- [Mind Expanding Books ★3547](lists/hackerkid/Mind-Expanding-Books#readme.md)
+- [Book Authoring ★106](lists/TalAter/awesome-book-authoring#readme.md)
+- [Elixir Books ★592](lists/sger/ElixirBooks#readme.md)
 
 
 ## Editors
 
-- [Sublime Text ★627](lists/dreikanter/sublime-bookmarks.md)
-- [Vim ★8542](lists/mhinz/vim-galore.md)
-- [Emacs ★3879](lists/emacs-tw/awesome-emacs.md)
-- [Atom ★1598](lists/mehcode/awesome-atom.md) - Open-source and hackable text editor.
-- [Visual Studio Code ★5913](lists/viatsko/awesome-vscode.md) - Cross-platform open-source text editor.
+- [Sublime Text ★637](lists/dreikanter/sublime-bookmarks#readme.md)
+- [Vim ★8622](lists/mhinz/vim-galore#readme.md)
+- [Emacs ★3948](lists/emacs-tw/awesome-emacs#readme.md)
+- [Atom ★1613](lists/mehcode/awesome-atom#readme.md) - Open-source and hackable text editor.
+- [Visual Studio Code ★5991](lists/viatsko/awesome-vscode#readme.md) - Cross-platform open-source text editor.
 
 
 ## Gaming
 
-- [Game Development ★4946](lists/ellisonleao/magictools.md)
-- [Game Talks ★531 ⏳1Y](lists/hzoo/awesome-gametalks.md)
-- [Godot ★751](lists/Calinou/awesome-godot.md) - Game engine.
-- [Open Source Games ★11030](lists/leereilly/games.md)
-- [Unity ★2036](lists/RyanNielson/awesome-unity.md) - Game engine.
-- [Chess](https://github.com/hkirat/awesome-chess)
-- [LÖVE ★1014](lists/love2d-community/awesome-love2d.md) - Game engine.
-- [PICO-8](https://github.com/felipebueno/awesome-PICO-8) - Fantasy console.
-- [Game Boy Development](https://github.com/avivace/awesome-gbdev)
-- [Construct 2](https://github.com/armaldio/awesome-construct) - Game engine.
-- [Gideros](https://github.com/stetso/awesome-gideros) - Game engine.
+- [Game Development ★5031](lists/ellisonleao/magictools#readme.md)
+- [Game Talks ★534 ⏳1Y](lists/hzoo/awesome-gametalks#readme.md)
+- [Godot ★784](lists/Calinou/awesome-godot#readme.md) - Game engine.
+- [Open Source Games ★11066](lists/leereilly/games#readme.md)
+- [Unity ★2099](lists/RyanNielson/awesome-unity#readme.md) - Game engine.
+- [Chess ★109](lists/hkirat/awesome-chess#readme.md)
+- [LÖVE ★1048](lists/love2d-community/awesome-love2d#readme.md) - Game engine.
+- [PICO-8 ★879](lists/felipebueno/awesome-PICO-8#readme.md) - Fantasy console.
+- [Game Boy Development ★1303](lists/avivace/awesome-gbdev#readme.md)
+- [Construct 2](https://github.com/armaldio/awesome-construct#readme) - Game engine.
+- [Gideros ★10](lists/stetso/awesome-gideros#readme.md) - Game engine.
 
 
 ## Development Environment
 
-- [Quick Look Plugins ★11089](lists/sindresorhus/quick-look-plugins.md) - For macOS.
-- [Dev Env](https://github.com/jondot/awesome-devenv)
-- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
-- [Shell](https://github.com/alebcay/awesome-shell)
-- [Fish](https://github.com/fisherman/awesome-fish-shell) - User-friendly shell.
-- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps)
-- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
-- [GitHub](https://github.com/phillipadsmith/awesome-github) - Hosting service for Git repositories.
-	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
-- [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
-- [Git Tips](https://github.com/git-tips/tips)
-- [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the `git` CLI.
-- [SSH](https://github.com/moul/awesome-ssh)
-- [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev)
-- [Hyper](https://github.com/bnb/awesome-hyper) - Cross-platform terminal app built on web technologies.
-- [PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Cross-platform object-oriented shell.
-- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
-- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
+- [Quick Look Plugins ★11142](lists/sindresorhus/quick-look-plugins#readme.md) - For macOS.
+- [Dev Env ★1165](lists/jondot/awesome-devenv#readme.md)
+- [Dotfiles ★2730](lists/webpro/awesome-dotfiles#readme.md)
+- [Shell ★12697](lists/alebcay/awesome-shell#readme.md)
+- [Fish ★722](lists/fisherman/awesome-fish-shell#readme.md) - User-friendly shell.
+- [Command-Line Apps ★2441](lists/agarrharr/awesome-cli-apps#readme.md)
+- [ZSH Plugins ★4488](lists/unixorn/awesome-zsh-plugins#readme.md)
+- [GitHub ★379](lists/phillipadsmith/awesome-github#readme.md) - Hosting service for Git repositories.
+	- [Browser Extensions ★1205](lists/stefanbuck/awesome-browser-extensions-for-github#readme.md)
+	- [Cheat Sheet ★25360](lists/tiimgreen/github-cheat-sheet#readme.md)
+- [Git Cheat Sheet & Git Flow ★1949](lists/arslanbilal/git-cheat-sheet#readme.md)
+- [Git Tips ★13268](lists/git-tips/tips#readme.md)
+- [Git Add-ons ★724](lists/stevemao/awesome-git-addons#readme.md) - Enhance the `git` CLI.
+- [SSH ★867](lists/moul/awesome-ssh#readme.md)
+- [FOSS for Developers ★244 ⏳1Y](lists/tvvocold/FOSS-for-Dev#readme.md)
+- [Hyper ★6426](lists/bnb/awesome-hyper#readme.md) - Cross-platform terminal app built on web technologies.
+- [PowerShell ★652](lists/janikvonrotz/awesome-powershell#readme.md) - Cross-platform object-oriented shell.
+- [Alfred Workflows ★871](lists/derimagia/awesome-alfred-workflows#readme.md) - Productivity app for macOS.
+- [Terminals Are Sexy ★6414](lists/k4m4/terminals-are-sexy#readme.md)
 
 
 ## Entertainment
 
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi) - Scifi.
-- [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
-- [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
-- [Email Newsletters](https://github.com/vredniy/awesome-newsletters)
-- [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes)
+- [Science Fiction ★2091](lists/sindresorhus/awesome-scifi#readme.md) - Scifi.
+- [Fantasy ★372](lists/RichardLitt/awesome-fantasy#readme.md)
+- [Podcasts ★1207](lists/guipdutra/awesome-geek-podcasts#readme.md)
+- [Email Newsletters ★880](lists/vredniy/awesome-newsletters#readme.md)
+- [IT Quotes ★124](lists/victorlaerte/awesome-it-quotes#readme.md)
 
 
 ## Databases
 
-- [Database](https://github.com/numetriclabz/awesome-db)
+- [Database ★626](lists/numetriclabz/awesome-db#readme.md)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
-- [SQLAlchemy ★1626](lists/dahlia/awesome-sqlalchemy.md)
-- [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
-- [Neo4j](https://github.com/neueda/awesome-neo4j)
-- [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database.
-- [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
-- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
-- [PostgreSQL ★4337](lists/dhamaniasad/awesome-postgres.md) - Object-relational database.
-- [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database.
-- [HBase](https://github.com/rayokota/awesome-hbase) - Distributed, scalable, big data store.
+- [SQLAlchemy ★1630](lists/dahlia/awesome-sqlalchemy#readme.md)
+- [InfluxDB ★446](lists/mark-rushakoff/awesome-influxdb#readme.md)
+- [Neo4j ★241](lists/neueda/awesome-neo4j#readme.md)
+- [MongoDB ★769](lists/ramnes/awesome-mongodb#readme.md) - NoSQL database.
+- [RethinkDB ★86 ⏳2Y](lists/d3viant0ne/awesome-rethinkdb#readme.md)
+- [TinkerPop ★88](lists/mohataher/awesome-tinkerpop#readme.md) - Graph computing framework.
+- [PostgreSQL ★4356](lists/dhamaniasad/awesome-postgres#readme.md) - Object-relational database.
+- [CouchDB ★59](lists/quangv/awesome-couchdb#readme.md) - Document-oriented NoSQL database.
+- [HBase ★62](lists/rayokota/awesome-hbase#readme.md) - Distributed, scalable, big data store.
 
 
 ## Media
 
-- [Creative Commons Media](https://github.com/shime/creative-commons-media)
-- [Fonts](https://github.com/brabadu/awesome-fonts)
-- [Codeface ★4586](lists/chrissimpkins/codeface.md) - Text editor fonts.
-- [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
-- [GIF](https://github.com/davisonio/awesome-gif) - Image format known for animated images.
-- [Music](https://github.com/ciconia/awesome-music)
-- [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
-- [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
-- [Broadcasting](https://github.com/ebu/awesome-broadcasting)
-- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art.
+- [Creative Commons Media ★228](lists/shime/creative-commons-media#readme.md)
+- [Fonts ★369](lists/brabadu/awesome-fonts#readme.md)
+- [Codeface ★4591](lists/chrissimpkins/codeface#readme.md) - Text editor fonts.
+- [Stock Resources ★6482](lists/neutraltone/awesome-stock-resources#readme.md)
+- [GIF ★305](lists/davisonio/awesome-gif#readme.md) - Image format known for animated images.
+- [Music ★353](lists/ciconia/awesome-music#readme.md)
+- [Open Source Documents ★1032](lists/hubtee/awesome-opensource-documents#readme.md)
+- [Audio Visualization ★2037](lists/willianjusten/awesome-audio-visualization#readme.md)
+- [Broadcasting ★373](lists/ebu/awesome-broadcasting#readme.md)
+- [Pixel Art ★246](lists/Siilwyn/awesome-pixel-art#readme.md) - Pixel-level digital art.
 
 
 ## Learn
 
-- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper) - Interactive tutorials.
-- [Learn to Program](https://github.com/karlhorky/learn-to-program)
-- [Speaking](https://github.com/matteofigus/awesome-speaking)
-- [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
-- [Dive into Machine Learning ★8273](lists/hangtwenty/dive-into-machine-learning.md)
-- [Computer History](https://github.com/watson/awesome-computer-history)
-- [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
-- [Educational Games](https://github.com/yrgo/awesome-eg) - Learn while playing.
-- [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
+- [CLI Workshoppers ★365 ⏳1Y](lists/therebelrobot/awesome-workshopper#readme.md) - Interactive tutorials.
+- [Learn to Program ★488](lists/karlhorky/learn-to-program#readme.md)
+- [Speaking ★677](lists/matteofigus/awesome-speaking#readme.md)
+- [Tech Videos ★316 ⏳1Y](lists/lucasviola/awesome-tech-videos#readme.md)
+- [Dive into Machine Learning ★8372](lists/hangtwenty/dive-into-machine-learning#readme.md)
+- [Computer History ★994](lists/watson/awesome-computer-history#readme.md)
+- [Programming for Kids ★424](lists/HollyAdele/awesome-programming-for-kids#readme.md)
+- [Educational Games ★175 ⏳1Y](lists/yrgo/awesome-eg#readme.md) - Learn while playing.
+- [JavaScript Learning ★1010](lists/micromata/awesome-javascript-learning#readme.md)
 
 
 ## Security
 
-- [Application Security](https://github.com/paragonie/awesome-appsec)
-- [Security](https://github.com/sbilly/awesome-security)
-- [CTF](https://github.com/apsdehal/awesome-ctf) - Capture The Flag.
-- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
-- [Android Security](https://github.com/ashishb/android-security-awesome)
-- [Hacking](https://github.com/carpedm20/awesome-hacking)
-- [Honeypots](https://github.com/paralax/awesome-honeypots) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
-- [Incident Response](https://github.com/meirwah/awesome-incident-response)
-- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services.
-- [Lockpicking](https://github.com/meitar/awesome-lockpicking) - The art of unlocking a lock by manipulating its components without the key.
+- [Application Security ★3210](lists/paragonie/awesome-appsec#readme.md)
+- [Security ★3371](lists/sbilly/awesome-security#readme.md)
+- [CTF ★2236](lists/apsdehal/awesome-ctf#readme.md) - Capture The Flag.
+- [Malware Analysis ★3659](lists/rshipp/awesome-malware-analysis#readme.md)
+- [Android Security ★3218](lists/ashishb/android-security-awesome#readme.md)
+- [Hacking ★3911](lists/carpedm20/awesome-hacking#readme.md)
+- [Honeypots ★2355](lists/paralax/awesome-honeypots#readme.md) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Incident Response ★1993](lists/meirwah/awesome-incident-response#readme.md)
+- [Vehicle Security and Car Hacking ★871](lists/jaredthecoder/awesome-vehicle-security#readme.md)
+- [Web Security ★1524](lists/qazbnm456/awesome-web-security#readme.md) - Security of web apps & services.
+- [Lockpicking ★250](lists/meitar/awesome-lockpicking#readme.md) - The art of unlocking a lock by manipulating its components without the key.
 
 
 ## Content Management Systems
 
-- [Umbraco](https://github.com/leekelleher/awesome-umbraco)
-- [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms) - Ruby on Rails CMS.
-- [Wagtail](https://github.com/springload/awesome-wagtail) - Django CMS focused on flexibility and user experience.
-- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
-- [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
-- [Craft CMS](https://github.com/craftcms/awesome) - Content-first CMS.
+- [Umbraco ★115](lists/leekelleher/awesome-umbraco#readme.md)
+- [Refinery CMS ★20 ⏳2Y](lists/refinerycms-contrib/awesome-refinerycms#readme.md) - Ruby on Rails CMS.
+- [Wagtail ★515](lists/springload/awesome-wagtail#readme.md) - Django CMS focused on flexibility and user experience.
+- [Textpattern ★37](lists/drmonkeyninja/awesome-textpattern#readme.md) - Lightweight PHP-based CMS.
+- [Drupal ★43](lists/nirgn975/awesome-drupal#readme.md) - Extensible PHP-based CMS.
+- [Craft CMS ★226](lists/craftcms/awesome#readme.md) - Content-first CMS.
 
 
 ## Hardware
 
-- [Robotics](https://github.com/Kiloreux/awesome-robotics)
-- [Internet of Things](https://github.com/HQarroum/awesome-iot)
-- [Electronics](https://github.com/monostable/awesome-electronics) - For electronic engineers and hobbyists.
-- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
-- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
+- [Robotics ★897](lists/Kiloreux/awesome-robotics#readme.md)
+- [Internet of Things ★1103](lists/HQarroum/awesome-iot#readme.md)
+- [Electronics ★2371](lists/monostable/awesome-electronics#readme.md) - For electronic engineers and hobbyists.
+- [Bluetooth Beacons ★538](lists/beaconinside/awesome-beacon#readme.md)
+- [Electric Guitar Specifications ★52](lists/gitfrage/guitarspecs#readme.md) - Checklist for building your own electric guitar.
 
 
 ## Business
 
-- [Open Companies](https://github.com/opencompany/awesome-open-company)
-- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
-- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) - Leading people and being a manager in a technology company/environment.
-- [Indie](https://github.com/mezod/awesome-indie) - Independent developer businesses.
+- [Open Companies ★239](lists/opencompany/awesome-open-company#readme.md)
+- [Places to Post Your Startup ★2845](lists/mmccaff/PlacesToPostYourStartup#readme.md)
+- [OKR Methodology ★407](lists/domenicosolazzo/awesome-okr#readme.md) - Goal setting & communication best practices.
+- [Leading and Managing ★1322](lists/LappleApple/awesome-leading-and-managing#readme.md) - Leading people and being a manager in a technology company/environment.
+- [Indie ★4605](lists/mezod/awesome-indie#readme.md) - Independent developer businesses.
 
 
 ## Work
 
-- [Slack](https://github.com/matiassingers/awesome-slack) - Team collaboration.
-	- [Communities](https://github.com/filipelinhares/awesome-slack)
-- [Remote Jobs ★11963](lists/lukasz-madon/awesome-remote-job.md)
-- [Productivity](https://github.com/jyguyomarch/awesome-productivity)
-- [Niche Job Boards](https://github.com/tramcar/awesome-job-boards)
-- [Programming Interviews ★19445](lists/MaximAbramchuck/awesome-interview-questions.md)
+- [Slack ★559](lists/matiassingers/awesome-slack#readme.md) - Team collaboration.
+	- [Communities ★224](lists/filipelinhares/awesome-slack#readme.md)
+- [Remote Jobs ★11995](lists/lukasz-madon/awesome-remote-job#readme.md)
+- [Productivity ★408](lists/jyguyomarch/awesome-productivity#readme.md)
+- [Niche Job Boards ★223](lists/tramcar/awesome-job-boards#readme.md)
+- [Programming Interviews ★19516](lists/MaximAbramchuck/awesome-interview-questions#readme.md)
 
 
 ## Networking
 
-- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
-- [Network Analysis ★1044](lists/briatte/awesome-network-analysis.md)
-- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
+- [Software-Defined Networking ★348](lists/sdnds-tw/awesome-sdn#readme.md)
+- [Network Analysis ★1070](lists/briatte/awesome-network-analysis#readme.md)
+- [PCAPTools ★1258](lists/caesar0301/awesome-pcaptools#readme.md)
 
 ## Decentralized Systems
 
-- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - Bitcoin services and tools for software developers.
-- [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
-- [Mastodon](https://github.com/tleb/awesome-mastodon) - Open source decentralized microblogging network.
+- [Bitcoin ★497](lists/igorbarinov/awesome-bitcoin#readme.md) - Bitcoin services and tools for software developers.
+- [Ripple ★111](lists/vhpoet/awesome-ripple#readme.md) - Open source distributed settlement network.
+- [Non-Financial Blockchain ★353](lists/machinomy/awesome-non-financial-blockchain#readme.md) - Non-financial blockchain applications.
+- [Mastodon ★90](lists/tleb/awesome-mastodon#readme.md) - Open source decentralized microblogging network.
 
 ## Miscellaneous
 
-- [JSON](https://github.com/burningtree/awesome-json) - Text based data interchange format.
-	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
-	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
-- [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev)
-- [Conferences](https://github.com/RichardLitt/awesome-conferences)
-- [Sysadmin ★6727](lists/n1trux/awesome-sysadmin.md)
-- [Radio](https://github.com/kyleterry/awesome-radio)
-- [Awesome ★87749](https://github.com/sindresorhus/awesome) - Recursion illustrated.
-- [Analytics ★1058](lists/onurakpolat/awesome-analytics.md)
-- [REST ★1755](lists/marmelab/awesome-rest.md)
-- [Selenium ★351](lists/christian-bromann/awesome-selenium.md)
-- [Appium](https://github.com/SrinivasanTarget/awesome-appium) - Test automation tool for apps.
-- [Continuous Integration and Continuous Delivery ★683](lists/ciandcd/awesome-ciandcd.md)
-- [Services Engineering ★2568 ⏳2Y](lists/mmcgrana/services-engineering.md)
-- [Free for Developers](https://github.com/ripienaar/free-for-dev)
-- [Answers](https://github.com/cyberglot/awesome-answers) - Stack Overflow, Quora, etc.
-- [Sketch](https://github.com/diessica/awesome-sketch) - Design app for macOS.
-- [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
-- [Readme](https://github.com/matiassingers/awesome-readme)
-- [Tools ★7194](lists/cjbarber/ToolsOfTheTrade.md)
-- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
-- [Design and Development Guides](https://github.com/NARKOZ/guides)
-- [Software Engineering Blogs ★13114](lists/kilimchoi/engineering-blogs.md)
-- [Self Hosted ★23808](lists/Kickball/awesome-selfhosted.md)
-- [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
-- [Gulp](https://github.com/alferov/awesome-gulp) - Task runner.
-- [AMA](https://github.com/sindresorhus/amas) - Ask Me Anything.
-	- [Answers](https://github.com/stoeffel/awesome-ama-answers)
-- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
-- [OpenGL ★842](lists/eug/awesome-opengl.md) - Cross-platform API for rendering 2D and 3D graphics.
-- [GraphQL](https://github.com/chentsulin/awesome-graphql)
-- [Transit](https://github.com/CUTR-at-USF/awesome-transit)
-- [Research Tools](https://github.com/emptymalei/awesome-research)
-- [Data Visualization ★1665](lists/fasouto/awesome-dataviz.md)
-- [Social Media Share Links](https://github.com/vinkla/shareable-links)
-- [Microservices ★6123](lists/mfornos/awesome-microservices.md)
-- [Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode standards, quirks, packages and resources.
-	- [Code Points](https://github.com/Codepoints/awesome-codepoints)
-- [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
-- [Katas](https://github.com/gamontal/awesome-katas)
-- [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
-- [Citizen Science](https://github.com/dylanrees/citizen-science) - For community-based and non-institutional scientists.
-- [TAP ★420](lists/sindresorhus/awesome-tap.md) - Test Anything Protocol.
-- [MQTT](https://github.com/hobbyquaker/awesome-mqtt) - "Internet of Things" connectivity protocol.
-- [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
-- [For Girls](https://github.com/cristianoliveira/awesome4girls)
-- [Vorpal](https://github.com/vorpaljs/awesome-vorpal) - Node.js CLI framework.
-- [Vulkan ★858](lists/vinjn/awesome-vulkan.md) - Low-overhead, cross-platform 3D graphics and compute API.
-- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Typesetting language.
-- [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit.
-- [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
-- [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
-- [Colorful](https://github.com/Siddharth11/Colorful) - Choose your next color scheme.
-- [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
-- [Bots](https://github.com/hackerkid/bots) - Building bots.
-- [Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
-- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - Building and promoting more compassionate engineering cultures.
-- [DTrace](https://github.com/xen0l/awesome-dtrace) - Dynamic tracing framework.
-- [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
-- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat.
-- [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
-- [Domain-Driven Design ★2831](lists/heynickc/awesome-ddd.md) - Software development approach for complex needs by connecting the implementation to an evolving model.
-- [Quantified Self](https://github.com/woop/awesome-quantified-self) - Self-tracking through technology.
-- [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
-- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
-- [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
-- [Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Programming something expressive instead of something functional.
-- [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web apps that work without login.
-- [Testing ★183](lists/TheJambo/awesome-testing.md) - Software testing.
-- [Free Software](https://github.com/johnjago/awesome-free-software) - Free as in freedom.
-- [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
-- [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
-- [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun) - Funny developer projects.
-- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events) - Tech-related events in the Netherlands.
-- [Healthcare](https://github.com/kakoni/awesome-healthcare) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
-- [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - Open Source eCommerce built with PHP.
-- [TikZ](https://github.com/xiaohanyu/awesome-tikz) - Graph drawing packages for TeX/LaTeX/ConTeXt.
-- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Study of the nervous system and brain.
-- [Ad-Free](https://github.com/johnjago/awesome-ad-free) - Ad-free alternatives.
-- [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
-- [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system.
-- [Homematic](https://github.com/hobbyquaker/awesome-homematic) - Smart home devices.
-- [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
-- [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works.
-- [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
-- [Diversity](https://github.com/folkswhocode/awesome-diversity) - Creating a more inclusive and diverse tech community.
-- [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters) - Companies that offer their tools and services for free to open source projects.
-- [Design Principles](https://github.com/robinstickel/awesome-design-principles) - Create better and more consistent designs and experiences.
-- [Visual Regression Testing ★497](lists/mojoaxel/awesome-regression-testing.md) - Ensures changes did not break the functionality or style.
-- [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
-- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
+- [JSON ★644](lists/burningtree/awesome-json#readme.md) - Text based data interchange format.
+	- [GeoJSON ★753](lists/tmcw/awesome-geojson#readme.md)
+	- [Datasets ★1194](lists/jdorfman/awesome-json-datasets#readme.md)
+- [Discounts for Student Developers ★1103](lists/AchoArnold/discount-for-student-dev#readme.md)
+- [Conferences ★669](lists/RichardLitt/awesome-conferences#readme.md)
+- [Sysadmin ★6844](lists/n1trux/awesome-sysadmin#readme.md)
+- [Radio ★102](lists/kyleterry/awesome-radio#readme.md)
+- [Awesome ★88379](lists/sindresorhus/awesome#readme.md) - Recursion illustrated.
+- [Analytics ★1071](lists/onurakpolat/awesome-analytics#readme.md)
+- [REST ★1787](lists/marmelab/awesome-rest#readme.md)
+- [Selenium ★357](lists/christian-bromann/awesome-selenium#readme.md)
+- [Appium ★141](lists/SrinivasanTarget/awesome-appium#readme.md) - Test automation tool for apps.
+- [Continuous Integration and Continuous Delivery ★697](lists/ciandcd/awesome-ciandcd#readme.md)
+- [Services Engineering ★2594 ⏳2Y](lists/mmcgrana/services-engineering#readme.md)
+- [Free for Developers ★18775](lists/ripienaar/free-for-dev#readme.md)
+- [Answers ★551 ⏳1Y](lists/cyberglot/awesome-answers#readme.md) - Stack Overflow, Quora, etc.
+- [Sketch ★658](lists/diessica/awesome-sketch#readme.md) - Design app for macOS.
+- [Boilerplate Projects ★615](lists/melvin0008/awesome-projects-boilerplates#readme.md)
+- [Readme ★2766](lists/matiassingers/awesome-readme#readme.md)
+- [Tools ★7217](lists/cjbarber/ToolsOfTheTrade#readme.md)
+- [Styleguides ★490](lists/RichardLitt/awesome-styleguides#readme.md)
+- [Design and Development Guides ★1489](lists/NARKOZ/guides#readme.md)
+- [Software Engineering Blogs ★13178](lists/kilimchoi/engineering-blogs#readme.md)
+- [Self Hosted ★24379](lists/Kickball/awesome-selfhosted#readme.md)
+- [FOSS Production Apps ★124](lists/jwaterfaucett/awesome-foss-apps#readme.md)
+- [Gulp ★425](lists/alferov/awesome-gulp#readme.md) - Task runner.
+- [AMA ★976](lists/sindresorhus/amas#readme.md) - Ask Me Anything.
+	- [Answers ★104 ⏳2Y](lists/stoeffel/awesome-ama-answers#readme.md)
+- [Open Source Photography ★167](lists/ibaaj/awesome-OpenSourcePhotography#readme.md)
+- [OpenGL ★849](lists/eug/awesome-opengl#readme.md) - Cross-platform API for rendering 2D and 3D graphics.
+- [GraphQL ★7568](lists/chentsulin/awesome-graphql#readme.md)
+- [Transit ★382](lists/CUTR-at-USF/awesome-transit#readme.md)
+- [Research Tools ★441](lists/emptymalei/awesome-research#readme.md)
+- [Data Visualization ★1687](lists/fasouto/awesome-dataviz#readme.md)
+- [Social Media Share Links ★107](lists/vinkla/shareable-links#readme.md)
+- [Microservices ★6242](lists/mfornos/awesome-microservices#readme.md)
+- [Unicode ★449](lists/jagracey/Awesome-Unicode#readme.md) - Unicode standards, quirks, packages and resources.
+	- [Code Points ★191](lists/Codepoints/awesome-codepoints#readme.md)
+- [Beginner-Friendly Projects ★5703](lists/MunGell/awesome-for-beginners#readme.md)
+- [Katas ★442](lists/gamontal/awesome-katas#readme.md)
+- [Tools for Activism ★720](lists/drewrwilson/toolsforactivism#readme.md)
+- [Citizen Science ★63](lists/dylanrees/citizen-science#readme.md) - For community-based and non-institutional scientists.
+- [TAP ★423](lists/sindresorhus/awesome-tap#readme.md) - Test Anything Protocol.
+- [MQTT ★523](lists/hobbyquaker/awesome-mqtt#readme.md) - "Internet of Things" connectivity protocol.
+- [Hacking Spots ★628](lists/diasdavid/awesome-hacking-spots#readme.md)
+- [For Girls ★245](lists/cristianoliveira/awesome4girls#readme.md)
+- [Vorpal ★111](lists/vorpaljs/awesome-vorpal#readme.md) - Node.js CLI framework.
+- [Vulkan ★873](lists/vinjn/awesome-vulkan#readme.md) - Low-overhead, cross-platform 3D graphics and compute API.
+- [LaTeX ★281](lists/egeerardyn/awesome-LaTeX#readme.md) - Typesetting language.
+- [Economics ★312](lists/antontarasenko/awesome-economics#readme.md) - An economist's starter kit.
+- [Funny Markov Chains ★115](lists/sublimino/awesome-funny-markov#readme.md)
+- [Bioinformatics ★497](lists/danielecook/Awesome-Bioinformatics#readme.md)
+- [Colorful ★419](lists/Siddharth11/Colorful#readme.md) - Choose your next color scheme.
+- [Steam ★215](lists/scholtzm/awesome-steam#readme.md) - Digital distribution platform.
+- [Bots ★683](lists/hackerkid/bots#readme.md) - Building bots.
+- [Site Reliability Engineering ★2112](lists/dastergon/awesome-sre#readme.md)
+- [Empathy in Engineering ★327 ⏳1Y](lists/KimberlyMunoz/empathy-in-engineering#readme.md) - Building and promoting more compassionate engineering cultures.
+- [DTrace ★77](lists/xen0l/awesome-dtrace#readme.md) - Dynamic tracing framework.
+- [Userscripts ★248](lists/brunocvcunha/awesome-userscripts#readme.md) - Enhance your browsing experience.
+- [Pokémon ★340](lists/tobiasbueschel/awesome-pokemon#readme.md) - Pokémon and Pokémon GO.
+- [ChatOps ★366](lists/exAspArk/awesome-chatops#readme.md) - Managing technical and business operations through a chat.
+- [Falsehood ★7438](lists/kdeldycke/awesome-falsehood#readme.md) - Falsehoods programmers believe in.
+- [Domain-Driven Design ★2893](lists/heynickc/awesome-ddd#readme.md) - Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Quantified Self ★268](lists/woop/awesome-quantified-self#readme.md) - Self-tracking through technology.
+- [SaltStack ★137](lists/hbokh/awesome-saltstack#readme.md) - Python-based config management system.
+- [Web Design ★694](lists/nicolesaidy/awesome-web-design#readme.md) - For digital designers.
+- [JMeter ★155](lists/aliesbelik/awesome-jmeter#readme.md) - Load testing and performance measurement tool.
+- [Creative Coding ★3726](lists/terkelg/awesome-creative-coding#readme.md) - Programming something expressive instead of something functional.
+- [No-Login Web Apps ★594](lists/aviaryan/awesome-no-login-web-apps#readme.md) - Web apps that work without login.
+- [Testing ★187](lists/TheJambo/awesome-testing#readme.md) - Software testing.
+- [Free Software ★193](lists/johnjago/awesome-free-software#readme.md) - Free as in freedom.
+- [Framer ★420](lists/podo/awesome-framer#readme.md) - Prototyping interactive UI designs.
+- [Markdown ★193](lists/BubuAnabelas/awesome-markdown#readme.md) - Markup language.
+- [Dev Fun ★186](lists/mislavcimpersak/awesome-dev-fun#readme.md) - Funny developer projects.
+- [Events in the Netherlands ★28 ⏳1Y](lists/awkward/awesome-netherlands-events#readme.md) - Tech-related events in the Netherlands.
+- [Healthcare ★420](lists/kakoni/awesome-healthcare#readme.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
+- [Magento 2 ★406](lists/DavidLambauer/awesome-magento2#readme.md) - Open Source eCommerce built with PHP.
+- [TikZ ★203 ⏳1Y](lists/xiaohanyu/awesome-tikz#readme.md) - Graph drawing packages for TeX/LaTeX/ConTeXt.
+- [Neuroscience ★322](lists/analyticalmonk/awesome-neuroscience#readme.md) - Study of the nervous system and brain.
+- [Ad-Free ★123](lists/johnjago/awesome-ad-free#readme.md) - Ad-free alternatives.
+- [Esolangs ★115](lists/angrykoala/awesome-esolangs#readme.md) - Programming languages designed for experimentation or as jokes rather than actual use.
+- [Prometheus ★203](lists/roaldnefs/awesome-prometheus#readme.md) - Open-source monitoring system.
+- [Homematic ★29](lists/hobbyquaker/awesome-homematic#readme.md) - Smart home devices.
+- [Ledger ★36](lists/sfischer13/awesome-ledger#readme.md) - Double-entry accounting on the command-line.
+- [Uncopyright ★178](lists/johnjago/awesome-uncopyright#readme.md) - Public domain works.
+- [Crypto Currency Tools & Algorithms ★2819](lists/kennethreitz/awesome-coins#readme.md) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
+- [Diversity ★292](lists/folkswhocode/awesome-diversity#readme.md) - Creating a more inclusive and diverse tech community.
+- [Open Source Supporters ★303](lists/zachflower/awesome-open-source-supporters#readme.md) - Companies that offer their tools and services for free to open source projects.
+- [Design Principles ★124](lists/robinstickel/awesome-design-principles#readme.md) - Create better and more consistent designs and experiences.
+- [Visual Regression Testing ★536](lists/mojoaxel/awesome-regression-testing#readme.md) - Ensures changes did not break the functionality or style.
+- [Theravada ★50](lists/johnjago/awesome-theravada#readme.md) - Teachings from the Theravada Buddhist tradition.
+- [inspectIT ★7](lists/inspectit-labs/awesome-inspectit#readme.md) - Open source Java app performance management tool.
 
 
 ## License
