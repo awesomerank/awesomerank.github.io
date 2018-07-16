@@ -364,7 +364,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [GitHub ★379](lists/phillipadsmith/awesome-github#readme.md) - Hosting service for Git repositories.
 	- [Browser Extensions ★1205](lists/stefanbuck/awesome-browser-extensions-for-github#readme.md)
 	- [Cheat Sheet ★25360](lists/tiimgreen/github-cheat-sheet#readme.md)
-- [Git Cheat Sheet & Git Flow ★1949](lists/arslanbilal/git-cheat-sheet#readme.md)
+- [Git Cheat Sheet & Git Flow ★1949 ⏳1Y](lists/arslanbilal/git-cheat-sheet#readme.md)
 - [Git Tips ★13268](lists/git-tips/tips#readme.md)
 - [Git Add-ons ★724](lists/stevemao/awesome-git-addons#readme.md) - Enhance the `git` CLI.
 - [SSH ★867](lists/moul/awesome-ssh#readme.md)
@@ -551,7 +551,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Bots ★683](lists/hackerkid/bots#readme.md) - Building bots.
 - [Site Reliability Engineering ★2112](lists/dastergon/awesome-sre#readme.md)
 - [Empathy in Engineering ★327 ⏳1Y](lists/KimberlyMunoz/empathy-in-engineering#readme.md) - Building and promoting more compassionate engineering cultures.
-- [DTrace ★77](lists/xen0l/awesome-dtrace#readme.md) - Dynamic tracing framework.
+- [DTrace ★77 ⏳1Y](lists/xen0l/awesome-dtrace#readme.md) - Dynamic tracing framework.
 - [Userscripts ★248](lists/brunocvcunha/awesome-userscripts#readme.md) - Enhance your browsing experience.
 - [Pokémon ★340](lists/tobiasbueschel/awesome-pokemon#readme.md) - Pokémon and Pokémon GO.
 - [ChatOps ★366](lists/exAspArk/awesome-chatops#readme.md) - Managing technical and business operations through a chat.
