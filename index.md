@@ -550,7 +550,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Steam ★215](lists/scholtzm/awesome-steam#readme.md) - Digital distribution platform.
 - [Bots ★683](lists/hackerkid/bots#readme.md) - Building bots.
 - [Site Reliability Engineering ★2112](lists/dastergon/awesome-sre#readme.md)
-- [Empathy in Engineering ★327 ⏳1Y](lists/KimberlyMunoz/empathy-in-engineering#readme.md) - Building and promoting more compassionate engineering cultures.
+- [Empathy in Engineering ★327 ⏳2Y](lists/KimberlyMunoz/empathy-in-engineering#readme.md) - Building and promoting more compassionate engineering cultures.
 - [DTrace ★77 ⏳1Y](lists/xen0l/awesome-dtrace#readme.md) - Dynamic tracing framework.
 - [Userscripts ★248](lists/brunocvcunha/awesome-userscripts#readme.md) - Enhance your browsing experience.
 - [Pokémon ★340](lists/tobiasbueschel/awesome-pokemon#readme.md) - Pokémon and Pokémon GO.
