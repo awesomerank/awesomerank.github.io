@@ -93,6 +93,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [macOS ★7826](lists/iCHAIT/awesome-macOS#readme.md)
 	- [Command-Line ★19390](lists/herrbischoff/awesome-macos-command-line#readme.md)
 	- [Screensavers ★1041](lists/agarrharr/awesome-macos-screensavers#readme.md)
+	- [Apps ★20019](lists/jaywcjlove/awesome-mac#readme.md)
 - [watchOS ★347](lists/yenchenlin/awesome-watchos#readme.md) - Operating system for the Apple Watch.
 - [JVM ★869](lists/deephacks/awesome-jvm#readme.md)
 - [Salesforce ★251](lists/mailtoharshit/awesome-salesforce#readme.md)
@@ -109,6 +110,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [GNOME ★210](lists/Kazhnuz/awesome-gnome#readme.md) - Simple and distraction-free desktop environment for Linux.
 - [.NET ★7034](lists/quozd/awesome-dotnet#readme.md)
 	- [Core ★5345](lists/thangchung/awesome-dotnet-core#readme.md)
+- [Amazon Alexa ★299](lists/miguelmota/awesome-amazon-alexa#readme.md) - Virtual home assistant.
 
 
 ## Programming Languages
@@ -266,6 +268,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Apache Wicket ★36 ⏳2Y](lists/PhantomYdn/awesome-wicket#readme.md) - Java web app framework.
 - [Vert.x ★878](lists/vert-x3/vertx-awesome#readme.md) - Toolkit for building reactive apps on the JVM.
 - [Terraform ★418](lists/shuaibiyy/awesome-terraform#readme.md) - Tool for building, changing, and versioning infrastructure.
+- [Vapor ★215](lists/Cellane/awesome-vapor#readme.md) - Server-side development in Swift.
 
 
 ## Computer Science
@@ -415,7 +418,7 @@ title: Awesome Rank for sindresorhus/awesome
 
 ## Learn
 
-- [CLI Workshoppers ★365 ⏳1Y](lists/therebelrobot/awesome-workshopper#readme.md) - Interactive tutorials.
+- [CLI Workshoppers ★365 ⏳2Y](lists/therebelrobot/awesome-workshopper#readme.md) - Interactive tutorials.
 - [Learn to Program ★488](lists/karlhorky/learn-to-program#readme.md)
 - [Speaking ★677](lists/matteofigus/awesome-speaking#readme.md)
 - [Tech Videos ★316 ⏳1Y](lists/lucasviola/awesome-tech-videos#readme.md)
@@ -477,6 +480,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Productivity ★408](lists/jyguyomarch/awesome-productivity#readme.md)
 - [Niche Job Boards ★223](lists/tramcar/awesome-job-boards#readme.md)
 - [Programming Interviews ★19516](lists/MaximAbramchuck/awesome-interview-questions#readme.md)
+- [Code Review ★280](lists/joho/awesome-code-review#readme.md) - Reviewing code.
 
 
 ## Networking
@@ -586,6 +590,9 @@ title: Awesome Rank for sindresorhus/awesome
 - [Visual Regression Testing ★536](lists/mojoaxel/awesome-regression-testing#readme.md) - Ensures changes did not break the functionality or style.
 - [Theravada ★50](lists/johnjago/awesome-theravada#readme.md) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT ★7](lists/inspectit-labs/awesome-inspectit#readme.md) - Open source Java app performance management tool.
+- [Open Source Maintainers ★533](lists/nayafia/awesome-maintainers#readme.md) - The experience of being an open source maintainer.
+- [Calculators ★12](lists/xxczaki/awesome-calculators#readme.md) - Calculators for every platform.
+- [Captcha ★34](lists/ZYSzys/awesome-captcha#readme.md) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 
 ## License
