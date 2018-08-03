@@ -136,6 +136,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Python ★52128](lists/vinta/awesome-python#readme.md)
 	- [Asyncio ★709](lists/timofurrer/awesome-asyncio#readme.md) - Asynchronous I/O in Python 3.
 	- [Scientific Audio ★302](lists/faroit/awesome-python-scientific-audio#readme.md) - Scientific research in audio/music.
+  - [CircuitPython ★62](lists/adafruit/awesome-circuitpython#readme.md) - A version of Python for microcontrollers.
 - [Rust ★7416](lists/rust-unofficial/awesome-rust#readme.md)
 - [Haskell ★1503](lists/krispo/awesome-haskell#readme.md)
 - [PureScript ★200](lists/passy/awesome-purescript#readme.md)
