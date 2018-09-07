@@ -142,7 +142,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Python ★54456](lists/vinta/awesome-python#readme.md)
 	- [Asyncio ★874](lists/timofurrer/awesome-asyncio#readme.md) - Asynchronous I/O in Python 3.
 	- [Scientific Audio ★352](lists/faroit/awesome-python-scientific-audio#readme.md) - Scientific research in audio/music.
-	- [CircuitPython ★62](lists/adafruit/awesome-circuitpython#readme.md) - A version of Python for microcontrollers.
+	- [CircuitPython ★74](lists/adafruit/awesome-circuitpython#readme.md) - A version of Python for microcontrollers.
 - [Rust ★7880](lists/rust-unofficial/awesome-rust#readme.md)
 - [Haskell ★1563](lists/krispo/awesome-haskell#readme.md)
 - [PureScript ★217](lists/passy/awesome-purescript#readme.md)
@@ -206,7 +206,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [KnockoutJS ★76](lists/dnbard/awesome-knockout#readme.md)
 - [Dojo Toolkit ★62 ⏳1Y](lists/petk/awesome-dojo#readme.md)
 - [Inspiration ★656](lists/NoahBuscher/Inspire#readme.md)
-- [Ember ★270](lists/nmec/awesome-ember#readme.md) - App framework.
+- [Ember ★270 ⏳1Y](lists/nmec/awesome-ember#readme.md) - App framework.
 - [Android UI ★31618](lists/wasabeef/awesome-android-ui#readme.md)
 - [iOS UI ★10416](lists/cjwirth/awesome-ios-ui#readme.md)
 - [Meteor ★1260](lists/Urigo/awesome-meteor#readme.md)
@@ -534,7 +534,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps#readme)
 - [Gulp ★448](lists/alferov/awesome-gulp#readme.md) - Task runner.
 - [AMA ★995](lists/sindresorhus/amas#readme.md) - Ask Me Anything.
-	- [Answers ★105 ⏳2Y](lists/stoeffel/awesome-ama-answers#readme.md)
+	- [Answers ★105 ⏳3Y](lists/stoeffel/awesome-ama-answers#readme.md)
 - [Open Source Photography ★175](lists/ibaaj/awesome-OpenSourcePhotography#readme.md)
 - [OpenGL ★877](lists/eug/awesome-opengl#readme.md) - Cross-platform API for rendering 2D and 3D graphics.
 - [GraphQL ★8011](lists/chentsulin/awesome-graphql#readme.md)
