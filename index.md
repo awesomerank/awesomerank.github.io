@@ -527,7 +527,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Services Engineering ★2658 ⏳3Y](lists/mmcgrana/services-engineering#readme.md)
 - [Free for Developers ★21930](lists/ripienaar/free-for-dev#readme.md)
 - [Answers ★567 ⏳1Y](lists/cyberglot/awesome-answers#readme.md) - Stack Overflow, Quora, etc.
-- [Sketch ★677](lists/diessica/awesome-sketch#readme.md) - Design app for macOS.
+- [Sketch ★677 ⏳1Y](lists/diessica/awesome-sketch#readme.md) - Design app for macOS.
 - [Boilerplate Projects ★655](lists/melvin0008/awesome-projects-boilerplates#readme.md)
 - [Readme ★3535](lists/matiassingers/awesome-readme#readme.md)
 - [Tools ★13805](lists/cjbarber/ToolsOfTheTrade#readme.md)
