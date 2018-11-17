@@ -602,7 +602,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Design Principles ★172](lists/robinstickel/awesome-design-principles#readme.md) - Create better and more consistent designs and experiences.
 - [Visual Regression Testing ★675](lists/mojoaxel/awesome-regression-testing#readme.md) - Ensures changes did not break the functionality or style.
 - [Theravada ★61](lists/johnjago/awesome-theravada#readme.md) - Teachings from the Theravada Buddhist tradition.
-- [inspectIT ★8](lists/inspectit-labs/awesome-inspectit#readme.md) - Open source Java app performance management tool.
+- [inspectIT ★8 ⏳1Y](lists/inspectit-labs/awesome-inspectit#readme.md) - Open source Java app performance management tool.
 - [Open Source Maintainers ★735](lists/nayafia/awesome-maintainers#readme.md) - The experience of being an open source maintainer.
 - [Calculators ★24](lists/xxczaki/awesome-calculators#readme.md) - Calculators for every platform.
 - [Captcha ★66](lists/ZYSzys/awesome-captcha#readme.md) - A type of challenge–response test used in computing to determine whether or not the user is human.
